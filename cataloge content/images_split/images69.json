@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "3f4e9571-d622-4379-bed3-b129d87a7877",
+            "image": null,
+            "name": "Husqvarna TE 450",
+            "description": "The Husqvarna TE 450 is an off-road motorcycle designed for enduro riding, showcasing powerful performance, lightweight construction, and advanced suspension technology suited for challenging terrains.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4ac8e2a2-a526-429f-a9fb-79e04e32e539",
+            "image": null,
+            "name": "Husqvarna SM 450 R",
+            "description": "The Husqvarna SM 450 R is a lightweight, high-performance supermoto motorcycle designed for both on-road and off-road use, featuring an agile chassis and powerful engine.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "59ef8809-8cfb-4e0a-b068-ddc8fe306743",
+            "image": null,
+            "name": "Husqvarna Motorcycles Wr125",
+            "description": "The Husqvarna Motorcycles WR125 is a lightweight, off-road motorcycle designed for both novice and experienced riders, offering agility and performance in varied terrains.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "5ab417ee-60b6-477f-86c4-337a16c228db",
+            "image": null,
+            "name": "Husqvarna Motorcycles Te450",
+            "description": "The Husqvarna Motorcycles Te450 is a powerful off-road motorcycle designed for trail and enduro riding, known for its agility, lightweight construction, and robust performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "690973a5-1e4e-43c0-b68f-f11ecefd1854",
+            "image": null,
+            "name": "LEGO 21057 Great Pyramid of Giza",
+            "description": "The LEGO 21057 Great Pyramid of Giza is a detailed architectural model that allows builders to recreate one of the Seven Wonders of the Ancient World. This set features intricate elements that highlight the structure's grandeur and historical significance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "d9f4515f-011c-4dc0-9a74-b1d2a03955ff",
+            "image": null,
+            "name": "Volvo XC70 (third generation update)",
+            "description": "The Volvo XC70 (third generation update) is a versatile crossover wagon known for its combination of ruggedness and comfort, catering to families and outdoor enthusiasts with its spacious interior and all-wheel drive capability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6e736b2b-971f-4ec0-a6f9-109c9e3eee9e",
+            "image": null,
+            "name": "Opel Astra (H)",
+            "description": "The Opel Astra (H) is a compact car produced by Opel, known for its practicality, efficient performance, and comfortable design, catering to a wide range of drivers' needs.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "7ec3c19a-2c8a-4f73-84f3-380072db9fc8",
+            "image": null,
+            "name": "Dell Inspiron 3000 Series",
+            "description": "The Dell Inspiron 3000 Series offers a range of versatile laptops designed for everyday use, combining reliable performance with essential features suitable for both work and entertainment.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "8224ec28-b1d2-47b0-b0ef-8772f448d15e",
+            "image": null,
+            "name": "BMW 2 Series Gran Coupe",
+            "description": "The BMW 2 Series Gran Coupe is a compact four-door coupe designed to offer a combination of sporty performance, stylish design, and advanced technology. It aims to provide an engaging driving experience with its rear-wheel-drive architecture and sophisticated driving dynamics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "da6fd193-fe80-4ccc-9127-2c8f2612c5e4",
+            "image": null,
+            "name": "Volkswagen Passat",
+            "description": "The Volkswagen Passat is a mid-size car designed for comfort and efficiency, offering a blend of innovative technology and spacious interior for family and business use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "a8314bb9-704c-4cd9-9830-2e740b8a21dd",
+            "image": null,
+            "name": "Dell G5 15",
+            "description": "The Dell G5 15 is a gaming laptop series designed for immersive gameplay and efficient multitasking, featuring robust graphics and processing capabilities suited for gamers and content creators alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "ebc3f80f-957f-40f3-99ea-c2a565e44575",
+            "image": null,
+            "name": "Hero Hunk",
+            "description": "The Hero Hunk is a motorcycle series launched by Hero MotoCorp in 2006, designed for urban commuting with a sporty style and reliable performance.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "f5cb8c83-5c4c-405a-8e06-bbecfc0156de",
+            "image": null,
+            "name": "Hero Honda Karizma",
+            "description": "The Hero Honda Karizma is a powerful motorcycle launched in 2003, known for its sporty design and robust performance, catering to enthusiasts seeking an engaging riding experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "fa679401-23f2-4741-9ab6-3dfda527945a",
+            "image": null,
+            "name": "iPhone 13 Mini",
+            "description": "The iPhone 13 Mini is a compact smartphone released by Apple in 2021, featuring advanced technology and performance in a smaller form factor.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "a89224e2-46bc-4374-8eda-45534a837619",
+            "image": null,
+            "name": "Arai Quantum",
+            "description": "The Arai Quantum series is a line of motorcycle helmets designed for advanced protection, comfort, and aerodynamics, catering to serious riders seeking a balance of performance and safety.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "ff85dfb5-6c20-47f7-986e-6e508090ea8a",
+            "image": null,
+            "name": "Volkswagen Golf",
+            "description": "The Volkswagen Golf is a compact car first introduced in 1974, known for its versatility, performance, and practicality, making it a popular choice among drivers worldwide.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "cb63155e-154b-4625-8930-cd148f0c17ab",
+            "image": null,
+            "name": "Chevrolet Camaro (ZL1 1LE edition)",
+            "description": "The Chevrolet Camaro ZL1 1LE edition is a high-performance sports car known for its powerful engine, enhanced aerodynamics, and track-ready capabilities. It is designed for enthusiasts seeking a blend of everyday drivability and exceptional performance on the racetrack.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "e8e11d66-2c6a-4186-a447-1edb8f8e2237",
+            "image": null,
+            "name": "2016 Haro Boulevard",
+            "description": "The 2016 Haro Boulevard series features versatile BMX bikes designed for street riding and freestyle performance, offering durability and style for riders of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "cf7869a1-e703-481b-8f05-2caa32266390",
+            "image": null,
+            "name": "Ford Explorer (Fourth Generation)",
+            "description": "The Ford Explorer (Fourth Generation) is a mid-size SUV designed for family use and outdoor adventures, featuring spacious interiors and various engine options for versatility and comfort.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "11069359-9e8a-4541-b57c-e9f541f0e7b3",
+            "image": null,
+            "name": "Polo",
+            "description": "The Volkswagen Polo is a compact car known for its blend of style, performance, and practicality, designed to provide an enjoyable driving experience in urban environments.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "233621f9-e0be-444c-9b1a-bd656d645e3f",
+            "image": null,
+            "name": "Philips TAPH802",
+            "description": "The Philips TAPH802 headphones are designed to offer high-quality sound and a comfortable fit for an enhanced listening experience, making them suitable for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "298c179d-0355-4f95-8ca5-6c4ece23f781",
+            "image": null,
+            "name": "Yoga 920",
+            "description": "The Lenovo Yoga 920 is a versatile 2-in-1 laptop designed for productivity and entertainment, featuring a flexible hinge that allows for multiple usage modes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "2c5cbd71-86d2-4dc7-93d3-9f659aa3fc1f",
+            "image": null,
+            "name": "Opel Zafira (B)",
+            "description": "The Opel Zafira (B) is a compact multi-purpose vehicle (MPV) designed for family use, offering spacious seating and versatile cargo configurations.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "516e7046-a2cb-4c6f-8275-454b2cd4a1d4",
+            "image": null,
+            "name": "Sony WF-1000XM5",
+            "description": "The Sony WF-1000XM5 are true wireless noise-cancelling headphones released in 2023, known for their superior sound quality, advanced noise cancellation technology, and comfortable fit.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "52e93e6c-6e99-48cc-b2c0-044c2dd3c6fe",
+            "image": null,
+            "name": "Husqvarna TXC 250",
+            "description": "The Husqvarna TXC 250 is a lightweight enduro motorcycle designed for off-road performance, offering agility and precision on rugged terrain.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "5aae547c-83d7-4958-b69e-b1cfe5e961c9",
+            "image": null,
+            "name": "Chevrolet Trax (Facelift)",
+            "description": "The Chevrolet Trax (Facelift) is a compact SUV designed for urban mobility, offering a blend of versatility and modern features for drivers seeking practicality in city environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "eb3914dc-e46c-4064-bd72-b5dd30542e8d",
+            "image": null,
+            "name": "Husqvarna SMR 511",
+            "description": "The Husqvarna SMR 511 is a lightweight, agile motorcycle designed for supermoto riding, combining off-road capability with street performance in a versatile package.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "f4001b94-138b-46e3-8fa3-937aaf1c2807",
+            "image": null,
+            "name": "Husqvarna FC 350",
+            "description": "The Husqvarna FC 350 is a high-performance motocross motorcycle designed for competitive riding, featuring a lightweight chassis and powerful engine for optimal handling and acceleration.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "f7299030-472f-442f-a9b4-0bedad15d3d0",
+            "image": null,
+            "name": "Husqvarna FC 250",
+            "description": "The Husqvarna FC 250 is a high-performance motocross motorcycle designed for competitive racing, featuring a powerful engine and advanced suspension for superior handling and agility on various terrains.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "f7814eb4-23a8-4439-9bc6-43c2774dfb25",
+            "image": null,
+            "name": "Husqvarna FC 450",
+            "description": "The Husqvarna FC 450 is a high-performance motocross motorcycle designed for competitive racing, featuring advanced technology and superior handling capabilities.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        }
+    ]
+}

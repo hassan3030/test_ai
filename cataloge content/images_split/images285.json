@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "718e30ec-93f9-41c3-9454-032ec7bbaf24",
+            "image": null,
+            "name": "Bumper & Trim Gel",
+            "description": "Autoglym Bumper & Trim Gel is designed to restore and enhance the appearance of exterior plastic and rubber surfaces in vehicles, providing a long-lasting, weather-resistant finish.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "eafea45f-e4ab-457a-adf6-c9244031f4a0",
+            "image": null,
+            "name": "Logitech G502 LIGHTSPEED Wireless Gaming Mouse",
+            "description": "Logitech G502 LIGHTSPEED Wireless Gaming Mouse is a high-performance wireless gaming mouse designed for gamers seeking precision and reliability. It features customizable buttons and advanced gaming sensors for optimal gaming experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "1f3d6838-5d09-4a69-898d-819a31a5e227",
+            "image": null,
+            "name": "Gtechniq Crystal Serum Light",
+            "description": "Gtechniq Crystal Serum Light is a durable ceramic paint protection designed to provide enhanced gloss and resistance to environmental contaminants for automotive surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "d6bf0bd6-d53f-473b-8df4-bbe169c29c42",
+            "image": null,
+            "name": "Maxi-Cosi Peach 3",
+            "description": "The Maxi-Cosi Peach 3 is a versatile stroller designed for comfort and convenience. Its modular system allows for easy transitions between different modes of use, making it suitable for parents and their growing children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "87a948b5-3e62-49bd-9c19-cf95fa0dc015",
+            "image": null,
+            "name": "Maxi-Cosi Lila CP",
+            "description": "The Maxi-Cosi Lila CP is a versatile stroller designed to provide comfort and convenience for both parents and children. Its innovative design allows for multiple configurations to adapt to a growing family’s needs.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7a96bcfb-ea2b-4c87-883c-6e2f371f18a8",
+            "image": null,
+            "name": "CS Clear",
+            "description": "Gtechniq CS Clear is a car care product designed to provide a durable protective layer on car surfaces, enhancing gloss and resisting contaminants.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "2d3c5215-e9d7-4658-97f9-6eb6b7f215d8",
+            "image": null,
+            "name": "Rogen 2",
+            "description": "The Hilleberg Rogen 2 is a lightweight, freestanding two-person tent designed for three-season use, offering exceptional stability and weather protection in a variety of conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "1b5f108c-ee1e-438c-be50-883899a24758",
+            "image": null,
+            "name": "Raven Ridge",
+            "description": "The AMD Raven Ridge series integrates powerful Ryzen processors with advanced Radeon graphics, designed for high-performance computing and gaming in a compact form factor.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "ce47b215-d7fc-41c3-ac8a-2f23bcf8101e",
+            "image": null,
+            "name": "Nallo",
+            "description": "Hilleberg's Nallo series is a collection of lightweight, durable tents designed for three-season camping. Known for their easy setup and stability in varying weather conditions, these tents offer reliable shelter for outdoor enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "6ad32266-39d9-4f52-b65a-442bbab53fc2",
+            "image": null,
+            "name": "Brio Builder",
+            "description": "Brio Builder is a creative construction toy series designed to inspire imaginative play and build fine motor skills through assembly and manipulation of various building components.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Brio"
+            }
+        },
+        {
+            "id": "96d31ca4-11ec-45d6-9fea-de6f21696332",
+            "image": null,
+            "name": "Ashok Leyland Comet",
+            "description": "The Ashok Leyland Comet is a versatile pickup truck series launched in 2000, designed primarily for commercial transportation purposes, known for its durability and reliable performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ashok Leyland"
+            }
+        },
+        {
+            "id": "4e7a3851-378b-4e91-aa69-4b81741c2b4b",
+            "image": null,
+            "name": "Baratza Sette 270W",
+            "description": "The Baratza Sette 270W is a precision coffee grinder designed for espresso and other brewing methods, featuring an innovative grinding mechanism that allows for fast and consistent grind sizes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "902f314c-a74d-4aa9-8341-2554220468ce",
+            "image": null,
+            "name": "Logitech G715",
+            "description": "The Logitech G715 is a gaming accessories series launched in 2023, designed to enhance the gaming experience with high-quality performance and customizable features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "90e032e2-1d11-4bc9-a42a-98ce7bc3e74f",
+            "image": null,
+            "name": "Jabra Elite Active 65t",
+            "description": "The Jabra Elite Active 65t is a series of true wireless earbuds designed for active lifestyles, featuring a secure fit, sweat and dust resistance, and advanced sound technology for optimal audio performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "ae03ee6a-8a2a-48e4-8b53-f6c4dcd966ab",
+            "image": null,
+            "name": "BRIO World",
+            "description": "BRIO World is a creative play system that includes a variety of wooden toys designed to inspire imaginative play and foster developmental skills in children. The series encourages role-playing scenarios with tracks, vehicles, and various accessories.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Brio"
+            }
+        },
+        {
+            "id": "5af12786-b70e-4ebe-b71f-6877725f0558",
+            "image": null,
+            "name": "Jabra Talk 15",
+            "description": "The Jabra Talk 15 is a lightweight Bluetooth headset designed for hands-free calling, providing clear audio quality and a comfortable fit for extended use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "90d79760-b010-4913-92e7-3281e73d61bd",
+            "image": null,
+            "name": "Ashok Leyland Viking",
+            "description": "The Ashok Leyland Viking series is a range of pickup trucks designed for reliable performance and versatility, catering primarily to commercial transportation needs since its release in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ashok Leyland"
+            }
+        },
+        {
+            "id": "379c00bc-40c8-4970-bae3-240de70501cc",
+            "image": null,
+            "name": "Peg Perego PRIMO VIAGGIO 4-35",
+            "description": "The Peg Perego PRIMO VIAGGIO 4-35 is a rear-facing infant car seat designed for children from 4 to 35 pounds, featuring advanced safety technologies and a comfortable design for infant travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4fde7da9-7f06-4a39-abb6-e5bb7e9daefd",
+            "image": null,
+            "name": "Jabra Evolve 65e",
+            "description": "The Jabra Evolve 65e is a wireless headset designed for professional use, offering exceptional sound quality and comfort for calls and music. It features a flexible neckband and active noise cancellation to enhance focus in busy environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "9826f47b-19e5-4011-951c-755fd3060563",
+            "image": null,
+            "name": "Morel TEMPO Series",
+            "description": "The Morel TEMPO Series is designed to deliver high-quality sound for car audio systems, featuring advanced materials and engineering for enhanced audio performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "d97011de-f96c-4738-94e1-465367bfe18d",
+            "image": null,
+            "name": "Nuna PEPP Next",
+            "description": "The Nuna PEPP Next is a compact and versatile stroller designed for ease of use, featuring a one-hand fold mechanism and a lightweight frame for convenient transport and storage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "26ab565d-de1b-46c0-a765-24774e6cc961",
+            "image": null,
+            "name": "Encore",
+            "description": "The Baratza Encore is a high-quality coffee grinder designed for home brewing enthusiasts. It features 40 grind settings, allowing for precision grinding suited for various brewing methods.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "a3f9c3cf-83b3-4957-b312-a4a28cb7dc44",
+            "image": null,
+            "name": "Nuna EXEC",
+            "description": "The Nuna EXEC is a versatile stroller designed to grow with your child, offering multiple configurations for convenience and comfort from infancy through toddlerhood.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a8c0ca51-6860-4c25-94e2-ea2aeb663288",
+            "image": null,
+            "name": "M Class",
+            "description": "The Morel M Class series is designed for high-performance car audio, featuring advanced materials and technologies that deliver clarity and depth in sound reproduction.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "0e6c9a14-344b-4a4d-9623-da7b2210eb9d",
+            "image": null,
+            "name": "Seagate Innov8",
+            "description": "The Seagate Innov8 series consists of portable external hard drives designed for data storage, providing high-capacity options for users who require durable and efficient backup solutions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "2fb4c358-3a5a-493d-a419-7bcb01974beb",
+            "image": null,
+            "name": "Baratza Forte BG",
+            "description": "The Baratza Forte BG is a high-performance coffee grinder designed for the specialty coffee enthusiast, offering precise grind settings and exceptional consistency for brewing methods like espresso and pour-over.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "ef2bb358-cb27-463e-9ca9-7d665b9a7973",
+            "image": null,
+            "name": "Redgear Shadow Wired Gaming Mouse",
+            "description": "The Redgear Shadow Wired Gaming Mouse is designed for gamers seeking precision and comfort, featuring customizable settings and a durable build for extended play sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Redgear"
+            }
+        },
+        {
+            "id": "9a19c6e0-62b3-4d7d-aea0-23d15d989f5d",
+            "image": null,
+            "name": "Meno",
+            "description": "The Morel Meno series is designed for car audio enthusiasts seeking high-quality sound reproduction and performance in their vehicles. Known for their clarity and impactful bass response, these speakers aim to enhance the listening experience on the road.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "abd10106-ffaf-44ea-80ac-0a1084353df2",
+            "image": null,
+            "name": "LeapFrog Epic",
+            "description": "The LeapFrog Epic is an innovative tablet designed for children, featuring a range of educational apps and interactive content aimed at enhancing learning through play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "7c2be221-1c35-4411-8038-462e8cfeeef1",
+            "image": null,
+            "name": "Redgear Shadow Wired Gaming Keyboard",
+            "description": "The Redgear Shadow Wired Gaming Keyboard is designed for gamers, featuring customizable RGB lighting and a responsive key switch mechanism for improved gameplay experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Redgear"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a2be1d0b-1925-4e67-9147-7f859ae819ea",
+            "image": null,
+            "name": "Coach Dreamer",
+            "description": "The Coach Dreamer series features a collection of stylish handbags designed for everyday use, combining functionality with a contemporary aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "b402daa5-ae61-4b03-a1b0-f0a07f23bed8",
+            "image": null,
+            "name": "Mothers Showtime",
+            "description": "Mothers Showtime is a car care product series introduced in 2003, designed to enhance and protect the exterior and interior surfaces of vehicles, providing a professional-grade finish.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "80829518-808d-4989-9976-a507cf1099dc",
+            "image": null,
+            "name": "Gionee S6s",
+            "description": "The Gionee S6s is a smartphone launched in 2016, designed to provide a combination of style and functionality with a focus on selfies and imaging.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "aab7bda2-c4ca-416e-b463-1ac0ece345c7",
+            "image": null,
+            "name": "Coach Pillow Tabby",
+            "description": "The Coach Pillow Tabby series features a range of bags designed with a soft, pillowy silhouette, offering both style and functionality for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "126dd264-6424-493a-a158-59f765a10d7c",
+            "image": null,
+            "name": "FurReal Friends Rocco The Giant Puppy",
+            "description": "FurReal Friends Rocco The Giant Puppy is an interactive plush toy designed to provide children with a realistic pet experience, featuring sounds, movements, and responses that mimic a real puppy.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "5decf5ac-5f96-4b09-8cc0-abc462aeaf31",
+            "image": null,
+            "name": "Turtle Wax Nano-Tech",
+            "description": "The Turtle Wax Nano-Tech series offers advanced car care products designed to provide a superior level of protection and shine using cutting-edge nanotechnology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "f5b47c7c-c7e9-4847-b79a-c81b13363625",
+            "image": null,
+            "name": "Motorola One Power",
+            "description": "The Motorola One Power is a smartphone released in 2018 known for its large battery capacity and clean Android experience, aiming to provide users with reliable performance and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "d16eb8e2-f95e-4185-af00-8889419e1b9b",
+            "image": null,
+            "name": "Motorola One Vision",
+            "description": "The Motorola One Vision is a smartphone designed to deliver a premium viewing experience with its 21:9 display, featuring advanced camera capabilities for capturing high-quality photos in various lighting conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "c2b290fa-0045-4172-af48-e542d6476a2b",
+            "image": null,
+            "name": "LEGO Ideas",
+            "description": "The LEGO Ideas series allows fans to contribute their own designs and concepts for new LEGO sets, promoting creativity and community engagement. Each set is based on popular fan submissions, transforming unique ideas into tangible building experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "b1865207-8e61-4f39-bab3-bb2497b2e5b5",
+            "image": null,
+            "name": "Motorola Moto Z4",
+            "description": "The Motorola Moto Z4 is a smartphone released in 2019, known for its modular design that allows users to attach various Moto Mods for added functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "baa3f63c-f64a-4518-b6b2-05d679ff70c6",
+            "image": null,
+            "name": "Moto G Fast",
+            "description": "The Motorola Moto G Fast is a budget-friendly smartphone designed to deliver reliable performance and a smooth user experience, focusing on essential features for everyday tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "412b9305-1d19-4f47-a620-cce0502bd3b3",
+            "image": null,
+            "name": "Whirlpool Ice Magic",
+            "description": "The Whirlpool Ice Magic series consists of refrigerators designed to provide efficient cooling and ample storage space, catering to the diverse needs of modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "03380cca-f929-4c81-8db6-339a79c97553",
+            "image": null,
+            "name": "The Little Dreamer",
+            "description": "The Little Dreamer is a personalized children's book series by Wonderbly that aims to inspire young readers to pursue their dreams by featuring them as the main character in imaginative stories.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "7bca4898-4032-4c08-ace6-809cbe211d61",
+            "image": null,
+            "name": "Canson Eternity",
+            "description": "Canson Eternity is a premium paper series designed for artists, offering superior texture and longevity for various media, including pencil, ink, and watercolor.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "0a46d549-14fe-4bef-93e9-285c28e28e6f",
+            "image": null,
+            "name": "Mont Marte Art Supplies",
+            "description": "The Mont Marte Art Supplies series offers a diverse range of high-quality art materials designed to inspire creativity and support artists of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "75b56141-d13c-4573-9024-2692f5a2e1fe",
+            "image": null,
+            "name": "Moto Edge 2022",
+            "description": "The Motorola Moto Edge 2022 series is a line of smartphones designed to deliver high performance, advanced camera capabilities, and a premium display experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "0a7b2c17-5164-4ffc-9d21-4bf242f88a1e",
+            "image": null,
+            "name": "Kidizoom Duo 5.0",
+            "description": "The Kidizoom Duo 5.0 is a children's digital camera with dual lenses, designed to encourage creativity and photography skills in young users. It features fun photo effects and games, making it an engaging tool for exploration and play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "2076b513-32a7-488b-842f-42ec38cb96a6",
+            "image": null,
+            "name": "Faber-Castell Creativo",
+            "description": "The Faber-Castell Creativo series provides a range of high-quality art supplies designed for both amateur and professional artists, emphasizing creativity and artistic expression.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Faber-Castell"
+            }
+        },
+        {
+            "id": "af1d6931-1391-4231-b67a-cacf6fccf073",
+            "image": null,
+            "name": "Clevo P7xxTM Series",
+            "description": "The Clevo P7xxTM Series is a line of customizable gaming laptops designed for high performance, offering powerful hardware configurations and robust thermal management suitable for demanding applications and gaming experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "996c2592-564a-4147-a78c-7c80c0a05ca4",
+            "image": null,
+            "name": "Clevo N850 Series",
+            "description": "The Clevo N850 Series is a line of high-performance laptops designed for gaming and multimedia tasks, featuring customizable hardware options and robust cooling solutions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "b68fca0e-278c-4d84-8ac4-31bbb52e66f4",
+            "image": null,
+            "name": "Sticker Books",
+            "description": "Usborne Sticker Books offer a fun and interactive way for children to engage with stories and scenes through colorful stickers, fostering creativity and fine motor skills.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "448f8dde-9743-4059-bcd2-473c4dbe2122",
+            "image": null,
+            "name": "Menzerna Super Finish",
+            "description": "Menzerna Super Finish is a line of high-performance polishing compounds designed for achieving a high-gloss finish on automotive surfaces. Key traits include excellent cutting ability and minimal dust production for a professional-grade result.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "b2de8c82-6836-46f2-9104-da5aa78250f8",
+            "image": null,
+            "name": "Kuretake Gansai Tambi Watercolors",
+            "description": "Kuretake Gansai Tambi Watercolors are a high-quality set of watercolor paints designed for artists, offering rich pigmentation and smooth application for various artistic projects.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Kuretake"
+            }
+        },
+        {
+            "id": "70abdf3f-3bb6-4cd1-8ec9-f57038b2aae3",
+            "image": null,
+            "name": "Dodo Juice Wax",
+            "description": "Dodo Juice Wax is a line of premium car wax products designed to enhance the shine and protection of automotive paintwork. Established in 2007, these waxes are known for their high-quality formulations that provide durable results.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "fd1cca00-61ad-4d6a-a9c5-296496f53506",
+            "image": null,
+            "name": "Puky LR M Plus",
+            "description": "The Puky LR M Plus is a balance bike designed for children to develop their balance and coordination skills, promoting independent riding from an early age.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "d367674d-92e9-467d-b7b6-3091a586fb73",
+            "image": null,
+            "name": "Nokia C22",
+            "description": "The Nokia C22 is a smartphone designed for everyday use, offering a balanced mix of functionality and durability, making it ideal for users seeking a reliable device.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "fff56a90-5095-4020-8fcb-435140b66eb2",
+            "image": null,
+            "name": "Aesthetic",
+            "description": "The Blind Aesthetic series features skateboards designed for street skating, combining durability with unique graphic designs that appeal to skaters of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Blind"
+            }
+        },
+        {
+            "id": "ba839f5f-9687-4d8f-8200-99a7fedabca4",
+            "image": null,
+            "name": "The Little Girl Who Lost Her Name",
+            "description": "The Little Girl Who Lost Her Name is a personalized children's book that tells the story of a young girl who embarks on a journey to find her name, encountering various characters along the way. This unique narrative encourages creativity and engagement through customization.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "6a7bc581-a83e-4c82-ab13-65b1705ca568",
+            "image": null,
+            "name": "Lava KKT 34",
+            "description": "The Lava KKT 34 is a mobile phone series released in 2006, designed for basic communication with essential features tailored for efficiency and affordability.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "a89bceaa-9188-427a-afab-19f7b2f88e0c",
+            "image": null,
+            "name": "Griot's Garage Classic Car Wax",
+            "description": "Griot's Garage Classic Car Wax is designed to provide a high-quality protective finish for classic cars, enhancing their shine and preserving their paintwork.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        }
+    ]
+}

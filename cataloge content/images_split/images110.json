@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "0c111d07-b6c0-45f3-8dbe-349b1dc59499",
+            "image": null,
+            "name": "Penny Classic",
+            "description": "The Penny Classic series features small, lightweight skateboards designed for transportation and leisure, known for their durability and vibrant colors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "523459c8-abbf-491c-bcd6-83f868edb922",
+            "image": null,
+            "name": "Penny Rainbow",
+            "description": "The Penny Rainbow series features compact, lightweight skateboards designed for cruising and tricks, showcasing vibrant colors to enhance the skating experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "b921efdd-1626-4500-a203-a4f78039888e",
+            "image": null,
+            "name": "Penny Original 22",
+            "description": "The Penny Original 22 is a compact plastic skateboard designed for cruising and tricks, known for its lightweight design and vibrant color options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "96862ddc-deec-4ee1-ae38-5824c30119b3",
+            "image": null,
+            "name": "Penny Graphic Series",
+            "description": "The Penny Graphic Series features a range of colorful and artistic skateboards designed for both casual and experienced skaters, emphasizing portability and style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "6d21d5d1-0f8a-491e-a601-0483eafff133",
+            "image": null,
+            "name": "Penny 27\" Complete Skateboard",
+            "description": "The Penny 27\" Complete Skateboard is a compact and durable skateboard designed for both novice and experienced skaters. Its distinctive retro design combined with modern materials makes it suitable for cruising and trick riding.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "11b3b915-1c46-48cf-bb21-39fd749c227b",
+            "image": null,
+            "name": "Chuwi Hi10 X",
+            "description": "The Chuwi Hi10 X is a versatile 2-in-1 tablet designed for productivity and entertainment, featuring a detachable keyboard and a responsive touchscreen.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "06af0a56-460b-47f9-ad14-7ff1e3f81615",
+            "image": null,
+            "name": "Chuwi LapBook Air",
+            "description": "The Chuwi LapBook Air is a lightweight and portable laptop launched in 2017, designed for everyday computing tasks such as web browsing, document editing, and media consumption.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "72b30c0f-89cc-4903-b259-292589a95ed1",
+            "image": null,
+            "name": "Omen Gaming Laptop",
+            "description": "The Omen Gaming Laptop series offers high-performance laptops designed for gaming enthusiasts, featuring powerful hardware and enhanced cooling systems to deliver a superior gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "1cf6b6c3-582f-4b5c-8e9f-9ceadfd2bc3e",
+            "image": null,
+            "name": "Omen 15 (2018)",
+            "description": "The Omen 15 (2018) is a gaming laptop designed for performance and portability, equipped with advanced graphics and processing capabilities suitable for demanding games and applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "1ad60bda-59b6-444e-8b43-79134f054c61",
+            "image": null,
+            "name": "Omen Obelisk (2018)",
+            "description": "The Omen Obelisk (2018) is a high-performance gaming desktop designed for gamers seeking powerful hardware and customizable options for an immersive gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "f455dbf5-3263-459a-9af4-ac66ba77fbbb",
+            "image": null,
+            "name": "Omen Obelisk",
+            "description": "The Omen Obelisk is a series of gaming desktops designed for high-performance gaming experiences, featuring customizable components and advanced cooling solutions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "6953e1f5-2caa-4ded-9e86-2af6e3df7cac",
+            "image": null,
+            "name": "Omen 16",
+            "description": "The Omen 16 series of laptops, released in 2021, is designed for gamers and power users seeking high performance and immersive gameplay experiences with advanced graphics and cooling technologies.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "13ff165b-1842-4a9e-a266-6c39f007003b",
+            "image": null,
+            "name": "Omen 25i",
+            "description": "The Omen 25i is a gaming monitor designed for high-performance and immersive gaming experiences, featuring low response times and high refresh rates to enhance gameplay clarity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "547cb627-c82a-490c-bf9b-029d09562548",
+            "image": null,
+            "name": "Nuna TRVL",
+            "description": "The Nuna TRVL series is a lightweight and portable stroller designed for easy travel, offering convenient features for parents on the go while ensuring comfort and safety for the child.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4d3cdaef-cf47-4d95-a7ce-3815f1c98382",
+            "image": null,
+            "name": "Nuna PIPA Lite R",
+            "description": "The Nuna PIPA Lite R is a lightweight infant car seat designed for ease of installation and portability, ensuring safety and comfort for newborns.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7cb31610-d62f-4085-b59e-c4af06c6776c",
+            "image": null,
+            "name": "Quechua MH100",
+            "description": "The Quechua MH100 series by Decathlon offers essential camping gear designed to meet the needs of beginner outdoor enthusiasts, featuring lightweight and durable products for comfortable adventures in nature.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6be9c9d-d824-421d-9f1d-2a858bb84076",
+            "image": null,
+            "name": "Finish Kare 1000P Ultra Poly Wax",
+            "description": "Finish Kare 1000P Ultra Poly Wax is a high-performance car wax designed to provide a durable, protective layer with exceptional shine and ease of application.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "f4c83fa6-c707-4222-9827-6aeb9c512ef7",
+            "image": null,
+            "name": "Simoniz Carnauba Wash",
+            "description": "Simoniz Carnauba Wash is a car care product designed to clean and protect your vehicle's exterior. It features natural carnauba wax to provide a shine while effectively removing dirt and grime.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "61fa279a-c7ca-4c9e-a1b4-4391f554d65b",
+            "image": null,
+            "name": "Soft99 King of Gloss",
+            "description": "Soft99 King of Gloss is a premium car care product series designed to provide superior gloss and protection for automotive surfaces, enhancing their appearance and longevity.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "6bfff9ec-1927-4ade-aa90-357b219367a0",
+            "image": null,
+            "name": "Soft99 Multimagic",
+            "description": "Soft99 Multimagic is a series of car care products designed to enhance the appearance and protect the surfaces of vehicles. This product line features various formulations aimed at cleaning, polishing, and providing long-lasting shine while being easy to apply.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "75da5e12-7e1f-4edc-b3b8-b68afbbf7118",
+            "image": null,
+            "name": "Soft99 Cherry Blossom",
+            "description": "The Soft99 Cherry Blossom series offers a selection of car care products designed to enhance the appearance and protect the surfaces of vehicles. Released in 2023, these products incorporate a cherry blossom scent, providing a pleasant experience during application.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "7b4e7b5b-beda-4c10-8eb2-4765209d41d8",
+            "image": null,
+            "name": "Finish Kare 1000P",
+            "description": "Finish Kare 1000P is a premium car wax formulated to provide exceptional shine, durability, and protection for automotive finishes. It is designed for enthusiasts looking for a high-quality product to maintain their vehicle's appearance.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "3845df1d-3b37-49e3-adb1-bb7db18fea02",
+            "image": null,
+            "name": "Nufinish Paste Car Polish",
+            "description": "Nufinish Paste Car Polish is a car care product designed to clean, shine, and protect automotive paint surfaces, providing a durable finish that resists fading and oxidation.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Nufinish"
+            }
+        },
+        {
+            "id": "4af0892c-f0ed-4d50-ab02-1c51482badf5",
+            "image": null,
+            "name": "Finish Kare 108 Premium Paste Wax",
+            "description": "Finish Kare 108 Premium Paste Wax is a high-quality car care product designed to provide a long-lasting protective layer and enhance the shine of automotive paint finishes.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "4c963deb-716d-407b-b7b2-121ced3ce885",
+            "image": null,
+            "name": "Finish Kare FK-1",
+            "description": "The Finish Kare FK-1 series includes a variety of specialized car care products designed to protect and enhance the finish of vehicles, ensuring a long-lasting shine and durability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "8973dc9c-fa29-4afe-a255-1a81eb582b88",
+            "image": null,
+            "name": "Lava A series",
+            "description": "The Lava A series is a line of mobile phones released in 2010, aimed at providing affordable and user-friendly communication solutions for consumers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "9fdffec7-3ad9-47df-823c-c7ee0c389ad0",
+            "image": null,
+            "name": "Simoniz Fresh Shine",
+            "description": "Simoniz Fresh Shine is a series of car care products designed to clean, enhance, and protect vehicle exteriors, providing a long-lasting shine and preventing contaminants from sticking to the surface.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "a3398fe4-7abc-4f68-845f-39dafd54c165",
+            "image": null,
+            "name": "Simoniz Wash & Wax",
+            "description": "Simoniz Wash & Wax is a car care product series designed to cleanse and protect vehicle exteriors while imparting a glossy shine through a built-in wax component.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "a42a4676-64cc-4bd1-94c7-a9155e04ce37",
+            "image": null,
+            "name": "Columbia Powderbug Series",
+            "description": "The Columbia Powderbug Series is designed for winter outdoor activities, providing durable, insulated footwear that offers excellent traction and protection in snowy conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a7b1339c-1922-47f9-9897-4d10a3ad02ee",
+            "image": null,
+            "name": "Smooth Egg",
+            "description": "Soft99's Smooth Egg series offers a range of car care products designed to provide a high gloss finish and protect vehicle surfaces while ensuring ease of application.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        }
+    ]
+}

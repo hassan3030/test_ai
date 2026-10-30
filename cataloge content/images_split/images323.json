@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "8eea71a6-e2f0-43fc-af71-36b768102abc",
+            "image": null,
+            "name": "Coach Crossover",
+            "description": "The Coach Crossover series features versatile bags designed for everyday use, blending style with functionality to accommodate various occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "ffa7848b-4431-4316-bab3-070e5bd40183",
+            "image": null,
+            "name": "Signature",
+            "description": "The Coach Signature series offers a range of bags featuring the iconic Coach logo pattern, designed for everyday use with a blend of practicality and style.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "77e3dc16-5110-4ca6-b632-caef5c486b51",
+            "image": null,
+            "name": "Dodo Juice Diamond White",
+            "description": "Dodo Juice Diamond White is a premium car wax designed to provide a high-gloss finish and durable protection for white and light-colored vehicles. Launched in 2011, it contains white carnauba wax to enhance shine and repel dirt.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "28e8dd8f-6546-4c95-b992-e1fae87e1057",
+            "image": null,
+            "name": "Alpina B7",
+            "description": "The Alpina B7 is a high-performance luxury sedan based on the BMW 7 Series, known for its powerful engine, luxurious interior, and advanced technology features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "cb8cad8b-c561-41cc-b752-761011c72369",
+            "image": null,
+            "name": "Husky WeatherBeater",
+            "description": "Husky WeatherBeater floor mats are designed to provide maximum protection against water, mud, and debris, ensuring that your vehicle's interior stays clean and tidy. These mats feature a laser-measured fit and are made from durable materials, offering long-lasting performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "641a9afd-6f72-4848-a632-63bab44877c0",
+            "image": null,
+            "name": "Gibson USA 2016 Les Paul",
+            "description": "The Gibson USA 2016 Les Paul series features iconic electric guitars known for their solid body, humbucking pickups, and exceptional sustain, catering to a wide range of musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "3ce35f29-4587-447d-bdd6-4925354d0618",
+            "image": null,
+            "name": "Alpina B5 GT",
+            "description": "The Alpina B5 GT is a high-performance luxury car that combines dynamic driving characteristics with exceptional comfort, designed for enthusiasts seeking both speed and refinement.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "2d49c625-76ca-4777-955f-b50b6b696def",
+            "image": null,
+            "name": "Alpina B8 Gran Coupe",
+            "description": "The Alpina B8 Gran Coupe is a high-performance luxury sports sedan that combines exquisite craftsmanship with powerful performance, designed for enthusiasts seeking a refined driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "b9ba119e-5744-48db-8455-e4ee656f3f3f",
+            "image": null,
+            "name": "Ascent Series",
+            "description": "The Vitamix Ascent Series is a line of high-performance blenders designed for versatility and durability, allowing users to blend, chop, and create various recipes with ease.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "bd61862b-8abd-47db-adde-bb7daed191e8",
+            "image": null,
+            "name": "Astral",
+            "description": "The Arai Astral series is designed for motorcycle riders seeking high levels of comfort and safety, combining advanced aerodynamic performance with a focus on fit and visibility.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "5bd10175-5acf-4c47-8c9e-bbea429984ef",
+            "image": null,
+            "name": "Epiphone 2017 Slash AFD Les Paul",
+            "description": "The Epiphone 2017 Slash AFD Les Paul is an electric guitar designed in collaboration with guitarist Slash, featuring classic Les Paul aesthetics and designed for performance and playability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "720e4fc5-3054-4ac5-8ea6-4cec8295385c",
+            "image": null,
+            "name": "Tempur-Adapt Series",
+            "description": "The Tempur-Adapt Series by Tempur-Pedic features mattresses designed to provide adaptive support and pressure relief, utilizing Tempur material for personalized comfort and enhanced sleep experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "c72ad9fb-e37f-4ec0-9558-86ad5a9e13e4",
+            "image": null,
+            "name": "Pebeo Acrylic Paints",
+            "description": "Pebeo Acrylic Paints are a series of high-quality artist paints designed for a variety of painting techniques and surfaces, offering vibrant colors and excellent coverage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "f8cc9f26-1da0-4b95-a65c-676eaa73bb0b",
+            "image": null,
+            "name": "Arai XD",
+            "description": "The Arai XD series is a versatile motorcycle helmet designed for both on-road and off-road use, featuring a dual-purpose shape that offers optimal aerodynamics and ventilation.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "460b8248-7de7-4cee-9678-04dd633dd25f",
+            "image": null,
+            "name": "Tempur-Cloud Series",
+            "description": "The Tempur-Cloud Series by Tempur-Pedic offers a soft feel with the signature TEMPUR material, designed to adapt to the sleeper's body for personalized comfort and support.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "5bf4979c-f882-4c16-9ff8-cb99d74a9dd0",
+            "image": null,
+            "name": "Krups Intuition",
+            "description": "The Krups Intuition series includes advanced coffee machines designed for home use, focusing on convenience and quality coffee brewing with intuitive control features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "8f8f208a-850c-473b-bba7-35714edbe87c",
+            "image": null,
+            "name": "Tata Nano Twist",
+            "description": "The Tata Nano Twist is a compact city car launched by Tata Motors in 2012, designed to offer an affordable and practical transportation solution for urban environments.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "65406e60-5797-4165-9203-0f3d8a105445",
+            "image": null,
+            "name": "Porsche 911 (Type 992)",
+            "description": "The Porsche 911 (Type 992) is a high-performance sports car renowned for its engineering excellence, timeless design, and exceptional driving dynamics. It continues to uphold the legacy of the iconic 911 series while incorporating modern technology and superior comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "40cefb1f-3a9c-47f9-9feb-af1edb2dd582",
+            "image": null,
+            "name": "Monster S4R",
+            "description": "The Ducati Monster S4R is a performance-oriented naked motorcycle known for its powerful liquid-cooled 996cc engine, lightweight chassis, and distinctive styling, making it ideal for both urban riding and spirited adventures.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "7ad732dc-aebc-4769-9df2-f4fcf2fb5ba0",
+            "image": null,
+            "name": "Arai Quantum-II",
+            "description": "The Arai Quantum-II is a high-performance motorcycle helmet designed for riders seeking optimal comfort, ventilation, and protection. Launched in 2002, it features a lightweight shell construction and an aerodynamic design for enhanced stability at high speeds.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "f99b1e04-71b9-41e0-bb16-0556c44b7da5",
+            "image": null,
+            "name": "Gibson USA 2017 Les Paul Tribute",
+            "description": "The Gibson USA 2017 Les Paul Tribute is a solid-body electric guitar known for its classic design, versatile tonal palette, and affordable pricing, making it ideal for both beginner and experienced players.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "e8cc64ee-af4b-4cfb-a025-bdb16d2e4479",
+            "image": null,
+            "name": "Mazda3 (2017)",
+            "description": "The Mazda3 (2017) is a compact car known for its engaging driving dynamics, stylish design, and efficient fuel economy, aiming to provide a balance of performance and practicality for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "7af2100b-3b25-45b1-9537-8fbeb519e7ad",
+            "image": null,
+            "name": "Dodge Ram (2008 Generation)",
+            "description": "The Dodge Ram (2008 Generation) is a full-size pickup truck designed for both heavy-duty work and everyday usability, featuring a robust construction and versatile cargo space.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "007ddc67-821c-4718-a3c5-6e344db7cdc0",
+            "image": null,
+            "name": "Gibson J-45 Acoustic",
+            "description": "The Gibson J-45 Acoustic is a legendary dreadnought guitar known for its warm, balanced tone and versatile playability, making it a popular choice among musicians across various genres.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "7c3bd207-c375-477a-bc39-9a2201b46498",
+            "image": null,
+            "name": "Defender V8",
+            "description": "The Land Rover Defender V8 is a high-performance SUV designed for both on-road comfort and off-road capability, featuring a powerful V8 engine that enhances its ruggedness and versatility.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0979dcbf-0565-49a5-a498-4f3442c0ff95",
+            "image": null,
+            "name": "Dodge Challenger (2012)",
+            "description": "The Dodge Challenger (2012) is a classic American muscle car known for its powerful performance, retro styling, and availability of a range of potent engines. It combines modern engineering with iconic design elements, making it a popular choice among enthusiasts.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "2a77bdf5-4a90-4e9e-9f33-0aa449b700b3",
+            "image": null,
+            "name": "Gibson A-Style Mandolin",
+            "description": "The Gibson A-Style Mandolin is a traditional stringed instrument known for its A-shaped body and bright, resonant sound, primarily used in bluegrass and folk music.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "83f46a71-e9cb-495b-8ed7-f3bd135f2fc3",
+            "image": null,
+            "name": "Gibson Explorer",
+            "description": "The Gibson Explorer is a striking electric guitar known for its distinctive asymmetrical body shape, powerful sound, and versatility, making it ideal for rock and metal genres.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "dd6230a3-15a6-4657-91b0-dfce2075f5ab",
+            "image": null,
+            "name": "Profile",
+            "description": "The Arai Profile series helmets are designed for motorcycle enthusiasts, offering a blend of comfort, safety, and superior ventilation. They are crafted to provide an optimally aerodynamic performance suitable for various riding styles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "74259091-ecdb-4506-b60f-cc0910e3c10f",
+            "image": null,
+            "name": "Monchhichi",
+            "description": "Monchhichi is a series of collectible soft toys featuring a cute monkey character, designed to provide companionship and cuddly comfort to children and collectors alike. Known for their expressive faces and plush material, Monchhichis have been beloved since their introduction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Monchhichi"
+            }
+        }
+    ]
+}

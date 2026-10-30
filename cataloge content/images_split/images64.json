@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "8ae33377-65af-492f-9594-c285ab91336d",
+            "image": null,
+            "name": "ADVAN Sport",
+            "description": "The Yokohama ADVAN Sport series is designed for high-performance vehicles, offering exceptional handling, grip, and stability under various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "99fb502b-ef85-4f10-a723-a4cf99ffcefc",
+            "image": null,
+            "name": "Yokohama BluEarth ES32",
+            "description": "The Yokohama BluEarth ES32 is a tire designed for a balance of performance and environmental sustainability, focusing on low rolling resistance, enhanced fuel efficiency, and superior wet grip.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "a260ac2c-f812-4177-ac8c-8ee2f132e994",
+            "image": null,
+            "name": "Maruti Suzuki Vitara Brezza (Facelift)",
+            "description": "The Maruti Suzuki Vitara Brezza (Facelift) is a compact SUV designed to offer a combination of style, comfort, and performance for urban use. It features modern design elements and advanced features aimed at enhancing the driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "aa93527f-2e5b-4e44-8eba-1d6ae304ce42",
+            "image": null,
+            "name": "Yokohama Geolandar X-AT",
+            "description": "The Yokohama Geolandar X-AT is an all-terrain tire designed for off-road and on-road use, offering enhanced traction and durability in various driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "aaf9c699-3395-4918-ab53-8e5615a4d3ea",
+            "image": null,
+            "name": "BluEarth AE81",
+            "description": "The Yokohama BluEarth AE81 is a tire series designed for all-season performance, offering improved fuel efficiency and wet grip through advanced rubber technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "0cc983e4-9179-4f78-b7a0-8521e59f3ac4",
+            "image": null,
+            "name": "Dynapro",
+            "description": "The Hankook Dynapro series is designed for off-road and all-terrain performance, offering enhanced traction and durability for SUVs and light trucks.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "219eaece-a5b1-4631-a94e-b3dab18da49f",
+            "image": null,
+            "name": "Yokohama ADVAN Sport V105",
+            "description": "The Yokohama ADVAN Sport V105 is a high-performance tire designed for sports cars and premium vehicles, offering enhanced grip, stability, and a responsive driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "23211edf-25ec-4d9f-bc96-a90554c01ee8",
+            "image": null,
+            "name": "Yokohama GEOLANDAR A/T G015",
+            "description": "The Yokohama GEOLANDAR A/T G015 is an all-terrain tire designed to deliver optimal performance on both on-road and off-road surfaces, featuring enhanced durability, traction, and comfort for SUVs and light trucks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "34c241e4-4360-4ef5-ab22-17138de0a6ad",
+            "image": null,
+            "name": "BluEarth",
+            "description": "Yokohama's BluEarth series is designed to provide eco-friendly tires that enhance fuel efficiency while ensuring a safe and comfortable driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "3edcce65-946b-4a8d-b4e7-ebc0a0c6d343",
+            "image": null,
+            "name": "Geolandar X-AT",
+            "description": "The Yokohama Geolandar X-AT is an all-terrain tire designed for off-road performance, providing enhanced traction on various surfaces while maintaining on-road comfort. Its rugged construction and aggressive tread pattern make it suitable for adventure seekers and outdoor enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "4e67a448-afba-4e44-b5db-90da6acf324f",
+            "image": null,
+            "name": "Yokohama BluEarth  ES02",
+            "description": "The Yokohama BluEarth ES02 is a high-performance tire designed for fuel efficiency and enhanced driving comfort, tailored for a variety of vehicles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "560f86ae-a422-42b5-90e5-0b6e6d2f2a2b",
+            "image": null,
+            "name": "BluEarth-4S AW21",
+            "description": "The Yokohama BluEarth-4S AW21 is a versatile all-weather tire designed for superior performance in various weather conditions, providing a balance of comfort, handling, and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "af172d47-e145-4714-8aaa-e0be73f5b861",
+            "image": null,
+            "name": "Yokohama ADVAN Sport V107",
+            "description": "The Yokohama ADVAN Sport V107 is a high-performance tire designed for sports cars and high-end vehicles, offering excellent handling and grip on both wet and dry surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "bde1c8bf-22f7-41ec-9212-efad124d62fe",
+            "image": null,
+            "name": "Yokohama Geolandar G055",
+            "description": "The Yokohama Geolandar G055 is an all-season tire designed for crossovers and SUVs, offering a balance of performance, comfort, and durability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "c3b47df1-1ab3-4194-9337-374f15a43dd7",
+            "image": null,
+            "name": "Yokohama BluEarth-A",
+            "description": "The Yokohama BluEarth-A is a tire series designed to offer improved fuel efficiency, enhanced traction, and reduced road noise, making it suitable for a variety of passenger vehicles.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "c8e48b15-0ada-4a17-a2bc-e369af4fa4d8",
+            "image": null,
+            "name": "Dynapro ATM",
+            "description": "The Hankook Dynapro ATM is an all-terrain tire designed for versatility on both on-road and off-road environments, offering a balance of performance, durability, and comfort.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "ccaf53fb-5b96-4ddd-ae8d-1e31ae125ece",
+            "image": null,
+            "name": "Advantage",
+            "description": "The Yokohama Advantage series offers a blend of performance and comfort for everyday driving, featuring innovative tread designs for enhanced traction and stability.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "d8369b73-5f55-4dff-8531-92c19468d6db",
+            "image": null,
+            "name": "ADVAN Sport V107",
+            "description": "The Yokohama ADVAN Sport V107 is a high-performance tire designed for sports cars and luxury vehicles. It offers enhanced grip, precise handling, and improved wet performance, making it suitable for both street and track use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "e29250ea-23ef-4c32-8569-c7de90f4dd60",
+            "image": null,
+            "name": "Ventus S1 Evo2",
+            "description": "The Hankook Ventus S1 Evo2 is a high-performance tire designed for sports cars and premium vehicles, featuring enhanced grip and handling on both wet and dry surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "6146861e-3a33-4571-a01b-628bd8ec187f",
+            "image": null,
+            "name": "Solus TA11",
+            "description": "The Kumho Tire Solus TA11 is an all-season tire designed for passenger vehicles, offering a balanced performance in various weather conditions and providing enhanced comfort and durability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "687ad699-c893-4c2b-be39-bf0f42655332",
+            "image": null,
+            "name": "Kinergy Eco",
+            "description": "The Hankook Kinergy Eco series features eco-friendly tires designed for low rolling resistance and improved fuel efficiency, making them suitable for everyday passenger vehicles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "fb9da3d2-659e-483b-8898-59491ab34b0c",
+            "image": null,
+            "name": "Ecsta SPT",
+            "description": "The Kumho Tire Ecsta SPT is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip and handling in both wet and dry conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "ff575b9e-dcd9-440d-8e84-f7ecd9124f8b",
+            "image": null,
+            "name": "Audeze Maxwell",
+            "description": "The Audeze Maxwell series features high-fidelity wireless headphones designed for immersive audio experiences, combining advanced driver technology with a comfortable fit for extended listening sessions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audeze"
+            }
+        },
+        {
+            "id": "752a9530-6e58-4fbe-a9d3-95db47b61829",
+            "image": null,
+            "name": "Road Venture MT51",
+            "description": "The Kumho Tire Road Venture MT51 is an all-terrain tire designed for off-road enthusiasts, providing superior traction and durability in rugged conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "a0fae03d-2c44-4d19-818e-94c1ebc3fcb3",
+            "image": null,
+            "name": "Solus",
+            "description": "Kumho Tire's Solus series offers a range of tires designed for all-season performance, providing balance in traction, comfort, and durability for everyday driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "a2e48c6c-a263-4c09-9969-fc1d140dc04b",
+            "image": null,
+            "name": "Gucci Men's Fall/Winter Collection",
+            "description": "The Gucci Men's Fall/Winter Collection is a fashion series designed for contemporary men, featuring innovative styles and high-quality materials that reflect the brand's luxury aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b639df12-bb8e-4de7-8bcf-2222e63dbf88",
+            "image": null,
+            "name": "Road Venture",
+            "description": "The Kumho Tire Road Venture series is designed for off-road and all-terrain driving, offering enhanced traction and durability for various driving conditions since its launch in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "ba48ddd7-65e0-4e33-ac7b-8f5b32d10fa9",
+            "image": null,
+            "name": "Crugen Premium",
+            "description": "The Kumho Tire Crugen Premium series offers a blend of performance and comfort, designed specifically for SUVs and crossovers, providing excellent traction and stability on various road conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "ba5c7580-6bf3-43de-a87b-daa879ebe044",
+            "image": null,
+            "name": "Ecsta",
+            "description": "The Kumho Tire Ecsta series is designed to provide enhanced performance and handling capabilities for high-performance vehicles, focusing on dry traction and responsiveness.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "be5afd07-810e-47a8-893e-488a6f73cecd",
+            "image": null,
+            "name": "Ventus Sport",
+            "description": "The Hankook Ventus Sport series is designed for high-performance vehicles, providing enhanced grip, improved stability, and superior handling on both wet and dry surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        }
+    ]
+}

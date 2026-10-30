@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "id": "c5121e0e-fee6-4e8e-b0bc-c6d2256e583d",
+            "image": null,
+            "name": "Peugeot 607",
+            "description": "The Peugeot 607 is a large executive sedan produced by French automaker Peugeot beginning in 2000. Known for its comfortable ride and spacious interior, it was designed to compete in the upper segments of the automotive market.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "cbafa2c6-44f8-4632-8004-0d22fc39cd60",
+            "image": null,
+            "name": "Subaru XV Crosstrek",
+            "description": "The Subaru XV Crosstrek is a compact SUV designed for adventure, offering all-wheel drive capability and a versatile interior for outdoor enthusiasts.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d0273148-d4c4-4dac-a5f4-2564851ab5c9",
+            "image": null,
+            "name": "Peugeot 207",
+            "description": "The Peugeot 207 is a subcompact car produced by French automaker Peugeot from 2005 until 2014. Known for its stylish design, efficient fuel economy, and comfortable ride, it is aimed at urban drivers looking for a compact yet practical vehicle.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "f9290a14-3392-4049-8d32-e0dd2126b378",
+            "image": null,
+            "name": "Peugeot 108",
+            "description": "The Peugeot 108 is a compact city car designed for urban driving, featuring a stylish design and efficient use of space. It emphasizes maneuverability and fuel efficiency, making it ideal for city dwellers.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "fc474b39-36a2-46c0-a818-2e591fddd5fe",
+            "image": null,
+            "name": "Peugeot 508 SW",
+            "description": "The Peugeot 508 SW is a stylish and spacious station wagon designed for comfort and practicality, making it suitable for both urban driving and long-distance journeys.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "1ee09e67-77e1-4c50-8094-8bda4526799c",
+            "image": null,
+            "name": "Peugeot 2008 (Facelift)",
+            "description": "The Peugeot 2008 (Facelift) is a compact crossover SUV that features a refreshed design and updated technology, aiming to provide a balance of style, practicality, and performance for urban driving and lifestyle needs.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "22c0b6a0-b5d5-4f0a-927f-d8ec24250338",
+            "image": null,
+            "name": "Subaru XV",
+            "description": "The Subaru XV is a compact crossover SUV designed to offer versatility and all-terrain capability, combining Subaru's signature all-wheel drive with a spacious interior and sporty handling.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "263f0da3-4d85-4c33-b603-714478bcb895",
+            "image": null,
+            "name": "Subaru Crosstrek (second generation)",
+            "description": "The Subaru Crosstrek (second generation) is a compact SUV that blends versatility and efficiency, designed for both urban environments and off-road adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2cfd8c35-b38c-40f5-a77d-392901480c8f",
+            "image": null,
+            "name": "Subaru Tribeca",
+            "description": "The Subaru Tribeca is a mid-size SUV designed for families, featuring all-wheel drive capability and a spacious interior for comfort and utility.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "57c47360-7fe9-4a0a-a39a-a160c4a15f00",
+            "image": null,
+            "name": "Peugeot 508 (second generation)",
+            "description": "The Peugeot 508 (second generation) is a stylish mid-size car designed for comfort and efficiency, offering a range of advanced technology features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "64cd6c2b-2ab6-4ef8-b228-fb6f8c9a4ac3",
+            "image": null,
+            "name": "Philips Avent Fast Bottle Warmer",
+            "description": "The Philips Avent Fast Bottle Warmer is designed to quickly and evenly warm baby bottles and food jars, ensuring that meals are ready in minutes. Its user-friendly design and safety features make it a reliable choice for parents.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f8e72ef6-342a-46a9-a7c0-9db691f70fad",
+            "image": null,
+            "name": "KTM 690 Enduro R",
+            "description": "The KTM 690 Enduro R is a versatile off-road motorcycle designed for both trail and enduro riding, featuring a powerful single-cylinder engine and lightweight frame that provide exceptional handling and performance on rugged terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "6f32aaf5-c06b-4300-a98c-aab5249affcb",
+            "image": null,
+            "name": "Vespa GTS 300",
+            "description": "The Piaggio Vespa GTS 300 is a modern scooter that embodies the classic Vespa style while offering powerful performance and advanced technology, making it ideal for urban commuting and leisure riding.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "8184d07f-376d-44bd-83bc-863013926fe5",
+            "image": null,
+            "name": "Peg Perego Booklet",
+            "description": "The Peg Perego Booklet series offers a lightweight and compact stroller designed for easy maneuverability and convenience, making it ideal for parents on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e123f4a-8b68-4b26-9fa6-9006b7f84620",
+            "image": null,
+            "name": "Puma Fierce",
+            "description": "The Puma Fierce is a popular sneaker series released in 2017, designed to provide both style and performance, targeting athletes and casual wearers alike with its unique silhouette and comfortable fit.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "9270a842-2c35-4bf6-82c7-6d32a9944796",
+            "image": null,
+            "name": "Dodo Juice Supernatural Hybrid",
+            "description": "Dodo Juice Supernatural Hybrid is a premium car care product line specifically designed to enhance the appearance and protection of vehicle surfaces, combining the benefits of wax and sealant for long-lasting shine and durability.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "950538be-7ae4-4e86-adc6-c0cc0d535dd5",
+            "image": null,
+            "name": "KTM 690 Enduro",
+            "description": "The KTM 690 Enduro is a lightweight off-road motorcycle designed for versatile performance in rugged terrains, combining agility with powerful capability.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "97c89390-fc77-4b5e-97ad-06b866c8b960",
+            "image": null,
+            "name": "Bimota DB11",
+            "description": "The Bimota DB11 is a high-performance motorcycle known for its agility, lightweight construction, and advanced engineering, aimed at experienced riders seeking a blend of comfort and sporty performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "abbe388d-7b70-4ab8-b6a4-81e7a4d09412",
+            "image": null,
+            "name": "Piaggio MP3 300",
+            "description": "The Piaggio MP3 300 is a three-wheeled scooter designed for enhanced stability and comfort, making it suitable for urban commuting and leisurely rides.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "cafa358c-0f62-43ce-98a0-ecc34f9ab7ea",
+            "image": null,
+            "name": "Chicco GoFit Belt-Positioning Booster Seat",
+            "description": "The Chicco GoFit Belt-Positioning Booster Seat is designed to provide safety and comfort for children who have outgrown their forward-facing car seats. It features a lightweight and portable design, making it easy to move between vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "d6cab53f-251f-4ebd-b180-640b9a1ecf8b",
+            "image": null,
+            "name": "Series 1",
+            "description": "The Steelcase Series 1 is an adaptable office chair designed to support a wide range of users with its ergonomic design and customizable features, enhancing comfort and productivity in the workplace.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "10cd2d05-0c9b-484a-98cd-c82019303ece",
+            "image": null,
+            "name": "ActiveWater 90",
+            "description": "The Bosch ActiveWater 90 series consists of energy-efficient washing machines designed to optimize water usage while providing thorough cleaning performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Bosch"
+            }
+        },
+        {
+            "id": "209a5de5-04b2-4fa7-a778-31ff4ceb65aa",
+            "image": null,
+            "name": "KTM 690 SMC",
+            "description": "The KTM 690 SMC is a lightweight supermoto motorcycle known for its agility, responsive handling, and powerful single-cylinder engine, making it suitable for both street and light off-road use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "30a3e342-2745-42f8-91b4-bd5222f17365",
+            "image": null,
+            "name": "Street Triple R",
+            "description": "The Triumph Street Triple R is a versatile and performance-oriented motorcycle designed for agile handling and spirited riding. It features a lightweight chassis and powerful engine, making it suitable for both urban commuting and spirited twisty roads.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "383b78f0-aaf0-4ec5-8930-00994c72483c",
+            "image": null,
+            "name": "Kawasaki Vulcan 1700",
+            "description": "The Kawasaki Vulcan 1700 is a series of cruiser motorcycles known for their powerful performance, comfortable riding experience, and stylish design, catering to riders looking for both long-distance comfort and city maneuverability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "39d55046-40f7-4fd1-8cd6-ff4ff0bd6ca1",
+            "image": null,
+            "name": "Louis Vuitton LV Trainer",
+            "description": "The Louis Vuitton LV Trainer is a high-top sneaker designed for both style and comfort, embodying the brand's luxurious craftsmanship and sporty aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3b1a84e2-8593-437d-b5ac-f4c8e3ec7203",
+            "image": null,
+            "name": "Speed Triple",
+            "description": "The Triumph Speed Triple is a powerful naked motorcycle known for its agile handling, distinctive design, and high-performance capabilities, making it a popular choice among riders seeking a dynamic road experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "40c50e9a-c599-410e-b9dd-b48170121af3",
+            "image": null,
+            "name": "KTM 450 SX-F",
+            "description": "The KTM 450 SX-F is a high-performance motocross motorcycle designed for competitive racing, offering a powerful engine and advanced suspension for superior handling on varied terrains.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "4cacef98-f6ce-4bd9-a991-8637470b9be3",
+            "image": null,
+            "name": "Piaggio Fly",
+            "description": "The Piaggio Fly is a versatile scooter designed for urban commuting, offering agility and comfort for riders in city environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "56c3465b-0e56-44fc-b3c6-3eed97e57250",
+            "image": null,
+            "name": "Vespa Primavera",
+            "description": "The Piaggio Vespa Primavera is a stylish scooter designed for urban mobility, combining classic Vespa aesthetics with modern technology for efficient transportation.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        }
+    ]
+}

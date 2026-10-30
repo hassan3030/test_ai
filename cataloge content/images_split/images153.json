@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c02b361f-a200-4edf-a0cc-7b8f6d01c6d4",
+            "image": null,
+            "name": "Lenovo Legion 5i Pro",
+            "description": "The Lenovo Legion 5i Pro is a high-performance gaming laptop series designed to deliver powerful graphics and smooth gameplay, catering to gaming enthusiasts and professionals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "e782b89a-a07d-42c0-94b1-41eac247b109",
+            "image": null,
+            "name": "Doro 7010",
+            "description": "The Doro 7010 is a straightforward mobile phone designed primarily for seniors, featuring large buttons, an easy-to-read display, and essential functions to ensure user-friendly communication.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "a383b884-0dd4-4f2c-bae8-6753e9f74319",
+            "image": null,
+            "name": "Doro 2404",
+            "description": "The Doro 2404 is a simplified mobile phone designed for ease of use, particularly targeted towards seniors. It features large buttons, a clear display, and essential functions to help users stay connected.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "5ed3bec7-3a94-4479-8812-dc0237131f9c",
+            "image": null,
+            "name": "Doro 8080",
+            "description": "The Doro 8080 is a senior-friendly smartphone designed to simplify communication and enhance accessibility for older users. It features an intuitive interface, large icons, and essential functions tailored for ease of use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "0c0ed8fa-7fee-41f4-95d0-531c0e56f5c0",
+            "image": null,
+            "name": "Tom Ford FT0537",
+            "description": "The Tom Ford FT0537 sunglasses embody a modern and sophisticated style, combining luxury design with effective UV protection for optimal eye care.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "aa7e2ca2-15fb-40e1-afa4-032a45bea7ba",
+            "image": null,
+            "name": "Tom Ford FT0538",
+            "description": "The Tom Ford FT0538 sunglasses are a stylish eyewear option designed to provide both protection from sunlight and a modern aesthetic that complements various fashion styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "84b08c92-900e-4684-aa12-60c54ed97420",
+            "image": null,
+            "name": "Tom Ford FT0539",
+            "description": "The Tom Ford FT0539 sunglasses are a stylish and sophisticated eyewear choice designed to provide UV protection and enhance personal style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "e608d32e-93cf-49a5-bc26-d69bd0f61439",
+            "image": null,
+            "name": "Schmincke Horadam AQUARELL 2016",
+            "description": "Schmincke Horadam AQUARELL 2016 is a premium line of watercolors known for their high lightfastness, excellent pigment concentration, and smooth consistency, suitable for professional artists and hobbyists alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "17c2b8ad-f935-4428-9ba4-ca05f97846e9",
+            "image": null,
+            "name": "Schmincke Horadam AQUARELL",
+            "description": "Schmincke Horadam AQUARELL is a series of artist-quality watercolors known for their high pigmentation, lightfastness, and excellent rewetting properties, making them suitable for both professional and amateur painters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "f9dac257-03e4-4206-aeac-4cbb783a9c50",
+            "image": null,
+            "name": "Schmincke Oil Colors",
+            "description": "Schmincke Horadam Oil Colors are high-quality artist oils characterized by their excellent pigment dispersion and lightfastness, designed for professional artists and enthusiasts alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "8d73d8d4-04ed-4a2f-ba99-e01dda4a5545",
+            "image": null,
+            "name": "Crucial P5",
+            "description": "The Crucial P5 series consists of NVMe solid-state drives designed to enhance data storage performance for both everyday users and gamers, offering faster read and write speeds compared to traditional SATA SSDs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Crucial"
+            }
+        },
+        {
+            "id": "c724d734-6d75-4b48-adce-a31929685ecd",
+            "image": null,
+            "name": "Crucial P5 Plus",
+            "description": "The Crucial P5 Plus is an NVMe SSD designed to enhance computing performance with fast read and write speeds, ideal for gaming and intensive applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Crucial"
+            }
+        },
+        {
+            "id": "0e985818-22b5-4348-a75a-fd94de28b94f",
+            "image": null,
+            "name": "XPG Gammix S70",
+            "description": "The Adata XPG Gammix S70 is a high-performance PCIe Gen4 NVMe solid-state drive designed for gamers and PC enthusiasts. It offers fast read and write speeds to enhance system responsiveness and reduce loading times in games and applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Adata"
+            }
+        },
+        {
+            "id": "dee5d798-86f1-486b-9d88-3df8ed64fc72",
+            "image": null,
+            "name": "XPG CASTER",
+            "description": "The Adata XPG CASTER series comprises high-performance DDR4 gaming memory designed to provide gamers with enhanced speed and efficiency for demanding PC applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Adata"
+            }
+        },
+        {
+            "id": "cdf0d83f-76ea-4160-ae95-a60831a3fbc9",
+            "image": null,
+            "name": "G-Shock GAB2100 Series",
+            "description": "The G-Shock GAB2100 Series by Casio features a robust design with an analog-digital display, catering to outdoor enthusiasts with its shock resistance and water resistance capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "ad8eeaaf-0318-4a75-9287-3122149de043",
+            "image": null,
+            "name": "G-Shock G-SQUAD GBD200 Series",
+            "description": "The Casio G-Shock G-SQUAD GBD200 Series is a range of durable smartwatches designed primarily for sports and fitness enthusiasts, featuring tracking capabilities and robust build quality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "a7a5d0e7-d1df-467e-a66a-658d87e8687e",
+            "image": null,
+            "name": "Seagate Game Drive for Xbox Series X",
+            "description": "The Seagate Game Drive for Xbox Series X is an external hard disk designed to enhance the storage capacity of Xbox Series X consoles, allowing users to store and access more games efficiently.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "cbdf6c88-fda1-4586-af05-b254c3311c06",
+            "image": null,
+            "name": "Seagate Expansion Card for Xbox Series X|S",
+            "description": "The Seagate Expansion Card for Xbox Series X|S is an external storage solution designed to seamlessly expand the gaming capacity of Xbox Series X and Series S consoles, enabling players to store more games and content.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "8ca9aca8-ee0c-4a2e-9b93-dc4faa11e924",
+            "image": null,
+            "name": "Game Drive for Xbox",
+            "description": "The Seagate Game Drive for Xbox is a portable external hard disk designed to expand the storage capacity of Xbox consoles, allowing gamers to store more games and data seamlessly.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "bffea04b-9c26-4275-ac22-b5adcf0dd004",
+            "image": null,
+            "name": "Expansion SSD",
+            "description": "The Seagate Expansion SSD is a portable solid-state drive designed for quick and reliable storage expansion with high-speed data transfer capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "d3731879-be83-4424-84dc-3be6cc225d19",
+            "image": null,
+            "name": "Seagate FireCuda 530",
+            "description": "The Seagate FireCuda 530 is a high-performance NVMe SSD designed for gaming and creative applications, offering rapid data transfer speeds and robust durability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "33c054c6-0799-4747-bad6-6b8bc4673258",
+            "image": null,
+            "name": "Sabrent Rocket",
+            "description": "The Sabrent Rocket series is a collection of high-performance SSDs designed to provide fast storage solutions for computers and gaming systems, featuring NVMe technology for enhanced data transfer speeds.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Sabrent"
+            }
+        },
+        {
+            "id": "15e4f35d-2ecc-4c8f-a7ed-0e2dee2ce93e",
+            "image": null,
+            "name": "Sabrent USB 3.0 Hub",
+            "description": "The Sabrent USB 3.0 Hub is designed to expand the number of USB ports available on a computer, allowing users to connect multiple devices simultaneously at high speeds. It is particularly useful for gamers and professionals who rely on numerous peripherals.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Sabrent"
+            }
+        },
+        {
+            "id": "ce823ad6-b6f5-4c31-99f7-d1791a936a60",
+            "image": null,
+            "name": "Sabrent Rocket Q",
+            "description": "The Sabrent Rocket Q is a series of high-performance NVMe solid-state drives designed for fast data storage solutions, ideal for gaming, content creation, and professional tasks requiring rapid read and write speeds.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Sabrent"
+            }
+        },
+        {
+            "id": "514fe6ef-65d9-4965-99d5-9444a30fc6fb",
+            "image": null,
+            "name": "MTS Series M.2 SSDs",
+            "description": "The Transcend MTS Series M.2 SSDs are high-performance solid-state drives designed for use in laptops and desktops, offering fast data transfer speeds and enhanced reliability for demanding applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "374de50d-061f-4174-8885-0b59243d6ca9",
+            "image": null,
+            "name": "RDM Series SSDs",
+            "description": "The Transcend Information RDM Series SSDs are designed to enhance data transfer speed and reliability for PCs and laptops, featuring a compact M.2 form factor suitable for various applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "3b5a35df-7366-4af8-98e1-8848da91a86b",
+            "image": null,
+            "name": "JetFlash 790",
+            "description": "The Transcend JetFlash 790 is a series of USB flash drives designed for reliable data storage and transfer, featuring a compact design and a variety of storage capacities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "c33203b4-52b1-4ca3-914d-64c0e519f1d7",
+            "image": null,
+            "name": "JetFlash 890",
+            "description": "The Transcend JetFlash 890 series is a line of USB flash drives designed for reliable storage and fast data transfer, catering to users who require portability and convenience for their data storage needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "6956ad26-ed56-4b30-95e6-47d435cff16d",
+            "image": null,
+            "name": "JetFlash 930C Series",
+            "description": "The Transcend JetFlash 930C Series are USB flash drives designed for reliable data storage and transfer, offering a user-friendly design and efficient performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "6bcbad45-ea2e-451c-a53d-f0b64e832ba1",
+            "image": null,
+            "name": "CFexpress 2.0 Memory Cards",
+            "description": "Transcend Information's CFexpress 2.0 Memory Cards are designed for high-performance storage solutions, offering fast data transfer speeds suitable for professional photographers and videographers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        }
+    ]
+}

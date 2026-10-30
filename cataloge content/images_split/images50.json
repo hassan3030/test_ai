@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "92e81175-9d0a-44c7-9ef1-9c8328067d5b",
+            "image": null,
+            "name": "Miele Lono",
+            "description": "The Miele Lono series includes high-quality coffee machines designed for home use, focusing on precision brewing and user-friendly interfaces to deliver a café-like experience at home.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "01003c1a-b62d-426a-8f7e-807e69fd048a",
+            "image": null,
+            "name": "Toyota Avensis",
+            "description": "The Toyota Avensis is a mid-size car produced by Toyota, designed to offer a blend of comfort, reliability, and practicality for everyday driving needs.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "02a71035-84d6-4c6d-a1b6-da41d37aff15",
+            "image": null,
+            "name": "Great Wall Wingle 5",
+            "description": "The Great Wall Wingle 5 is a mid-sized pickup truck designed for versatility and utility, offering a reliable option for both commercial and personal use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "04252a51-d18a-46ff-baf7-dfd691fa53c0",
+            "image": null,
+            "name": "Renault Kangoo",
+            "description": "The Renault Kangoo is a versatile compact van designed for both commercial and personal use, offering practical solutions for transporting goods and passengers.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "0d1e9aa7-41fd-4626-85a8-5518f940340f",
+            "image": null,
+            "name": "Great Wall Poer",
+            "description": "The Great Wall Poer is a versatile pickup truck designed for both work and leisure, offering durability and functionality to meet the demands of various lifestyles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "1b7b9c83-1f66-40a1-b5d4-c1c199332779",
+            "image": null,
+            "name": "Škoda Kamiq",
+            "description": "The Škoda Kamiq is a compact SUV launched by Skoda Auto in 2018, designed to offer a practical balance of urban agility and versatility for everyday driving needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "2405893d-f780-41bc-8ecf-5abe471dd616",
+            "image": null,
+            "name": "Mercedes-AMG C 63",
+            "description": "The Mercedes-AMG C 63 is a high-performance luxury sedan known for its powerful engine, dynamic handling, and sophisticated design. It represents the pinnacle of automotive engineering in the compact executive car class, delivering thrilling performance alongside comfort and style.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "2fecd285-aaaa-4862-a1e0-24f0b51419c9",
+            "image": null,
+            "name": "Royal Enfield Himalayan",
+            "description": "The Royal Enfield Himalayan is an adventure touring motorcycle designed for both on-road and off-road riding, emphasizing practicality and versatility for long-distance journeys.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "3231785e-62fa-4218-811e-e20d713ec83f",
+            "image": null,
+            "name": "OnX6",
+            "description": "The Baja Designs OnX6 series features high-performance LED light bars designed for off-road vehicles, providing superior brightness and durability for enhanced visibility in challenging terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "3eae9501-0d11-45fd-b06b-36218f68bc82",
+            "image": null,
+            "name": "Honda Accord (Ninth Generation)",
+            "description": "The Honda Accord (Ninth Generation) is a midsize sedan known for its reliability, fuel efficiency, and spacious interior, catering to families and professionals seeking a practical and comfortable vehicle.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4eb614dd-fd09-4ec2-9ae5-ab2cefdf88ba",
+            "image": null,
+            "name": "Skoda Kodiaq",
+            "description": "The Skoda Kodiaq is a mid-size SUV designed to offer a blend of comfort, spaciousness, and versatility for families and adventurers alike. Its robust design and advanced features make it suitable for both urban and off-road driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "4f45d1ae-536c-4f91-b4dc-173599892b3c",
+            "image": null,
+            "name": "Haval H2",
+            "description": "The Haval H2 is a compact SUV manufactured by Great Wall Motors, designed to offer a balance of style, comfort, and advanced technology for urban and suburban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "58ace461-bf4a-48a6-85e5-a398152e79f3",
+            "image": null,
+            "name": "Maruti Suzuki Ritz",
+            "description": "The Maruti Suzuki Ritz is a compact hatchback known for its unique design, spacious interior, and fuel efficiency, making it a popular choice among urban commuters.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "ddd80293-bae0-43f3-a648-a2506f504692",
+            "image": null,
+            "name": "Renault Laguna III",
+            "description": "The Renault Laguna III is a mid-size family car produced by Renault. It is known for its comfort, advanced safety features, and a range of efficient engines.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "79a4edfc-489f-4259-8d73-a3ad1816702e",
+            "image": null,
+            "name": "Honda CR-V (Fourth Generation)",
+            "description": "The Honda CR-V (Fourth Generation) is a compact SUV that offers a balance of practicality, comfort, and efficiency, making it suitable for both urban and outdoor adventures.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a0b196b7-fbe0-4d31-9b72-d1e62203dcac",
+            "image": null,
+            "name": "Maruti Suzuki Baleno",
+            "description": "The Maruti Suzuki Baleno is a compact hatchback car first released in 2006, known for its spacious interior, fuel efficiency, and modern design, making it a popular choice among urban drivers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "e2584e2e-9570-4a4f-a6ab-3f589619663c",
+            "image": null,
+            "name": "Toyota Avalon (Fourth Generation)",
+            "description": "The Toyota Avalon (Fourth Generation) is a full-size sedan that offers a blend of comfort, reliability, and advanced technology features, designed to cater to families and individuals seeking a spacious and refined driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "a7b20f86-6ecb-4181-83ac-d6c70446d821",
+            "image": null,
+            "name": "Haval Dargo",
+            "description": "The Haval Dargo is an SUV released by Great Wall Motors in 2022, designed to offer a blend of style, comfort, and off-road capability for urban and adventure driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "bc4b3747-e4f4-4a54-8bae-1c6e73afe1c1",
+            "image": null,
+            "name": "Galaxy Book Ion",
+            "description": "The Samsung Galaxy Book Ion is a lightweight and portable laptop designed for optimal performance and battery life, featuring a QLED display and advanced connectivity options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "ec3179d6-1668-462b-ba2f-5b5714c61b35",
+            "image": null,
+            "name": "Škoda Kodiaq GT",
+            "description": "The Škoda Kodiaq GT is a mid-size SUV designed for versatility and comfort, featuring a sporty design and spacious interior to accommodate both family needs and active lifestyles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "bf5903f8-318b-454a-b7e6-1bb8c6cb4435",
+            "image": null,
+            "name": "Galaxy Book Flex 5G",
+            "description": "The Samsung Galaxy Book Flex 5G is a 2-in-1 laptop designed to offer flexibility and connectivity with its 5G capabilities, making it suitable for users who require portability and high-speed internet access.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "cbb51a55-bc4b-4893-989d-1324cd4c884a",
+            "image": null,
+            "name": "Lenovo Chromebook Duet",
+            "description": "The Lenovo Chromebook Duet is a versatile 2-in-1 tablet designed for productivity and portability, featuring a detachable keyboard and a lightweight design for easy on-the-go use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "ce19c465-ec47-47f5-ad00-0140dff94001",
+            "image": null,
+            "name": "Can-Am Outlander",
+            "description": "The Can-Am Outlander is a utility ATV designed for versatility and performance in a variety of terrains, catering to both recreational and work-related tasks.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "f2840541-3b34-4d06-b024-c637d56f98fc",
+            "image": null,
+            "name": "Renault Alaskan",
+            "description": "The Renault Alaskan is a mid-size pickup truck designed to combine rugged performance with a comfortable driving experience, catering to both work and leisure needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "d147d3ce-f8cb-4d0e-877e-744bcc8ae779",
+            "image": null,
+            "name": "Surface Laptop 2",
+            "description": "The Microsoft Surface Laptop 2 is a thin and lightweight laptop designed for productivity, featuring a high-resolution touchscreen display and a comfortable keyboard.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "f0d028ec-7b31-49ac-8145-38733d41fdfa",
+            "image": null,
+            "name": "Royal Enfield Electra",
+            "description": "The Royal Enfield Electra is a classic motorcycle series known for its retro styling and reliable performance, appealing to riders who appreciate vintage aesthetics combined with modern engineering.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "d7d21359-57be-4c3f-b67e-7c942c012d8d",
+            "image": null,
+            "name": "Royal Enfield Classic 500",
+            "description": "The Royal Enfield Classic 500 is a retro-styled motorcycle known for its classic design, making it popular among riders who appreciate vintage aesthetics and modern performance. It combines timeless looks with reliable engineering for urban commuting and leisure riding.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "be79ba71-7e33-4105-a372-640f1956483f",
+            "image": null,
+            "name": "Lexus GS 460",
+            "description": "The Lexus GS 460 is a luxury sedan that combines performance, comfort, and advanced technology features for an upscale driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "03f54bb6-d489-463f-94c1-9b0eb44936d4",
+            "image": null,
+            "name": "Maruti Suzuki DZiRE",
+            "description": "The Maruti Suzuki DZiRE is a compact sedan launched in 2006, designed to offer a blend of comfort, performance, and fuel efficiency for urban commuting.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "0860af93-6439-41fc-ad73-c5cd5ea19952",
+            "image": null,
+            "name": "Haval H6 2021",
+            "description": "The Haval H6 is a compact SUV produced by Great Wall Motors, known for its spacious interior, advanced technology features, and strong safety ratings, making it a practical choice for urban and family use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        }
+    ]
+}

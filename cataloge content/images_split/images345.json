@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ebe8937f-fef9-4f3b-a893-d839b83dffe2",
+            "image": null,
+            "name": "Lenovo Smart Clock 2",
+            "description": "The Lenovo Smart Clock 2 is a compact smart home device featuring a digital display and voice assistant capabilities, designed to help manage your daily routines and control smart home devices.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "7c86df84-8204-412b-a9bb-f5e02a128366",
+            "image": null,
+            "name": "Ferrari F2001",
+            "description": "The Ferrari F2001 is a Formula One racing car designed for Scuderia Ferrari to compete in the 2001 Formula One World Championship. It is known for its advanced aerodynamics and powerful V10 engine, contributing to Ferrari's dominance in that racing season.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "e08aaff9-1a1c-46a3-b886-145786dbe895",
+            "image": null,
+            "name": "Blaupunkt San Francisco",
+            "description": "The Blaupunkt San Francisco series is a line of car audio products released in 2000, designed to enhance the listening experience in vehicles through advanced sound technology and user-friendly features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "14d7fa53-cf50-4c8f-988e-5188ff810a46",
+            "image": null,
+            "name": "Blaupunkt Los Angeles 500",
+            "description": "The Blaupunkt Los Angeles 500 is a car audio system released in 2006, designed to deliver high-quality sound and enhance the in-car listening experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "26326f6c-82ff-46ce-83c1-bc6dd89fa05f",
+            "image": null,
+            "name": "Casio Music CT-S1",
+            "description": "The Casio Music CT-S1 is a portable digital keyboard designed for musicians of all levels, featuring a range of sounds and rhythms that allow for versatile music creation and performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "47b32070-ceed-4427-aa8c-44f7107cfc81",
+            "image": null,
+            "name": "Blaupunkt TravelPilot 50",
+            "description": "The Blaupunkt TravelPilot 50 is a portable navigation device designed to provide drivers with accurate GPS navigation and route guidance, ensuring a smoother travel experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "c28b0219-3144-418b-937a-d8a5dbdc2940",
+            "image": null,
+            "name": "Lenovo Yoga 9i Gen 8",
+            "description": "The Lenovo Yoga 9i Gen 8 is a premium convertible laptop designed for versatility, featuring a 360-degree hinge that allows for multiple usage modes, ideal for both productivity and entertainment.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "4b6c973c-e7f1-4a5a-814c-b7ff52a4959d",
+            "image": null,
+            "name": "Ring Stick Up Cam Plug-In",
+            "description": "The Ring Stick Up Cam Plug-In is a versatile indoor/outdoor security camera that connects to power through a plug and provides real-time video, two-way talk, and motion-activated notifications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "66538374-b21b-403a-8af5-3e56b9802b2e",
+            "image": null,
+            "name": "CASIO Casiotone CT-S100",
+            "description": "The CASIO Casiotone CT-S100 is a portable keyboard designed for beginners and music enthusiasts, featuring a variety of sounds and rhythms to inspire creativity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "fd17ad1c-85be-4754-86fc-bb87f4df0e7d",
+            "image": null,
+            "name": "Blaupunkt Tacoma",
+            "description": "The Blaupunkt Tacoma series is designed for enhancing the car audio experience, offering robust sound quality and various features tailored for in-car entertainment.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "1bbaf394-6efd-4928-a1ac-1b1b2be75247",
+            "image": null,
+            "name": "Lenovo IdeaPad S145",
+            "description": "The Lenovo IdeaPad S145 is a budget-friendly laptop series designed for everyday computing tasks, featuring a lightweight design and a variety of display options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "3e432805-e132-414b-a6dd-02dbfe96b638",
+            "image": null,
+            "name": "Lenovo Yoga Duet 7i",
+            "description": "The Lenovo Yoga Duet 7i is a versatile 2-in-1 tablet designed for productivity and creativity, featuring a detachable keyboard and a touchscreen display that supports stylus input.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "3f1fc9c5-1f96-4ce0-8628-630695d3b3ec",
+            "image": null,
+            "name": "Norton V4 S",
+            "description": "The Norton V4 S is a high-performance motorcycle designed for both track and road use, featuring advanced technology and a powerful engine for an exhilarating riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "030861d4-09e4-439e-8ca1-f0f9abb417fe",
+            "image": null,
+            "name": "Lenovo IdeaPad 5 (14, 15, 16)",
+            "description": "The Lenovo IdeaPad 5 series offers versatile laptops designed for both productivity and entertainment, featuring modern designs and robust performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "22f75c0c-cef3-4629-96d2-8b442b145675",
+            "image": null,
+            "name": "Blaupunkt New York 800",
+            "description": "The Blaupunkt New York 800 is a car audio system designed to deliver high-quality sound and a range of multimedia features, enhancing the in-car entertainment experience for users.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "ab7a9688-cf29-4ffa-8cde-4dc1a9133a8a",
+            "image": null,
+            "name": "Frog 43",
+            "description": "The Frog 43 is a lightweight, adjustable bike designed specifically for children aged 4 to 6 years, promoting confidence and enjoyment in cycling from an early age.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "16d15e45-6fd6-4a43-96e0-f781ffbed8f5",
+            "image": null,
+            "name": "Blaupunkt Firenze",
+            "description": "The Blaupunkt Firenze series offers high-quality car audio solutions, designed to enhance the in-car listening experience with superior sound performance and modern features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "7b81386f-f70d-4c4e-b1b8-651aebbbd068",
+            "image": null,
+            "name": "EDIFICE EFS-S550",
+            "description": "The Casio EDIFICE EFS-S550 series is a collection of stylish and durable watches designed for those who appreciate precision and functionality in timekeeping.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "43de8cc5-8c4f-4c78-9ed7-d2451c4fdbdb",
+            "image": null,
+            "name": "Frog Bikes 67",
+            "description": "The Frog Bikes 67 is a lightweight, high-quality bike designed specifically for children aged 6-8 years, promoting a fun and safe cycling experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "38d60556-2559-46c4-ae85-1df7df46996a",
+            "image": null,
+            "name": "Arlo Pro 3 Floodlight Camera",
+            "description": "The Arlo Pro 3 Floodlight Camera is a wireless security camera designed to provide clear video footage and powerful floodlight illumination, ensuring enhanced visibility and security for outdoor spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "3e59316a-99d1-4766-ae9e-dc9d5476bf1b",
+            "image": null,
+            "name": "Frog Bikes 76",
+            "description": "The Frog Bikes 76 is a lightweight children's bicycle designed for kids aged approximately 6-8 years. It features a sturdy frame and easy-to-handle components, making it ideal for young riders learning to gain confidence on two wheels.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "8e837432-988c-42d5-9b48-596dc4c0e19a",
+            "image": null,
+            "name": "Arlo Essential Spotlight Camera",
+            "description": "The Arlo Essential Spotlight Camera is a wireless security camera designed for indoor and outdoor use, featuring a built-in spotlight for enhanced video capture in low-light conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "3d9b9123-01cb-4897-8ba1-6b4fd2b8eaec",
+            "image": null,
+            "name": "Pro Comp Mud Terrain Tires",
+            "description": "The Pro Comp Mud Terrain Tires are designed for off-road enthusiasts seeking superior traction and durability in muddy and rugged terrains. Engineered for performance, they provide enhanced grip and stability for various vehicle types.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "2acd2407-2a81-4547-b673-1c29f8608190",
+            "image": null,
+            "name": "Arlo Essential Doorbell",
+            "description": "The Arlo Essential Doorbell is a smart video doorbell designed to provide homeowners with enhanced security and the ability to see, hear, and speak to visitors from anywhere.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "65d1dc2e-39b0-47a5-9e3f-9c2993114f07",
+            "image": null,
+            "name": "Pro Competitor",
+            "description": "The Pro Comp Tires Pro Competitor series offers high-performance off-road tires designed for extreme terrain, providing superior traction and durability for competitive environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "1cb6de1f-5e63-46ca-a7be-eac0b74c675f",
+            "image": null,
+            "name": "Pro Comp M/T Tires",
+            "description": "The Pro Comp M/T Tires are designed for off-road performance, featuring aggressive tread patterns that enhance traction on rugged terrains while providing durability and stability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "454a3f5a-f8ba-448b-b0cf-278c1fc58481",
+            "image": null,
+            "name": "Lenovo Tab P11 Pro Gen 2",
+            "description": "The Lenovo Tab P11 Pro Gen 2 is a high-performance tablet designed for productivity and entertainment, featuring a stunning display and powerful processing capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "328d8f1a-d92c-4135-91b4-15495ffcd8e6",
+            "image": null,
+            "name": "Ferrari 360",
+            "description": "The Ferrari 360 is a mid-engine sports car that was produced by Ferrari from 1999 to 2005, known for its striking design and high performance. It is equipped with a 3.6-liter V8 engine, offering a combination of speed and agility on the road.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "9ba86c5f-e1ca-4d77-9f0c-741bf8c9c51c",
+            "image": null,
+            "name": "Ring Floodlight Cam Wired Plus",
+            "description": "The Ring Floodlight Cam Wired Plus is a smart home security device that combines a high-definition camera with powerful floodlights and two-way audio for monitoring and deterring potential intruders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "5b2f9820-aa16-4ab4-a7c3-559e2f1fb707",
+            "image": null,
+            "name": "Pro Comp All Terrain XT",
+            "description": "The Pro Comp All Terrain XT is a versatile tire series designed for off-road and on-road use, providing excellent traction and stability across various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        }
+    ]
+}

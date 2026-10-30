@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "6eb2a6b8-ff20-4ba5-9183-71859878cdde",
+            "image": null,
+            "name": "Mickey Thompson Classic",
+            "description": "The Mickey Thompson Classic series offers a range of classic-style tires designed for traction and performance, appealing to both street and off-road enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "de274038-1957-410e-954b-9793ab582530",
+            "image": null,
+            "name": "Mickey Thompson Sportsman SR",
+            "description": "The Mickey Thompson Sportsman SR is a tire designed for high-performance street applications, featuring a classic tread design that offers excellent traction and handling on both wet and dry surfaces.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "70dc5f44-9bcb-4863-9158-a79cf048952a",
+            "image": null,
+            "name": "Baja ATZP3",
+            "description": "The Mickey Thompson Baja ATZP3 is an all-terrain tire designed for off-road performance and on-road comfort, featuring a rugged tread pattern and enhanced grip on various surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "563fbd8d-eee3-4cdd-a026-e9dfd389ab99",
+            "image": null,
+            "name": "Mickey Thompson ATZ P3",
+            "description": "The Mickey Thompson ATZ P3 is an all-terrain tire designed for superior traction and performance on a variety of surfaces, including off-road conditions. It combines a rugged construction with a specialized tread design to enhance stability, durability, and grip.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "823cb330-df7a-47d7-97ae-19829db8b07c",
+            "image": null,
+            "name": "E/T Street",
+            "description": "The Mickey Thompson E/T Street series is designed for street applications while providing high-performance traction and handling, particularly suited for drag racing enthusiasts.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "f9ced934-d5bc-4bff-9563-af857ad484e2",
+            "image": null,
+            "name": "Mickey Thompson Baja Legend EXP",
+            "description": "The Mickey Thompson Baja Legend EXP is an all-terrain tire designed for off-road performance with enhanced traction and durability, suitable for a variety of terrains including mud, sand, and rocky surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "a56c2e9f-70df-452e-b36a-9310896980f5",
+            "image": null,
+            "name": "Pro Comp Xterrain",
+            "description": "The Pro Comp Xterrain series is designed for off-road enthusiasts, offering enhanced traction and durability in challenging terrain. Built to withstand various conditions, these tires are ideal for rugged adventures.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "59f29a1e-1cde-4c7d-9f04-66d76f23dcb2",
+            "image": null,
+            "name": "Pro Comp MT2",
+            "description": "The Pro Comp MT2 series features off-road tires designed for aggressive traction on rugged terrain, with enhanced durability and performance for 4x4 vehicles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "0122b05b-b8f1-4de6-8e18-74819369aec3",
+            "image": null,
+            "name": "Pro Comp Xtreme Mud Terrain (Xtreme MT2)",
+            "description": "The Pro Comp Xtreme Mud Terrain (Xtreme MT2) is designed for extreme off-road performance, featuring an aggressive tread pattern for superior traction in mud and loose terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "170488a5-df92-41f5-adfb-7f4d6d11a461",
+            "image": null,
+            "name": "Pro Comp All Terrain Tire (A/T Sport)",
+            "description": "The Pro Comp All Terrain Tire (A/T Sport) is designed for versatile performance both on and off-road, featuring an aggressive tread pattern for enhanced traction in varied terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "f867a5fa-c219-44b2-9690-3b5d12ccc735",
+            "image": null,
+            "name": "Pro Comp All Terrain Sport",
+            "description": "The Pro Comp All Terrain Sport series offers versatile tires designed for both on-road and off-road performance, featuring a rugged tread pattern for enhanced traction and durability across various terrains.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "54e27b54-9ba3-4c63-a725-1910834f0944",
+            "image": null,
+            "name": "Luxury Series",
+            "description": "The Enkei Wheels Luxury Series offers high-end rims designed for performance and aesthetic appeal, catering to enthusiasts seeking a combination of style and quality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "03f85052-494a-4a02-b07a-10555265f443",
+            "image": null,
+            "name": "Evo Series",
+            "description": "The Enkei Evo Series is a line of high-performance rims designed for racing enthusiasts and car modification, offering a blend of lightweight construction and durability for improved handling and aesthetics.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "f7630d5a-6749-4615-a6d4-0f46970c72e3",
+            "image": null,
+            "name": "RP",
+            "description": "The Enkei RP series consists of high-performance wheels designed for motorsports and street applications, emphasizing durability and lightweight construction.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "d3ba9f90-e831-4d2a-9bd6-9e98dee7ee92",
+            "image": null,
+            "name": "GTC",
+            "description": "The Enkei GTC series offers lightweight aluminum wheels designed for enhanced performance and style, catering to automotive enthusiasts seeking improved handling and aesthetics.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "4cbe23b7-5116-4bad-a853-a5ccabd7b2a6",
+            "image": null,
+            "name": "NTO5",
+            "description": "The Enkei NTO5 is a high-performance wheel designed for motorsport enthusiasts, focusing on lightweight construction and enhanced rigidity to improve handling and responsiveness.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "80ff0153-6715-4d55-a370-8fbf71c3c790",
+            "image": null,
+            "name": "RPF1 Series",
+            "description": "The Enkei RPF1 Series is a lightweight aluminum wheel designed for high performance in motorsport and everyday driving. Its distinctive design and engineering focus on reducing weight while maintaining strength and durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "c40741f9-bd67-4480-b170-99f5880204e9",
+            "image": null,
+            "name": "GEN 2 Series",
+            "description": "The Enkei GEN 2 Series is designed to offer lightweight performance and durability, catering to the needs of automotive enthusiasts and racers alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "59131514-d741-497e-9071-15488f4c75eb",
+            "image": null,
+            "name": "Fuchs Titan Supersyn",
+            "description": "Fuchs Titan Supersyn is a high-performance synthetic engine oil series designed to provide optimal lubrication and protection for various types of vehicles, enhancing engine efficiency and longevity.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "eb42262f-e989-41bc-b233-70093a8734ff",
+            "image": null,
+            "name": "Fuchs Titan GT1",
+            "description": "Fuchs Titan GT1 is a series of high-performance synthetic motor oils designed to provide excellent engine protection and efficiency under various driving conditions. Launched in 2015, these oils are formulated to meet the demands of modern engines, ensuring optimal performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "acfcb05d-ffb7-49da-98ee-2b90099b8965",
+            "image": null,
+            "name": "Fuchs Silkolene",
+            "description": "Fuchs Silkolene is a series of premium car care products designed to enhance the performance and lifespan of automotive surfaces through advanced formulations.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "b05d7e56-ef50-4222-b94f-65a199933b69",
+            "image": null,
+            "name": "Vector",
+            "description": "The American Racing Vector series features lightweight, durable rims designed to enhance the performance and appearance of vehicles, offering a classic design with modern engineering.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "f7568d77-b3a5-438d-829f-d050667b10b0",
+            "image": null,
+            "name": "Rotiform TMB",
+            "description": "The Rotiform TMB is a lightweight performance wheel series designed to enhance vehicle aesthetics and handling. Known for its unique design and precision engineering, it is suited for both street and track applications.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform"
+            }
+        },
+        {
+            "id": "787eab5c-27ac-4869-b9e2-d787ff3f0919",
+            "image": null,
+            "name": "Rotiform DPA",
+            "description": "The Rotiform DPA series features distinctive multi-spoke rim designs that enhance vehicle aesthetics while providing performance and durability. Launched in 2013, these rims are designed to cater to automotive enthusiasts seeking both style and functionality.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform"
+            }
+        },
+        {
+            "id": "8adcf2da-7ad6-4e5d-a94c-3ac9ec3c4905",
+            "image": null,
+            "name": "Rotiform LHR",
+            "description": "The Rotiform LHR series features premium aftermarket wheels designed for automotive enthusiasts, emphasizing unique styling and high performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform"
+            }
+        },
+        {
+            "id": "8fa1a953-8759-4c4a-af10-e22791f33ade",
+            "image": null,
+            "name": "K&N 63 Series AirCharger Intake Systems",
+            "description": "The K&N 63 Series AirCharger Intake Systems are designed to improve airflow to the engine, enhancing horsepower and acceleration while providing superior filtration.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "8e030641-ea1d-4575-9677-09a4de446b6b",
+            "image": null,
+            "name": "K&N 63 Series AirCharger Air Intake Systems",
+            "description": "The K&N 63 Series AirCharger Air Intake Systems are engineered to enhance vehicle performance by increasing airflow and improving engine efficiency. This system replaces the factory air intake system to provide better acceleration and horsepower.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "3b03e9d0-6d15-43e7-977b-c18f7b90b694",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Intake Systems",
+            "description": "The K&N 77 Series High-Flow Intake Systems are designed to enhance engine performance by increasing air intake efficiency, thus providing improved throttle response and acceleration. These systems are engineered for easy installation and optimized for various vehicle models.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "df2f96a8-f8bd-4d96-a540-83c0c6289854",
+            "image": null,
+            "name": "K&N Cool Air Intake Systems",
+            "description": "K&N Cool Air Intake Systems are aftermarket performance air intake systems designed to improve engine airflow, resulting in increased horsepower and torque. These systems typically replace the factory air intake to allow for a cooler and denser air supply, enhancing overall vehicle performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "500fc260-212e-445e-963d-ffa48218de97",
+            "image": null,
+            "name": "Clevo N850HK",
+            "description": "The Clevo N850HK is a high-performance laptop series designed primarily for gaming and demanding applications, featuring powerful hardware configurations and customizable options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        }
+    ]
+}

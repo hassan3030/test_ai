@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ff9f6990-ead0-4359-827d-08f75edcb92f",
+            "image": null,
+            "name": "Secretlab TITAN Evo 2023",
+            "description": "The Secretlab TITAN Evo 2023 is a premium gaming chair designed to provide ergonomic support and comfort during extended gaming sessions. It features adjustable components for personalized fit, high-quality materials, and aesthetics suitable for any gaming setup.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "05c5099b-f6dd-435b-b60e-04c4eba311b6",
+            "image": null,
+            "name": "Shark Vertex",
+            "description": "The Shark Vertex series of vacuum cleaners is designed for powerful cleaning performance and versatility, featuring advanced suction technology and a range of attachments for various surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "20a87d30-789a-4a8b-865b-1df2e53692d8",
+            "image": null,
+            "name": "Bissell Pet Pro",
+            "description": "The Bissell Pet Pro series is designed for effective pet hair removal and deep cleaning of carpets and upholstery, making it an essential tool for pet owners.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "f98dc899-e00a-44c5-845c-6faff1ea1706",
+            "image": null,
+            "name": "Bissell Symphony",
+            "description": "The Bissell Symphony series features versatile vacuum cleaners designed for multi-surface cleaning, effectively combining vacuuming and steam mopping for enhanced cleaning results.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "674d5c81-a8a7-4f16-9ca5-c6a0c1fc81c2",
+            "image": null,
+            "name": "Bissell Pet Hair Eraser Turbo",
+            "description": "The Bissell Pet Hair Eraser Turbo is a vacuum cleaner designed specifically for pet owners, featuring powerful suction and specialized tools to effectively remove pet hair and dander from various surfaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "c2c8f403-87ad-4196-a0de-d3c0f956fdc1",
+            "image": null,
+            "name": "Roborock S4",
+            "description": "The Roborock S4 is a robotic vacuum cleaner designed for efficient home cleaning, equipped with advanced navigation technology and strong suction power to effectively remove dirt and debris from various floor types.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "0a21efb3-3513-497d-a9d3-84c57d6ef1b0",
+            "image": null,
+            "name": "Roborock S7",
+            "description": "The Roborock S7 series includes advanced robotic vacuum cleaners designed for efficient cleaning with features such as mopping, obstacle avoidance, and powerful suction capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "376f53d9-bec4-4fe1-90f0-fe6eb04a9343",
+            "image": null,
+            "name": "Roborock S7 MaxV",
+            "description": "The Roborock S7 MaxV is a robotic vacuum cleaner designed for efficient floor cleaning, utilizing advanced technology to navigate and map spaces while offering features like mopping capabilities and obstacle avoidance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "ec0ff025-f2cc-487a-8a12-4e742544e7f2",
+            "image": null,
+            "name": "Roomba 980",
+            "description": "The iRobot Roomba 980 is a robotic vacuum cleaner released in 2016, designed to autonomously clean floors while navigating around furniture and obstacles using advanced sensors and mapping technologies.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "11a03aa0-683f-435f-b894-2c3cddd2022d",
+            "image": null,
+            "name": "Roomba i7+",
+            "description": "The iRobot Roomba i7+ is a robotic vacuum cleaner designed for automatic floor cleaning and advanced dirt detection, featuring smart mapping technology for efficient cleaning in user-defined areas.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "5891b875-03c7-4f42-b3f8-43a04a718b1b",
+            "image": null,
+            "name": "Roomba i3 EVO",
+            "description": "The iRobot Roomba i3 EVO is a robotic vacuum cleaner designed for efficient cleaning of various floor types, equipped with smart navigation and powerful suction.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "dff1e277-f20e-43f7-906d-095d6395c34a",
+            "image": null,
+            "name": "Roomba Combo j7+",
+            "description": "The iRobot Roomba Combo j7+ is a versatile robotic vacuum cleaner designed for effective cleaning of both carpets and hard floors, featuring self-emptying capabilities and advanced navigation technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "d115cb2d-6f8b-4ed8-b439-a4a81bc89dc6",
+            "image": null,
+            "name": "Tineco Pure One S11",
+            "description": "The Tineco Pure One S11 is a cordless vacuum cleaner designed for efficient and powerful cleaning, featuring smart suction control and a lightweight design for easy maneuverability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "f26271f4-e69f-45bc-a85e-b99306adc5e5",
+            "image": null,
+            "name": "Nilfisk ATTIX 30",
+            "description": "The Nilfisk ATTIX 30 series is a line of professional-grade wet and dry vacuum cleaners designed for versatile cleaning in various environments, including construction sites and workshops.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Nilfisk"
+            }
+        },
+        {
+            "id": "26673d6b-94e4-491e-a9c3-97ad249d3913",
+            "image": null,
+            "name": "Nilfisk C 320",
+            "description": "The Nilfisk C 320 is a versatile vacuum cleaner designed for efficient cleaning tasks, featuring a compact design suitable for various indoor environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Nilfisk"
+            }
+        },
+        {
+            "id": "8c7b2e96-0031-40b6-9a86-93becb7c5986",
+            "image": null,
+            "name": "Dirt Devil Power Air",
+            "description": "The Dirt Devil Power Air is a lightweight upright vacuum cleaner designed for efficient cleaning on both carpets and hard floors, featuring a bagless design for easy maintenance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "5bc7a998-230e-4d79-965c-493b5f0832fb",
+            "image": null,
+            "name": "Dirt Devil SimpliStik",
+            "description": "The Dirt Devil SimpliStik is a versatile and lightweight stick vacuum cleaner designed for quick clean-ups and efficient performance on various surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "712f90ef-80eb-4f01-93b9-248948330551",
+            "image": null,
+            "name": "Bear Air Fryer",
+            "description": "The Bear Air Fryer series features advanced air frying technology designed to cook food with less oil while maintaining flavor and texture.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Bear"
+            }
+        },
+        {
+            "id": "ab7bb8a0-6e1e-4331-b041-62e51dcc74a3",
+            "image": null,
+            "name": "Bear Blender",
+            "description": "The Bear Blender series is designed for efficient blending and mixing, featuring powerful motors and versatile functions to handle a variety of food preparation tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Bear"
+            }
+        },
+        {
+            "id": "4c023782-fbb2-474e-8799-d23d891a1d37",
+            "image": null,
+            "name": "Bear Coffee Machine",
+            "description": "The Bear Coffee Machine series offers a range of efficient and user-friendly coffee machines designed for home brewing, providing a convenient way to enjoy freshly brewed coffee.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Bear"
+            }
+        },
+        {
+            "id": "d561c662-b502-46e8-801d-586c560882f2",
+            "image": null,
+            "name": "Whirlpool WRS325SDHM",
+            "description": "The Whirlpool WRS325SDHM is a top-freezer refrigerator that offers a combination of storage space and energy efficiency, designed to meet the needs of modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "bbb676bb-f8a7-4abc-a94f-960c4637ae19",
+            "image": null,
+            "name": "Whirlpool WRX Series",
+            "description": "The Whirlpool WRX Series is a line of side-by-side refrigerators designed to provide convenient storage solutions and modern features that enhance food preservation and accessibility.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "366ac6f5-e346-4ed2-94ac-5e4c7abb72c1",
+            "image": null,
+            "name": "Whirlpool WRS Series",
+            "description": "The Whirlpool WRS Series refrigerators are designed to offer reliable food preservation with efficient features, ensuring freshness and convenience for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "25857f8a-6423-4a28-8a98-81e66431ce02",
+            "image": null,
+            "name": "Whirlpool Gold Series",
+            "description": "The Whirlpool Gold Series Refrigerators are designed to offer advanced cooling technology and spacious storage options, catering to the needs of modern kitchens.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "449209cb-445b-4081-bddd-f54050840621",
+            "image": null,
+            "name": "Dawlance 9190WB",
+            "description": "Dawlance 9190WB is a top-mounted refrigerator designed for efficient cooling and ample storage capacity featuring a sleek design and user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "970db108-e237-4636-92f0-b311fcd16cbd",
+            "image": null,
+            "name": "Smart Top Load Washers",
+            "description": "The Whirlpool Smart Top Load Washers are innovative washing machines designed to offer convenience and efficiency, featuring smart technology that allows users to control and monitor their laundry remotely.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "d62bd737-86b9-49bf-8ea6-560bd2e46b24",
+            "image": null,
+            "name": "Godrej Eon",
+            "description": "The Godrej Eon series consists of energy-efficient refrigerators designed to provide optimal cooling while minimizing power consumption. These refrigerators combine modern aesthetics with innovative features to enhance storage convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "26c46927-a466-4dee-8c1d-68b81a491654",
+            "image": null,
+            "name": "Godrej 5 Star Refrigerators",
+            "description": "Godrej 5 Star Refrigerators are energy-efficient cooling appliances designed to provide optimal temperature control and preserve food freshness.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "c035bb97-b55d-4403-a200-141a65da5653",
+            "image": null,
+            "name": "Godrej GSN 581",
+            "description": "The Godrej GSN 581 is a refrigerator series designed to provide efficient cooling solutions with a focus on energy saving and reliability, suitable for modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "4f5e60b7-0cfe-42b7-9a03-20391a14a03a",
+            "image": null,
+            "name": "Godrej Edge",
+            "description": "The Godrej Edge series consists of water heaters designed for efficient heating while ensuring safety and durability. Launched in 2016, these appliances focus on providing reliable hot water solutions for household needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        }
+    ]
+}

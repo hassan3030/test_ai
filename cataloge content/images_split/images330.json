@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c0e5b944-79b0-4c4a-a44e-02d315721e17",
+            "image": null,
+            "name": "L'AQUARELLE Watercolors",
+            "description": "Sennelier's L'AQUARELLE Watercolors are high-quality, professional-grade watercolors designed for artists seeking vibrant pigments and smooth application. They are known for their exceptional blending capabilities and lightfast properties.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "5614e5d2-8b9d-46c2-a30c-86d5ad2aa239",
+            "image": null,
+            "name": "P3 Series",
+            "description": "The Takamine P3 Series offers high-quality acoustic guitars known for their blend of traditional craftsmanship and modern technological enhancements, catering to both professional musicians and enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Takamine"
+            }
+        },
+        {
+            "id": "6f8f87fc-4e99-4293-89ad-3a1c542c97ed",
+            "image": null,
+            "name": "Renault Thalia",
+            "description": "The Renault Thalia is a compact sedan designed for urban use, offering practicality and efficiency for everyday driving.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "ff549847-68dc-4dfd-80dd-51d183cf1f22",
+            "image": null,
+            "name": "Renault Mégane IV",
+            "description": "The Renault Mégane IV is a compact car that blends stylish design with practical features, aimed at providing a comfortable driving experience and efficient performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "4af7fe83-97e0-4070-a7c7-00e4b30624b2",
+            "image": null,
+            "name": "Kikù",
+            "description": "The Kikù series by Pedrali features stylish and functional chairs designed for both residential and commercial spaces, emphasizing comfort and modern aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "021dea17-37fd-429b-ab9a-08c9597ec187",
+            "image": null,
+            "name": "P5 Series",
+            "description": "The Takamine P5 Series is a collection of premium acoustic guitars designed for professional musicians, featuring high-quality craftsmanship, acoustic resonance, and versatile tonal options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Takamine"
+            }
+        },
+        {
+            "id": "52527186-8f45-43fc-87a3-ba9bda36ae1a",
+            "image": null,
+            "name": "Renault Master III",
+            "description": "The Renault Master III is a versatile commercial van designed for various business needs, offering ample cargo space and practicality for transporting goods and equipment.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "2d203e39-d2df-4fab-bebf-73f6d19e533b",
+            "image": null,
+            "name": "Optimo H727",
+            "description": "The Hankook Optimo H727 is a touring all-season tire designed for enhanced comfort and performance in various driving conditions, featuring a symmetrical tread pattern for improved handling and longevity.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "75be2e0c-f087-42cb-8968-b81afc0db8da",
+            "image": null,
+            "name": "Little Tikes Epic Course",
+            "description": "The Little Tikes Epic Course series is designed to provide children with a fun and interactive way to develop their gross motor skills and engage in imaginative play through obstacle courses and physical challenges.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "7145066d-99df-4ea2-a0a7-d90f2320711f",
+            "image": null,
+            "name": "Wrangler MT/R",
+            "description": "The Goodyear Wrangler MT/R is an all-terrain tire designed for off-road driving, featuring an aggressive tread pattern for enhanced traction on rugged surfaces and improved handling in challenging conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "f897b0ac-565f-47fc-9d47-d2c07a26b8a1",
+            "image": null,
+            "name": "Tecno Pova 4",
+            "description": "The Tecno Pova 4 is a smartphone designed to provide reliable performance and extended battery life, catering to users who prioritize efficiency and usability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "4d0350a4-21ab-4c20-bb80-3c6203488e97",
+            "image": null,
+            "name": "Dynapro HP2",
+            "description": "The Hankook Dynapro HP2 is a tire designed for high-performance on-road use, providing enhanced handling and comfort for SUVs and light trucks.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "22c92c49-4f2b-4749-b137-0efe0ab7562c",
+            "image": null,
+            "name": "Fortera HL",
+            "description": "The Goodyear Fortera HL series is designed for SUV and crossover vehicles, providing enhanced traction and comfort for various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "d62cc67e-e323-4e95-9802-023874b1ce49",
+            "image": null,
+            "name": "Vespa Primavera 150",
+            "description": "The Vespa Primavera 150 is a stylish scooter known for its classic design, lightweight frame, and efficient performance, making it ideal for urban commuting and leisurely rides.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "e9369052-0346-4104-9dc5-a98233ed13f7",
+            "image": null,
+            "name": "Little Tikes 2-in-1 Fountain",
+            "description": "The Little Tikes 2-in-1 Fountain is an interactive water play toy designed for young children, featuring a fountain element and a sturdy base for outdoor fun and sensory exploration.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "a41729f0-7637-43c7-8aad-6f07a20bf67f",
+            "image": null,
+            "name": "Tobias Standard Bass",
+            "description": "The Tobias Standard Bass series consists of electric bass guitars known for their rich sound and playability, making them suitable for a variety of musical genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tobias"
+            }
+        },
+        {
+            "id": "45179b23-b1f4-4d39-871e-f47f8224b0bb",
+            "image": null,
+            "name": "Eagle LS",
+            "description": "The Goodyear Eagle LS series is designed for premium performance in a variety of weather conditions, providing excellent handling and a smooth ride for passenger vehicles.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "1f2b3757-04c0-49a1-af6b-0d832fe4595d",
+            "image": null,
+            "name": "Assurance ComforTread",
+            "description": "The Goodyear Assurance ComforTread is a series of all-season tires designed for enhanced comfort, quiet performance, and reliable traction in various driving conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "dac5ed19-e7db-4016-b03a-615366b6756e",
+            "image": null,
+            "name": "Doro 7080",
+            "description": "The Doro 7080 is a user-friendly mobile phone designed for seniors, featuring a simple interface and essential functionalities to help maintain connectivity with family and friends.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "afc2edd1-9449-4220-b8e6-035a39901d28",
+            "image": null,
+            "name": "Little Tikes Cozy Pumper",
+            "description": "The Little Tikes Cozy Pumper is a toy designed for imaginative play, allowing children to engage in role-playing as they 'fuel up' their toy vehicles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "31b392ce-c6b0-4068-9127-2d5be5aee079",
+            "image": null,
+            "name": "Goodyear Assurance Fuel Max",
+            "description": "The Goodyear Assurance Fuel Max is a tire designed to enhance fuel efficiency without sacrificing performance. This series features a unique tread design that promotes long tread life and reliable traction on various road surfaces.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "886014f1-6efc-419d-9329-0e76a7e642b6",
+            "image": null,
+            "name": "Renault ZOE II",
+            "description": "The Renault ZOE II is an all-electric compact hatchback designed for urban mobility, offering eco-friendly transportation with a practical range and modern features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "21715a1d-c1f4-412d-9f42-0d84ffd3886c",
+            "image": null,
+            "name": "Tecno Camon 20",
+            "description": "The Tecno Camon 20 series is a line of smartphones launched in 2023, designed to deliver high-quality camera capabilities and user-friendly features for an enhanced mobile experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "d8084cc9-894c-4d25-b12b-8d46b2957c99",
+            "image": null,
+            "name": "Assurance",
+            "description": "The Goodyear Assurance series offers a range of tires designed for enhanced performance and safety in various driving conditions. Key traits include improved traction, ride comfort, and fuel efficiency.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "09737072-07d8-4e2e-9435-fb0232b505c5",
+            "image": null,
+            "name": "Vespa ET",
+            "description": "The Vespa ET series, released in 2005, is a line of scooters designed for urban commuting, known for their stylish design, practicality, and efficient performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "a5be4d2a-3525-4bac-b1ec-1477f069fc8c",
+            "image": null,
+            "name": "Ventus Prime2",
+            "description": "The Hankook Ventus Prime2 is a high-performance tire designed to enhance driving pleasure and provide superior handling, stability, and braking performance under various weather conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "518c6fe6-3e25-467f-b5ca-f3a68813667e",
+            "image": null,
+            "name": "Kokuyo Imagine",
+            "description": "The Kokuyo Imagine series of chairs, launched in 2020, is designed to provide ergonomic support and comfort for various office environments while encouraging a modern aesthetic.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Kokuyo"
+            }
+        },
+        {
+            "id": "89827fbe-1d81-4883-90cd-a0c70825e474",
+            "image": null,
+            "name": "Tobias Classic Bass",
+            "description": "The Tobias Classic Bass series consists of electric bass guitars designed for both professional and amateur musicians, known for their quality craftsmanship and versatile sound suitable for various music genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tobias"
+            }
+        },
+        {
+            "id": "e9cf9e95-1bb2-4781-aeea-d84539688b11",
+            "image": null,
+            "name": "Mungyo Acquarelle Watercolor Pencil",
+            "description": "Mungyo Acquarelle Watercolor Pencils are versatile art supplies that combine the qualities of traditional colored pencils with the fluidity of watercolors, allowing for both dry and wet applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "336d6996-a460-4f05-9b21-1e19a300b5f0",
+            "image": null,
+            "name": "Doro 8045",
+            "description": "The Doro 8045 is a smartphone designed specifically for seniors, featuring an easy-to-use interface, large icons, and dedicated emergency buttons to enhance accessibility and safety.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        }
+    ]
+}

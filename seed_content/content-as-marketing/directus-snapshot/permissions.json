@@ -1,0 +1,772 @@
+[
+  {
+    "policy": "authenticated",
+    "collection": "catalog_alerts",
+    "action": "create",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "entity_id",
+      "entity_type",
+      "listing_type",
+      "locale",
+      "max_price",
+      "source_path"
+    ],
+    "permissions": {},
+    "validation": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "presets": {
+      "user_id": "$CURRENT_USER",
+      "status": "confirmed"
+    }
+  },
+  {
+    "policy": "authenticated",
+    "collection": "catalog_alerts",
+    "action": "delete",
+    "fields": [
+      "*"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "authenticated",
+    "collection": "catalog_alerts",
+    "action": "read",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "date_created",
+      "entity_id",
+      "entity_type",
+      "id",
+      "last_notified_at",
+      "listing_type",
+      "locale",
+      "max_price",
+      "notify_count",
+      "source_path",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "authenticated",
+    "collection": "catalog_alerts",
+    "action": "update",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "listing_type",
+      "locale",
+      "max_price",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "attribute_option_values_translations",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "attribute_option_values_translations",
+    "action": "update",
+    "fields": [
+      "label",
+      "slug"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "attribute_option_values",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "attribute_option_values",
+    "action": "update",
+    "fields": [
+      "band_slug",
+      "numeric_value",
+      "raw_variants",
+      "slug",
+      "sort",
+      "status",
+      "value"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_alerts",
+    "action": "read",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "date_created",
+      "entity_id",
+      "entity_type",
+      "id",
+      "last_notified_at",
+      "listing_type",
+      "locale",
+      "max_price",
+      "notify_count",
+      "source_path",
+      "status"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content_settings",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content_settings",
+    "action": "update",
+    "fields": [
+      "batch_size",
+      "concurrency",
+      "cooldown_days",
+      "demand_override_subscribers",
+      "gate_max_faqs",
+      "gate_max_sibling_overlap_pct",
+      "gate_min_body_words",
+      "gate_min_faqs",
+      "generation_enabled",
+      "global_noindex",
+      "index_min_listings_tier3_5",
+      "locales",
+      "max_output_tokens",
+      "price_shift_pct",
+      "reasoning_model",
+      "refresh_age_days",
+      "supply_shift_pct",
+      "supply_thresholds"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content_translations",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content_translations",
+    "action": "update",
+    "fields": [
+      "body",
+      "buying_guide",
+      "comparison_notes",
+      "facet_notes",
+      "faqs",
+      "h1",
+      "key_specs",
+      "keywords",
+      "lede",
+      "meta_description",
+      "meta_title",
+      "og_image",
+      "price_guidance",
+      "status",
+      "tl_dr"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_content",
+    "action": "update",
+    "fields": [
+      "hero_image",
+      "primary_market",
+      "reviewed_at",
+      "reviewed_by",
+      "status"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "catalog_slug_history",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "geo_locations_translations",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "geo_locations_translations",
+    "action": "update",
+    "fields": [
+      "blurb",
+      "name",
+      "slug"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "geo_locations",
+    "action": "read",
+    "fields": [
+      "*"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "manager",
+    "collection": "geo_locations",
+    "action": "update",
+    "fields": [
+      "city",
+      "is_active",
+      "latitude",
+      "longitude",
+      "population",
+      "region",
+      "slug",
+      "sort",
+      "status"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "attribute_option_values_translations",
+    "action": "read",
+    "fields": [
+      "attribute_option_values_id",
+      "id",
+      "label",
+      "languages_code",
+      "slug"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "attribute_option_values",
+    "action": "read",
+    "fields": [
+      "attribute_definitions_id",
+      "band_slug",
+      "id",
+      "listing_count",
+      "numeric_value",
+      "raw_variants",
+      "slug",
+      "translations",
+      "value"
+    ],
+    "permissions": {
+      "status": {
+        "_eq": "published"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "catalog_content_translations",
+    "action": "read",
+    "fields": [
+      "body",
+      "buying_guide",
+      "catalog_content_id",
+      "comparison_notes",
+      "facet_notes",
+      "faqs",
+      "h1",
+      "id",
+      "key_specs",
+      "keywords",
+      "languages_code",
+      "lede",
+      "meta_description",
+      "meta_title",
+      "og_image",
+      "price_guidance",
+      "reading_time_minutes",
+      "tl_dr"
+    ],
+    "permissions": {
+      "_and": [
+        {
+          "status": {
+            "_eq": "published"
+          }
+        },
+        {
+          "catalog_content_id": {
+            "status": {
+              "_eq": "published"
+            }
+          }
+        }
+      ]
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "catalog_content",
+    "action": "read",
+    "fields": [
+      "entity_id",
+      "entity_label",
+      "entity_type",
+      "hero_image",
+      "id",
+      "listing_count",
+      "price_currency",
+      "price_max",
+      "price_median",
+      "price_min",
+      "primary_market",
+      "translations"
+    ],
+    "permissions": {
+      "status": {
+        "_eq": "published"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "catalog_slug_history",
+    "action": "read",
+    "fields": [
+      "entity_id",
+      "entity_type",
+      "languages_code",
+      "old_slug"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "geo_locations_translations",
+    "action": "read",
+    "fields": [
+      "blurb",
+      "geo_locations_id",
+      "id",
+      "languages_code",
+      "name",
+      "slug"
+    ],
+    "permissions": {},
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "public",
+    "collection": "geo_locations",
+    "action": "read",
+    "fields": [
+      "city",
+      "country",
+      "id",
+      "latitude",
+      "listing_count",
+      "longitude",
+      "region",
+      "slug",
+      "translations"
+    ],
+    "permissions": {
+      "_and": [
+        {
+          "status": {
+            "_eq": "published"
+          }
+        },
+        {
+          "is_active": {
+            "_eq": true
+          }
+        }
+      ]
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:247712e2",
+    "collection": "catalog_alerts",
+    "action": "create",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "entity_id",
+      "entity_type",
+      "listing_type",
+      "locale",
+      "max_price",
+      "source_path"
+    ],
+    "permissions": {},
+    "validation": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "presets": {
+      "user_id": "$CURRENT_USER",
+      "status": "confirmed"
+    }
+  },
+  {
+    "policy": "unknown:247712e2",
+    "collection": "catalog_alerts",
+    "action": "delete",
+    "fields": [
+      "*"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:247712e2",
+    "collection": "catalog_alerts",
+    "action": "read",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "date_created",
+      "entity_id",
+      "entity_type",
+      "id",
+      "last_notified_at",
+      "listing_type",
+      "locale",
+      "max_price",
+      "notify_count",
+      "source_path",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:247712e2",
+    "collection": "catalog_alerts",
+    "action": "update",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "listing_type",
+      "locale",
+      "max_price",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:978491f5",
+    "collection": "catalog_alerts",
+    "action": "create",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "entity_id",
+      "entity_type",
+      "listing_type",
+      "locale",
+      "max_price",
+      "source_path"
+    ],
+    "permissions": {},
+    "validation": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "presets": {
+      "user_id": "$CURRENT_USER",
+      "status": "confirmed"
+    }
+  },
+  {
+    "policy": "unknown:978491f5",
+    "collection": "catalog_alerts",
+    "action": "delete",
+    "fields": [
+      "*"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:978491f5",
+    "collection": "catalog_alerts",
+    "action": "read",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "date_created",
+      "entity_id",
+      "entity_type",
+      "id",
+      "last_notified_at",
+      "listing_type",
+      "locale",
+      "max_price",
+      "notify_count",
+      "source_path",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:978491f5",
+    "collection": "catalog_alerts",
+    "action": "update",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "listing_type",
+      "locale",
+      "max_price",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:cf17f4ca",
+    "collection": "catalog_alerts",
+    "action": "create",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "entity_id",
+      "entity_type",
+      "listing_type",
+      "locale",
+      "max_price",
+      "source_path"
+    ],
+    "permissions": {},
+    "validation": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "presets": {
+      "user_id": "$CURRENT_USER",
+      "status": "confirmed"
+    }
+  },
+  {
+    "policy": "unknown:cf17f4ca",
+    "collection": "catalog_alerts",
+    "action": "delete",
+    "fields": [
+      "*"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:cf17f4ca",
+    "collection": "catalog_alerts",
+    "action": "read",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "date_created",
+      "entity_id",
+      "entity_type",
+      "id",
+      "last_notified_at",
+      "listing_type",
+      "locale",
+      "max_price",
+      "notify_count",
+      "source_path",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  },
+  {
+    "policy": "unknown:cf17f4ca",
+    "collection": "catalog_alerts",
+    "action": "update",
+    "fields": [
+      "city_id",
+      "condition",
+      "currency",
+      "listing_type",
+      "locale",
+      "max_price",
+      "status"
+    ],
+    "permissions": {
+      "user_id": {
+        "_eq": "$CURRENT_USER"
+      }
+    },
+    "validation": null,
+    "presets": null
+  }
+]

@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "9d0823bb-4b3d-4833-8a61-556fd6d9d7d4",
+            "image": null,
+            "name": "Alcatel Idol 5",
+            "description": "The Alcatel Idol 5 is a smartphone released in 2017, designed to offer a balance of performance and affordability, featuring a sleek design and multimedia capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "6bff82c7-efed-46dc-baa8-54e1d79b32fe",
+            "image": null,
+            "name": "AMD Ryzen 3rd Generation",
+            "description": "The AMD Ryzen 3rd Generation series consists of high-performance processors designed for desktop and laptop computers, emphasizing efficiency and multitasking capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "69fd8ea6-15ab-47e3-88ee-f96a0db5f712",
+            "image": null,
+            "name": "Alcatel 3 (2019)",
+            "description": "The Alcatel 3 (2019) series is designed as an affordable smartphone option, offering essential features and a user-friendly experience, making it suitable for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "ba6d9889-da08-4575-bc21-9470fbf9c8e7",
+            "image": null,
+            "name": "Masterson Paint Palettes",
+            "description": "The Masterson Paint Palettes are versatile tools designed for artists, offering a durable and easy-to-clean surface for mixing and holding paint.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "302a22e7-b376-4c3c-8811-46f8b9fc5052",
+            "image": null,
+            "name": "Omen by HP Monitor",
+            "description": "The Omen by HP Monitor series is designed for gamers, offering high-performance displays optimized for immersive gaming experiences with low input lag and customizable settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "a49fb1cc-4f20-4ffa-b876-55042577179e",
+            "image": null,
+            "name": "Super Doublecoat Auto Wax",
+            "description": "Collinite Super Doublecoat Auto Wax is a premium car wax designed to provide a durable, high-gloss finish while protecting the vehicle's paint from harsh weather and UV rays. Its unique formulation ensures long-lasting shine and protection, making it a popular choice among car enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "ff43be5d-272c-4a19-956b-66901ae6d69e",
+            "image": null,
+            "name": "Shure MV Series",
+            "description": "The Shure MV Series consists of high-quality microphones designed specifically for musicians and vocalists, offering clear sound reproduction and durability for live performances and studio recordings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Shure"
+            }
+        },
+        {
+            "id": "dc0e2af5-f4f6-4546-9637-49176cc46783",
+            "image": null,
+            "name": "Roomba 900 Series",
+            "description": "The iRobot Roomba 900 Series is a line of robotic vacuum cleaners designed to autonomously clean floors by navigating around furniture and obstacles while utilizing advanced sensors and mapping technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "e1874878-659e-4b91-ad07-2e27341debf9",
+            "image": null,
+            "name": "Masterson's Stay-Wet Palette",
+            "description": "Masterson's Stay-Wet Palette is an innovative art supply designed to keep wet paints fresh for extended periods. It features a unique airtight design that moisture-retains colors and extends the working time for artists.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "92c1e559-b6eb-467d-9207-af8f1c86b132",
+            "image": null,
+            "name": "NeoAir Elite",
+            "description": "The Therm-a-Rest NeoAir Elite series is designed for sleeping comfort during camping excursions, featuring lightweight materials and advanced insulation technologies that provide a balance of warmth and packability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "ac62171c-6742-43ac-ac04-8c519a331288",
+            "image": null,
+            "name": "Chicco Pocket Snack Booster Seat",
+            "description": "The Chicco Pocket Snack Booster Seat is a portable and adjustable booster chair designed for toddlers, providing a secure and comfortable seating option at home or on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "afc96361-065b-4fd1-b49d-44739041f334",
+            "image": null,
+            "name": "NeoAir Topo",
+            "description": "The Therm-a-Rest NeoAir Topo series includes lightweight, inflatable sleeping pads designed for camping and backpacking, offering comfort and insulation in a compact design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "be37716c-f2de-4728-aaaa-5d3742b7800a",
+            "image": null,
+            "name": "Airaid Performance Air Intake System",
+            "description": "The Airaid Performance Air Intake System is designed to enhance engine performance by improving airflow, thus increasing horsepower and torque for various vehicle models.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "5490ad80-99b2-428e-8729-8e5ad1a84252",
+            "image": null,
+            "name": "Seagate Game Drive for Xbox",
+            "description": "The Seagate Game Drive for Xbox is an external hard drive designed to expand the storage capacity of Xbox consoles, allowing gamers to store thousands of games and downloadable content without sacrificing performance or speed.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "3312c9f1-618c-4de1-9f45-80bdd7434d8a",
+            "image": null,
+            "name": "Volkswagen Sharan",
+            "description": "The Volkswagen Sharan is a multi-purpose vehicle designed for family use, combining spaciousness with flexibility for varying passenger and cargo needs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "fe2226d7-f717-4acf-a3c5-a21431f66ac6",
+            "image": null,
+            "name": "Seagate FireCuda",
+            "description": "The Seagate FireCuda is a series of hard disks that combines solid-state drive (SSD) performance with traditional spinning drive capacity, designed to offer fast load times and improved performance for gaming and creative applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "e0858f61-4302-4031-98ac-0cb4a3c63236",
+            "image": null,
+            "name": "La Marzocco Strada EP",
+            "description": "The La Marzocco Strada EP is a premium espresso machine designed for professional baristas, featuring advanced pressure profiling technology to enhance flavor extraction and brewing precision.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "La Marzocco"
+            }
+        },
+        {
+            "id": "91822c77-bb55-4820-94c6-d88d66914807",
+            "image": null,
+            "name": "Nokian Outpost AT",
+            "description": "The Nokian Outpost AT is an all-terrain tire designed for versatile performance in various weather conditions, providing robust traction and durability for off-road and on-road use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "141ed5ca-070b-4a3d-bbe4-dd6c9548cc32",
+            "image": null,
+            "name": "Transformers: Kingdom",
+            "description": "Transformers: Kingdom is a series of action figures that features characters from the Transformers franchise, focusing on the battle between Autobots and Decepticons in their alternate animal modes. The toys are designed to appeal to collectors and fans of all ages, combining creative transformation elements with detailed designs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "2330c3e4-0798-4903-a59c-9fdf9b62b690",
+            "image": null,
+            "name": "Nishiki Pueblo",
+            "description": "The Nishiki Pueblo series consists of versatile mountain bikes designed for both trail riding and casual cycling, featuring durable frames and reliable components.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Nishiki"
+            }
+        },
+        {
+            "id": "c97043d9-923b-4533-8f71-161a55eb134c",
+            "image": null,
+            "name": "Leon's Classic Collection",
+            "description": "The Leon's Classic Collection offers a range of stylish and durable beds designed to enhance bedroom aesthetics while providing comfort and support for a restful sleep experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Leon's Furniture"
+            }
+        },
+        {
+            "id": "68aea1a4-e38e-43c9-b4b8-d269bfda8459",
+            "image": null,
+            "name": "Peg Perego Prima Pappa Zero 3",
+            "description": "The Peg Perego Prima Pappa Zero 3 is a versatile high chair designed for infants and toddlers, featuring a reclining seat and adjustable height to accommodate growing children during meal times.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ac8d2baf-2fec-48a9-b3d6-05c01db1d0d7",
+            "image": null,
+            "name": "Peg Perego Ypsi",
+            "description": "The Peg Perego Ypsi is a versatile stroller designed for ease of use and comfort for both the child and the parent, ideal for navigating urban environments and everyday outings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "abc58ef1-641b-4ece-87ff-b070f2330bb8",
+            "image": null,
+            "name": "Jabra Elite 3",
+            "description": "The Jabra Elite 3 is a series of true wireless in-ear headphones designed for convenience and high-quality sound, offering a blend of comfortable fit and reliable performance for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "1e91560a-0ea8-45ca-9d61-894715d8d999",
+            "image": null,
+            "name": "Nuna Triv Next",
+            "description": "The Nuna Triv Next is a versatile stroller designed for urban parents, featuring a compact and lightweight design that allows for easy maneuverability and convenience on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "257fb79a-b1d6-4f79-be16-253ecd813720",
+            "image": null,
+            "name": "Masterson's Palette",
+            "description": "Masterson's Palette is a series of art supplies designed for artists. It features innovative tools and products that enhance the painting experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "93c5344d-ce13-423a-9ffe-594ef623df81",
+            "image": null,
+            "name": "Alcatel 3 (2020)",
+            "description": "The Alcatel 3 (2020) is a series of smartphones designed to offer reliable performance and essential features at an accessible price point, catering to users looking for functionality and style.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "ef86e132-63c7-4710-bd37-e5681a714840",
+            "image": null,
+            "name": "Wolf Gourmet Countertop Oven",
+            "description": "The Wolf Gourmet Countertop Oven is an all-in-one cooking appliance designed to provide versatile cooking options, including air frying, baking, broiling, and more, ensuring high-quality results with precision and convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Wolf Gourmet"
+            }
+        },
+        {
+            "id": "3bb71780-bc80-465e-ad74-e64eb3b1c6e2",
+            "image": null,
+            "name": "GA-Z170X-GAMING 5",
+            "description": "The GA-Z170X-GAMING 5 motherboard from Gigabyte is designed for gaming enthusiasts, featuring support for high-performance hardware and advanced overclocking capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "0a1b62b7-d4fa-442f-b48c-31d7f28ef6c1",
+            "image": null,
+            "name": "Marshall Acton II",
+            "description": "The Marshall Acton II is a compact wireless speaker that combines modern technology with classic Marshall design, delivering high-quality sound for music lovers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f6d830d1-a525-4ae0-8dc7-bae6f4010bd9",
+            "image": null,
+            "name": "opsix",
+            "description": "The Korg opsix series is a digital synthesizer that features six-operator FM synthesis, offering a wide range of sound design capabilities suitable for modern music production.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "c809a87d-b14a-4eec-9b1d-fe9879803f24",
+            "image": null,
+            "name": "Mitsubishi Montero Sport",
+            "description": "The Mitsubishi Montero Sport is a mid-size SUV that offers a combination of rugged performance and family-friendly features, making it suitable for both off-road adventures and everyday driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "50d10c40-8b93-490b-8c74-2ef3a297abd6",
+            "image": null,
+            "name": "Mitsubishi Galant",
+            "description": "The Mitsubishi Galant is a mid-size car that was produced by Mitsubishi Motors, known for its comfortable ride and reliability throughout the 2000 model year.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "6e1201d2-3972-4492-a868-0f376f09a0ea",
+            "image": null,
+            "name": "Mitsubishi Outlander",
+            "description": "The Mitsubishi Outlander is a compact SUV first introduced in 2001, designed for versatility and family use, combining spacious interiors with advanced all-wheel drive capabilities.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "e9777f0e-f1d8-40bc-8071-da5589d87980",
+            "image": null,
+            "name": "Mitsubishi Lancer Evolution",
+            "description": "The Mitsubishi Lancer Evolution, commonly known as the Evo, is a high-performance sports sedan that is part of the Mitsubishi Lancer lineup. It is renowned for its rally heritage, advanced all-wheel drive system, and turbocharged engines, designed for both road and competitive driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "eb7f8a24-c72a-4a6c-95e6-6069008ba9a6",
+            "image": null,
+            "name": "Mitsubishi Raider",
+            "description": "The Mitsubishi Raider is a mid-size pickup truck that was designed for versatility and utility, offering a combination of performance, comfort, and capability for both work and leisure.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "26e4223c-b2a5-4687-9729-b3516c041d15",
+            "image": null,
+            "name": "Mitsubishi Lancer Evolution X",
+            "description": "The Mitsubishi Lancer Evolution X is a high-performance sporty sedan designed for road and track use, known for its powerful turbocharged engine, advanced all-wheel drive system, and aggressive styling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "09c8bba4-32b4-4d3b-8ade-1ba21f5ec506",
+            "image": null,
+            "name": "Mitsubishi Outlander 2008",
+            "description": "The Mitsubishi Outlander 2008 is a compact SUV designed for versatility and comfort, accommodating both urban commuting and outdoor adventures with its spacious interior and robust performance capabilities.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "6af0df43-4d53-4eb6-a475-511e2b0b6c9d",
+            "image": null,
+            "name": "Nokian WR D3",
+            "description": "The Nokian WR D3 is a premium winter tire designed for confident driving on snow and ice, featuring excellent grip and handling in cold weather conditions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "0fdd0efb-5ccb-468d-92d1-b7f1b404f8e0",
+            "image": null,
+            "name": "Nokian Wetproof",
+            "description": "The Nokian Wetproof is a summer tire designed to provide excellent wet grip, safety, and performance, particularly in rainy conditions. Launched in 2016, it focuses on stability and comfort for drivers seeking a reliable tire for various road conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "54b2a49a-ea2d-4f63-8a62-58c20174b5a3",
+            "image": null,
+            "name": "Nokian Tyres Hakkapeliitta 10",
+            "description": "The Nokian Tyres Hakkapeliitta 10 is a premium winter tire designed for excellent grip and stability on icy and snowy surfaces, featuring advanced tread patterns and innovative rubber compounds.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "cbea76ed-8fb8-4855-9701-5dd10f8cae78",
+            "image": null,
+            "name": "Nokian Tyres Outpost Line",
+            "description": "The Nokian Tyres Outpost Line is designed for rugged terrain and extreme conditions, providing durability and traction for off-road adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "e64313c2-c9b8-4502-8628-0b226d41fc11",
+            "image": null,
+            "name": "Piaa Super White",
+            "description": "Piaa Super White is a series of high-performance automotive lighting solutions designed to enhance visibility and improve on-road safety. These lights emit a bright, white light that mimics natural daylight, providing improved clarity and a longer illumination distance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Piaa"
+            }
+        },
+        {
+            "id": "6e3d82b6-6ae3-4953-964f-9fe252359625",
+            "image": null,
+            "name": "Piaa Xtreme White",
+            "description": "The Piaa Xtreme White series features high-performance automotive bulbs designed to deliver a bright, white light for improved visibility while driving at night. These bulbs are known for their enhanced clarity and color temperature, offering a modern look for vehicles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Piaa"
+            }
+        },
+        {
+            "id": "e7230702-72d8-4fea-8c68-7c76b947d76c",
+            "image": null,
+            "name": "Sylvania SilverStar ULTRA Headlight Bulbs",
+            "description": "The Sylvania SilverStar ULTRA Headlight Bulbs are designed to provide superior visibility and enhanced brightness on the road, improving nighttime driving safety.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Sylvania"
+            }
+        },
+        {
+            "id": "4224cd08-face-466f-aed1-b58d73fd1ca0",
+            "image": null,
+            "name": "Vango Soul",
+            "description": "The Vango Soul series is designed for campers seeking lightweight and compact tents that are easy to set up and offer reliable shelter for outdoor adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "85a61bc9-007e-4839-b754-3aa516e8aedf",
+            "image": null,
+            "name": "Horizon Tent Series",
+            "description": "The Vango Horizon Tent Series is designed for campers seeking reliable and spacious outdoor accommodations, featuring durable materials and innovative designs for easy setup and enhanced outdoor performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "4ee9ff5c-f99a-46a6-b4ca-868c797ac656",
+            "image": null,
+            "name": "Vango Trail Sleeping Bags",
+            "description": "The Vango Trail Sleeping Bags series is designed for outdoor camping enthusiasts, providing comfort and insulation with lightweight materials for a range of temperatures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "0f084b77-84ac-42c4-8169-14404ca64255",
+            "image": null,
+            "name": "Outwell Saffron",
+            "description": "The Outwell Saffron series is designed for outdoor enthusiasts, offering a range of camping gear that emphasizes comfort, practicality, and easy setup for family camping trips.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "12c57262-3bdc-453a-8b09-c3a2b50f7d03",
+            "image": null,
+            "name": "Outwell Montalet",
+            "description": "The Outwell Montalet series offers a range of high-quality camping gear designed for comfort and convenience during outdoor adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "00815a37-e5ec-43ef-b009-55fdf3265069",
+            "image": null,
+            "name": "Outwell Cloud 5",
+            "description": "The Outwell Cloud 5 is a family camping tent designed to comfortably accommodate up to five people, featuring robust materials and a quick-pitch setup for ease of use on camping trips.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "5d400144-b13b-439e-bd3f-20f05f0517e7",
+            "image": null,
+            "name": "Tarp",
+            "description": "The Outwell Tarp series offers versatile and durable shelter solutions for camping, designed to provide protection from the elements while enhancing outdoor living spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "4e3bfacf-bf70-4a8b-b0c9-49d2e39b1d90",
+            "image": null,
+            "name": "Fun Dome",
+            "description": "The Outwell Fun Dome series is designed for family camping, featuring easy-pitch tents that provide ample space and stability for comfort during outdoor adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "fdfb5f8e-c340-4fb9-86fe-ac749b2aada2",
+            "image": null,
+            "name": "Static V2",
+            "description": "The Klymit Static V2 is a lightweight and compact sleeping pad designed for camping enthusiasts, offering a comfortable and stable sleeping surface while minimizing weight and bulk for easy transport.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "387a3171-79be-4a3f-82ee-8600359b6d19",
+            "image": null,
+            "name": "Klymit Insulated Static V Lite",
+            "description": "The Klymit Insulated Static V Lite is a lightweight and compact sleeping pad designed for backpacking and camping. It offers thermal insulation and comfort, making it suitable for use in various outdoor conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "727ce14c-bfeb-452e-9287-cf859683f755",
+            "image": null,
+            "name": "Klymit Static V Luxe",
+            "description": "The Klymit Static V Luxe is an inflatable sleeping pad designed for enhanced comfort and convenience during outdoor camping. Its spacious design and unique V-chamber construction offer stability and insulation on uneven surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "97ac9159-941c-48f2-bd49-5d333ad94a45",
+            "image": null,
+            "name": "Klymit LiteMax Sleeping Bag",
+            "description": "The Klymit LiteMax Sleeping Bag is designed for ultralight backpacking, offering exceptional warmth and comfort while minimizing weight and pack size. This sleeping bag is ideal for outdoor enthusiasts seeking a reliable and efficient sleeping solution for their adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "08b5234a-8413-48b7-90d5-33b2b837160f",
+            "image": null,
+            "name": "Klymit Klymaloft Sleeping Pad",
+            "description": "The Klymit Klymaloft Sleeping Pad is designed to provide comfort and insulation for campers, utilizing an innovative lofted air system to enhance warmth and support while sleeping outdoors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "c01bbd14-2a8a-465b-87c2-aeafa1b6464a",
+            "image": null,
+            "name": "Hilleberg Keron 4",
+            "description": "The Hilleberg Keron 4 is a robust and spacious four-person tent designed for extended camping trips in a variety of weather conditions, featuring a durable and weather-resistant construction for enhanced shelter and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "e39a13ef-3222-42e6-89ce-7cbf13562322",
+            "image": null,
+            "name": "Jannu",
+            "description": "The Hilleberg Jannu series consists of lightweight, four-season tents designed for extreme weather conditions, offering durability and excellent performance in challenging environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "be31a65f-6597-4b5c-a989-5eb49d84ab10",
+            "image": null,
+            "name": "Koss KPH40",
+            "description": "The Koss KPH40 is a pair of dynamic headphones designed to deliver high-quality audio in a lightweight and portable package, ideal for casual listening on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Koss"
+            }
+        },
+        {
+            "id": "31d613de-7b9c-4a8d-9d69-66a650948906",
+            "image": null,
+            "name": "Vifa Copenhagen",
+            "description": "The Vifa Copenhagen series features portable Bluetooth speakers designed to provide high-quality sound with a focus on elegant Scandinavian design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Vifa"
+            }
+        },
+        {
+            "id": "2790f12c-b1d2-45e7-8cea-6243ed84270b",
+            "image": null,
+            "name": "Vifa Helsinki",
+            "description": "The Vifa Helsinki series features portable Bluetooth speakers renowned for their sleek design and high-quality sound reproduction, making them suitable for both indoor and outdoor use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Vifa"
+            }
+        },
+        {
+            "id": "f802c34d-6e82-4824-8530-4d2a04518a07",
+            "image": null,
+            "name": "Nexus",
+            "description": "The Lowe Alpine Nexus series is designed for camping enthusiasts, featuring reliable gear that emphasizes functionality and durability for outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "8d4f83a8-f782-4ff1-bbcb-b562f65f59d7",
+            "image": null,
+            "name": "Vifa Copenhagen 2.0",
+            "description": "The Vifa Copenhagen 2.0 is a premium portable speaker series known for its elegant design, rich sound quality, and wireless connectivity, making it ideal for music enthusiasts seeking both aesthetics and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Vifa"
+            }
+        },
+        {
+            "id": "7f0d976c-3d29-4d2c-9636-e88906103f05",
+            "image": null,
+            "name": "Vifa City",
+            "description": "Vifa City is a series of portable speakers designed for high-quality sound and seamless connectivity, ideal for urban lifestyles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Vifa"
+            }
+        },
+        {
+            "id": "aaf36852-9b0a-432d-8f7e-4d0bfb020563",
+            "image": null,
+            "name": "Vifa Reykjavik",
+            "description": "The Vifa Reykjavik series offers wireless portable speakers designed for high-quality sound and stylish design, making them ideal for both indoor and outdoor use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Vifa"
+            }
+        },
+        {
+            "id": "3476df7e-4509-4e5a-8b2a-894f80870516",
+            "image": null,
+            "name": "OM-D E-M1 Mark II",
+            "description": "The OM-D E-M1 Mark II is a high-performance mirrorless camera designed for professional photographers and advanced enthusiasts, featuring advanced autofocus, high-speed shooting, and robust weather-sealing.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "a5f8aeae-dd4b-4c83-8f35-497611e35a1a",
+            "image": null,
+            "name": "TG-5",
+            "description": "The Olympus TG-5 is a rugged digital camera designed for adventurous photographers, featuring waterproof, shockproof, and freezeproof capabilities for use in extreme conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "5fedb99f-e8b8-44f8-850f-c75d5db0a152",
+            "image": null,
+            "name": "Olympus OM-D E-M1 Mark II",
+            "description": "The Olympus OM-D E-M1 Mark II is a mirrorless interchangeable lens camera known for its high-speed performance, image stabilization, and advanced autofocus capabilities, catering to professional photographers and enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "bb347d2d-965b-433f-b6c9-798244a7f448",
+            "image": null,
+            "name": "Olympus Tough TG-5",
+            "description": "The Olympus Tough TG-5 is a compact digital camera designed for outdoor enthusiasts, offering rugged durability, waterproof capabilities, and advanced imaging features for capturing high-quality photos in challenging environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "7f2a9308-1148-423c-88b5-4d041d3f2cb6",
+            "image": null,
+            "name": "OM-D E-M1 Mark III",
+            "description": "The OM-D E-M1 Mark III is a compact mirrorless camera designed for professional photographers, offering advanced features and high image quality in a durable body.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "ad428368-abeb-4a2a-a259-9b11a1895898",
+            "image": null,
+            "name": "TG-6",
+            "description": "The Olympus TG-6 is a rugged compact camera designed for outdoor enthusiasts, featuring waterproof capabilities, shock resistance, and built-in GPS for adventure photography.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "f8912587-d28a-464c-9058-a13fc9cd7acc",
+            "image": null,
+            "name": "OM-D E-M10 Mark III",
+            "description": "The OM-D E-M10 Mark III is a compact mirrorless camera designed for both photography enthusiasts and beginners, offering advanced features in a lightweight body.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "970ff4cd-fd74-46da-ab70-a3914cc16e54",
+            "image": null,
+            "name": "OM SYSTEM OM-1",
+            "description": "The OM SYSTEM OM-1 is a compact, mirrorless camera designed for professional photographers and enthusiasts, featuring advanced imaging capabilities and a robust design suitable for a variety of shooting conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "2ac19bb0-faee-4c69-a0e7-4a9058773ccc",
+            "image": null,
+            "name": "M.Zuiko Digital ED 150-400mm F4.5 TC1.25x IS PRO",
+            "description": "The Olympus (OM SYSTEM) M.Zuiko Digital ED 150-400mm F4.5 TC1.25x IS PRO is a high-performance telephoto zoom lens designed for professional photographers and nature enthusiasts, offering versatile focal lengths and advanced image stabilization technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "e40ec933-c662-451c-9468-0e7a3f32331b",
+            "image": null,
+            "name": "Sigma 14-24mm F2.8 DG HSM Art",
+            "description": "The Sigma 14-24mm F2.8 DG HSM Art is a wide-angle zoom lens designed for high-resolution photography, featuring a constant maximum aperture of F2.8 throughout the zoom range, ideal for capturing landscapes, architecture, and astrophotography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "76c1d3f5-1834-46d6-a239-1e2a0b0dd3a6",
+            "image": null,
+            "name": "Sigma 24-105mm F4 DG OS HSM Art",
+            "description": "The Sigma 24-105mm F4 DG OS HSM Art is a versatile standard zoom lens designed for full-frame DSLR cameras, offering a constant aperture of f/4 throughout its range and featuring Optical Stabilization for improved performance in low light conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "e0e2a97a-1c64-4549-9e90-6adde3f42938",
+            "image": null,
+            "name": "Sigma 85mm F1.4 DG HSM Art",
+            "description": "The Sigma 85mm F1.4 DG HSM Art is a high-performance lens designed for portrait photography, featuring a fast maximum aperture and exceptional optical quality for sharp images and beautiful bokeh.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "96ba4b5c-6101-44b4-bf5e-ea65170bec05",
+            "image": null,
+            "name": "Sigma 105mm F1.4 DG HSM Art",
+            "description": "The Sigma 105mm F1.4 DG HSM Art is a professional-grade telephoto lens designed for high-resolution photography, featuring a bright f/1.4 maximum aperture that allows for exceptional low-light performance and beautiful subject isolation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "e3c3c2a2-ee56-4529-8222-14c6d3abf84a",
+            "image": null,
+            "name": "Sigma 135mm F1.8 DG HSM Art",
+            "description": "The Sigma 135mm F1.8 DG HSM Art lens is a high-performance prime lens designed for professional photography, offering exceptional sharpness and beautiful bokeh at a fast maximum aperture of F1.8.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "62884e9e-bfcb-4ab9-ae69-e223f7e02e08",
+            "image": null,
+            "name": "Sigma 24-70mm F2.8 DG OS HSM Art",
+            "description": "The Sigma 24-70mm F2.8 DG OS HSM Art is a professional-grade standard zoom lens designed to deliver exceptional optical performance for both photography and videography, featuring a constant aperture of f/2.8 across its zoom range.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "ac955c89-cf02-4cbf-a3e7-7d08ec5f74dd",
+            "image": null,
+            "name": "Sigma 12-24mm F4 DG HSM Art",
+            "description": "The Sigma 12-24mm F4 DG HSM Art is a wide-angle zoom lens designed for full-frame DSLR cameras, offering excellent optical performance and creative flexibility for landscape and architectural photography.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "07164c9e-46c9-4484-8011-bb75a184303b",
+            "image": null,
+            "name": "Sigma fp",
+            "description": "The Sigma fp series is a compact, full-frame mirrorless camera designed for versatility and high image quality, making it suitable for both photography and videography.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "ea786b00-9ec2-44b8-8414-a617ce220b7c",
+            "image": null,
+            "name": "Phase One XT",
+            "description": "The Phase One XT is a medium format camera series designed for professionals, featuring a modular design that allows for versatility in photography and the ability to capture high-resolution images with exceptional detail.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Phase One"
+            }
+        },
+        {
+            "id": "6c481d82-0de3-427a-b621-0afcad8cc6a1",
+            "image": null,
+            "name": "Hasselblad X1D-50c",
+            "description": "The Hasselblad X1D-50c is a medium format digital camera designed for high-resolution photography, offering exceptional image quality and portability for professional photographers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Hasselblad"
+            }
+        },
+        {
+            "id": "70edb9e6-d8a1-4f47-829e-ba899fbf998c",
+            "image": null,
+            "name": "Hasselblad X1D II 50C",
+            "description": "The Hasselblad X1D II 50C is a medium format mirrorless camera designed for professional photographers seeking high image quality and versatility in a compact design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Hasselblad"
+            }
+        },
+        {
+            "id": "a17aed24-e13e-498e-acc1-562eb9f88ac9",
+            "image": null,
+            "name": "Hasselblad 907X Special Edition",
+            "description": "The Hasselblad 907X Special Edition is a medium format mirrorless camera designed for photographers seeking high-resolution images with a classic aesthetic, combining modern technology with a vintage design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Hasselblad"
+            }
+        },
+        {
+            "id": "0746198c-0b7e-4889-bf0e-8179876dcc81",
+            "image": null,
+            "name": "Hasselblad 907X 50C",
+            "description": "The Hasselblad 907X 50C is a medium format camera designed for photographers seeking the combination of classic design and modern digital features, offering high-resolution capture and versatility for various photography styles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Hasselblad"
+            }
+        },
+        {
+            "id": "8b1a0955-4861-483b-918c-dd8cb0522640",
+            "image": null,
+            "name": "Tamron 18-200mm f/3.5-6.3 Di II VC",
+            "description": "The Tamron 18-200mm f/3.5-6.3 Di II VC is a versatile all-in-one zoom lens designed for APS-C format digital cameras, providing a wide focal range suitable for various photography styles, from landscapes to portraits.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        }
+    ]
+}

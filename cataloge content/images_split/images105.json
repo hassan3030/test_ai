@@ -1,0 +1,368 @@
+{
+    "data": [
+        {
+            "id": "0ff929b3-7019-45a0-a724-e7435b2aab41",
+            "image": null,
+            "name": "Colmi P8",
+            "description": "The Colmi P8 is a smart watch released in 2016, designed to monitor fitness activities and provide notifications from mobile devices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "a79cfb1c-3923-46ac-9251-8403a3f02023",
+            "image": null,
+            "name": "Colmi P20",
+            "description": "The Colmi P20 series is a line of smart watches designed to provide fitness tracking and health monitoring functionalities, allowing users to manage their activities and wellbeing effectively.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "95eb9681-ec44-4ed6-b0ce-f5b6ae48f51b",
+            "image": null,
+            "name": "Colmi S9 Pro",
+            "description": "The Colmi S9 Pro is a smartwatch designed to track fitness and health metrics while providing smart notifications and features for daily convenience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "a30e81b7-b643-4e90-be54-efef50628f66",
+            "image": null,
+            "name": "Bosch Smart Home System",
+            "description": "The Bosch Smart Home System is a comprehensive smart home solution that allows users to control various home devices seamlessly through a single interface, enhancing convenience, security, and energy efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Bosch Smart Home"
+            }
+        },
+        {
+            "id": "160339c0-6d83-4de2-9971-6a064f43d9e4",
+            "image": null,
+            "name": "Deebot 900",
+            "description": "The Deebot 900 is a robotic vacuum designed for efficient home cleaning, featuring smart navigation technology and compatibility with smart home systems.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "0c63de40-76d4-44ed-9a66-52ed42c5716f",
+            "image": null,
+            "name": "Whirlpool 6th Sense",
+            "description": "The Whirlpool 6th Sense series of washing machines features advanced sensing technology that optimizes water and energy usage, ensuring efficient performance and care for your laundry.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "251cafb9-4a57-4227-a514-0e3262e167e7",
+            "image": null,
+            "name": "Whirlpool Smart Top Load Washing Machine",
+            "description": "The Whirlpool Smart Top Load Washing Machine is designed to provide efficient and convenient laundry solutions, featuring a range of smart capabilities that allow users to control wash cycles remotely and optimize water usage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "38e49b74-1994-42ce-a7ca-fd79b3e405ac",
+            "image": null,
+            "name": "Whirlpool Smart French Door Refrigerator",
+            "description": "The Whirlpool Smart French Door Refrigerator is designed to provide efficient storage and advanced features, keeping food fresh while offering convenience with smart technology integration.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "46cc65f0-3771-4f92-abc8-4b249c1437f5",
+            "image": null,
+            "name": "Whirlpool Side-by-Side Refrigerator",
+            "description": "The Whirlpool Side-by-Side Refrigerator series features a contemporary design and offers convenient storage options with an efficient cooling system, ensuring easy access to food and beverages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "5a5160de-7f59-4663-92c6-7d704ec095c9",
+            "image": null,
+            "name": "Whirlpool Smart Over-the-Range Microwave",
+            "description": "The Whirlpool Smart Over-the-Range Microwave is designed to provide convenient cooking options while saving space in the kitchen. It features smart technology allowing for easy controls and enhanced functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "7e7c378f-0dd4-4d78-8a1e-2f8f8d352669",
+            "image": null,
+            "name": "Electrolux Pure i9",
+            "description": "The Electrolux Pure i9 series is a line of robotic vacuum cleaners designed for efficient cleaning with advanced navigation and smart features, ensuring a thorough clean across various floor types.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a2f3cc3a-0f8a-4135-99bc-d22e703c34cc",
+            "image": null,
+            "name": "GE Appliances Laundry",
+            "description": "The GE Appliances Laundry series includes washing machines designed to provide efficient and effective cleaning solutions for all laundry needs, utilizing advanced technology and user-friendly features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a50e6653-f215-417e-a690-fe6fcb1dac86",
+            "image": null,
+            "name": "Electrolux Professional Series",
+            "description": "The Electrolux Professional Series Water Heaters are designed for commercial use, providing efficient and reliable hot water solutions suitable for various professional applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b66e3db5-28f0-4d81-8f8f-965073eb63cc",
+            "image": null,
+            "name": "Electrolux 800 series",
+            "description": "The Electrolux 800 series refrigerators are designed to provide efficient cooling and smart storage solutions, featuring advanced technology that helps preserve food freshness while maximizing space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c0c99fc2-d89b-49c4-bdee-2371d86233d1",
+            "image": null,
+            "name": "Super Smash Bros. Ultimate",
+            "description": "Super Smash Bros. Ultimate is a crossover fighting game featuring a diverse roster of characters from various Nintendo franchises, allowing players to battle in a variety of dynamic arenas.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cdf1fa5b-fe8b-4331-8c3e-aa0cefe9f478",
+            "image": null,
+            "name": "GE Air Fryers",
+            "description": "The GE Air Fryers series offers a healthier cooking option by using hot air circulation to crisp and cook food, significantly reducing the amount of oil needed compared to traditional frying methods.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "def363b4-5297-4a1a-91b5-dc78cc741f59",
+            "image": null,
+            "name": "Whirlpool Top Load Washer with Load & Go",
+            "description": "The Whirlpool Top Load Washer with Load & Go is designed to simplify laundry routines by allowing users to store detergent in a convenient reservoir for multiple loads, reducing the frequency of refills.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "ced8bd30-6dee-4fb7-ab70-4d871dacd461",
+            "image": null,
+            "name": "Electrolux Perfect Steam Series",
+            "description": "The Electrolux Perfect Steam Series Washing Machines are designed to provide superior cleaning performance while reducing wrinkles and sanitizing fabrics with their steam technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e10b354d-a368-4559-91f4-4a6a67354d9f",
+            "image": null,
+            "name": "GE Air Fryer Ovens",
+            "description": "The GE Air Fryer Ovens provide a versatile cooking solution, combining the functionality of an oven with air frying capabilities to deliver healthier meals with less oil.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f0c2422c-b5da-4070-8601-d44f49425af5",
+            "image": null,
+            "name": "GE Hybrid Water Heater",
+            "description": "The GE Hybrid Water Heater series offers energy-efficient water heating solutions utilizing heat pump technology, providing an eco-friendly alternative to traditional water heaters.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f6821fcb-276b-4c4e-bf51-f236f600405c",
+            "image": null,
+            "name": "Electrolux 600 Series",
+            "description": "The Electrolux 600 Series Refrigerators are designed to provide efficient cooling and convenient storage solutions, featuring thoughtful organization and modern aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f86b6488-53d5-4774-acca-f8df2af99fae",
+            "image": null,
+            "name": "Whirlpool 2-in-1 Washer & Dryer",
+            "description": "The Whirlpool 2-in-1 Washer & Dryer is a compact laundry solution designed for efficient washing and drying in one unit, ideal for small spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "7d5e7bb2-8e61-4dbc-83dc-920be07cd407",
+            "image": null,
+            "name": "Echo Studio",
+            "description": "The Echo Studio is a high-fidelity smart speaker designed by Amazon, featuring immersive sound quality and built-in Alexa voice control for a versatile audio experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "09e78be3-ba41-43f8-92f2-76ea215281b4",
+            "image": null,
+            "name": "Whirlpool 28 cu. ft. Side-by-Side Refrigerator",
+            "description": "The Whirlpool 28 cu. ft. Side-by-Side Refrigerator is designed to provide ample storage space and easy access to both fresh and frozen food items, featuring adjustable shelves and humidity-controlled crisper drawers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "15bc46cd-2945-44c2-8c50-b12405ba3a93",
+            "image": null,
+            "name": "Electrolux PerfectCare 700",
+            "description": "The Electrolux PerfectCare 700 series of washing machines is designed to provide efficient and gentle cleaning for a variety of fabrics, featuring advanced technologies to optimize wash performance and fabric care.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2b0f12d5-fad0-45c2-a008-f406e005f968",
+            "image": null,
+            "name": "Whirlpool Smart 5.0 cu. ft. Top Load Washer",
+            "description": "The Whirlpool Smart 5.0 cu. ft. Top Load Washer is designed to provide efficient cleaning with smart features that adapt to your laundry needs, ensuring optimal performance for various fabrics and loads.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "2d80b52d-5f77-489e-9cb9-6f5ecf563f5d",
+            "image": null,
+            "name": "Whirlpool 4-Door Refrigerator",
+            "description": "The Whirlpool 4-Door Refrigerator is designed to enhance kitchen organization with its spacious compartments and flexible storage options, ensuring food stays fresh longer.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "3a4b3b8f-7d4d-4fe5-a5e9-e1c32d7e1ea7",
+            "image": null,
+            "name": "Whirlpool Front Load Washing Machine",
+            "description": "The Whirlpool Front Load Washing Machine series is designed for efficient laundry cleaning, offering advanced features for effective stain removal and energy saving.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "3e7396c4-c454-4f1b-a711-0f63dfcb573b",
+            "image": null,
+            "name": "Electrolux Explore 7",
+            "description": "The Electrolux Explore 7 series encompasses a range of coffee machines designed to deliver quality coffee experiences with user-friendly features and modern designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "515ccbd2-a948-4176-9ef2-16c82d39cf7b",
+            "image": null,
+            "name": "GE Top Load Washers",
+            "description": "The GE Top Load Washers series features modern washing machines designed for efficiency and ease of use, providing a reliable solution for everyday laundry needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        }
+    ]
+}

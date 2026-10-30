@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "5be41b82-4554-4c50-a907-a11ebfec29d0",
+            "image": null,
+            "name": "Sony A7R V",
+            "description": "The Sony A7R V is a high-resolution full-frame mirrorless camera designed for professional photographers and videographers, offering advanced imaging capabilities and exceptional performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "b08786f4-530b-4015-b1ed-b8ee006a0c0d",
+            "image": null,
+            "name": "Sony WH-1000XM5",
+            "description": "The Sony WH-1000XM5 are premium wireless noise-cancelling headphones designed to deliver exceptional sound quality and comfort for an immersive listening experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "bb58fb58-50c8-41c1-93ca-c2123ce6b1e1",
+            "image": null,
+            "name": "Sony WH-1000XM4",
+            "description": "The Sony WH-1000XM4 is a series of over-ear wireless noise-cancelling headphones designed for immersive sound quality and comfort, featuring adaptive sound control and touch sensor controls.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "c71771b5-b852-4559-a269-a67faad16e98",
+            "image": null,
+            "name": "Sony Xperia 1 IV",
+            "description": "The Sony Xperia 1 IV is a smartphone launched in 2022, known for its advanced camera technology, high-resolution display, and multimedia capabilities, targeting photography enthusiasts and content creators.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "c97f9382-12d7-456a-a376-e824c156a10e",
+            "image": null,
+            "name": "Sony Xperia XZ2 Premium",
+            "description": "The Sony Xperia XZ2 Premium is a smartphone released in 2018, known for its high-resolution display and advanced camera capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "e3aa12f1-c85d-4499-bc1a-16b22b06c931",
+            "image": null,
+            "name": "Dell Inspiron 15 5000",
+            "description": "The Dell Inspiron 15 5000 series is a versatile line of laptops designed for everyday use, offering a balance of performance, portability, and usability for students and professionals alike.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "fc85d7e3-1bf5-449a-ba6d-eeb0030b01e4",
+            "image": null,
+            "name": "LG Signature Series",
+            "description": "The LG Signature Series refrigerators are high-end appliances designed to offer advanced cooling technologies and a sleek, modern aesthetic, prioritizing both functionality and style for discerning consumers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "24d6e807-817e-4861-93ea-136e5bc16f46",
+            "image": null,
+            "name": "Luminox 3050 Series",
+            "description": "The Luminox 3050 Series is a collection of durable, water-resistant watches designed for durability and reliability in extreme conditions, featuring luminescent technology for visibility in low-light environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Luminox"
+            }
+        },
+        {
+            "id": "7fb42248-5718-48b8-b15e-bf8799ebff0b",
+            "image": null,
+            "name": "LG Q52",
+            "description": "The LG Q52 is a smartphone released in 2021, designed to offer a balanced combination of essential features and performance at an affordable price.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "86f5e3f9-4e93-44ed-9c2b-42567d6ec019",
+            "image": null,
+            "name": "LG AI ThinQ Washing Machine",
+            "description": "The LG AI ThinQ Washing Machine series features advanced AI technology to enhance washing performance, offering efficient, customizable, and user-friendly solutions for laundry care.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "8753bd17-a27f-4404-a7fa-9d62278189bd",
+            "image": null,
+            "name": "LG OLED TV C2 Series",
+            "description": "The LG OLED TV C2 Series is a line of premium televisions that utilize OLED technology to deliver exceptional picture quality with deep blacks and vibrant colors, enhancing the viewing experience for movies, games, and sports.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "8c5bdb15-7f52-4e4e-96e3-752b4eb6339c",
+            "image": null,
+            "name": "LG InstaView",
+            "description": "The LG InstaView series of refrigerators features a unique glass panel that lets you knock twice to illuminate the interior, allowing you to see what's inside without opening the door. This series aims to enhance convenience and energy efficiency in modern kitchens.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "8c7a68b0-a966-44f5-b605-fef82441afc9",
+            "image": null,
+            "name": "LG OLED TV",
+            "description": "The LG OLED TV series is known for its high-quality display technology that provides exceptional color accuracy, deep blacks, and wide viewing angles, making it ideal for immersive home entertainment.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "931f938b-373b-4c22-b84b-8ef46897fd6f",
+            "image": null,
+            "name": "Little People Caring for Animals Farm Playset",
+            "description": "The Fisher-Price Little People Caring for Animals Farm Playset is a toy set that encourages imaginative play while teaching children about caring for animals on a farm. It features various animal figurines and farm accessories to enhance creativity and learning.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "a5b51abe-9d47-49d9-966c-63c9477bc6f3",
+            "image": null,
+            "name": "LG 2017 InstaView Refrigerator",
+            "description": "The LG 2017 InstaView Refrigerator features a unique glass panel that illuminates with a knock, allowing users to easily view contents without opening the door. This refrigerator combines convenience and advanced refrigeration technology for optimal food preservation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "1c1f0146-489b-45ba-92bd-f5717a43efbc",
+            "image": null,
+            "name": "LG UHD AI ThinQ TV",
+            "description": "The LG UHD AI ThinQ TV series offers advanced picture quality and AI-driven features designed to enhance the viewing experience, making it suitable for various home entertainment needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "2846571c-b396-4f00-a93f-b3eacdc58d83",
+            "image": null,
+            "name": "LG Styler Series",
+            "description": "The LG Styler Series is a line of innovative garment care appliances designed to refresh, sanitize, and reduce the wrinkles in clothes without the use of traditional washing methods.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "28935352-0e60-4a88-9140-4853c49bae8b",
+            "image": null,
+            "name": "Arai RX-7X",
+            "description": "The Arai RX-7X is a premium motorcycle helmet designed for high-performance riding, featuring advanced safety technologies and a comfortable fit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "41e94fcd-aa6a-4675-be33-b5943929ea07",
+            "image": null,
+            "name": "LG PuriCare",
+            "description": "The LG PuriCare series includes advanced air purifiers designed to improve indoor air quality by filtering out pollutants and allergens. These smart home devices utilize sophisticated filtration technology to ensure cleaner, healthier air for users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "4b6c56ef-d20c-4af2-b7e1-274fc5c38f77",
+            "image": null,
+            "name": "LG PuriCare Wearable Air Purifier",
+            "description": "The LG PuriCare Wearable Air Purifier is a personal air purification device designed to filter out harmful particles, providing clean air for the user while on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "a9d36279-97d7-427c-87a5-b0bbf2321c7e",
+            "image": null,
+            "name": "LG Gram 17",
+            "description": "The LG Gram 17 is a lightweight laptop series designed for portability and performance, featuring a large 17-inch display for an enhanced viewing experience suitable for both work and entertainment.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "b6c3ad5c-9054-456d-afcc-e2bc2ead0cf6",
+            "image": null,
+            "name": "Dell XPS 13 (2017)",
+            "description": "The Dell XPS 13 (2017) is a premium ultrabook designed for both productivity and portability, featuring a sleek design and high-quality display.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "bf14a6a9-c86e-4739-8d77-22c90742d320",
+            "image": null,
+            "name": "LG Gram 2-in-1",
+            "description": "The LG Gram 2-in-1 series consists of lightweight, versatile laptops that combine the functionality of a traditional laptop with the flexibility of a tablet. Designed for portability and performance, these devices cater to users who require both efficiency and ease of use on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "d1a58634-518d-40bf-aa1f-6f315c6b6f52",
+            "image": null,
+            "name": "Dell Inspiron 15 7000 Series (7568)",
+            "description": "The Dell Inspiron 15 7000 Series (7568) is a versatile 2-in-1 laptop designed for both work and play, featuring a touch-enabled display and robust performance capabilities suitable for various tasks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "d40f3963-5a88-4a63-8a1c-f2b13f1c57f4",
+            "image": null,
+            "name": "LG OLED Evo G3",
+            "description": "The LG OLED Evo G3 series monitors offer advanced OLED technology for superior color accuracy and contrast, making them ideal for both professional and home entertainment use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "e1a27921-aa75-4074-949a-0f0cb30ef99a",
+            "image": null,
+            "name": "Gucci Ace Sneakers",
+            "description": "The Gucci Ace Sneakers are a signature line of footwear from Gucci, known for their minimalist design and luxury craftsmanship, perfect for both casual and upscale occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f0a7e4a9-73d5-4022-8f0e-4573c4aadba5",
+            "image": null,
+            "name": "Dell Inspiron 13 7000 (2019)",
+            "description": "The Dell Inspiron 13 7000 (2019) is a versatile and portable laptop designed for everyday computing needs, featuring a sleek design and capable performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "67dd1811-acc2-4566-83a8-4821e09a6472",
+            "image": null,
+            "name": "Dell Latitude 5000 Series",
+            "description": "The Dell Latitude 5000 Series is a line of laptops designed for business professionals, offering a blend of performance, security features, and durability to support productivity in varied work environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "70e35944-1bc3-4a05-82aa-bf96b8bbd6cb",
+            "image": null,
+            "name": "Dell Vostro 5000 series",
+            "description": "The Dell Vostro 5000 series is a line of laptops designed for small business professionals, offering a balance of performance, reliability, and essential security features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "f7303e82-33b6-419d-8d9c-d39347a65e8c",
+            "image": null,
+            "name": "Ultraboost 4.0",
+            "description": "The Adidas Ultraboost 4.0 is a high-performance running sneaker known for its responsive Boost cushioning and primeknit upper, designed to provide comfort and support for both runners and casual wearers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        }
+    ]
+}

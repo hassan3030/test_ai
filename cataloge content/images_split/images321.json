@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "0db193d1-a735-4a5a-9ef2-35e0b7e1d8cc",
+            "image": null,
+            "name": "Setacolor",
+            "description": "Pebeo Setacolor is a range of fabric paints designed for versatile use on textiles, providing vibrant colors that remain flexible after drying.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "f3844912-402d-4feb-b9fd-d891bdfd3457",
+            "image": null,
+            "name": "Menzerna 400",
+            "description": "Menzerna 400 is a series of car care products designed for effective paint correction and polishing, aimed at restoring a high-gloss finish on automotive surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "91a4d0aa-20c4-4fda-bd7e-4a4722619a77",
+            "image": null,
+            "name": "Menzerna 500",
+            "description": "The Menzerna 500 series is a collection of high-performance car care products designed to enhance paint correction and provide a superior finish. These products are formulated for professional and DIY users who prioritize quality and effectiveness in their car detailing routines.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "d7bc1dca-f083-46cc-b4a9-5328894eda1c",
+            "image": null,
+            "name": "Jaguar XFR",
+            "description": "The Jaguar XFR is a high-performance luxury sedan that combines elegant design with powerful engine capabilities, offering a thrilling driving experience for enthusiasts.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "720cf2c0-fa76-4173-a91a-e71bb7a66cb0",
+            "image": null,
+            "name": "Dodo Juice Lockdown",
+            "description": "Dodo Juice Lockdown is a series of car care products designed to provide long-lasting protection and enhance the appearance of vehicle surfaces. Launched in 2009, these products are formulated to create a durable barrier against elements while ensuring a high-gloss finish.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "1ed3c815-f9c2-4657-a4df-f305ebd01786",
+            "image": null,
+            "name": "Kawai KDP110",
+            "description": "The Kawai KDP110 is a digital piano designed for beginners and intermediate players, featuring authentic piano sounds and a responsive touch for a realistic playing experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "86622196-aa7c-4e09-b795-e8b243cf2f8c",
+            "image": null,
+            "name": "Kuretake ZIG Clean Color Dot",
+            "description": "Kuretake ZIG Clean Color Dot markers are dual-tipped art supplies featuring a brush and dot tip, designed for versatile coloring, shading, and highlighting. They are ideal for artists, calligraphers, and crafters seeking precision and control in their work.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Kuretake"
+            }
+        },
+        {
+            "id": "9a622aa9-7e4a-4977-a01b-da82deb27b99",
+            "image": null,
+            "name": "Mazda3 (BK)",
+            "description": "The Mazda3 (BK) is a compact car launched in 2006 known for its sporty design, responsive handling, and efficient fuel economy, aimed at providing an engaging driving experience for urban and suburban use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "a69d3d6b-4f1a-4d97-a81d-c926215cf4b3",
+            "image": null,
+            "name": "Gibson USA 2017 Flying V",
+            "description": "The Gibson USA 2017 Flying V is an electric guitar known for its unique arrow-like shape and distinctive sound, designed for musicians seeking a bold aesthetic and powerful performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "31965e4f-c694-43e9-9fe6-b9a4a5f7d5e1",
+            "image": null,
+            "name": "Canvas Fire 4",
+            "description": "The Micromax Canvas Fire 4 is a budget-friendly smartphone released in 2016, designed to provide essential features for everyday use with a focus on multimedia capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "f0f71cf9-a00e-465c-b215-2122612faa46",
+            "image": null,
+            "name": "Arai RX-7 RR4",
+            "description": "The Arai RX-7 RR4 is a premium motorcycle helmet designed for high-performance riders, offering superior safety features, ventilation, and comfort.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "7eff8462-ea98-4543-bebd-59a6b4116167",
+            "image": null,
+            "name": "Land Rover LR2",
+            "description": "The Land Rover LR2 is a compact luxury SUV known for its off-road capability and comfortable on-road performance. Designed for both urban and rugged environments, it features a versatile interior and advanced technology for a premium driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "922494be-c5b6-4d45-9e33-cae0732c9f48",
+            "image": null,
+            "name": "Evok Power",
+            "description": "The Micromax Evok Power is a smartphone series launched in 2016, designed to offer a balance of performance and battery life for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "b662a086-c16c-434a-b715-3e2f2588c1e6",
+            "image": null,
+            "name": "Krups Dolce Gusto Piccolo XS",
+            "description": "The Krups Dolce Gusto Piccolo XS is a compact coffee machine designed for making a variety of coffee beverages quickly and easily, utilizing an innovative capsule system for convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "43020f62-a9cc-4498-b844-bd1b36228f46",
+            "image": null,
+            "name": "Krups Espresso Maker",
+            "description": "The Krups Espresso Maker is designed for coffee enthusiasts who seek to prepare authentic espresso at home. Launched in 2016, it combines convenience with a professional-level brewing experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "c6b4926a-936f-43d0-a5ac-d7c84921d64c",
+            "image": null,
+            "name": "Krups Pod & Capsule Coffee Machines",
+            "description": "The Krups Pod & Capsule Coffee Machines are designed for convenience and versatility, allowing users to brew high-quality coffee using pre-packaged pods and capsules.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "14a33e92-3972-4e5c-9274-514a3faea800",
+            "image": null,
+            "name": "Chuwi LapBook Pro",
+            "description": "The Chuwi LapBook Pro is a budget-friendly laptop series designed for everyday tasks, featuring a sleek design and versatile performance suitable for students and casual users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "a5e3a12f-8452-4f3c-8f4b-5b1abdfc82cb",
+            "image": null,
+            "name": "Chuwi HiPad",
+            "description": "The Chuwi HiPad series is a line of tablets designed for versatile use, offering a balance of performance and portability suitable for both entertainment and productivity tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "c5d35cb3-0fbc-468c-b531-c40ddd457281",
+            "image": null,
+            "name": "Cobra Next Gen Dash Cam",
+            "description": "The Cobra Next Gen Dash Cam is a vehicle accessory designed to record high-definition video footage of the road while driving. Its key purpose is to enhance driver safety by providing a visual record in case of accidents or incidents on the road.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "ef20fbe8-bbb2-402b-990e-62f1e3fbf7f7",
+            "image": null,
+            "name": "Porsche 996 series",
+            "description": "The Porsche 996 series represents the fifth generation of the iconic Porsche 911 sports car, produced from 1997 to 2006. Known for its distinctive design and innovation, this series introduced water-cooled engines and refined aerodynamics.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e79b080-9414-444a-a953-9b99ba2bd46c",
+            "image": null,
+            "name": "Porsche 996.2",
+            "description": "The Porsche 996.2 is the refreshed version of the Porsche 996, introduced in 2002, known for its enhanced performance and refined design, making it a popular choice among sports car enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "09cadd21-126f-4046-9677-4d254c4a8663",
+            "image": null,
+            "name": "Tata Indigo Manza",
+            "description": "The Tata Indigo Manza is a compact sedan launched by Tata Motors in 2006, known for its spacious interior and fuel efficiency, aimed at providing an economical and comfortable driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "d77dd559-ea93-4ca4-989d-cb4a60964070",
+            "image": null,
+            "name": "Gitzo Systematic Series",
+            "description": "The Gitzo Systematic Series is a versatile line of tripods designed for professional photographers, known for their stability, durability, and modularity, allowing customization for various photographic needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Gitzo"
+            }
+        },
+        {
+            "id": "555ec7fd-7d77-49c7-9526-4c50d0851458",
+            "image": null,
+            "name": "Cort A Series",
+            "description": "The Cort A Series is a line of acoustic guitars designed for players seeking quality sound and build at an affordable price, making them ideal for both beginners and experienced musicians.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "1f050a93-32e4-4b9e-9749-3efb06918507",
+            "image": null,
+            "name": "Griot's Garage Wash & Wax Bucket",
+            "description": "The Griot's Garage Wash & Wax Bucket is designed for efficient car washing while providing a protective layer of wax that enhances shine and prolongs the finish. It combines convenience and quality for a comprehensive car care solution.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "135acbf2-2236-4738-8a10-21a2b886e2bc",
+            "image": null,
+            "name": "The Usborne Illustrated Classics",
+            "description": "The Usborne Illustrated Classics series offers young readers beautifully illustrated versions of classic literature, making timeless stories accessible and engaging for children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "ed4a19cf-c08c-412b-8616-3624ac5892e2",
+            "image": null,
+            "name": "Cort MBC Series",
+            "description": "The Cort MBC Series is a line of electric bass guitars designed for versatility and playability, featuring a modern aesthetic and powerful sound that caters to a wide range of musical genres.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "ae1accc2-2191-456e-b136-fa5f47e8f32b",
+            "image": null,
+            "name": "Gionee F103 Pro",
+            "description": "The Gionee F103 Pro is a smartphone released in 2016, designed to offer a balance of performance and affordability for everyday users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "f5aba295-e625-45c7-9a3c-0cd0ae1dc928",
+            "image": null,
+            "name": "Dodo Juice Banana Paste Wax",
+            "description": "Dodo Juice Banana Paste Wax is a car care product known for its unique banana scent and easy application, designed to provide a durable protective layer and enhance the shine of vehicle paint.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "1c2ecf68-b741-4632-a3f6-47ac5ca0c043",
+            "image": null,
+            "name": "Gold Carnauba Pure Brazilian Carnauba Wax",
+            "description": "Mothers Gold Carnauba Pure Brazilian Carnauba Wax is a premium car care product designed to provide a deep, long-lasting shine and protection for automotive surfaces using natural carnauba wax sourced from Brazil.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        }
+    ]
+}

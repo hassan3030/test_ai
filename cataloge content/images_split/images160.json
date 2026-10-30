@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "628de06d-118f-4113-8e63-080ee03e69ab",
+            "image": null,
+            "name": "Bulgari B.zero1",
+            "description": "The Bulgari B.zero1 series is a collection of luxury accessories characterized by its unique design that combines modernity and traditional craftsmanship, serving as a statement piece for personal expression.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Bulgari"
+            }
+        },
+        {
+            "id": "8d8f7844-fed6-46c7-8f47-aa51cf5a46d8",
+            "image": null,
+            "name": "Wemo Insight Smart Plug",
+            "description": "The Wemo Insight Smart Plug is a smart home device that allows users to control and monitor the power usage of plugged-in devices from their smartphones and through voice commands with compatible virtual assistants.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "73e11951-718b-4ca3-9720-261761042b29",
+            "image": null,
+            "name": "Wemo Light Switch",
+            "description": "The Wemo Light Switch is a smart home device that allows users to control their lights remotely via a smartphone app or voice commands, enhancing convenience and energy efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "8c8d772f-05d3-453f-b89f-4cc5b1f25b18",
+            "image": null,
+            "name": "Wemo Dimmer Switch",
+            "description": "The Wemo Dimmer Switch is a smart home device that allows users to control the brightness of their lights remotely via a smartphone app or voice commands. It integrates with popular smart home ecosystems for added convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "06050bff-9360-4733-ae57-d297b867b079",
+            "image": null,
+            "name": "Wemo Smart Plug",
+            "description": "The Wemo Smart Plug is a Wi-Fi-enabled device that allows users to remotely control their home appliances through a smartphone app, enhancing convenience and energy efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "88d5eeaf-fe53-4a2a-b58f-31093748cff8",
+            "image": null,
+            "name": "Wemo Stage Scene Controller",
+            "description": "The Wemo Stage Scene Controller is a smart home device that allows users to easily control multiple smart devices and scene settings with the press of a button. It is designed to enhance home automation by creating customized scenes for lighting, music, and other connected devices.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "9ad2a49d-8e88-452d-8800-006d4d3d92e9",
+            "image": null,
+            "name": "Wemo WiFi Smart Light Switch",
+            "description": "The Wemo WiFi Smart Light Switch allows users to control their lights remotely through a smartphone app or voice commands, enabling automation and energy efficiency in any home.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "870a18fb-3788-4dcd-95cb-ac3c8b1de515",
+            "image": null,
+            "name": "Jimmy Choo Bags Collection",
+            "description": "The Jimmy Choo Bags Collection features luxury handbags designed for versatility and elegance, combining contemporary style with high-quality materials.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Jimmy Choo"
+            }
+        },
+        {
+            "id": "4b943124-2238-4c6b-a8bf-b035c73bab42",
+            "image": null,
+            "name": "V-12",
+            "description": "The Veja V-12 is a sustainable sneaker series released in 2021, characterized by its combination of eco-friendly materials and a minimalist design aimed at promoting responsible fashion.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "4bd8d725-44ba-4975-b2f4-418557239fc8",
+            "image": null,
+            "name": "V15",
+            "description": "The Veja V15 series consists of sustainable sneakers designed with ecological materials and a focus on fair trade practices, offering both comfort and style for everyday wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "a41c3f13-c845-4883-8f11-f6f01ef8fdc1",
+            "image": null,
+            "name": "Diesel x D&AD",
+            "description": "The Diesel x D&AD series is a collaboration that features unique accessories combining Diesel's bold style with D&AD's focus on creativity and innovation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Diesel"
+            }
+        },
+        {
+            "id": "731168e5-6e29-4d21-9172-03e0d1a2381d",
+            "image": null,
+            "name": "Skullcandy Crusher Wireless",
+            "description": "The Skullcandy Crusher Wireless headphones are over-ear wireless headphones known for their immersive sound experience, featuring adjustable sensory bass technology that allows users to customize the level of bass in their music.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "16d5e2b1-746d-4dff-bd6c-616ba1196eb1",
+            "image": null,
+            "name": "Skullcandy Hesh 2 Wireless",
+            "description": "The Skullcandy Hesh 2 Wireless headphones are designed for easy Bluetooth connectivity, delivering high-quality sound with up to 15 hours of battery life, ideal for music lovers on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "5ddb4422-1ceb-4799-bb7f-bcefbe3e8222",
+            "image": null,
+            "name": "Skullcandy Indy",
+            "description": "The Skullcandy Indy series features true wireless headphones designed for convenience and comfort, providing quality sound and a secure fit for active users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "3ce3f152-b392-4ae1-94d2-e55e58ec0e5e",
+            "image": null,
+            "name": "Skullcandy Riff",
+            "description": "The Skullcandy Riff headphones are designed for casual listening with a focus on comfort and portability, offering a lightweight build and a balanced sound profile.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "f2031c08-59df-4f3f-9c2e-631c3baccc05",
+            "image": null,
+            "name": "Sceptre C278W-1920R",
+            "description": "The Sceptre C278W-1920R is a 27-inch monitor designed for a wide range of applications, including gaming and office work, providing a full HD resolution for clear and vibrant visuals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "90bdc597-3317-436f-9197-1913230a7db5",
+            "image": null,
+            "name": "Sceptre E Series",
+            "description": "The Sceptre E Series is a lineup of monitors designed for everyday use, offering a balance of performance and affordability suitable for both home and office environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "9ac393e7-0e2d-43a9-b9e2-ee1d2c808903",
+            "image": null,
+            "name": "Sceptre C Series",
+            "description": "The Sceptre C Series is a line of versatile monitors designed to provide enhanced viewing experiences for both entertainment and productivity. Featuring a sleek design and various screen sizes, these monitors aim to deliver sharp visuals and vibrant colors.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "4149ddb6-0891-452e-aed3-4cda46010c2e",
+            "image": null,
+            "name": "Google Pixel",
+            "description": "The Google Pixel series consists of smartphones designed to showcase the best of Google software and services, offering a premium user experience with high-quality cameras and regular software updates.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "493402f1-0a0d-4ad5-add5-e3ef038bba6f",
+            "image": null,
+            "name": "Google Pixel 3 XL",
+            "description": "The Google Pixel 3 XL is a smartphone released in 2018, known for its high-quality camera and seamless integration with Google services.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "f8923d56-8780-4ec8-b025-f15ecdec9ffb",
+            "image": null,
+            "name": "Nest Audio",
+            "description": "The Google Nest Audio is a smart speaker designed to deliver high-quality sound and integrate seamlessly with the Google Assistant for a hands-free experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "c23ae710-7bc4-4d4d-b8fc-037a7b64e9ef",
+            "image": null,
+            "name": "PC-O11 Dynamic",
+            "description": "The Lian Li PC-O11 Dynamic is a mid-tower ATX case designed for optimal airflow and aesthetics, featuring tempered glass panels to showcase internal components.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Lian Li"
+            }
+        },
+        {
+            "id": "c5d23e53-cc31-4977-b10a-e7252e4ddbb2",
+            "image": null,
+            "name": "Lian Li PC-O11 Dynamic Evo",
+            "description": "The Lian Li PC-O11 Dynamic Evo is a mid-tower chassis designed for optimal airflow and customizable aesthetics, featuring a tempered glass design and ample space for hardware components.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Lian Li"
+            }
+        },
+        {
+            "id": "7e4ceb28-eb9b-4bfd-9f54-b1f30af9430e",
+            "image": null,
+            "name": "Lian Li LANCOOL II MESH",
+            "description": "The Lian Li LANCOOL II MESH series is a line of PC cases designed to provide enhanced airflow and versatility, offering users a balance between aesthetics and functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Lian Li"
+            }
+        },
+        {
+            "id": "ddd72e1b-5dca-4fba-ac3d-840e6b763136",
+            "image": null,
+            "name": "Gamer Storm Series",
+            "description": "The Deepcool Gamer Storm Series is designed to provide efficient cooling solutions for gamers and PC enthusiasts, featuring a range of high-performance CPU coolers, cases, and fans that enhance PC performance and aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Deepcool"
+            }
+        },
+        {
+            "id": "346ef745-3f90-4f48-b8aa-c0b3325f0094",
+            "image": null,
+            "name": "Optoma UHD35",
+            "description": "The Optoma UHD35 series consists of 4K UHD projectors designed to deliver high-quality visuals with enhanced brightness and color accuracy, suitable for both home entertainment and gaming.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "1f21167c-447d-4f16-8ebb-c27b818ee188",
+            "image": null,
+            "name": "Lemfo LEM15",
+            "description": "The Lemfo LEM15 is a smart watch released in 2020, designed to provide fitness tracking, notifications, and various smartphone functionalities directly from the wrist.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "73a6649a-bd38-45d1-a0e4-cc55c791f63e",
+            "image": null,
+            "name": "Lemfo LEM13",
+            "description": "The Lemfo LEM13 is a smart watch designed for fitness tracking and everyday use, featuring a variety of health monitoring functions and customizable watch faces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "b897b430-3072-488e-9f74-a26949205476",
+            "image": null,
+            "name": "August Smart Lock",
+            "description": "The August Smart Lock is a smart home device that allows users to control and monitor access to their doors using a smartphone app, enhancing security and convenience through keyless entry.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "f237cb70-b978-4a79-8570-2201597b7bb7",
+            "image": null,
+            "name": "August Doorbell Cam",
+            "description": "The August Doorbell Cam is a smart home device that allows homeowners to see and communicate with visitors at their door through their smartphone, enhancing home security and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        }
+    ]
+}

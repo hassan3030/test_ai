@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8dde75ad-9055-44f7-9264-9d02f524f4e3",
+            "image": null,
+            "name": "Focal Bird",
+            "description": "The Focal Bird series features compact, high-fidelity speakers designed to deliver an immersive audio experience in a stylish, space-saving form factor.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "329bd083-1702-4475-9dda-ce8d29d68cd0",
+            "image": null,
+            "name": "Exos",
+            "description": "The Seagate Exos series comprises high-capacity hard disks designed for enterprise storage solutions, offering robust performance, reliability, and security for data-intensive applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "009739e9-87e0-4c72-89c5-602293717b60",
+            "image": null,
+            "name": "Secretlab TITAN 2020 Series",
+            "description": "The Secretlab TITAN 2020 Series is a range of ergonomic gaming chairs optimized for comfort and support during long gaming sessions, featuring adjustable components to suit individual preferences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "8e4f9b87-9c9f-4376-b98c-d933c6fbbf66",
+            "image": null,
+            "name": "Clarion VRX series",
+            "description": "The Clarion VRX series is a line of innovative car audio systems released in 2001, designed to enhance in-car entertainment with advanced features such as video playback and premium sound quality.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "a6c459af-2cd1-4392-999e-6fb1c2fd1b9b",
+            "image": null,
+            "name": "Clarion DXZ series",
+            "description": "The Clarion DXZ series is a line of car audio head units designed to provide high-quality sound and versatile media playback options, emphasizing user-friendly controls and advanced audio features.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "c1ac3fc3-3deb-47ec-a7e3-d0d09c6563c9",
+            "image": null,
+            "name": "Clarion NX Series",
+            "description": "The Clarion NX Series is a line of car audio systems released in 2007, designed to provide high-quality sound and advanced multimedia features for enhanced in-vehicle entertainment.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "cb34f474-114f-46f8-8973-c889d6171577",
+            "image": null,
+            "name": "Focal Spirit",
+            "description": "The Focal Spirit series consists of high-quality headphones designed for studio monitoring and everyday listening, offering accurate sound reproduction and comfort.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "033aed57-c561-4af4-9808-fd17307704e2",
+            "image": null,
+            "name": "Focal Electra 1000",
+            "description": "The Focal Electra 1000 series is a premium range of speakers known for their exceptional sound quality and sophisticated design, aimed at high-fidelity audio enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "165e7401-4b14-4123-9fc7-b9e43ce7aea2",
+            "image": null,
+            "name": "Focal Elear",
+            "description": "Focal Elear headphones are designed to provide exceptional audio quality, featuring an open-back design and high-performance drivers for an immersive listening experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "1e1f9f68-78d8-405a-aa5a-421a59cf7933",
+            "image": null,
+            "name": "Clarion CZ501",
+            "description": "The Clarion CZ501 is a car audio receiver designed for high-quality sound and versatile connectivity features. It supports various media formats and is equipped with user-friendly controls for an enhanced driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "2549d2af-2eb9-4841-81ae-06e8894c6ac2",
+            "image": null,
+            "name": "Focal Arche",
+            "description": "The Focal Arche is a high-fidelity headphone amplifier and DAC designed to enhance the musical experience by delivering exceptional sound quality and precise audio performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "2bb843f5-ee3d-43a5-a951-15a7172cdb77",
+            "image": null,
+            "name": "Focal 165 A1",
+            "description": "The Focal 165 A1 is a car audio speaker series known for its high sound quality and robust construction, designed to enhance the listening experience in vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "41a0dfb8-38c7-4913-a21a-e16b89363613",
+            "image": null,
+            "name": "Focal Chorus 700 Series",
+            "description": "The Focal Chorus 700 Series comprises a range of high-fidelity speakers designed to deliver accurate sound reproduction and enhanced audio experience, suitable for various listening environments.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "4867fdb9-a90c-4e86-bfed-a52a0af3ae04",
+            "image": null,
+            "name": "Infinity Primus",
+            "description": "The Infinity Primus series is designed for car audio enthusiasts, providing high-quality sound and durability for an enhanced listening experience on the road.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Infinity"
+            }
+        },
+        {
+            "id": "5b22c462-900e-4496-b3aa-1eb1cf562397",
+            "image": null,
+            "name": "Focal Aria 900",
+            "description": "The Focal Aria 900 series is a range of high-fidelity speakers designed to deliver exceptional audio performance in both home and professional environments. Featuring sophisticated design and advanced materials, these speakers aim to provide a natural and immersive listening experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "8a0282f2-ab2f-4951-8271-72ff1f130dfc",
+            "image": null,
+            "name": "Maytag® Smart Capable Top Load Washer",
+            "description": "The Maytag® Smart Capable Top Load Washer is designed for efficient cleaning with advanced features that help simplify laundry tasks while providing smart connectivity options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "a4ca6edd-c0c7-418c-8deb-eb1137c57508",
+            "image": null,
+            "name": "Primus Series",
+            "description": "The Infinity Primus Series is a collection of car audio speakers designed to deliver high-quality sound and exceptional performance for automotive audio systems.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Infinity"
+            }
+        },
+        {
+            "id": "ac134017-a3ad-46a7-9307-18204b492183",
+            "image": null,
+            "name": "Z Series",
+            "description": "The Phoenix Gold Z Series is a line of car audio products designed for high-performance sound quality, featuring amplifiers and speakers that deliver powerful audio experiences in vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "9e65a63e-6a9f-4ca3-aac9-84f9cd258334",
+            "image": null,
+            "name": "Chuwi Hi9 Plus",
+            "description": "The Chuwi Hi9 Plus is a versatile tablet designed for both entertainment and productivity, featuring a high-resolution display and powerful performance capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "82d9f4e1-e600-4558-8c29-5b51f5fa5bd5",
+            "image": null,
+            "name": "Chuwi SurBook",
+            "description": "The Chuwi SurBook is a versatile 2-in-1 laptop designed for productivity and portability, featuring a detachable keyboard and touch screen.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "af980054-eaf0-45c5-ba52-d3fe1a58aa81",
+            "image": null,
+            "name": "Chuwi AeroBook",
+            "description": "The Chuwi AeroBook series consists of lightweight laptops designed for portability and everyday productivity, featuring slim designs and efficient performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "77536579-7804-45fa-b72e-984b2b95981b",
+            "image": null,
+            "name": "motorola g50",
+            "description": "The Motorola G50 is a budget-friendly smartphone released in 2021, designed to deliver essential features and reliable performance for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "3b9d994b-2b27-4984-87a6-0581b50b37c0",
+            "image": null,
+            "name": "motorola g100",
+            "description": "The Motorola g100 is a smartphone that combines powerful performance with a versatile camera system, designed to enhance the user experience in everyday tasks and multimedia consumption.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "26954325-a206-4e99-99cb-38da300fe810",
+            "image": null,
+            "name": "Motorola Edge 30",
+            "description": "The Motorola Edge 30 series consists of mid-range smartphones designed to offer premium features such as high-resolution displays and powerful performance at an accessible price point.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "53278bd1-007a-4eb9-a8f0-4bbddc2ca90d",
+            "image": null,
+            "name": "Forerunner 245",
+            "description": "The Garmin Forerunner 245 is a GPS running smartwatch designed for runners and athletes, offering advanced training features, performance metrics, and smartwatch capabilities to enhance workouts and daily activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "f390d67a-731c-4266-9424-9ea222cf6295",
+            "image": null,
+            "name": "Forerunner 45",
+            "description": "The Garmin Forerunner 45 is a GPS running watch designed for runners who want to track their performance and monitor their heart rate without the need for a chest strap.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "e82b7124-39bc-4d53-b030-54d6624aabd6",
+            "image": null,
+            "name": "Q Marshal",
+            "description": "The Fossil Q Marshal is a smartwatch series designed for a blend of style and functionality, featuring customizable watch faces, fitness tracking, and smartphone notifications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "6e863e77-e256-46f2-a9ea-a14d4332b215",
+            "image": null,
+            "name": "VTech Kidizoom Duo 5.0",
+            "description": "The VTech Kidizoom Duo 5.0 is a kid-friendly digital camera designed to allow children to take photos and videos with ease while also incorporating fun effects and games for creative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "VTech"
+            }
+        },
+        {
+            "id": "a8e0a147-0421-4d6d-bc9a-aead64977f8e",
+            "image": null,
+            "name": "VTech Baby's Learning Laptop",
+            "description": "VTech Baby's Learning Laptop is an interactive toy designed to introduce young children to basic learning concepts through engaging activities and songs. This educational tool encourages cognitive development and early literacy skills in a fun, playful way.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "VTech"
+            }
+        },
+        {
+            "id": "e79fd54a-a36b-46da-a115-3b439e907b23",
+            "image": null,
+            "name": "Deebot T10",
+            "description": "The Deebot T10 series consists of advanced robotic vacuum cleaners designed to provide efficient cleaning solutions for modern homes, incorporating smart features for enhanced functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        }
+    ]
+}

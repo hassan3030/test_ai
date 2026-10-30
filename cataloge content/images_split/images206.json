@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a0b9a290-b791-489e-81c8-2e57c4ff8a0d",
+            "image": null,
+            "name": "Pinypon Super Fun",
+            "description": "Pinypon Super Fun is a playful toy series that encourages creativity and imaginative play through its interchangeable figures and accessories.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "1c84630a-213c-4cbb-b15e-c83c189c52a4",
+            "image": null,
+            "name": "Pinypon Superthings",
+            "description": "Pinypon Superthings are collectible character toys that feature fun and quirky designs, encouraging imaginative play. Each character is part of a larger universe filled with unique traits and interactions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "3e50952f-5fa2-482c-bf1d-4303bed040ca",
+            "image": null,
+            "name": "Pinypon Fashion",
+            "description": "Pinypon Fashion is a toy series that allows children to create and customize their own fashionable characters through interchangeable outfits and accessories.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "059944e5-1cfb-4f5a-86b0-7f7fca0f5e23",
+            "image": null,
+            "name": "Pinypon Theme",
+            "description": "Pinypon Theme is a series of collectible toy figures that encourages creative play and imagination among children. Each figure and accessory is designed to be interchangeable, allowing for customization and storytelling.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "f74c53fe-2318-43d1-b9ac-8920103c409d",
+            "image": null,
+            "name": "Pete the Cat",
+            "description": "The Pete the Cat series by Briarpatch features engaging children's books that promote reading through fun stories and colorful illustrations designed to capture young readers' imaginations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Briarpatch"
+            }
+        },
+        {
+            "id": "3a92dbce-813f-4556-b0ec-9649cdd7fe57",
+            "image": null,
+            "name": "The Pigeon",
+            "description": "The Pigeon series by Briarpatch is a collection of children's books featuring the beloved character created by Mo Willems, designed to engage young readers with humorous storytelling and interactive elements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Briarpatch"
+            }
+        },
+        {
+            "id": "5141c2dc-87e5-4e8e-95f7-5cfe0e656327",
+            "image": null,
+            "name": "Combi SmartClick",
+            "description": "The Combi SmartClick series offers versatile and easy-to-use strollers designed to provide comfort and convenience for both parents and children, emphasizing quick attachment features and thoughtful engineering.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "2b9ffd3e-8486-4abf-9254-ee4e7b7b285c",
+            "image": null,
+            "name": "Combi F2 Plus",
+            "description": "The Combi F2 Plus is a lightweight, compact stroller designed for easy maneuverability and convenience for parents on the go.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "22908926-a6c5-4e6c-aa19-28a4a6fc901c",
+            "image": null,
+            "name": "Combi Raku Raku",
+            "description": "The Combi Raku Raku series features lightweight strollers designed for easy maneuverability and convenience, making it an ideal choice for parents on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "18307ed9-e47b-4d1b-a19a-5ef936773cbe",
+            "image": null,
+            "name": "Combi Well Comfort",
+            "description": "The Combi Well Comfort series offers versatile strollers designed for comfort and convenience, making them ideal for parents on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "9c42affe-1f55-4643-833b-d1bb470595f4",
+            "image": null,
+            "name": "Aprica Karoon",
+            "description": "The Aprica Karoon is a stroller designed for easy mobility and comfort for both parents and their children. It features an ergonomic design that ensures a smooth and hassle-free experience during outings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "a56431a8-2353-45f1-b7ee-db3cf2647313",
+            "image": null,
+            "name": "Aprica Flade",
+            "description": "The Aprica Flade series includes strollers designed for ease of use and comfort, prioritizing the safety and convenience of both the child and the caregiver.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "94c1e6e6-889c-4fe6-a050-53272b6c1cce",
+            "image": null,
+            "name": "LUXE",
+            "description": "The Aprica LUXE series offers a premium line of strollers designed to provide comfort, safety, and convenience for both parents and children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "a8a6dc13-44b5-4461-bf3d-eaf8b82691f2",
+            "image": null,
+            "name": "Kira",
+            "description": "The Aprica Kira series of strollers is designed for easy maneuverability and comfort for both the child and parent, featuring lightweight construction and convenient folding mechanisms for on-the-go families.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "1cd34760-272e-448a-93bb-6fb69fa3ed4f",
+            "image": null,
+            "name": "Uniqlo x Peanuts Kids Collection",
+            "description": "The Uniqlo x Peanuts Kids Collection is a collaborative clothing line that features playful designs inspired by the beloved Peanuts characters, aimed at providing comfortable and stylish apparel for children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "38964c51-bc2c-426f-b877-1740efeb2811",
+            "image": null,
+            "name": "Pioneer DEX-P Series",
+            "description": "The Pioneer DEX-P Series is a line of car audio receivers released in 2005, designed to enhance in-vehicle audio experiences with features such as CD playback and radio tuning.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "12c02825-fa74-4522-a077-c394b1b53ff7",
+            "image": null,
+            "name": "DJP Series",
+            "description": "The DJP Series by Pioneer is a line of car audio products designed to enhance in-car entertainment with high-quality sound and user-friendly functionality.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "38d9fcfb-a38c-4580-87ec-5cd94fd6d8ca",
+            "image": null,
+            "name": "TS-W Series",
+            "description": "The Pioneer TS-W Series is designed for car audio enthusiasts seeking high-performance subwoofers that enhance bass response and sound quality in automotive sound systems.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "0b27c849-14ae-4ba1-9b56-4c5eef51ff1c",
+            "image": null,
+            "name": "Chevrolet Trax",
+            "description": "The Chevrolet Trax is a compact SUV designed for urban driving, offering versatility and fuel efficiency along with a range of technology features to enhance comfort and convenience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "e2b999a9-2782-4e53-b7c5-8a20d819c0b2",
+            "image": null,
+            "name": "Chevrolet Camaro (Sixth Generation)",
+            "description": "The Chevrolet Camaro (Sixth Generation) is a modern sports car known for its aggressive styling, powerful performance options, and advanced technology, designed to deliver an exhilarating driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "04ad29d5-3292-4360-8747-c7cf63420dd6",
+            "image": null,
+            "name": "Punch Series speakers",
+            "description": "The Rockford Fosgate Punch Series speakers are designed to deliver high-quality sound in a car audio setup, known for their durability and exceptional performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "f307d45c-8183-47b5-b951-823812f1656f",
+            "image": null,
+            "name": "Hella Micro DE",
+            "description": "Hella Micro DE is a series of compact fog lights designed for improved visibility in adverse weather conditions. These lights are known for their durable construction and efficient lighting performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "11d691d9-2c3e-436e-a3df-80d70dcc6d44",
+            "image": null,
+            "name": "CQuartz",
+            "description": "CQuartz is a professional-grade ceramic coating series designed to provide long-lasting protection for automotive surfaces against environmental contaminants, UV rays, and wear.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "042c427b-a1a9-49f9-840a-53a87b9f9f24",
+            "image": null,
+            "name": "Menzerna One Step Polish",
+            "description": "Menzerna One Step Polish is a versatile car care product designed for effective paint correction and finishing in a single application. It is known for its ability to remove imperfections while providing a high-gloss finish.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "df79b05c-99a5-46e4-bc90-bd984cf875a1",
+            "image": null,
+            "name": "Zymol Carbon",
+            "description": "Zymol Carbon is a series of premium car care products designed to clean and protect automotive surfaces, using natural ingredients for effective and safe detailing.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "767563b0-18bd-4032-9d94-1c1aae15dfc8",
+            "image": null,
+            "name": "Zymol Vintage",
+            "description": "Zymol Vintage is a premium car care product series that specializes in providing high-quality wax and detailing solutions, designed to enhance and protect the appearance of luxury vehicles.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "2a90fe77-0d36-4ad5-99f0-634c407cf534",
+            "image": null,
+            "name": "Zymol Wax Series",
+            "description": "The Zymol Wax Series consists of premium car wax products designed for automotive paint protection and enhancement. Known for their natural ingredients, these waxes provide a deep, durable gloss while helping to shield the vehicle's exterior from the elements.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "9e35a12e-3337-4223-8d14-66d2db2a2fd2",
+            "image": null,
+            "name": "Zymol HD Cleanse",
+            "description": "Zymol HD Cleanse is a car care product series designed for deep cleaning automotive surfaces. Its key purpose is to remove dirt, grime, and other contaminants to prepare the surfaces for waxing or polishing.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "b0066cde-28ff-4207-8e84-ffdcede35b9a",
+            "image": null,
+            "name": "Zymol Solaris",
+            "description": "Zymol Solaris is a series of car care products released in 2005, designed to enhance and protect automotive finishes using high-quality natural ingredients.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "9e7a6b17-f6c5-4ba2-9ac5-aee4b0f96574",
+            "image": null,
+            "name": "Zymol Glasur",
+            "description": "Zymol Glasur is a premium car wax designed to enhance and protect the finish of automotive surfaces, providing a high-gloss shine and long-lasting durability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        }
+    ]
+}

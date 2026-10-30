@@ -1,0 +1,785 @@
+﻿{
+  "data": [
+    {
+      "id": "11077a62-6122-49d2-a293-8ae6aa4332f9",
+      "status": "published",
+      "name": "Refrigerators",
+      "slug": "refrigerators",
+      "description": "Refrigerators and freezers",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "32435ae6-776c-4033-9539-7a0bec161521",
+      "status": "published",
+      "name": "Car Accessories",
+      "slug": "car-accessories",
+      "description": "Accessories for cars including interior, exterior, and performance enhancements.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "525f47d8-a7c4-44fb-aa7f-61b1c4f5601c",
+      "status": "published",
+      "name": "hard disks",
+      "slug": "hard_disks",
+      "description": null,
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "70ab26d4-e368-4791-be04-91da0dd9a3c9",
+      "status": "published",
+      "name": "Tables",
+      "slug": "tables",
+      "description": "Dining, coffee, and office tables for living and working spaces.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "7cf135b5-9b38-4216-a0bd-b2ebd2431231",
+      "status": "published",
+      "name": "Water Heaters",
+      "slug": "water-heaters",
+      "description": "Water heaters for home use.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "82f9c0d6-823a-4f33-bdb6-52b7d90a5806",
+      "status": "published",
+      "name": "Headphones",
+      "slug": "headphones",
+      "description": "Discover headphones, earbuds, and audio accessories.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "903611ec-d84c-4be1-9a8c-be3b6840a5a0",
+      "status": "published",
+      "name": "TV Stands",
+      "slug": "tv-stands",
+      "description": "Entertainment furniture including TV stands and media consoles for living rooms.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "b296c5d8-b5a3-464f-bf4b-7baf53bc010a",
+      "status": "published",
+      "name": "Wardrobes",
+      "slug": "wardrobes",
+      "description": "Bedroom storage furniture including wardrobes for organizing clothes and essentials.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "d3c095a3-b64f-4872-b8b9-222afb2902c9",
+      "status": "published",
+      "name": "Washing Machines",
+      "slug": "washing-machines",
+      "description": "Washing machines for home laundry.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "1c8f5402-684d-4b90-8863-ca1bbcd41a55",
+      "status": "published",
+      "name": "Sunglasses",
+      "slug": "sunglasses",
+      "description": "Browse stylish sunglasses for men and women including designer and casual styles.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "1ce157ea-5dae-4648-b26c-3740fab76ae9",
+      "status": "published",
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Browse fashion accessories including jewelry, hats, scarves, belts, and more.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "39bcd0a8-3333-4d74-9f6e-4d5a4c7ea528",
+      "status": "published",
+      "name": "Detailing Tools",
+      "slug": "detailing-tools",
+      "description": "Tools for cleaning, polishing, and maintaining vehicles.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "793fdc7d-d35c-4078-aee3-0447853f7671",
+      "status": "published",
+      "name": "Gym Equipment",
+      "slug": "gym-equipment",
+      "description": "Explore gym equipment and fitness gear.",
+      "category_id": {
+        "id": "fbefa3b0-4797-4825-8978-10e234775381",
+        "name": "Sports & Hobby"
+      }
+    },
+    {
+      "id": "a1ce43b6-139c-4fc7-9909-4d88485cabe5",
+      "status": "published",
+      "name": "Baby Seats",
+      "slug": "baby-seats",
+      "description": "Baby seats for cars, strollers, and home use.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "cd42c6fe-d133-48fe-a2b6-0b5fb343561f",
+      "status": "published",
+      "name": "Sneakers",
+      "slug": "sneakers",
+      "description": "Browse trendy sneakers for men and women including casual and sports sneakers.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "dfb69b8a-7b6b-4ed0-bde2-74dc1dc830ee",
+      "status": "published",
+      "name": "Men's Clothing",
+      "slug": "mens-clothing",
+      "description": "Browse men's clothing including shirts, trousers, jackets, suits, and casual wear.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "25e177ee-1e34-45d6-b767-070b6304329b",
+      "status": "published",
+      "name": "School Gear",
+      "slug": "school-gear",
+      "description": "Backpacks, stationery, and educational supplies for children.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "4e7b1d13-308d-45f0-b0d4-463440444d34",
+      "status": "published",
+      "name": "Bikes",
+      "slug": "bikes",
+      "description": "Bicycles and tricycles for kids.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "8918154d-01f7-4031-80c3-3434bc6930a8",
+      "status": "published",
+      "name": "Kids Clothes",
+      "slug": "kids-clothes",
+      "description": "Clothing for boys and girls.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "a0efe73d-9c94-4d69-8192-3ba3b8d5a7d5",
+      "status": "published",
+      "name": "Bags",
+      "slug": "bags",
+      "description": "Browse fashion bags including handbags, backpacks, clutches, and travel bags.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "a43c599c-535c-4b6f-9429-70a4c2ed9187",
+      "status": "published",
+      "name": "Skateboards",
+      "slug": "skateboards",
+      "description": "Browse skateboards, decks, wheels, and accessories for skating enthusiasts.",
+      "category_id": {
+        "id": "fbefa3b0-4797-4825-8978-10e234775381",
+        "name": "Sports & Hobby"
+      }
+    },
+    {
+      "id": "e1f61af5-57ea-4c98-8704-f3f655a390ca",
+      "status": "published",
+      "name": "Kids Books",
+      "slug": "kids-books",
+      "description": "Storybooks and educational books for children.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "33ea0877-dae0-4a3b-bc1f-6baab08031f0",
+      "status": "published",
+      "name": "Strollers",
+      "slug": "strollers",
+      "description": "Strollers, prams, and baby transport gear.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "4400579d-4508-40f5-a039-1227fc6c4eec",
+      "status": "published",
+      "name": "Motorcycles",
+      "slug": "motorcycles",
+      "description": "Motorcycles, scooters, and motorbikes available for sale, rent, or swap.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "6be5379f-23ab-4f0f-a9b6-95a648d72040",
+      "status": "published",
+      "name": "Toys",
+      "slug": "toys",
+      "description": "Educational and fun toys for children of all ages.",
+      "category_id": {
+        "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+        "name": "Kids & Baby"
+      }
+    },
+    {
+      "id": "7e490192-30b1-41c2-b1cf-1f2e4834cfb9",
+      "status": "published",
+      "name": "Women's Clothing",
+      "slug": "womens-clothing",
+      "description": "Browse trendy women clothing including dresses, tops, skirts, and outerwear.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "c5e658f1-7c39-4569-82b3-2d91b88fffb5",
+      "status": "published",
+      "name": "Car Audio",
+      "slug": "car-audio",
+      "description": "Audio systems, speakers, and sound accessories for cars and vehicles.\n",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "e170b86d-a39e-4c4c-b325-cacf50486354",
+      "status": "published",
+      "name": "Watches",
+      "slug": "watches",
+      "description": "Browse stylish watches for men and women including luxury, sports, and casual styles.",
+      "category_id": {
+        "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+        "name": "Fashion"
+      }
+    },
+    {
+      "id": "fc9507d6-b52b-43df-8db9-0470854aceac",
+      "status": "published",
+      "name": "Art Supplies",
+      "slug": "art-supplies",
+      "description": "Find paints, brushes, sketchbooks, and craft materials for artists and hobbyists.",
+      "category_id": {
+        "id": "fbefa3b0-4797-4825-8978-10e234775381",
+        "name": "Sports & Hobby"
+      }
+    },
+    {
+      "id": "3635d2ff-208a-4900-8f54-90a7d01ab506",
+      "status": "published",
+      "name": "Gaming Chairs",
+      "slug": "gaming-chairs",
+      "description": "Ergonomic gaming chairs for comfort and style during gaming sessions.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "4de7a97f-3237-441f-8a1b-6978d17b713f",
+      "status": "published",
+      "name": "Gaming Accessories",
+      "slug": "gaming-accessories",
+      "description": "Headsets, keyboards, mice, mousepads, and other gaming gear for sale, rent, or swap.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "4ecf2191-bfb7-40eb-833a-00292bb154b8",
+      "status": "published",
+      "name": "Camping Gear",
+      "slug": "camping-gear",
+      "description": "Find tents, sleeping bags, backpacks, and all essential camping gear for outdoor adventures.",
+      "category_id": {
+        "id": "fbefa3b0-4797-4825-8978-10e234775381",
+        "name": "Sports & Hobby"
+      }
+    },
+    {
+      "id": "68aec0be-c308-44cb-aacc-8bbd8c50b790",
+      "status": "published",
+      "name": "Gaming PCs",
+      "slug": "gaming-pcs",
+      "description": "High-performance gaming desktops and rigs for competitive gaming, streaming, and professional setups.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "969ddd14-831f-41ca-b1b6-ef5511775fba",
+      "status": "published",
+      "name": "Car Care Products",
+      "slug": "car-care-products",
+      "description": "Products for cleaning, maintaining, and protecting your car.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "b47fdd56-63be-40c0-846f-816a2df295a2",
+      "status": "published",
+      "name": "Cameras",
+      "slug": "cameras",
+      "description": "Explore DSLR, mirrorless, and digital cameras for photography enthusiasts.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "b75d00f8-7df5-41e5-b7e2-6f34e3e10bc8",
+      "status": "published",
+      "name": "Controllers",
+      "slug": "controllers",
+      "description": "Gaming controllers for consoles and PCs including wired and wireless options.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "d3cb83b1-9b83-442c-84c8-8cb5605eacbc",
+      "status": "published",
+      "name": "Pickup Trucks",
+      "slug": "pickup-trucks",
+      "description": "Pickup trucks available for sale, rent, or swap for work and personal use.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "25cab747-7ef5-4c35-b709-094bcb86196d",
+      "status": "published",
+      "name": "Musical Instruments",
+      "slug": "musical-instruments",
+      "description": "Explore guitars, keyboards, drums, and other musical instruments for hobbyists and professionals.",
+      "category_id": {
+        "id": "fbefa3b0-4797-4825-8978-10e234775381",
+        "name": "Sports & Hobby"
+      }
+    },
+    {
+      "id": "2f114195-0f20-4b2f-8898-35ee4f9b621b",
+      "status": "published",
+      "name": "Rims & Tires",
+      "slug": "rims-tires",
+      "description": "Rims, tires, and wheel accessories for all types of vehicles.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "51d9d9c3-5f59-421a-afd2-5a22e6624481",
+      "status": "published",
+      "name": "Nintendo Switch",
+      "slug": "nintendo-switch",
+      "description": "Nintendo Switch consoles, games, and accessories for all gaming experiences.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "5807d60c-6b0b-41b0-883b-cad9d547dae4",
+      "status": "published",
+      "name": "SUVs",
+      "slug": "suvs",
+      "description": "Sport utility vehicles for family, luxury, and off-road driving.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "70993797-aa12-4c12-bde3-ac76f5a72b78",
+      "status": "published",
+      "name": "PlayStation",
+      "slug": "playstation",
+      "description": "PlayStation consoles, games, and accessories for ultimate gaming experience.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "7d629455-23c0-449b-bfca-81e065aec72d",
+      "status": "published",
+      "name": "Land & Plots",
+      "slug": "land-plots",
+      "description": "Discover land and plots for sale, perfect for investment or building your dream property.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "9b306a29-05a5-4789-9160-09ca24e85e7f",
+      "status": "published",
+      "name": "VR Headsets",
+      "slug": "vr-headsets",
+      "description": "Virtual reality headsets and accessories for immersive gaming.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "9d4a3a2f-05d1-4938-8d26-569b5bb3ffb0",
+      "status": "published",
+      "name": "Xbox",
+      "slug": "xbox",
+      "description": "Xbox consoles, games, and accessories for ultimate gaming experience.",
+      "category_id": {
+        "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+        "name": "Gaming"
+      }
+    },
+    {
+      "id": "ab3ad81d-b2c1-47dc-aa73-4a523bdc4142",
+      "status": "published",
+      "name": "Apartments for Rent",
+      "slug": "apartments-for-rent",
+      "description": "Find apartments for rent, connect with landlords, and secure your ideal rental property.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "da370bda-cb5d-4a57-979a-a29a7e519393",
+      "status": "published",
+      "name": "Apartments for Sale",
+      "slug": "apartments-for-sale",
+      "description": "Explore apartments for sale, find your dream property, and connect with sellers.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "e523296a-09e4-431e-a040-ed0f32c76428",
+      "status": "published",
+      "name": "Villas & Houses",
+      "slug": "villas-houses",
+      "description": "Explore villas and houses for sale or rent, and find your ideal property.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "e58f6f9e-4fad-4af5-9a45-8c5cdc92b75c",
+      "status": "published",
+      "name": "Car Parts",
+      "slug": "car-parts",
+      "description": "Engines, spare parts, and automotive components for all vehicle types.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "ee766eeb-2a36-44b2-9d3a-98be1ed33b43",
+      "status": "published",
+      "name": "Laptops",
+      "slug": "laptops",
+      "description": "Explore gaming, business, and personal laptops.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "eebd181b-3e9d-4fad-80bb-10256f9db5df",
+      "status": "published",
+      "name": "Commercial Spaces",
+      "slug": "commercial-spaces",
+      "description": "Find commercial spaces for sale or rent, perfect for offices, shops, or businesses.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "3cf5db0f-937d-4798-8263-72cd187e69d2",
+      "status": "published",
+      "name": "Monitors",
+      "slug": "monitors",
+      "description": "Explore gaming, professional, and personal monitors.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "55dcb18d-bffe-4041-a935-82621cab629e",
+      "status": "published",
+      "name": "Beds",
+      "slug": "beds",
+      "description": "Beds and bed frames for bedrooms including king, queen, and single sizes.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "89c1a521-9a32-43d7-994d-814a244ab39d",
+      "status": "published",
+      "name": "Office Spaces",
+      "slug": "office-spaces",
+      "description": "Browse office spaces for sale or rent, ideal for businesses and startups.",
+      "category_id": {
+        "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+        "name": "Real Estate"
+      }
+    },
+    {
+      "id": "967ec193-0502-4f4b-9b2f-43098e0421dc",
+      "status": "published",
+      "name": "Air Fryers",
+      "slug": "air-fryers",
+      "description": "Air fryers for healthier and faster cooking at home.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "acd2b77a-a2e5-45f4-a65a-2d8c8494e300",
+      "status": "published",
+      "name": "Blenders",
+      "slug": "blenders",
+      "description": "Blenders for smoothies, soups, and more.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "1e20c9aa-4637-4b44-b8dc-57b86b87efc2",
+      "status": "published",
+      "name": "Coffee Machines",
+      "slug": "coffee-machines",
+      "description": "Coffee machines for home and office use.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "351b226d-ec7b-47e6-bf1d-cb170fc6619f",
+      "status": "published",
+      "name": "Phones",
+      "slug": "phones",
+      "description": "Browse smartphones and mobile devices including iPhones, Androids, and other phones.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "5da74dd9-19d4-40f7-9453-20aa080f75d2",
+      "status": "published",
+      "name": "PC Components",
+      "slug": "pc-components",
+      "description": "Browse computer hardware and PC components such as processors, graphics cards, RAM, and motherboards.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "ba8c05a3-fb3e-484c-9928-df538df7f4cf",
+      "status": "published",
+      "name": "Microwaves",
+      "slug": "microwaves",
+      "description": "Microwaves for quick and easy cooking.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "c5734129-332f-4b65-bf55-58f28422899e",
+      "status": "published",
+      "name": "Chairs",
+      "slug": "chairs",
+      "description": "Chairs for home, office, and dining use.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "eeb454ff-cc1b-4217-ab0c-eaa608b175cf",
+      "status": "published",
+      "name": "Projectors",
+      "slug": "projectors",
+      "description": "Browse digital projectors for home, office, or entertainment use.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "095d7f65-d3db-4f68-b285-67362858344a",
+      "status": "published",
+      "name": "Cars",
+      "slug": "cars",
+      "description": "New and used cars available for sale, rent, or swap.",
+      "category_id": {
+        "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+        "name": "Automotive"
+      }
+    },
+    {
+      "id": "6ff0ea1a-7d28-4a8b-8caa-b78bf0046219",
+      "status": "published",
+      "name": "Smart Watches",
+      "slug": "smart-watches",
+      "description": "Browse smart watches including Apple Watch, Samsung Galaxy Watch, and other wearable devices.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "7c11c5cf-70cf-4ba6-81f0-a8e1bf91e08e",
+      "status": "published",
+      "name": "Office Furniture",
+      "slug": "office-furniture",
+      "description": "Office furniture including desks, chairs, and storage solutions.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "8c23b699-6fc1-4c52-8b12-fac286e79107",
+      "status": "published",
+      "name": "Vacuum Cleaners",
+      "slug": "vacuum-cleaners",
+      "description": "Vacuum cleaners for home cleaning.",
+      "category_id": {
+        "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+        "name": "Home & Kitchen"
+      }
+    },
+    {
+      "id": "a9b8386e-f162-47cb-9021-b40b3fb9ee49",
+      "status": "published",
+      "name": "Smart Home Devices",
+      "slug": "smart-home-devices",
+      "description": "Browse smart home devices including lights, cameras, thermostats, and automation gadgets.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "d48aeab0-c6fa-4009-af81-e72f7e2c7614",
+      "status": "published",
+      "name": "Sofas",
+      "slug": "sofas",
+      "description": "Sofas and couches for living rooms including sectional and recliner styles.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "429a177b-56c3-41fb-9dde-9935dc5f07fa",
+      "status": "published",
+      "name": "Speakers",
+      "slug": "speakers",
+      "description": "Browse car and home speakers, Bluetooth speakers, and audio equipment.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": "fa0db2d9-e203-433e-a208-1d30654e1033",
+      "status": "published",
+      "name": "Outdoor Furniture",
+      "slug": "outdoor-furniture",
+      "description": "Outdoor and garden furniture including patio sets, chairs, and tables.",
+      "category_id": {
+        "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+        "name": "Furniture"
+      }
+    },
+    {
+      "id": "49801e88-03bd-42e3-8e1b-4b1a104260d2",
+      "status": "published",
+      "name": "Tablets",
+      "slug": "tablets",
+      "description": "Browse tablets from top brands including iPad, Samsung Galaxy Tab, and other devices.",
+      "category_id": {
+        "id": "99809498-fe87-48bb-b535-853e29b05647",
+        "name": "Electronics"
+      }
+    }
+  ]
+}

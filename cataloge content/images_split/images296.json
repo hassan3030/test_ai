@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "14c4f6ed-a06c-4d2a-9cde-de3554c495cd",
+            "image": null,
+            "name": "Chevrolet Malibu Maxx",
+            "description": "The Chevrolet Malibu Maxx is a mid-size hatchback produced by Chevrolet, designed to offer a blend of spaciousness, comfort, and versatility suited for family needs.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "4cdbc37c-39fa-418d-abb7-575d45e17dd9",
+            "image": null,
+            "name": "Mini Rodini Winter Collection 2019",
+            "description": "The Mini Rodini Winter Collection 2019 features a range of warm and stylish kids' clothing designed to keep children comfortable during colder months while promoting sustainability in fashion.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "3b8a59f5-9b23-422f-aecc-5d91c6aab1bc",
+            "image": null,
+            "name": "Chevrolet Impala (2006 Generation)",
+            "description": "The Chevrolet Impala (2006 Generation) is a full-size sedan known for its spacious interior, comfortable ride, and strong performance, making it suitable for both family use and daily commuting.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "9b035f56-eab9-41d8-9584-e40a246bdfcd",
+            "image": null,
+            "name": "KTM 350 XC-F",
+            "description": "The KTM 350 XC-F is a high-performance off-road motorcycle designed for cross-country racing and extreme trail riding, featuring a lightweight chassis and powerful engine for enhanced agility and control.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "25280131-d8fa-4ca9-9732-493e62bb2ac7",
+            "image": null,
+            "name": "Titanium Cutlery",
+            "description": "The Snow Peak Titanium Cutlery series includes lightweight and durable utensils designed for camping and outdoor activities. Crafted from titanium, these cutlery pieces are corrosion-resistant and easy to clean, making them ideal for use in various environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "93ad3ef8-3ad2-4279-abc0-cd1b55e2a083",
+            "image": null,
+            "name": "Holbein Acryla Color",
+            "description": "Holbein Acryla Color is a series of high-quality acrylic paints known for their vibrant colors and smooth application, suitable for professional artists and hobbyists alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Holbein"
+            }
+        },
+        {
+            "id": "2bcb2c63-2372-46d4-b877-a1cf0266391b",
+            "image": null,
+            "name": "Holbein Acryla Acrylic Paints",
+            "description": "Holbein Acryla Acrylic Paints are high-quality, versatile acrylic paints suitable for both professionals and hobbyists. They are known for their smooth application, vibrant colors, and excellent lightfastness.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Holbein"
+            }
+        },
+        {
+            "id": "24d6a865-361d-466c-8fae-e528f42aa79f",
+            "image": null,
+            "name": "Glamour Series",
+            "description": "The Soft99 Glamour Series offers an array of car care products designed to enhance and protect vehicle surfaces while ensuring a long-lasting gloss and shine.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "cc335b32-8318-4e83-8bd9-6e6257b71b53",
+            "image": null,
+            "name": "Tineco Pure ONE S12",
+            "description": "The Tineco Pure ONE S12 is a powerful cordless vacuum cleaner designed for efficient and versatile cleaning on various surfaces, equipped with smart technology for real-time performance monitoring.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "57c0d1c6-3bf4-43ad-8fb3-da53018055d1",
+            "image": null,
+            "name": "Santa Cruz 2017 Complete Skateboards",
+            "description": "The Santa Cruz 2017 Complete Skateboards series includes a range of fully assembled skateboards designed for riders of all skill levels, known for their quality construction and vibrant graphics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "984356df-7d48-4dcd-a396-d562cbd3b675",
+            "image": null,
+            "name": "Gold Class",
+            "description": "Meguiar's Gold Class is a premium line of car care products launched in 2000, designed to deliver superior shine and protection for automotive finishes.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "ba5509e9-ca7e-423d-a498-b43d21bfc21d",
+            "image": null,
+            "name": "Insignia 5.3 Cu. Ft. Chest Freezer",
+            "description": "The Insignia 5.3 Cu. Ft. Chest Freezer is designed for efficient food storage, providing ample space to keep your frozen items organized and accessible.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Insignia"
+            }
+        },
+        {
+            "id": "93ce297c-37a8-4900-856b-b1d85448e8f8",
+            "image": null,
+            "name": "V-Moda M-100 X",
+            "description": "The V-Moda M-100 X headphones are designed for professional-grade audio performance, featuring durable construction and customizable design elements for a personalized listening experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "b49ecb18-0b33-4b0b-a614-d9dad214a310",
+            "image": null,
+            "name": "Audi Q7 (facelift)",
+            "description": "The Audi Q7 (facelift) is a luxury full-size SUV known for its spacious interior, advanced technology features, and comprehensive safety systems, catering to families and individuals seeking both comfort and versatility.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "25bab0c9-eaf8-4a27-b93e-a96d76ed360c",
+            "image": null,
+            "name": "Rollo",
+            "description": "The Aprica Rollo series of strollers is designed for ease of use and comfort, featuring lightweight construction and thoughtful design to facilitate mobility for parents and their children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "c6692480-d6fd-4e08-b2d4-84728629f090",
+            "image": null,
+            "name": "Raising",
+            "description": "The Aprica Raising series features strollers designed to provide comfort and convenience for both parents and children during outings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "f60753e1-0dbb-4ed3-aa57-a6bfabf2e622",
+            "image": null,
+            "name": "NordicTrack Commercial Series",
+            "description": "The NordicTrack Commercial Series includes advanced gym equipment designed for high-performance workouts, featuring interactive training options and durable construction for home or commercial use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "dadce219-1cc0-4470-8633-16442ddf72fe",
+            "image": null,
+            "name": "BenQ TH685",
+            "description": "The BenQ TH685 is a Full HD home projector designed for viewing films and gaming with high brightness and low input lag.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "69983167-622e-4687-a671-c2e95339b5cf",
+            "image": null,
+            "name": "Transcend SSD230S",
+            "description": "The Transcend SSD230S is a solid-state drive designed for enhancing system performance, offering faster speeds and improved reliability compared to traditional hard drives.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "c1814f40-c48d-457f-be4e-d9afeabf4dc4",
+            "image": null,
+            "name": "Transcend JetFlash 790",
+            "description": "The Transcend JetFlash 790 is a USB flash drive series designed for portable data storage with a durable and sleek design, suitable for everyday users who seek reliable data transfer solutions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "a02b882b-2d45-4e86-a5f0-7fb9f5ea6de5",
+            "image": null,
+            "name": "Longines HydroConquest",
+            "description": "The Longines HydroConquest series is a collection of high-performance dive watches known for their precision, water resistance, and sporty design, making them suitable for both underwater exploration and daily wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Longines"
+            }
+        },
+        {
+            "id": "e9e99606-73b9-4a3c-8209-c0dd49341d44",
+            "image": null,
+            "name": "Copic Classic Markers",
+            "description": "Copic Classic Markers are high-quality alcohol-based markers designed for artists and illustrators, known for their vibrant colors and blendability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "2d8f7db3-0519-44e6-af21-631822056862",
+            "image": null,
+            "name": "Chery Eastar",
+            "description": "The Chery Eastar is a mid-size car produced by the Chinese automaker Chery Automobile, designed to offer a balance of comfort and performance for both urban and highway driving since its release in 2003.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "82b2440e-5b91-4551-9e6e-5e52468d4de8",
+            "image": null,
+            "name": "Chevrolet Impala (8th Generation)",
+            "description": "The Chevrolet Impala (8th Generation) is a full-size sedan that was designed to provide spacious comfort and a smooth ride, catering to families and individuals seeking a reliable and practical vehicle.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "d133c53c-a255-4dbe-9f7d-c3786779df37",
+            "image": null,
+            "name": "KTM 950 Supermoto",
+            "description": "The KTM 950 Supermoto is a versatile motorcycle designed for both on-road and off-road riding. Its lightweight frame and powerful engine make it ideal for spirited performance and handling in varied conditions.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "f68bf5c1-332c-494c-a095-edb970955f2e",
+            "image": null,
+            "name": "Rancilio Silvia E",
+            "description": "The Rancilio Silvia E is a classic espresso machine renowned for its commercial-grade components and user-friendly design, aiming to deliver high-quality espresso at home.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Rancilio"
+            }
+        },
+        {
+            "id": "c6ef451f-224c-4b4c-9f28-0bd06d1dfbd4",
+            "image": null,
+            "name": "KTM 530 EXC",
+            "description": "The KTM 530 EXC is an off-road motorcycle designed for rugged terrain and extreme conditions, offering a powerful performance and advanced technology for enduro riding.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "91e4bde8-384e-42ac-a36a-ffe3ca6daf9e",
+            "image": null,
+            "name": "Tiggo 8 Pro",
+            "description": "The Chery Tiggo 8 Pro is a mid-size SUV designed to offer spacious interior comfort and advanced technology features for family and adventure use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "71cd5d0b-8bd7-43a3-a50b-15621e7cfc0d",
+            "image": null,
+            "name": "Zutano Playtime Collection",
+            "description": "The Zutano Playtime Collection is a range of colorful and playful children's clothing designed for comfort and durability, perfect for active little ones. This collection features a variety of styles and patterns suitable for everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zutano"
+            }
+        },
+        {
+            "id": "1da60756-c016-4bed-90a9-f529cd3a2895",
+            "image": null,
+            "name": "Penny Cruiser",
+            "description": "The Penny Cruiser series by Penny Skateboards features compact, lightweight plastic skateboards designed for smooth cruising and easy transportation, making them ideal for urban commuting.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c4e32e74-ee66-45ae-9f8e-edae7e872968",
+            "image": null,
+            "name": "Ventus Prime3",
+            "description": "The Hankook Ventus Prime3 is a premium tire designed for optimal performance in wet and dry conditions, providing enhanced grip and comfort for passenger vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "05a116e8-db92-480b-8730-990e085156fd",
+            "image": null,
+            "name": "Kinergy PT",
+            "description": "The Hankook Kinergy PT is a premium all-season tire designed for superior performance, comfort, and durability, making it suitable for a variety of road conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "29bfef80-4cce-4801-b878-9ed6bdc9eabd",
+            "image": null,
+            "name": "Kinergy 4S 2",
+            "description": "The Hankook Kinergy 4S 2 is an all-season tire designed to deliver balanced performance in various weather conditions, featuring enhanced grip on both wet and dry surfaces for improved safety and comfort.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "2da021f3-0f0e-46d5-a77f-e28f225bf05c",
+            "image": null,
+            "name": "Cooper Discoverer Series",
+            "description": "The Cooper Discoverer Series is a line of tires designed for versatile performance across various terrains, prioritizing durability and traction for both on-road and off-road driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "2dfbee0a-7358-406b-babb-d659b4f94710",
+            "image": null,
+            "name": "Ventus V12 evo2",
+            "description": "The Hankook Ventus V12 evo2 is a high-performance tire designed for sporty driving, offering enhanced grip and handling capabilities for both dry and wet conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "48d2bac2-456f-44d9-ba03-6a76ecc41e7d",
+            "image": null,
+            "name": "Cooper CS4 Touring",
+            "description": "The Cooper CS4 Touring is a highway tire designed for a smooth, comfortable ride and extended tread life, making it ideal for passenger vehicles and light trucks.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "50784af9-88da-4530-b5c4-a13191984a65",
+            "image": null,
+            "name": "Kinergy GT",
+            "description": "The Hankook Kinergy GT is a touring all-season tire designed to provide a balance of performance, comfort, and durability for various driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "5618da19-b55e-4563-92a5-1107194ff48d",
+            "image": null,
+            "name": "Ecsta 4X II",
+            "description": "The Kumho Tire Ecsta 4X II is a high-performance tire designed for sporty vehicles, providing excellent handling and traction in both dry and wet conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "58d0a396-d6cc-4787-8472-e91ec8131169",
+            "image": null,
+            "name": "Falcon",
+            "description": "The Sumitomo Tire Falcon series is designed to provide enhanced performance and durability for a variety of driving conditions, focusing on delivering a balanced driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "c917ae53-f0be-43a6-aa9b-e511b4768dbc",
+            "image": null,
+            "name": "Ecsta 8",
+            "description": "The Kumho Tire Ecsta 8 is designed for high-performance vehicles, offering enhanced grip and handling in both dry and wet conditions. This tire aims to provide drivers with optimal driving stability and responsiveness.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "cc3d4729-0a60-4859-a1f3-85e167c85194",
+            "image": null,
+            "name": "Ecsta PS91",
+            "description": "The Kumho Ecsta PS91 is a high-performance tire designed for sports cars and high-speed driving, offering enhanced grip and superior handling in both dry and wet conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "d2f961b0-66cf-480c-880e-3997d5ea9da2",
+            "image": null,
+            "name": "Solus KH17",
+            "description": "The Kumho Tire Solus KH17 is an all-season tire designed for passenger cars, featuring a symmetric tread pattern that provides a balanced performance in various weather conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "6ceb3c3d-534c-46b7-ae62-b9e258fe755c",
+            "image": null,
+            "name": "Zeon RS3-G1",
+            "description": "The Cooper Tire Zeon RS3-G1 is a high-performance tire designed for sports cars and high-performance vehicles, offering enhanced handling, grip, and responsiveness in both dry and wet conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "75312216-6425-43b9-b61c-aeb3f14feaa4",
+            "image": null,
+            "name": "Turanza",
+            "description": "The Sumitomo Turanza series is designed for passenger vehicles, focusing on providing a smooth and quiet ride with enhanced wet and dry traction for improved handling and safety.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "e2a7b802-e368-449d-9115-cfb950d5ebc3",
+            "image": null,
+            "name": "Cooper Zeon 2XS",
+            "description": "The Cooper Zeon 2XS is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip, handling, and stability under various driving conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "e86556b0-4ac1-4fd0-8130-d7e928ef8d13",
+            "image": null,
+            "name": "Evolution M/T",
+            "description": "The Cooper Tire Evolution M/T is an off-road tire designed for mud terrain, offering enhanced traction and stability in challenging environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "7851c86b-fa27-409f-a0d4-f184562b79e5",
+            "image": null,
+            "name": "Discoverer Rugged Trek",
+            "description": "The Cooper Tire Discoverer Rugged Trek is an all-terrain tire designed for versatility and durability, providing enhanced traction on a variety of surfaces for both on-road and off-road driving.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "83eacefc-37db-4f53-b51d-b63e0de3126b",
+            "image": null,
+            "name": "Dueler",
+            "description": "The Sumitomo Dueler series is designed for light trucks and SUVs, offering a combination of durability, performance, and versatility for various driving conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "8dea9445-dbe3-4cad-b89e-fbc4a108af57",
+            "image": null,
+            "name": "Ecopia",
+            "description": "The Sumitomo Ecopia series is designed to provide low rolling resistance and enhance fuel efficiency while maintaining strong wet and dry traction, making it a suitable choice for eco-conscious drivers.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "fb9b1cc3-cd42-4f34-9059-64eae65dfc9a",
+            "image": null,
+            "name": "Discoverer A/T3",
+            "description": "The Cooper Tire Discoverer A/T3 is an all-terrain tire designed for light trucks and SUVs, offering a balance of durability, traction, and ride comfort on various surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "490445ac-9d28-436d-b63c-e793a05c8a7e",
+            "image": null,
+            "name": "Echo Dot (2nd Generation)",
+            "description": "The Amazon Echo Dot (2nd Generation) is a compact smart speaker that uses Alexa, Amazon's voice assistant, to provide hands-free control of music playback, smart home devices, and access to information and services through voice commands.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "8ffd36ec-0a68-4fac-9646-24b087b1c853",
+            "image": null,
+            "name": "Ecsta PS71",
+            "description": "The Sumitomo Ecsta PS71 is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip, stability, and handling in both dry and wet conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "948c2267-ec4e-46bb-a78a-55249a4fd48e",
+            "image": null,
+            "name": "Ecsta",
+            "description": "The Sumitomo Ecsta series is designed for high-performance vehicles, delivering enhanced grip and handling capabilities on both dry and wet surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "968c8b46-6bd9-41ff-9ff3-c93037c51779",
+            "image": null,
+            "name": "Sumitomo HTR A/S P02",
+            "description": "The Sumitomo HTR A/S P02 is an all-season tire designed for superior performance in various weather conditions, providing a balance of comfort, handling, and traction.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "0a842190-998d-456e-a07e-759deb86c944",
+            "image": null,
+            "name": "Zeon CS Sport",
+            "description": "The Cooper Tire Zeon CS Sport is a high-performance tire designed for sporty vehicles, offering enhanced handling, stability, and traction in both wet and dry conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "0f61b618-c8ba-4dea-8f2a-226984672edc",
+            "image": null,
+            "name": "Zeon RS3",
+            "description": "The Cooper Tire Zeon RS3 is a high-performance tire designed for sports and performance vehicles, offering enhanced grip, handling, and stability in both dry and wet conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "13b10266-a8c0-4822-8730-edfb6547cdc3",
+            "image": null,
+            "name": "Zeon RS3-A",
+            "description": "The Cooper Tire Zeon RS3-A is a high-performance tire designed for sports cars and performance vehicles. It features enhanced grip and stability, making it suitable for both wet and dry conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "45336861-49df-4815-9d6f-e85e2a1b3919",
+            "image": null,
+            "name": "Cooper Discoverer AT3 4S",
+            "description": "The Cooper Discoverer AT3 4S is an all-terrain tire designed for enhanced traction and durability in various weather conditions, making it suitable for both on-road and off-road use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "4a6f32a9-2e62-486f-b5c0-d7cf1d2a0b71",
+            "image": null,
+            "name": "Ecsta PS31",
+            "description": "The Sumitomo Ecsta PS31 is a high-performance tire designed for sports cars and performance vehicles, providing enhanced grip, precise handling, and a comfortable ride.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "4c420b4d-90e2-4726-a5da-c6846440b436",
+            "image": null,
+            "name": "Cooper Zeon XST",
+            "description": "The Cooper Zeon XST is a high-performance tire modeled to provide enhanced traction and stability in both wet and dry conditions, ideal for sporty vehicles and enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "37d71535-1cb5-4c2b-bde1-b06e6e9e2d64",
+            "image": null,
+            "name": "Michelin Latitude",
+            "description": "The Michelin Latitude series is designed for light trucks and SUVs, emphasizing durability and performance on varied terrains.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "4daabc3d-21f7-419e-b7cd-be51f04b7516",
+            "image": null,
+            "name": "Rotiform R139",
+            "description": "The Rotiform R139 is a series of high-performance custom wheels designed to enhance both the aesthetics and handling of vehicles. Known for their unique style and precision engineering, these wheels cater to automotive enthusiasts seeking quality and innovation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "29cd0bc8-8041-4ab2-a7d0-7b2b759cf0e7",
+            "image": null,
+            "name": "Primacy HP",
+            "description": "The Michelin Primacy HP is a performance tire designed for passenger vehicles, offering enhanced handling, comfort, and fuel efficiency while ensuring a quiet ride.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "f60bf2c2-58ba-457d-b1da-864898fe443d",
+            "image": null,
+            "name": "Pilot Sport 2",
+            "description": "The Michelin Pilot Sport 2 is a high-performance tire designed for sports cars and performance-oriented vehicles, providing excellent grip, handling, and stability under various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "ac29be25-c83f-4340-ae01-35c1f602e1e5",
+            "image": null,
+            "name": "Kospet Magic 2",
+            "description": "The Kospet Magic 2 is a smart watch designed to monitor health and fitness, featuring a range of functions that support an active lifestyle and connectivity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "7a46febd-88a6-414f-aa90-d9a9a8c67409",
+            "image": null,
+            "name": "Fuchs Titan GT1 0W-20",
+            "description": "Fuchs Titan GT1 0W-20 is a fully synthetic engine oil designed to provide excellent engine protection and efficiency for modern vehicles. Its low viscosity ensures improved fuel economy and optimal performance in varying driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "9dd8913a-1062-4ec8-a01b-3ced98186213",
+            "image": null,
+            "name": "K&N 57 Series Fuel Injection Performance Kit",
+            "description": "The K&N 57 Series Fuel Injection Performance Kit is designed to improve engine performance by enhancing air intake efficiency. This performance kit replaces the factory intake system to provide increased horsepower and acceleration.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "eae1f989-1457-4577-9708-f6b752c39016",
+            "image": null,
+            "name": "K&N FIPK (Fuel Injection Performance Kit)",
+            "description": "The K&N FIPK (Fuel Injection Performance Kit) is designed to enhance engine performance by improving airflow and filtration efficiency in fuel-injected vehicles, contributing to increased horsepower and throttle response.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "8fa14cc5-8004-46a7-8fd0-9e69ec31d03d",
+            "image": null,
+            "name": "HP ProBook 400 G7 Series",
+            "description": "The HP ProBook 400 G7 Series is a line of business laptops designed for professionals who require reliable performance, security features, and portability for everyday tasks and productivity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "3f9fc9a4-8b9b-4a69-8dcf-9c9b8ee80747",
+            "image": null,
+            "name": "Suzuki Reno",
+            "description": "The Suzuki Reno is a compact hatchback that was produced by Suzuki from 2004. It is designed to provide efficient transportation with versatility, featuring a spacious interior and practical cargo capacity.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "6f218cb0-bc34-4392-930b-fb42fd46d204",
+            "image": null,
+            "name": "K&N Air Filters",
+            "description": "K&N Air Filters are high-flow air filter elements designed to improve engine performance and efficiency by allowing cleaner air intake while maintaining high filtration standards.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "cadcf327-27ec-4cf9-898d-2f156d3ebab0",
+            "image": null,
+            "name": "Suzuki Swift Sport",
+            "description": "The Suzuki Swift Sport is a compact hatchback known for its sporty design, engaging performance, and efficient handling. It is designed to offer a fun driving experience while maintaining practicality for everyday use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "c9e61b24-dc4d-4a8c-974c-d4122ed55a46",
+            "image": null,
+            "name": "Suzuki Jimny 5th Generation",
+            "description": "The Suzuki Jimny 5th Generation is a compact SUV known for its rugged off-road capabilities and distinctive boxy design, catering to adventure enthusiasts and urban drivers alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "9f213d99-3742-490f-9d40-843ff417df88",
+            "image": null,
+            "name": "Energy",
+            "description": "The Michelin Energy series is designed to enhance fuel efficiency and provide longevity for everyday driving conditions, making it a suitable choice for consumers seeking reliable performance and durability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "00806069-c673-4fab-b626-8db3a034d345",
+            "image": null,
+            "name": "Rotiform LVS",
+            "description": "The Rotiform LVS is a lightweight alloy wheel series designed to enhance the aesthetic appeal of vehicles while providing excellent performance and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "292a5044-8658-485a-bcd5-ce471868e52f",
+            "image": null,
+            "name": "Skagen Falster",
+            "description": "The Skagen Falster series comprises stylish smartwatches designed for both functionality and elegance, featuring customizable watch faces and various fitness tracking capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "2e6832d9-5ca7-44f6-94d6-abb769a030c8",
+            "image": null,
+            "name": "Kospet Rock",
+            "description": "Kospet Rock is a durable smart watch designed for outdoor enthusiasts, featuring health monitoring and fitness tracking capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "0d86ff98-6cef-476a-82e5-43bd218ccdb3",
+            "image": null,
+            "name": "Latitude Tour",
+            "description": "The Michelin Latitude Tour is a line of all-season tires designed for SUVs and light trucks, offering enhanced comfort, improved fuel efficiency, and reliable handling in various driving conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "6ea0adde-fe34-4253-89f6-016f1c32a530",
+            "image": null,
+            "name": "Michelin Agilis 41",
+            "description": "The Michelin Agilis 41 is a commercial vehicle tire designed for durability and performance in various driving conditions, offering reliable handling and load-carrying capabilities.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "3be26ebc-ecab-4cfb-bb2d-f68c72783be2",
+            "image": null,
+            "name": "Netatmo Smart Weather Station",
+            "description": "The Netatmo Smart Weather Station is a connected device that provides real-time data on environmental conditions, enabling users to monitor indoor and outdoor weather parameters effortlessly.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "70faa41f-8016-4804-914f-98e4eb24ed4d",
+            "image": null,
+            "name": "Michelin Primacy 4",
+            "description": "The Michelin Primacy 4 is a premium tire designed for grand touring vehicles, offering enhanced wet grip, longevity, and comfort for drivers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "0845fceb-11e2-4351-9934-429dfe53b78b",
+            "image": null,
+            "name": "Lemfo LEMFO LEM7",
+            "description": "The Lemfo LEMFO LEM7 is a smart watch that combines health tracking, communication features, and customizable interfaces. Designed for users seeking a blend of functionality and style, it offers various features to monitor daily activities and connect with smartphones.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "7af690ce-64c2-4576-ad03-02aff6b99a0a",
+            "image": null,
+            "name": "Denso Iridium Power",
+            "description": "The Denso Iridium Power series features high-performance spark plugs designed to enhance engine efficiency and improve fuel economy, thanks to their iridium alloy construction that offers superior durability and precise ignition.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Denso"
+            }
+        },
+        {
+            "id": "4fa6871e-f00d-47fe-b50f-09d2028235cd",
+            "image": null,
+            "name": "Turtle Beach Stealth 600 Gen 2 MAX",
+            "description": "The Turtle Beach Stealth 600 Gen 2 MAX is a wireless gaming headset designed for immersive audio experiences, featuring enhanced comfort and long-lasting battery life for extended gaming sessions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "0b64549e-b4e0-4483-af76-49f6cbd54db2",
+            "image": null,
+            "name": "Denso First Time Fit",
+            "description": "Denso First Time Fit is a series of high-quality car parts designed to meet original equipment specifications, ensuring reliable performance and fit for a broad range of vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Denso"
+            }
+        },
+        {
+            "id": "231f6f91-51c7-4339-b499-91696e05e76c",
+            "image": null,
+            "name": "Fossil Gen 3",
+            "description": "The Fossil Gen 3 series consists of smartwatches that combine traditional watch aesthetics with modern technology, providing features such as fitness tracking, notifications, and customizable watch faces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "e00018bb-78dd-4cd2-b1d8-5f55140c2892",
+            "image": null,
+            "name": "Gen 5 Smartwatches",
+            "description": "Fossil Group Inc.'s Gen 5 Smartwatches are advanced wearable devices designed to provide fitness tracking, smartphone notifications, and customizable watch faces, emphasizing both style and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "1c9a0059-5615-46a0-b246-d7f2bc5a8dd4",
+            "image": null,
+            "name": "Turtle Beach Recon Cloud",
+            "description": "The Turtle Beach Recon Cloud series includes versatile gaming accessories designed for cloud gaming and enhanced audio experiences, providing gamers with immersive sound quality and comfort during extended play sessions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "29b6b716-26fb-4c52-9ec6-660868745cc4",
+            "image": null,
+            "name": "Deebot 901",
+            "description": "The Deebot 901 is a robotic vacuum cleaner designed to efficiently navigate and clean various floor types, providing convenience and smart home integration features for its users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "158a5796-bccc-4e93-9013-8fcd018e18d4",
+            "image": null,
+            "name": "K&N 57 Series",
+            "description": "The K&N 57 Series is a performance air intake system designed to enhance engine power and acceleration while maintaining engine protection. This system replaces the factory air intake system with a high-flow air filter and streamlined intake tube.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        }
+    ]
+}

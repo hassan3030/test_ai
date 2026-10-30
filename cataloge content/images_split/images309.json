@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "4da48d95-7180-4fbb-af2c-060339f0e41a",
+            "image": null,
+            "name": "Vertbaudet Baby Gear",
+            "description": "Vertbaudet Baby Gear series offers a range of baby seats designed to provide comfort and support for infants, ensuring safety during playtime and rest.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "ce33c4a1-670d-4196-b007-54120a5ced71",
+            "image": null,
+            "name": "Great Wall Cannon",
+            "description": "The Great Wall Cannon is a series of pickup trucks designed for versatility and durability, catering to both personal and commercial use with a focus on off-road capability and practicality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "50fa1680-007e-4f50-bd68-ecb225094846",
+            "image": null,
+            "name": "Sector 9 Fractal",
+            "description": "The Sector 9 Fractal series features skateboards designed for both beginners and advanced riders, offering stability and maneuverability for a varied range of skating styles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "558bc124-eac5-441f-bdfc-c8ad13a4fd57",
+            "image": null,
+            "name": "Dooky Hood",
+            "description": "The Dooky Hood is a stroller accessory designed to provide shade and protection from the sun and rain, enhancing comfort for both the child and caregiver during outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Dooky"
+            }
+        },
+        {
+            "id": "444ba08c-a1a7-47af-8685-81f721989939",
+            "image": null,
+            "name": "Dooky Stroller Organizer",
+            "description": "The Dooky Stroller Organizer is designed to conveniently hold essential items for parents on the go, featuring multiple pockets for organization and easy attachment to strollers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Dooky"
+            }
+        },
+        {
+            "id": "3d7dec3d-f503-4ead-8031-13273a76b6c1",
+            "image": null,
+            "name": "Cleaver",
+            "description": "The Sector 9 Cleaver series of skateboards is designed for downhill riding and cruising, featuring a wider deck and robust construction for stability and control.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "caa5cd77-0e8e-4ea0-833e-8a2a53517fcc",
+            "image": null,
+            "name": "Omen 25i Monitor",
+            "description": "The Omen 25i Monitor is a high-performance gaming monitor designed to provide an immersive gaming experience with fast response times and vibrant visuals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "66b61130-c5f3-49dc-a41f-2aaf34146101",
+            "image": null,
+            "name": "Bissell SpinWave Cordless",
+            "description": "The Bissell SpinWave Cordless is a versatile floor cleaning system that combines the power of vacuuming and mopping into one convenient device, allowing for efficient cleaning of hard floors without the hassle of cords.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "9ff64538-ee20-4a5b-b930-c7d108827553",
+            "image": null,
+            "name": "Clemmy Soft Blocks",
+            "description": "Clemmy Soft Blocks are colorful, soft building blocks designed for young children, promoting sensory exploration and fine motor skills through safe, easy-to-handle shapes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Clemmy"
+            }
+        },
+        {
+            "id": "2a232d9b-7158-46c4-9c98-d23fb109592e",
+            "image": null,
+            "name": "Sector 9 Pro Sidewinder",
+            "description": "The Sector 9 Pro Sidewinder is a high-performance skateboard designed for cruising and carving, featuring a unique double drop deck profile that allows for a lower center of gravity and increased stability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "86bbca51-3794-43dc-afb1-48be6de6b95d",
+            "image": null,
+            "name": "Collection Printemps Été 2019",
+            "description": "The Petit Bateau Collection Printemps Été 2019 offers a variety of stylish and comfortable kids' clothing designed for warm weather wear, featuring playful prints and quality materials.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "40bb8654-b12f-4a1c-b557-bc39973a6506",
+            "image": null,
+            "name": "Fractal",
+            "description": "The Sector 9 Fractal series of skateboards is designed for cruising and carving, featuring a variety of vibrant graphic designs and sturdy construction that supports stability and smooth rides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "92b587ec-9f07-4ddb-9cdb-13867e9d16aa",
+            "image": null,
+            "name": "Omen 17 (2020)",
+            "description": "The Omen 17 (2020) is a gaming laptop series designed to deliver high performance, equipped with powerful hardware to support demanding games and applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "2f92b277-0041-4022-a64d-ca340bfd8ae2",
+            "image": null,
+            "name": "Rogue Monster Lite",
+            "description": "The Rogue Monster Lite series includes a range of versatile gym equipment designed for strength training and functional fitness. Known for their high-quality construction and compatibility with various accessories, these products are ideal for both home and commercial gym setups.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "766ff23a-5fcc-4977-9a8e-dfc4f744bbf7",
+            "image": null,
+            "name": "QuickChef",
+            "description": "The Moulinex QuickChef series includes versatile blenders designed for efficient food preparation, featuring powerful motors and multiple speed settings to handle a variety of blending tasks with ease.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "3ef47d27-9489-4fb0-85b6-62b8d64c611b",
+            "image": null,
+            "name": "Turtle Wax 1-Step Polish and Wax",
+            "description": "Turtle Wax 1-Step Polish and Wax is designed to provide a quick and efficient solution for cleaning, polishing, and protecting your vehicle's surface in a single step.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "bdb0ba36-d8e7-43b5-91a5-77dc4fbc625f",
+            "image": null,
+            "name": "The Dragonet Prophecy",
+            "description": "The Dragonet Prophecy series by Puffin Books is a captivating adventure for children, following the journey of young dragonets destined to fulfill an ancient prophecy. The series emphasizes themes of friendship, bravery, and self-discovery.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "1329f673-128d-42aa-acbe-3520ab13c4e0",
+            "image": null,
+            "name": "Google Pixel 4",
+            "description": "The Google Pixel 4 is a smartphone released in 2019, known for its advanced camera capabilities and integration with Google Assistant, providing a seamless user experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "1c8bd75e-14fc-4f20-babe-329e15a3eba6",
+            "image": null,
+            "name": "Google Nest Hub Max",
+            "description": "The Google Nest Hub Max is a smart home device that combines a display and speaker to help users manage their daily tasks, control smart home devices, and access information using voice commands or touch interaction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "6ec44938-a2f9-4afc-8045-f36ce3c55d7a",
+            "image": null,
+            "name": "Pixel 5",
+            "description": "The Google Pixel 5 is a smartphone that emphasizes photography, designed to deliver high-quality images and a smooth user experience with its clean Android interface.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "7a8f9676-c78e-4bf9-9dba-b3cc65679a26",
+            "image": null,
+            "name": "Nokia 6.1",
+            "description": "The Nokia 6.1 is a smartphone released in 2018, known for its solid build quality, reliable performance, and an Android operating system that provides a clean user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "dd43f260-1310-4aae-822a-8d84ae836673",
+            "image": null,
+            "name": "Mothers CMX Ceramic Line",
+            "description": "The Mothers CMX Ceramic Line is a series of car care products released in 2023, designed to offer enhanced protection and durability for vehicle surfaces through advanced ceramic technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "a6046345-8228-4cae-8819-01e222e799ac",
+            "image": null,
+            "name": "Nokia 8 Sirocco",
+            "description": "The Nokia 8 Sirocco is a high-end smartphone designed for performance and aesthetics, featuring a premium glass and stainless steel design along with advanced camera capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "836a2b92-6cd4-489e-b77e-4e1f55d6fabc",
+            "image": null,
+            "name": "FurReal Friends Pax, The Wolf",
+            "description": "FurReal Friends Pax, The Wolf is an interactive plush toy that responds to touch and sound, designed to provide companionship and imaginative play for children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "58593054-6d5f-4a7c-8bef-8f545eb25b15",
+            "image": null,
+            "name": "Nokia 2.2",
+            "description": "The Nokia 2.2 is an affordable smartphone designed for users seeking essential features, durability, and a clean Android experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "f8f9bbe7-f478-4e4f-bee6-7beef53cf65b",
+            "image": null,
+            "name": "Petit Bateau x David Downton",
+            "description": "The Petit Bateau x David Downton series features a collection of stylish children's clothing that combines Petit Bateau's classic designs with the artistic illustrations of renowned fashion illustrator David Downton.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "d3b5dc38-9f25-4161-8554-f320555d6ede",
+            "image": null,
+            "name": "Haval H6 (New Generation)",
+            "description": "The Haval H6 (New Generation) is a compact SUV from Great Wall Motors designed to offer a blend of performance, comfort, and modern technology, making it suitable for both urban and off-road environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "17b96d55-d9e5-4776-adaf-950e552df08c",
+            "image": null,
+            "name": "Turtle Wax Ice Car Care",
+            "description": "Turtle Wax Ice Car Care is a series of car care products designed to provide superior cleaning, shine, and protection for automotive surfaces, utilizing advanced polymer technology.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "a178eee7-9fb9-44b3-86a7-bf139404ea65",
+            "image": null,
+            "name": "Tefal Easy Fry",
+            "description": "The Tefal Easy Fry series includes air fryers designed for healthier cooking by using a minimal amount of oil while achieving crispy textures and delicious flavors.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Tefal"
+            }
+        },
+        {
+            "id": "86ea1059-570c-47d8-bef3-5be8d6b2edf9",
+            "image": null,
+            "name": "Radio Flyer Flyer 2-in-1 Cruiser",
+            "description": "The Radio Flyer Flyer 2-in-1 Cruiser is a versatile ride-on vehicle designed for toddlers, easily transforming from a push walker to a seated cruiser to support growing independence and mobility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        }
+    ]
+}

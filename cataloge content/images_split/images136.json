@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7316176d-33fb-497e-86a2-2aca35c1b210",
+            "image": null,
+            "name": "Tado Smart AC Control V3+",
+            "description": "The Tado Smart AC Control V3+ is a smart home device designed to remotely control and optimize air conditioning units, enhancing energy efficiency and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Tado"
+            }
+        },
+        {
+            "id": "6a7ab760-74de-41df-bfd5-786e56c6bf0d",
+            "image": null,
+            "name": "Maui Jim Makaha",
+            "description": "The Maui Jim Makaha sunglasses offer high-performance eyewear designed for water sports and outdoor activities, featuring advanced lens technology that enhances clarity and color for exceptional vision.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "4429a62d-cf71-43f0-9759-fcd6b6af5d55",
+            "image": null,
+            "name": "Maui Jim Peahi",
+            "description": "Maui Jim Peahi sunglasses offer a stylish design with advanced polarized lens technology to provide superior protection against glare and UV rays, making them ideal for outdoor enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "e8586575-c0e8-4f12-97fb-63279555cced",
+            "image": null,
+            "name": "Le Pliage Heritage",
+            "description": "The Le Pliage Heritage series by Longchamp features lightweight, durable nylon bags designed for versatility and everyday use. Known for their iconic foldable design, these bags combine practicality with a timeless aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "02459056-e12d-4f18-a2a7-04ad9862377a",
+            "image": null,
+            "name": "Le Pliage®",
+            "description": "The Longchamp Le Pliage® series features lightweight, foldable bags designed for convenience and versatility, making them ideal for everyday use and travel.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "18ae3822-f3cb-49a6-a1d1-37b6f1739d90",
+            "image": null,
+            "name": "Maui Jim Māmala",
+            "description": "Maui Jim Māmala sunglasses combine innovative polarized technology with stylish designs, providing superior protection against glare and UV rays for outdoor enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "f5e718b4-3a62-4804-a684-6f23582f9613",
+            "image": null,
+            "name": "NGK Platinum",
+            "description": "The NGK Platinum spark plug series features a platinum center electrode for enhanced durability and improved ignitability, making them ideal for a variety of vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "b35f6bce-3f08-489e-930a-eaf6f88d4ca7",
+            "image": null,
+            "name": "NGK G-Power",
+            "description": "The NGK G-Power series is a collection of high-performance spark plugs designed to enhance engine efficiency and ignition reliability in gasoline engines.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "aaf085a1-4e33-4e0b-bd69-9357cee6909b",
+            "image": null,
+            "name": "Hengst O-E Filters",
+            "description": "The Hengst O-E Filters series provides high-quality replacement filters designed to meet original equipment specifications, ensuring optimal performance and reliability for automotive applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hengst"
+            }
+        },
+        {
+            "id": "79568007-6de2-4dd0-ba07-a88ec32f2f05",
+            "image": null,
+            "name": "Hengst Filter",
+            "description": "Hengst Filter is a series of high-quality automotive filters designed for efficient filtration of air, oil, fuel, and cabin environments to ensure optimal engine performance and passenger comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hengst"
+            }
+        },
+        {
+            "id": "cda7d7d5-7089-4b5a-90dd-c90a47262d19",
+            "image": null,
+            "name": "Walker Exhaust",
+            "description": "The Walker Exhaust series by Tenneco provides high-quality exhaust components designed to support vehicle performance and compliance with emission standards.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Tenneco"
+            }
+        },
+        {
+            "id": "ba92e98a-b5fd-426b-8c88-240c51e19386",
+            "image": null,
+            "name": "Monroe Shock Absorbers",
+            "description": "The Monroe Shock Absorbers series by Tenneco provides enhanced vehicle stability and comfort by minimizing vibrations and impacts from the road. Designed for various car models, these shock absorbers contribute to improved handling and ride quality.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Tenneco"
+            }
+        },
+        {
+            "id": "e95c49ad-8789-4c11-b397-e211d2973fa1",
+            "image": null,
+            "name": "Walker Exhaust Systems",
+            "description": "Walker Exhaust Systems by Tenneco are designed to provide reliable exhaust management solutions for various vehicle makes and models, helping to reduce emissions and improve engine performance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Tenneco"
+            }
+        },
+        {
+            "id": "1febc680-65f9-4a4c-aec0-87d216b067a4",
+            "image": null,
+            "name": "Edelbrock Performer RPM",
+            "description": "The Edelbrock Performer RPM series is designed to enhance the performance of street and strip vehicles with improved airflow and increased horsepower at mid to high engine RPMs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "da03d8b6-6c6d-4b9f-bd44-35f3c540d7d5",
+            "image": null,
+            "name": "Edelbrock Pro-Flo",
+            "description": "The Edelbrock Pro-Flo series is designed for performance automotive applications, offering advanced fuel management solutions to enhance engine efficiency and power output.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "1493fcb6-6847-415f-b7cb-3e60fe65c21f",
+            "image": null,
+            "name": "Edelbrock E-TEC",
+            "description": "The Edelbrock E-TEC series consists of high-performance cylinder heads designed to enhance the airflow and combustion efficiency in various small block engines, providing improved power and torque attributes.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "4404a28c-921f-447e-911c-5507eef281ff",
+            "image": null,
+            "name": "Edelbrock AVS Carburetor",
+            "description": "The Edelbrock AVS Carburetor series features advanced blow-through technology designed for high performance applications, enhancing engine efficiency and throttle response.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "f0ebeaae-618e-47ca-8062-3c72fa1dfdde",
+            "image": null,
+            "name": "Edelbrock E-Street Cylinder Heads",
+            "description": "Edelbrock E-Street Cylinder Heads are designed to provide improved airflow and performance for street and performance applications. These cylinder heads are engineered for easy installation and compatibility with a range of small block Chevrolet engines.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "786c49d5-9c01-4499-a76e-81b09da16f41",
+            "image": null,
+            "name": "Edelbrock Performer 600 CFM Carburetors",
+            "description": "The Edelbrock Performer 600 CFM Carburetors are designed to provide improved throttle response and increased horsepower for a wide range of street performance applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "89b3aebf-6473-493e-8bd1-cf798b301907",
+            "image": null,
+            "name": "Edelbrock Performer EFI Manifold",
+            "description": "The Edelbrock Performer EFI Manifold is designed to maximize horsepower and torque for street performance applications, featuring an optimized design for fuel injection systems. It is engineered for use with a wide range of small-block Chevy engines.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "cbb85c57-28a5-4b8b-aa9f-771265451487",
+            "image": null,
+            "name": "Edelbrock E-Force Supercharger Kits",
+            "description": "The Edelbrock E-Force Supercharger Kits are engineered to significantly increase horsepower and torque for a variety of performance vehicles, providing exceptional boost and efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "9db2a8c5-20f5-4ff4-bb2b-a15592b67db0",
+            "image": null,
+            "name": "Edelbrock EFI Systems",
+            "description": "Edelbrock EFI Systems are advanced electronic fuel injection kits designed to improve engine performance and efficiency in various automotive applications.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "9e3e6dd5-e494-4495-8099-b689f721005b",
+            "image": null,
+            "name": "Victor Series Intake Manifolds",
+            "description": "The Edelbrock Victor Series Intake Manifolds are designed to optimize airflow and improve performance in high-performance engines. This series enhances throttle response and power output, making them suitable for racing and modified applications.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "8911ddc0-a549-4197-99ea-21c1cf3bd1d0",
+            "image": null,
+            "name": "Chrysler 300",
+            "description": "The Mopar Chrysler 300 is a full-size luxury sedan known for its bold styling, powerful performance, and advanced technology features, aimed at providing a comfortable and sophisticated driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "b9ea2de3-388b-4b94-b65d-f733135018c3",
+            "image": null,
+            "name": "Dodge Dart",
+            "description": "The Dodge Dart is a compact car produced by Mopar in 2013, known for its stylish design and efficient performance tailored for everyday driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "1fd058a0-8195-4bb1-b64e-d3f9ac879abb",
+            "image": null,
+            "name": "Jeep Cherokee",
+            "description": "The Jeep Cherokee, released in 2013, is a compact SUV designed for both on-road comfort and off-road capability, featuring a spacious interior and advanced safety technologies.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "278567e2-e229-495d-ad35-ece1c3ce5f8f",
+            "image": null,
+            "name": "Ram 1500",
+            "description": "The Mopar Ram 1500 is a full-size pickup truck known for its rugged design, impressive towing capacity, and advanced technology features, making it suitable for both work and everyday use.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "86e5706a-a21b-4cbf-aa0d-fc487f1ddaf2",
+            "image": null,
+            "name": "Daewoo Tacuma",
+            "description": "The Daewoo Tacuma is a compact MPV produced by Daewoo from 2000, known for its spacious interior and versatility, catering to families and individuals seeking practical transport solutions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "f067562d-038e-427a-81c2-44c062188455",
+            "image": null,
+            "name": "Pao",
+            "description": "The Great Wall Motors Pao is a modern vehicle designed for urban mobility, blending practicality with a stylish aesthetic.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "ef8ac3ce-720f-4802-af2f-39618417b8a7",
+            "image": null,
+            "name": "Daewoo Nexia",
+            "description": "The Daewoo Nexia is a compact sedan produced by Daewoo from 1994 to 2002, known for its affordability and practical design aimed at budget-conscious consumers.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        }
+    ]
+}

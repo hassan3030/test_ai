@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "ae2b7666-1eb8-4bf8-afb2-48fe7bfb1226",
+            "image": null,
+            "name": "Toyota Camry (8th Generation)",
+            "description": "The Toyota Camry (8th Generation) is a midsize sedan known for its reliability, fuel efficiency, and comfortable ride, making it a popular choice among families and commuters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "5bfd3329-f3e6-4563-98b5-2f5199a522d5",
+            "image": null,
+            "name": "Hero Pleasure Plus",
+            "description": "The Hero Pleasure Plus is a stylish and efficient scooter designed for urban commuting, offering a blend of comfort and practicality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "295ade51-18d9-431c-9544-f98d6def1f14",
+            "image": null,
+            "name": "Elixir Strings NanoWeb Coated Electric Guitar Strings",
+            "description": "Elixir Strings NanoWeb Coated Electric Guitar Strings are designed to provide a smooth feel, enhanced playing comfort, and a long-lasting tone due to their unique coating technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "1525ff6f-0a5f-4f66-9dfa-0cf96cf71c1e",
+            "image": null,
+            "name": "The Smart Grinder Pro",
+            "description": "The Smart Grinder Pro by Breville is designed to provide precision grinding for coffee enthusiasts, featuring multiple grind settings and a digital timer for consistency and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cd244e86-7d30-495b-979b-46a8aba61a77",
+            "image": null,
+            "name": "Avalon",
+            "description": "The Thermex Avalon series consists of water heaters designed for efficient heating and energy savings, catering to various domestic and commercial hot water needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "03ba2d03-79f8-48dd-a8e7-fa50fcaf4c36",
+            "image": null,
+            "name": "Mitsubishi Outlander (3rd Generation)",
+            "description": "The Mitsubishi Outlander (3rd Generation) is a midsize SUV designed to provide a balance of performance, comfort, and versatility for families and outdoor enthusiasts alike.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "ac883db3-6680-4557-8fa2-1a88a6b5ffd7",
+            "image": null,
+            "name": "Ground Chair",
+            "description": "The Helinox Ground Chair is a portable and lightweight camping chair designed for comfort and convenience during outdoor activities. It features a compact design that easily fits into a pack, making it ideal for camping, hiking, and other adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "c0d48469-96aa-42bd-98be-46785c2d0d19",
+            "image": null,
+            "name": "Ultralight Down Anorak",
+            "description": "The Montbell Ultralight Down Anorak is a lightweight and packable jacket designed for warmth and comfort in cold weather conditions, making it ideal for camping and outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Montbell"
+            }
+        },
+        {
+            "id": "ec74ac9e-8673-410a-8749-a66d7ed95745",
+            "image": null,
+            "name": "Down Vest",
+            "description": "The Montbell Down Vest series is designed for outdoor enthusiasts seeking lightweight insulation and packability in cooler conditions. Its advanced down insulation provides warmth without bulk, making it an excellent choice for camping and layering.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Montbell"
+            }
+        },
+        {
+            "id": "51d4c5c9-00ee-4c6b-bd84-b7df90b19b06",
+            "image": null,
+            "name": "Pro Series",
+            "description": "The Takamine Pro Series offers high-quality acoustic guitars, designed for professional musicians with a focus on sound quality, craftsmanship, and playability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Takamine"
+            }
+        },
+        {
+            "id": "7e438a65-bed6-41b1-92a9-81d833b1f3eb",
+            "image": null,
+            "name": "Iron Label",
+            "description": "The Ibanez Iron Label series is designed for heavy music genres, providing versatile performance with aggressive aesthetics and high-output pickups for metal and hard rock players.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "efb777c1-b100-4a67-a71e-bf6b26da2d06",
+            "image": null,
+            "name": "RG Series",
+            "description": "The Ibanez RG Series is known for its sleek design, playability, and versatility, making it ideal for heavy metal and hard rock musicians. These electric guitars feature thin necks and powerful pickups, catering to advanced playing styles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "c80e61c9-ee10-4cd8-82c3-ab8115e58cd5",
+            "image": null,
+            "name": "Ibanez BTB Series",
+            "description": "The Ibanez BTB Series is a range of electric bass guitars known for their versatility, comfortable playability, and modern design, catering to a wide range of musical styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "4650b861-9e0f-4e6b-81f9-66aaf57a24e5",
+            "image": null,
+            "name": "Ibanez AZ Series",
+            "description": "The Ibanez AZ Series is a line of electric guitars that combines modern design with traditional craftsmanship, aimed at providing versatile tonal options and enhanced playability for a variety of musical styles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "7f6a692f-9754-40e2-8d8b-236e1e2f7ded",
+            "image": null,
+            "name": "Iron Label Series",
+            "description": "The Ibanez Iron Label Series is designed for heavy music styles, featuring modern features and aggressive aesthetics that cater to metal and hard rock musicians.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "99999df6-3972-4b16-bbcf-6f938cd86547",
+            "image": null,
+            "name": "Ibanez RGA Series",
+            "description": "The Ibanez RGA Series is a line of electric guitars known for their sleek, contoured bodies and versatile sound, designed to cater to the needs of modern guitarists across various genres.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "cccddf9b-9c33-4f57-9712-f73d7e700dc5",
+            "image": null,
+            "name": "Martin D-28",
+            "description": "The Martin D-28 is a renowned acoustic guitar celebrated for its rich sound quality and exceptional craftsmanship, making it a preferred choice for both professional musicians and enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "cb2d38da-cb28-488c-aef6-10f54379d761",
+            "image": null,
+            "name": "Martin OM-28",
+            "description": "The Martin OM-28 is an acoustic guitar known for its rich tonal quality and versatile playability, making it suitable for both fingerstyle and strumming techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "df57804e-c0eb-47a2-a38a-4cfb0a43eede",
+            "image": null,
+            "name": "Martin 000-15M StreetMaster",
+            "description": "The Martin 000-15M StreetMaster is a quality acoustic guitar known for its solid mahogany construction and warm, rich tone, designed for musicians who appreciate a vintage aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "77c704b4-794f-4fe8-a060-6959ae596f5c",
+            "image": null,
+            "name": "Martin Authentics Series",
+            "description": "The Martin Authentics Series is a collection of high-quality acoustic guitars crafted by C.F. Martin & Co., designed to provide authentic sound and playability for musicians in various styles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "839eae05-31bc-4831-bc9e-eedba8726923",
+            "image": null,
+            "name": "E-Drums",
+            "description": "The Roland E-Drums series consists of electronic drum kits designed for musicians of all skill levels, offering realistic drumming experiences with advanced triggering technology and a wide range of sounds.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "4ca82a28-19fb-4548-a737-a9c7305c4a60",
+            "image": null,
+            "name": "Chevrolet SSR",
+            "description": "The Chevrolet SSR is a retro-styled convertible pickup truck produced by Chevrolet from 2002 to 2006. It combines a unique blend of sporty aesthetics and functionality, aimed at drivers seeking both style and utility.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "6ca4b1e6-9d1f-4496-899a-12cdb77803a3",
+            "image": null,
+            "name": "Chevrolet Aveo",
+            "description": "The Chevrolet Aveo is a subcompact car designed for fuel efficiency and affordable urban transport. It offers a compact size, making it easy to maneuver in city environments.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "881ff66c-d1c8-4897-8404-721ae7dcf321",
+            "image": null,
+            "name": "Chevrolet Cobalt",
+            "description": "The Chevrolet Cobalt is a compact car produced by Chevy from 2005 to 2010, designed to offer an affordable, fuel-efficient solution for everyday transportation.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "ab25da39-8b97-49ad-81f3-82ded1ae7a6d",
+            "image": null,
+            "name": "Chevrolet HHR",
+            "description": "The Chevrolet HHR is a compact car produced by Chevy, designed to provide versatile cargo space and a retro-inspired design that appeals to a broad audience. It is known for its practicality, offering a comfortable ride and functional features for everyday use.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "e7ac687d-da76-400b-a4a6-477a5000eaae",
+            "image": null,
+            "name": "Chevrolet Suburban (2006)",
+            "description": "The Chevrolet Suburban (2006) is a full-size SUV known for its spacious interior, robust towing capability, and versatility for both family and cargo transport.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "37e63a77-265e-45a7-888b-a7c5b94edc40",
+            "image": null,
+            "name": "Piaa Plasma Ion Yellow",
+            "description": "The Piaa Plasma Ion Yellow series consists of high-performance halogen bulbs designed to produce a bright yellow light, enhancing visibility in foggy or rainy conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Piaa"
+            }
+        },
+        {
+            "id": "af0c0b83-e073-4038-8f06-6fe63b300461",
+            "image": null,
+            "name": "Sylvania ZXE Gold Headlight Bulbs",
+            "description": "The Sylvania ZXE Gold Headlight Bulbs are designed to provide brighter, whiter light for improved visibility while driving at night and during adverse weather conditions. They feature a high-performance design that aims to enhance the overall aesthetic of your vehicle's lighting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Sylvania"
+            }
+        },
+        {
+            "id": "0ea6e440-00a5-4108-bec3-e4a849f2f7ef",
+            "image": null,
+            "name": "Dior B23",
+            "description": "The Dior B23 is a stylish sneaker series released by Dior in 2020, known for its contemporary design that blends luxury fashion with everyday comfort.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2f260884-1145-41ce-8d48-c9035a899585",
+            "image": null,
+            "name": "Helinox Tactical Chair",
+            "description": "The Helinox Tactical Chair is a lightweight and portable camping chair designed for outdoor enthusiasts, providing comfort and stability in a compact form.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "id": "7957355e-81f0-4931-ba7d-cd477cfe9da0",
+            "image": null,
+            "name": "Speed",
+            "description": "The Balenciaga Speed series consists of sock-style sneakers designed for comfort and a modern aesthetic. They are known for their lightweight construction and flexible fit.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8c74b45a-903c-4a19-b8ad-90266e373f03",
+            "image": null,
+            "name": "Herman Miller Aeron Chair",
+            "description": "The Herman Miller Aeron Chair is an ergonomic office chair designed to support a variety of postures and movements, promoting comfort and productivity for users throughout long periods of sitting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "905bec23-9b88-4250-8495-c90542216f4d",
+            "image": null,
+            "name": "Dior Backstage",
+            "description": "The Dior Backstage Accessories series comprises professional-grade tools designed to enhance makeup application. This collection emphasizes versatility and functionality, catering to both makeup artists and enthusiasts alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e8f12773-9ca4-4f93-8df9-095e3f94bcd7",
+            "image": null,
+            "name": "Diorama",
+            "description": "The Diorama series by Dior debuted in 2018 and features a range of luxurious bags characterized by their elegant design and signature cannage pattern, making them ideal for both daily use and special occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f0ff9801-b22c-4d6b-9075-0e43dd400f63",
+            "image": null,
+            "name": "Balenciaga x Adidas",
+            "description": "The Balenciaga x Adidas series features a collection of sneakers that combines Balenciaga's high fashion aesthetic with Adidas' performance-driven design. Released in 2023, these sneakers are designed for both style and functionality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e3e3fe85-98bd-485f-a51c-e83847870e16",
+            "image": null,
+            "name": "SkyHawk",
+            "description": "The Seagate SkyHawk series consists of hard disks designed specifically for surveillance applications, characterized by their ability to operate continuously, providing high reliability and ample storage capacity for video data.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "9b3f2e0c-ba59-4b9e-afc2-4dcced872358",
+            "image": null,
+            "name": "Hero MotoCorp Maestro",
+            "description": "The Hero MotoCorp Maestro is a scooter designed for urban commuting, featuring a stylish design and user-friendly features to enhance the riding experience. It was first launched in 2009.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "9d1bb38a-71e7-425d-8088-0ca1279342ea",
+            "image": null,
+            "name": "Fendi   Run Away",
+            "description": "The Fendi Run Away sneakers are a modern footwear design that combines style and comfort, featuring bold aesthetics and a lightweight construction suitable for everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ad5a41f8-c899-4092-8843-ad94c81f95ad",
+            "image": null,
+            "name": "Hourglass",
+            "description": "The Balenciaga Hourglass series is known for its distinctive silhouette inspired by the shape of an hourglass, featuring structured designs that combine elegance with modernity, primarily serving as a fashion statement in the luxury bag segment.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ae7a8459-6d6d-439e-9963-70d3c1312e27",
+            "image": null,
+            "name": "PUMA NITRO",
+            "description": "The PUMA NITRO series features high-performance sneakers designed for both athletic training and casual wear, emphasizing comfort, durability, and innovative cushioning technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "bc53136c-0cb5-42af-a505-67b72880526d",
+            "image": null,
+            "name": "ROG Strix",
+            "description": "The ROG Strix series by Asus is designed for gamers, featuring high-performance laptops that deliver powerful graphics and fast processing speeds for an immersive gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "15a81458-81f9-4911-acce-1020f2768bdf",
+            "image": null,
+            "name": "Fendi   Kan I",
+            "description": "The Fendi Kan I is a luxury handbag series launched in 2017, known for its elegant design and versatility, making it suitable for both day and evening wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "31513241-8000-4779-bff5-5564f3fdbc10",
+            "image": null,
+            "name": "LAGKAPTEN",
+            "description": "The LAGKAPTEN series by IKEA features versatile tables designed for a variety of spaces, emphasizing functionality and simplicity in design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "33ed2b14-90b6-4519-85ae-77bf07e5925e",
+            "image": null,
+            "name": "Le Cagole",
+            "description": "The Balenciaga Le Cagole series features a collection of bags designed for stylish functionality, blending contemporary aesthetics with a bold, edgy appeal.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "36de1860-e560-4d0d-af9e-80a3ea0e3523",
+            "image": null,
+            "name": "Track",
+            "description": "The Balenciaga Track sneakers are a stylish and contemporary take on athletic footwear, designed for both comfort and performance. Released in 2021, this series features a distinctive silhouette with layered materials and a robust design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "44c9a5ec-0495-4c88-895c-6831b6c59c8e",
+            "image": null,
+            "name": "Fendi   Baguette",
+            "description": "The Fendi Baguette is a signature handbag known for its distinctive shape and luxurious materials, designed for both style and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4c762b6f-24fc-4be6-af8f-9afcfb30d33d",
+            "image": null,
+            "name": "Dior J'adore Infinissime",
+            "description": "Dior J'adore Infinissime is a luxurious fragrance accessory line launched in 2018, designed to enhance the experience of the iconic J'adore perfume with elegant and sophisticated packaging options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5a9e386d-86d8-46ec-933c-d883552cd983",
+            "image": null,
+            "name": "Dior Eyewear",
+            "description": "Dior Eyewear sunglasses are designed to provide stylish protection from the sun's rays while embodying the luxury and elegance associated with the Dior brand.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bc767bcd-6a50-4fd2-94e1-608d06d2a991",
+            "image": null,
+            "name": "Volkswagen Passat (B7)",
+            "description": "The Volkswagen Passat (B7) is a mid-size car that offers a blend of performance, comfort, and advanced technology, aimed at providing a reliable and spacious driving experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "d0de6503-b921-4e9f-8617-07ac409a0d78",
+            "image": null,
+            "name": "Balenciaga Hourglass",
+            "description": "The Balenciaga Hourglass series features structured handbags characterized by their distinctive curved shape and architectural silhouette, combining elegance with modern design for versatile use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "35dc1ce7-2395-4dbd-965b-7ed5f1874c22",
+            "image": null,
+            "name": "Riff Wireless",
+            "description": "The Skullcandy Riff Wireless headphones are designed for on-the-go music enthusiasts, offering a lightweight and comfortable fit along with Bluetooth connectivity for a cable-free listening experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "90aea4d0-66fe-42a5-86d0-fc684b60087f",
+            "image": null,
+            "name": "Skullcandy Indie EVO",
+            "description": "Skullcandy Indie EVO headphones are designed for a versatile listening experience, combining sleek design with impressive sound quality and comfort for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "ce0ed822-3a79-40b2-bb51-6d059ccdb892",
+            "image": null,
+            "name": "Skullcandy Sesh ANC",
+            "description": "The Skullcandy Sesh ANC is a true wireless earbud series designed for active users, featuring active noise cancellation to enhance the listening experience in various environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "1d7d258f-6b3f-43cf-ba19-22a210a30268",
+            "image": null,
+            "name": "AORUS Gaming Motherboards",
+            "description": "The AORUS Gaming Motherboards from Gigabyte are designed to enhance gaming performance and customization, featuring advanced thermal management and rich connectivity options suitable for gamers and PC builders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "88693109-19f3-4027-af09-e0179378083a",
+            "image": null,
+            "name": "AORUS 15",
+            "description": "The AORUS 15 series by Gigabyte offers powerful gaming laptops designed for high performance and immersive gaming experiences, featuring advanced cooling technology and customizable RGB lighting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "0e1441ef-a225-47c6-9092-72fa6afa9cde",
+            "image": null,
+            "name": "Google Pixel 2 XL",
+            "description": "The Google Pixel 2 XL is a smartphone that focuses on delivering a pure Android experience and high-quality photography, featuring a large OLED display and advanced camera capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "9a60e6f8-3c0c-4bb8-a14f-58e8dc8036bc",
+            "image": null,
+            "name": "Google Home Mini",
+            "description": "Google Home Mini is a compact smart speaker that allows users to interact with Google Assistant for voice-activated assistance and control of smart home devices.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "d0e5a873-deae-4b61-b069-e2d51c97d86d",
+            "image": null,
+            "name": "Google Nest Hub",
+            "description": "The Google Nest Hub is a smart home device that combines a display with voice-activated assistance, allowing users to control smart home devices, view information, and manage their daily tasks effortlessly.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "c5c29b34-c2b5-4527-af3d-c4a0f739965b",
+            "image": null,
+            "name": "Optoma UHZ50",
+            "description": "The Optoma UHZ50 is a 4K laser home theater projector designed to deliver bright, vibrant images and a high-quality viewing experience for movies and games.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "38c91136-9189-4f06-bff8-4f0ce215ea8d",
+            "image": null,
+            "name": "Ultra Short Throw Series",
+            "description": "The Vivitek Ultra Short Throw Series includes projectors designed to deliver large, high-quality images from a very short distance, making them ideal for small spaces and interactive environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Vivitek"
+            }
+        }
+    ]
+}

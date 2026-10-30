@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "38cec437-b7e3-49cc-8929-41b6a11423d8",
+            "image": null,
+            "name": "Astro A50 Wireless Headset (Gen 4)",
+            "description": "The Astro A50 Wireless Headset (Gen 4) is a premium gaming headset designed for immersive audio experiences and comfortable long-term use, featuring wireless connectivity and advanced audio settings for gamers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "1b510b73-f532-4586-990c-f8f3a5531fae",
+            "image": null,
+            "name": "Kiddy Evoluna i-Size",
+            "description": "The Kiddy Evoluna i-Size is a baby car seat designed to provide safety and comfort for infants from birth up to 13 kg. It features a unique lie-flat position for added comfort during travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "1f8d0928-6458-4dfb-9d73-c66b758ee3c1",
+            "image": null,
+            "name": "Sigma 150-600mm F5-6.3 DG OS HSM Sports",
+            "description": "The Sigma 150-600mm F5-6.3 DG OS HSM Sports is a versatile telephoto zoom lens designed for sports and wildlife photography, featuring optical stabilization and a robust build for reliable performance in various conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sigma"
+            }
+        },
+        {
+            "id": "ec516e48-41c4-4ee4-8865-b0eff730d03c",
+            "image": null,
+            "name": "Joie i-Level",
+            "description": "The Joie i-Level is a versatile stroller designed for infants, featuring a unique lie-flat option for safe and comfortable travel from birth. It combines practicality with comfort, making it ideal for modern families on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe49ab3b-9283-4182-bb47-37b6f227235b",
+            "image": null,
+            "name": "Amsterdam Standard Series",
+            "description": "The Amsterdam Standard Series by Royal Talens is a collection of high-quality artist materials designed for both amateurs and professionals, offering excellent pigmentation and versatility for various artistic techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "b18de55e-7922-4f29-b866-648b7e4991d4",
+            "image": null,
+            "name": "Barbie 2023 Dreamhouse",
+            "description": "The Barbie 2023 Dreamhouse is an imaginative playset designed for children to create their own stories and adventures with Barbie. It features customizable spaces and interactive elements that encourage creativity and role-playing.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "555f9b9b-e7df-4f46-a4de-2a06391007cd",
+            "image": null,
+            "name": "Honda BR-V",
+            "description": "The Honda BR-V is a compact SUV designed to offer versatility and practicality for family use and urban driving, featuring a spacious interior and efficient performance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "dfa2b9bc-5c43-4d39-b24e-0698791ec51c",
+            "image": null,
+            "name": "Skullcandy Grind",
+            "description": "The Skullcandy Grind series offers over-ear headphones designed for a comfortable listening experience, emphasizing clean acoustics and durability for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "d2c6231b-6172-4c8d-9ecb-d3d420d6d075",
+            "image": null,
+            "name": "Hori Fighting Commander Octa",
+            "description": "The Hori Fighting Commander Octa is a specialized controller designed for fighting game enthusiasts, featuring an ergonomic design and a layout that optimizes performance during gameplay.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "feb2cd2d-e9b7-4a3a-bbd0-54b8ac99edbf",
+            "image": null,
+            "name": "Husqvarna TC 2015",
+            "description": "The Husqvarna TC 2015 is a lightweight, high-performance motocross bike designed for competitive riders seeking agility and power on the track.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a37635f2-6d68-4609-b09a-839886f45e46",
+            "image": null,
+            "name": "Maruti Suzuki Baleno (facelift)",
+            "description": "The Maruti Suzuki Baleno (facelift) is a compact hatchback known for its stylish design, efficient performance, and spacious interior, catering to the needs of modern urban drivers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "c50f3586-43a9-48a4-9ece-f4722e9c9d94",
+            "image": null,
+            "name": "Hot Wheels Car Culture",
+            "description": "The Hot Wheels Car Culture series by Mattel features a collection of die-cast vehicles that celebrate iconic automotive designs and cultural influences, aiming to engage car enthusiasts and collectors alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "176c68ac-3b83-4884-ad86-913dbad110cb",
+            "image": null,
+            "name": "Lamborghini Gallardo LP 570-4 Superleggera",
+            "description": "The Lamborghini Gallardo LP 570-4 Superleggera is a high-performance sports car known for its lightweight construction and powerful V10 engine, designed to deliver an exhilarating driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "ecb97bd1-42ec-48bd-9739-b092d9d24d0d",
+            "image": null,
+            "name": "Ultimate Liquid Wax",
+            "description": "Meguiar's Ultimate Liquid Wax is a high-performance car wax that provides a durable and protective layer to enhance the shine of your vehicle's paint. Released in 2019, it is designed to be easy to apply and remove, offering superior water beading and UV protection.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "23121045-f4dd-4431-945c-47f359b17aa1",
+            "image": null,
+            "name": "Russell Hobbs Blend and Go",
+            "description": "The Russell Hobbs Blend and Go series features compact, portable blenders designed for quick blending of smoothies and other beverages, making it easy to enjoy healthy drinks on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "2fed8565-c1c4-4c20-8ac8-7be814ea3f1e",
+            "image": null,
+            "name": "Kuka Modular Sofa Series",
+            "description": "The Kuka Modular Sofa Series is a customizable seating solution designed for versatility and comfort, allowing users to configure their space according to their preferences. Its modern design and premium materials make it suitable for a variety of interior styles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Kuka Furniture"
+            }
+        },
+        {
+            "id": "3fe290e6-920d-494d-be9c-ab2652380126",
+            "image": null,
+            "name": "Shoei Ryd",
+            "description": "The Shoei Ryd is a premium full-face motorcycle helmet designed for versatility and comfort during riding. It features an aerodynamic shape, advanced ventilation, and a focus on safety for both casual and sport riders.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "94863058-6ce9-4115-ba28-729c432ecef8",
+            "image": null,
+            "name": "Radian 3Q",
+            "description": "The Diono Radian 3Q series includes convertible car seats designed to accommodate children from birth to booster seat age, providing safety and comfort with a slim profile for enhanced vehicle compatibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "0ac2b8bf-f8ff-4a61-9230-63baff568c4e",
+            "image": null,
+            "name": "Hori Fighting Stick Alpha",
+            "description": "The Hori Fighting Stick Alpha series is designed for arcade-style gaming, providing players with a traditional joystick and button layout for precise control and responsiveness.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "be8866fa-acca-41ba-85b3-76a7fdbb0bdc",
+            "image": null,
+            "name": "Fisher-Price Little People Caring for Animals Farm",
+            "description": "The Fisher-Price Little People Caring for Animals Farm series is a fun and educational toy set that introduces young children to the care and interaction with animals through imaginative play. The set includes various farm animals and characters, encouraging nurturing behaviors and creativity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "b1ec00de-5df0-49af-9514-5cf196c7482c",
+            "image": null,
+            "name": "Honda Insight (2nd Generation)",
+            "description": "The Honda Insight (2nd Generation) is a hybrid compact car designed for fuel efficiency and environmentally conscious driving. It combines a sleek design with advanced hybrid technology to deliver a balanced performance and low emissions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b434c2a5-5a9e-47b0-8e9d-fa19f5f78150",
+            "image": null,
+            "name": "Husqvarna TE 2011",
+            "description": "The Husqvarna TE 2011 is a lightweight off-road motorcycle designed for enduro racing and trail riding, featuring advanced suspension and a powerful engine for enhanced performance on rough terrain.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "32820d3f-0746-4ebe-accf-f4f540181ff7",
+            "image": null,
+            "name": "Skullcandy Ink'd Wireless",
+            "description": "Skullcandy Ink'd Wireless are in-ear headphones designed for active users, offering a lightweight and comfortable fit with wireless connectivity for convenient listening on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "7cab8acc-505b-4127-9e42-ae27117578cb",
+            "image": null,
+            "name": "Aventador LP 750-4 Superveloce",
+            "description": "The Lamborghini Aventador LP 750-4 Superveloce is a high-performance sports car known for its powerful V12 engine, lightweight carbon fiber construction, and advanced aerodynamics, designed to deliver exceptional speed and handling.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "9117ed84-b2f1-4266-905e-fbeefb9fa2a3",
+            "image": null,
+            "name": "Dime",
+            "description": "The Skullcandy Dime series features compact and lightweight true wireless headphones designed for everyday use, offering a comfortable fit and decent sound quality for casual listening.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "8d2409e1-ef8f-4d55-81ba-d76ac39d84cc",
+            "image": null,
+            "name": "Aquabeads Stardust Pearl",
+            "description": "Aquabeads Stardust Pearl is a creative crafting toy series that allows children to design and create colorful bead shapes that can be fused together with water, facilitating artistic expression and fine motor skill development.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "bc9903e6-2dbf-4d75-9a02-ecb4aca4f4cf",
+            "image": null,
+            "name": "Husqvarna FC 2015",
+            "description": "The Husqvarna FC 2015 is a series of off-road motorcycles designed for competitive motocross and high-performance riding, known for its lightweight construction and advanced technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "fd2fc3e3-c607-40b2-b505-0ac8a5b990c1",
+            "image": null,
+            "name": "Hush Buds",
+            "description": "Skullcandy Hush Buds are wireless headphones designed for comfortable, everyday use, featuring a sleek design and active noise cancellation technology for an immersive listening experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "fa69db36-2ebe-4d0f-a030-a21dbba41da0",
+            "image": null,
+            "name": "Maruti Suzuki Wagon R (third generation)",
+            "description": "The Maruti Suzuki Wagon R (third generation) is a compact hatchback known for its spacious interior, practicality, and fuel efficiency, designed to meet the needs of urban commuting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "6a5035f6-447e-400c-8601-eac90209d5ee",
+            "image": null,
+            "name": "Urus",
+            "description": "The Lamborghini Urus is a luxury SUV that combines the performance of a sports car with the practicality of an all-terrain vehicle, designed for both on-road and off-road driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        }
+    ]
+}

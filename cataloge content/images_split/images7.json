@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "9ef3f846-0517-457d-9a96-9d5f02320d41",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+            "description": "The Fisher-Price Laugh & Learn Smart Stages Puppy is an interactive toy designed for infants and toddlers, offering age-appropriate learning content and activities that promote early language, motor skills, and social-emotional development.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "9f4bdd80-5fab-4bc9-88e8-afc3ed1b06fb",
+            "image": null,
+            "name": "Vulcan S",
+            "description": "The Kawasaki Vulcan S is a mid-size cruiser motorcycle designed for a wide range of riders. It offers a low seat height and customizable riding ergonomics for enhanced comfort and control.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "a43038df-ca19-494d-94ae-5b9649cd0139",
+            "image": null,
+            "name": "Vespa 946",
+            "description": "The Vespa 946 is a stylish and iconic scooter, blending modern technology with classic Vespa design, aimed at urban commuting and providing a unique riding experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "ad5185c2-782c-4a26-ae11-20411e22aabf",
+            "image": null,
+            "name": "Kawasaki Ninja H2",
+            "description": "The Kawasaki Ninja H2 is a high-performance supercharged hyperbike designed for speed and agility, combining cutting-edge technology with aerodynamic design to enhance its riding capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "b1b545e9-ea01-4486-8f43-c5f521f39d8c",
+            "image": null,
+            "name": "Vespa GTS 300 Super",
+            "description": "The Vespa GTS 300 Super is a modern scooter known for its classic design, powerful engine, and agility in urban environments, making it ideal for commuting and leisure riding.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "d6419f11-d9c4-473a-a527-1d5342138a7b",
+            "image": null,
+            "name": "Kawasaki ZX-10R",
+            "description": "The Kawasaki ZX-10R is a high-performance sport motorcycle designed for speed and agility, aimed at both professional racers and enthusiasts seeking an exhilarating ride.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "6e195dea-6d33-4395-9d35-e3db55a3bd48",
+            "image": null,
+            "name": "Ford F-Series (12th generation)",
+            "description": "The Ford F-Series (12th generation) is a line of full-size pickup trucks designed for both work and personal use, known for their high towing capacity, durable build, and advanced technological features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "775dbf4e-8d8c-4a8c-b53f-6d1d2c557af9",
+            "image": null,
+            "name": "Ford Super Duty",
+            "description": "The Ford Super Duty series is a line of heavy-duty pickup trucks designed for towing and hauling, offering enhanced durability and powerful engine options for demanding work environments.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "da37a902-753a-4a96-ad32-dc809503ced2",
+            "image": null,
+            "name": "Ford Flex",
+            "description": "The Ford Flex is a full-size crossover SUV that combines unique styling with spacious interior and versatile seating configurations, making it suitable for families and diverse lifestyles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "df161008-58e2-4ea7-9786-43271cf8088d",
+            "image": null,
+            "name": "Ford Explorer (2020 Model Year)",
+            "description": "The Ford Explorer (2020 Model Year) is a midsize SUV designed to offer a balance of spaciousness, capability, and advanced technology, making it suitable for family use and outdoor adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "dfe329bd-61c1-4dfa-8f63-fbd9ca06eda8",
+            "image": null,
+            "name": "Tiguan",
+            "description": "The Volkswagen Tiguan is a compact SUV designed for versatility, comfort, and performance. It combines spacious interiors with advanced technology for an enhanced driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "e1eb7947-654f-46c0-a830-96271532b2a6",
+            "image": null,
+            "name": "Ford C-MAX",
+            "description": "The Ford C-MAX is a compact multi-purpose vehicle designed to provide versatility and efficiency for families and urban drivers.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "e355f8f4-291e-4a5b-80b7-e084f4ca9892",
+            "image": null,
+            "name": "Ford F-150 (2015 Model Year)",
+            "description": "The Ford F-150 (2015 Model Year) is a full-size pickup truck known for its durability, capability, and advanced technology features, making it ideal for both work and personal use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "f4912ea7-10ba-489b-ab06-8cf75e544404",
+            "image": null,
+            "name": "Ford F-Series Super Duty",
+            "description": "The Ford F-Series Super Duty is a line of heavy-duty pickup trucks designed for towing, hauling, and off-road performance. Known for their robustness and advanced technology, these trucks cater to both work and recreational needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "f6bee7a8-4306-45b3-bb77-242c5e4bee2e",
+            "image": null,
+            "name": "Maruti Suzuki SX4",
+            "description": "The Maruti Suzuki SX4 is a compact car that was launched in 2006, known for its spacious interiors, high ground clearance, and versatility, making it suitable for urban driving and light off-road conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "818645b6-8135-4b58-85f3-9eb5f6043a7c",
+            "image": null,
+            "name": "Turtle Wax Scratch Repair & Renew",
+            "description": "Turtle Wax Scratch Repair & Renew is a series of car care products designed to effectively repair light scratches and restore the shine to vehicle paint surfaces. The products are formulated to enhance the appearance of paint while providing protection against future damage.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "961b4f7d-7bfd-47b2-9b49-f3db403e1206",
+            "image": null,
+            "name": "Ford Mustang (Mach 1)",
+            "description": "The Ford Mustang Mach 1 is a high-performance sports car that combines classic design with modern engineering, aimed at delivering a thrilling driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "a32adece-cd68-4fbe-b0e6-9c44d68d0cb8",
+            "image": null,
+            "name": "Ford Ranger (2010 model year)",
+            "description": "The Ford Ranger (2010 model year) is a compact pickup truck known for its durability and performance, designed for both work and leisure use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "afcae0c2-541b-4b3d-8120-17a9b4be6b6c",
+            "image": null,
+            "name": "Ford Escape (2nd generation facelift)",
+            "description": "The Ford Escape (2nd generation facelift) is a compact crossover SUV that combines versatility with comfort, designed for drivers seeking a practical vehicle for both urban and outdoor environments.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "29c281ef-f2f7-4078-8941-d366d1dd8e85",
+            "image": null,
+            "name": "Ford Mustang (Sixth Generation)",
+            "description": "The Ford Mustang (Sixth Generation) is a classic American muscle car known for its powerful performance, iconic design, and enthusiastic driving experience. First released in 2014, it continues to embody the spirit of freedom and adventure associated with the Mustang brand.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "44a6b9de-b0a4-4566-83af-e6304c0eb8b1",
+            "image": null,
+            "name": "Ford Mustang Bullitt",
+            "description": "The Ford Mustang Bullitt is a special edition of the iconic Mustang, created to honor the classic 1968 film 'Bullitt.' It features a powerful V8 engine, unique styling elements, and a focus on performance, making it a tribute to automotive enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "462e61d2-6d6d-4015-82ec-922ca0baf7bc",
+            "image": null,
+            "name": "Ford EcoSport",
+            "description": "The Ford EcoSport is a compact SUV known for its practical size, high ground clearance, and versatility, designed to navigate urban environments while offering spacious interior and cargo options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "466ae9b1-8090-4da9-bc4e-3b3487f0b99a",
+            "image": null,
+            "name": "Volkswagen ID. Buzz",
+            "description": "The Volkswagen ID. Buzz is an electric minivan that merges modern technology with the iconic design of the original Volkswagen Bus. It aims to provide sustainable transportation solutions while preserving the spirit of adventure and community.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "55571b40-f485-49a8-aa24-9914abab0493",
+            "image": null,
+            "name": "Ford Transit (New Generation)",
+            "description": "The Ford Transit (New Generation) is a versatile and flexible commercial van designed for transporting goods and people, known for its spacious interior, advanced technology, and fuel efficiency.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "bbff30fe-fdc8-47e7-8209-f752d2b6fbec",
+            "image": null,
+            "name": "Ford Transit",
+            "description": "The Ford Transit is a versatile commercial vehicle designed primarily for transporting goods and passengers, known for its spacious interior and customizable configurations.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "c1103bef-7d05-40bb-9c3d-ea7e8924a08c",
+            "image": null,
+            "name": "Ford Focus ST",
+            "description": "The Ford Focus ST is a high-performance hatchback that combines sporty handling with practicality, designed for driving enthusiasts seeking an exhilarating experience on the road.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "c490901a-feb3-45cc-aad2-faab6bca4082",
+            "image": null,
+            "name": "Ford F-150 (2009 Generation)",
+            "description": "The Ford F-150 (2009 Generation) is a full-size pickup truck known for its robust build, versatility, and capability, making it suitable for both work and recreational uses.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "db6d12c2-7d2c-4591-b271-cdb111be9c71",
+            "image": null,
+            "name": "Norton Dominator",
+            "description": "The Norton Dominator is a modern classic motorcycle that combines traditional styling with contemporary performance and technology, designed for riders seeking a blend of heritage and innovation.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "6a64df06-99b0-460d-af5d-6a1396ff65d9",
+            "image": null,
+            "name": "Bimota SB8R",
+            "description": "The Bimota SB8R is a high-performance sport motorcycle released in 2000, known for its lightweight design, advanced engineering, and a powerful engine that provides thrilling performance on the track and the road.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "e96655ff-cfdb-4fb5-9c71-4f4018b2a820",
+            "image": null,
+            "name": "Dior Men Winter 2021 Collection",
+            "description": "The Dior Men Winter 2021 Collection features a range of sophisticated and stylish men's clothing designed for the winter season, emphasizing comfort and high-quality materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        }
+    ]
+}

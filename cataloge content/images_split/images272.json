@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "2211b699-8800-4adb-81bb-60ac0f1f2533",
+            "image": null,
+            "name": "Veja Campo",
+            "description": "The Veja Campo is a line of sustainable sneakers designed for casual wear, combining style with environmentally friendly materials and ethical production methods.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "68e3462d-8f24-4883-96e7-8680de3b2a20",
+            "image": null,
+            "name": "Blomberg BLWC1240",
+            "description": "The Blomberg BLWC1240 is a front-loading washing machine designed to provide efficient and effective cleaning results with various wash programs tailored to meet different fabric care needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Blomberg"
+            }
+        },
+        {
+            "id": "52a0efc0-bf1c-4674-a6f2-407dfdb321e0",
+            "image": null,
+            "name": "Russell Hobbs 24090",
+            "description": "The Russell Hobbs 24090 Blender is designed for efficient blending, featuring a powerful motor and sharp blades to simplify food preparation tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "6ce85286-2180-421d-bfde-d06eb502edb2",
+            "image": null,
+            "name": "Honda Civic Si",
+            "description": "The Honda Civic Si is a performance-oriented version of the Honda Civic, known for its sporty handling, responsive powertrain, and enthusiast-focused features.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cbfaebcd-c372-4f4d-a986-70792b6fb2fe",
+            "image": null,
+            "name": "Shoei GT-Air II",
+            "description": "The Shoei GT-Air II is a high-performance full-face motorcycle helmet designed for both comfort and safety, featuring advanced aerodynamics and ventilation systems.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "825c0680-37e4-4397-8bd2-0dae32617862",
+            "image": null,
+            "name": "Hummel Iconic",
+            "description": "The Hummel Iconic series features stylish sneakers designed for both casual wear and athletic performance, incorporating classic design elements with modern comfort technologies.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Hummel"
+            }
+        },
+        {
+            "id": "d8aecd4c-cecf-4afd-bef9-5b26f181e4f8",
+            "image": null,
+            "name": "Hot Wheels 2023 Mainline",
+            "description": "The Mattel Hot Wheels 2023 Mainline series features a collection of die-cast toy cars that are designed for imaginative play and collection. This series showcases a variety of vehicle designs, appealing to both young car enthusiasts and collectors alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "fa05178a-084b-4aaa-9a4a-102aa3f0a854",
+            "image": null,
+            "name": "Indy",
+            "description": "The Skullcandy Indy series offers true wireless headphones designed for active lifestyles, featuring a secure fit and customizable sound options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "83eef92c-b04a-47ec-aa41-9881ef9fff39",
+            "image": null,
+            "name": "Tombow Fudenosuke Brush Pen",
+            "description": "The Tombow Fudenosuke Brush Pen is a flexible brush pen designed for calligraphy and hand lettering, featuring a durable tip that allows for both fine and bold lines.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "4250ad5e-21de-4e37-b19f-45e30e181c0f",
+            "image": null,
+            "name": "Dueler A/T Revo",
+            "description": "The Bridgestone Dueler A/T Revo is an all-terrain tire designed for light trucks and SUVs, offering a balance of off-road capability and on-road comfort.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "6e5aebbf-d321-4067-ba90-543e45f70467",
+            "image": null,
+            "name": "Aquabeads Animal Friends",
+            "description": "Aquabeads Animal Friends is a creative crafting toy series that allows children to create colorful bead designs by placing beads on a tray and using water to fuse them together. It encourages imagination and fine motor skills through artistic play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "7591a9c9-3ba0-4668-bc40-4c5f85f00c9e",
+            "image": null,
+            "name": "Husqvarna TE 2015",
+            "description": "The Husqvarna TE 2015 is a lightweight and agile motorcycle designed for off-road performance, featuring advanced suspension and braking systems for improved handling and control in challenging terrains.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "45d6f224-4be4-462b-82ab-e2419dc69220",
+            "image": null,
+            "name": "Calvin Klein CK1 Shock",
+            "description": "Calvin Klein CK1 Shock is a unisex fragrance that embodies a bold and youthful spirit, blending vibrant notes for a fresh and energetic scent experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Calvin Klein"
+            }
+        },
+        {
+            "id": "2bab20cb-f0c9-49b3-b38e-4926b989f0ed",
+            "image": null,
+            "name": "Fisher-Price Code-a-Pillar",
+            "description": "The Fisher-Price Code-a-Pillar is an interactive learning toy designed to introduce young children to basic programming concepts through fun and engaging activities. Children can arrange segments of the caterpillar to create different movements and sequences, promoting problem-solving and critical thinking skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "b005b30c-aaf0-44bb-bd17-4a95d01b8909",
+            "image": null,
+            "name": "Husqvarna 701 Enduro LR",
+            "description": "The Husqvarna 701 Enduro LR is a versatile dual-sport motorcycle designed for both on-road and off-road capabilities, offering a blend of performance and durability for adventurous riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "883fcddc-199e-43c3-9e47-f455bdbc3d06",
+            "image": null,
+            "name": "Turanza Serenity Plus",
+            "description": "The Bridgestone Turanza Serenity Plus is a premium touring tire designed to provide a quiet, comfortable ride while delivering excellent traction and handling on both wet and dry road surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "d3b64217-c3c6-4be6-90d8-e0a746c658c2",
+            "image": null,
+            "name": "Outwell Avondale",
+            "description": "The Outwell Avondale series offers versatile camping gear designed to enhance the outdoor experience with durable materials and practical features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "12ca443a-3c64-47e6-9103-8129f273bc2e",
+            "image": null,
+            "name": "361° Sensation 3",
+            "description": "The 361° Sensation 3 is a running sneaker designed to provide comfort and support for long distances, featuring a responsive cushioning system and a lightweight design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "361 Degrees"
+            }
+        },
+        {
+            "id": "d5c4f867-8ee9-4430-bcb3-aabf0ed13fbd",
+            "image": null,
+            "name": "Transforce",
+            "description": "Bridgestone Transforce is a series of tires designed primarily for light trucks and commercial vehicles, focusing on durability, traction, and versatility for various road conditions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "795a1290-91b1-44f7-937c-c4a4fb5befd1",
+            "image": null,
+            "name": "HADES",
+            "description": "The GAMDIAS HADES series offers a range of gaming accessories designed to enhance the gaming experience, featuring ergonomic designs and customizable options for improved comfort and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "5798dbe7-9298-4540-8c2c-945c33d6d881",
+            "image": null,
+            "name": "Klymit Static V Sleeping Pad",
+            "description": "The Klymit Static V Sleeping Pad is designed for comfort and portability in camping, featuring a unique V-shaped design that helps to limit air movement and improve stability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "661e44e2-910f-426d-a08f-ea6ea14729a6",
+            "image": null,
+            "name": "Barbie Fashionista Dolls",
+            "description": "Barbie Fashionista Dolls are a diverse range of fashion dolls that celebrate individuality and self-expression through various styles, body types, and ethnicities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "89e2ea5b-46b2-43e9-aa50-10832161b39e",
+            "image": null,
+            "name": "J-Cruise",
+            "description": "The Shoei J-Cruise is a premium open-face motorcycle helmet designed for comfortable riding with a focus on aerodynamics, ventilation, and safety features suitable for urban and touring enthusiasts.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "2e1b812c-3996-473d-9896-2c2bb43e8bb4",
+            "image": null,
+            "name": "TicWatch Pro 2020",
+            "description": "The TicWatch Pro 2020 is a smart watch that combines advanced fitness tracking features with a dual-display technology, providing users with long battery life and essential smartwatch functions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "TicWatch"
+            }
+        },
+        {
+            "id": "fbf8358e-025a-443f-9f11-f1456072c301",
+            "image": null,
+            "name": "Lamborghini Gallardo Superleggera",
+            "description": "The Lamborghini Gallardo Superleggera is a high-performance sports car known for its lightweight construction and powerful V10 engine, aimed at offering an exhilarating driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "746bbcce-47d9-4696-a02c-a92ea8064f2b",
+            "image": null,
+            "name": "Blomberg WLF154421",
+            "description": "The Blomberg WLF154421 is a front-loading washing machine designed to provide efficient and thorough cleaning for various types of laundry, featuring multiple wash programs and advanced features for user convenience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Blomberg"
+            }
+        },
+        {
+            "id": "634b681a-676c-4220-a1d7-6671aea71fe9",
+            "image": null,
+            "name": "Meguiar's G55032 Hybrid Ceramic Wax",
+            "description": "Meguiar's G55032 Hybrid Ceramic Wax is a car care product that combines the ease of application of a wax with advanced ceramic protection, effectively enhancing shine and providing long-lasting durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "a648220d-deca-4737-a1fc-097e5c79b9ed",
+            "image": null,
+            "name": "Astro A10 Gen 2",
+            "description": "The Astro A10 Gen 2 is a versatile gaming headset designed for performance and comfort, featuring durable construction and high-quality audio to enhance the gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "8a798496-a4bb-4722-95a6-2a5c584abbbd",
+            "image": null,
+            "name": "Hot Wheels 50th Anniversary",
+            "description": "The Mattel Hot Wheels 50th Anniversary series celebrates five decades of the iconic toy car brand, featuring a collection of specially designed die-cast cars that highlight various themes and designs from the franchise's history.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "8fe0a625-c1ef-4bff-ab93-caad399e2b37",
+            "image": null,
+            "name": "Meguiar's G10464  Extreme Marine Vinyl Cleaner",
+            "description": "Meguiar's G10464 Extreme Marine Vinyl Cleaner is a specialized cleaning product designed for effectively removing dirt, grime, and stains from vinyl surfaces on marine crafts, ensuring they remain clean and protected.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        }
+    ]
+}

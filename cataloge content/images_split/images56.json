@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "d528896c-fb2c-493d-afff-5586683d8b32",
+            "image": null,
+            "name": "Collinite Carnauba Paste Wax #476s",
+            "description": "Collinite Carnauba Paste Wax #476s is a premium car care product formulated to provide a durable protective layer to automotive finishes while enhancing the shine and depth of color.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "0ac849ea-0d23-4d27-883a-62a786a819c4",
+            "image": null,
+            "name": "Mothers Clay Bar System",
+            "description": "The Mothers Clay Bar System is designed to remove embedded contaminants from a vehicle's surface, enhancing paint clarity and shine for a professional finish.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "13250a65-a578-4bfc-9ae4-4047ecdbb63e",
+            "image": null,
+            "name": "Mothers CMX Ceramic Coating",
+            "description": "Mothers CMX Ceramic Coating is designed to provide a durable protective layer for automotive surfaces, offering advanced hydrophobicity and UV resistance to enhance the longevity and appearance of your vehicle's finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "179546fd-e4dc-4dfa-9866-20a653197019",
+            "image": null,
+            "name": "Mothers Speed Foamer",
+            "description": "Mothers Speed Foamer is a series of car care products designed for quick and effective cleaning. Its unique foaming action helps lift dirt and grime while protecting surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "1d6ee477-0be9-4dff-9251-81b27b3a6ce7",
+            "image": null,
+            "name": "Mothers Reflections",
+            "description": "Mothers Reflections is a series of car care products designed to provide deep cleaning, polishing, and protection for various automotive surfaces, ensuring that vehicles maintain their shine and aesthetic appeal.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "2a6222ea-51bd-4594-b304-69ba641232ae",
+            "image": null,
+            "name": "Mothers PowerBall",
+            "description": "Mothers PowerBall is a car care product designed to simplify the polishing process, featuring a unique foam design that helps deliver a high-quality finish with ease.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "2caf9bcb-f74d-43ef-848e-e44db564393b",
+            "image": null,
+            "name": "Mothers CMX Ceramic Coat",
+            "description": "Mothers CMX Ceramic Coat offers advanced protection for automotive surfaces, utilizing ceramic technology to create a durable, hydrophobic layer that enhances gloss and shields against environmental contaminants.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "52b3cdb7-821e-418a-8ff2-c9c575861f4b",
+            "image": null,
+            "name": "Mothers Speed Shine",
+            "description": "Mothers Speed Shine is a line of car care products designed for quick and effective cleaning, enhancing shine, and providing protection for various automotive surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "5c1f04fe-b779-4a23-af61-eaad6c2a717a",
+            "image": null,
+            "name": "Mothers Professional",
+            "description": "Mothers Professional is a series of premium car care products introduced in 2006, designed to provide high-quality cleaning, polishing, and protection for a variety of automotive surfaces.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "601828c4-bc7d-47c6-9f0e-89e4f5e06003",
+            "image": null,
+            "name": "LEGO Creator",
+            "description": "LEGO Creator is a versatile building toy series that encourages creativity and imagination through a wide range of customizable models and sets.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "63e96a7a-fb30-4c5c-b655-14f963279a09",
+            "image": null,
+            "name": "MacBook Pro",
+            "description": "The 2016 MacBook Pro is a line of high-performance laptops from Apple, designed for professional users who require powerful computing capabilities, portability, and a Retina display.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "642bc3a3-d3aa-4681-b228-7db4ef6844f8",
+            "image": null,
+            "name": "Maruti Suzuki Vitara Brezza",
+            "description": "The Maruti Suzuki Vitara Brezza is a compact SUV launched in 2017, designed to offer a blend of style, performance, and functionality for urban drivers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "6cb900cc-622c-485c-b4aa-dd786575f435",
+            "image": null,
+            "name": "Sony Xperia 1 III",
+            "description": "The Sony Xperia 1 III is a flagship smartphone designed for photographers and multimedia enthusiasts, featuring advanced camera capabilities and a 4K OLED display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "704151d2-65b2-4bb1-9372-86f7029fb8c1",
+            "image": null,
+            "name": "Pilot",
+            "description": "The Honda Pilot is a mid-size SUV designed for families, offering spacious seating, advanced safety features, and a comfortable ride on various terrains.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ed589150-5fd9-4af4-944c-99c4c17c998d",
+            "image": null,
+            "name": "Renault Logan",
+            "description": "The Renault Logan is a compact sedan introduced in 2002, known for its affordability, practicality, and spacious interior, making it a popular choice for families and budget-conscious consumers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "8729fdac-aae3-4edb-a0a9-5befd425692f",
+            "image": null,
+            "name": "Zymöl Signature Series",
+            "description": "The Zymöl Signature Series is a premium line of car care products designed to enhance and protect vehicle surfaces, providing exceptional shine and durability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "9bd55100-c5e5-4fbb-8325-8285e0e69ecd",
+            "image": null,
+            "name": "Subaru Crosstrek (Subaru XV)",
+            "description": "The Subaru Crosstrek (Subaru XV) is a compact SUV designed for versatility and adventure, with features that promote off-road capability and comfort for everyday driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9f5101c3-5bb9-4e5b-8d5f-daf9bf280788",
+            "image": null,
+            "name": "Griot's Garage 3-in-1 Ceramic Wax",
+            "description": "Griot's Garage 3-in-1 Ceramic Wax is a versatile car care product designed to clean, enhance, and protect your vehicle’s finish with a durable ceramic coating.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "f4fb582b-f3ab-4a4b-928a-0e277eb42bfa",
+            "image": null,
+            "name": "Maruti Suzuki S-Presso",
+            "description": "The Maruti Suzuki S-Presso is a compact car designed for urban environments, offering a unique combination of practicality, affordability, and style since its release in 2019.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "fc52cc51-b4a1-43e7-87a2-28fb54fa9e88",
+            "image": null,
+            "name": "LEGO Harry Potter: Wizarding World",
+            "description": "The LEGO Harry Potter: Wizarding World series features building sets inspired by the Harry Potter franchise, allowing fans to recreate iconic scenes and characters from the series while fostering creativity and imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "d0497871-975b-4f4b-b71f-205b5ab1db19",
+            "image": null,
+            "name": "Renault Mégane II",
+            "description": "The Renault Mégane II is a compact family car produced by Renault, known for its stylish design, practical interior, and efficient performance. Launched in 2001, it serves as a versatile option for everyday driving needs.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "95d41c99-4a44-4ec5-a74b-0d7eb1995785",
+            "image": null,
+            "name": "Miele PerfectDry",
+            "description": "The Miele PerfectDry series offers advanced washing machines designed to optimize the drying process, ensuring that laundry comes out perfectly dry and ready to use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1cde05b8-f226-4989-bb4d-9be0b5f7737e",
+            "image": null,
+            "name": "Blick Academie",
+            "description": "Blick Academie is a series of high-quality art supplies designed for students and artists. It offers a range of products including paints, brushes, and drawing materials suitable for both beginners and experienced creators.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "0478a4b0-3e02-4ac7-9ffe-7a6f96b0e4e3",
+            "image": null,
+            "name": "Audi Q3 (Facelift)",
+            "description": "The Audi Q3 (Facelift) is a compact luxury SUV that combines sporty performance with advanced technology and a versatile interior, designed to cater to urban and recreational needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "070e0426-5372-4695-899e-4ca352ed1334",
+            "image": null,
+            "name": "Corolla Cross",
+            "description": "The Toyota Corolla Cross is a compact SUV introduced in 2022, designed to blend practicality and style for urban driving and outdoor adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "07e36682-e9ef-4a20-a397-67f819c17b58",
+            "image": null,
+            "name": "Maruti Suzuki XL6",
+            "description": "The Maruti Suzuki XL6 is a premium MPV designed for spacious family travel with SUV-like features, launched by Maruti Suzuki Arena in 2019.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "19963abf-db50-460e-a420-791bfcfd8283",
+            "image": null,
+            "name": "Bosch Fuel System",
+            "description": "The Bosch Fuel System series includes a range of automotive fuel system components designed to optimize engine performance and ensure efficient fuel delivery.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "2dcd2b69-78d7-4fba-aea6-f676b13fe570",
+            "image": null,
+            "name": "Héros",
+            "description": "The Héros series by Pedrali features a collection of chairs that combine a timeless design with comfort, making them suitable for both residential and contract use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "48afa1ab-7ec0-40c7-9fce-3175202eff2b",
+            "image": null,
+            "name": "Mikado",
+            "description": "The Pedrali Mikado series features a collection of elegantly designed chairs that combine functionality with a contemporary aesthetic, suitable for both residential and commercial environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "4ba1954b-1ed4-4868-ac51-338bafe71ce6",
+            "image": null,
+            "name": "MG6 Magnette",
+            "description": "The MG6 Magnette is a compact car produced by MG Motors, designed to offer a blend of performance, comfort, and modern technology for everyday driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        }
+    ]
+}

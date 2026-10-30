@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "69a4ff44-4654-480e-bb8d-265bb56e0d9a",
+            "image": null,
+            "name": "Prismacolor Col-Erase",
+            "description": "Prismacolor Col-Erase pencils are high-quality colored pencils designed for artists and illustrators, featuring erasable colors for easy corrections and adjustments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "a21b0e8d-5783-4733-82e3-c75d75c95c24",
+            "image": null,
+            "name": "Nokia 5310",
+            "description": "The Nokia 5310 is a feature phone that combines classic design with modern functionality, designed primarily for communication and basic multimedia use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "521c7ca0-9490-4844-9220-69f1ed1d7c4e",
+            "image": null,
+            "name": "Puky Z 2",
+            "description": "The Puky Z 2 series offers lightweight bikes designed for young children, promoting balance and coordination while ensuring safe, enjoyable rides.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "01d441cb-ce9e-40b0-8a3f-53621c4132f7",
+            "image": null,
+            "name": "Subaru Outback (Fourth Generation)",
+            "description": "The Subaru Outback (Fourth Generation), launched in 2003, is a versatile SUV known for its combination of rugged off-road capability and comfortable on-road performance, making it suitable for both outdoor adventures and daily commuting.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "01760073-6e81-4736-b166-c86051ff5b30",
+            "image": null,
+            "name": "Promarker",
+            "description": "Winsor & Newton Promarker is a dual-tipped marker known for its vibrant colors and smooth application, ideal for professional artists and illustrators seeking precision in their artwork.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "e5010a2c-b196-4125-8cf2-ff4adb694c53",
+            "image": null,
+            "name": "Nokia G60 5G",
+            "description": "The Nokia G60 5G is a mid-range smartphone launched in 2023, designed to deliver reliable performance and modern connectivity features for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "d2e28a00-51ba-4d3e-8582-ca768b601e18",
+            "image": null,
+            "name": "Lego Infinity Saga",
+            "description": "The Lego Infinity Saga series is a collection of building sets that celebrate iconic moments from the Marvel Cinematic Universe. Designed for both children and adult fans, these sets encourage creativity, storytelling, and immersive play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "487c85ef-9539-4eed-8dd8-47fdf3e2d223",
+            "image": null,
+            "name": "Artisan Water Mixable Oil Colours",
+            "description": "Winsor & Newton Artisan Water Mixable Oil Colours are a range of oil paints designed to be thinned and cleaned up with water rather than traditional solvents, offering a versatile and safer alternative for artists.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "bcab6bf3-94e5-43e3-badf-a92cd94a01db",
+            "image": null,
+            "name": "Spectrum",
+            "description": "The Blind Spectrum series of skateboards, released in 2016, features a variety of designs and graphics aimed at providing a visually striking experience for skaters while maintaining the durability and performance needed for street and park skating.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Blind"
+            }
+        },
+        {
+            "id": "bcd93fc5-8bfe-4550-82a7-cb582b7b7f57",
+            "image": null,
+            "name": "Subaru EVs",
+            "description": "The Subaru EVs series includes a range of electric vehicles designed for efficiency and environmental sustainability, featuring advanced technology and all-wheel drive capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "64fc8e98-2bb4-4909-8755-7af2602290a6",
+            "image": null,
+            "name": "Turtle Wax Ceramic Wash & Wax",
+            "description": "Turtle Wax Ceramic Wash & Wax is a car care product series released in 2023, designed to clean and protect vehicle surfaces with ceramic technology for enhanced shine and durability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "1de85610-0bce-4600-be40-ea0e1da98c15",
+            "image": null,
+            "name": "Turtle Wax Pro",
+            "description": "Turtle Wax Pro is a series of professional-grade car care products designed to enhance and protect vehicle surfaces. Launched in 2003, it focuses on delivering high-quality cleaning and detailing solutions for automotive enthusiasts and professionals.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "e688512b-76e0-4509-908e-a7fce819dcb4",
+            "image": null,
+            "name": "Griot's Garage Machine Polish",
+            "description": "Griot's Garage Machine Polish is a series of automotive polishes designed to restore, refine, and protect various paint surfaces, enhancing the overall appearance of vehicles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "5c17cad6-6d42-4517-9be1-741345865cd4",
+            "image": null,
+            "name": "Puky LR XL",
+            "description": "The Puky LR XL is a push bike designed for children, focusing on safety and balance development while promoting independent riding skills.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "45b70691-3329-4841-88a8-0164f7299a76",
+            "image": null,
+            "name": "Turtle Wax Extreme Clean",
+            "description": "The Turtle Wax Extreme Clean series provides powerful cleaning solutions specifically designed for automotive surfaces, effectively removing dirt, grime, and contaminants to restore your vehicle's shine.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "4d16eae0-b230-445d-90a2-e986e77d42ae",
+            "image": null,
+            "name": "Nokia X30 5G",
+            "description": "The Nokia X30 5G is a smartphone released in 2023, designed to deliver 5G connectivity alongside a focus on sustainability and durability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "00d422f2-1091-45f1-a3d8-6abc6806976c",
+            "image": null,
+            "name": "If I Could Be Anything",
+            "description": "The 'If I Could Be Anything' series by Wonderbly allows children to explore various professions through personalized stories, inspiring creativity and imagination by making them the star of their own adventure.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "d7aaa04a-c498-4c50-ae96-493f2dae5cc2",
+            "image": null,
+            "name": "Vivo Z5",
+            "description": "The Vivo Z5 is a smartphone series launched in 2019, known for its balance of performance and affordability, featuring modern design and capable camera systems.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "04254bcc-a8b5-4931-9337-2a9f4db1c97b",
+            "image": null,
+            "name": "LEGO 2K Drive",
+            "description": "LEGO 2K Drive is a creative building toy series that allows players to design, build, and drive their own vehicles in a vibrant, open-world environment, promoting imaginative play and engineering skills.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "117743fb-ed95-49f4-beb6-2f205a0f19f2",
+            "image": null,
+            "name": "Motorola Moto G7",
+            "description": "The Motorola Moto G7 is a smartphone series released in 2019, known for its balanced performance, versatile camera capabilities, and affordability within the mid-range market.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "720ef10b-b963-4616-918a-00f40188556e",
+            "image": null,
+            "name": "Vivo V20 SE",
+            "description": "The Vivo V20 SE is a smartphone released in 2020, designed for users seeking a sleek device with a focus on photography and smart features at an accessible price.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "1e7df61f-c916-4091-93a4-f150608f8087",
+            "image": null,
+            "name": "Lava Iris 452",
+            "description": "The Lava Iris 452 is a smartphone released in 2013, designed for users seeking an affordable yet functional mobile device that offers essential features and a user-friendly experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "30b04ae5-314a-404b-b11f-3dfae470b8dc",
+            "image": null,
+            "name": "Vivo X60",
+            "description": "The Vivo X60 series is a lineup of smartphones launched in 2020, known for its advanced camera technology and sleek design that caters to photography enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "737cab12-f4c2-4a12-9bf8-a302e3a1f9ec",
+            "image": null,
+            "name": "Canson Conqueror",
+            "description": "Canson Conqueror is a premium range of fine art papers designed for high-quality artistic endeavors including drawing, painting, and printmaking. Known for its exceptional texture and durability, this series is favored by artists for its versatility and ability to handle various mediums.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "8022be44-02aa-4bf0-85f3-3b58ce0c55fc",
+            "image": null,
+            "name": "Mont Marte Paint Brushes",
+            "description": "The Mont Marte Paint Brushes series offers a variety of high-quality brushes designed for artists of all skill levels, ensuring precision and versatility for different painting techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "0fc79f6b-08a1-4f90-bda2-25abf1be138d",
+            "image": null,
+            "name": "Moto G 2022",
+            "description": "The Motorola Moto G 2022 series consists of mid-range smartphones designed to provide an accessible balance of performance and affordability, catering to users seeking reliable and stylish mobile devices.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "3dc7033f-4dca-47ba-8ae8-9c80baa927f6",
+            "image": null,
+            "name": "Realme 7",
+            "description": "The Realme 7 series includes smartphones that are designed to deliver a balanced performance and a smooth user experience, featuring capabilities such as a powerful processor and a long-lasting battery.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "069aae31-b809-4b50-85a8-141dd62fda14",
+            "image": null,
+            "name": "Classic Hamboards",
+            "description": "The Classic Hamboards series offers a unique skateboarding experience designed for cruising and carving. These skateboards are inspired by the feel of surfing and emphasize smooth rides and stylish turns.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "6d354a71-7e0e-4bcb-bc3a-40e2a15fbb9e",
+            "image": null,
+            "name": "Menzerna Professional Polishing Compounds",
+            "description": "Menzerna Professional Polishing Compounds are high-quality automotive polishing products designed to provide exceptional finish and clarity to paint surfaces, effectively removing imperfections and enhancing the overall appearance of the vehicle.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "ff1b0a74-c6cb-413b-b7ad-0bd8486db67b",
+            "image": null,
+            "name": "Usborne Graphic Novels",
+            "description": "The Usborne Graphic Novels series presents classic stories and literary adaptations in a visually engaging comic book format, aiming to make reading enjoyable and accessible for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        }
+    ]
+}

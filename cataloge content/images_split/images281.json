@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "345adb2e-cf1a-4630-be63-08bd083bd6d0",
+            "image": null,
+            "name": "Ecoline Original Liquid Watercolors",
+            "description": "Ecoline Original Liquid Watercolors are highly pigmented watercolors designed for artists of all levels, providing a vibrant and fluid medium that can be used on a variety of surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "eab6679a-bce2-4ea4-9964-957ac5201c55",
+            "image": null,
+            "name": "Logitech G Pro Series",
+            "description": "The Logitech G Pro Series is a line of gaming accessories designed for professional gamers, focusing on high performance, precision, and durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "61fe7a16-54ba-4e5e-a110-4e0cdc2221fd",
+            "image": null,
+            "name": "GL-Class",
+            "description": "The Mercedes-Benz GL-Class is a full-size luxury SUV designed for spaciousness, comfort, and advanced technology, offering a versatile solution for both on-road and off-road driving experiences.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "76cbcdcf-d877-4181-93d5-18a4667115b4",
+            "image": null,
+            "name": "Exterior Shampoo",
+            "description": "Autoglym Exterior Shampoo is designed for effective and safe cleaning of vehicles' exteriors, helping to remove dirt and contaminants without harming the paintwork.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "d360dd3a-a4c7-4e97-9dce-658929969db5",
+            "image": null,
+            "name": "Moccamaster KBGV Select",
+            "description": "The Technivorm Moccamaster KBGV Select is a high-quality coffee maker designed to brew coffee at the optimal temperature and time, ensuring a rich and flavorful cup. It features a manual drip-stop brew basket and a unique flow control for versatile brewing options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Technivorm"
+            }
+        },
+        {
+            "id": "dd5325c1-a3f3-4df5-94e0-83de010d769c",
+            "image": null,
+            "name": "Technivorm Cup-One",
+            "description": "The Technivorm Cup-One is a single-serve coffee machine designed for brewing a cup of coffee at a time with consistent quality and flavor, prioritizing user convenience and simplicity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Technivorm"
+            }
+        },
+        {
+            "id": "c9db0e4b-c08f-45d5-bbf5-a54be0f74ae2",
+            "image": null,
+            "name": "DUPLO School Bus",
+            "description": "The DUPLO School Bus is a toy designed to encourage imaginative play and social skills in young children, featuring a colorful bus and character figures that can be used to enact various scenarios.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "79e821a9-63bb-4736-a949-5eceaaecf003",
+            "image": null,
+            "name": "Technivorm Moccamaster Classic",
+            "description": "The Technivorm Moccamaster Classic is a high-quality coffee maker designed to brew coffee optimally and consistently. It features a precise brewing temperature and a unique copper boiling element for improved flavor extraction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Technivorm"
+            }
+        },
+        {
+            "id": "6077518e-e0bd-407f-a73b-f7d3f4686722",
+            "image": null,
+            "name": "Kerlon",
+            "description": "The Hilleberg Kerlon series features high-performance lightweight tents designed primarily for backpacking and camping, offering durability and weather resistance for various outdoor environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "0931e99f-4570-49a0-828a-14f4476c627c",
+            "image": null,
+            "name": "Tassimo Suny",
+            "description": "The Tassimo Suny is a single-serve coffee machine designed for convenience and ease of use, allowing users to make a wide variety of beverages with just one touch.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Tassimo"
+            }
+        },
+        {
+            "id": "8734d845-d74b-4bb4-9838-ae7e0635698e",
+            "image": null,
+            "name": "Soulo",
+            "description": "The Hilleberg Soulo is a single-person tent designed for all-season use, combining durability and lightweight materials to provide a reliable shelter in various conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "c9cb9df9-3577-4020-ae53-5e9d67510066",
+            "image": null,
+            "name": "Green Toys Stacking Cups",
+            "description": "The Green Toys Stacking Cups are designed for young children to encourage imaginative play and develop fine motor skills. Made from 100% recycled materials, these cups are safe, eco-friendly, and great for both indoor and outdoor play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "119d7254-ce48-408d-8d18-b99cd59366a6",
+            "image": null,
+            "name": "Valvoline Engine Protect",
+            "description": "Valvoline Engine Protect is a car care product series designed to help maintain engine cleanliness and performance by reducing wear and tear, preventing sludge buildup, and enhancing oil longevity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "a5e60b23-610b-40d0-a561-539fa7529191",
+            "image": null,
+            "name": "Cosori Air Fryer",
+            "description": "The Cosori Air Fryer is a kitchen appliance designed to cook food by circulating hot air around it, allowing for healthier frying options with less oil.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "e6d90183-bb37-495d-b8f8-50d5e32baee6",
+            "image": null,
+            "name": "COSORI Air Fryer Lite",
+            "description": "The COSORI Air Fryer Lite is designed to provide a healthier cooking alternative by utilizing rapid air circulation technology to fry food with minimal oil. This air fryer is known for its user-friendly interface and efficient cooking capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "46098dca-1e72-4183-9f22-5d825b94ba67",
+            "image": null,
+            "name": "Britax B-Ready",
+            "description": "The Britax B-Ready series consists of versatile strollers designed for growing families, offering multiple seating configurations that accommodate one or two children. With a focus on safety and convenience, these strollers are equipped with essential features for both parents and children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "419f8092-ff57-4fcd-9b90-e91a10e8e096",
+            "image": null,
+            "name": "Hauck 3in1 Shop'n'Drive",
+            "description": "The Hauck 3in1 Shop'n'Drive is a versatile stroller system designed to adapt to different travel needs with three configurations: carrycot, car seat, and stroller. It emphasizes convenience and ease of use for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "5cedfe46-608d-4a51-8215-7001b0209c16",
+            "image": null,
+            "name": "DUPLO Wild Animals",
+            "description": "DUPLO Wild Animals is a series of toys designed to introduce young children to various wildlife species through interactive play. The colorful, oversized blocks are safe for toddlers and promote fine motor skills, creativity, and imagination.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "c741e633-4c0a-439b-9195-31bf433984b3",
+            "image": null,
+            "name": "Big Agnes Insulated Q Core SL",
+            "description": "The Big Agnes Insulated Q Core SL is a lightweight and compact sleeping pad designed for backpackers seeking comfort and insulation during their outdoor adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "920b57fa-e64e-4f49-9fe9-f8ff804398ad",
+            "image": null,
+            "name": "Hauck Alpha High Chair",
+            "description": "The Hauck Alpha High Chair is a versatile baby seat designed to accommodate children from six months to adulthood. It features an adjustable design that grows with your child, offering a safe and comfortable seating option for family meals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "eded3bbb-a7c3-4db8-92a5-ad2abb92774e",
+            "image": null,
+            "name": "Mercedes-Benz W211",
+            "description": "The Mercedes-Benz W211 is an executive car that was produced from 2002 to 2009, known for its luxury, comfort, and advanced technology features.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "7f96edf6-f9e0-471e-8765-710117b35455",
+            "image": null,
+            "name": "Evenflo EveryStage",
+            "description": "The Evenflo EveryStage series offers versatile all-in-one car seats designed to accommodate children from birth through booster seat. These seats aim to provide safety, comfort, and convenience for parents during travel.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c22416ae-01b3-4956-b606-1dd253acae8b",
+            "image": null,
+            "name": "Crunch GTi",
+            "description": "The Crunch GTi series is designed for car audio enthusiasts seeking high-quality sound performance with powerful amplification capabilities. Launched in 2006, this series is recognized for its robust build and reliable output.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Crunch"
+            }
+        },
+        {
+            "id": "2a7b2ea1-86f8-4624-9445-c025d87d68cd",
+            "image": null,
+            "name": "Hauck Comfort Fix",
+            "description": "The Hauck Comfort Fix is a lightweight and versatile baby seat designed for easy transportation and secure travel for infants from birth up to 13 kg. It features a reliable safety system and is compatible with Hauck strollers, ensuring a seamless travel experience for parents and their babies.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "6bd5029c-595f-4d01-9427-c1d3cfae7e72",
+            "image": null,
+            "name": "Let's Learn Korean",
+            "description": "Let's Learn Korean is an educational series designed for children to introduce them to the basics of the Korean language through engaging activities and colorful illustrations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Hippocrene Books"
+            }
+        },
+        {
+            "id": "53994fd3-fe1e-4d7a-ae1d-994598df524a",
+            "image": null,
+            "name": "Mercedes-Benz W220",
+            "description": "The Mercedes-Benz W220 is a luxury sedan that debuted in 2002, known for its advanced technology offerings, comfortable ride, and sophisticated design, catering to the high-end automotive market.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "e28c203a-98da-4938-bef9-4da05b261617",
+            "image": null,
+            "name": "DUPLO 10889",
+            "description": "DUPLO 10889 is a building toy set designed for young children, featuring large, colorful bricks that facilitate imaginative play and help develop fine motor skills.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "733631e6-a527-4b25-88be-50fa964ec622",
+            "image": null,
+            "name": "Gtechniq L1 Leather Guard",
+            "description": "Gtechniq L1 Leather Guard is a leather protection product designed to enhance and maintain the appearance of leather surfaces in vehicles. It offers a durable barrier against dirt and stains while preserving the natural feel of the leather.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "7441cb5c-c615-4cd6-8d99-4658f82913da",
+            "image": null,
+            "name": "MG F",
+            "description": "The MG F is a mid-engine two-seater sports car that was produced by MG Motors, designed for enthusiasts seeking a blend of performance and style in a compact package.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "05c2dc73-7527-4d69-a4ad-36660421f8a6",
+            "image": null,
+            "name": "Aston Martin DB12",
+            "description": "The Aston Martin DB12 is a luxury sports car launched in 2023, combining high performance with elegant design and advanced technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        }
+    ]
+}

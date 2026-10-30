@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "666371a9-8d23-444d-afdf-a7d11c40f56a",
+            "image": null,
+            "name": "Echo (4th Gen)",
+            "description": "The Amazon Echo (4th Gen) is a smart speaker that features Alexa voice control, allowing users to play music, control smart home devices, and access a wide range of information and services through voice commands.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "b7cae612-7eec-4262-ad6f-60df96a2b158",
+            "image": null,
+            "name": "Schmincke Mussini Oil Colors",
+            "description": "Schmincke Mussini Oil Colors are high-quality oil paints made with the finest materials, designed for professional artists seeking excellent lightfastness and rich pigmentation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "753cad7f-9bdf-4dd8-993a-e5c7e27220a0",
+            "image": null,
+            "name": "Arai RX-7",
+            "description": "The Arai RX-7 series is a premium motorcycle helmet designed for high-performance riding, offering superior protection, exceptional comfort, and advanced aerodynamics.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "7c1294b5-117b-498c-baeb-e8e246c868ef",
+            "image": null,
+            "name": "ScorpionExo-700",
+            "description": "The ScorpionExo-700 is a motorcycle helmet designed for comfort and protection, featuring advanced safety technologies and ventilation systems.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "ScorpionExo"
+            }
+        },
+        {
+            "id": "8792bdba-f106-4e61-9859-4209434a664f",
+            "image": null,
+            "name": "Shoei Multitec",
+            "description": "The Shoei Multitec is a modular motorcycle helmet designed for versatility and comfort. It features a dual-pivot system allowing for easy flipping of the front, providing a balance of protection and convenience for riders.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "8dfc12e4-46af-41a8-ac85-556552478de7",
+            "image": null,
+            "name": "JVC Marshmallow",
+            "description": "The JVC Marshmallow series consists of comfortable in-ear headphones designed for casual listening, featuring a lightweight design and a variety of ear tip sizes for a personalized fit.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "95ffbe82-9751-41ca-93c6-fd9e33868cb2",
+            "image": null,
+            "name": "JVC KW-V830BT",
+            "description": "The JVC KW-V830BT is a car audio receiver designed to provide enhanced multimedia playback and connectivity. It features Bluetooth compatibility, a touchscreen interface, and supports various audio formats for an improved driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "9816e42b-8114-4515-8f31-8995020a1fca",
+            "image": null,
+            "name": "Arai Defiant",
+            "description": "The Arai Defiant is a premium motorcycle helmet designed for street riding, offering superior safety, ventilation, and comfort with a focus on the rider's needs.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "a901da38-34a1-4e4c-9938-078b96439f50",
+            "image": null,
+            "name": "JVC GY-HDV Series",
+            "description": "The JVC GY-HDV Series is a line of professional camcorders aimed at television production and video journalism, featuring high-definition recording capabilities.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "b29546d5-a4ba-49f7-9c16-6a3a52f8831e",
+            "image": null,
+            "name": "JVC Everio GZ-E300",
+            "description": "The JVC Everio GZ-E300 is a compact camcorder designed for casual users, enabling easy video recording with a focus on portability and simplicity.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "bad0e5b6-9b92-4287-83ce-98cfbb181246",
+            "image": null,
+            "name": "JVC Everio GZ-HD300",
+            "description": "The JVC Everio GZ-HD300 is a high-definition camcorder designed for capturing video in 1080p resolution. It features a built-in hard disk drive for storage and offers versatility in recording and playback options.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "d80ad9ea-e9f5-46f4-afa3-c8b9c9188fe2",
+            "image": null,
+            "name": "Arai Astral",
+            "description": "The Arai Astral series is designed specifically for motorcyclists, providing a high level of safety and comfort. It features a lightweight construction and advanced ventilation systems to enhance the riding experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "1921188b-1ab8-417a-9ce8-dde60d234e93",
+            "image": null,
+            "name": "Shoei X-Twelv",
+            "description": "The Shoei X-Twelv is a high-performance motorcycle helmet designed for both comfort and safety, featuring advanced aerodynamics and high-quality materials for riders seeking optimal protection on the road.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "2e51aade-9151-4247-bbee-67a8b040abc3",
+            "image": null,
+            "name": "JVC KD Series",
+            "description": "The JVC KD Series is a line of car audio systems released in 2001, designed to provide enhanced sound quality and user-friendly features for in-vehicle entertainment.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "32aea051-318e-4f2b-b21c-6e02f0ff1cc1",
+            "image": null,
+            "name": "Arai SZ-Ram",
+            "description": "The Arai SZ-Ram is a motorcycle helmet designed to provide high levels of comfort and safety for riders. It features a lightweight construction, improved ventilation, and a protective shell for enhanced performance on the road.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "3b774b77-4807-43ca-aa01-764ad7a6ad6b",
+            "image": null,
+            "name": "X-Spirit III",
+            "description": "The Shoei X-Spirit III is a premium full-face motorcycle helmet designed for racing and high-performance riding, offering exceptional aerodynamics, ventilation, and comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "41c9a675-cdbf-4813-a7c1-66d409a90578",
+            "image": null,
+            "name": "Revit Fall/Winter 2008 Collection",
+            "description": "The Revit Fall/Winter 2008 Collection is designed for motorcyclists, emphasizing safety, style, and functionality for riding in colder weather conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Revit"
+            }
+        },
+        {
+            "id": "435f8159-2b53-4c65-aaee-fffd93d28852",
+            "image": null,
+            "name": "Neotec",
+            "description": "The Shoei Neotec series is a line of modular helmets designed for motorcycle riders, featuring a versatile flip-up chin bar and advanced ventilation systems for comfort and safety on the road.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "43f218d3-6c3c-4ad3-b9dc-31b2f6d53239",
+            "image": null,
+            "name": "JVC KD-R800BT",
+            "description": "The JVC KD-R800BT is a car audio receiver designed to provide high-quality audio playback and hands-free Bluetooth connectivity for an enhanced in-vehicle entertainment experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "447a9c54-b0f7-48e6-813d-add3995804f7",
+            "image": null,
+            "name": "PICSIO",
+            "description": "The JVC PICSIO series consists of compact digital cameras designed for capturing HD video and still images, emphasizing simplicity and portability for everyday users.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "525d4410-58a4-4162-9958-6d1fff2d21a8",
+            "image": null,
+            "name": "Shoei Raid-II",
+            "description": "The Shoei Raid-II is a full-face motorcycle helmet designed for comfort and performance, featuring advanced aerodynamics and a lightweight construction for optimal riding experiences.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "5633f37a-55a2-4ed7-adee-e2ab1d78609f",
+            "image": null,
+            "name": "Gumy",
+            "description": "The JVC Gumy series includes lightweight in-ear headphones designed for casual listening with a focus on comfort and vibrant sound quality.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "da2bcf6e-3a61-4245-a648-f13012c2edd0",
+            "image": null,
+            "name": "Focal Alpha 50",
+            "description": "The Focal Alpha 50 is a professional studio monitor speaker designed for accurate sound reproduction in various audio environments, making it suitable for music production and mixing.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "db635be3-3752-4d37-9e35-d2f0656c2d1f",
+            "image": null,
+            "name": "Focal 165",
+            "description": "The Focal 165 series is designed for car audio enthusiasts seeking high-quality sound reproduction, featuring advanced speaker technology for enhanced clarity and performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "64f7277c-bd0d-489b-9dad-2308484bb695",
+            "image": null,
+            "name": "MAX685BT",
+            "description": "The Clarion MAX685BT is a car audio receiver released in 2011, designed to enhance in-vehicle entertainment with features including Bluetooth connectivity for hands-free calling and audio streaming.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "e201add0-236c-4941-a809-ae2b27f3aa8e",
+            "image": null,
+            "name": "Focal Utopia Series",
+            "description": "The Focal Utopia Series is a premium line of headphones known for their exceptional audio fidelity and luxurious design, aimed at audiophiles seeking unparalleled sound quality.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "77b4922f-c4bb-4f77-aaa0-e60631b13bc9",
+            "image": null,
+            "name": "Focal Kanta 3",
+            "description": "The Focal Kanta 3 is a high-fidelity speaker series designed to deliver exceptional sound quality with a blend of performance and aesthetic appeal, making it suitable for both music enthusiasts and home theater applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "fb3b757d-99d9-410f-9d2f-0e0e5c6345c9",
+            "image": null,
+            "name": "Focal Electra Series",
+            "description": "The Focal Electra Series, launched in 2008, is a collection of high-fidelity loudspeakers designed to deliver exceptional audio performance with precision and clarity, making it suitable for both home and professional use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "78e2d308-24b0-4ccf-b427-afdb70f90334",
+            "image": null,
+            "name": "Focal Professional",
+            "description": "The Focal Professional series offers high-quality studio monitors designed for precise sound reproduction and analytical listening in professional audio environments.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "8a6ef969-ecb5-4210-842b-6d59494f441e",
+            "image": null,
+            "name": "Infinity REF Series",
+            "description": "The Infinity REF Series consists of high-performance car audio speakers designed to deliver clear and powerful sound, making them suitable for audiophiles and casual listeners alike.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Infinity"
+            }
+        }
+    ]
+}

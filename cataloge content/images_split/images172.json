@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "06ca750c-729b-4d16-b636-ddd79022253b",
+            "image": null,
+            "name": "Chrysler Aspen",
+            "description": "The Chrysler Aspen is a full-size SUV that was introduced in 2006, designed to provide a spacious interior and a combination of luxury and utility for family and everyday use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "06d569b5-faa5-43c0-9eb3-aef3bcbf45f9",
+            "image": null,
+            "name": "Porsche Macan (Facelift)",
+            "description": "The Porsche Macan (Facelift) is a luxury compact SUV that blends performance, comfort, and versatility, offering a dynamic driving experience in a stylish and practical package.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0fee35af-052e-4410-86aa-cee324706ede",
+            "image": null,
+            "name": "ScorpionExo-1100",
+            "description": "The ScorpionExo-1100 is a full-face motorcycle helmet designed for comfort and safety, featuring advanced aerodynamics and a lightweight construction for enhanced riding experiences.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "ScorpionExo"
+            }
+        },
+        {
+            "id": "88b8c4b4-18c1-432d-bb98-82371c7bb972",
+            "image": null,
+            "name": "Kipling Art M",
+            "description": "The Kipling Art M series features versatile shoulder bags designed for everyday use, combining functionality with a lightweight and stylish design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kipling"
+            }
+        },
+        {
+            "id": "b83a0906-214e-4a30-8ee3-814614cf5228",
+            "image": null,
+            "name": "Aero Color Professional",
+            "description": "Schmincke Aero Color Professional is a series of high-quality acrylic paints designed for airbrush use, offering superb flow, excellent lightfastness, and vibrant colors suitable for artists and professionals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "e2e32f93-3d53-4087-8c17-e724b72f70c7",
+            "image": null,
+            "name": "Blick Studio Acrylics",
+            "description": "Blick Studio Acrylics are high-quality, student-grade acrylic paints designed for artists of all levels. They offer vibrant colors, excellent coverage, and a smooth consistency for various painting techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "9c11fe37-eb2a-44e8-ae0d-ba991afcc4e1",
+            "image": null,
+            "name": "Korg Volca Series",
+            "description": "The Korg Volca Series is a collection of compact, portable music production devices that offer a range of analog and digital synthesis, sampling, and rhythm functionality, catering to musicians and sound designers of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "661ceb9c-f517-474a-9dd1-9e52e3a4d67a",
+            "image": null,
+            "name": "Korg Arp Odyssey",
+            "description": "The Korg Arp Odyssey is a monophonic analog synthesizer that replicates the timeless sound and design of the original ARP Odyssey from the 1970s, featuring enhanced functionality and portability for both live performances and studio use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "aa130381-ba8a-42bb-9d29-30a7d447e1a1",
+            "image": null,
+            "name": "Korg Minilogue XD",
+            "description": "The Korg Minilogue XD is a versatile analog synthesizer equipped with digital effects and a powerful sequencer, designed for musicians and sound designers seeking rich, expressive sounds in a compact form factor.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "e8a94a02-1c96-4a3a-aea6-21354ebeffe9",
+            "image": null,
+            "name": "Korg NTS-1",
+            "description": "The Korg NTS-1 is a compact digital synthesizer designed for musical creativity and experimentation, offering a range of sounds and effects in a portable format.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "1c85d39b-6f5d-4225-9504-5878e49993dd",
+            "image": null,
+            "name": "Korg volca modular",
+            "description": "The Korg volca modular is a compact, semi-modular synthesizer that provides users with a hands-on approach to sound creation and manipulation, featuring various modules for unique sonic possibilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "d3c7f73d-07b5-4324-883e-0bcb7ca58a11",
+            "image": null,
+            "name": "Korg Modwave",
+            "description": "The Korg Modwave is a synthesizer series that combines advanced wave manipulation with powerful modulation capabilities, allowing musicians to create complex soundscapes and textures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "f40e4eff-8d7f-43c9-8559-46a123d2695b",
+            "image": null,
+            "name": "prologue",
+            "description": "The Korg prologue series consists of high-quality analog synthesizers designed for both performance and studio use, featuring a versatile sound engine and user-friendly interface.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "b24dee2f-7c7f-4b23-8184-05832ba394b3",
+            "image": null,
+            "name": "minilogue xd",
+            "description": "The Korg minilogue xd is a polyphonic analog synthesizer designed for musicians and sound designers, featuring a versatile sound engine, extensive modulation capabilities, and an intuitive interface for easy sound creation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "5fffe483-4922-4eed-a152-68dd329000cb",
+            "image": null,
+            "name": "Suzuki SX4 S-Cross",
+            "description": "The Suzuki SX4 S-Cross is a versatile compact SUV designed for both urban and off-road driving. It combines practicality with a spacious interior and advanced safety features, making it suitable for families and adventurers alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "6911bafd-563b-4f7e-bb0d-820cf5846492",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 4",
+            "description": "The Nokian Hakkapeliitta 4 is a studded winter tire designed for enhanced traction and control on icy and snowy roads, making it ideal for extreme winter conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "4fbcbcf4-1f8c-490e-9ac4-993fe587ddce",
+            "image": null,
+            "name": "Nokian WR SUV",
+            "description": "The Nokian WR SUV is a versatile all-weather tire designed specifically for SUVs and crossovers, providing reliable performance in various weather conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "f790858f-8944-4bf1-80ac-ccdfd7f755e0",
+            "image": null,
+            "name": "Nokian Hakka 7",
+            "description": "The Nokian Hakka 7 is a studded tire designed specifically for winter conditions, providing excellent traction on icy and snowy surfaces.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "fb0aca1b-5ee5-47a5-965a-0901e78b43d2",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 7",
+            "description": "The Nokian Hakkapeliitta 7 is a winter tire series designed for superior grip and safety in severe winter conditions, making it ideal for both passenger vehicles and SUVs.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "db42f138-2962-4db1-8381-6c0e054d5a30",
+            "image": null,
+            "name": "Nokian Hakka Blue",
+            "description": "The Nokian Hakka Blue is a tire series designed for high-performance handling in wet conditions, providing excellent grip and safety features for passenger vehicles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "ca074647-4489-4870-ae94-4df93fee8b0c",
+            "image": null,
+            "name": "Hakka Blue",
+            "description": "The Nokian Hakka Blue is a premium summer tire designed for superior wet grip and handling, providing enhanced safety and comfort on both dry and wet road conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "86dad3a4-056f-418f-b8c9-b674190b3e79",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 8",
+            "description": "The Nokian Hakkapeliitta 8 is a premium winter tire designed for maximum grip and safety in extreme winter conditions, featuring advanced stud technology and a unique tread design.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "3181cfb6-b602-4619-89a7-65e794854bb4",
+            "image": null,
+            "name": "Nokian WR SUV 3",
+            "description": "The Nokian WR SUV 3 is an all-season tire designed specifically for SUVs, offering excellent grip on both wet and dry surfaces, along with enhanced comfort and stability in various driving conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "7a75bb36-1c4c-4949-95ff-fc228937d2c1",
+            "image": null,
+            "name": "Nokian WR G3",
+            "description": "The Nokian WR G3 is a premium all-weather tire designed for enhanced safety and performance in varying weather conditions, including wet and snowy surfaces, while providing low rolling resistance for improved fuel efficiency.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "076cdc8a-e4f7-4741-9d93-f8f7917ad791",
+            "image": null,
+            "name": "Renault Kangoo (2nd generation)",
+            "description": "The Renault Kangoo (2nd generation) is a versatile compact van designed primarily for commercial use, offering practicality and spaciousness for both cargo and passenger transport. Released in 2011, it is known for its efficient design and adaptability to various business needs.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "ef828090-150a-4e6b-9701-00e38bd7c382",
+            "image": null,
+            "name": "Benelli BN 600i",
+            "description": "The Benelli BN 600i is a mid-range motorcycle designed for urban commuting and sport riding, featuring a 600cc engine and a modern aesthetic.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "2ea2ad6b-89fe-401d-a6b7-34270ce9c149",
+            "image": null,
+            "name": "Aquarell Watercolor Half Pans",
+            "description": "Schmincke Aquarell Watercolor Half Pans are high-quality, artist-grade watercolors known for their excellent lightfastness, vivid colors, and smooth application, suitable for both professional artists and hobbyists.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "55d21a6f-e087-44f5-9c79-2f39cb212085",
+            "image": null,
+            "name": "Maytag® Smart Capable Front Load Washer",
+            "description": "The Maytag® Smart Capable Front Load Washer is designed to provide efficient cleaning with advanced features and smart capabilities, ensuring thorough care for a variety of fabric types while optimizing water and energy usage.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "6827ef4f-ee44-40ce-8f1e-17dddc8a9709",
+            "image": null,
+            "name": "Hero MotoCorp Glamour",
+            "description": "The Hero MotoCorp Glamour is a well-engineered motorcycle designed for daily commuting with a balance of performance and fuel efficiency, making it a popular choice among urban riders.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "6c355ad5-aae7-4daa-8eab-c40392c7e702",
+            "image": null,
+            "name": "Seagate FireCuda 120 SSD",
+            "description": "The Seagate FireCuda 120 SSD is a solid-state drive designed to deliver high-speed storage performance for gamers and creative professionals, enhancing system responsiveness and load times.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        }
+    ]
+}

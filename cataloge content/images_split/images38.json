@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "6a4b2b1a-89f1-4ca6-b1ac-a996362f5fc1",
+            "image": null,
+            "name": "Sharp 8-Series Refrigerators",
+            "description": "The Sharp 8-Series Refrigerators are designed to provide efficient cooling and convenient storage solutions for a variety of food items, featuring modern technology to enhance food preservation and energy efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "fd2835bc-74be-4e78-9032-d28be406fbd9",
+            "image": null,
+            "name": "Sharp Plasmacluster Air Purifiers",
+            "description": "The Sharp Plasmacluster Air Purifiers utilize advanced technology to purify indoor air by emitting positive and negative ions, effectively reducing airborne pollutants such as dust, allergens, and odors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "7390fe0c-20a5-413a-8206-6512733594b2",
+            "image": null,
+            "name": "Acer Predator Helios 300",
+            "description": "The Acer Predator Helios 300 is a gaming laptop series designed for gamers seeking high performance, affordability, and advanced cooling technologies. It features powerful hardware to handle demanding games while offering a visually immersive experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "8d45288c-9271-4c2f-bf9e-c366e0711d92",
+            "image": null,
+            "name": "VivoBook",
+            "description": "The Asus VivoBook series of laptops is designed for everyday computing with a focus on portability and performance. It features a range of models suitable for students and professionals looking for a balance of functionality and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "94c11428-38c7-49ec-a88e-71b5c4aed05a",
+            "image": null,
+            "name": "Predator Helios 300",
+            "description": "The Acer Predator Helios 300 series is a line of gaming laptops designed to deliver high performance and immersive graphics, making it suitable for gaming and demanding applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "95110408-cb70-4f11-ab85-3c6f96bbb39b",
+            "image": null,
+            "name": "Dodo Juice Blue Velvet Pro",
+            "description": "Dodo Juice Blue Velvet Pro is a high-quality car wax designed to provide a deep, glossy finish while offering protection against environmental contaminants. Released in 2014, this product is known for its ease of application and long-lasting durability.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "a74417ee-7cb0-4456-b4ef-b8cb2ad121b8",
+            "image": null,
+            "name": "Toshiba RC Series Refrigerators",
+            "description": "The Toshiba RC Series Refrigerators are designed for efficient cooling and ample storage space, making them suitable for a variety of household needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "b384fa20-0633-4864-b469-1132b05a101d",
+            "image": null,
+            "name": "ROG Strix G15",
+            "description": "The Asus ROG Strix G15 is a gaming laptop series designed for gamers seeking high performance and immersive gaming experiences. It combines robust hardware with a sleek design to deliver optimal gameplay.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "b736f08d-5621-4845-b1a0-a0e3864cb32a",
+            "image": null,
+            "name": "ZenFone 9",
+            "description": "The Asus ZenFone 9 is a compact smartphone designed for performance and usability, featuring a sleek design and powerful specifications to cater to daily communication and multimedia needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "26847d43-035f-4a41-bf78-4e051b9a3155",
+            "image": null,
+            "name": "Acer Aspire 5",
+            "description": "The Acer Aspire 5 series is a line of laptops designed for everyday computing tasks, offering a balance of performance and portability for students and professionals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "2db3e976-6ee4-4f35-9a5e-46e9a11dd09d",
+            "image": null,
+            "name": "Sharp AQUOS 4K Smart TVs",
+            "description": "The Sharp AQUOS 4K Smart TVs are a series of televisions that deliver high-resolution 4K content with smart technology features, allowing users to access streaming services, browse the web, and enjoy a wide variety of entertainment options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "318c3cb6-7f36-406d-be1e-04b80dc56de7",
+            "image": null,
+            "name": "Sharp AQUOS S2",
+            "description": "The Sharp AQUOS S2 is a smartphone released in 2017, known for its bezel-less design and high-resolution display, aimed at providing an immersive user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "3657170d-1389-437d-9918-b37fb74db452",
+            "image": null,
+            "name": "Sharp R-21LVF Microwave",
+            "description": "The Sharp R-21LVF Microwave is a commercial-grade microwave designed for efficient heating and cooking in professional settings. It features a durable construction and an intuitive interface suitable for high-demand environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "492eeef2-1331-469f-a5c1-ab548db45288",
+            "image": null,
+            "name": "Acer ConceptD 7",
+            "description": "The Acer ConceptD 7 series of laptops is designed specifically for creative professionals, offering high-performance specifications and color-accurate displays to support graphic design, video editing, and other intensive tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "4a22742b-32de-466a-8e8d-5a4751deaff3",
+            "image": null,
+            "name": "Acer Swift 5",
+            "description": "The Acer Swift 5 series is a line of lightweight and portable laptops designed for everyday use, featuring a slim profile and decent performance for productivity tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "4c61533f-4e89-4bf0-8705-493930eaa57e",
+            "image": null,
+            "name": "Toshiba Canvio Advance",
+            "description": "The Toshiba Canvio Advance series is a line of portable external hard drives designed for data storage and backup. They offer a compact design and come with various storage capacities, making them suitable for both personal and professional use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "bd0f0aba-c548-4893-a112-dc76c1ece0ac",
+            "image": null,
+            "name": "Toshiba 4K Ultra HD TVs",
+            "description": "The Toshiba 4K Ultra HD TVs series offers high-resolution displays designed for an immersive viewing experience, featuring enhanced clarity and detail for movies, sports, and games.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "bd20d521-6c4b-43f0-8d6d-21732d3cfe6c",
+            "image": null,
+            "name": "Toshiba Canvio Basics",
+            "description": "The Toshiba Canvio Basics is an external hard drive series designed for portable data storage, offering a simple and reliable solution for backup and file transfer across various devices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "63339740-bb55-41ce-964b-4fb84ecab435",
+            "image": null,
+            "name": "Nuna MYTI",
+            "description": "The Nuna MYTI is a versatile baby seat designed for extended use, transitioning from a rear-facing to a forward-facing car seat and later converting into a booster seat, ensuring safety and comfort throughout your child's growth.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe089f13-c2a7-4a58-a3a8-e4657d866fef",
+            "image": null,
+            "name": "Miele T1 Tumble Dryers",
+            "description": "The Miele T1 Tumble Dryers are designed for efficient and gentle drying of your laundry, featuring advanced technology and a range of intelligent drying programs to suit various fabric types.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "64ab7ac7-2262-400d-bd49-36c3db61bfe7",
+            "image": null,
+            "name": "Ninja 300",
+            "description": "The Kawasaki Ninja 300 is a sport motorcycle that combines a lightweight frame with a powerful engine, designed for both new and experienced riders seeking performance and agility.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "ce5c1e84-4efc-409c-86da-584ab6de8ad3",
+            "image": null,
+            "name": "Dueler A/T002",
+            "description": "The Bridgestone Dueler A/T002 is an all-terrain tire designed for light trucks and SUVs, offering a blend of on-road comfort and off-road capability with enhanced durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "66ff4d3f-0bcc-4c38-b378-d34e13d545c8",
+            "image": null,
+            "name": "KTM 390 ADVENTURE",
+            "description": "The KTM 390 ADVENTURE is a versatile motorcycle designed for both on-road and off-road riding, featuring a lightweight chassis and powerful engine suitable for adventure enthusiasts.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "712c34cf-7516-4257-9eb2-c2be307d5a5c",
+            "image": null,
+            "name": "Street Triple Rx",
+            "description": "The Triumph Street Triple Rx is a naked motorcycle designed for performance and agility, featuring a lightweight chassis, nimble handling, and a 675cc three-cylinder engine, making it ideal for both everyday riding and spirited performance on twisty roads.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "832974fc-a8e9-48a7-b8f2-ced52b10a569",
+            "image": null,
+            "name": "Gucci GG Marmont Bags",
+            "description": "The Gucci GG Marmont Bags are a collection of luxury handbags known for their soft, quilted leather and distinctive GG logo, blending timeless elegance with modern functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "83c33202-5f89-4471-bbd3-b466e4925138",
+            "image": null,
+            "name": "Rocket III Touring",
+            "description": "The Triumph Rocket III Touring is a heavyweight touring motorcycle known for its powerful 2,294cc engine, comfortable seating for long-distance rides, and advanced technology features designed for an enjoyable travel experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "91a92c97-601c-4f63-a6ae-a6df5551c225",
+            "image": null,
+            "name": "Bimota DB8",
+            "description": "The Bimota DB8 is a high-performance motorcycle known for its lightweight design and advanced engineering, aiming to deliver an exhilarating riding experience on both the street and track.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "95430939-d2ab-4b74-b7ba-2a38f47165e0",
+            "image": null,
+            "name": "Toshiba XG6",
+            "description": "The Toshiba XG6 series consists of high-performance NVMe SSDs designed for use in laptops and desktops, offering fast data transfer speeds and reliability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "164f1418-d899-4e58-9a42-cf4d9e0be75b",
+            "image": null,
+            "name": "Gucci Ace",
+            "description": "The Gucci Ace is a line of luxury sneakers known for its contemporary design and comfortable fit, combining classic elements with modern aesthetics.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1fea6f28-889d-400e-a897-13ec5cb42c31",
+            "image": null,
+            "name": "Sharp Aquos R2",
+            "description": "The Sharp Aquos R2 series consists of smartphones designed to deliver high performance with advanced display technology and a focus on multimedia capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "2d7c4d3a-0891-4ae1-93d4-514ee9a3cdc2",
+            "image": null,
+            "name": "Mungyo Gallery Soft Pastels",
+            "description": "Mungyo Gallery Soft Pastels are high-quality art supplies designed for artists and enthusiasts, offering a smooth application and vibrant colors for creating detailed artwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "bc67c44f-503a-41a3-ac9f-ad33c9bc799b",
+            "image": null,
+            "name": "Playmobil Historical",
+            "description": "The Playmobil Historical series features various themed playsets that allow children to explore different historical eras through imaginative play, promoting creativity and educational learning.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "6c8a1f91-d4a3-44c3-9245-828da589cacb",
+            "image": null,
+            "name": "Playmobil Pirate",
+            "description": "Playmobil Pirate is a toy series designed to inspire imaginative play through pirate-themed figures, ships, and accessories, fostering creativity and storytelling in children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "8cdb5bbc-cc26-4142-a433-4eda875e90b3",
+            "image": null,
+            "name": "Playmobil Wild Life",
+            "description": "Playmobil Wild Life is a toy series that allows children to explore the animal kingdom through imaginative play and creative storytelling. It features various animal figures and themed sets designed to educate and entertain young minds about wildlife.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "86daabf4-1954-481c-b6f8-f96b53d4cb52",
+            "image": null,
+            "name": "Playmobil Back to the Future",
+            "description": "The Playmobil Back to the Future series includes collectible playsets that allow fans of the iconic film franchise to recreate scenes and adventures using detailed figures and vehicles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "498d63c5-74fc-417b-b139-3234802a2d89",
+            "image": null,
+            "name": "Playmobil Country",
+            "description": "Playmobil Country is a toy series designed to inspire imaginative play, featuring various rural themes and characters that reflect country life.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "c1af1bc8-7c53-4642-ac39-fd53c5475042",
+            "image": null,
+            "name": "Playmobil Ghostbuster",
+            "description": "The Playmobil Ghostbuster series features themed toys inspired by the iconic Ghostbusters franchise, allowing children to engage in imaginative play as they capture ghosts and tackle spooky scenarios.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "d2517e16-4457-4a4b-8b4c-1be8d1fee167",
+            "image": null,
+            "name": "Playmobil Space",
+            "description": "Playmobil Space is a toy series that invites children to explore their imagination through themed playsets featuring space exploration, spacecraft, and extraterrestrial adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "d123331a-de53-4c53-b072-16583dec7871",
+            "image": null,
+            "name": "Raffine",
+            "description": "Daler Rowney Raffine is a series of art supplies designed for both amateur and professional artists, featuring high-quality materials that deliver excellent color performance and versatility in various artistic applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "b87d1b39-bf10-47d4-bd0f-99cc718d5992",
+            "image": null,
+            "name": "Georgian Oil Colors",
+            "description": "Daler Rowney Georgian Oil Colors is a premium quality range of oil paints that are known for their smooth application and vibrant colors, making them suitable for artists of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "d4b89ed4-1661-4223-b1f8-910db94d834c",
+            "image": null,
+            "name": "Oil Bars",
+            "description": "Daler Rowney Oil Bars are versatile art supplies designed for artists who want to combine the qualities of oil paints with the convenience of a stick form, allowing for rich, vibrant colors and expressive techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "be8bd5b2-34b1-4aea-8da1-d26e2ff652ea",
+            "image": null,
+            "name": "Instant Pot Duo Crisp + Air Fryer",
+            "description": "The Instant Pot Duo Crisp + Air Fryer is a versatile kitchen appliance that combines the functions of a pressure cooker and an air fryer, allowing for fast cooking and healthy frying options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Instant Pot"
+            }
+        },
+        {
+            "id": "78485ed5-4b4b-42cb-8736-be5825437e2f",
+            "image": null,
+            "name": "Korg Prologue",
+            "description": "The Korg Prologue series features powerful polyphonic synthesizers designed for professional musicians, offering analog sound synthesis combined with advanced digital technology and extensive sound-shaping capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "b9de829c-bfce-413a-8f1f-b5f2f271f8a2",
+            "image": null,
+            "name": "Suzuki Baleno",
+            "description": "The Suzuki Baleno is a compact hatchback designed for urban commuting, offering a blend of efficiency, practicality, and modern styling.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "2e1f99b5-553f-447c-913f-e75248f98aba",
+            "image": null,
+            "name": "Sparco Chrono",
+            "description": "The Sparco Chrono series is designed for motorsport enthusiasts, focusing on racing seats that provide optimal support and safety for drivers during high-performance driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Sparco"
+            }
+        },
+        {
+            "id": "cf64c25c-2653-4d63-872a-b386a1b28711",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 2",
+            "description": "The Nokian Hakkapeliitta 2 is a studded winter tire designed for excellent grip on icy and snowy roads, ensuring safety and stability in harsh winter conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "6d1bb796-75e4-4653-8d23-70af2e10fcc8",
+            "image": null,
+            "name": "Nokian WR",
+            "description": "The Nokian WR series is a line of premium all-weather tires designed for versatility and safety in changing weather conditions, providing reliable performance on both dry and wet surfaces since 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "06123acc-874a-42a4-8fcf-111517d8f67c",
+            "image": null,
+            "name": "Razer Kaira Pro for Xbox",
+            "description": "The Razer Kaira Pro for Xbox is a wireless gaming headset designed to provide immersive audio and extended comfort for gamers on Xbox consoles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "063acbff-2385-47ec-acca-f2e19ba095b5",
+            "image": null,
+            "name": "Vredestein Quatrac",
+            "description": "The Vredestein Quatrac series is designed for all-season performance, providing reliable traction and comfort on both wet and dry roads. It is known for its innovative tread patterns that enhance grip and handling throughout the year.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "d13e7f57-6402-461c-b1f1-6f7439725eb3",
+            "image": null,
+            "name": "Van Gogh Acrylic Paints",
+            "description": "Van Gogh Acrylic Paints are high-quality, versatile art supplies designed for both beginner and professional artists. They provide excellent coverage, vibrant colors, and are fast-drying, making them suitable for various techniques and surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "d3306f6a-b041-4ffa-8e75-630648ae1e1a",
+            "image": null,
+            "name": "Van Gogh Oil Colors",
+            "description": "The Van Gogh Oil Colors series offers a wide range of high-quality oil paints known for their vibrant colors and excellent lightfastness, making them suitable for artists of all levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "25b5f765-1b7b-4c94-9ef4-7e90043f3539",
+            "image": null,
+            "name": "Van Gogh Acrylics",
+            "description": "Van Gogh Acrylics is a high-quality range of water-based acrylic paints designed for artists of all levels, known for their vibrant colors and excellent lightfastness.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "f589bccc-637e-4801-a9d4-a3fdf28ded41",
+            "image": null,
+            "name": "Van Gogh Watercolor Paints",
+            "description": "Van Gogh Watercolor Paints are high-quality watercolors designed for artists of all levels, featuring a vibrant color palette and excellent lightfastness for lasting results.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "27fac6a4-b2a7-4e2c-a254-8e86753473b9",
+            "image": null,
+            "name": "Van Gogh Watercolour",
+            "description": "Van Gogh Watercolour series offers a range of high-quality watercolour paints, known for their vibrant colors and excellent lightfastness, making them ideal for both professional and amateur artists.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "ce22f2e4-5e0a-4ca5-bf8b-dd7a5789c82d",
+            "image": null,
+            "name": "Van Gogh Oil Pastels",
+            "description": "Van Gogh Oil Pastels are high-quality art supplies designed for artists of all levels, offering smooth application and vibrant colors that blend easily to create stunning artwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "0d86d325-76fd-448c-814e-f8de45946fe0",
+            "image": null,
+            "name": "Van Gogh Acrylic Colors",
+            "description": "Van Gogh Acrylic Colors are a series of high-quality, vibrant acrylic paints designed for artists and hobbyists alike, offering excellent pigmentation and versatility for various painting techniques.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "ea23aa45-c4fd-431a-a109-bef05aaa7e6b",
+            "image": null,
+            "name": "Sakura Pigma Micron",
+            "description": "The Sakura Pigma Micron series offers high-quality archival ink pens, known for their precision and consistency, making them ideal for artists, illustrators, and crafters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sakura"
+            }
+        },
+        {
+            "id": "168f00cd-bfaf-4f2e-9c6f-b167f2a0fa6f",
+            "image": null,
+            "name": "Mungyo Extra Fine Soft Pastels",
+            "description": "Mungyo Extra Fine Soft Pastels are high-quality art supplies designed for artists seeking vibrant colors and smooth texture for various surfaces, including paper and canvas.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "08a5282e-777b-4146-98fe-f4273a2ef962",
+            "image": null,
+            "name": "Mungyo Opaque Watercolor",
+            "description": "Mungyo Opaque Watercolor is a series of high-quality, versatile watercolor paints designed for artists seeking vibrant colors and excellent coverage. These watercolors can be used on a variety of surfaces, offering both an opaque finish and easy blending capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "eb8f73ee-2202-46fd-972b-102ac5c43394",
+            "image": null,
+            "name": "Mungyo Professional Soft Pastel",
+            "description": "Mungyo Professional Soft Pastels are high-quality art supplies designed for artists seeking vibrant colors and ease of application. Known for their smooth texture and blendability, these pastels are suitable for various surfaces and techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        }
+    ]
+}

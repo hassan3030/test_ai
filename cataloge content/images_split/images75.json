@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "d546c198-b733-45cd-95ea-2db9900dd28b",
+            "image": null,
+            "name": "iPhone 13 Pro Max",
+            "description": "The iPhone 13 Pro Max is a high-end smartphone from Apple, known for its advanced camera system, powerful A15 Bionic chip, and ProMotion technology for smoother display performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "e25f1a66-c2fb-4024-9982-af6c79c61e15",
+            "image": null,
+            "name": "Sauder Edge Water Collection",
+            "description": "The Sauder Edge Water Collection features a variety of functional tables designed to blend style with practicality, making it suitable for various living spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Sauder"
+            }
+        },
+        {
+            "id": "e5083691-e217-40bc-89f4-82b649de73db",
+            "image": null,
+            "name": "Opel Astra (new generation)",
+            "description": "The Opel Astra (new generation) is a compact car designed for efficient performance and comfort, offering various engine options and modern technology features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "79c34502-f794-4d40-9970-8016c3ae11d2",
+            "image": null,
+            "name": "K&N 69 Series Typhoon Air Intake Systems",
+            "description": "The K&N 69 Series Typhoon Air Intake Systems are designed to improve engine performance by increasing airflow, resulting in enhanced horsepower and torque. These air intake systems feature high-flow air filters and a custom intake tube, making them a popular choice for automotive enthusiasts.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "7f3a6ef9-28a1-4e1f-84e0-0c37a3895586",
+            "image": null,
+            "name": "BMW M240i xDrive",
+            "description": "The BMW M240i xDrive is a compact luxury coupe that combines sporty performance with all-wheel drive capabilities, aimed at driving enthusiasts seeking both agility and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "e6fbbe14-99ab-4c70-b14e-2e8e0bb3de83",
+            "image": null,
+            "name": "Volkswagen Tiguan",
+            "description": "The Volkswagen Tiguan is a compact SUV designed to offer a combination of practicality, comfort, and off-road capability, catering to families and adventure seekers alike since its release in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "8e1e8d47-214b-436b-bcbb-cd4fc4efee60",
+            "image": null,
+            "name": "Hero Glamour FI",
+            "description": "The Hero Glamour FI is a motorcycle designed for everyday commuting with a focus on fuel efficiency and reliable performance. It features a modern design and is equipped with Fuel Injection technology for improved engine efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "a771b12c-aae1-4038-83ce-4ea7f0e5293f",
+            "image": null,
+            "name": "K&N 63 Series AirCharger Air Intake System",
+            "description": "The K&N 63 Series AirCharger Air Intake System is designed to improve engine performance by increasing airflow. It features an oversized air filter that enhances horsepower and acceleration while providing superior filtration.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "aa48ba30-08f8-4d1a-9640-e8c93140f56b",
+            "image": null,
+            "name": "Ford Mustang (2004 Model Year)",
+            "description": "The Ford Mustang (2004 Model Year) is a classic American muscle car known for its performance, distinctive styling, and rich heritage. It combines power and agility, appealing to driving enthusiasts and collectors alike.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "aad7b224-235b-451e-801c-e7ad26615319",
+            "image": null,
+            "name": "Open Country A/T II",
+            "description": "The Toyo Tires Open Country A/T II is an all-terrain tire designed for light trucks and SUVs, offering a balanced combination of on-road comfort and off-road capability, ideal for various driving conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "fd5410be-4fe6-4fe7-8bcf-fe8db1358a0b",
+            "image": null,
+            "name": "Opel Meriva B",
+            "description": "The Opel Meriva B is a versatile compact MPV designed to provide a spacious interior and flexible seating arrangements, ideal for families or individuals seeking practicality and comfort.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "aae42d47-6bd5-491c-8d00-314be357e1ff",
+            "image": null,
+            "name": "K&N Replacement Air Filter",
+            "description": "The K&N Replacement Air Filter series provides high-flow air filtration for improved engine performance and enhanced acceleration. These filters are designed to be reusable and easy to install, offering long-lasting effectiveness compared to standard paper filters.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "d655537a-3639-40f5-9a15-226f4e6a4263",
+            "image": null,
+            "name": "Corsa",
+            "description": "The Opel Corsa is a compact car known for its efficiency, practicality, and affordability, making it a popular choice for urban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "3839bc29-e368-48e5-8eeb-b9b73487b1c3",
+            "image": null,
+            "name": "Dawlance 9180 WB",
+            "description": "The Dawlance 9180 WB is a refrigerator series known for its energy efficiency and ample storage capacity, designed to meet the cooling needs of modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "af2b6287-1225-4d29-89c7-5c6cc767f8ee",
+            "image": null,
+            "name": "Seagate One Touch",
+            "description": "The Seagate One Touch series includes portable external hard drives designed for easy data storage and backup, providing users with a compact and reliable solution for their digital files.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "288dd070-d614-41e6-ac11-2032c25bfbef",
+            "image": null,
+            "name": "K&N 57 Series Performance Air Intake Kits",
+            "description": "The K&N 57 Series Performance Air Intake Kits are designed to increase horsepower and acceleration by improving airflow to the engine. These kits replace the factory air intake system with a performance-oriented design that enhances engine efficiency.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "2ceb1c16-35b7-415a-b1f1-2758961045fd",
+            "image": null,
+            "name": "Sava Eskimo",
+            "description": "The Sava Eskimo series is designed for winter driving conditions, offering enhanced traction and stability on snow and ice-covered roads. These tires are engineered to provide reliable performance in cold weather scenarios.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "3d2ed5ca-26e1-40f6-a071-d101b64c92d2",
+            "image": null,
+            "name": "Vauxhall Astra",
+            "description": "The Vauxhall Astra is a compact car designed for efficiency and performance, featuring modern technology and a comfortable interior suitable for daily commuting and longer journeys.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "44b8177f-7124-4fe1-a9bb-1debd74f1aa3",
+            "image": null,
+            "name": "K&N 99 Series Air Filters",
+            "description": "The K&N 99 Series Air Filters are high-performance replacement air filters designed to improve airflow and filtration efficiency for a wide range of vehicles. These filters are washable and reusable, promoting longevity and better engine performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "44ea8e5f-e34b-4b64-a1b1-4a5358909175",
+            "image": null,
+            "name": "Model X",
+            "description": "The Tesla Model X is an all-electric SUV that combines performance, safety, and utility, featuring distinctive falcon-wing doors and seating for up to seven passengers.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "47abcc80-b3fe-4c6f-8728-922bd7c5e3a6",
+            "image": null,
+            "name": "K&N FIPK Performance Air Intake Systems",
+            "description": "The K&N FIPK Performance Air Intake Systems are designed to improve engine efficiency by allowing for a higher volume of airflow, enhancing horsepower and acceleration for a range of vehicles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "5620490d-6cbd-4094-8579-6a5c41035562",
+            "image": null,
+            "name": "K&N 57 Series FIPK",
+            "description": "The K&N 57 Series FIPK (Fuel Injection Performance Kit) is an aftermarket air intake system designed to increase horsepower and improve engine performance by allowing for better airflow and filtration.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "612de5ad-d630-4eac-9e3e-712d9373d219",
+            "image": null,
+            "name": "Ford Mustang (S197)",
+            "description": "The Ford Mustang (S197) is a sixth generation of the iconic fastback coupe and convertible, celebrated for its performance, retro styling, and accessibility, appealing to both enthusiasts and casual drivers alike.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "dc24ddb9-99fb-414d-85e8-e70e2eb2ea57",
+            "image": null,
+            "name": "Hero Xpulse 200 4V",
+            "description": "The Hero Xpulse 200 4V is an adventure-oriented motorcycle designed for both on-road and off-road performance, offering versatility and durability for riders seeking exploration.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "dea23217-dd12-44f9-a3ef-3ba44389a7c4",
+            "image": null,
+            "name": "2023 Chevrolet Trailblazer",
+            "description": "The 2023 Chevrolet Trailblazer is a compact SUV designed to offer versatility and a range of advanced safety features, making it suitable for urban and outdoor adventures alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "63b900bf-c41b-4cf7-8a89-eb6017f87f04",
+            "image": null,
+            "name": "Sauder Camber Hill Collection",
+            "description": "The Sauder Camber Hill Collection features stylish TV stands designed to enhance your living space while providing ample storage for media components and accessories.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "TV Stands"
+            },
+            "brand_id": {
+                "name": "Sauder"
+            }
+        },
+        {
+            "id": "67f69488-bdd1-4f65-8b0d-2407bbab55d0",
+            "image": null,
+            "name": "KTM Duke 200",
+            "description": "The KTM Duke 200 is a lightweight and agile motorcycle designed for urban commuting and spirited riding, offering sharp handling and a stylish design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "7b775ada-8771-409b-bb53-fe53d53fab74",
+            "image": null,
+            "name": "K&N Series 63 AirCharger",
+            "description": "The K&N Series 63 AirCharger is a performance air intake system designed to enhance engine efficiency and horsepower. It features a high-flow air filter and a custom intake tube to improve airflow, resulting in better overall performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "9a3811d4-f6dc-4975-95f4-bf9126125cb1",
+            "image": null,
+            "name": "Hero Achiever 150",
+            "description": "The Hero Achiever 150 is a motorcycle designed for urban commuting and occasional long rides, known for its reliability and fuel efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "a5ae6cc8-bfd2-4022-9e87-c1563e55c72a",
+            "image": null,
+            "name": "Grandland",
+            "description": "The Opel Grandland is a modern SUV designed for versatility and comfort, offering a spacious interior and advanced technology for both urban and outdoor adventures.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        }
+    ]
+}

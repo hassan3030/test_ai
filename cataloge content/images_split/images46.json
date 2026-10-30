@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "7a79244a-1347-488e-b2e1-e33a5b75d3e5",
+            "image": null,
+            "name": "FZ Series",
+            "description": "The FZ Series by Clarion is a line of car audio products designed for enhancing the in-vehicle listening experience with high-quality sound performance and reliable functionality.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "f34c55bd-4d08-4ece-91ca-3fa9c7979afd",
+            "image": null,
+            "name": "Shoei GT-Air",
+            "description": "The Shoei GT-Air is a full-face motorcycle helmet known for its comfort, aerodynamic performance, and versatility, making it suitable for both touring and everyday riding.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "f981c869-791e-4209-abb7-9150aa1e877a",
+            "image": null,
+            "name": "Shoei X-Twelve",
+            "description": "The Shoei X-Twelve is a premium motorcycle helmet designed for performance and safety, featuring advanced aerodynamics and a lightweight construction for enhanced rider comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "835a7d9d-08b9-42f9-9ee2-866d16d7fffc",
+            "image": null,
+            "name": "NX Series",
+            "description": "The Clarion NX Series is a line of car audio products designed to deliver high-quality sound with user-friendly features for an enhanced in-vehicle listening experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "faaa9b3b-55ca-41ec-a978-6834f5974eec",
+            "image": null,
+            "name": "JVC KD-R880BT",
+            "description": "The JVC KD-R880BT is a car audio receiver that features Bluetooth connectivity, allowing users to stream music and make hands-free calls. Its versatile compatibility with various audio formats makes it a great addition to any vehicle's sound system.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "b194f2e4-cca1-4bbf-a6f4-038e7bbc9fc0",
+            "image": null,
+            "name": "Electrolux 700 Series Refrigerators",
+            "description": "The Electrolux 700 Series Refrigerators are designed to offer optimal food preservation and organization, featuring advanced cooling technology and customizable storage options to enhance kitchen efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8482f66e-6e0c-46cc-94ea-ce8bb6f50832",
+            "image": null,
+            "name": "X-Fourteen",
+            "description": "The Shoei X-Fourteen is a high-performance motorcycle helmet designed for racing and sport riding, featuring advanced aerodynamic properties and superior comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "854d417c-c7d1-4745-a637-1fbbaec0a19e",
+            "image": null,
+            "name": "Shoei Qwest",
+            "description": "The Shoei Qwest is a full-face motorcycle helmet designed for comfort and versatility, offering excellent aerodynamics and ventilation suitable for both urban commuting and long-distance rides.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "8ebdfcb1-b0f6-47c1-8ee5-80fc66133986",
+            "image": null,
+            "name": "X-Twelve",
+            "description": "The Shoei X-Twelve is a high-performance motorcycle helmet designed for professional racers and enthusiasts, offering superior aerodynamics, ventilation, and comfort.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "1fc3c681-4748-4a36-a4d9-0a6159db35f1",
+            "image": null,
+            "name": "Clarion DB Series",
+            "description": "The Clarion DB Series is designed for car audio enthusiasts seeking reliable performance and high-quality sound. Launched in 2004, this series features a range of components including head units and speakers to enhance the in-car audio experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "23c71ae8-6299-4f67-8404-2aeab83999e5",
+            "image": null,
+            "name": "Shoei RF-1100",
+            "description": "The Shoei RF-1100 is a high-performance motorcycle helmet designed for optimum comfort, safety, and aerodynamics, making it suitable for both sport and touring riders.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "244c38a9-d661-4b1c-a158-b90a1c18fff4",
+            "image": null,
+            "name": "GT-Air",
+            "description": "The Shoei GT-Air is a full-face motorcycle helmet designed for touring and sport riding, featuring an integrated sun visor and advanced aerodynamics for comfort and stability at high speeds.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "4440d049-c3e1-45ee-b0d2-6ff055bc180c",
+            "image": null,
+            "name": "CZ Series",
+            "description": "The Clarion CZ Series is a line of car audio products designed to deliver high-quality sound and enhanced user experience in vehicles.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "52b7ca63-9a89-4594-bbbe-d56c301b17bf",
+            "image": null,
+            "name": "Clarion MAX675VD",
+            "description": "The Clarion MAX675VD is a car audio receiver designed for enhanced multimedia playback and in-car entertainment, featuring various connectivity options for audio devices.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "9143b1ef-3792-40a4-995e-a30e8b29176d",
+            "image": null,
+            "name": "ScorpionExo-400",
+            "description": "The ScorpionExo-400 is a versatile motorcycle helmet designed for riders seeking comfort and protection. Its aerodynamic shell shape and advanced features cater to both street and touring enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "ScorpionExo"
+            }
+        },
+        {
+            "id": "a1bfac47-95ef-45d6-91e9-a46f82d0428d",
+            "image": null,
+            "name": "J-Cruise II",
+            "description": "The Shoei J-Cruise II is a premium open-face helmet designed for motorcycle riders, providing a balance of comfort, protection, and visibility for urban and touring rides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "bd3b7893-8238-43da-8b73-f35304358f00",
+            "image": null,
+            "name": "Clarion NX501",
+            "description": "The Clarion NX501 is a car audio system released in 2009, designed to enhance the in-vehicle entertainment experience with advanced audio features and connectivity options.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "d088df4c-5e3e-4a2b-8181-8447d1748bbb",
+            "image": null,
+            "name": "JVC DLA-Series",
+            "description": "The JVC DLA-Series consists of high-performance projectors designed for home theater use, featuring advanced D-ILA technology for superior image quality and contrast.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "d58cc78a-d2b7-48fb-90d2-82a828bf1aad",
+            "image": null,
+            "name": "DLA Series",
+            "description": "The JVC DLA Series consists of high-performance projectors designed for home theater applications, featuring advanced image processing and high-resolution display capabilities.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "db6e5119-c8b7-4a5a-bcea-348289377af5",
+            "image": null,
+            "name": "Focal K2 Power",
+            "description": "Focal K2 Power is a series of high-performance car audio components designed to deliver superior sound quality and durability, catering to automotive enthusiasts who seek enhanced audio experiences on the road.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "dde0df55-b4de-47d2-ba57-e69828dcf341",
+            "image": null,
+            "name": "Focal Electra",
+            "description": "The Focal Electra series comprises high-fidelity speakers designed for audiophiles seeking superior sound quality and precise audio reproduction in a variety of listening environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "6594c884-7a95-42e9-b1fe-d098cd60f783",
+            "image": null,
+            "name": "Focal 700 Series",
+            "description": "The Focal 700 Series is a line of car audio speakers designed for enhanced sound quality and clarity, ideal for automotive sound systems.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "e065af40-d805-477c-a346-48a74475e2c8",
+            "image": null,
+            "name": "Focal Electra Be",
+            "description": "The Focal Electra Be series consists of high-fidelity speakers designed for audiophiles, delivering exceptional sound quality and clarity in audio reproduction.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "e50e1e01-3346-477e-8afa-196f1d9bc9b7",
+            "image": null,
+            "name": "Focal Aria",
+            "description": "The Focal Aria series encompasses a range of high-fidelity speakers designed to deliver exceptional sound quality with a focus on natural and rich acoustic performance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "74ae7b11-7edb-41c9-8eae-f08268c43478",
+            "image": null,
+            "name": "Focal Chorus",
+            "description": "The Focal Chorus series is a line of high-fidelity speakers designed for home audio environments, offering a balanced sound and a stylish design.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "ebf80e9a-396b-4311-9351-4c8f0d264a1e",
+            "image": null,
+            "name": "Electra",
+            "description": "The Focal Electra series is a high-performance line of speakers designed to deliver exceptional sound quality and precision in audio reproduction, catering to audiophiles and music enthusiasts.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "64cfe92e-10f6-41f5-9352-b65fe9172d78",
+            "image": null,
+            "name": "Fujitsu Lifebook U939X",
+            "description": "The Fujitsu Lifebook U939X is a lightweight and portable business laptop designed for professionals who need high performance and versatility while on the go.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Fujitsu"
+            }
+        },
+        {
+            "id": "4b38d83c-8d6d-401c-b7d0-20efba5c3523",
+            "image": null,
+            "name": "Cougar Purity",
+            "description": "Cougar Purity is a gaming chair series designed to provide ergonomic support and comfort during long gaming sessions, featuring adjustable components for a personalized fit.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "77f3a9d5-5a3a-409a-90ce-fd4d1f6ffdfc",
+            "image": null,
+            "name": "CS Series",
+            "description": "The Clarion CS Series is a line of car audio products designed to enhance the in-car listening experience with high-quality sound performance and user-friendly features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "7ac782d9-d0fc-426f-9f0a-7f8d84dae02b",
+            "image": null,
+            "name": "VX Series",
+            "description": "The Clarion VX Series is a range of car audio systems designed to enhance the in-vehicle entertainment experience through high-quality audio performance and versatile connectivity options.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        }
+    ]
+}

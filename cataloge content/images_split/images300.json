@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a9892d63-c802-4de9-b2cf-9efa42bbb5f6",
+            "image": null,
+            "name": "Santa Cruz Neon",
+            "description": "The Santa Cruz Neon series features vibrant graphics and durable constructions designed for skateboard enthusiasts seeking style and performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "1955593a-bacb-41a3-8f1a-8de9d89e3b33",
+            "image": null,
+            "name": "BYD Yuan",
+            "description": "The BYD Yuan is a compact SUV introduced in 2016, designed to offer a blend of efficiency and modern features for urban mobility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "f81304d7-f12d-4c3d-b8cc-5d5790d03c74",
+            "image": null,
+            "name": "Fritz Hansen Series 7",
+            "description": "The Fritz Hansen Series 7 chair, designed by Arne Jacobsen, is known for its iconic shape and versatility, making it suitable for both residential and commercial settings. Released in 2016, it combines functionality with a timeless aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "117b0fb2-91e1-46d9-a218-72dc09552311",
+            "image": null,
+            "name": "Playgro Musical Activity Gym",
+            "description": "The Playgro Musical Activity Gym is an interactive play mat designed for infants, featuring engaging toys and music to stimulate sensory development and encourage tummy time.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playgro"
+            }
+        },
+        {
+            "id": "4f310ab3-ba33-44a1-86d2-bfc7319cff98",
+            "image": null,
+            "name": "Skillbike",
+            "description": "The Technogym Skillbike is an innovative indoor cycling bike designed to enhance performance training for various cycling disciplines. It features advanced technology that allows users to simulate outdoor cycling experiences and track key metrics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Technogym"
+            }
+        },
+        {
+            "id": "db5508f6-49f6-4d60-bfff-9591323e86ba",
+            "image": null,
+            "name": "Sticker Dolly Dressing: Festivals",
+            "description": "The Sticker Dolly Dressing: Festivals series from Usborne Publishing allows children to explore various cultural festivals through creative dress-up sticker activities, promoting imaginative play and learning.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "d5e77647-258a-4d52-86ce-d294e2427cde",
+            "image": null,
+            "name": "Reima Kura",
+            "description": "Reima Kura is a series of kids' clothing designed to provide comfort and protection during outdoor activities. The collection emphasizes weatherproof materials and functional designs suitable for active children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "18e24d2a-687b-4cda-a9f2-81bf9aabd10e",
+            "image": null,
+            "name": "Disney Princess Fashion Dolls",
+            "description": "The Disney Princess Fashion Dolls series features iconic characters from Disney's animated films, designed with fashionable outfits that encourage imaginative play and storytelling for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "d2fbeb2e-00b7-4f64-871e-8d4daadf4cac",
+            "image": null,
+            "name": "Uniqlo Kids 2022 Spring/Summer Collection",
+            "description": "The Uniqlo Kids 2022 Spring/Summer Collection features a range of stylish and comfortable clothing designed for children, emphasizing practicality and playful designs suitable for warm weather.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "479bec5a-4cff-4517-a410-b3ccba0859ad",
+            "image": null,
+            "name": "Honor 9X",
+            "description": "The Honor 9X is a smartphone released in 2019, designed to offer a balance of style and performance with features such as a pop-up selfie camera and a large display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "031cb101-7265-4324-955d-3fa527a3341f",
+            "image": null,
+            "name": "Chevrolet Colorado (Second Generation)",
+            "description": "The Chevrolet Colorado (Second Generation) is a mid-size pickup truck designed for versatility and efficiency, offering a blend of capability for both work and everyday driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "f258b16e-81c9-41bd-8634-6308c8bd0f1a",
+            "image": null,
+            "name": "Honor 9X Pro",
+            "description": "The Honor 9X Pro is a smartphone designed for users seeking a balance between performance and functionality, featuring a large display and a capable camera system.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "3bef74e7-a9f3-481e-a3f7-81a25f682467",
+            "image": null,
+            "name": "Tineco PURE ONE S12 PRO",
+            "description": "The Tineco PURE ONE S12 PRO is a powerful and intelligent cordless vacuum cleaner designed for efficient cleaning on multiple surfaces, utilizing smart technology for enhanced suction and user convenience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "b17bf3e5-3fe1-4d76-80ef-58d33d903e9c",
+            "image": null,
+            "name": "Chevrolet Bolt EV (2022)",
+            "description": "The Chevrolet Bolt EV (2022) is an all-electric compact hatchback designed to provide efficient, zero-emission driving with a spacious interior and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "d00885d5-1f13-4fa8-badf-3c426baebceb",
+            "image": null,
+            "name": "Chevrolet Traverse (2022)",
+            "description": "The Chevrolet Traverse (2022) is a midsize SUV designed to provide spacious seating for up to eight passengers and ample cargo capacity, making it ideal for families and long journeys.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "5957539c-297a-45d5-90ff-662e02e8deec",
+            "image": null,
+            "name": "JBL Quantum 350 Wireless",
+            "description": "The JBL Quantum 350 Wireless headphones are designed for gamers, offering immersive audio and a flexible wireless connection to enhance the gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "ee9bbbaa-4341-43b3-b999-1c732a6f6155",
+            "image": null,
+            "name": "Santa Cruz Salba",
+            "description": "The Santa Cruz Salba series features a range of high-quality skateboards designed for versatility and performance, embodying the spirit of skateboarding culture and creativity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "ae6fb0b4-415b-46ae-82c2-829fe664264c",
+            "image": null,
+            "name": "Uniqlo x Peanuts 2023 Collection",
+            "description": "The Uniqlo x Peanuts 2023 Collection features a range of children's clothing inspired by the beloved Peanuts characters, aiming to provide comfort and playful designs for everyday wear.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "fa9a80e6-9152-4116-81c6-516273626c2c",
+            "image": null,
+            "name": "Chevrolet Silverado 1500 (2023 refreshed model)",
+            "description": "The Chevrolet Silverado 1500 (2023 refreshed model) is a full-size pickup truck designed for optimal performance, versatility, and advanced technology, catering to both work and recreational needs.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "76b520eb-96e6-4cbe-9e28-ba321d3bec4f",
+            "image": null,
+            "name": "Boden Baby",
+            "description": "Boden Baby is a series of kids' clothing designed by Boden, offering stylish and comfortable outfits for infants and young children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Boden"
+            }
+        },
+        {
+            "id": "06400c8e-d8b5-4471-af99-1a017418c90e",
+            "image": null,
+            "name": "JBL Reflect Mini NC",
+            "description": "The JBL Reflect Mini NC headphones are designed for active users, featuring noise cancellation and a secure fit, making them ideal for workouts and outdoor activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "ec82086f-3594-4b45-bc48-e9e9e8ecb339",
+            "image": null,
+            "name": "Uniqlo Kids 2022 Fall/Winter Collection",
+            "description": "The Uniqlo Kids 2022 Fall/Winter Collection offers a range of comfortable and stylish clothing designed for children, focusing on functionality and warmth during the colder months.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "d95d3163-d973-4e87-96c6-2d49fa512219",
+            "image": null,
+            "name": "Holbein Artists' Acrylic",
+            "description": "Holbein Artists' Acrylic is a high-quality acrylic paint series designed for professional artists, offering vibrant colors, excellent coverage, and a smooth application suitable for a variety of surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Holbein"
+            }
+        },
+        {
+            "id": "73964b73-4ac8-4c9d-ae12-9b610a5131e1",
+            "image": null,
+            "name": "Chevrolet Malibu (Ninth Generation)",
+            "description": "The Chevrolet Malibu (Ninth Generation) is a midsize sedan known for its comfortable ride, spacious interior, and fuel efficiency, catering to families and commuters alike.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "d0a5533b-96bd-4f1b-8479-133883297edf",
+            "image": null,
+            "name": "Honor 30 Lite",
+            "description": "The Honor 30 Lite is a mid-range smartphone designed to deliver a balance of performance and affordability, featuring a vibrant display and a multi-camera setup for versatile photography.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "95d88c91-52d9-4bcf-b473-1c22183019d5",
+            "image": null,
+            "name": "Hella LED High Performance Series",
+            "description": "The Hella LED High Performance Series offers advanced lighting solutions designed for automotive applications, providing superior brightness and energy efficiency alongside durability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "71ecf641-950c-483c-9501-52806f345821",
+            "image": null,
+            "name": "Chevrolet Silverado HD",
+            "description": "The Chevrolet Silverado HD is a heavy-duty pickup truck series designed for maximum towing capability, durability, and comfort, making it suitable for both work and leisure.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "5942307e-dcb4-4089-a98f-366b07e25db0",
+            "image": null,
+            "name": "Tineco A10 Series",
+            "description": "The Tineco A10 Series is a line of cordless vacuum cleaners designed for versatile and efficient cleaning, featuring powerful suction and lightweight construction for ease of use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "3d894887-db26-4ea2-9dd5-8d6de8bef7b4",
+            "image": null,
+            "name": "Honor V30 Pro",
+            "description": "The Honor V30 Pro is a smartphone released in 2020, known for its advanced camera capabilities and 5G connectivity, catering to users seeking high-performance mobile devices.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "24761d00-01bf-4eb2-8bf6-0c13d08fd811",
+            "image": null,
+            "name": "Tineco iFloor Series",
+            "description": "The Tineco iFloor Series is designed for efficient hard floor cleaning, combining vacuum and wet cleaning capabilities in a single device.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        }
+    ]
+}

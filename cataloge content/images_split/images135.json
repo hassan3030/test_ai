@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a9b1486d-2eea-449e-9a47-6bc9dd2c5efb",
+            "image": null,
+            "name": "Magneti Marelli Electronic Suspension",
+            "description": "The Magneti Marelli Electronic Suspension series offers advanced suspension systems designed to enhance vehicle stability and comfort by adapting to varying road conditions in real time.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magneti Marelli"
+            }
+        },
+        {
+            "id": "ba965cf5-1ff4-4130-b752-9769b15a844f",
+            "image": null,
+            "name": "Magneti Marelli Fuel Injection Systems",
+            "description": "The Magneti Marelli Fuel Injection Systems are advanced components designed to optimize engine performance and fuel efficiency in vehicles. They are engineered to provide precise fuel delivery for improved combustion and reduced emissions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magneti Marelli"
+            }
+        },
+        {
+            "id": "3184e749-aaee-44df-b488-04d80b1f9299",
+            "image": null,
+            "name": "Magneti Marelli Advanced Driver Assistance Systems (ADAS)",
+            "description": "The Magneti Marelli Advanced Driver Assistance Systems (ADAS) series offers a range of car parts designed to enhance vehicle safety and assist drivers in various driving conditions through advanced technology.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magneti Marelli"
+            }
+        },
+        {
+            "id": "9300d4ea-e51f-4a86-9155-df677fb97f0f",
+            "image": null,
+            "name": "Brembo Racing",
+            "description": "The Brembo Racing series includes high-performance car parts designed specifically for motorsport applications, focusing on enhancing braking efficiency and durability under extreme conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "e2abc363-eadc-4aac-94aa-483d15497fc2",
+            "image": null,
+            "name": "Brembo GT Series",
+            "description": "The Brembo GT Series is a high-performance brake system designed for automotive enthusiasts, offering improved braking performance and reliability under extreme conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "2cbbab39-02a2-4cac-8295-5a94eff06923",
+            "image": null,
+            "name": "Brembo GT System",
+            "description": "The Brembo GT System is a high-performance brake system designed to provide superior stopping power and enhanced braking performance for high-performance vehicles, emphasizing reliability and safety.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "8e7083a1-afca-448d-929c-8e51e766d75f",
+            "image": null,
+            "name": "Brembo Sport Brake Pads",
+            "description": "Brembo Sport Brake Pads are designed to provide enhanced braking performance and reduced stopping distances for sports cars and high-performance vehicles. Released in 2009, they are engineered for improved grip and durability under aggressive driving conditions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "6dda3869-6522-474c-a97e-ea5676790b93",
+            "image": null,
+            "name": "Brembo Carbon Ceramic",
+            "description": "The Brembo Carbon Ceramic series is a line of high-performance brake components designed to deliver superior braking performance and durability, primarily used in sports and luxury vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "1001accf-f686-4b0d-9952-29ef7d76f3e2",
+            "image": null,
+            "name": "Rotiform LSR",
+            "description": "The Rotiform LSR series features a range of high-performance wheels designed to enhance both the aesthetic and performance of vehicles. Known for their intricate designs and lightweight construction, these wheels are perfect for automotive enthusiasts seeking a unique look.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "9b94c9a1-be13-4cc8-bd05-3bd442cfcd64",
+            "image": null,
+            "name": "Rotiform TMB",
+            "description": "The Rotiform TMB series features a distinct multi-piece design, providing a blend of style and functionality for automotive enthusiasts seeking to enhance their vehicle's appearance and performance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "2770e640-5e3e-4db0-89ca-4c8e7479a204",
+            "image": null,
+            "name": "Rotiform ZBF",
+            "description": "The Rotiform ZBF is a high-performance wheel series designed to enhance the aesthetic and handling of vehicles, combining intricate designs with robust construction for superior performance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "5db52fd3-a11f-4b8f-a183-c4941e5f26aa",
+            "image": null,
+            "name": "Rotiform Wheels R5",
+            "description": "The Rotiform R5 Wheels are a line of high-performance rims designed to enhance vehicle aesthetics and improve handling capabilities. Known for their unique designs and lightweight construction, they cater to car enthusiasts seeking both style and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "69a06f26-e6e0-4f89-96d7-5ad1b9cc74da",
+            "image": null,
+            "name": "Rotiform Wheels Ares",
+            "description": "Rotiform Wheels Ares are high-quality rims designed for performance and style, featuring a unique multi-spoke design that enhances the aesthetics of any vehicle.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "a9e07944-4ff2-421d-989e-9860d8597478",
+            "image": null,
+            "name": "Rotiform Wheels RSE",
+            "description": "The Rotiform Wheels RSE series features multi-spoke alloy rims designed for performance and style, suitable for a variety of vehicles. Known for their unique aesthetic appeal and lightweight construction, they enhance both the look and handling of cars.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "fb90c1b1-6508-4eea-a64c-7032d85cce38",
+            "image": null,
+            "name": "Rotiform Wheels NUE",
+            "description": "Rotiform Wheels NUE is a series of high-performance rims designed to enhance both the aesthetics and handling of vehicles. Known for their distinctive multi-spoke design, these wheels cater to automotive enthusiasts seeking style and functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "cf353ae4-b67d-4621-9657-761f56493064",
+            "image": null,
+            "name": "Nerf Fortnite AR-L Blaster",
+            "description": "The Nerf Fortnite AR-L Blaster is a toy blaster designed to mimic the iconic weapon from the popular video game Fortnite, allowing players to engage in foam dart battles with friends and family.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "e1335f10-c4c1-41f7-8d86-42dfa142a9b8",
+            "image": null,
+            "name": "Infinix Note 3",
+            "description": "The Infinix Note 3 is a smartphone released in 2016, designed to deliver a balance of performance and user experience with its large display and long-lasting battery.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "04fbdb35-10c3-4f5e-b4ec-47408e9119c5",
+            "image": null,
+            "name": "Infinix Smart 2",
+            "description": "The Infinix Smart 2 is an entry-level smartphone series released in 2018, aimed at providing essential features and functionality for budget-conscious consumers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "2af00811-ae90-4287-9e96-ea145eefcd7e",
+            "image": null,
+            "name": "Infinix Hot 6 Pro",
+            "description": "The Infinix Hot 6 Pro is a budget-friendly smartphone designed to provide essential features and functionality for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "4a428036-fa5e-4f6e-806c-3a4da61cf021",
+            "image": null,
+            "name": "Infinix S4",
+            "description": "The Infinix S4 is a smartphone series designed for users seeking a balance of performance and aesthetics, offering features such as a multi-camera setup and a vivid display to enhance the mobile experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "6faf141f-1521-49f7-b94e-c233ec539625",
+            "image": null,
+            "name": "Gionee M6 Plus",
+            "description": "The Gionee M6 Plus is a smartphone known for its large battery capacity and security features, aimed at providing users with long-lasting performance and data protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "1e93e6ff-0620-491b-9ba3-0229b7363c75",
+            "image": null,
+            "name": "Intel Core i9 9900KS",
+            "description": "The Intel Core i9 9900KS is a high-performance processor designed for gaming and content creation, featuring advanced architecture and clock speeds for exceptional multitasking capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "4f00505b-1d02-47fa-b07c-909745cd9fea",
+            "image": null,
+            "name": "Intel Xeon W-3175X",
+            "description": "The Intel Xeon W-3175X is a high-performance workstation processor designed for intensive tasks such as 3D rendering, scientific simulations, and video editing, featuring 28 cores and support for advanced memory and storage technologies.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "cdc70d30-1fed-4d4e-93a7-98520e1db648",
+            "image": null,
+            "name": "Intel 10th Gen Core (Comet Lake)",
+            "description": "The Intel 10th Gen Core (Comet Lake) series is a family of processors designed for desktop and mobile platforms, featuring enhanced performance and integrated graphics capabilities aimed at gamers and content creators.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "93510ff0-a212-4e07-9854-1188f961d765",
+            "image": null,
+            "name": "Fire HD 10 Tablet (11th Generation)",
+            "description": "The Amazon Fire HD 10 Tablet (11th Generation) is a versatile tablet designed for entertainment, productivity, and reading, featuring a vibrant display and long battery life.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "6437d493-c945-480e-80ad-cec689a81348",
+            "image": null,
+            "name": "Ring Video Doorbell 2",
+            "description": "The Ring Video Doorbell 2 is a smart home device designed to provide real-time video and audio communication with visitors at your door, featuring HD video quality and customizable motion detection alerts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "f8bdc9ec-b1a8-46e9-adaa-095360fc6804",
+            "image": null,
+            "name": "Ring Video Doorbell Pro",
+            "description": "The Ring Video Doorbell Pro is a smart home device that allows homeowners to see, hear, and speak to visitors at their door from anywhere using a smartphone, tablet, or computer.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "80cd2802-6775-4379-8582-9bd42c70509f",
+            "image": null,
+            "name": "Ring Door View Cam",
+            "description": "The Ring Door View Cam is a smart home device designed to replace existing peepholes and provide homeowners with a wide-angle view of visitors at their door, coupled with two-way audio communication and motion detection capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "d770c7a3-a998-4b48-9a57-e7732afea46e",
+            "image": null,
+            "name": "Ring Video Doorbell Pro 2",
+            "description": "The Ring Video Doorbell Pro 2 is a smart doorbell that allows users to see, hear, and speak to visitors from their smartphone, tablet, or PC. It features high-definition video, two-way audio, and advanced motion detection capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "0d47b3c1-0bae-4afa-95a2-88f998d904e1",
+            "image": null,
+            "name": "Ring Stick Up Cam Battery",
+            "description": "The Ring Stick Up Cam Battery is a versatile wireless security camera designed for indoor or outdoor monitoring, allowing users to keep an eye on their property in real-time through video streaming and two-way audio features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        }
+    ]
+}

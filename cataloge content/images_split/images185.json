@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "d388b658-00dd-4d87-b393-2a146abf2727",
+            "image": null,
+            "name": "D'Addario Cork Grease",
+            "description": "D'Addario Cork Grease is a specially formulated wax designed for woodwind musicians to lubricate their cork joints, ensuring smooth assembly and preventing wear on the cork surfaces.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "34edbaea-1ee4-4ba5-8ce9-a89c34c58928",
+            "image": null,
+            "name": "D'Addario Jazz Strings",
+            "description": "D'Addario Jazz Strings are designed for jazz musicians, offering exceptional tonal quality and playability for a smooth, articulate sound.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "615db9b6-1e9b-48a3-9f2b-bfb6cd910a3c",
+            "image": null,
+            "name": "American Classic",
+            "description": "The Vic Firth American Classic series offers a wide variety of drumsticks designed for reliability and versatility, making them ideal for drummers of all skill levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "31d99754-fb39-49da-a3b9-ba8cf05e3fb2",
+            "image": null,
+            "name": "Extreme",
+            "description": "The Vic Firth Extreme series offers a range of drumsticks designed for heavy hitters, providing durability and a powerful feel for professional drummers in various musical genres.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "63f205b7-6e34-40c7-ae65-dfccb55c64b1",
+            "image": null,
+            "name": "Nova",
+            "description": "The Vic Firth Nova Series offers a range of drumsticks designed for both beginner and intermediate players, providing a balance of durability and performance at an affordable price.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "c5e87b52-f39e-4093-b0ac-640d1b8cab0b",
+            "image": null,
+            "name": "The Original",
+            "description": "The Original series by Vic Firth offers an array of drumsticks designed for various playing styles, featuring durable materials and balanced designs to enhance percussion performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "28a80764-29e8-46ba-98da-96381c17c82f",
+            "image": null,
+            "name": "American Custom",
+            "description": "The Vic Firth American Custom series features a range of high-quality drumsticks designed for various playing styles, focusing on balance, durability, and sound precision.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "cd1952db-f969-4a9c-b5df-e853f606769b",
+            "image": null,
+            "name": "Extreme 5A",
+            "description": "The Vic Firth Extreme 5A drumsticks are designed for drummers seeking a balance of power and control. Featuring a slightly thicker profile than the standard 5A, they provide enhanced durability and a unique feel for various playing styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "b4a331de-19d0-4d0f-ac34-6345c13c2f54",
+            "image": null,
+            "name": "American Classic® Drumsticks",
+            "description": "The Vic Firth American Classic® Drumsticks are a series of high-quality drumsticks designed for drummers seeking precision and durability. Crafted from hickory and designed to provide the perfect balance, they cater to various playing styles and preferences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "0915acd4-9a46-4600-9279-259f30638d74",
+            "image": null,
+            "name": "Vic Grip® Drumsticks",
+            "description": "The Vic Grip® Drumsticks are specially designed for enhanced grip and control, providing drummers with superior performance and comfort during play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "a92a4206-ea4e-4896-90ee-ff34c39266b8",
+            "image": null,
+            "name": "Vic Firth American Classic Series",
+            "description": "The Vic Firth American Classic Series offers a wide range of high-quality drumsticks, designed for various musical styles and preferences. These sticks are known for their durability and consistency, making them a popular choice among drummers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "6b72e026-d5b7-44c8-9c21-891e3a1b2ca1",
+            "image": null,
+            "name": "Vic Firth Corpsmaster Series",
+            "description": "The Vic Firth Corpsmaster Series is a collection of drumsticks designed specifically for marching percussion and drum corps, focusing on precision, durability, and a range of playing techniques.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "3f1d43d0-152c-42ed-bf87-6e60369828a4",
+            "image": null,
+            "name": "Kawai K SERIES",
+            "description": "The Kawai K Series consists of digital pianos designed to deliver high-quality sound and responsive touch to meet the needs of both beginners and advanced players.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "575cd7d7-09ae-4aca-a4cd-4a5d7d650b69",
+            "image": null,
+            "name": "Kawai CA Series",
+            "description": "The Kawai CA Series offers high-quality digital pianos designed for both beginner and advanced musicians. With a focus on authentic piano touch and sound, this series aims to provide a lifelike playing experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "f3e70f9a-6eac-4ac2-b9ca-6a433da16e49",
+            "image": null,
+            "name": "Kawai MP Series",
+            "description": "The Kawai MP Series is a line of digital pianos designed for professional musicians and performers, featuring advanced piano sounds, weighted keys, and versatile connectivity options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "6bd1acdc-976e-40de-99ff-83ceeb5c56e3",
+            "image": null,
+            "name": "Kawai K-300",
+            "description": "The Kawai K-300 is an upright piano designed for both students and professionals, featuring advanced action technology and a rich tonal quality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "2075e456-8e62-49ef-813c-9f0f4b817fdc",
+            "image": null,
+            "name": "Kawai CA48",
+            "description": "The Kawai CA48 is a digital piano designed for home use, featuring advanced sound technologies, exceptional touch response, and various connectivity options, making it ideal for both practice and performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "15dba7ce-260b-4764-86a4-9ec91c72c6ae",
+            "image": null,
+            "name": "Kawai CA78",
+            "description": "The Kawai CA78 is a digital piano designed for musicians seeking a high-quality instrument that combines traditional acoustic piano feel with modern digital technology. It features a responsive keyboard, Bluetooth connectivity, and an array of sounds and features tailored for practice and performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "565d11ad-3ca0-4434-96d2-2892af9c8703",
+            "image": null,
+            "name": "Kawai CA98",
+            "description": "The Kawai CA98 is a digital piano that combines advanced technology with the essence of a grand piano, offering a realistic playing experience for musicians of all levels.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "8a1c5df3-dd82-4833-aeac-34c577f67994",
+            "image": null,
+            "name": "Kawai ES110",
+            "description": "The Kawai ES110 is a digital piano designed for both beginners and experienced players, featuring a compact design, responsive piano touch, and high-quality sound sampled from Kawai's concert grand pianos.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "6d68806b-6056-4a25-88b3-378755688962",
+            "image": null,
+            "name": "Kawai CA49",
+            "description": "The Kawai CA49 is a digital piano designed for both beginners and experienced players, featuring advanced sensor technology and a rich, authentic sound for a genuinely expressive playing experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "f646c1e5-30a4-4859-a217-623c05fc466a",
+            "image": null,
+            "name": "Kawai CN Series",
+            "description": "The Kawai CN Series is a line of digital pianos designed to provide an authentic piano playing experience with advanced technology and high-quality sound reproduction.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "8767e2a5-8b27-43b3-99f5-45644e7087f0",
+            "image": null,
+            "name": "Kawai VPC1",
+            "description": "The Kawai VPC1 is a high-quality virtual piano controller designed for professional musicians and composers. It features a responsive weighted action and customizable settings to enhance the digital piano experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "4371c893-c519-4548-834e-847741cb0fc8",
+            "image": null,
+            "name": "Kawai Concert Artist",
+            "description": "The Kawai Concert Artist series represents a line of high-quality digital pianos designed for musicians seeking authentic piano sounds and touch in a modern instrument.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "a9ec7e60-fe25-44ab-b776-dba51d14f6c2",
+            "image": null,
+            "name": "Imperialstar",
+            "description": "The Tama Imperialstar series offers a range of reliable and versatile drum kits designed for beginners and intermediate players, featuring quality construction and sound.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "240435b0-c7f2-43d8-a9f8-3cd803f6f9cb",
+            "image": null,
+            "name": "Starclassic Performer",
+            "description": "The Tama Starclassic Performer series offers a blend of professional-quality drums and innovative features, designed to meet the needs of serious drummers across various musical genres.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "2563e51f-21b2-4e94-afc3-3e9211e9902c",
+            "image": null,
+            "name": "Silverstar",
+            "description": "The Tama Silverstar series offers high-quality drum kits that balance professional sound with an affordable price, designed for drummers of all levels seeking performance and versatility.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "baa11852-e64d-4076-a2eb-8bc98354664d",
+            "image": null,
+            "name": "Tama Starclassic 2021",
+            "description": "The Tama Starclassic 2021 series consists of high-quality drum kits designed for professional drummers, featuring enhanced sound projection and durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "af6affcc-43d4-48d9-8927-a6db2abd6ccf",
+            "image": null,
+            "name": "Tobias Signature Series",
+            "description": "The Tobias Signature Series includes a range of high-quality musical instruments designed for musicians seeking exceptional sound and playability, featuring innovative designs that enhance the performance experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tobias"
+            }
+        },
+        {
+            "id": "59a849a7-97f5-4a30-b2fc-7423df8e3384",
+            "image": null,
+            "name": "Karrimor Urban Series",
+            "description": "The Karrimor Urban Series offers durable and practical camping gear designed for urban outdoor adventures, emphasizing portability and functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Karrimor"
+            }
+        }
+    ]
+}

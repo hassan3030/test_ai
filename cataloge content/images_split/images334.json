@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "78aa5238-686a-49ca-8ae6-82caee51fd0d",
+            "image": null,
+            "name": "Ibanez GRG Series",
+            "description": "The Ibanez GRG Series is designed for beginner to intermediate guitarists, featuring a range of affordable electric guitars that offer great playability and versatility suitable for various musical styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "e0af1dea-59ae-4a25-b24a-273a72fec796",
+            "image": null,
+            "name": "Harley-Davidson Dyna Wide Glide",
+            "description": "The Harley-Davidson Dyna Wide Glide is a cruiser motorcycle known for its classic styling and powerful V-twin engine, designed for riders who appreciate a laid-back riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "c8e85765-7cc7-4ed8-b67d-086ba18d6bab",
+            "image": null,
+            "name": "Galaxy Tab S3",
+            "description": "The Samsung Galaxy Tab S3 is a premium tablet designed for both productivity and entertainment, featuring a Super AMOLED display, powerful performance, and support for the S Pen stylus.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "7748d3a3-8952-4792-8947-c327b65ab6c3",
+            "image": null,
+            "name": "Fitbit Ace",
+            "description": "The Fitbit Ace is a fitness tracker designed specifically for children, encouraging them to be active through fun and engaging activity challenges. It tracks steps, active minutes, and offers rewards to motivate young users to lead a healthy lifestyle.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "8ba09fa5-f91c-480a-bef2-08a6f702212d",
+            "image": null,
+            "name": "Ibanez SR300 Series",
+            "description": "The Ibanez SR300 Series is a line of electric bass guitars known for their sleek design, versatile sound, and comfort in playability, making them suitable for a wide range of musical styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "6d8bfd8d-e20c-465b-a2a5-00f434b0d3a7",
+            "image": null,
+            "name": "2008 Harley-Davidson Electra Glide",
+            "description": "The 2008 Harley-Davidson Electra Glide is a touring motorcycle designed for long-distance travel, featuring a comfortable seat and advanced features for both rider and passenger comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "d51934cb-8d08-480b-b608-55495b6a149a",
+            "image": null,
+            "name": "2008 Harley-Davidson Road King",
+            "description": "The 2008 Harley-Davidson Road King is a classic touring motorcycle known for its comfortable ride, distinctive styling, and powerful V-twin engine, designed for long-distance travel.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "4191eb18-be55-43f8-bd00-4e847faf6563",
+            "image": null,
+            "name": "Pioneer AVH-X Series",
+            "description": "The Pioneer AVH-X Series is a line of in-dash multimedia receivers designed for car audio enthusiasts, offering advanced features such as touchscreen displays, Bluetooth connectivity, and support for various audio and video formats.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "ec6f8000-3d97-4364-a30c-6a90cb21bc1d",
+            "image": null,
+            "name": "2008 Harley-Davidson Softail",
+            "description": "The 2008 Harley-Davidson Softail is a line of motorcycles known for their classic styling and hidden rear suspension. Designed for riders seeking a blend of comfort and performance on the open road, these bikes feature a strong, powerful engine and a smooth ride.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "08c0a0f8-190a-4ecd-a635-fe3ead307978",
+            "image": null,
+            "name": "Piaggio Vespa GTS",
+            "description": "The Piaggio Vespa GTS is a premium scooter that combines classic Vespa styling with modern performance and technology, making it ideal for urban commuting and leisure rides.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "c00541f4-2f02-4ebf-9304-0866b9d3e420",
+            "image": null,
+            "name": "Bellezza",
+            "description": "The Sumitomo Tire Bellezza series offers a range of tires designed for performance and comfort, suitable for diverse driving conditions while enhancing vehicle aesthetics.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "3df07d2e-4b1c-492d-8bfd-9279b1f8944a",
+            "image": null,
+            "name": "Gravity Wind Parka",
+            "description": "The Montbell Gravity Wind Parka is a lightweight, packable windbreaker designed for outdoor enthusiasts. Its primary purpose is to provide wind resistance and protection against light rain during various activities like hiking and camping.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Montbell"
+            }
+        },
+        {
+            "id": "84dafb0e-9096-4cee-9717-c207dcfc57ee",
+            "image": null,
+            "name": "Harley-Davidson Road King",
+            "description": "The Harley-Davidson Road King is a classic touring motorcycle known for its retro styling, comfortable seating, and powerful performance, designed for both long rides and urban cruising.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "58834d3e-9247-48e9-9e96-9d6336c5af21",
+            "image": null,
+            "name": "2008 Harley-Davidson Sportster",
+            "description": "The 2008 Harley-Davidson Sportster is a lightweight motorcycle known for its classic styling, agile handling, and versatility, making it suitable for both new riders and seasoned enthusiasts.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "fb5c18be-3729-493b-9924-b501c180463a",
+            "image": null,
+            "name": "2008 Harley-Davidson Dyna",
+            "description": "The 2008 Harley-Davidson Dyna is a versatile cruiser motorcycle known for its balance of performance and style, featuring a classic design with modern engineering.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "4b6ae470-fed4-4a4c-8c2c-4aab9d42473c",
+            "image": null,
+            "name": "Fitbit Inspire HR",
+            "description": "The Fitbit Inspire HR is a versatile fitness tracker designed to monitor heart rate, track activities, and provide insights into sleep quality, helping users maintain an active lifestyle.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "099780dd-34e2-4b35-8500-6dfa77d17e34",
+            "image": null,
+            "name": "Forerunner 35",
+            "description": "The Garmin Forerunner 35 is a GPS-enabled smartwatch designed for runners, featuring built-in heart rate monitoring and smart notifications to enhance training and daily life.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "12e13bd3-4ef1-4222-ae8b-83d9849e7ae2",
+            "image": null,
+            "name": "Harley-Davidson Iron 883",
+            "description": "The Harley-Davidson Iron 883 is a classic cruiser motorcycle, known for its stripped-down aesthetics, nimble handling, and a powerful V-twin engine, perfect for urban commuting and weekend rides.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "572c2437-d05d-446f-b50b-28746178c8a8",
+            "image": null,
+            "name": "Forerunner 235",
+            "description": "The Garmin Forerunner 235 is a GPS running watch that combines advanced fitness tracking features with smart notifications, designed for runners seeking to improve their performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "14e27ea0-6ed1-463c-bb49-4253af0ab330",
+            "image": null,
+            "name": "Dyna Family",
+            "description": "The Harley-Davidson Dyna Family consists of a range of cruiser motorcycles known for their distinctive styling, powerful engines, and comfortable riding experience. Designed for those seeking both performance and the iconic Harley-Davidson heritage, these bikes offer a balance of modern engineering and classic aesthetics.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "6a3741ff-6cfe-4ce0-9148-1da3c8b2c35c",
+            "image": null,
+            "name": "Road Venture AT51",
+            "description": "The Sumitomo Tire Road Venture AT51 is an all-terrain tire designed to provide optimal performance on and off-road, featuring enhanced traction, durability, and a balanced ride.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "424f2d73-e83e-4f19-8182-27d1b5587a7f",
+            "image": null,
+            "name": "Road Glide",
+            "description": "The Harley-Davidson Road Glide is a touring motorcycle known for its distinctive frame-mounted fairing, comfortable ride, and advanced technology, designed for long-distance travel and cruising.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "95659221-f481-4a4f-a4bd-0eb690c685d7",
+            "image": null,
+            "name": "Softail Slim S",
+            "description": "The Harley-Davidson Softail Slim S is a motorcycle that combines classic styling with modern performance features, designed for riders seeking a lightweight, authentic cruising experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "4ceca959-d36e-41bf-85bc-e00120e50674",
+            "image": null,
+            "name": "Low Rider S",
+            "description": "The Harley-Davidson Low Rider S is a high-performance cruiser motorcycle known for its powerful engine and aggressive styling, catering to riders who value both comfort and performance on long rides.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "74e3ce91-e036-4a26-8d37-7dfb5a1ca65c",
+            "image": null,
+            "name": "2016 Harley-Davidson XG750 Street",
+            "description": "The 2016 Harley-Davidson XG750 Street is a lightweight and agile motorcycle designed for urban riding, featuring a liquid-cooled Revolution X engine and a minimalist design that enhances maneuverability and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "c3009fbd-0c1a-4ddf-b8ee-e92aab29e48f",
+            "image": null,
+            "name": "Intel Core i7-6700K",
+            "description": "The Intel Core i7-6700K is a high-performance desktop processor designed for gamers and power users, featuring an unlocked multiplier for overclocking and enhanced performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "b65eaa22-6672-427d-a406-92c1b04aad8a",
+            "image": null,
+            "name": "Galaxy Book3",
+            "description": "The Samsung Galaxy Book3 series consists of versatile laptops designed for both productivity and entertainment, featuring high performance, sleek designs, and a range of display options.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "cff2bc1e-5f35-47bf-8680-a902c8c64af9",
+            "image": null,
+            "name": "Intel Core i7-9700K",
+            "description": "The Intel Core i7-9700K is a high-performance CPU designed for enthusiast gamers and content creators, featuring eight cores and support for overclocking to enhance processing capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "28f1dacd-330c-400b-a48a-1c16a0d17bb2",
+            "image": null,
+            "name": "Fitbit Sense 2",
+            "description": "The Fitbit Sense 2 is a smartwatch designed for health and wellness tracking, featuring advanced sensors for monitoring stress, heart rate, sleep, and more.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "437fde67-6d0f-4149-9bac-1563d98fc964",
+            "image": null,
+            "name": "FLHTC Electra Glide Classic",
+            "description": "The Harley-Davidson FLHTC Electra Glide Classic is a touring motorcycle known for its comfort and long-distance capabilities, featuring a classic design and advanced technology for an enhanced riding experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        }
+    ]
+}

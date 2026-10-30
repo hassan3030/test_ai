@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "dfc93119-ea76-4b65-8405-c0b4cdc3e398",
+            "image": null,
+            "name": "Timex Marlin",
+            "description": "The Timex Marlin series is a collection of automatic and hand-wound mechanical watches that combine classic design with modern functionality, reflecting the brand's long heritage in watchmaking.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "ee55cebc-18de-43cf-ae2e-06167d3b15fa",
+            "image": null,
+            "name": "G-Drive ArmorLock SSD",
+            "description": "The G-Drive ArmorLock SSD series is designed for secure and rugged storage, integrating a physical security feature with the convenience of high-speed solid-state performance, making it ideal for creative professionals who need to protect their data.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "39b0de96-50e1-4812-8b8f-264ed8dd944b",
+            "image": null,
+            "name": "Kingston HyperX Predator DDR4",
+            "description": "The Kingston HyperX Predator DDR4 is a high-performance memory module designed for gaming and PC enthusiasts, offering increased speeds and enhanced stability for demanding workloads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "a47d8f7d-87c1-4f3b-a7de-a157867a4ef7",
+            "image": null,
+            "name": "Kingston DataTraveler Ultimate GT",
+            "description": "The Kingston DataTraveler Ultimate GT is a high-capacity USB flash drive designed for performance and durability, offering storage options up to 2TB to accommodate large files and data-intensive applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "1ee132f4-ecd5-4a7c-8ddc-9b2bc4be347b",
+            "image": null,
+            "name": "Kingston SSDNow UV400",
+            "description": "The Kingston SSDNow UV400 series is a line of solid-state drives designed to provide enhanced performance and reliability for both consumer and business applications, utilizing advanced NAND technology for faster data access and improved durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "3aac0ee1-2a68-4bb8-ba93-47757317229d",
+            "image": null,
+            "name": "Kingston DataTraveler Exodia USB Flash Drive",
+            "description": "The Kingston DataTraveler Exodia USB Flash Drive series is designed to provide a convenient and reliable method for storing and transferring data. With a sleek design and a range of capacities, this series caters to both everyday users and professionals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "72de65a8-bb8d-4b39-854d-035ab34cb343",
+            "image": null,
+            "name": "Kingston Canvas React SD Card",
+            "description": "The Kingston Canvas React SD Card is designed for professional photographers and videographers, offering high-speed performance and reliability for capturing high-resolution images and 4K video.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "641235e1-6528-4e25-a968-328e2dc72c0d",
+            "image": null,
+            "name": "Kingston Fury",
+            "description": "The Kingston Fury series is a line of high-performance gaming memory solutions designed to enhance overall system speed and responsiveness for gamers and power users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "6bb6146c-ed4f-4a45-9506-54afb09f5c99",
+            "image": null,
+            "name": "Innodisk DDR4 Memory Module",
+            "description": "The Innodisk DDR4 Memory Module series is designed to provide high-performance memory solutions for a variety of computing needs, supporting increased speed and efficiency in data processing.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Innodisk"
+            }
+        },
+        {
+            "id": "93e55721-e2e5-4bd6-9744-a4337148e621",
+            "image": null,
+            "name": "Innodisk USB Flash Drive",
+            "description": "The Innodisk USB Flash Drive series provides reliable and portable storage solutions for various data transfer needs, ensuring convenience and accessibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Innodisk"
+            }
+        },
+        {
+            "id": "8d397090-602b-409b-9272-4a2ee9b5b173",
+            "image": null,
+            "name": "MiniPro DV",
+            "description": "The Oyen Digital MiniPro DV is a series of portable hard disks designed for reliable data storage and easy transport, offering users a compact solution for backing up and archiving their digital content.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Oyen Digital"
+            }
+        },
+        {
+            "id": "2f330aed-b9ef-4d47-a5f0-3956ff914fe2",
+            "image": null,
+            "name": "Oyen Digital 2.5\" USB-C Portable SSD",
+            "description": "Oyen Digital's 2.5\" USB-C Portable SSD is a compact and durable external storage solution designed for fast data transfer and on-the-go accessibility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Oyen Digital"
+            }
+        },
+        {
+            "id": "13526133-52cf-405f-a8da-c54f5a82d896",
+            "image": null,
+            "name": "MiniStation Extreme NFC",
+            "description": "The Buffalo MiniStation Extreme NFC is a portable external hard disk designed for durability and convenience, featuring NFC technology for easy data transfer and secure access.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "794fe077-1c19-4c48-952e-70176c2115de",
+            "image": null,
+            "name": "LinkStation 220 Series",
+            "description": "The Buffalo LinkStation 220 Series is a network-attached storage (NAS) solution designed for home and small office use, offering centralized storage and backup options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "3122bce6-00dc-4bb6-9449-979ec5f199ff",
+            "image": null,
+            "name": "LinkStation 210D",
+            "description": "The Buffalo LinkStation 210D is a network-attached storage (NAS) device that provides centralized file storage and backup solutions for home and small office environments. It is designed for easy setup and access, enabling users to store and share files securely over a network.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "26968c10-09e3-429d-be74-493a72cdb6ed",
+            "image": null,
+            "name": "MiniStation Thunder 3",
+            "description": "The Buffalo MiniStation Thunder 3 is a portable external hard drive designed for high-speed data transfer and storage, utilizing Thunderbolt 3 technology for efficient performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "772d9ba2-14d2-43eb-b82c-a45d3db12718",
+            "image": null,
+            "name": "Buffalo DriveStation Ultra",
+            "description": "The Buffalo DriveStation Ultra series is designed for high-capacity external storage solutions, offering reliable data backup and additional storage for personal and professional use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "aee12e34-74f8-456e-b54e-8c761eab8fa9",
+            "image": null,
+            "name": "Buffalo MiniStation 3",
+            "description": "The Buffalo MiniStation 3 is a portable hard disk series designed for data storage and backup. With a compact design, it offers reliable performance and ease of use for both personal and professional purposes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "cddc7c6a-a441-4cec-aaa0-2c50dabd2483",
+            "image": null,
+            "name": "Buffalo LinkStation 220",
+            "description": "The Buffalo LinkStation 220 is a network-attached storage device designed for home users and small offices, providing reliable storage solutions and easy access to files over a network.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "28c81191-3fb5-405c-b8b6-dc3329b27562",
+            "image": null,
+            "name": "Buffalo LinkStation 210",
+            "description": "The Buffalo LinkStation 210 is a network-attached storage solution designed for home and small office use, providing simplified file sharing and backup capabilities across various devices.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "1f49fb85-eb05-4a0c-8d26-61b436ad25b5",
+            "image": null,
+            "name": "ATH-CKR35BT",
+            "description": "The Audio-Technica ATH-CKR35BT headphones are designed for wireless listening, offering a comfortable fit and a balanced sound signature suitable for various music genres.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "91c60464-77f9-4b7e-be14-da59637dbb07",
+            "image": null,
+            "name": "Creative Outlier",
+            "description": "The Creative Outlier series consists of wireless headphones designed for active lifestyles, offering comfort and good sound quality for music lovers on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Creative Labs"
+            }
+        },
+        {
+            "id": "f7d99a15-3b07-46d0-b42a-625b29db1e94",
+            "image": null,
+            "name": "Sound BlasterX",
+            "description": "The Creative Labs Sound BlasterX series of headphones is designed to deliver high-quality audio performance, particularly for gaming and multimedia experiences, with a focus on immersive sound and advanced features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Creative Labs"
+            }
+        },
+        {
+            "id": "6946de53-bcb2-4599-9785-5939b0b840ae",
+            "image": null,
+            "name": "Sound BlasterX Katana",
+            "description": "The Creative Labs Sound BlasterX Katana is a high-performance soundbar designed for gaming and multimedia experiences, featuring customizable RGB lighting and delivering immersive audio with a compact design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Creative Labs"
+            }
+        },
+        {
+            "id": "a3796339-3d58-4636-a9fc-3e3e44b0ed34",
+            "image": null,
+            "name": "Creative Outlier Gold",
+            "description": "Creative Outlier Gold headphones provide high-quality audio performance with a focus on comfort and portability, designed for music enthusiasts seeking an immersive listening experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Creative Labs"
+            }
+        },
+        {
+            "id": "d34e99ea-608a-4275-8cde-ef64dafb8951",
+            "image": null,
+            "name": "Sceptre XLED Series",
+            "description": "The Sceptre XLED Series consists of a range of LED monitors designed to deliver sharp visuals and enhance productivity for both work and entertainment purposes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "e9deef44-79d5-4697-8aa4-84df62b98f69",
+            "image": null,
+            "name": "Schmincke Horadam Oil Colors",
+            "description": "Schmincke Horadam Oil Colors are high-quality artist oil paints known for their excellent pigment distribution, smooth application, and high durability, making them suitable for professional painting.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "4d383682-ee6c-4908-a07a-272b1c48e2d8",
+            "image": null,
+            "name": "Crucial MX500",
+            "description": "The Crucial MX500 is a series of SATA solid-state drives designed to enhance computer performance with faster boot times and improved data transfer speeds.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Crucial"
+            }
+        },
+        {
+            "id": "395c9de3-5da7-46d6-8ada-358607f34f9f",
+            "image": null,
+            "name": "Lemfo LEM6",
+            "description": "The Lemfo LEM6 series is a line of smartwatches designed to offer a range of health and fitness tracking features, along with connectivity options for mobile notifications and calls.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "9b5ae295-e7e8-422e-9ac3-3745d771b760",
+            "image": null,
+            "name": "Lemfo LEM T",
+            "description": "The Lemfo LEM T is a smartwatch designed for fitness enthusiasts and tech users alike, featuring health monitoring functions and connectivity options to enhance daily life.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        }
+    ]
+}

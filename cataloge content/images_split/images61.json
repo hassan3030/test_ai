@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "6e5b06ff-ba0b-432e-bb31-252bab713eca",
+            "image": null,
+            "name": "Open Country A/T III",
+            "description": "The Toyo Tires Open Country A/T III is an all-terrain tire designed for SUV and light truck applications, providing a balance of on-road comfort and off-road capability, enhanced traction, and improved tread life.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "7d019b61-5893-4773-8786-16b157387f9d",
+            "image": null,
+            "name": "Proxes Sport",
+            "description": "The Toyo Proxes Sport is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip and handling for spirited driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "7de55818-d83d-4481-8803-5a2d86d79a08",
+            "image": null,
+            "name": "Renault Scala",
+            "description": "The Renault Scala is a compact sedan launched in 2012, designed to provide a blend of comfort, style, and efficiency for urban driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "89d8b0a6-8782-425d-9bcf-68d3c6d1f1ca",
+            "image": null,
+            "name": "iPad Pro (third generation)",
+            "description": "The iPad Pro (third generation) is a high-performance tablet designed for professionals and creatives, featuring advanced capabilities for productivity and creativity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "110c2e09-976b-4539-aebb-90ca2a8b4f77",
+            "image": null,
+            "name": "Proxes T1 Sport",
+            "description": "The Toyo Proxes T1 Sport is a high-performance summer tire designed for enhanced grip and handling on both wet and dry roads, catering to sports cars and performance vehicles.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "1a13f817-0801-490b-9f09-be11852ed504",
+            "image": null,
+            "name": "LEGO Star Wars: Episode IX - The Rise of Skywalker",
+            "description": "LEGO Star Wars: Episode IX - The Rise of Skywalker features sets inspired by the final installment of the Skywalker saga, allowing fans to build and recreate iconic scenes and characters from the film.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "23191817-ef60-4656-90ea-48672c99d69b",
+            "image": null,
+            "name": "Hino 300 Series",
+            "description": "The Hino 300 Series is a range of versatile pickup trucks designed for urban and rural applications, known for their reliability, efficiency, and payload capacity.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino"
+            }
+        },
+        {
+            "id": "2d53ac5a-1ca4-456f-85bc-6b1892a1e2ff",
+            "image": null,
+            "name": "LEGO Star Wars: The Last Jedi",
+            "description": "The LEGO Star Wars: The Last Jedi series features various building sets inspired by characters, vehicles, and scenes from the Star Wars: Episode VIII movie, encouraging imaginative play and creativity among fans of all ages.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "2f63b707-79b0-4cb1-964f-7f1bf30c81a8",
+            "image": null,
+            "name": "Open Country M/T",
+            "description": "The Toyo Tires Open Country M/T is an all-terrain tire designed for off-road enthusiasts, providing enhanced traction, durability, and performance in mud, snow, and rocky environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "3b46ec95-973e-4fde-8bf8-d5271f54f7e9",
+            "image": null,
+            "name": "MG ZS Electric",
+            "description": "The MG ZS Electric is a compact electric SUV designed to offer a sustainable driving experience with modern technology and spacious interiors.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "a1af6245-5bdc-407a-ac54-1ffc94a36c9f",
+            "image": null,
+            "name": "Triumph Speed Twin",
+            "description": "The Triumph Speed Twin, introduced in 2018, is a modern classic motorcycle that combines iconic styling with contemporary performance and technology. It is designed for those who seek a blend of heritage and innovative engineering in their riding experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "b53764c2-5cf8-4954-9e1a-759d930490b9",
+            "image": null,
+            "name": "Audi Q8 55 TFSI",
+            "description": "The Audi Q8 55 TFSI is a luxury SUV that combines performance, versatility, and advanced technology, making it suitable for both urban and off-road environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c1e4f802-fa1d-45b1-ae75-484cc63d8b22",
+            "image": null,
+            "name": "BMW 5 Series (E39)",
+            "description": "The BMW 5 Series (E39) is a mid-size luxury sedan known for its balanced performance, comfort, and advanced technology. Released in 2000, it is part of the fourth generation of the 5 Series, combining elegance with sportiness.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "d5ab4895-8c0a-472f-8692-a306401e29dc",
+            "image": null,
+            "name": "Honda Civic Type R (Limited Edition)",
+            "description": "The Honda Civic Type R (Limited Edition) is a high-performance hatchback known for its agile handling, powerful turbocharged engine, and sporty design, aimed at driving enthusiasts seeking a blend of practicality and track-ready performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d6708afc-7ecc-4e1a-ae14-1f64aa9fa9dc",
+            "image": null,
+            "name": "Volvo S80 (second generation)",
+            "description": "The Volvo S80 (second generation) is a premium mid-size sedan that emphasizes safety, comfort, and advanced technology. It is designed to provide a luxurious driving experience with a focus on passenger well-being and environmental sustainability.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e90f687f-bceb-400d-ac8d-8deb39838cd5",
+            "image": null,
+            "name": "ADVAN Neova",
+            "description": "The Yokohama ADVAN Neova series is designed for high-performance vehicles, offering superior grip and handling in both wet and dry conditions, making it a popular choice for motorsport and performance driving enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "ea46aee2-9f36-4761-a475-d7e0c6e05958",
+            "image": null,
+            "name": "ContiSportContact 5",
+            "description": "The Continental ContiSportContact 5 is a high-performance tire designed for sporty driving, offering enhanced grip, precise handling, and shorter braking distances on both wet and dry surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "5f98003f-b246-401e-a1e8-7a5c41216d13",
+            "image": null,
+            "name": "Yokohama Parada Spec-2",
+            "description": "The Yokohama Parada Spec-2 is a high-performance tire designed for street use, offering enhanced handling and grip for sporty vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "68567350-11c4-45e1-a2b4-8928ee3055c9",
+            "image": null,
+            "name": "ContiWinterContact TS830",
+            "description": "The Continental ContiWinterContact TS830 is a winter tire designed for excellent handling, improved grip on snow and ice, and enhanced braking performance in cold conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "6bc70161-8bdc-4371-a9b4-7213c4223efe",
+            "image": null,
+            "name": "International MXT",
+            "description": "The International MXT is a heavy-duty pickup truck that combines ruggedness with versatile utility, designed for both work and off-road performance.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "International Trucks"
+            }
+        },
+        {
+            "id": "f3426237-8d4a-4a95-9dd1-253fe26eecc7",
+            "image": null,
+            "name": "ContiEcoContact 6",
+            "description": "The Continental ContiEcoContact 6 is a summer tire designed for fuel efficiency and reduced rolling resistance, while maintaining grip and safety on wet and dry roads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "6db7579c-3a1c-4130-95ad-faa03ff21ffa",
+            "image": null,
+            "name": "Hino 500 Series",
+            "description": "The Hino 500 Series is a range of versatile pickup trucks designed for medium-duty applications, offering durability and reliability for various commercial purposes.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino"
+            }
+        },
+        {
+            "id": "a1d81c25-1f59-40be-acf5-0ed3866016db",
+            "image": null,
+            "name": "Miele T1 Heat Pump Dryers",
+            "description": "The Miele T1 Heat Pump Dryers are designed for efficient and gentle clothes drying, utilizing advanced heat pump technology to minimize energy consumption while maintaining fabric care.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8017d512-cd7a-465e-800a-8fe33672a00f",
+            "image": null,
+            "name": "Geolandar",
+            "description": "The Yokohama Geolandar series is designed for off-road and all-terrain performance, providing durability and traction in challenging conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "f331ef50-3f1a-4792-87c6-f56011687ccd",
+            "image": null,
+            "name": "Ninja ZX-6R",
+            "description": "The Kawasaki Ninja ZX-6R is a sport motorcycle known for its performance, agility, and advanced engineering, designed for both track and street use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "897621ab-b862-454c-b9ce-82c5d8a7dedb",
+            "image": null,
+            "name": "ContiMaxContact MC6",
+            "description": "The Continental ContiMaxContact MC6 is a high-performance tire designed for sport and luxury cars, offering exceptional grip and stability in both wet and dry conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "9298896f-1978-43f3-8228-6ba45c93d7dc",
+            "image": null,
+            "name": "ContiPremiumContact 6",
+            "description": "The Continental ContiPremiumContact 6 is a high-performance tire designed for cars, focusing on enhanced safety and handling on both wet and dry roads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "9452f1da-4e22-45be-bfc2-00fed96f04ca",
+            "image": null,
+            "name": "Proxes Sport A",
+            "description": "The Toyo Tires Proxes Sport A is a high-performance tire designed to enhance handling and grip in both wet and dry conditions. It is suitable for performance-oriented vehicles, delivering responsive steering and improved cornering stability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "a216238c-d182-41ee-a35e-105d52d193af",
+            "image": null,
+            "name": "Volvo S60 (Facelift)",
+            "description": "The Volvo S60 (Facelift) is a compact executive car that combines luxury, performance, and safety. It features an updated design and enhanced technology while maintaining Volvo's renowned focus on driver and passenger safety.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bcd41088-ec29-4301-a631-18bcb7314dec",
+            "image": null,
+            "name": "ContiPremiumContact 5",
+            "description": "The Continental ContiPremiumContact 5 is a premium tire designed to provide excellent wet and dry traction, enhanced comfort, and optimized rolling resistance for various driving conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        }
+    ]
+}

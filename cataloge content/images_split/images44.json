@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "e9022b37-a1cd-446c-82fb-cb7e9911075d",
+            "image": null,
+            "name": "Škoda Rapid",
+            "description": "The Škoda Rapid is a compact car produced by Skoda Auto since 2011, designed to offer an affordable yet spacious and practical option for urban and family use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "ed6ec120-3d63-48c6-80ff-fce758d1f311",
+            "image": null,
+            "name": "Shinko 244",
+            "description": "The Shinko 244 is a dual-sport motorcycle tire designed for both on-road and off-road use, offering versatility and durability for various riding conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "f8238f15-5187-4aaa-a997-a4533ec6bedc",
+            "image": null,
+            "name": "SHINKO 540",
+            "description": "The Shinko 540 is a series of motorcycle tires designed for excellent grip and stability, particularly suited for sport and performance riding.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "fbbda41e-d0d7-4e20-b45a-91398d99926a",
+            "image": null,
+            "name": "Electrolux Evolve",
+            "description": "The Electrolux Evolve series includes lightweight vacuum cleaners designed for effective cleaning and maneuverability around the home.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "05012489-e08d-45b6-9ba8-c815401b02e7",
+            "image": null,
+            "name": "Bully Dog GT Tuner",
+            "description": "The Bully Dog GT Tuner is a versatile performance tuning device designed to optimize vehicle power, fuel efficiency, and overall driving experience. Released in 2014, it provides users with customizable settings and easy-to-read gauges for monitoring vehicle performance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "06374e02-e0fb-4317-a64d-b6fd9b649183",
+            "image": null,
+            "name": "Captur",
+            "description": "The Renault Captur is a compact SUV launched in 2016, known for its stylish design, versatility, and urban-friendly features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "0c523ef0-97dd-4888-b336-c953d40e40c0",
+            "image": null,
+            "name": "Enyaq iV",
+            "description": "The Skoda Enyaq iV is an all-electric SUV designed to deliver a combination of practicality, comfort, and advanced technology, catering to environmentally conscious consumers and families alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "1baab6c1-3774-4b8f-874b-3553c40f7a62",
+            "image": null,
+            "name": "Maruti Suzuki Wagon R",
+            "description": "The Maruti Suzuki Wagon R is a compact hatchback known for its practicality, affordability, and efficient use of space. It is designed to cater to urban mobility needs while offering comfort and decent performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "229a3a90-97d1-49ba-9c12-e174c49eb528",
+            "image": null,
+            "name": "Bully Dog GT Platinum",
+            "description": "The Bully Dog GT Platinum is an advanced performance tuner designed for enhanced engine performance and monitoring. It features customizable settings that allow users to optimize their vehicle's horsepower, torque, and fuel efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "31636c39-9a35-4cb4-b3ca-bd12f59636d0",
+            "image": null,
+            "name": "Renault Sandero",
+            "description": "The Renault Sandero is a compact hatchback launched by Renault India in 2006, designed to offer a practical and affordable transportation solution with a focus on comfort and functionality.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "3c5f2cd2-f6db-42cf-9535-c8a9121f80f0",
+            "image": null,
+            "name": "Shinko 777",
+            "description": "The Shinko 777 series is designed for cruising motorcycles, offering a balance of comfort and performance with an emphasis on stability and handling on paved roads.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "3e92d05e-d8fb-4ca3-bd32-0e657906ab79",
+            "image": null,
+            "name": "Renault Triber",
+            "description": "The Renault Triber is a versatile and compact MPV designed to accommodate families with flexible seating options and ample cargo space. Launched in 2018, it aims to provide practicality and comfort for urban and suburban driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "6319b03d-3e6c-4973-98f9-bd3ebeccbd83",
+            "image": null,
+            "name": "Shoei X-Eleven",
+            "description": "The Shoei X-Eleven is a high-performance motorcycle helmet designed for both comfort and safety, featuring advanced aerodynamics and ventilation for enhanced riding experiences.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "6a2fbd30-19cd-4648-997d-b88f1d9f5cd9",
+            "image": null,
+            "name": "Shinko 006",
+            "description": "The Shinko 006 is a series of motorcycle tires designed for performance and durability, offering excellent grip and handling for both street and sport riding enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "96b33d9c-416a-44e7-9044-e998d92c1eea",
+            "image": null,
+            "name": "Pro Shade System",
+            "description": "The Arai Pro Shade System is designed to enhance the rider's visibility and comfort by providing an integrated sun visor that can be adjusted to various positions, protecting against glare without compromising safety.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "b9137629-8315-4968-ace2-3f40a1cf3efa",
+            "image": null,
+            "name": "Arai XD4",
+            "description": "The Arai XD4 is a dual-sport motorcycle helmet designed for versatility, providing excellent protection for both on-road and off-road riding. It features an aerodynamic shell and ventilation system to enhance rider comfort and safety.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "4e0be0b5-41bc-4e91-8de6-c527467ef154",
+            "image": null,
+            "name": "Rinnai EX Series",
+            "description": "The Rinnai EX Series is a collection of high-efficiency water heaters designed to provide continuous hot water supply, featuring advanced technology for optimal performance and reliability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Rinnai"
+            }
+        },
+        {
+            "id": "d6c06729-5a66-493b-a963-dfe4a57a8206",
+            "image": null,
+            "name": "Shinko SR777",
+            "description": "The Shinko SR777 is a motorcycle tire series designed to provide excellent grip and stability on both wet and dry surfaces, ideal for cruisers and touring motorcycles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "ff26432e-951b-4eb7-a1af-2b6b61a02c83",
+            "image": null,
+            "name": "Kawasaki KLX110",
+            "description": "The Kawasaki KLX110 is a youth-oriented off-road motorcycle designed for beginners and smaller riders, featuring a lightweight frame and easy handling for enhanced accessibility and fun on trails.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "047e885c-2669-4fca-8e44-dda25ccc76df",
+            "image": null,
+            "name": "Concept-X",
+            "description": "The Arai Concept-X is a motorcycle helmet designed for riders seeking a blend of classic styling and modern performance, emphasizing comfort and safety in its construction.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "0ae4c3eb-b24d-4680-a2e7-51410dc3c3bf",
+            "image": null,
+            "name": "Shinko 944",
+            "description": "The Shinko 944 is a motorcycle tire series designed for touring and sport-touring applications, offering a blend of comfort and performance on both dry and wet surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0dad0c10-e464-45e9-b8c1-e37fe4db73be",
+            "image": null,
+            "name": "Shinko 241",
+            "description": "The Shinko 241 is a tire designed for scooter and motorcycle applications, providing enhanced traction and stability for urban riding.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "1c3fdf1a-ae84-4537-b6ee-1679ea881184",
+            "image": null,
+            "name": "Arai Signet-Q",
+            "description": "The Arai Signet-Q is a full-face motorcycle helmet known for its exceptional fit, aerodynamic performance, and high safety standards, catering to riders seeking comfort and protection on the road.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "1ce4772f-c4ab-4187-bf71-738b2298e09c",
+            "image": null,
+            "name": "Arai Vector",
+            "description": "The Arai Vector series is designed for motorcycle riders, offering a blend of safety, comfort, and aerodynamic performance. Its lightweight construction and advanced ventilation system make it suitable for various riding conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "1f2d201d-62ed-4230-9855-bceb6c5d5e0d",
+            "image": null,
+            "name": "Arai RX-7 Corsair",
+            "description": "The Arai RX-7 Corsair is a premium motorcycle helmet designed for high-performance riding, offering advanced safety features and exceptional comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "341e3032-6764-4d5f-a454-ce64f215e5e7",
+            "image": null,
+            "name": "Shinko 216 MX Series",
+            "description": "The Shinko 216 MX Series is designed for off-road motorcycles, providing superior traction and stability on various terrains, making it an ideal choice for motocross and trail riding enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "3c72609d-e3ea-4231-9a14-b19a9d347d52",
+            "image": null,
+            "name": "Arai Quantum-2",
+            "description": "The Arai Quantum-2 is a premium motorcycle helmet designed for riders seeking superior comfort and safety features, including a strong shell construction and advanced ventilation systems.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "3d08f457-f22b-4e3c-a8fa-cf95d9acbe56",
+            "image": null,
+            "name": "Shinko 805",
+            "description": "The Shinko 805 series is designed for dual-sport and adventure motorcycles, offering excellent traction and stability on both on-road and off-road surfaces.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "42c81d9d-9d5b-415d-a1c9-a344da715de8",
+            "image": null,
+            "name": "Shinko SR244",
+            "description": "The Shinko SR244 is a versatile motorcycle tire designed for both on-road and off-road use, providing good traction and stability in various conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "45360247-4243-4f0a-9bf3-d4a3a365747b",
+            "image": null,
+            "name": "Shinko SR241",
+            "description": "The Shinko SR241 is a tire series designed primarily for lightweight motorcycles, offering a classic look with modern performance capabilities. It features a durable rubber compound that provides excellent grip on both wet and dry surfaces, making it suitable for various riding conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        }
+    ]
+}

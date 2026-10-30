@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "id": "7b60b855-f3c2-44c3-b636-bd9c2d57906f",
+            "image": null,
+            "name": "Xbox One X",
+            "description": "The Xbox One X is a gaming console developed by Microsoft, released in 2017, known for its 4K gaming capabilities and powerful hardware design, aimed at delivering a premium gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "8298f272-7065-4670-843e-1f5668a17d28",
+            "image": null,
+            "name": "Gabrielle",
+            "description": "The Chanel Gabrielle series consists of versatile and stylish bags that embody the brand's iconic elegance. Launched in 2016, these bags are designed for everyday use while featuring a contemporary twist on classic Chanel aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9337dd9b-8ade-481f-b42b-cc56417914d5",
+            "image": null,
+            "name": "City Mini GT2",
+            "description": "The Baby Jogger City Mini GT2 is a versatile stroller designed for parents who seek a balance between functionality and comfort. It features all-terrain wheels and a one-handed quick fold for easy portability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "96522d3d-25a8-4fac-b3e4-9479869dd844",
+            "image": null,
+            "name": "Triumph Daytona 675",
+            "description": "The Triumph Daytona 675 is a sport motorcycle known for its impressive performance, handling, and distinctive design, aimed at both track enthusiasts and street riders.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "98c889d2-101d-43ae-88ad-776a1154787e",
+            "image": null,
+            "name": "TCL Washing Machines",
+            "description": "The TCL Washing Machines series offers efficient and reliable laundry solutions designed to simplify the washing process and ensure clean and fresh garments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c2f98824-1a33-416f-861c-46b99a3e6260",
+            "image": null,
+            "name": "Gas Gas EC 200",
+            "description": "The Gas Gas EC 200 is an off-road motorcycle designed for enduro riding, known for its lightweight frame and capable engine that provides balanced performance and agility on various terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "10935d7a-68d6-482f-91de-aa1c5548c08d",
+            "image": null,
+            "name": "KTM 790 Duke",
+            "description": "The KTM 790 Duke is a middleweight naked motorcycle designed for agility and performance on both urban streets and winding roads, offering a blend of cutting-edge technology and a lightweight chassis.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "158441c5-4008-4a52-803f-fd06f0c9b547",
+            "image": null,
+            "name": "Miele C3 Vacuum Cleaners",
+            "description": "The Miele C3 Vacuum Cleaners are high-performance vacuum cleaners designed for thorough cleaning across various surfaces, featuring advanced filtration systems and a range of specialized attachments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1ef1c094-91e7-4bd1-83c9-1885823fe414",
+            "image": null,
+            "name": "Triumph Speed Triple 1200 RS",
+            "description": "The Triumph Speed Triple 1200 RS is a high-performance naked motorcycle designed for exhilarating street riding and agile handling, featuring advanced technology and a powerful engine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "1ff9630f-4efb-4897-84d0-f3232dee8c85",
+            "image": null,
+            "name": "Mi A3",
+            "description": "The Xiaomi Mi A3 is an Android smartphone known for its clean software experience and impressive camera capabilities, aimed at users seeking a balance between performance and affordability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "228161cc-9031-48bd-b866-e15a269537ad",
+            "image": null,
+            "name": "Triumph Street Twin 900",
+            "description": "The Triumph Street Twin 900 is a modern classic motorcycle that combines retro styling with contemporary performance, designed for both urban commuting and leisurely rides.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "444ed11b-c6f3-49d6-8cc1-64051ed88760",
+            "image": null,
+            "name": "Miele Generation 7000",
+            "description": "The Miele Generation 7000 series comprises high-quality refrigerators designed to optimize food preservation and convenience, featuring advanced cooling technologies and customizable settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "460097eb-8521-4d02-b5d2-e4f0c5f6121c",
+            "image": null,
+            "name": "Nuna PIPA Lite Rx",
+            "description": "The Nuna PIPA Lite Rx is a lightweight infant car seat designed for safety and convenience, offering a streamlined design and easy installation features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c6e77e2e-1fee-4874-baac-4db23a1ef416",
+            "image": null,
+            "name": "Miele M 7240",
+            "description": "The Miele M 7240 series includes built-in microwaves designed for efficient cooking and reheating, exemplifying Miele's commitment to quality and innovative technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cbc17a54-9ffe-4f20-9d93-3a2e17f6d23e",
+            "image": null,
+            "name": "Nite Jogger",
+            "description": "The Adidas Nite Jogger is a retro-inspired sneaker designed for comfort and versatility, featuring reflective elements for improved visibility during nighttime activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "e170c555-72c3-42fc-b546-9c580b1efd72",
+            "image": null,
+            "name": "Redmi Note 7 Pro",
+            "description": "The Xiaomi Redmi Note 7 Pro is a mid-range smartphone known for its high-performance capabilities, featuring a powerful processor, a dual-camera system, and a large display aimed at providing a balanced performance-to-price ratio for everyday users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "f2a0d13a-6c91-49ec-a5f3-b9b92d1b29dc",
+            "image": null,
+            "name": "Xiaomi 13",
+            "description": "The Xiaomi 13 series consists of a range of high-performance smartphones designed to deliver advanced photography capabilities, powerful processing, and a sleek design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "fbe8dce9-8312-409c-b115-c271ba2d930e",
+            "image": null,
+            "name": "Redmi Note 12",
+            "description": "The Xiaomi Redmi Note 12 series features a range of smartphones designed to provide quality performance, robust features, and affordability, making them suitable for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "6311681f-3643-4303-b4cc-f36af168dff1",
+            "image": null,
+            "name": "Redmi Note 11",
+            "description": "The Xiaomi Redmi Note 11 series consists of smartphones designed to provide a balanced combination of performance, camera capabilities, and battery life, targeting users who seek quality at an accessible price point.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "90f7cac4-fedd-4ddc-9533-47c1c15accff",
+            "image": null,
+            "name": "Canon EOS M6",
+            "description": "The Canon EOS M6 is a compact mirrorless camera designed for enthusiasts seeking high-quality photography and video capabilities in a portable form factor.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe57d76f-a6f0-496b-b7c7-ce2cd3d4b1e6",
+            "image": null,
+            "name": "Xiaomi Watch S1 Pro",
+            "description": "The Xiaomi Watch S1 Pro is a premium smartwatch designed for fitness tracking and everyday usability, featuring an array of health monitoring functions, a vibrant display, and a sleek design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "97122a84-38c8-481d-a55a-4a103f5e8911",
+            "image": null,
+            "name": "Nissan GT-R (R35)",
+            "description": "The Nissan GT-R (R35) is a high-performance sports car that combines advanced technology and engineering for superior speed, handling, and power. Launched in 2007, it is known for its iconic design and has garnered a reputation as a formidable contender on both the racetrack and the road.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "a575fc03-2a47-4af4-bbc9-35c8a56b0024",
+            "image": null,
+            "name": "Redmi K50 Gaming",
+            "description": "The Xiaomi Redmi K50 Gaming series is designed specifically for gaming enthusiasts, featuring high-performance processors, advanced cooling systems, and customizable gaming features to enhance the gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b0226ce4-c7d3-41f2-bfea-41457e4b6249",
+            "image": null,
+            "name": "Mi 11 Series",
+            "description": "The Xiaomi Mi 11 Series is a collection of premium smartphones designed to deliver high-performance capabilities, advanced camera systems, and vibrant displays.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b21d50fa-e771-4844-a59c-8d76ab59c1ce",
+            "image": null,
+            "name": "Xiaomi 12 Pro",
+            "description": "The Xiaomi 12 Pro is a flagship smartphone released in 2022, known for its high-performance features, advanced camera system, and premium design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b4bd978d-db5b-458f-bfb7-1ef98bba22ff",
+            "image": null,
+            "name": "Poco X3 NFC",
+            "description": "The Poco X3 NFC is a budget-friendly smartphone designed for gaming and multimedia consumption, featuring a high refresh rate display and advanced camera capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b8281411-c83c-4b9c-8511-3f782db0b558",
+            "image": null,
+            "name": "Xiaomi 12 Ultra",
+            "description": "The Xiaomi 12 Ultra is a high-end smartphone released in 2022, designed to deliver exceptional camera capabilities, powerful performance, and a premium user experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "c5d743d0-df09-46f3-a421-df3cdae2bcf6",
+            "image": null,
+            "name": "Redmi Note 9",
+            "description": "The Redmi Note 9 is a mid-range smartphone from Xiaomi, released in 2020, known for its balance of performance, camera capabilities, and battery life at an affordable price.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "d7060b09-5884-4666-bdec-bb2f8ed37d7e",
+            "image": null,
+            "name": "Zero FX",
+            "description": "The Zero FX is an electric motorcycle designed for off-road and dual-sport riding, known for its lightweight design and agile handling.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "113433b2-3683-4582-bcc7-c95cf7c3f5e3",
+            "image": null,
+            "name": "Mi Band 7",
+            "description": "The Xiaomi Mi Band 7 is a fitness tracker that offers a variety of health monitoring features, including heart rate tracking, sleep analysis, and multiple sport modes to help users maintain an active and healthy lifestyle.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        }
+    ]
+}

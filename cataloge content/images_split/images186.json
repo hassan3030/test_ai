@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "8f222527-2901-4e3d-9b1a-5a9a6f460c53",
+            "image": null,
+            "name": "O.S. Series",
+            "description": "The Oscar Schmidt O.S. Series consists of a range of quality musical instruments designed for both beginners and experienced musicians, emphasizing ease of play and beautiful sound.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "25c24dbd-57b5-4f88-be27-e616b35c14d1",
+            "image": null,
+            "name": "Oscar Schmidt OG2",
+            "description": "The Oscar Schmidt OG2 is an acoustic guitar designed for both beginners and seasoned players, featuring a classic dreadnought shape that enhances sound projection and tonal quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "d2aa8b3a-a3aa-4ebc-a20b-9309805116e0",
+            "image": null,
+            "name": "Oscar Schmidt OU2",
+            "description": "The Oscar Schmidt OU2 is an acoustic ukulele designed for beginners and experienced players alike, providing a rich sound and solid construction suitable for various musical styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "65e54c3e-a37b-48d5-afbc-20de2b19bfb3",
+            "image": null,
+            "name": "Oscar Schmidt Autoharps",
+            "description": "The Oscar Schmidt Autoharps are a line of musical instruments designed for easy playability, ideal for beginners and seasoned musicians alike, allowing users to create beautiful melodies with minimal effort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "a719efb2-78b4-4100-9283-495d6d78e1fb",
+            "image": null,
+            "name": "Laney IRT Studio",
+            "description": "The Laney IRT Studio is a compact, portable guitar amplifier designed for innovative sound shaping and versatile performance. It features advanced technology to deliver a wide range of tonal possibilities for practicing and recording.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Laney"
+            }
+        },
+        {
+            "id": "846aa130-8294-45d6-8158-fc9ce76b0e14",
+            "image": null,
+            "name": "Laney Nexus",
+            "description": "The Laney Nexus series comprises highly versatile amplifiers designed for modern musicians, featuring advanced technology and superior tonal flexibility.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Laney"
+            }
+        },
+        {
+            "id": "8c09b300-5019-4393-829b-13aef71cb325",
+            "image": null,
+            "name": "Laney A-Fresco",
+            "description": "The Laney A-Fresco series offers versatile outdoor amplifiers designed for playing music in open-air environments, featuring enhanced durability and weather-resistant capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Laney"
+            }
+        },
+        {
+            "id": "6e07e3a6-178d-4891-86d3-6fde23ce0a84",
+            "image": null,
+            "name": "Kookaburra Shadow",
+            "description": "The Kookaburra Shadow series is designed for outdoor adventurers, providing reliable and durable camping gear suitable for various environments. Its lightweight design and weather-resistant materials make it ideal for camping enthusiasts seeking functionality and comfort in their outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Kookaburra"
+            }
+        },
+        {
+            "id": "04230112-28df-424d-99c6-cf786259dc90",
+            "image": null,
+            "name": "Kookaburra Blaze",
+            "description": "The Kookaburra Blaze series offers durable camping gear designed for outdoor enthusiasts, providing essential equipment that combines reliability and functionality for various camping activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Kookaburra"
+            }
+        },
+        {
+            "id": "d64e2eda-5df5-45e4-8b56-f3de8b3bfd3a",
+            "image": null,
+            "name": "AirZone Centro",
+            "description": "The Lowe Alpine AirZone Centro series is designed for hikers and outdoor enthusiasts, offering breathable back systems for comfort while carrying gear on long treks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "7d9c26d5-554b-4f30-9c3d-61372938626a",
+            "image": null,
+            "name": "Lowe Alpine AirZone",
+            "description": "The Lowe Alpine AirZone series offers a range of breathable and comfortable backpacks suitable for hiking and outdoor adventures, designed to enhance ventilation and keep the wearer cool during strenuous activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "282d83ab-6d2c-4188-8fab-491d51ae597d",
+            "image": null,
+            "name": "Element Skateboards 2017 Deck Series",
+            "description": "The Element Skateboards 2017 Deck Series features a range of high-quality skateboards designed for both performance and durability, reflecting Element's commitment to innovation and style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "329dbe03-887a-4985-8121-ae056e77dedc",
+            "image": null,
+            "name": "Bumbleride Indie Twin",
+            "description": "The Bumbleride Indie Twin is a double stroller designed for parents with twins or siblings close in age, featuring a lightweight, versatile design suitable for various terrains.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "6a92c480-1052-4002-9776-fcd7c2fa119e",
+            "image": null,
+            "name": "Chevrolet Silverado (2006)",
+            "description": "The Chevrolet Silverado 2006 is a full-size pickup truck known for its strong performance, robust towing capacity, and versatile design, making it suitable for both work and everyday use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "9d958a81-0166-4101-b51e-941c9ebc5138",
+            "image": null,
+            "name": "Airaid Cold Air Dam",
+            "description": "The Airaid Cold Air Dam is an aftermarket air intake system designed to increase engine performance by improving airflow to the engine. This system helps optimize air intake temperature and enhances throttle response.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "104661d3-2d05-4580-b434-7127d1357902",
+            "image": null,
+            "name": "New Soft99 Wax",
+            "description": "Soft99 New Wax series includes a range of car care products designed to protect and enhance the appearance of vehicle surfaces while providing a long-lasting shine.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "11ff8630-7769-4119-90cf-3e7b3d2daf99",
+            "image": null,
+            "name": "Dacia Logan",
+            "description": "The Dacia Logan is a compact family car first launched in 2000, designed to provide affordability and practicality for everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "13603504-52d8-46d2-9d6e-5f232abac1d7",
+            "image": null,
+            "name": "Hino 700 Series",
+            "description": "The Hino 700 Series is a heavy-duty truck lineup designed for long-distance transportation and commercial applications, known for its reliability and fuel efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino"
+            }
+        },
+        {
+            "id": "1374edf9-86db-4d77-ade0-b6a8a1b28e6c",
+            "image": null,
+            "name": "Dior Women's Bags Collection",
+            "description": "The Dior Women's Bags Collection, released in 2021, features a range of luxurious handbags that combine elegance and functionality, designed for the modern woman.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "15d03fb1-e22a-443e-9ebf-c9947b8bce9f",
+            "image": null,
+            "name": "The Last of Us Part I",
+            "description": "The Last of Us Part I is a remastered version of the critically acclaimed action-adventure game that follows the harrowing journey of Joel and Ellie in a post-apocalyptic world. The game is known for its engaging storytelling, character development, and immersive gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "167af5d4-3342-4b6a-b9d2-1f6b55d514b6",
+            "image": null,
+            "name": "Volkswagen Tiguan (2nd Generation)",
+            "description": "The Volkswagen Tiguan (2nd Generation) is a compact SUV that combines versatility, advanced technology, and a spacious interior to cater to the needs of modern families and urban drivers.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "1779d01b-d6f8-4938-bac4-37a4eb9da393",
+            "image": null,
+            "name": "Mahindra Scorpio",
+            "description": "The Mahindra Scorpio is a mid-size SUV launched in 2000, known for its rugged build, off-road capabilities, and spacious interiors, catering to both urban and rural driving needs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "1a19cafe-d35a-4a4e-8dc9-79911d85d151",
+            "image": null,
+            "name": "MagnaFlow Universal Series",
+            "description": "The MagnaFlow Universal Series provides high-quality universal fit exhaust components designed to improve vehicle performance and sound. This series is engineered for durability and efficiency across a wide range of vehicle makes and models.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "1ff9204e-0e52-4bbd-a076-c8ea7eeaaa73",
+            "image": null,
+            "name": "Volkswagen Golf V",
+            "description": "The Volkswagen Golf V, launched in 2004, is a compact car known for its practicality, reliability, and versatility, appealing to a wide range of drivers.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "837bed18-dc5e-48ed-81ee-9fe05fc0ba4b",
+            "image": null,
+            "name": "Freestyle Series",
+            "description": "The Haro Bikes Freestyle Series is designed for riders seeking high performance in BMX freestyle riding. Known for their durability and innovative design, these bikes are crafted to handle tricks, jumps, and urban riding with ease.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "86da0286-da61-4130-99ea-1e035b13c623",
+            "image": null,
+            "name": "Trax",
+            "description": "The Force Motors Trax is a series of pickup trucks introduced in 2006, designed for durability and versatility in various commercial applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "43399631-3353-4db6-854d-6bfe17ddcb14",
+            "image": null,
+            "name": "Compact",
+            "description": "The Thermex Compact series consists of compact water heaters designed for efficient space-saving solutions while providing reliable hot water delivery.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "b17e11ff-8bbf-4831-809f-73cc0bd9a1f6",
+            "image": null,
+            "name": "Lowe Alpine Apex",
+            "description": "The Lowe Alpine Apex series offers a range of high-quality camping gear designed for outdoor enthusiasts seeking reliability and performance in various conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "cb236dbe-0c3e-4d5b-8a3d-60dd63d5c573",
+            "image": null,
+            "name": "Element x The Simpsons",
+            "description": "The Element x The Simpsons series combines the iconic designs from the beloved animated television show with high-quality skateboards, catering to both skateboard enthusiasts and fans of the series.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "d8aaf541-102a-476d-8a8f-336136814e22",
+            "image": null,
+            "name": "Nord Stage 3",
+            "description": "The Nord Stage 3 is a professional performance keyboard designed for musicians, offering a versatile combination of synthesizers, organs, and pianos with a user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        }
+    ]
+}

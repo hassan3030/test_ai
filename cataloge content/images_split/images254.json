@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "fd858396-5f4d-4b9a-b66f-8ab06c67bf0b",
+            "image": null,
+            "name": "Škoda Enyaq",
+            "description": "The Škoda Enyaq is an electric SUV introduced by Skoda Auto in 2020, known for its spacious interior, advanced technology, and sustainable design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "3a6f4f2c-c822-4532-880e-7cdaf401bc70",
+            "image": null,
+            "name": "Yamaha MT-03",
+            "description": "The Yamaha MT-03 is a compact and agile motorcycle, designed for urban commuting and spirited rides. It features a lightweight frame and an expressive styling that appeals to both new and experienced riders.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "59c15a4a-3983-40b9-82a5-2977e786aa8a",
+            "image": null,
+            "name": "Yamaha YZ450F",
+            "description": "The Yamaha YZ450F is a high-performance motocross motorcycle designed for competitive racing and off-road riding, featuring advanced engineering and technology for superior handling and power.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "58c846a7-8b98-4af3-b1a4-d1ed53cc44c2",
+            "image": null,
+            "name": "Conté à Paris Colored Pencils",
+            "description": "The Conté à Paris Colored Pencils series offers high-quality colored pencils designed for artists and illustrators. Known for their rich pigments and smooth application, these pencils are suitable for various art projects and techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "e10cc61b-ac73-4385-8a08-1372c6411e62",
+            "image": null,
+            "name": "Yamaha XSR900",
+            "description": "The Yamaha XSR900 is a retro-styled motorcycle that blends modern performance with classic aesthetics, designed for riders who appreciate both style and versatility.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "92512b3c-e5fe-463f-974d-7008860fcd13",
+            "image": null,
+            "name": "Eddie Aikau",
+            "description": "The Maui Jim Eddie Aikau sunglasses are designed to provide high-quality UV protection and enhance color visibility, making them ideal for outdoor activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "4853b4b6-c46e-43e9-915a-84836f30eb01",
+            "image": null,
+            "name": "Volkswagen Touareg (Second Generation)",
+            "description": "The Volkswagen Touareg (Second Generation) is a mid-size luxury SUV that offers a blend of comfort, performance, and off-road capability, designed for both urban and adventurous driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "70fe2fff-cbcf-4309-a7bf-803cce463e3e",
+            "image": null,
+            "name": "Peppa Pig: Peppa's Holiday",
+            "description": "The Peppa Pig: Peppa's Holiday series features toys inspired by the beloved children's show, encouraging imaginative play and storytelling through various holiday-themed characters and accessories.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "10c2f92d-1aab-422b-9483-403afa0490dc",
+            "image": null,
+            "name": "Britax Römer Dualfix",
+            "description": "The Britax Römer Dualfix is a versatile baby seat designed to accommodate growing children from birth to around four years old, featuring a 360-degree rotation mechanism for ease of use and enhanced safety.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "dee68581-fb85-4093-aa91-66be5d903811",
+            "image": null,
+            "name": "Volkswagen Beetle (2012-2019)",
+            "description": "The Volkswagen Beetle (2012-2019) is a compact car known for its distinctive design and heritage, combining modern engineering with classic styling.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "2016e6f1-a7e9-4684-9a5e-809fed093dff",
+            "image": null,
+            "name": "Maui Jim Honi",
+            "description": "The Maui Jim Honi series features high-quality sunglasses designed to enhance visual clarity and provide UV protection, making them ideal for outdoor activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "9fc14be5-3fb1-43da-9f6c-b1bfa4249b5e",
+            "image": null,
+            "name": "G-DRIVE SSD",
+            "description": "G-DRIVE SSD by G-Technology is a high-performance solid-state drive designed for professionals seeking fast and reliable storage for their creative projects and data.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "123ed1c9-17ad-43fa-a16a-b800546fa479",
+            "image": null,
+            "name": "Kawasaki ZX-6R",
+            "description": "The Kawasaki ZX-6R is a high-performance sport motorcycle, designed for both track and street use, known for its agility and powerful engine.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "cdeec476-05d4-44ef-9a3d-25c5d2c54b43",
+            "image": null,
+            "name": "Volkswagen ID. Concept",
+            "description": "The Volkswagen ID. Concept is an electric vehicle series that showcases Volkswagen's commitment to sustainable mobility and innovative design, aiming to integrate advanced technology with eco-friendliness.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "43994954-7361-4339-a3ca-ab8b0d5f0016",
+            "image": null,
+            "name": "Dawson Sofa",
+            "description": "The Dawson Sofa by Gus* Modern is a contemporary seating solution designed for comfort and versatility, featuring a clean-lined silhouette and durable, high-quality upholstery.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "01ebe5dc-fa37-4123-8b9b-cfaa053df4fa",
+            "image": null,
+            "name": "Maui Jim Riptide",
+            "description": "The Maui Jim Riptide sunglasses are designed for superior clarity and visual protection in bright light conditions, featuring polarized lenses that enhance color and contrast.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "098fd97a-d4b8-4d35-9bc9-1176275b8db8",
+            "image": null,
+            "name": "Taos",
+            "description": "The Volkswagen Taos is a compact SUV designed to offer practicality and versatility for urban commuting and outdoor adventures. It features a spacious interior, advanced technology, and efficient performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "242860b8-1ecf-4169-b8ee-41b2e09a7e5f",
+            "image": null,
+            "name": "GoPro Fusion",
+            "description": "The GoPro Fusion is a versatile 360-degree camera designed for capturing immersive videos and photos. It offers high-resolution imagery and advanced stabilization features, making it suitable for action sports and adventurous content creation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "d9c5d92d-c10c-450f-ab18-746a3ac2b0ca",
+            "image": null,
+            "name": "GoPro HERO6 Black",
+            "description": "The GoPro HERO6 Black is a versatile action camera released in 2017, known for its high-quality video recording and waterproof capabilities, making it ideal for outdoor and adventure activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "12a02560-63bd-4fb1-9d58-d030813e00d0",
+            "image": null,
+            "name": "HERO7 Black",
+            "description": "The GoPro HERO7 Black is an advanced action camera designed for capturing high-quality video and photos in a variety of environments. It features HyperSmooth stabilization, voice control, and is waterproof without needing an additional housing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "3fa6b6d7-fbc3-4c3c-92e4-372c3fe0029a",
+            "image": null,
+            "name": "GoPro HERO12 Black Mini",
+            "description": "The GoPro HERO12 Black Mini is a compact and durable action camera designed for capturing high-quality photos and videos in various environments, making it suitable for adventure enthusiasts and content creators alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "9bf298d6-9ea9-4db2-9057-707d2ccffa21",
+            "image": null,
+            "name": "JBL Xtreme",
+            "description": "The JBL Xtreme is a portable Bluetooth speaker known for its powerful sound performance and durable, water-resistant design, making it ideal for outdoor use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "a3c1a5e2-0651-46e8-8e60-b934cdb1cd14",
+            "image": null,
+            "name": "JBL Flip 4",
+            "description": "The JBL Flip 4 is a portable Bluetooth speaker designed for both indoor and outdoor use, featuring waterproof construction and a durable design, making it ideal for on-the-go listening.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "6c25aefe-6290-4ccf-a89b-439bb727e93b",
+            "image": null,
+            "name": "JBL Pulse 3",
+            "description": "The JBL Pulse 3 is a portable Bluetooth speaker known for its 360-degree sound and customizable LED light show, making it ideal for both indoor and outdoor gatherings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "ac478b70-9eb2-454d-8dd3-cd7344d812e4",
+            "image": null,
+            "name": "JBL Charge 3",
+            "description": "The JBL Charge 3 is a portable Bluetooth speaker designed for providing high-quality sound with a long battery life, ideal for outdoor activities and social gatherings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "7e39f124-6ca3-4e16-8ab1-6b83b615e8f3",
+            "image": null,
+            "name": "JBL Clip 3",
+            "description": "The JBL Clip 3 is a portable Bluetooth speaker known for its compact size and durable design. It features an integrated carabiner, making it easy to attach to backpacks or bags for on-the-go listening.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "b088f310-b30c-47b8-8fad-90a107fd8e82",
+            "image": null,
+            "name": "JBL T110BT",
+            "description": "The JBL T110BT is a wireless in-ear headphone series designed for on-the-go music enjoyment with a lightweight build and easy connectivity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "630a8dc6-98fe-4221-b617-5f6ee39f181a",
+            "image": null,
+            "name": "JBL Quantum 800",
+            "description": "The JBL Quantum 800 headphones are designed for gamers, offering immersive sound and advanced features such as wireless connectivity and customizable RGB lighting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "b6dff2c9-da69-4bc8-8f09-927c8a6cd5f8",
+            "image": null,
+            "name": "JBL Link Series",
+            "description": "The JBL Link Series consists of smart speakers designed to deliver high-quality audio playback while providing hands-free voice control through Google Assistant.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "bd04d1b6-9111-42fb-9b9e-c4ce481a2880",
+            "image": null,
+            "name": "JBL Tune 500BT",
+            "description": "The JBL Tune 500BT are wireless on-ear headphones designed for convenience and portability, featuring Bluetooth connectivity for easy pairing with devices and delivering a spacious sound profile.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        }
+    ]
+}

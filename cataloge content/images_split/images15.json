@@ -1,0 +1,376 @@
+{
+    "data": [
+        {
+            "id": "f7558eea-4f9f-439f-bf41-46d1e26e1742",
+            "image": null,
+            "name": "Mercedes-Benz SLS AMG",
+            "description": "The Mercedes-Benz SLS AMG is a high-performance sports car known for its distinctive gullwing doors, powerful V8 engine, and advanced engineering, showcasing the brand's commitment to luxury and performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "fe1c05d2-8a5d-4e2a-ab39-e7be767d2e41",
+            "image": null,
+            "name": "R171 (SLK-Class)",
+            "description": "The R171 SLK-Class is a compact roadster designed by Mercedes-Benz, known for its sporty dynamics, retractable hardtop, and premium features that enhance the driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "16e9ffed-2ab3-4511-af65-9f1bd61b7527",
+            "image": null,
+            "name": "Tonal Digital Weight System",
+            "description": "The Tonal Digital Weight System is a smart home gym that uses adjustable digital weights and personalized coaching to create tailored strength training workouts for users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Tonal"
+            }
+        },
+        {
+            "id": "51a7a787-fdd8-4c60-8c2f-289025d88892",
+            "image": null,
+            "name": "G-DRIVE Pro SSD",
+            "description": "The G-DRIVE Pro SSD series is designed for high-performance data storage, offering fast transfer speeds and durable construction ideal for professional use in creative applications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "168af5f1-1cd7-4c1a-ab07-dd8eebd63e35",
+            "image": null,
+            "name": "Tesla Model S Plaid",
+            "description": "The Tesla Model S Plaid is a high-performance electric sedan known for its impressive acceleration, advanced technology, and extensive range.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6ee0e5ac-e3f9-475d-879e-b419b302dbf9",
+            "image": null,
+            "name": "Mercedes-Benz CLS-Class",
+            "description": "The Mercedes-Benz CLS-Class is a luxury four-door coupe known for its distinctive design and high performance, blending the characteristics of a sedan and a sports car since its introduction in 2003.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "8795f643-7304-448b-8342-b5ba7bd4ea53",
+            "image": null,
+            "name": "Honda Accord Plug-in Hybrid",
+            "description": "The Honda Accord Plug-in Hybrid is a mid-size sedan that combines a gasoline engine with an electric motor, allowing for both electric-only driving and hybrid efficiency. It aims to provide an eco-friendly option without sacrificing performance or comfort.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a8ec5c57-47b9-4f16-b067-03bf922dc446",
+            "image": null,
+            "name": "CLK-Class",
+            "description": "The Mercedes-Benz CLK-Class is a series of mid-size luxury cars that was produced from 1997 to 2009, designed to blend elegance and performance.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "aacaaaf8-21f3-42ac-9586-853263b5f3c6",
+            "image": null,
+            "name": "Tesla Model Y (Refresh)",
+            "description": "The Tesla Model Y (Refresh) is an all-electric SUV that combines spacious cargo capacity with advanced technology features, designed to provide a safe and efficient driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aad66c53-4ad9-4384-ab51-e537ae830754",
+            "image": null,
+            "name": "GL-Class (X164)",
+            "description": "The Mercedes-Benz GL-Class (X164) is a full-size luxury SUV known for its spacious interior, advanced safety features, and powerful engine options, designed to provide comfort and capability for both urban and off-road driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "c433e028-50f6-435d-a8c9-cc32eec6c2c2",
+            "image": null,
+            "name": "Tesla Model X Plaid",
+            "description": "The Tesla Model X Plaid is an all-electric luxury SUV known for its impressive acceleration, advanced technology, and spacious interior, designed for high performance and family versatility.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c47a6d4a-e0d9-4943-b7f4-f26cb9fd11e5",
+            "image": null,
+            "name": "Mercedes-Benz SLK-Class (R172)",
+            "description": "The Mercedes-Benz SLK-Class (R172) is a compact luxury roadster known for its sporty performance, retractable hardtop, and sleek design, aiming to combine the thrill of driving with open-air enjoyment.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "d7711815-fef2-4ff8-9c97-41edb7ffd9d6",
+            "image": null,
+            "name": "Mercedes-Benz SLR McLaren 722 S",
+            "description": "The Mercedes-Benz SLR McLaren 722 S is a high-performance sports car developed through a collaboration between Mercedes-Benz and McLaren, notable for its powerful supercharged V8 engine and aerodynamic design.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "dbcbf8b7-4b39-48a3-aac7-b31bbb97de42",
+            "image": null,
+            "name": "Piaggio MP3 500",
+            "description": "The Piaggio MP3 500 is a three-wheeled scooter known for its stability, innovative design, and powerful performance, making it suitable for both urban commuting and longer journeys.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "e5b49f34-a598-45b1-8f62-be1066b976c8",
+            "image": null,
+            "name": "Dinamica Plus",
+            "description": "The De'Longhi Dinamica Plus coffee machines are designed for making a variety of coffee beverages with fresh ground coffee beans, offering customizable options to suit individual preferences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "67bcf656-63eb-436e-93f4-f697dd3beff0",
+            "image": null,
+            "name": "KTM 450 EXC",
+            "description": "The KTM 450 EXC is a high-performance off-road motorcycle known for its lightweight design and powerful engine, making it suitable for both competitive racing and recreational trail riding.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "ec08865e-a2d7-46f3-8bfe-67251beb95db",
+            "image": null,
+            "name": "Norton V4SV",
+            "description": "The Norton V4SV is a high-performance motorcycle designed for both track and road use, combining advanced engineering with classic British styling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "ee896bbc-e97d-436f-8f45-22636b582663",
+            "image": null,
+            "name": "Piaggio Hexagon",
+            "description": "The Piaggio Hexagon is a line of scooters known for its compact design, comfort, and urban mobility capability, catering to both novice and experienced riders.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "79911429-b910-4fa0-bd3b-c048abfeacb9",
+            "image": null,
+            "name": "Mercedes-AMG GT",
+            "description": "The Mercedes-AMG GT is a high-performance sports car designed for driving enthusiasts, emphasizing agility, luxury, and advanced technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "808c9e80-e3e8-4d4e-b4d6-4c03bf2c85f4",
+            "image": null,
+            "name": "Lava Agni",
+            "description": "The Lava Agni series consists of smartphones aimed at providing robust performance and connectivity features for users in various markets. Notable for their competitive pricing, these devices cater to consumers seeking reliable mobile technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "80cec8a7-a8bf-45b7-af22-373406e8ed25",
+            "image": null,
+            "name": "Dior Vibe",
+            "description": "The Dior Vibe series comprises stylish Women's Clothing that blends sophistication with modern athletic influences, designed for a versatile wardrobe.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "febc1242-e7a3-49b5-b77d-91cd86055a9e",
+            "image": null,
+            "name": "Piaggio MP3",
+            "description": "The Piaggio MP3 is a three-wheeled scooter designed for urban commuting and leisure rides, offering enhanced stability and comfort for riders.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "06e30dd1-8bf8-4680-936d-f4429511926c",
+            "image": null,
+            "name": "Arena",
+            "description": "The Balenciaga Arena sneakers, released in 2016, are known for their contemporary silhouette and high-fashion appeal, combining comfort with a distinctive streetwear aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0d8a55fd-66ca-42df-a06a-eb32fe8e2e97",
+            "image": null,
+            "name": "La Specialista Maestro",
+            "description": "The De'Longhi La Specialista Maestro series are premium coffee machines designed to provide a professional-grade espresso experience at home, featuring advanced technology for precise brewing and customizable settings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "457c7e44-105d-4964-81f4-4be0af42a103",
+            "image": null,
+            "name": "Mercedes-Benz GL-Class",
+            "description": "The Mercedes-Benz GL-Class is a luxury SUV designed for both on-road comfort and off-road capability, offering a spacious and versatile interior for families and adventure seekers alike.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "81cab7c4-727c-47fe-b314-d768c151652b",
+            "image": null,
+            "name": "Evenflo Gold",
+            "description": "The Evenflo Gold series offers high-quality strollers designed for safety, versatility, and convenience for parents on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "82a6cdc7-e375-4bcf-bce9-2625989af8c5",
+            "image": null,
+            "name": "Dodge Challenger (2018)",
+            "description": "The Dodge Challenger (2018) is an American muscle car known for its bold design and powerful engine options. It combines retro styling with modern technology, making it a popular choice for performance enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "881d56a7-de59-4d44-9ac7-3acf9a634820",
+            "image": null,
+            "name": "Castrol EDGE",
+            "description": "Castrol EDGE is a high-performance motor oil designed to provide superior protection and performance for modern engines under a variety of driving conditions, utilizing advanced technology for enhanced lubrication.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Castrol"
+            }
+        },
+        {
+            "id": "95d2db76-5765-4170-a0c1-40fe3fc6cec7",
+            "image": null,
+            "name": "Gilera Nexus",
+            "description": "The Gilera Nexus is a series of motorcycles produced by Piaggio, known for its agile performance and innovative design, making it suitable for both urban commuting and spirited riding.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "9b091190-bf1c-4290-ab07-25d0d0fe3202",
+            "image": null,
+            "name": "Mercedes-Benz M-Class (W166)",
+            "description": "The Mercedes-Benz M-Class (W166) is a luxury midsize SUV designed to offer a blend of comfort, advanced technology, and off-road capabilities while maintaining a sleek appearance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "20bf47eb-7d82-46e4-ad17-872d3946c54d",
+            "image": null,
+            "name": "Shinko 821",
+            "description": "The Shinko 821 is a motorcycle tire designed for on-road performance, offering a balance of grip and durability for sport-touring applications.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "2bf3b576-1d81-4d4c-b5ae-af704254f3c8",
+            "image": null,
+            "name": "Avon Tyres AV11",
+            "description": "The Avon Tyres AV11 is a high-performance tire designed for enhanced grip and stability, suitable for various road conditions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "2bfb3fcc-5e09-4bec-b1ef-2bf823eb1b5c",
+            "image": null,
+            "name": "Bimota DB6 Delirio",
+            "description": "The Bimota DB6 Delirio is a sport motorcycle that combines performance and agility with a striking design, aimed at providing an exhilarating riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "40ca1a9f-8f48-4f3a-993e-dba3dd4a000c",
+            "image": null,
+            "name": "2007 Zero S",
+            "description": "The 2007 Zero S is an electric motorcycle known for its lightweight design and city-friendly performance, catering to environmentally conscious riders seeking a sustainable transportation option.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "444bb4b4-4005-4c12-9dc2-e2c02f69ae0e",
+            "image": null,
+            "name": "522 Series",
+            "description": "The Shinko 522 Series is designed for motorcycle enthusiasts seeking performance and durability, offering superior traction and handling in various riding conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "4750a507-9d80-4f0a-b948-169c7145bef2",
+            "image": null,
+            "name": "Avon Viper",
+            "description": "The Avon Viper series consists of high-performance tires designed for optimal grip and handling on both wet and dry surfaces, suitable for sports and performance vehicles.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "56cf6c07-4bba-4f14-929c-7d7c3a3e30fe",
+            "image": null,
+            "name": "Norton Domiracer",
+            "description": "The Norton Domiracer is a modern classic motorcycle inspired by the racing heritage of Norton Motorcycles, designed for enthusiasts who appreciate performance, style, and craftsmanship.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "f51752a3-c293-4eab-b384-9db95146aba5",
+            "image": null,
+            "name": "Shinko 804/805",
+            "description": "The Shinko 804/805 is a dual-sport tire series designed for both on-road and off-road riding, offering enhanced traction and versatility for adventure motorcycle enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "b49c3505-4dd7-4be7-94f2-9b0b89a81d14",
+            "image": null,
+            "name": "Rx Series",
+            "description": "The Shinko Rx Series offers a high-performance line of tires designed for various road conditions, providing durability and excellent traction for enhanced handling.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "cb21e817-d74d-4e9e-b1cf-608f28a80d8b",
+            "image": null,
+            "name": "Gas Gas TXT Racing 125",
+            "description": "The Gas Gas TXT Racing 125 is a lightweight trials motorcycle designed for competitive and recreational trials riding, featuring a responsive engine and agile handling suited for technical terrains.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "5d5c0383-ca74-4b4d-86aa-7fe69fc7c203",
+            "image": null,
+            "name": "Penny Medium",
+            "description": "The Penny Medium series includes compact skateboards designed for easy maneuverability and portability, making them ideal for urban commuting and recreational skating.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "9ec98462-d46f-4039-923b-91769b81ffb1",
+            "image": null,
+            "name": "Penny Complete",
+            "description": "The Penny Complete series features compact, high-quality skateboards designed for smooth and agile rides, making them ideal for both beginners and experienced riders looking for a fun and portable skate solution.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "ddb5e3b9-f309-4c82-b3ee-878820ab53bd",
+            "image": null,
+            "name": "Penny 22\" Complete Skateboard",
+            "description": "The Penny 22\" Complete Skateboard is a compact and lightweight skateboard designed for cruising and easy transportation, featuring a durable plastic deck and smooth wheels for a comfortable ride.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "c878de0b-1e31-4927-9927-5387aa8393af",
+            "image": null,
+            "name": "motorola edge 20 pro",
+            "description": "The Motorola edge 20 pro is a premium smartphone released in 2021, known for its advanced camera system, high refresh rate display, and robust performance, catering to users seeking a high-quality mobile experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "6a17e73a-e06d-48cd-968d-f1e5064d9ef3",
+            "image": null,
+            "name": "Garmin Fenix 5",
+            "description": "The Garmin Fenix 5 series is a versatile line of GPS smartwatches designed for outdoor enthusiasts, offering advanced fitness tracking, navigation features, and a rugged design suitable for various activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "fa6e9f0a-8d71-45ef-adfd-64601e567524",
+            "image": null,
+            "name": "Vivoactive 3 Music",
+            "description": "The Garmin Vivoactive 3 Music is a versatile smartwatch designed for fitness enthusiasts, featuring built-in GPS and music storage capabilities for on-the-go workouts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "8143027c-65c4-49cc-81c2-417022387722",
+            "image": null,
+            "name": "Gen 6",
+            "description": "The Fossil Gen 6 series consists of smartwatches that combine modern technology with classic style, offering fitness tracking, health monitoring, and smart notifications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "68d39e00-2ab4-4e4d-8225-acdcd40de8ce",
+            "image": null,
+            "name": "Deebot 711",
+            "description": "The Deebot 711 is a robotic vacuum cleaner designed to navigate and clean various floor surfaces autonomously, featuring advanced smart home integration capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "a9434c42-82c8-48d2-9502-6a0e32486e1e",
+            "image": null,
+            "name": "Deebot Ozmo 610",
+            "description": "The Deebot Ozmo 610 is a robotic vacuum cleaner designed to offer efficient and convenient floor cleaning with smart features that allow it to navigate various surfaces and detect dirt effectively.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "0dab5f92-82ec-454d-9886-dbedd8115738",
+            "image": null,
+            "name": "Deebot Ozmo 950",
+            "description": "The Deebot Ozmo 950 is a robotic vacuum cleaner designed for efficient cleaning with smart mapping and advanced navigation capabilities. It features mopping functionality alongside traditional vacuuming, targeting various surfaces for optimal cleanliness.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "15e9fc95-b520-4787-bfd2-db41f4e39b01",
+            "image": null,
+            "name": "Sengled Snap",
+            "description": "The Sengled Snap is a smart home device series that combines LED lighting with integrated security cameras, enabling users to monitor their surroundings while providing illumination.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "801badba-cdaa-4786-b0fe-93bdee1992dd",
+            "image": null,
+            "name": "Sengled Element",
+            "description": "The Sengled Element series consists of smart LED bulbs designed to provide energy-efficient lighting that can be controlled remotely via a smartphone app or voice commands.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "35b7410e-2fa5-43f1-a46f-285ce36adef4",
+            "image": null,
+            "name": "Wemo Smart Dimmer",
+            "description": "The Wemo Smart Dimmer is a smart home device that allows users to control the brightness of their lights remotely via a smartphone app or voice commands. It provides energy-saving functionalities and integrates seamlessly with various smart home ecosystems.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "ad0d82e0-c7cf-40a2-ba69-4bd57793d3b1",
+            "image": null,
+            "name": "Osprey Exos 2023",
+            "description": "The Osprey Exos 2023 is a lightweight backpack designed for minimalist backpacking and long-distance hiking, featuring a streamlined design for optimal weight distribution and comfort during extended use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Osprey"
+            }
+        },
+        {
+            "id": "2e6de073-5010-48ca-a757-042ab080a26e",
+            "image": null,
+            "name": "Topshop Unique",
+            "description": "Topshop Unique is a contemporary women's clothing line known for its fashion-forward designs and runway-inspired collections, aimed at providing stylish options for modern women.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Topshop"
+            }
+        },
+        {
+            "id": "20860dbd-1fc7-4091-82b1-90b8a6fc3401",
+            "image": null,
+            "name": "Arai Corsair",
+            "description": "The Arai Corsair series is a high-performance motorcycle helmet designed for riders seeking superior safety and comfort, featuring advanced ventilation and aerodynamic design.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "2c0f84f1-d983-4301-b68c-415d85dbc1d4",
+            "image": null,
+            "name": "Arai Profile",
+            "description": "The Arai Profile series is designed to provide optimal comfort and protection for motorcycle riders. It features a sleek design with enhanced ventilation and a snug fit for improved safety on the road.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "39dc2a86-e1ae-4468-ae9a-8d9bf1d50619",
+            "image": null,
+            "name": "Arai SZ",
+            "description": "The Arai SZ series is a line of motorcycle helmets known for their focus on safety, durability, and comfort, designed to provide riders with high protection and a comfortable fit during use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "4cedf2d8-d7aa-4a29-b7c4-6af35c15aa2d",
+            "image": null,
+            "name": "Shinko 859 Series",
+            "description": "The Shinko 859 Series is a line of motorcycle tires designed for improved grip and stability on both wet and dry surfaces, making it ideal for touring and commuting.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "d9ebfc3c-6899-4c4f-a23a-742ee2fd2881",
+            "image": null,
+            "name": "JVC CarPlay Receivers",
+            "description": "The JVC CarPlay Receivers are car audio systems designed to integrate with Apple CarPlay, allowing users to control their iPhone functionalities through the car's dashboard display for safer and more convenient access to navigation, music, and communication.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        }
+    ]
+}

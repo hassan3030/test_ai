@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "4990e52f-5a4f-44b9-8886-d3d63cf6fbce",
+            "image": null,
+            "name": "AMD Radeon RX 6000 Series",
+            "description": "The AMD Radeon RX 6000 Series is a line of graphics cards designed for high-performance gaming and advanced graphical tasks, leveraging the RDNA architecture to enhance frame rates and visual fidelity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "1e51ed38-ecb9-4f8c-8a43-8131aef47ad6",
+            "image": null,
+            "name": "Intel Xeon Scalable",
+            "description": "The Intel Xeon Scalable series is designed for data center and cloud computing applications, offering enhanced performance, scalability, and security features for enterprise workloads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "a9fb32e4-3329-4a1d-ac12-45aa591926be",
+            "image": null,
+            "name": "Intel Core X-Series",
+            "description": "The Intel Core X-Series is a line of high-performance processors designed for enthusiasts and professionals who require advanced multitasking and computational power for tasks such as gaming, content creation, and scientific simulations.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "8ef365a5-a214-4a21-b3db-c8d2af6290fb",
+            "image": null,
+            "name": "Intel Pentium Gold Processors",
+            "description": "Intel Pentium Gold Processors are dual-core CPUs designed for essential computing tasks, offering efficient performance and enhanced multimedia capabilities suitable for home and office use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "04de2740-f9d1-4980-8c96-14efd7c56435",
+            "image": null,
+            "name": "Intel Core 9th Gen",
+            "description": "The Intel Core 9th Gen series is a lineup of high-performance processors designed for desktops and laptops, aimed at gamers and creators who require powerful computing capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "511be741-2749-46eb-837c-75db98d5cb88",
+            "image": null,
+            "name": "Intel Xeon Scalable Processors (2nd Generation)",
+            "description": "The Intel Xeon Scalable Processors (2nd Generation) are designed for data centers and enterprise applications, offering enhanced performance, scalability, and security features suitable for demanding workloads.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "140407df-9280-4001-9919-31f1f23b6362",
+            "image": null,
+            "name": "Intel 8th Gen Core Processors",
+            "description": "The Intel 8th Gen Core Processors are a series of CPUs designed for improved performance and multitasking capabilities in personal computers, enhancing efficiency for both everyday tasks and gaming.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "3c18d79d-f5ea-4799-b45c-0c7ff6aec71f",
+            "image": null,
+            "name": "Intel Core i5-9400F",
+            "description": "The Intel Core i5-9400F is a 9th generation processor designed for performance in gaming and multitasking, featuring six cores and support for high-definition graphics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "7130e046-a0b2-4daa-8537-5b1ead3d7658",
+            "image": null,
+            "name": "Ventus Z223",
+            "description": "The Hankook Ventus Z223 is a high-performance tire designed for motorsport applications, providing exceptional grip and handling on both wet and dry surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "f440dc5b-7480-4db4-9f31-3e7da24013be",
+            "image": null,
+            "name": "Dynapro AT2",
+            "description": "The Hankook Dynapro AT2 is an all-terrain tire designed for versatile performance both on and off-road, providing excellent traction and durability in various driving conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "cee96ad6-ab6c-4b09-8576-8092229a5dba",
+            "image": null,
+            "name": "Road Venture MT",
+            "description": "The Kumho Tire Road Venture MT is an all-terrain tire designed for off-road performance and durability, featuring a rugged tread pattern that provides traction in challenging conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "a911b6a8-2728-4a5e-b737-0aeaa69e4a19",
+            "image": null,
+            "name": "Ecsta PS71",
+            "description": "The Kumho Tire Ecsta PS71 is a high-performance tire designed for sports cars and aggressive driving. Its key traits include enhanced traction, improved handling, and superior stability in both wet and dry conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "cd3932fc-5f30-43d1-8a73-4bf83e9cc29b",
+            "image": null,
+            "name": "Kumho Solus",
+            "description": "The Kumho Solus series is designed to provide reliable performance and comfort for everyday driving, emphasizing a balance of durability and wet weather traction.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "a5c036d0-67d2-450d-8daf-0e3f1c342f59",
+            "image": null,
+            "name": "Kumho Ecsta",
+            "description": "The Kumho Ecsta series is designed to provide high-performance tires that enhance traction and handling for sports cars and performance vehicles, helping to deliver a responsive driving experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "c4aa8c96-f46a-4ced-aa4a-d636b303f6c5",
+            "image": null,
+            "name": "Cooper Lifeliner SE",
+            "description": "The Cooper Lifeliner SE is a series of all-season tires designed for reliable performance and comfort, suitable for a variety of vehicles and driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "ee3a0d17-0a66-4b03-a77b-2d0c7d21865a",
+            "image": null,
+            "name": "Cooper Discoverer ST",
+            "description": "The Cooper Discoverer ST is a tire series designed for light trucks and SUVs, offering enhanced traction and stability on both wet and dry surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "cf2d4b23-8ca4-4abe-a998-1a9be02014cf",
+            "image": null,
+            "name": "Discoverer ST",
+            "description": "The Cooper Tire Discoverer ST is an all-season tire designed for light trucks and SUVs, providing enhanced traction and stability on both wet and dry surfaces.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "0cb01e4e-87dc-4284-940e-e174b5070b69",
+            "image": null,
+            "name": "CS5 Touring",
+            "description": "The Cooper Tire CS5 Touring is designed to provide all-season performance, offering enhanced tread life and comfort for passenger vehicles. Its features include a quiet ride and reliable traction on various road surfaces.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "b1c6af9f-a321-43d3-bdf3-7f7d11c0542f",
+            "image": null,
+            "name": "Discoverer STT",
+            "description": "The Cooper Tire Discoverer STT is an all-terrain tire designed for off-road performance, featuring aggressive tread patterns for enhanced traction in mud and loose surfaces.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "daa98b24-9ca6-42d1-9ea5-aa452d5d9f03",
+            "image": null,
+            "name": "Zeon CS",
+            "description": "The Cooper Tire Zeon CS is a premium all-season tire designed to provide enhanced handling, stability, and comfort for performance-oriented vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "44d1f420-077a-4df5-88c1-2e440921e718",
+            "image": null,
+            "name": "Avenger G/T",
+            "description": "The Cooper Tire Avenger G/T is a performance tire designed for enhanced traction and stability on paved surfaces, offering a blend of efficiency and control for drivers seeking a sporty driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "d62b1439-9f60-4c3d-9aa4-241156f5b9ea",
+            "image": null,
+            "name": "Discoverer M+S",
+            "description": "The Cooper Tire Discoverer M+S is an all-season tire designed for versatile performance in various weather conditions, including mud and snow. It features a tread pattern that enhances grip and stability, making it suitable for SUVs and light trucks.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "4cbe194b-e805-49a1-a905-8f937e5adc46",
+            "image": null,
+            "name": "Mastercraft Courser A/T",
+            "description": "The Mastercraft Courser A/T is an all-terrain tire designed for light trucks and SUVs, offering traction on both on-road and off-road conditions. Its rugged design and versatile performance make it suitable for various driving environments.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "a5e42b3b-1613-4e67-a72a-fe889bd6cc1b",
+            "image": null,
+            "name": "Cooper Discoverer",
+            "description": "The Cooper Discoverer series includes a range of tires designed for light trucks and SUVs, offering enhanced traction and durability for off-road and on-road driving conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "06bf4590-63b7-4669-9613-ea908ee09de2",
+            "image": null,
+            "name": "Cooper Zeon",
+            "description": "The Cooper Zeon series is designed for high-performance vehicles, offering enhanced traction and handling capabilities on both wet and dry roads.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "20fdfa5a-f97d-4dda-8a49-4a060cd45faa",
+            "image": null,
+            "name": "Cooper Zeon RS3-A",
+            "description": "The Cooper Zeon RS3-A is a high-performance tire designed for sports cars and performance sedans, offering enhanced handling, responsiveness, and wet traction.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "39053e2a-b5ff-479c-9c3d-360ac2f1704f",
+            "image": null,
+            "name": "Cooper CS5 Grand Touring",
+            "description": "The Cooper CS5 Grand Touring is a tire series designed for passenger cars, combining comfort with all-season traction to enhance driving performance and safety.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "39fe8010-5b73-4ae9-8aa4-003091b21378",
+            "image": null,
+            "name": "Discoverer ATP",
+            "description": "The Cooper Tire Discoverer ATP is an all-terrain tire designed for light trucks and SUVs, offering a blend of on-road comfort and off-road capability for versatile driving conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "925655a4-e705-4313-b9d0-aa0257d06f49",
+            "image": null,
+            "name": "Discoverer SRX",
+            "description": "The Cooper Tire Discoverer SRX is an all-season tire designed for SUVs and light trucks, offering a balance of performance, comfort, and durability in various driving conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "d4225484-fc79-4d05-9583-b494654ef365",
+            "image": null,
+            "name": "Roadmaster",
+            "description": "The Cooper Tire Roadmaster series consists of reliable tires designed for durability and performance in various driving conditions, ideally suited for commercial and fleet vehicles.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        }
+    ]
+}

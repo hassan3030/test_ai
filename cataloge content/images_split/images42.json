@@ -1,0 +1,370 @@
+{
+    "data": [
+        {
+            "id": "1b1e6746-2969-45a0-9e64-4a8e0f474cab",
+            "image": null,
+            "name": "Canon EOS 1D X Mark II",
+            "description": "The Canon EOS 1D X Mark II is a professional digital single-lens reflex camera designed for sports and action photography, offering high-speed performance and superior image quality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "31b9f34a-2724-4fd1-baf5-e77e0cd5ff88",
+            "image": null,
+            "name": "Mi Watch Lite",
+            "description": "The Xiaomi Mi Watch Lite is a budget-friendly smartwatch designed to track fitness activities and provide basic smart functionalities for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "346b457e-f03e-4233-820d-8a5e5356904e",
+            "image": null,
+            "name": "Canon EOS 77D",
+            "description": "The Canon EOS 77D is a digital single-lens reflex (DSLR) camera designed for photography enthusiasts, offering a balance of advanced features and ease of use for capturing high-quality images and videos.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "347cb858-df2d-4b9b-9ba2-2aa4108609ad",
+            "image": null,
+            "name": "Xiaomi 12",
+            "description": "The Xiaomi 12 series is a line of premium smartphones released by Xiaomi in 2022, known for their powerful performance, advanced camera technology, and sleek design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "361aacf4-da0d-44f9-a75b-8ac5308573eb",
+            "image": null,
+            "name": "Canon EOS 80D",
+            "description": "The Canon EOS 80D is a digital single-lens reflex (DSLR) camera designed for photography enthusiasts and semi-professional users. It features advanced autofocus and imaging capabilities, making it suitable for capturing high-quality photos and videos in various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "388a93e1-a1b3-44d0-99e2-6efb77594168",
+            "image": null,
+            "name": "Xiaomi Pad 6",
+            "description": "The Xiaomi Pad 6 is a series of tablets designed for versatile productivity and entertainment, featuring a high-resolution display and powerful performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "4459f0b1-b04e-48fc-933c-ef951b050dde",
+            "image": null,
+            "name": "Redmi Note 10 Series",
+            "description": "The Xiaomi Redmi Note 10 Series is a line of mid-range smartphones designed to deliver a balanced performance, impressive camera capabilities, and a vibrant display, making them ideal for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e97911c3-5183-4826-a824-1446f39e1c94",
+            "image": null,
+            "name": "Canon PowerShot G9 X Mark II",
+            "description": "The Canon PowerShot G9 X Mark II is a compact digital camera designed for enthusiasts and casual photographers alike, offering high-quality image capture with a versatile set of features in a sleek design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6e4f9901-c3e9-4d3f-9bf9-141d724637ee",
+            "image": null,
+            "name": "Canon EOS Rebel T7i",
+            "description": "The Canon EOS Rebel T7i is a digital single-lens reflex (DSLR) camera designed for photography enthusiasts, featuring a 24.2 megapixel sensor and a vari-angle touchscreen for versatile shooting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7c8a5c0b-0c76-4579-9a1b-60e58eee0c25",
+            "image": null,
+            "name": "KTM RC 200",
+            "description": "The KTM RC 200 is a lightweight, sport-oriented motorcycle designed for performance enthusiasts, featuring a strong engine and sharp handling for an engaging ride.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "8748a70e-67c8-457b-a496-b141e1cf024d",
+            "image": null,
+            "name": "Kawasaki Ninja Series",
+            "description": "The Kawasaki Ninja Series is a line of sport motorcycles known for their performance, agility, and distinctive styling. Launched in 2000, this series emphasizes speed and handling, catering to both amateur riders and experienced motorcyclists.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "965b241b-dfb4-4fb5-b23d-c265d5e9cad7",
+            "image": null,
+            "name": "KTM 350 EXC-F",
+            "description": "The KTM 350 EXC-F is a lightweight off-road motorcycle designed for enduro racing, offering a perfect balance of power and agility on various terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "97313868-5b9c-4aea-94f5-3ac46166f22f",
+            "image": null,
+            "name": "Mercedes-Benz CL-Class",
+            "description": "The Mercedes-Benz CL-Class is a luxury coupe known for its elegant design, powerful engines, and advanced technology, primarily aimed at providing a refined driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "a8d25670-4111-428e-ae44-cb2726f7b8b7",
+            "image": null,
+            "name": "Adizero Adios Pro 3",
+            "description": "The Adidas Adizero Adios Pro 3 is a performance running shoe designed for speed and efficiency, featuring advanced cushioning and lightweight materials to support long-distance running.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "b1417106-07a2-486b-8169-9d41a4351c73",
+            "image": null,
+            "name": "Hisense 2022 Top Mount Refrigerator Series",
+            "description": "The Hisense 2022 Top Mount Refrigerator Series features a traditional top freezer design that offers ample storage space and efficient cooling solutions, combining functionality with modern design elements.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c23faf5d-5746-4e08-970d-d21e9be0be91",
+            "image": null,
+            "name": "Ap Lei Chau",
+            "description": "The Ap Lei Chau series by Sun Hung Kai Properties features residential apartments designed for comfortable urban living, emphasizing modern amenities and waterfront views.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Apartments for Sale"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ce6542c3-6ac4-4ba4-ac0f-c222dae6ff3d",
+            "image": null,
+            "name": "Tiger 800 XR",
+            "description": "The Triumph Tiger 800 XR is a versatile adventure motorcycle designed for both on-road touring and off-road capabilities, emphasizing comfort, control, and practicality for riding enthusiasts.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "0e895b5f-954a-41f1-b570-ecd861a62927",
+            "image": null,
+            "name": "Hisense 4-Door Refrigerator",
+            "description": "The Hisense 4-Door Refrigerator series offers ample storage and flexibility for food preservation, featuring a stylish design and advanced cooling technology to enhance user convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1e779e54-aa04-43b8-b81f-bb291cd6e1af",
+            "image": null,
+            "name": "Gas Gas EC 300",
+            "description": "The Gas Gas EC 300 is a versatile off-road motorcycle designed for enduro riders. It combines power and agility, making it suitable for both competition and recreational riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "2318b17f-8aee-43b7-9333-21f6d1d4b8c6",
+            "image": null,
+            "name": "Baby Jogger City Tour 2",
+            "description": "The Baby Jogger City Tour 2 is a lightweight and compact stroller designed for parents on the go. It features a one-hand fold, ample storage, and a comfortable seat for infants and toddlers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2682cc3d-8382-4132-bf2b-1fdf0a5ad6ab",
+            "image": null,
+            "name": "Thruxton RS",
+            "description": "The Triumph Thruxton RS is a modern classic motorcycle designed for performance and style, featuring a powerful engine and a sporty riding position, perfect for both spirited rides and everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "2988fc7b-fc95-4a35-800a-b51be57f35db",
+            "image": null,
+            "name": "Hisense Air Fryer",
+            "description": "The Hisense Air Fryer series is designed to provide a healthier alternative to traditional frying by using hot air circulation to achieve crispy textures with less oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "29912939-41f7-4195-81da-8c49d75a3772",
+            "image": null,
+            "name": "Zero SR",
+            "description": "The Zero SR is an all-electric motorcycle series by Zero Motorcycles, designed for high performance, agility, and efficiency in urban environments and open roads.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "4042c67f-da1a-4e40-826c-5f1d3665c085",
+            "image": null,
+            "name": "The Legend of Zelda: Skyward Sword HD",
+            "description": "The Legend of Zelda: Skyward Sword HD is an enhanced version of the original action-adventure game released on the Wii in 2011, featuring updated graphics and improved controls for the Nintendo Switch platform.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4160d24e-8d75-46d6-8830-3532e28a0254",
+            "image": null,
+            "name": "KX450F",
+            "description": "The Kawasaki KX450F is a high-performance motocross motorcycle designed for competitive racing and off-road performance, featuring a powerful engine and advanced suspension system.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "4d41db1d-d011-40e9-99ab-8b3bf5ce4e91",
+            "image": null,
+            "name": "T120 Black",
+            "description": "The Triumph T120 Black is a modern classic motorcycle that combines retro styling with contemporary performance, designed for riders seeking a blend of style and functionality.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "5382fdee-5eb4-4dfd-b89e-de343d47b715",
+            "image": null,
+            "name": "Gas Gas TXT 280",
+            "description": "The Gas Gas TXT 280 is a specialized trial motorcycle, designed for performance in technical off-road conditions, offering exceptional maneuverability and lightweight construction for competitive trials riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "544dfb43-2c6c-4a29-8942-52b6fe692b62",
+            "image": null,
+            "name": "KTM 890 Duke",
+            "description": "The KTM 890 Duke is a lightweight, agile motorcycle designed for urban riding and spirited performances, featuring a powerful engine and advanced technology for enhanced handling and safety.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "684a3a21-0057-491c-bbae-680be253411a",
+            "image": null,
+            "name": "Towers 108",
+            "description": "Towers 108 is a commercial development by Sun Hung Kai Properties designed to provide modern office spaces that cater to diverse business needs and promote a collaborative work environment.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Commercial Spaces"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "db63c0ba-6d03-4610-9789-df8fb89b454a",
+            "image": null,
+            "name": "KTM 250 EXC-F",
+            "description": "The KTM 250 EXC-F is a lightweight and powerful off-road motorcycle designed for both competitive racing and recreational trail riding, featuring advanced technology and a high-performance engine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        }
+    ]
+}

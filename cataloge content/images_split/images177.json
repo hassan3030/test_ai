@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "0037e830-4f23-4805-b7c7-209c50809b9f",
+            "image": null,
+            "name": "Tarp 20",
+            "description": "The Hilleberg Tarp 20 is a lightweight and versatile shelter designed for camping and outdoor activities, providing protection from the elements while allowing for flexibility in setup and use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "d5e81abb-c939-4146-9e6e-368f60c47aa4",
+            "image": null,
+            "name": "Nallo 2",
+            "description": "The Hilleberg Nallo 2 is a lightweight, 2-person tent designed for versatile camping in various weather conditions. It features a tunnel design that offers excellent stability and living space while being easy to set up and pack.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "ea9708f0-8a9b-43ce-aa84-4e8e35caacdb",
+            "image": null,
+            "name": "Kerlon 1200",
+            "description": "The Hilleberg Kerlon 1200 series is a lightweight and durable fabric designed for high-performance camping gear, offering exceptional tear resistance and waterproofing for outdoor enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "0ad13972-e18a-4bd6-9290-d325c24b1a58",
+            "image": null,
+            "name": "Telemark",
+            "description": "The Nordisk Telemark series offers a range of lightweight and durable camping gear designed for outdoor enthusiasts seeking reliable performance and easy portability in various camping conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Nordisk"
+            }
+        },
+        {
+            "id": "bd5ac8cc-2055-407d-a0d7-cd6b00ec5d48",
+            "image": null,
+            "name": "Lofoten",
+            "description": "The Nordisk Lofoten series consists of lightweight and durable camping gear designed for outdoor enthusiasts, focusing on providing comfort and functionality in various weather conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Nordisk"
+            }
+        },
+        {
+            "id": "8fbde185-bafe-4631-8cb1-d1fbf870bc44",
+            "image": null,
+            "name": "Nordisk Telemark",
+            "description": "The Nordisk Telemark series features lightweight and durable camping gear designed for outdoor enthusiasts, emphasizing comfort and practicality for extended stays in nature.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Nordisk"
+            }
+        },
+        {
+            "id": "dd90f1b5-9549-4eb4-b25c-82c0d43a4819",
+            "image": null,
+            "name": "Nordisk Svalbard",
+            "description": "The Nordisk Svalbard series includes a range of camping gear designed for outdoor enthusiasts, offering durable and weather-resistant products that ensure comfort and reliability in various outdoor conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Nordisk"
+            }
+        },
+        {
+            "id": "bc937325-ae01-49e3-9c56-90e77e332151",
+            "image": null,
+            "name": "Telemark 2",
+            "description": "The Nordisk Telemark 2 is a lightweight and reliable two-person tent designed specifically for camping enthusiasts, providing excellent weather resistance and easy setup.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Nordisk"
+            }
+        },
+        {
+            "id": "0f14b2c4-0a79-43e8-b66a-24f4bc363b3b",
+            "image": null,
+            "name": "Tombow Dual Brush Pens",
+            "description": "Tombow Dual Brush Pens are versatile art supplies designed for both professional and amateur artists. They feature a flexible brush tip on one end and a fine tip on the other, making them ideal for various artistic applications such as lettering, illustrations, and coloring.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "8c40b312-5ba0-415c-afe9-0ebf8af5aa0a",
+            "image": null,
+            "name": "Tombow MONO Graph Mechanical Pencil",
+            "description": "The Tombow MONO Graph Mechanical Pencil series is designed for precise line work and easy lead advancement, making it ideal for artists, designers, and students. Its ergonomic grip and versatile lead size cater to a variety of writing and drawing needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "781962b8-ca20-43be-b271-8b8257c5287f",
+            "image": null,
+            "name": "Tombow MONO Erasers",
+            "description": "The Tombow MONO Erasers series consists of high-quality erasers designed for precise and clean erasing on various surfaces, making them ideal for artists, students, and professionals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "28178ca5-c2b7-4340-a286-32e0b8e2b726",
+            "image": null,
+            "name": "Van Gogh Oil Colors",
+            "description": "Van Gogh Oil Colors are high-quality oil paints designed for artists seeking a vibrant palette and excellent mixing capabilities, ensuring durable and rich artworks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "862ee41e-9562-43d2-98de-4c717b505ce3",
+            "image": null,
+            "name": "Ecoline Liquid Watercolor",
+            "description": "Royal Talens Ecoline Liquid Watercolor is a series of high-quality, transparent liquid watercolors designed for artists who appreciate clean and vibrant colors. These watercolors are highly pigmented and are suitable for a variety of creative techniques including watercolor painting, calligraphy, and illustration.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "d1bf552f-a74f-44c5-8921-44606b4e6afe",
+            "image": null,
+            "name": "Amsterdam Acrylics",
+            "description": "Royal Talens Amsterdam Acrylics are high-quality acrylic paints designed for artists who seek vibrant colors and excellent coverage. They are water-based, non-toxic, and suitable for use on a variety of surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "712ac8e3-f8bb-4023-85c4-fc425522f8aa",
+            "image": null,
+            "name": "Van Gogh Watercolors",
+            "description": "The Van Gogh Watercolors series by Royal Talens offers high-quality, versatile watercolors suitable for artists of all levels. Known for their vibrant colors and excellent lightfastness, these watercolors are designed to provide smooth application and effortless blending.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "71a1a089-4484-401d-b9bf-e690c2fe42b0",
+            "image": null,
+            "name": "Rembrandt",
+            "description": "The Rembrandt series by Royal Talens is a high-quality range of art supplies designed for professional artists, offering exceptional pigment strength and lightfastness for creating durable works of art.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "ffe6efdd-92ef-4141-9f03-80540d5e0862",
+            "image": null,
+            "name": "Takibi Fire and Grill",
+            "description": "The Snow Peak Takibi Fire and Grill series is a versatile camping gear range designed for cooking and enjoying fireside gatherings. This series features durable materials and compact designs for ease of use during outdoor adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "0deca5ac-5a35-4e1d-8e1b-9ebe83051109",
+            "image": null,
+            "name": "FA Series",
+            "description": "The Roland FA Series is a line of music production workstations designed for both live performance and studio recording, featuring powerful sampling capabilities, a wide variety of sounds, and a user-friendly interface.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "f79e1b5a-0866-4dfd-8356-37f309f2b615",
+            "image": null,
+            "name": "TD-17 Series",
+            "description": "The Roland TD-17 Series is a line of V-Drums electronic drum kits designed for musicians seeking high-quality sound and expressive playability, combining advanced digital trigger technology with a compact design suitable for practice and performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "1741205a-3cbe-4639-9c33-5ada59254118",
+            "image": null,
+            "name": "GO:PIANO",
+            "description": "The Roland GO:PIANO series consists of portable digital pianos designed to provide an accessible and versatile playing experience for beginners and experienced musicians alike. Featuring built-in Bluetooth connectivity and a wide range of sounds, the GO:PIANO is ideal for practice and performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "d5688468-1eb6-41a3-a53e-5a5c4e165a92",
+            "image": null,
+            "name": "V-Drums Acoustic Design Series",
+            "description": "The Roland V-Drums Acoustic Design Series is a line of electronic drum kits that combine advanced digital technology with the authentic feel of acoustic drums, designed for drummers seeking high-quality performance and versatility in their musical expression.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "6d034200-31e7-4245-921e-58ea96bd1be9",
+            "image": null,
+            "name": "Bumbleride Indie",
+            "description": "The Bumbleride Indie is a versatile stroller designed for active families, offering a smooth ride on various terrains with features like a lightweight frame and ample storage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "909cd379-fe46-4bf9-9ed1-5b32eec347db",
+            "image": null,
+            "name": "Mitsubishi Galant 2008",
+            "description": "The Mitsubishi Galant 2008 is a mid-size sedan designed for comfortable commuting and efficient driving. Key traits include its spacious interior, a selection of engine options, and a focus on reliability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "90f6e38e-da36-4d25-8729-1f53aa71ab3f",
+            "image": null,
+            "name": "Nokian Seasonproof",
+            "description": "The Nokian Seasonproof series is designed for all-season use, providing reliable performance in various weather conditions while prioritizing safety and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "043b7d52-df80-4a68-8973-bdcec4b76011",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 9",
+            "description": "The Nokian Hakkapeliitta 9 is a premium winter tire designed for optimal grip and safety on icy and snowy roads, featuring advanced rubber compounds and innovative studding technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "79105889-fda6-4652-9d64-0504c80087f6",
+            "image": null,
+            "name": "Nokian Tyres WR SUV 4",
+            "description": "The Nokian Tyres WR SUV 4 is a winter tire designed specifically for SUVs and crossovers, featuring excellent grip on snow and ice while maintaining a comfortable ride on dry and wet roads.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "37115d74-882e-4234-bbb9-93fd3f1586cf",
+            "image": null,
+            "name": "Nokian One",
+            "description": "The Nokian One series is designed as an all-season tire that offers excellent performance in various weather conditions, prioritizing safety, durability, and comfort for everyday driving.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "082d29a1-9abd-4d5e-8bc3-685330ae64af",
+            "image": null,
+            "name": "Galaxy Watch4 Classic",
+            "description": "The Samsung Galaxy Watch4 Classic is a smartwatch designed to help users monitor health metrics, receive notifications, and manage apps, all within a classic watch design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "0a362d1d-d537-4405-b141-31f5fb63e3d0",
+            "image": null,
+            "name": "Honda Civic Type R (FK8)",
+            "description": "The Honda Civic Type R (FK8) is a high-performance hatchback known for its sporty design, turbocharged engine, and advanced handling capabilities, aimed at driving enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f0655491-c95e-4ef3-ac8f-a8bc9cabd1e8",
+            "image": null,
+            "name": "Tombow Fudenosuke Brush Pens",
+            "description": "The Tombow Fudenosuke Brush Pens are versatile tools designed for calligraphy and illustration, featuring a flexible brush tip that allows for varying line thicknesses.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        }
+    ]
+}

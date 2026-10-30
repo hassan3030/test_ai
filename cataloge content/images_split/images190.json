@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "6c6d73fa-f896-4697-9443-9f479f51e5f3",
+            "image": null,
+            "name": "Haro Shift",
+            "description": "The Haro Shift series consists of high-performance BMX bikes designed for riders seeking versatility and agility in skateparks, street environments, and dirt tracks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "cf905d49-8ed9-448a-877b-76ca0e56bd0d",
+            "image": null,
+            "name": "Haro Annex",
+            "description": "The Haro Annex series consists of BMX bikes designed for riders looking to excel in street, park, and dirt riding. Built with durability and performance in mind, these bikes aim to provide a reliable platform for both beginners and advanced riders.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "d29ae865-b090-493b-9d60-e190e3a2248d",
+            "image": null,
+            "name": "Haro Lineage",
+            "description": "The Haro Lineage series consists of high-quality BMX bikes designed for various riding styles, emphasizing performance, durability, and a classic aesthetic inspired by the roots of BMX culture.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "a89f480e-89d6-4db0-a19b-657ecfe8e870",
+            "image": null,
+            "name": "Gap Kids Bottoms 2021",
+            "description": "Gap Kids Bottoms 2021 features a range of versatile and comfortable bottoms designed for children, focusing on style and wearability for everyday activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Gap Kids"
+            }
+        },
+        {
+            "id": "25a8af59-b11a-42e3-bd32-981617e5bbcb",
+            "image": null,
+            "name": "OshKosh B’gosh Baby",
+            "description": "OshKosh B’gosh Baby is a collection designed for infants and toddlers, focusing on comfortable, durable clothing that features classic American styles and playful designs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "e55b4544-ea17-4cef-9f5b-ab4450878d88",
+            "image": null,
+            "name": "Chevrolet Tahoe Hybrid",
+            "description": "The Chevrolet Tahoe Hybrid is a full-size SUV that combines the capabilities of a traditional SUV with hybrid technology for improved fuel efficiency and reduced emissions. It is designed to offer spacious interior comfort and advanced features, making it suitable for family use and outdoor activities.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "3693bab8-a7a3-4a28-b0d5-179091ec1a9b",
+            "image": null,
+            "name": "Chevrolet Camaro (fifth generation)",
+            "description": "The Chevrolet Camaro (fifth generation) is a stylish and performance-oriented sports car that was designed to deliver a thrilling driving experience with powerful engine options and modern technology.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "0506e220-06cd-40f3-a1f9-640630b3fa3b",
+            "image": null,
+            "name": "EVO Link System",
+            "description": "The TeraFlex EVO Link System is designed to provide improved suspension articulation, handling, and comfort for off-road vehicles. This system features adjustable control arms and optimized geometry to enhance performance on various terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "132049ee-f1bd-42e5-94f1-405b183aeee0",
+            "image": null,
+            "name": "SUV Geolandar A/T-S",
+            "description": "The Sumitomo Tire SUV Geolandar A/T-S is designed for all-terrain performance, providing a balanced combination of off-road capability and on-road comfort for SUVs and light trucks.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "132ffbae-45ee-4e75-9a75-d2d871e91786",
+            "image": null,
+            "name": "Hyundai Accent (third generation)",
+            "description": "The Hyundai Accent (third generation) is a subcompact car known for its affordability, efficiency, and practicality, designed to provide reliable transportation for everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "15732970-6560-48fc-bfe0-cd76de29b4bf",
+            "image": null,
+            "name": "Airaid Performance Air Filters",
+            "description": "The Airaid Performance Air Filters are designed to enhance engine performance by providing better airflow, filtration, and efficiency compared to standard air filters. These filters are engineered to improve air intake, resulting in improved throttle response and overall power.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "16f4160d-df4e-405b-b818-8da566195453",
+            "image": null,
+            "name": "Nerf Microshots",
+            "description": "The Nerf Microshots series features small, collectible blasters inspired by classic Nerf designs. These compact toys are designed for fun and imaginative play, offering a unique take on the traditional Nerf experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "17162736-5747-45ff-a5f0-80a433384e89",
+            "image": null,
+            "name": "Arai Quantum F",
+            "description": "The Arai Quantum F is a full-face motorcycle helmet known for its lightweight construction, superior ventilation, and high safety standards. Designed for both comfort and performance, it features a custom fit and advanced aerodynamics suited for various riding conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "18579de2-d63c-4bb7-bfc2-3cccfb994d6e",
+            "image": null,
+            "name": "NIKKOR Z Lenses",
+            "description": "The NIKKOR Z Lenses series by Nikon includes a range of high-performance lenses designed specifically for NIKON Z mirrorless cameras, offering exceptional image quality and versatility for photographers and videographers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1a6588ca-2164-4511-8763-df9b0b2843c2",
+            "image": null,
+            "name": "Renault Kangoo II",
+            "description": "The Renault Kangoo II is a versatile multi-purpose vehicle, designed primarily for utility and practicality within both personal and commercial settings. It offers ample space, flexibility, and efficient performance, catering to various transporting needs.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "20756f3e-cb1d-4b03-9954-3ba42e389861",
+            "image": null,
+            "name": "LUMIX GH6",
+            "description": "The Panasonic LUMIX GH6 is a mirrorless camera designed for professional video and photography, featuring advanced video capabilities and high-quality image sensors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "65344f1b-a43a-4938-bd54-a1d3884dc355",
+            "image": null,
+            "name": "Haro Lineage Series",
+            "description": "The Haro Lineage Series is a collection of BMX bikes designed for both recreational riders and competitive racers, emphasizing durability and performance while incorporating retro-inspired aesthetics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "733feb42-e06b-473c-8150-ec3bcc16c6ba",
+            "image": null,
+            "name": "Seagate Exos X20",
+            "description": "The Seagate Exos X20 series consists of high-capacity hard disks designed for enterprise storage solutions, offering reliability and performance for data centers and cloud services.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "868e317b-f6cb-401c-a994-4b55fe668099",
+            "image": null,
+            "name": "Yamaha MT-01",
+            "description": "The Yamaha MT-01 is a motorcycle known for its muscular design and powerful torque delivery, aimed at providing a unique riding experience with a blend of performance and style.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "dc7194d9-0e2e-41cb-af00-384311758bff",
+            "image": null,
+            "name": "Hape E0304",
+            "description": "The Hape E0304 series consists of engaging and educational toys designed to promote imaginative play and developmental skills in young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "58c13992-203c-4673-a36a-5c275070d85c",
+            "image": null,
+            "name": "Hape Eco-Graders",
+            "description": "The Hape Eco-Graders series features eco-friendly toy trucks designed to promote imaginative play and develop fine motor skills in young children while using sustainable materials.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "05325602-ec96-4d36-b4ff-3d5a8a01329f",
+            "image": null,
+            "name": "Safety 1st onboard 35 Air",
+            "description": "The Safety 1st OnBoard 35 Air is an infant car seat designed to provide safety and comfort for babies during travel. It features a lightweight design and various safety features to ensure secure installation and protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "9eb86b25-210e-4010-8acb-fc3e102305e4",
+            "image": null,
+            "name": "Safety 1st Everfit",
+            "description": "The Safety 1st Everfit is a series of baby seats designed to provide safety and comfort for children during car travel. It features an adjustable design to accommodate growing children and enhance ease of use for parents.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "2be06bfc-5b97-42a0-9d06-da606616ccfc",
+            "image": null,
+            "name": "Baby Art",
+            "description": "Dorel Juvenile's Baby Art series offers a range of creative toys designed to engage young children, promoting artistic expression and fine motor skills development through hands-on activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "6c2909a7-a657-43cc-a40d-604e3704812a",
+            "image": null,
+            "name": "Safety 1st Advance SE 3-in-1",
+            "description": "The Safety 1st Advance SE 3-in-1 is a versatile baby seat designed to grow with your child, offering three modes of use: rear-facing, forward-facing, and booster seat. It prioritizes safety and comfort, making it an ideal choice for parents.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "8642f659-fca7-4bad-ab35-a077950e9ea5",
+            "image": null,
+            "name": "Eddie Bauer XRS 65",
+            "description": "The Eddie Bauer XRS 65 is a convertible car seat designed to accommodate children from infancy through toddlerhood, providing enhanced safety features and comfort for travel.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "7bb05304-ff03-4c65-a49c-e7dbd8d999a9",
+            "image": null,
+            "name": "Safety 1st Grow and Go 3-in-1 Convertible Car Seat",
+            "description": "The Safety 1st Grow and Go 3-in-1 Convertible Car Seat is designed to adapt as your child grows, providing three modes of use: rear-facing, forward-facing, and booster seat. It prioritizes safety and comfort, making it a versatile choice for parents.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "18b8dc18-5da7-4eae-8ca2-9229bac6a68e",
+            "image": null,
+            "name": "Maxi-Cosi Coral 360 Modular Infant Car Seat",
+            "description": "The Maxi-Cosi Coral 360 Modular Infant Car Seat is designed to provide a safe and versatile travel solution for infants, featuring a unique 360-degree rotation that allows for easier access and installation in vehicles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "3c6c12e4-9de2-49bf-ba76-c747c0167ef5",
+            "image": null,
+            "name": "Safety 1st Grow and Go",
+            "description": "The Safety 1st Grow and Go is a versatile convertible car seat designed to accommodate your child's growth from infant to toddler. It offers safety features and comfort for use in both rear-facing and forward-facing positions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "682772e6-3fcd-4c81-ae37-7f2e8dc1d5e2",
+            "image": null,
+            "name": "Safety 1st Agile Travel System",
+            "description": "The Safety 1st Agile Travel System is a versatile stroller designed for convenient travel with an infant car seat that easily attaches to the stroller frame, ensuring a seamless transition from car to stroller.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        }
+    ]
+}

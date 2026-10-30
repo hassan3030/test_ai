@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e5c14e29-2c2b-4bab-a285-fab77f54051f",
+            "image": null,
+            "name": "Russell Hobbs 24360",
+            "description": "The Russell Hobbs 24360 is a versatile blender designed for everyday use in food preparation, featuring multiple speed settings and a durable glass jug for blending a variety of ingredients.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "e6e3091f-292b-48b8-a2aa-6e0f82e030bf",
+            "image": null,
+            "name": "Retro Inspire",
+            "description": "The Russell Hobbs Retro Inspire Coffee Machines collection combines classic design with modern functionality, allowing users to brew their favorite coffee with ease and style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "9796be10-2d68-4fc4-8f49-104f249468b3",
+            "image": null,
+            "name": "Russell Hobbs Soup Maker Series",
+            "description": "The Russell Hobbs Soup Maker Series allows users to easily blend and cook soups in one appliance, integrating convenience and efficiency for homemade soups.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "28afacfd-f845-4146-bb32-ec17d1167de5",
+            "image": null,
+            "name": "Klarstein Vitalizor",
+            "description": "The Klarstein Vitalizor series includes air fryers designed for efficient cooking with minimal oil, allowing users to prepare healthier meals while preserving flavor and texture.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "b7173822-58a8-46e3-a831-b5c88961f52a",
+            "image": null,
+            "name": "Klarstein VitAir",
+            "description": "The Klarstein VitAir series includes versatile air fryers designed to prepare healthy meals with less oil while maintaining flavor and texture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "bfadc1ac-8d9a-4cf2-8116-bbce9bf5c7bd",
+            "image": null,
+            "name": "Dreo Air Fryer Series",
+            "description": "The Dreo Air Fryer Series offers a healthier cooking alternative by using rapid air circulation technology to fry, bake, grill, and roast with little to no oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Dreo"
+            }
+        },
+        {
+            "id": "06081341-52b2-4b6f-91d2-4ba75431bac2",
+            "image": null,
+            "name": "Coleman 4-Person Instant Tent",
+            "description": "The Coleman 4-Person Instant Tent is designed for quick and easy setup, providing a spacious and weather-resistant shelter for outdoor camping. This tent accommodates up to four people, making it ideal for family camping trips.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "e6ee5b86-d92b-43f3-bba7-4613c8da955f",
+            "image": null,
+            "name": "Coleman Instant Tent Series",
+            "description": "The Coleman Instant Tent Series is designed for quick and easy setup, providing convenient shelter for campers and outdoor enthusiasts. Its intuitive design allows users to pitch the tent in minutes, making it ideal for spontaneous camping trips.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "d20d733b-87eb-4c37-a5ad-9531ad2321ab",
+            "image": null,
+            "name": "Coleman Instant Dome Tent",
+            "description": "The Coleman Instant Dome Tent is designed for quick and easy setup, making it ideal for camping enthusiasts who require a reliable shelter. Featuring a dome shape for stability and weather protection, it accommodates a comfortable sleeping space for small groups.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "36404299-dcf8-4878-8251-d0b97dbd4149",
+            "image": null,
+            "name": "Frog 40",
+            "description": "The Frog 40 is a lightweight children's bike designed for kids aged 5-7 years, featuring a durable aluminum frame and child-friendly components to enhance their cycling experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "c8b61845-c0cd-4853-bfcd-32c537fc2edb",
+            "image": null,
+            "name": "Frog 48",
+            "description": "The Frog 48 is a lightweight children's bike designed for ages 4 to 6, helping young riders develop their cycling skills in a safe and enjoyable manner.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "f59db3f8-4991-4d11-8a39-12a0c5c9105b",
+            "image": null,
+            "name": "Frog 52",
+            "description": "The Frog 52 is a lightweight, high-quality bike designed for children aged approximately 5 to 7 years old, featuring a geometry that promotes comfort and confidence while riding.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "2fa77a90-2048-48ec-b221-d4bfd8758c9c",
+            "image": null,
+            "name": "Frog Bikes 40",
+            "description": "The Frog Bikes 40 is a lightweight children's bike designed to provide durability and comfort for young riders, promoting confidence and skill development as they learn to cycle.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "456834c2-c6ab-48ff-bd09-0b1ef888f9a8",
+            "image": null,
+            "name": "Nespresso Vertuo",
+            "description": "The Nespresso Vertuo series is a line of coffee machines designed to brew a wide variety of coffee styles with the use of specially designed coffee capsules, focusing on convenience and quality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "9a77f62d-6d08-490e-b26c-47c0d78be256",
+            "image": null,
+            "name": "Nespresso Prodigio",
+            "description": "The Nespresso Prodigio is a smart coffee machine designed for convenience, allowing users to brew coffee remotely via a mobile app while offering customizable brewing options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "c52937ab-9cf1-4599-b823-5ae31a829995",
+            "image": null,
+            "name": "Nespresso Essenza Mini",
+            "description": "The Nespresso Essenza Mini is a compact coffee machine designed for brewing high-quality espresso and coffee with ease, featuring a minimalist design and user-friendly controls.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "d1d44ff2-3de0-4e54-90b7-752eab8021f9",
+            "image": null,
+            "name": "Nespresso Gran Lattissima",
+            "description": "The Nespresso Gran Lattissima is a premium coffee machine that specializes in creating a variety of milk-based coffee beverages with convenience and precision, designed for coffee enthusiasts looking for quality and ease of use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "860ab32c-6479-4ce7-a021-b5acac8ee609",
+            "image": null,
+            "name": "Secretlab OMEGA Series",
+            "description": "The Secretlab OMEGA Series is a line of ergonomically designed gaming chairs aimed at providing comfort and support for extended gaming sessions, featuring memory foam cushions and adjustable settings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "46880166-3e1d-454c-93ad-f61c5b3bfe47",
+            "image": null,
+            "name": "Secretlab TITAN Series",
+            "description": "The Secretlab TITAN Series offers ergonomic gaming chairs designed to provide comfort and support during long gaming sessions, featuring high-quality materials and adjustable features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "75eb7c3b-ea2c-4543-a3d2-a22697fe5cb3",
+            "image": null,
+            "name": "Secretlab Omega 2017",
+            "description": "The Secretlab Omega 2017 is a premium gaming chair designed for long hours of comfortable gameplay, featuring adjustable armrests, a memory foam head pillow, and a durable build tailored for avid gamers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "85312095-5aac-4a75-860c-605a7a03c12a",
+            "image": null,
+            "name": "Secretlab Omega 2018 Series",
+            "description": "The Secretlab Omega 2018 Series is a professional gaming chair designed for comfort and support during long gaming sessions, featuring adjustable lumbar support, high-density foam, and a durable design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "feaef8a2-9f0e-4bdd-a9bf-7d7372729b62",
+            "image": null,
+            "name": "Yamaha YZF-R1",
+            "description": "The Yamaha YZF-R1 is a high-performance sport motorcycle renowned for its advanced technology, agile handling, and powerful engine, designed primarily for racing and spirited riding on the road.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "331b506b-6027-420f-82c4-ff5e29259c09",
+            "image": null,
+            "name": "Thule Urban Glide",
+            "description": "The Thule Urban Glide is a versatile stroller designed for an active lifestyle, allowing parents to comfortably navigate various terrains while ensuring a smooth ride for their child. It combines features of a traditional stroller and a jogging stroller, making it suitable for everyday use and outdoor activities.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "286273dc-0756-40be-90e4-26a3cce1c25e",
+            "image": null,
+            "name": "Russell Hobbs Desire",
+            "description": "The Russell Hobbs Desire series includes a range of air fryers designed to offer a healthier way of cooking by using hot air circulation to produce crispy food with minimal oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "ba82eace-6887-4975-9c98-dbd8d5e7f91d",
+            "image": null,
+            "name": "Russell Hobbs Air Fryer",
+            "description": "The Russell Hobbs Air Fryer is designed to provide a healthier alternative to traditional frying by using hot air circulation to cook food with less oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "fcd502c0-f15f-469f-998e-274ca6b5b8c7",
+            "image": null,
+            "name": "Russell Hobbs 2-in-1 Microwave",
+            "description": "The Russell Hobbs 2-in-1 Microwave is a versatile kitchen appliance that combines microwave and grill functions, providing efficient cooking and reheating options for various meals.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "55f23627-9a9b-442b-ac59-b282e0136d0c",
+            "image": null,
+            "name": "Frog 67",
+            "description": "The Frog 67 is a lightweight children's bike designed for ages 6 to 8, featuring a sturdy frame and adjustable components to aid in learning to ride confidently.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "f50e2f9a-04fd-456a-b76d-c91fa4ba6ed8",
+            "image": null,
+            "name": "Frog Bikes 44",
+            "description": "The Frog Bikes 44 is a lightweight bike designed specifically for children, promoting a fun and safe cycling experience. It features a durable frame and child-friendly components to ensure comfort and ease of use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "8142c0c0-24e3-4674-945e-a1e1c6b20a0c",
+            "image": null,
+            "name": "Frog Bikes 48",
+            "description": "The Frog Bikes 48 is a lightweight children's bike designed for ages 6-9, featuring a durable frame and geometry that promotes stability and confidence in young riders.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "9b6eff06-acf7-40ec-9fc4-b08203a314bb",
+            "image": null,
+            "name": "Nespresso VertuoLine",
+            "description": "The Nespresso VertuoLine series is a line of coffee machines designed to brew a variety of coffee styles, including espresso and larger cups, using patented Centrifusion technology for optimal extraction.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        }
+    ]
+}

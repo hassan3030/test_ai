@@ -1,0 +1,354 @@
+{
+    "data": [
+        {
+            "id": "3b391023-5bc3-4813-9d83-4339c18de8a3",
+            "image": null,
+            "name": "Solarhu",
+            "description": "The Adidas Solarhu series is a collection of sneakers designed for comfort and performance, featuring lightweight materials and innovative cushioning technology for running and casual wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "e9183dc1-cea1-4518-a90e-653f036374ac",
+            "image": null,
+            "name": "Crazy Explosive",
+            "description": "The Adidas Crazy Explosive series is designed for basketball performance, featuring responsive cushioning and a supportive upper for enhanced stability during play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "76e7b009-8d0a-4c92-8529-8265733bb14e",
+            "image": null,
+            "name": "Y-3 Classic",
+            "description": "The Adidas Y-3 Classic series offers a blend of high fashion and sport-inspired aesthetics, focusing on minimalist design elements and premium materials tailored for modern men’s clothing.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "379dcd75-f8eb-4781-b2be-4c7cc97c1aae",
+            "image": null,
+            "name": "YEEZY Boost 350",
+            "description": "The Adidas YEEZY Boost 350 is a popular sneaker series characterized by its sleek design, lightweight construction, and signature Boost cushioning technology, offering both style and comfort for everyday wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "e9197376-dd16-4183-84cf-f45f04ad1a58",
+            "image": null,
+            "name": "Adizero Boston 10",
+            "description": "The Adidas Adizero Boston 10 is a lightweight running sneaker designed for speed and efficiency, making it suitable for both training and racing.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "d768323c-8b24-45f0-90e9-1bce7b7a7af3",
+            "image": null,
+            "name": "Uniqlo x KAWS",
+            "description": "The Uniqlo x KAWS series is a collaboration featuring graphic designs by renowned artist KAWS, aimed at merging contemporary art with everyday apparel for women.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f0fc8979-515b-4fda-b72d-f6a9768e9e4f",
+            "image": null,
+            "name": "Boy Chanel",
+            "description": "The Boy Chanel series by Chanel features a modern and edgy design, characterized by its bold shapes and distinct quilted leather. Released in 2018, these bags are designed to blend luxury with functionality, appealing to a contemporary audience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "722a4e91-2947-4485-ae09-0ba62565b3d0",
+            "image": null,
+            "name": "Versace Tribute",
+            "description": "The Versace Tribute series celebrates the iconic designs of Versace, showcasing bold patterns and vibrant colors characteristic of the brand's luxurious aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "26ca85e7-63dd-447b-8053-f1fa315ae3e7",
+            "image": null,
+            "name": "Puma Suede Platform",
+            "description": "The Puma Suede Platform is a stylish sneaker series that combines classic suede material with a raised platform sole for added height and a modern look, making it a popular choice for streetwear enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "a4d3d4ad-f3cf-4639-91f6-b2b76a4ba56a",
+            "image": null,
+            "name": "Prada Re-Nylon",
+            "description": "The Prada Re-Nylon series consists of bags made from regenerated nylon, highlighting sustainability while maintaining the brand's luxury aesthetic.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "52ebd86c-73f1-4a42-8be5-8e083ce44779",
+            "image": null,
+            "name": "Polo Ralph Lauren Fall 2022 Collection",
+            "description": "The Polo Ralph Lauren Fall 2022 Collection is a curated assortment of women's clothing that embodies classic American style with a modern twist, focusing on quality materials and timeless silhouettes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6f7e0be-b5d0-4eb2-bfb0-e1cba01017af",
+            "image": null,
+            "name": "Versace Tribute Collection",
+            "description": "The Versace Tribute Collection is a range of accessories that embodies the opulence and bold aesthetic synonymous with the Versace brand, designed to elevate any outfit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3ff2c151-36a7-4c89-b1dd-deb6c52119c6",
+            "image": null,
+            "name": "Puma x Rhuigi",
+            "description": "The Puma x Rhuigi series features a collection of sneakers that blend modern streetwear aesthetics with classic Puma design elements, aiming to provide both style and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "d0d61e9b-e4e1-4e76-8293-438996dbe6b2",
+            "image": null,
+            "name": "Fendi Sunshine",
+            "description": "The Fendi Sunshine series is a collection of luxurious bags designed in 2021, characterized by their elegant silhouettes and high-quality craftsmanship, ideal for everyday use and stylish occasions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "be999890-7f02-404a-acd8-676bb293ca4f",
+            "image": null,
+            "name": "Fendi Mon Tresor",
+            "description": "The Fendi Mon Tresor series features a collection of handbags characterized by their round shape, adjustable straps, and the iconic FF logo, designed to be both stylish and functional.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0ac27d63-31c8-4187-97f4-e64317eb0b95",
+            "image": null,
+            "name": "Dior Homme Sport",
+            "description": "Dior Homme Sport is an accessory line that emphasizes sporty elegance, designed to complement the modern man's lifestyle with a blend of sophistication and dynamism.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c46e5cf3-b4be-46fa-84d3-6b71a99abe61",
+            "image": null,
+            "name": "Versace Icons",
+            "description": "The Versace Icons series features a refined collection of luxury accessories that embody the brand's signature opulence and bold aesthetic, designed to make a statement in any ensemble.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a1c5ab08-2895-4263-b77a-eccd08872b25",
+            "image": null,
+            "name": "Versace Jeans Couture",
+            "description": "Versace Jeans Couture is a contemporary collection that combines the luxe aesthetic of Versace with a more casual, everyday style, aimed at providing stylish and accessible clothing options for women.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d6d9cb6b-535c-4164-b6d8-cae2500ae405",
+            "image": null,
+            "name": "Virtus Bags",
+            "description": "The Versace Virtus Bags series features elegant and sophisticated handbags, characterized by their luxurious materials and iconic medusa head emblem, catering to those who seek high fashion accessories.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4c5c6dfe-43e5-4ac0-8d26-a4fc7c8cfcd7",
+            "image": null,
+            "name": "Puma x Selena Gomez Collection",
+            "description": "The Puma x Selena Gomez Collection is a collaborative line of men's clothing released in 2017, designed to blend sporty aesthetics with modern style, reflecting Selena Gomez's personal fashion sense.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "546fe1cc-10c9-4e24-ac8e-9a7a6c824e22",
+            "image": null,
+            "name": "Dior Camp",
+            "description": "The Dior Camp series features a range of stylish and functional bags designed for modern, on-the-go lifestyles, combining luxury materials with practical designs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aecde1ad-5f84-4fa6-bb40-b3f086d3b5ca",
+            "image": null,
+            "name": "Dior Saddle Bag",
+            "description": "The Dior Saddle Bag is a distinctive handbag that features a unique silhouette inspired by equestrian themes, known for its curved shape and iconic 'D' motif. Launched in 2019, it combines luxury craftsmanship with modern design for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7bea8654-6b36-4137-a7c6-89ca08ccbe39",
+            "image": null,
+            "name": "Classic City Bag",
+            "description": "The Balenciaga Classic City Bag is a timeless handbag known for its soft yet structured shape, practical size, and signature metal hardware. It serves as a versatile accessory suitable for both casual and formal occasions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1a3b886c-8f8c-423f-81e1-c2394fc6ca10",
+            "image": null,
+            "name": "Puma Fenty x Rihanna",
+            "description": "The Puma Fenty x Rihanna series is a collaborative sneaker line created in partnership with music artist Rihanna, characterized by its bold designs and streetwear influence.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "6d3334b0-6029-434e-8a7b-9b1ab852cacb",
+            "image": null,
+            "name": "Puma CELL Endura",
+            "description": "The Puma CELL Endura is a sneaker series released in 2019, known for its retro-inspired design and CELL cushioning technology, providing comfort and support for both casual wear and athletic activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "c3e71b67-863a-411f-8d07-32cf8a5eb615",
+            "image": null,
+            "name": "Dior Eyewear 2021 Collection",
+            "description": "The Dior Eyewear 2021 Collection features a range of stylish sunglasses designed to offer both protection from UV rays and fashionable aesthetics, embodying the luxury and elegance synonymous with the Dior brand.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8ebcff12-bef3-4557-b9f3-6988f4cc228e",
+            "image": null,
+            "name": "Dior Men’s Spring/Summer 2021 Collection",
+            "description": "The Dior Men’s Spring/Summer 2021 Collection features a blend of modern designs and classic silhouettes, intended to showcase versatility and elegance for the contemporary man.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f8b5890f-897e-45b6-a50e-be7aa962f1d4",
+            "image": null,
+            "name": "Dior Women’s Spring/Summer 2021 Collection",
+            "description": "The Dior Women’s Spring/Summer 2021 Collection showcases a blend of modern elegance and playful femininity, featuring vibrant colors and innovative designs suited for the warmer seasons.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f66ad305-ef0b-4db4-add0-31cef9d933da",
+            "image": null,
+            "name": "Dior Fall 2021 Collection",
+            "description": "The Dior Fall 2021 Collection features a range of exquisite accessories that embody the brand's signature elegance and innovative design. Each piece serves to enhance personal style while reflecting seasonal trends.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d3267640-8947-499b-832c-759a62312265",
+            "image": null,
+            "name": "Neo Classic",
+            "description": "The Balenciaga Neo Classic series features handbags that blend timeless design with contemporary elements, showcasing the brand's signature style while offering functionality and an elevated aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        }
+    ]
+}

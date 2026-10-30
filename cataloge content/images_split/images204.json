@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "478d107a-3bcb-4442-8baa-e1786778b22c",
+            "image": null,
+            "name": "DUPLO Disney Mickey & Friends Fire Truck",
+            "description": "The DUPLO Disney Mickey & Friends Fire Truck is a colorful building toy designed for young children, promoting imaginative play and fine motor skills through assembly and interaction with beloved Disney characters.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "3154087b-4034-42d5-96fb-dbbe1f9d5d5f",
+            "image": null,
+            "name": "DUPLO Town Fun Family House",
+            "description": "The DUPLO Town Fun Family House is an engaging building set designed for young children, encouraging imaginative play and helping develop fine motor skills. It features a variety of colorful DUPLO bricks and figures that allow children to create their own family scenarios.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "c45285f9-f356-4eca-a5fb-05a4cda1cd99",
+            "image": null,
+            "name": "DUPLO 10897 School Day",
+            "description": "The DUPLO 10897 School Day set features colorful building blocks that inspire imaginative play, allowing young children to create their own school scenarios and engage in cooperative play.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "de9aa1c0-c2ea-4282-bed1-2b20c6ff75e2",
+            "image": null,
+            "name": "DUPLO 10895 Fire Station",
+            "description": "The DUPLO 10895 Fire Station is a playset designed for young children, featuring colorful bricks and accessories that encourage imaginative play and storytelling. It includes firefighter figures, a fire truck, and a fire station, promoting role-playing and motor skill development.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "fc9fd9d8-dfc0-4c11-b999-d86e2f28238f",
+            "image": null,
+            "name": "Siku Super",
+            "description": "Siku Super is a series of high-quality die-cast toy vehicles designed for children and collectors, offering detailed craftsmanship and realistic designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "b4f007ba-96d2-4e5f-8366-986ce4b8742c",
+            "image": null,
+            "name": "Siku Farmer",
+            "description": "Siku Farmer is a series of toy vehicles and farm machinery that provides children with a realistic play experience, promoting imaginative play and an understanding of agricultural practices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "3e350920-08c2-4f2e-bea6-5f8edae35a94",
+            "image": null,
+            "name": "Siku City",
+            "description": "Siku City is a series of toy vehicles and playsets designed to stimulate imaginative play and creativity among children, featuring detailed miniature models of various vehicles and urban environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "a666c268-41bd-4697-b336-ad7160fee567",
+            "image": null,
+            "name": "Siku World",
+            "description": "Siku World is a series of high-quality die-cast toy vehicles and playsets designed to foster imaginative play and creative storytelling among children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "98001238-7346-4d3c-9f47-f03ff4c5d821",
+            "image": null,
+            "name": "FurReal Friends Get Up & Go Go Andrea",
+            "description": "FurReal Friends Get Up & Go Go Andrea is a robotic pet toy that responds to touch and interactive play, encouraging imaginative role-playing and companionship for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "6e42b4df-f504-416f-89f2-6e63448ca4ec",
+            "image": null,
+            "name": "FurReal Friends Roarin' Tyler the Playful Tiger",
+            "description": "FurReal Friends Roarin' Tyler the Playful Tiger is an interactive plush toy that responds to touch and sound, simulating the behavior of a real tiger. With playful sounds and movements, this toy encourages imaginative play and companionship for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "ed5dc482-bf5e-4cbc-93d7-9c7c1c07de66",
+            "image": null,
+            "name": "FurReal Friends Walking Puppy",
+            "description": "FurReal Friends Walking Puppy is an interactive toy that mimics the actions of a real puppy, encouraging imaginative play and companionship for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "9e896682-1d53-47e1-9bce-b8679b32048c",
+            "image": null,
+            "name": "FurReal Friends: Pomeranian Pup",
+            "description": "FurReal Friends: Pomeranian Pup is an interactive toy designed for children, allowing them to experience the joys of pet ownership with a lovable, realistic Pomeranian pup that responds to touch and sounds.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "e5a07231-a834-4fce-8242-e50b9a9b4014",
+            "image": null,
+            "name": "FurReal Friends Pax My Poopin' Pup",
+            "description": "FurReal Friends Pax My Poopin' Pup is an interactive toy dog that engages children with playful feeding and potty training experiences, teaching them about pet care.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "d9af72c8-456a-42f8-b584-8e9aa4968bda",
+            "image": null,
+            "name": "FurReal Friends Munchin' Rex",
+            "description": "FurReal Friends Munchin' Rex is an interactive toy dinosaur that responds with sounds and movements, inviting children to engage in imaginative play with its included accessories.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "23adedb3-36e7-419d-a6c5-561e9f3123c3",
+            "image": null,
+            "name": "FurReal Friends Doodle the Cool Pup",
+            "description": "FurReal Friends Doodle the Cool Pup is an interactive plush toy that responds to touch and sound, providing children with a fun, engaging pet-like experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "e85dc15d-d224-4b0f-beaf-591d0fcc306d",
+            "image": null,
+            "name": "Munchkin Bath Toy Organizer",
+            "description": "The Munchkin Bath Toy Organizer is designed to help parents keep bath time tidy by providing a convenient solution for storing toys and accessories, featuring a mesh design that allows for water drainage and easy cleaning.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Munchkin"
+            }
+        },
+        {
+            "id": "1ea2dc7e-0d57-4b24-9dfb-391cff8368a7",
+            "image": null,
+            "name": "Little Tikes Cozy Coupe (New Generation)",
+            "description": "The Little Tikes Cozy Coupe (New Generation) is a classic ride-on toy designed for toddlers and preschoolers, encouraging imaginative play and outdoor activity. It features an easy-to-grip steering wheel, a removable floor for younger children, and an enhanced design for stability and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "b94fc4a8-cea4-41c6-b2ea-2e1912f7238e",
+            "image": null,
+            "name": "Little Tikes Cozy Truck",
+            "description": "The Little Tikes Cozy Truck is a ride-on toy designed for young children, featuring an interactive driver's seat, a working tailgate, and durable construction for both indoor and outdoor play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "8937cb39-86e0-4302-9aed-9cf3cc99d174",
+            "image": null,
+            "name": "Strider 12 Sport Balance Bike",
+            "description": "The Strider 12 Sport Balance Bike is designed for young children to develop essential balance and coordination skills without the need for pedals. This lightweight bike promotes confidence and independence as children learn to ride.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "6b980ce7-bb01-4104-85aa-22f65a2db42b",
+            "image": null,
+            "name": "Strider 14x Sport",
+            "description": "The Strider 14x Sport is a balance bike designed for children aged 3 to 7 years. It promotes early riding skills by allowing kids to learn balance and coordination without the need for pedals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "5e82db2c-f38b-4ba1-bdd5-41d8bb263749",
+            "image": null,
+            "name": "Chevrolet Orlando",
+            "description": "The Chevrolet Orlando is a mid-size SUV designed for families, offering spacious seating and a versatile interior layout suited for both everyday use and longer journeys.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "b4597fc3-74d4-4ee8-aa1b-c5ea9a715f7b",
+            "image": null,
+            "name": "Chevrolet Spark EV",
+            "description": "The Chevrolet Spark EV is an all-electric subcompact car designed for urban driving, offering efficient performance with zero tailpipe emissions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "2dee1399-fffb-4609-b529-600212cd7c46",
+            "image": null,
+            "name": "R-Series",
+            "description": "The R-Series by Rockford Fosgate is designed for car audio applications, providing high-performance sound quality and robust construction for durability and reliability in vehicle environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "076a5d6c-2d8e-4e76-a55b-9a24d10be6fa",
+            "image": null,
+            "name": "R2 Series",
+            "description": "The R2 Series by Rockford Fosgate is a line of car audio products designed to deliver high-quality sound and performance for automotive use. The series features subwoofers and amplifiers that emphasize powerful bass and clarity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "5d255860-757a-4c27-bd74-b53473b06cd0",
+            "image": null,
+            "name": "M1 Series",
+            "description": "The Rockford Fosgate M1 Series is a range of marine-grade speakers and amplifiers designed for enhanced audio performance in outdoor and marine environments. Built for durability and sound quality, these products feature a rugged design suitable for boats, ATVs, and other vehicles exposed to harsh conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "268183fd-b658-46b8-b8dd-0fb8835af51f",
+            "image": null,
+            "name": "Graco Modes 3 Lite DLX Travel System",
+            "description": "The Graco Modes 3 Lite DLX Travel System is a versatile stroller and car seat combination designed to provide convenient travel solutions for parents with infants. Its three different modes allow for easy transitions from car to stroller, enhancing the overall mobility and comfort of both parent and child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "2fa2f3e5-6186-4e1d-8309-65a537ea40b3",
+            "image": null,
+            "name": "Nissan Frontier (2021 Model)",
+            "description": "The Nissan Frontier (2021 Model) is a compact pickup truck designed for those who seek a balance of rugged capability and everyday usability, making it ideal for both work and leisure.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "361e9161-6b3c-4bd7-beca-0cc0325e40d2",
+            "image": null,
+            "name": "Tempur-Cloud",
+            "description": "The Tempur-Cloud series from Tempur-Pedic features innovative memory foam technology designed to provide a soft, plush feel while also offering support for a restful sleep experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "79e13506-b21d-4e3e-a18b-525faefd0495",
+            "image": null,
+            "name": "Mitsubishi Lancer Evolution VI",
+            "description": "The Mitsubishi Lancer Evolution VI is a high-performance sports sedan designed primarily for rally racing, known for its advanced all-wheel-drive system, powerful turbocharged engine, and agile handling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "ffb163a0-05e3-4947-81d4-d25937f3eb63",
+            "image": null,
+            "name": "Eurotech Ceres",
+            "description": "The Eurotech Ceres series features ergonomic gaming chairs designed to provide support and comfort for long hours of gaming. With adjustable features and sleek design, these chairs are tailored for serious gamers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Eurotech"
+            }
+        }
+    ]
+}

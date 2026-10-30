@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "3fae11ee-aa4f-48cf-8496-d21857c129f5",
+            "image": null,
+            "name": "Citroën C5 Aircross",
+            "description": "The Citroën C5 Aircross is a compact SUV launched in 2019, known for its comfort, spacious interior, and advanced technology features, designed to provide a versatile driving experience for both city and off-road conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "4fe3ee77-a956-4c5e-b73b-8ff1c48be9a1",
+            "image": null,
+            "name": "Citroën Ami",
+            "description": "The Citroën Ami is a compact electric vehicle designed for urban mobility, emphasizing sustainability and ease of use for short-distance travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "7c7d3e6f-3867-472e-80e8-cbf48e42ba1a",
+            "image": null,
+            "name": "YBR125",
+            "description": "The Yamaha YBR125 is a motorcycle designed for urban commuting, featuring a lightweight frame and efficient engine, making it ideal for both new and experienced riders seeking reliability and ease of use.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "6c11f374-2f37-4cde-a6d4-d191c7165a84",
+            "image": null,
+            "name": "Fabia",
+            "description": "The Skoda Fabia is a compact car that was first released in 2001, known for its practicality and efficiency, catering to urban drivers and small families.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "f1f743c3-6c63-4c10-bc55-78a66cde69ae",
+            "image": null,
+            "name": "Emporio Armani Connect Smartwatch",
+            "description": "The Emporio Armani Connect Smartwatch is a versatile smartwatch designed to blend style and functionality, featuring customizable watch faces and fitness tracking capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Emporio Armani"
+            }
+        },
+        {
+            "id": "b960cde0-52c5-48ea-8f20-6d4bce750b4b",
+            "image": null,
+            "name": "Skoda Roomster",
+            "description": "The Skoda Roomster is a compact multi-purpose vehicle (MPV) introduced in 2005, known for its functional design, spacious interior, and versatility, making it suitable for both families and urban use.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "931c7420-a4be-4a7e-8df7-1b6d920283a3",
+            "image": null,
+            "name": "Skoda Fabia II",
+            "description": "The Skoda Fabia II is a compact car designed to offer practicality and comfort for urban driving, featuring efficient use of space and a range of engine options.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "aeefbc39-7bb9-4bea-b89e-0fc4d84326cd",
+            "image": null,
+            "name": "Cuisinart Compact Portable Blending/Chopping System",
+            "description": "The Cuisinart Compact Portable Blending/Chopping System is a versatile kitchen appliance designed for blending and chopping a variety of ingredients, offering convenience and efficient food preparation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "426977be-c028-499d-af6e-8533274d33ed",
+            "image": null,
+            "name": "P-Series",
+            "description": "The Vertagear P-Series is a line of gaming chairs designed for comfort and support during extended gaming sessions, featuring ergonomic designs and premium materials.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "0f5ded7e-b470-443b-8fb5-456e17a55fb4",
+            "image": null,
+            "name": "KTM 890 Duke R",
+            "description": "The KTM 890 Duke R is a high-performance naked motorcycle designed for agile handling and street performance, featuring a powerful engine and advanced technology for an exhilarating riding experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "c907ed0b-690f-4b12-abba-5cddaf665b1f",
+            "image": null,
+            "name": "Yamaha NMAX",
+            "description": "The Yamaha NMAX is a compact scooter designed for urban commuting, offering a blend of performance, efficiency, and agility for navigating city streets.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "8ed1214a-9cb3-4ce4-97de-16b4401f8f0d",
+            "image": null,
+            "name": "Skoda Yeti",
+            "description": "The Skoda Yeti is a compact SUV that offers a blend of practicality, comfort, and off-road capabilities, making it suitable for both urban and rural environments.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "47c82457-1bab-4781-94c9-47ade7713d1f",
+            "image": null,
+            "name": "Skoda Citigo",
+            "description": "The Skoda Citigo is a city car that was first released in 2012, designed for urban environments with a compact size, fuel efficiency, and practical features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "28528169-e1ca-42a5-868a-b4ce61230232",
+            "image": null,
+            "name": "Skoda Rapid",
+            "description": "The Skoda Rapid is a compact car designed for practicality and efficiency, offering a spacious interior and a balance of performance and fuel economy.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "15ce074e-4697-43dd-9633-1acbabf0098d",
+            "image": null,
+            "name": "Skoda Octavia III",
+            "description": "The Skoda Octavia III is a compact car released in 2013, known for its spacious interior, efficient fuel economy, and advanced safety features, catering to both family and individual drivers.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "1a399c38-96a7-4fd0-a7b1-e8c83507950c",
+            "image": null,
+            "name": "Skoda Yeti Facelift",
+            "description": "The Skoda Yeti Facelift is a compact SUV that combines versatility and functionality, designed for both urban driving and off-road adventures while offering a spacious interior and practical features.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "06ba64a1-c544-43f0-83bf-5aaf83ac17ce",
+            "image": null,
+            "name": "Ferragamo Rainbow",
+            "description": "The Ferragamo Rainbow series is a collection of stylish and vibrant bags designed to embody elegance and versatility, expertly crafted by Salvatore Ferragamo.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Salvatore Ferragamo"
+            }
+        },
+        {
+            "id": "13d12684-9fa5-4595-ab2b-11249bc2f76d",
+            "image": null,
+            "name": "Ferragamo 1898",
+            "description": "The Ferragamo 1898 series by Salvatore Ferragamo features elegant watches that combine meticulous craftsmanship with timeless design, showcasing the brand's heritage and dedication to luxury.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Salvatore Ferragamo"
+            }
+        },
+        {
+            "id": "75f19b7e-44a1-4967-92c7-236540937216",
+            "image": null,
+            "name": "Cuisinart Elemental Food Processor",
+            "description": "The Cuisinart Elemental Food Processor series offers versatile food preparation capabilities, designed to chop, slice, shred, and puree a variety of ingredients efficiently.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9d1829cf-b657-4719-840c-a9b409005b68",
+            "image": null,
+            "name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker",
+            "description": "The Cuisinart DCC-3200P1 Perfectemp Coffee Maker is an advanced coffee brewing system designed to deliver customizable coffee strength and temperature, ensuring a perfect cup every time.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cbe10350-0da5-49db-a7d3-c29000b66f24",
+            "image": null,
+            "name": "Maui Jim Polarized Plus2",
+            "description": "The Maui Jim Polarized Plus2 series offers sunglasses designed to enhance color and clarity while providing excellent UV protection and glare reduction. With their advanced polarized lens technology, these sunglasses are ideal for outdoor activities and water sports.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "4e80e229-2329-40d8-980d-8d8e36e61e66",
+            "image": null,
+            "name": "Summer Infant Deluxe Baby Bather",
+            "description": "The Summer Infant Deluxe Baby Bather is a comfortable bathing seat designed for infants, providing a safe and secure space for bath time. Its compact design and soft fabric ensure ease of use and comfort for both baby and caregiver.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Summer Infant"
+            }
+        },
+        {
+            "id": "a4931b8c-6ef0-4a4d-b2d2-d1a12bacfd10",
+            "image": null,
+            "name": "Cuisinart TOA-60 Convection Toaster Oven Airfryer",
+            "description": "The Cuisinart TOA-60 Convection Toaster Oven Airfryer is a versatile kitchen appliance that combines the functionalities of a toaster oven and an air fryer, allowing users to toast, bake, broil, and air fry with ease.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "694048ee-9f6c-442e-a95b-577ae27f9ffe",
+            "image": null,
+            "name": "Kodiaq",
+            "description": "The Škoda Kodiaq is a mid-size SUV that offers spacious interiors, advanced safety features, and efficient performance, making it an ideal choice for families and outdoor enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "a284c27e-1edc-4228-85d6-d87c6ecc30d9",
+            "image": null,
+            "name": "Karoq",
+            "description": "The Skoda Karoq is a compact SUV designed for urban and outdoor adventures, combining practicality with modern technology and spacious interiors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "a39240d6-3983-453c-9335-a6aebd977c97",
+            "image": null,
+            "name": "Zymöl Field Glaze",
+            "description": "Zymöl Field Glaze is a premium car care product designed to provide a high-gloss finish while enhancing the vehicle's paint protection. Launched in 2010, it is formulated to be easy to apply and long-lasting, making it ideal for automotive enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "64f0105d-3812-4981-b213-df4f9ff711fc",
+            "image": null,
+            "name": "Kawasaki Vulcan 1700",
+            "description": "The Kawasaki Vulcan 1700 is a cruiser motorcycle designed for long-distance riding, offering a balance of style, comfort, and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "2f4017a3-d3c5-4e36-b514-a915fe362c9b",
+            "image": null,
+            "name": "Kawasaki Versys-X 300",
+            "description": "The Kawasaki Versys-X 300 is a versatile adventure motorcycle designed for both on-road and off-road riding, featuring a lightweight build and an upright seating position for comfort and control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "b85e0fe5-4bc4-496c-8164-f0fbf611d320",
+            "image": null,
+            "name": "Kawasaki Ninja H2 SX",
+            "description": "The Kawasaki Ninja H2 SX is a sport-touring motorcycle designed for high performance and advanced technology, offering enhanced comfort for long-distance rides.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "c18e9b29-0a28-48e9-9eb4-ccf22cc21afd",
+            "image": null,
+            "name": "Ninja 400",
+            "description": "The Kawasaki Ninja 400 is a lightweight sport motorcycle designed for beginner riders and experienced motorcyclists alike, offering a balance of performance and ease of use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        }
+    ]
+}

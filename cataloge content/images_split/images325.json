@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "id": "fb938a3d-24fa-4b4c-b02a-5506e1fa0aa8",
+            "image": null,
+            "name": "Chuwi GemiBook Pro",
+            "description": "The Chuwi GemiBook Pro is a laptop series released in 2022, designed for everyday computing tasks with a focus on portability and efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "7a187414-03fa-4568-aa80-91f7c252ff5c",
+            "image": null,
+            "name": "Tata Safari 2.2 DICOR",
+            "description": "The Tata Safari 2.2 DICOR is a mid-size SUV launched by Tata Motors in 2006, known for its robust design and spacious interiors, aimed at providing a comfortable and versatile driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "d04a6077-c65d-47bc-b8fd-bd11fae2e975",
+            "image": null,
+            "name": "Porsche 911 GT3",
+            "description": "The Porsche 911 GT3 is a high-performance sports car known for its precision engineering, track-ready capabilities, and a naturally aspirated engine that provides an exhilarating driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d7e6c57e-9b35-4a44-88cd-f2f4a34908ac",
+            "image": null,
+            "name": "Paris Extra Fine Acrylics",
+            "description": "Pebeo Paris Extra Fine Acrylics are a range of high-quality acrylic paints designed for artists, offering excellent pigmentation and smooth application, ideal for various artistic techniques.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "44563ee5-6703-4c7f-b345-633bd2ef40e0",
+            "image": null,
+            "name": "Porsche 911 (992)",
+            "description": "The Porsche 911 (992) is a high-performance sports car known for its distinctive design, rear-engine layout, and advanced technology. Released in 2020, it combines luxury with driving excellence, appealing to enthusiasts and everyday drivers alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3c8b2ba3-3135-4090-95c4-a8c2718dfa23",
+            "image": null,
+            "name": "Vox Mini Go",
+            "description": "The Vox Mini Go series consists of portable amplifiers designed for musicians seeking versatile sound options while on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "ed2f5510-d34b-4733-932f-e45e6c245c5b",
+            "image": null,
+            "name": "Mann-Filter F Fuel Filter Series",
+            "description": "The Mann-Filter F Fuel Filter Series is designed to effectively remove contaminants from fuel, ensuring optimal engine performance and longevity. It features advanced filtration technology suitable for a wide range of vehicles since its release in 2002.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "874d1a60-b495-46ff-89ca-030d8e0b7039",
+            "image": null,
+            "name": "Krooked Gonz 8.5",
+            "description": "The Krooked Gonz 8.5 is a skateboard designed for performance and versatility, featuring a classic shape ideal for street and park riding, influenced by the iconic style of pro skater Mark Gonzales.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "41ae7cac-1e62-461f-bd62-9da2a2fd65ac",
+            "image": null,
+            "name": "Gateway Ultra Slim Laptops",
+            "description": "The Gateway Ultra Slim Laptops are a series of lightweight portable computers designed for everyday use, offering a balance of performance and portability for users on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "7d7737f3-e493-4045-87f0-357771858a82",
+            "image": null,
+            "name": "FK1 Waterless Wash",
+            "description": "Finish Kare FK1 Waterless Wash is a car care product designed for efficient and effective cleaning of vehicle surfaces without the use of water, ensuring a glossy finish while protecting the paint.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "c6e74681-2b86-42e4-ba80-8178e202d4d3",
+            "image": null,
+            "name": "FK2 Ceramic Coating",
+            "description": "The Finish Kare FK2 Ceramic Coating is designed to offer durable protection for automotive surfaces, enhancing gloss and resisting environmental contaminants.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "5fca0d16-9c3c-4b50-960b-cc0a572e9be1",
+            "image": null,
+            "name": "Academy",
+            "description": "Daler Rowney's Academy series offers a comprehensive range of art supplies designed for students and aspiring artists, characterized by quality and affordability to support creative expression.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "b0d6c573-14b9-440a-8ca1-5e2b6578b81c",
+            "image": null,
+            "name": "Enjoi Team",
+            "description": "The Enjoi Team series features high-quality skateboards designed for performance, durability, and style, catering to skaters of all skill levels.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "ad87051e-3edf-40c8-84e8-b6431949cfd3",
+            "image": null,
+            "name": "Ducati Monster 797",
+            "description": "The Ducati Monster 797 is a naked motorcycle introduced in 2017, designed for urban commuting and spirited riding, featuring a lightweight frame and a lively engine for an engaging riding experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "9ac86f1b-38b4-45af-9232-8bc36d68f0aa",
+            "image": null,
+            "name": "Ducati Scrambler 803",
+            "description": "The Ducati Scrambler 803 is a versatile motorcycle that blends classic style with modern performance, ideal for urban riding and off-road adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "9372467e-2163-4089-930f-0e23a1b9eb82",
+            "image": null,
+            "name": "Daytona 675R",
+            "description": "The Triumph Daytona 675R is a high-performance sports motorcycle designed for both track and street riding, featuring advanced technology and a powerful three-cylinder engine.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "248aaad3-ac7f-4b13-99f2-868e223fa36b",
+            "image": null,
+            "name": "Fiat Panda (new generation)",
+            "description": "The Fiat Panda (new generation) is a compact city car designed for versatility and practicality, offering efficient space utilization and ease of maneuverability in urban environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "286c9f5c-c832-45a0-b866-c62d50bfae55",
+            "image": null,
+            "name": "Poco X2",
+            "description": "The Poco X2 is a mid-range smartphone designed for performance and user experience, featuring a high refresh rate display and robust specifications suitable for gaming and everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "8ba07977-b4e5-4ade-b569-ea09b3e2ed11",
+            "image": null,
+            "name": "Chuwi CoreBook X",
+            "description": "The Chuwi CoreBook X is a versatile laptop designed for everyday use, offering a blend of performance and portability suitable for students and professionals alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "5a14ec17-ee29-45c5-8553-2a61ca0added",
+            "image": null,
+            "name": "Porsche Boxster (986)",
+            "description": "The Porsche Boxster (986) is a mid-engine, two-seat roadster that combines the performance of a sports car with the practicality of a convertible. Launched in 2000, it is known for its agile handling, lightweight design, and distinctive styling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "27fa1096-dedf-4129-a2e6-215cf657baeb",
+            "image": null,
+            "name": "Dodge Ram 1500 (2012)",
+            "description": "The Dodge Ram 1500 (2012) is a full-size pickup truck known for its robust performance, spacious interior, and versatile utility, making it suitable for both work and recreational use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "9ca7352e-3337-422c-96c1-c97b13932225",
+            "image": null,
+            "name": "Porsche 997",
+            "description": "The Porsche 997 is a sports car series produced by Porsche from 2005 to 2012, known for its refined design, powerful performance, and exceptional handling. It serves as a successor to the Porsche 996, embodying a balance of classic and modern Porsche styling.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "38bbe124-dc73-465d-a29b-2278d1dcbfb1",
+            "image": null,
+            "name": "Porsche 991",
+            "description": "The Porsche 991 is a series of sports cars produced by Porsche, officially launched in 2011. Renowned for its precision engineering, dynamic handling, and iconic design, the 991 is a successor to the Porsche 997 and features advancements in technology and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4b54cd48-a3e1-4ee4-98a6-93df08862a29",
+            "image": null,
+            "name": "Tata Harrier Facelift",
+            "description": "The Tata Harrier Facelift is a modern SUV designed for both urban and adventurous terrains, featuring enhanced aesthetics, refined performance, and advanced technology for a comfortable driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "02c692ea-0639-4cdf-9d6f-3ccde836e6c0",
+            "image": null,
+            "name": "Porsche Cayenne (third generation)",
+            "description": "The Porsche Cayenne (third generation) is a luxury mid-size SUV designed to deliver both sporty performance and high-end comfort. Its blend of versatility and advanced technology makes it suitable for both urban driving and off-road adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f771f80c-4c77-40f6-9316-49d05f6c3724",
+            "image": null,
+            "name": "Mann-Filter W Oil Filter Series",
+            "description": "The Mann-Filter W Oil Filter Series is designed to ensure optimal engine performance by effectively filtering out contaminants from engine oil, thus prolonging engine life and maintaining efficiency.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "b64f7b16-c3e0-4579-8fdd-59be036511e6",
+            "image": null,
+            "name": "Ducati Monsters",
+            "description": "The Ducati Monsters are a family of naked motorcycles known for their agile handling, lightweight design, and distinctive aesthetics, making them ideal for urban riding and spirited weekend trips.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "a905a3f3-dba8-4b9f-9971-6474b91f0d68",
+            "image": null,
+            "name": "Gateway Laptop Series",
+            "description": "The Gateway Laptop Series offers a range of versatile laptops designed for everyday computing needs, combining performance and affordability for users seeking reliable mobile solutions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "50aa3cf5-eb8a-4ade-ae47-3b0e06aca0c4",
+            "image": null,
+            "name": "Ducati Hyperstrada",
+            "description": "The Ducati Hyperstrada is a versatile motorcycle designed for both touring and urban commuting, characterized by its lightweight frame and agile handling.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "bd924c99-0b71-4d7d-a472-a2f45345fa9f",
+            "image": null,
+            "name": "Bamboo Skateboards 2020 Complete Skateboards",
+            "description": "The Bamboo Skateboards 2020 Complete Skateboards series features eco-friendly skateboards made from bamboo, designed for versatile performance and durability, catering to both beginners and experienced skaters.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        }
+    ]
+}

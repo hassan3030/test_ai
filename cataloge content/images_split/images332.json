@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ca156fc1-3805-459a-841d-ceb95b2cde18",
+            "image": null,
+            "name": "Little Tikes Princess Horse and Carriage",
+            "description": "The Little Tikes Princess Horse and Carriage is a children's toy designed to inspire imaginative play. It features a charming horse-drawn carriage that allows kids to role-play as princesses and engage in storytelling adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "e4827400-c38d-478a-8d62-37e82b997b4d",
+            "image": null,
+            "name": "MacBook Air (Retina, 13-inch)",
+            "description": "The Apple MacBook Air (Retina, 13-inch) is a lightweight and portable laptop designed for everyday computing tasks, featuring a high-resolution Retina display and a fanless design for silent operation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "367f3596-40c6-4374-8e7a-8c99c4d8d5fa",
+            "image": null,
+            "name": "Ecospeed",
+            "description": "The Hankook Ecospeed series is designed to provide optimal performance and efficiency for commercial vehicles, focusing on durability and fuel economy.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "eec2d4fb-08a9-4efe-a5bd-4e2dfe5a1d8a",
+            "image": null,
+            "name": "Mac mini (2018)",
+            "description": "The Mac mini (2018) is a compact desktop computer by Apple designed for versatility and performance, making it suitable for both home and office use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "34f23f79-f2b4-4767-a255-c6c776c4549a",
+            "image": null,
+            "name": "Goodyear Wrangler DuraTrac",
+            "description": "The Goodyear Wrangler DuraTrac is an all-terrain tire designed for off-road performance and traction on various surfaces, making it suitable for trucks and SUVs.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "db8cece6-d6aa-434f-a792-344a329df724",
+            "image": null,
+            "name": "Crucial P3",
+            "description": "The Crucial P3 series is a line of NVMe solid-state drives (SSDs) designed for high-performance storage solutions, offering fast read and write speeds to enhance system responsiveness and reliability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Crucial"
+            }
+        },
+        {
+            "id": "3eb13c37-df01-439a-88be-c92a5e5df2f0",
+            "image": null,
+            "name": "Goodyear Eagle F1 Asymmetric 2",
+            "description": "The Goodyear Eagle F1 Asymmetric 2 is a high-performance tire designed for sports cars and high-end saloon vehicles, offering superior grip, handling, and stability in both wet and dry conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "d7a4a946-29e7-42bf-9edf-765559722f40",
+            "image": null,
+            "name": "Kawasaki KX100",
+            "description": "The Kawasaki KX100 is a lightweight motocross motorcycle designed for competitive off-road riding, particularly for young riders transitioning to full-size bikes. It features a powerful engine and advanced suspension technology to enhance performance and handling on various terrains.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "f80bbd28-d2bf-4ac4-9b71-675d371f1e8c",
+            "image": null,
+            "name": "iPad Pro (5th generation)",
+            "description": "The iPad Pro (5th generation) is a high-performance tablet designed for professionals and creatives, featuring advanced processing power and a versatile display for both productivity and entertainment.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "bc1c9201-cd29-4bad-866f-fcadcfc99408",
+            "image": null,
+            "name": "Geolandar A/T-S (G015)",
+            "description": "The Yokohama Geolandar A/T-S (G015) is an all-terrain tire designed to provide excellent performance on both on-road and off-road surfaces. It features a rugged tread pattern and durable construction for enhanced traction and stability in various driving conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "8e03aadd-f4fe-492f-abd1-6bec5cac33db",
+            "image": null,
+            "name": "Eagle F1 Supercar 3",
+            "description": "The Goodyear Eagle F1 Supercar 3 is a high-performance tire designed for supercars and performance vehicles, offering exceptional grip and handling on both wet and dry surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "5aed3256-0346-42ff-9600-67136af2e907",
+            "image": null,
+            "name": "iPad Pro",
+            "description": "The Apple iPad Pro series offers powerful tablets designed for professional use, featuring advanced performance, a high-resolution display, and compatibility with accessories like the Apple Pencil and Magic Keyboard.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "0a197bb5-c232-4d67-b695-59da003b0911",
+            "image": null,
+            "name": "Goodyear Wrangler TrailRunner AT",
+            "description": "The Goodyear Wrangler TrailRunner AT is an all-terrain tire designed for off-road capabilities while maintaining on-road comfort, making it suitable for a variety of vehicles and driving conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "f1b2c765-1af2-4838-b099-6f890a289515",
+            "image": null,
+            "name": "I Family",
+            "description": "The Zildjian I Family series offers a range of affordable, high-quality cymbals designed for drummers at all skill levels, combining versatility and expressive sound.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "32771233-93cc-49c1-b9a9-983bb797fb2a",
+            "image": null,
+            "name": "Fossil Q Venture",
+            "description": "The Fossil Q Venture is a smartwatch series released in 2017, designed to blend traditional watch aesthetics with modern wearable technology, enabling users to receive notifications, track fitness, and customize watch faces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "84403200-f20c-4abc-a963-0ffb1469c8a6",
+            "image": null,
+            "name": "Kawasaki Vulcan 2000",
+            "description": "The Kawasaki Vulcan 2000 is a powerful cruiser motorcycle known for its large displacement engine and distinctive styling, designed for both comfortable long-distance riding and urban cruising.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "86420469-90c6-4712-86ff-d65ed8991c2e",
+            "image": null,
+            "name": "MacBook Pro with M2 Pro and M2 Max",
+            "description": "The MacBook Pro with M2 Pro and M2 Max is a high-performance laptop designed for professionals and power users, offering advanced processing capabilities, exceptional graphics performance, and enhanced battery life.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "b1c3a098-f961-4383-862d-346fa86f4927",
+            "image": null,
+            "name": "Benson",
+            "description": "The Benson series by Ligne Roset features contemporary sofas designed for comfort and style, suitable for modern living spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "134f2c06-f146-4e13-b4c1-23b4780c96d6",
+            "image": null,
+            "name": "Nebula Mars II",
+            "description": "The Nebula Mars II is a portable projector designed for easy mobility and high-quality video projection, ideal for home entertainment and on-the-go viewing experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "2e94f6d8-c202-4b46-a300-ff1d6bdcfb30",
+            "image": null,
+            "name": "Geolandar A/T G015",
+            "description": "The Yokohama Geolandar A/T G015 is an all-terrain tire designed for optimal performance on both on-road and off-road conditions. It features enhanced traction, durability, and low road noise for a comfortable driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "3e31809f-c54f-4abc-9a04-9d9f2c981474",
+            "image": null,
+            "name": "Fitbit Inspire",
+            "description": "The Fitbit Inspire series is a line of fitness trackers designed to help users monitor their physical activity, sleep patterns, and overall health. It offers health and fitness tracking features in a sleek and user-friendly design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "f96a05d9-55cc-48e5-99b1-d467a9c5cf26",
+            "image": null,
+            "name": "Galaxy Book",
+            "description": "The Samsung Galaxy Book series consists of versatile laptops designed for productivity and portability, integrating powerful performance and sleek design to meet the needs of users on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "555d02c3-5015-4e9c-8a36-92dd5e2ceb92",
+            "image": null,
+            "name": "Fitbit Versa 4",
+            "description": "The Fitbit Versa 4 is a smart watch designed to help users track their fitness and health metrics, offering features such as heart rate monitoring, activity tracking, and smartphone notifications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "a6d7f0ce-0b0a-4dbf-867c-426e62e4c683",
+            "image": null,
+            "name": "Pioneer TS Series",
+            "description": "The Pioneer TS Series is a line of car audio speakers designed for high-performance sound reproduction, offering a balance of clarity and power suitable for a wide range of vehicles.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "92024109-c796-478c-9633-1cbe7ce34f58",
+            "image": null,
+            "name": "Galaxy J",
+            "description": "The Samsung Galaxy J series is a line of budget-friendly smartphones designed to offer essential features and reliable performance for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "a2a470ae-c7ad-4427-8110-f885b9448df6",
+            "image": null,
+            "name": "XL883N Iron 883",
+            "description": "The Harley-Davidson XL883N Iron 883 is a classic cruiser motorcycle, known for its minimalist design and powerful performance, making it ideal for urban commuting and leisurely rides.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "c1981335-a5b8-47a6-a7db-2b57337acdfe",
+            "image": null,
+            "name": "Formovie Mix",
+            "description": "The Formovie Mix is a compact projector series designed for portable use, enabling high-quality viewing experiences in various environments, perfect for both home entertainment and professional presentations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "11ce5dde-9601-4a1c-a9d8-e27d5899d33b",
+            "image": null,
+            "name": "Ibanez Iron Label Series",
+            "description": "The Ibanez Iron Label Series is designed for modern metal players, featuring high-performance materials and specifications tailored for heavy styles of music.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "e1304d15-b509-4de6-aecf-61269cbbc2e8",
+            "image": null,
+            "name": "Kawasaki Vulcan 1500 Classic",
+            "description": "The Kawasaki Vulcan 1500 Classic is a cruiser motorcycle known for its comfortable riding position and classic styling, catering to riders who appreciate a blend of performance and traditional aesthetics.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "38a3d277-c841-4aae-a9bf-2c97b30461b0",
+            "image": null,
+            "name": "Wrangler Fortitude HT",
+            "description": "The Goodyear Wrangler Fortitude HT is an all-season tire designed for light trucks and SUVs, offering a balanced combination of durability, comfort, and performance in a variety of driving conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        }
+    ]
+}

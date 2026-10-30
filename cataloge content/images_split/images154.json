@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "2924a5ba-293c-4040-9f28-14972c0f017e",
+            "image": null,
+            "name": "G-SPEED Studio",
+            "description": "The G-SPEED Studio series by G-Technology is designed for professional content creators, offering high-performance storage solutions with RAID support to deliver fast data transfer rates and reliability for demanding workflows.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "027f9307-354e-48a4-ad39-2aeddbc0e1d4",
+            "image": null,
+            "name": "G-RAID",
+            "description": "The G-RAID series from G-Technology is designed for professional content creators, offering high-performance dual-drive RAID solutions that provide enhanced data redundancy and speed.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "85845198-34e0-4f05-8acc-10b7ad7c1d47",
+            "image": null,
+            "name": "G-Drive Mobile SSD R-Series",
+            "description": "The G-Drive Mobile SSD R-Series is a rugged external solid-state drive designed for high-speed data transfer and durability in demanding environments, making it ideal for professional photographers and videographers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "06b8a0ea-1ed5-4199-8cac-c736506cea07",
+            "image": null,
+            "name": "G-SPEED Shuttle with Thunderbolt 3",
+            "description": "The G-SPEED Shuttle with Thunderbolt 3 is a high-performance storage solution designed for media professionals. It offers flexible RAID options and increased transfer speeds to facilitate efficient data management and workflow.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "7cd345dd-d907-4067-b648-432af86e730c",
+            "image": null,
+            "name": "G-Dock ev with Thunderbolt 3",
+            "description": "The G-Dock ev with Thunderbolt 3 is a high-performance storage solution designed for creative professionals, offering efficient data transfer and backup capabilities through its versatile Thunderbolt 3 connectivity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "a8e51114-2f6b-4593-88a8-9b45389d108a",
+            "image": null,
+            "name": "G-DRIVE Mobile SSD",
+            "description": "G-DRIVE Mobile SSD is a portable storage solution designed for professional content creators, providing high-speed performance and durability for data-intensive applications.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "bb34e0b2-018a-4f15-bdea-b35227b707fe",
+            "image": null,
+            "name": "G-DRIVE USB",
+            "description": "The G-DRIVE USB series from G-Technology features high-performance external hard drives designed for creative professionals and general users requiring reliable, portable storage solutions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "b2a818de-866a-419f-bdad-3f37869669df",
+            "image": null,
+            "name": "G-SPEED Shuttle",
+            "description": "The G-SPEED Shuttle series by G-Technology is designed for high-performance storage solutions, featuring the ability to support multiple RAID configurations for professional video and audio workflows.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "bf25917b-4510-4380-bf82-e250e2bcdf12",
+            "image": null,
+            "name": "G-Drive ArmorLock",
+            "description": "The G-Drive ArmorLock series by G-Technology features secure, rugged hard drives designed for professional data storage and protection, focusing on encryption and durability for on-the-go use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "d8915b41-3cbe-4911-a6a5-08583c59e07c",
+            "image": null,
+            "name": "Legion Tower 7i",
+            "description": "The Lenovo Legion Tower 7i is a high-performance gaming PC designed to deliver exceptional gaming experiences, featuring advanced cooling technology and customizable lighting options for gamers seeking both power and aesthetics.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "aa05d9f8-a21e-4a7c-b264-1b91e978a283",
+            "image": null,
+            "name": "Tom Ford Eyewear Collection",
+            "description": "The Tom Ford Eyewear Collection features a range of luxurious sunglasses that combine modern design with high-quality materials, providing both style and protection for the eyes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "c39c4404-c874-4cc0-bf4b-d75c833d82f1",
+            "image": null,
+            "name": "Frogman GWF-A1000",
+            "description": "The Casio Frogman GWF-A1000 is a rugged diving watch designed for professional divers, featuring advanced functionalities, such as a compass and thermometer, while maintaining a durable structure that withstands extreme underwater conditions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "0c2838cd-da87-4ca7-b022-b3275e4b33c1",
+            "image": null,
+            "name": "Lemfo LEM5",
+            "description": "The Lemfo LEM5 is a smartwatch designed for fitness tracking and communication, featuring various health monitoring capabilities and a user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "9946f4b3-a90a-4158-b85c-6b1c309c22a5",
+            "image": null,
+            "name": "Arlo Pro",
+            "description": "The Arlo Pro series consists of high-definition wireless security cameras designed for home and business surveillance, featuring night vision, two-way audio, and weatherproofing for outdoor use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "753a5b5b-2dff-490b-856f-bfa3416ca309",
+            "image": null,
+            "name": "Arlo Pro 2",
+            "description": "The Arlo Pro 2 is a wireless security camera designed for indoor and outdoor use, offering high-definition video quality and enhanced night vision features for effective monitoring.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "4ef7ab5f-568c-4a88-ae5a-c260baebe006",
+            "image": null,
+            "name": "Arlo Go",
+            "description": "Arlo Go is a wireless security camera designed for both indoor and outdoor use, offering versatility with its battery-powered functionality and 4G LTE connectivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "53b24ee3-5259-463a-84b4-9fb0c20df741",
+            "image": null,
+            "name": "Ecobee SmartThermostat with Voice Control",
+            "description": "The Ecobee SmartThermostat with Voice Control is a smart home device designed to intelligently manage home heating and cooling, providing convenience and energy efficiency through voice activation and smart technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ecobee"
+            }
+        },
+        {
+            "id": "64fafd41-7312-44df-b2de-840fdb3e4920",
+            "image": null,
+            "name": "August Smart Lock Pro",
+            "description": "The August Smart Lock Pro is a smart home device that allows users to control and monitor their door locks remotely using a smartphone app, enhancing home security and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "3f8a0296-ac1d-4924-8a91-2b4c33564a63",
+            "image": null,
+            "name": "August Smart Lock (3rd Generation)",
+            "description": "The August Smart Lock (3rd Generation) is a smart home device that allows users to control access to their homes via a smartphone app, enabling keyless entry and remote locking/unlocking functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "b8380c70-e430-47b2-b8ec-d285d27147b4",
+            "image": null,
+            "name": "August Doorbell Camera Pro",
+            "description": "The August Doorbell Camera Pro is a smart home device that allows homeowners to see and communicate with visitors at their door in real-time, enhancing home security and convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "f371d7ed-f2e5-4273-8e49-ce6a5af49bbb",
+            "image": null,
+            "name": "August Smart Lock Pro (3rd Generation)",
+            "description": "The August Smart Lock Pro (3rd Generation) is a smart home device that enables keyless entry and remote access to your door, enhancing security and convenience for homeowners.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "46a6dbf2-653f-4318-ba62-3022dc1ba5ac",
+            "image": null,
+            "name": "Rudy Project Tralyx",
+            "description": "Rudy Project Tralyx sunglasses are designed for athletes, providing optimal performance with their lightweight construction and advanced lens technology for enhanced visibility and protection during various outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Rudy Project"
+            }
+        },
+        {
+            "id": "61be025f-aac1-4661-bb67-f1e0b604a300",
+            "image": null,
+            "name": "Esplar",
+            "description": "The Veja Esplar sneakers, launched in 2018, are designed for everyday wear with a focus on sustainability, crafted from eco-friendly materials and produced with ethical labor practices.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "f6486848-60ce-4413-a92f-602c01efbbf7",
+            "image": null,
+            "name": "Veja V-10",
+            "description": "The Veja V-10 is a sustainable sneaker designed to combine style and environmental responsibility, featuring materials sourced from organic and ecological producers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "f7250487-1031-4ece-8770-3af0b71129b2",
+            "image": null,
+            "name": "Lineage Series",
+            "description": "The Haro Lineage Series is a collection of BMX bikes designed for riders looking for a blend of retro aesthetics and modern performance. These bikes emphasize durability and style, making them suitable for both street riding and park use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "069a2a53-859f-467e-9d8b-5b2c172b2a35",
+            "image": null,
+            "name": "Hero MotoCorp Passion PRO",
+            "description": "The Hero MotoCorp Passion PRO is a popular commuter motorcycle known for its reliability, fuel efficiency, and comfortable ride, making it ideal for daily urban transportation.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "380f4be9-e983-4f1a-a498-d46685d5a87f",
+            "image": null,
+            "name": "Vardag Series",
+            "description": "The Fjällräven Vardag Series features a range of bags designed for everyday use, combining practicality with a timeless aesthetic, suitable for various activities and settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "2f7e8f5b-96d1-4f12-9bbd-6ca205b3bf3d",
+            "image": null,
+            "name": "Kipling Alvar",
+            "description": "The Kipling Alvar series features versatile bags designed for everyday use, combining style and functionality with lightweight materials.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kipling"
+            }
+        },
+        {
+            "id": "889f0840-ecfc-4d3d-a3a7-7b95839b905c",
+            "image": null,
+            "name": "Ganni Fall/Winter 2021",
+            "description": "Ganni Fall/Winter 2021 is a collection of women's clothing characterized by its playful silhouettes and bold patterns, emphasizing both comfort and contemporary style.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Ganni"
+            }
+        },
+        {
+            "id": "e4d25f63-19cf-427c-aa94-5213243e89a1",
+            "image": null,
+            "name": "Timex Q",
+            "description": "The Timex Q series is a collection of retro-inspired watches that blend classic design with modern functionality, designed for everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        }
+    ]
+}

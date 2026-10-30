@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "16b79bf6-d47d-44d0-8892-185378a72e72",
+            "image": null,
+            "name": "Fish",
+            "description": "The Hamboards Fish series is designed for a surf-inspired skating experience, offering a unique shape that mimics the feel of riding a surfboard on pavement. Ideal for riders seeking fluid and smooth movements, these skateboards emphasize stability and control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "40992828-5abf-4a9f-882c-e1f0522cf9f1",
+            "image": null,
+            "name": "Hamboards Classic",
+            "description": "The Hamboards Classic series features longboards designed for performance and versatility, ideal for cruising and surfing-style riding on pavement.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "1336de26-d5c2-4da2-816b-d7f1a42ad18c",
+            "image": null,
+            "name": "Hamboards Fish",
+            "description": "The Hamboards Fish series is a collection of skateboards designed for a surf-like experience on land, featuring a unique fish shape that enhances maneuverability and stability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "e4e141b3-64e9-4425-bc5b-82f4fb8673ed",
+            "image": null,
+            "name": "Hamboards Pescadito",
+            "description": "The Hamboards Pescadito is a skateboard series designed for both casual cruising and surf-inspired riding. Its unique shape and larger wheels provide stability and smooth handling on various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "5762956e-f4fa-456b-acbe-9d7d42c8561a",
+            "image": null,
+            "name": "Hamboards Mini",
+            "description": "The Hamboards Mini series offers compact skateboards designed for maneuverability and fun, allowing riders to navigate various terrains with ease.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "baa0989b-4354-42f5-8d6d-243b4850c260",
+            "image": null,
+            "name": "Hamboards The Fish",
+            "description": "Hamboards The Fish is a series of skateboards designed for a surf-like riding experience on pavement, combining the feel of surfing with the functionality of skateboarding. Its unique shape and design allow for enhanced maneuverability and stability, making it suitable for both casual riding and trick performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "78163aa6-072a-4e27-b662-ddadc6c35bba",
+            "image": null,
+            "name": "Classic",
+            "description": "The Hamboards Classic series offers a range of skateboards designed for smooth riding experiences, emphasizing stability and performance for both beginners and seasoned riders.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "322b68d4-02bb-4929-93f6-9257cf8054d1",
+            "image": null,
+            "name": "Bear Gen 2",
+            "description": "Bear Gen 2 trucks are designed for skateboarders seeking high performance and durability, providing enhanced stability and control for various riding styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bear Trucks"
+            }
+        },
+        {
+            "id": "dea012e1-3866-47c9-8c11-45bba938668d",
+            "image": null,
+            "name": "Bear Trucks Gen 3",
+            "description": "Bear Trucks Gen 3 are skateboard trucks designed for enhanced performance, stability, and control for skaters of all levels.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bear Trucks"
+            }
+        },
+        {
+            "id": "aad525f1-33ff-45b0-96ab-50812e8e8380",
+            "image": null,
+            "name": "Bustin Boards Pro Series",
+            "description": "The Bustin Boards Pro Series showcases a collection of high-performance skateboards designed for advanced riders, emphasizing durability and precision for urban skating and downhill racing.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "9024848c-d82e-4825-a537-feebd51e8c0f",
+            "image": null,
+            "name": "Bustin Boards Electric",
+            "description": "The Bustin Boards Electric series features high-performance electric skateboards designed for urban commuting and recreational riding, combining durability and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "17b326f7-84d5-4b82-bb1b-8d70ae1caada",
+            "image": null,
+            "name": "Bustin Boards 2022 Collection",
+            "description": "The Bustin Boards 2022 Collection features a variety of skateboards designed for urban commuting and freestyle riding, emphasizing durability, performance, and style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "07939608-1255-489d-b693-7e2efe522d6a",
+            "image": null,
+            "name": "Sennelier Oil Pastels",
+            "description": "Sennelier Oil Pastels are a premium range of oil-based pastels known for their rich pigmentation and smooth application, making them ideal for artists seeking vibrant and expressive color in their artwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "216e1eeb-1625-4126-aef8-08207d0847e5",
+            "image": null,
+            "name": "Sennelier La Petite Aquarelle",
+            "description": "Sennelier La Petite Aquarelle is a series of high-quality watercolor paints designed for artists of all levels, featuring vibrant pigments and optimal solubility for smooth application.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "87981135-5e3f-4e1a-a902-75777b69721a",
+            "image": null,
+            "name": "Sennelier Extra-Fine Watercolors",
+            "description": "Sennelier Extra-Fine Watercolors are professional-quality watercolors known for their intense pigment concentration and smooth application. Designed for artists, these paints offer a wide range of colors with excellent lightfastness.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "789deb6b-1f05-479d-b0cf-7ee4d03f8d10",
+            "image": null,
+            "name": "Canson Heritage",
+            "description": "Canson Heritage is a premium line of art papers designed for a variety of artistic techniques, including drawing, painting, and printmaking, offering exceptional quality and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "0b3b6487-2956-4847-a9d2-4b5761784080",
+            "image": null,
+            "name": "Canson Montval",
+            "description": "Canson Montval is a versatile series of watercolor papers designed for artists, featuring a natural white surface that enhances color vibrancy and allows for various techniques including washes and dry brush work.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "b72da6d5-6ec0-473e-a326-e2819accc1ee",
+            "image": null,
+            "name": "Canson Infinity",
+            "description": "Canson Infinity is a premium range of fine art papers designed for professional artists and photographers, offering exceptional quality and permanence for prints and artwork.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "2ab286b0-29a0-456e-b215-bac8352952ac",
+            "image": null,
+            "name": "Strathmore 300 Series",
+            "description": "The Strathmore 300 Series offers high-quality art papers suitable for a range of media, including drawing and watercolor. Designed for both students and professional artists, this series provides a reliable foundation for artistic expression.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "772ee8fb-2d8b-4049-a758-21403d4f3c1b",
+            "image": null,
+            "name": "Strathmore Mixed Media Series",
+            "description": "Strathmore Mixed Media Series offers versatile art paper designed for use with various media, allowing artists to easily combine techniques. This series is characterized by its durability and ability to accommodate wet and dry materials.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "1a35f634-e3fe-43ef-b3c9-d5ca68641253",
+            "image": null,
+            "name": "Cotman Water Colour",
+            "description": "Winsor & Newton Cotman Water Colour series offers a range of high-quality watercolors designed for students and artists alike, providing vibrant colors and excellent transparency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "73d87adf-0104-41f6-83ed-fd57e63441a8",
+            "image": null,
+            "name": "Suzuki Grand Vitara",
+            "description": "The Suzuki Grand Vitara is a compact SUV that combines off-road capability with everyday usability, designed for both urban and rugged environments.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "016583f4-ce0d-498c-96ce-0ee3d25f83f8",
+            "image": null,
+            "name": "Suzuki XL-7",
+            "description": "The Suzuki XL-7 is a mid-size SUV that offers versatility with its spacious interior and capable performance, designed for both city driving and off-road adventures.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "839b98b9-88df-407c-9dd6-45efbdda5367",
+            "image": null,
+            "name": "X-act Contour Floor Liners",
+            "description": "Husky Liners X-act Contour Floor Liners are precision-engineered floor liners designed to provide exceptional protection for the interior of your vehicle, ensuring a clean and comfortable driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "e96a0709-8b25-469b-9c2a-b724ddd26a54",
+            "image": null,
+            "name": "Liners for Cargo Area",
+            "description": "Husky Liners Liners for Cargo Area are designed to provide maximum protection and durability for the cargo areas of vehicles. These liners feature a custom fit to ensure full coverage and safeguard against spills, dirt, and damage.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "50ba6be4-3f9a-4640-8de3-5b51b7d82cec",
+            "image": null,
+            "name": "Cobra XRS",
+            "description": "The Cobra XRS series consists of radar detectors designed to alert drivers about nearby speed traps and radar signals, helping to enhance road safety and reduce the likelihood of speeding tickets.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "01c0b9f5-4836-4485-9723-2bf340c10a1b",
+            "image": null,
+            "name": "GE Appliances Smart Countertop Oven with Touch Control",
+            "description": "The GE Appliances Smart Countertop Oven with Touch Control is a versatile kitchen appliance designed to bake, broil, and air fry food efficiently, featuring intuitive touch controls for ease of use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "01fb3bc5-334f-4296-8b5d-a9320c180a40",
+            "image": null,
+            "name": "Citroën C3 (New Generation)",
+            "description": "The Citroën C3 (New Generation) is a compact hatchback known for its stylish design, comfort, and efficiency, aimed at urban drivers seeking a practical yet modern vehicle.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "0210bf2f-d67a-4932-adab-60c6c2217f4e",
+            "image": null,
+            "name": "Dodge Ram Pickup",
+            "description": "The Dodge Ram Pickup is a full-size pickup truck known for its robust performance and stout design, tailored for both work and recreational purposes.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "021eeab5-6661-48a4-a8e7-7b4fe27e0976",
+            "image": null,
+            "name": "Porsche 911 (997)",
+            "description": "The Porsche 911 (997) is a sports car renowned for its distinctive design, rear-engine layout, and performance capabilities, fully representing the ongoing evolution of the iconic 911 lineage.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "6bc0db0a-cd2a-4510-9eb6-e3f985b2003f",
+            "image": null,
+            "name": "A.Drive",
+            "description": "The Yokohama A.Drive series is designed for performance and comfort, providing a balance of grip and handling for everyday driving conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "0ec5c38f-6b46-44bc-afb3-988c2c761af4",
+            "image": null,
+            "name": "iMac (24-inch, M1)",
+            "description": "The Apple iMac (24-inch, M1) is an all-in-one desktop computer designed for both personal and professional use, featuring Apple's M1 chip for improved performance and efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "7928d12d-fe88-4f12-94b2-a99095dfd4cf",
+            "image": null,
+            "name": "Fossil Hybrid HR",
+            "description": "The Fossil Hybrid HR series combines traditional analog watch design with smart features, allowing users to track fitness goals, receive smartphone notifications, and customize watch faces while maintaining a classic aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "00aeafd7-7d5a-4de6-9ed8-128264d712ff",
+            "image": null,
+            "name": "Eagle Touring",
+            "description": "The Goodyear Eagle Touring is a tire series designed for all-season performance, providing enhanced comfort and handling for a variety of driving conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "c17c434b-18b4-4437-b0b4-df26f465ba82",
+            "image": null,
+            "name": "Apple Find My network accessories",
+            "description": "Apple Find My network accessories are designed to help users locate their belongings using Apple's Find My app, offering reliable tracking and notifications when items are out of range.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "34750372-9342-4ad1-a37d-265fb4a69c6e",
+            "image": null,
+            "name": "Pioneer AVH-P Series",
+            "description": "The Pioneer AVH-P Series is a line of in-dash multimedia receivers designed to enhance car audio and video experiences, offering features such as digital media playback and smartphone integration.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "365eabe7-3f4e-4bb3-aaeb-efcef09fea2c",
+            "image": null,
+            "name": "Fossil Gen 5",
+            "description": "The Fossil Gen 5 is a line of smartwatches designed to offer health tracking, customizable watch faces, and smartphone notifications, all while maintaining a traditional watch aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "2f0c20e1-aa5d-4f24-9f45-0f8760f3c919",
+            "image": null,
+            "name": "Avedis Zildjian",
+            "description": "The Avedis Zildjian series features high-quality cymbals renowned for their tonal richness and versatility, catering to a variety of musical styles and genres.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "44c76a4b-9154-4f7a-a335-335ac5d7dea6",
+            "image": null,
+            "name": "Geolandair AT G015",
+            "description": "The Yokohama Geolandair AT G015 is an all-terrain tire designed for off-road capabilities while maintaining on-road comfort and handling. It is suitable for a variety of vehicles, enhancing traction and durability in diverse driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "e4ac5416-d8e2-417e-8efb-e6fb18444c81",
+            "image": null,
+            "name": "Wrangler All-Terrain Adventure",
+            "description": "The Goodyear Wrangler All-Terrain Adventure tires are designed for versatile performance across various terrains, providing exceptional traction and durability for off-road and on-road driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "cf9ae284-97ed-4ba8-a853-9f81c418afd0",
+            "image": null,
+            "name": "ADVAN Neova AD08R",
+            "description": "The Yokohama ADVAN Neova AD08R is a high-performance tire designed for enthusiasts who seek exceptional grip and handling on both the track and the road, featuring advanced rubber compounds and an optimized tread pattern for superior performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "4259d939-e61f-4377-9254-ace72405b21e",
+            "image": null,
+            "name": "Plum",
+            "description": "The Plum series by Ligne Roset offers a collection of contemporary chairs characterized by their rounded forms and plush seating, designed to provide comfort and style in modern interiors.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "5e86da9c-3955-47ea-bd92-a59363c55941",
+            "image": null,
+            "name": "Fossil Smartwatch Gen 6",
+            "description": "Fossil Smartwatch Gen 6 is a versatile smartwatch designed to enhance daily life with fitness tracking, health monitoring, and customizable features, allowing users to stay connected and manage their activities with ease.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "8fac9a26-999a-4bfe-a50f-b9aabba23c05",
+            "image": null,
+            "name": "Ninja ZX-14",
+            "description": "The Kawasaki Ninja ZX-14 is a sport motorcycle designed for high performance and speed, featuring a powerful 1,441cc engine and advanced aerodynamics for enhanced stability at high speeds.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "b8553024-4044-4eac-9fa8-018a979d1fdf",
+            "image": null,
+            "name": "K Custom Special Dry Series",
+            "description": "The Zildjian K Custom Special Dry Series is designed for drummers seeking a unique, dry sound with complex overtones, offering versatility for various musical genres.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "f364c8c4-cff9-41e6-9bb8-1ed06ddfb22d",
+            "image": null,
+            "name": "Geolandar M/T G003",
+            "description": "The Yokohama Geolandar M/T G003 is an off-road tire designed for extreme terrain, featuring a tread pattern optimized for traction in mud and rocky conditions, making it ideal for off-road enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "6ac0511e-5d13-47b6-af0d-b875dd9d5c5e",
+            "image": null,
+            "name": "Galaxy Tab A",
+            "description": "The Samsung Galaxy Tab A series consists of versatile tablets designed for efficient everyday use, offering a balance of performance and portability suitable for reading, browsing, and casual entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "41d12e39-a174-4d52-b2f2-296699b82ec0",
+            "image": null,
+            "name": "Pioneer Elite Series",
+            "description": "The Pioneer Elite Series is a line of high-performance car audio components released in 2002, designed to deliver superior sound quality and enhance the listening experience within vehicles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "0cb846e5-c10d-411b-a41c-9a66f5e1fa93",
+            "image": null,
+            "name": "S Series",
+            "description": "The Ibanez S Series is known for its lightweight and contoured body design, making it a popular choice for musicians seeking comfort and playability. With its versatile range of features, it is suited for various playing styles and genres.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "90ddc9d4-4b70-467e-a3ba-2a4414d00bcf",
+            "image": null,
+            "name": "AX Series",
+            "description": "The Ibanez AX Series is known for its distinctive looks and versatility, designed primarily for rock and metal genres with its comfortable body shape and powerful pickups.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "1b67bdb6-46e2-4bd2-aee2-50ed141e9141",
+            "image": null,
+            "name": "Samsung 850 EVO Series",
+            "description": "The Samsung 850 EVO Series is a line of solid state drives (SSDs) designed for consumer and professional use, offering increased performance, reliability, and energy efficiency compared to traditional hard disk drives.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "30508244-f2fb-42b1-b1ec-febc8e50ecb3",
+            "image": null,
+            "name": "Avon 3D",
+            "description": "The Avon 3D is a series of tires designed to provide enhanced performance and handling on various road conditions, featuring a unique tread pattern for improved grip and stability.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "4198688f-9f6a-4d47-991a-5dcf70e0e67e",
+            "image": null,
+            "name": "Yokohama ADVAN Fleet",
+            "description": "The Yokohama ADVAN Fleet series is designed for commercial vehicles, offering durable performance, enhanced traction, and reliability under a variety of driving conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "febb235b-bf27-4a91-9bf9-f7dbb9dfdf9c",
+            "image": null,
+            "name": "Harley-Davidson FLHTCUI Electra Glide Ultra Classic",
+            "description": "The Harley-Davidson FLHTCUI Electra Glide Ultra Classic is a touring motorcycle known for its comfort, style, and advanced features, designed for long-distance travel and open-road cruising.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "f5b1bdc9-c849-4a70-ae66-bb35a4386c4c",
+            "image": null,
+            "name": "Nebula Capsule II",
+            "description": "The Nebula Capsule II is a compact and portable projector designed for on-the-go entertainment, offering high-quality video and audio performance in a small form factor.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "3da1a274-ead0-4b0c-99a0-8b8cd1bbab0d",
+            "image": null,
+            "name": "Harley-Davidson VRSCA V-Rod",
+            "description": "The Harley-Davidson VRSCA V-Rod is a motorcycle series that combines performance with striking design, featuring a liquid-cooled Revolution engine aimed at providing high-speed power and a modern riding experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "85063773-b257-4687-a35c-2e6604204cb9",
+            "image": null,
+            "name": "Nebula Cosmos Laser 4K",
+            "description": "The Nebula Cosmos Laser 4K is a cutting-edge projector designed to deliver high-resolution 4K visuals, making it ideal for home theater and entertainment purposes.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "5ee132e8-135e-4236-ac90-e41a66b21dfb",
+            "image": null,
+            "name": "Harley-Davidson V-Rod",
+            "description": "The Harley-Davidson V-Rod is a line of motorcycles that debuted in 2001, known for its modern styling and high-performance capabilities, blending classic Harley characteristics with a liquid-cooled engine.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "d75eca51-770e-44d9-a7b5-dd30b937693e",
+            "image": null,
+            "name": "Yokohama GEOLANDAR M/T G003",
+            "description": "The Yokohama GEOLANDAR M/T G003 is an all-terrain tire designed for off-road performance, featuring enhanced traction and durability for a wide range of rugged environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "c25816e6-3150-4502-8124-a4c7069180cc",
+            "image": null,
+            "name": "Harley-Davidson Sportster 1200 Nightster",
+            "description": "The Harley-Davidson Sportster 1200 Nightster is a classic cruiser motorcycle known for its sleek design, nimble handling, and powerful engine, making it suitable for both urban riding and longer journeys.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        }
+    ]
+}

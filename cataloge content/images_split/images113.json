@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "fd65406d-a360-4ad6-867a-ac88f363827d",
+            "image": null,
+            "name": "Aprilia Tuono V4 1000",
+            "description": "The Aprilia Tuono V4 1000 is a high-performance naked motorcycle, known for its powerful V4 engine, advanced electronics, and agile handling, making it suitable for both street use and track riding.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "52d7587e-8b8e-484d-bb3c-514c49572348",
+            "image": null,
+            "name": "Maui Jim Waterman",
+            "description": "The Maui Jim Waterman series features high-performance sunglasses designed specifically for water sports, offering superior glare reduction and UV protection to enhance clarity and comfort in aquatic environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "9c558f9f-9f5a-4cb0-9ee6-22ccf420bcb0",
+            "image": null,
+            "name": "Aprilia SX 50",
+            "description": "The Aprilia SX 50 is a lightweight, sporty motorcycle designed primarily for young riders and urban use. Featuring a compact design and agile handling, it is aimed at providing an accessible entry point into the world of motorcycling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "280a0881-99fe-46e9-bc87-36ca29b025a6",
+            "image": null,
+            "name": "Tonal System",
+            "description": "The Tonal System is a smart home gym equipment designed to provide a comprehensive strength training experience. It utilizes digital weights and personalized coaching to help users achieve their fitness goals efficiently.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Tonal"
+            }
+        },
+        {
+            "id": "b817b3ce-18cf-4136-91f3-4e2c68802363",
+            "image": null,
+            "name": "Aprilia Pegaso 650",
+            "description": "The Aprilia Pegaso 650 is a versatile motorcycle designed for both on-road and off-road riding, known for its lightweight frame, agility, and comfort.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "bea6ab2d-6434-46d2-a95b-e3a507ddb170",
+            "image": null,
+            "name": "Daytona 675",
+            "description": "The Triumph Daytona 675 is a sport motorcycle known for its lightweight design and agile handling, making it suitable for both street and track riding.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "1578b0ca-b817-4855-8699-eb8b7d0fab65",
+            "image": null,
+            "name": "Lava Agni 2 5G",
+            "description": "The Lava Agni 2 5G is a smartphone designed to offer high-speed connectivity and an enhanced user experience, catering to users seeking advanced features and performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "1c1c9aca-bdb4-44ed-a086-ac3d982dec73",
+            "image": null,
+            "name": "Aprilia RSV4",
+            "description": "The Aprilia RSV4 is a high-performance sport motorcycle designed for track use and aggressive riding. Known for its powerful V4 engine and advanced electronics, it delivers exceptional handling and agility.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "20d7b7cf-b002-4cc5-a42c-3072b85beaed",
+            "image": null,
+            "name": "Aprilia RSV4 APRC",
+            "description": "The Aprilia RSV4 APRC is a high-performance sport motorcycle designed for both track and street riding, featuring advanced electronic systems that enhance control and stability.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "2ba5c86b-24ca-4fc0-90d4-a85132ba50ae",
+            "image": null,
+            "name": "Triumph Rocket III",
+            "description": "The Triumph Rocket III is a cruiser motorcycle known for its massive 2,300cc inline-three engine, offering impressive torque and power. It is designed for long-distance touring with a comfortable riding position and advanced features.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "2f333cdd-2106-48af-88a5-9858d40031ab",
+            "image": null,
+            "name": "Aprilia RX 50",
+            "description": "The Aprilia RX 50 is a lightweight off-road motorcycle designed for young riders and those new to the sport, featuring a sporty design and nimble handling ideal for both trails and urban environments.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "59168e9d-525c-4666-a4d7-cab473e3afbb",
+            "image": null,
+            "name": "Tuono 1000",
+            "description": "The Aprilia Tuono 1000 is a sport motorcycle known for its combination of aggressive styling and superior handling capabilities, making it suitable for both street and track riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "c245ba90-b725-4b76-83bf-6b39576adbb9",
+            "image": null,
+            "name": "Lava Z",
+            "description": "The Lava Z series consists of smartphones aimed at providing essential features and affordability for everyday users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "c925404f-b871-4852-8b32-c4a4f15bee5c",
+            "image": null,
+            "name": "Dior VIII",
+            "description": "The Dior VIII series encompasses a collection of luxury watches that blend sophisticated design with high precision. This series is renowned for its elegant aesthetics and the use of high-quality materials, making it a symbol of refined style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d8fca9ae-6b37-4033-89aa-e593d155c293",
+            "image": null,
+            "name": "KTM 690 Supermoto",
+            "description": "The KTM 690 Supermoto is a high-performance motorcycle designed for both urban commuting and spirited riding on twisty roads. It features a lightweight chassis and powerful engine, aimed at providing agility and excitement for riders.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "dbf2b8bb-37da-4035-90d6-8824fbed87de",
+            "image": null,
+            "name": "KTM RC8 R",
+            "description": "The KTM RC8 R is a high-performance sport motorcycle designed for track enthusiasts and competitive riders, featuring a powerful engine and advanced aerodynamics for superior handling and speed.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "f682e98f-cac4-4016-bea7-675642e83094",
+            "image": null,
+            "name": "Aprilia Tuono 660",
+            "description": "The Aprilia Tuono 660 is a naked motorcycle designed for sporty performance and everyday use, featuring a lightweight chassis and advanced electronic features.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "f8f859c4-16fd-427f-91d4-89944dfdde04",
+            "image": null,
+            "name": "Dodge Ram (Third Generation)",
+            "description": "The Dodge Ram (Third Generation) is a full-size pickup truck designed for both work and personal use, known for its robustness and capability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "6c33f665-5ae0-44aa-9e94-b424fbe055af",
+            "image": null,
+            "name": "KTM 300 EXC TPI",
+            "description": "The KTM 300 EXC TPI is a high-performance off-road motorcycle designed for enduro racing and trail riding, featuring cutting-edge technology and a lightweight frame to enhance agility and maneuverability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "fdd5b609-a117-43a1-b467-8210c3e6804e",
+            "image": null,
+            "name": "RM 72-01 Automatic Flyback Chronograph",
+            "description": "The Richard Mille RM 72-01 Automatic Flyback Chronograph is a luxury watch that combines advanced horological technology with a robust and sporty design, ideal for professional timing and casual wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Richard Mille"
+            }
+        },
+        {
+            "id": "6c6fe3e7-ba7a-4bd1-83d9-d7f9310ca997",
+            "image": null,
+            "name": "KTM Duke",
+            "description": "The KTM Duke series is a line of street motorcycles known for their lightweight design, agility, and performance-oriented engineering, making them suitable for urban commuting and spirited riding.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "6e0717cc-59f1-4ad6-88e6-3b3a361bbf46",
+            "image": null,
+            "name": "Dodge Challenger SRT8",
+            "description": "The Dodge Challenger SRT8 is a high-performance muscle car introduced in 2008, known for its powerful engine options and aggressive styling, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "81b6c534-1e39-4c26-8272-c76d15dbc889",
+            "image": null,
+            "name": "KTM 450 Rally Replica",
+            "description": "The KTM 450 Rally Replica is a high-performance motorcycle designed for off-road racing, built to mimic the specifications of the factory rally bikes used in competition. It features advanced technology and engineering to provide exceptional handling and durability in challenging terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "87a86b68-f6ff-4aa5-a44e-e09052ee997e",
+            "image": null,
+            "name": "Dodge Charger (2011 generation)",
+            "description": "The Dodge Charger (2011 generation) is a full-size sedan known for its bold design and powerful performance, combining muscle car heritage with modern technology and comfort.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "8e37a95e-8eca-423f-aa74-22436fae5b7e",
+            "image": null,
+            "name": "Dodge Durango SRT",
+            "description": "The Dodge Durango SRT is a high-performance SUV that offers a powerful engine and enhanced handling capabilities, designed for those who seek both utility and thrilling driving experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "9d3d5ac9-1cf8-4b8c-82db-de96b9fbd145",
+            "image": null,
+            "name": "Dodge Charger (sixth generation)",
+            "description": "The Dodge Charger (sixth generation) is a full-size sedan known for its powerful engine options and spacious interior, combining performance with everyday usability.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "16dfd0cf-2ab2-4be7-bce8-d1ab5d992736",
+            "image": null,
+            "name": "Dodge Charger SRT Hellcat",
+            "description": "The Dodge Charger SRT Hellcat is a high-performance sedan known for its powerful engine, aggressive styling, and advanced technology, designed for enthusiasts seeking both speed and everyday usability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "19ad6772-31a1-43a0-8364-ffde882b3206",
+            "image": null,
+            "name": "Dodge Stratus",
+            "description": "The Dodge Stratus is a mid-size car that was produced by Dodge, primarily focusing on providing affordable comfort and reliability for everyday driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "2e4e1c07-1cb0-41cb-babf-12bc8b4881bc",
+            "image": null,
+            "name": "KTM 950 SMR",
+            "description": "The KTM 950 SMR is a high-performance supermoto motorcycle designed for both on-road and off-road versatility, featuring a powerful V-twin engine and agile handling characteristics.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "5510a450-fa04-4ce9-9e7e-ed511a8ced23",
+            "image": null,
+            "name": "KTM 640 Adventure",
+            "description": "The KTM 640 Adventure is a dual-sport motorcycle designed for both on-road and off-road capabilities, combining versatility and rugged performance for adventure seekers.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        }
+    ]
+}

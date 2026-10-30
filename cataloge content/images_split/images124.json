@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1c7d2ebd-e265-49e1-9eab-2f8aa0778252",
+            "image": null,
+            "name": "Yokohama Parada Spec-X",
+            "description": "The Yokohama Parada Spec-X is a high-performance tire designed for SUVs and crossover vehicles, emphasizing superior handling, responsiveness, and wet traction on various road conditions.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "fb6b3437-f837-4885-a233-327a9a49ff93",
+            "image": null,
+            "name": "Omen 45L",
+            "description": "The Omen 45L is a high-performance gaming PC designed to deliver superior graphics and processing power for an immersive gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "e7511a98-d04c-4163-9c0b-c2c121e25bd3",
+            "image": null,
+            "name": "Schenker XMG Fusion 15",
+            "description": "The Schenker XMG Fusion 15 is a versatile gaming laptop designed to provide high performance for both gaming and professional applications in a compact form factor.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "3e8de966-b116-4ca6-a025-bb8b71ab24d6",
+            "image": null,
+            "name": "Clevo P775TM1",
+            "description": "The Clevo P775TM1 is a high-performance gaming laptop designed for intense gaming and demanding applications, featuring customizable hardware options and potent graphics capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "0a8daf42-8a3b-4948-84d3-322d13fe64e8",
+            "image": null,
+            "name": "Motorola Moto G Stylus (2022)",
+            "description": "The Motorola Moto G Stylus (2022) is a smartphone that features a built-in stylus, allowing users to take notes, draw, and navigate the device with precision. It aims to combine functionality and affordability for those seeking a versatile mobile experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "33abffb4-0ea4-4ab9-bf50-1286952022b6",
+            "image": null,
+            "name": "Moto G53",
+            "description": "The Motorola Moto G53 is a mid-range smartphone released in 2023, designed to offer reliable performance and essential features for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "c1d6c98d-02dd-4a09-8a81-5c40efa6c3e1",
+            "image": null,
+            "name": "Motorola Edge 40",
+            "description": "The Motorola Edge 40 is a smartphone series released in 2023, designed to deliver high performance with an emphasis on display quality and camera capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "9a73fb7f-d7f4-4593-8320-0085df043295",
+            "image": null,
+            "name": "Motorola Edge 40 Pro",
+            "description": "The Motorola Edge 40 Pro is a premium smartphone released in 2023, designed for high performance and advanced photography features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "07ec52a2-34d2-4fc8-bfaa-10dabf15ac24",
+            "image": null,
+            "name": "Fossil Gen 6",
+            "description": "The Fossil Gen 6 Smart Watches are advanced wearable devices designed to track health metrics, manage notifications, and enhance connectivity while offering customizable designs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "fe939355-b35d-45a9-8071-9771b8f8983b",
+            "image": null,
+            "name": "Fossil Smartwatches",
+            "description": "Fossil Smartwatches combine stylish designs with essential fitness tracking and smart features, allowing users to stay connected and monitor their health effortlessly.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "43400eb2-c272-4171-b9df-bc0aa2f7d08f",
+            "image": null,
+            "name": "Amazon Echo Show",
+            "description": "The Amazon Echo Show is a smart speaker with a display, designed to provide voice control for various smart home devices, stream music and video, and offer visual information and communication features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "a1597a03-1067-4db0-afb6-55f405959d05",
+            "image": null,
+            "name": "Amazon Fire HD 8",
+            "description": "The Amazon Fire HD 8 is a tablet designed for versatile entertainment and productivity, featuring a vibrant display and access to a wide range of apps and content.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "1aed9fc7-8c02-45ff-9f72-0a58f4d6aecf",
+            "image": null,
+            "name": "Suunto 3 Fitness",
+            "description": "The Suunto 3 Fitness is a compact smart watch designed to provide accurate fitness tracking and personalized training guidance, making it ideal for users looking to improve their overall health and fitness.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "de5dc475-0f16-4e5d-b479-0d073af867d8",
+            "image": null,
+            "name": "Suunto 9 Peak",
+            "description": "The Suunto 9 Peak is a high-performance smartwatch designed for athletes and outdoor enthusiasts, featuring advanced tracking capabilities, long battery life, and a durable design for various activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "c09ac383-ebf4-49af-a451-601a183e0f38",
+            "image": null,
+            "name": "Suunto 5 Peak",
+            "description": "The Suunto 5 Peak is a versatile smart watch designed for outdoor enthusiasts, providing advanced fitness tracking and navigation features. It is suited for various sports and activities with long battery life and a robust design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "3577c6a1-4480-40a2-be62-7919cb749891",
+            "image": null,
+            "name": "Tado Smart Thermostat V3+",
+            "description": "The Tado Smart Thermostat V3+ is an intelligent heating control device designed to optimize heating and cooling systems for energy efficiency and comfort through smart home integration.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Tado"
+            }
+        },
+        {
+            "id": "6c1a7fd1-8240-42fc-84e1-d4ac230ac34f",
+            "image": null,
+            "name": "Maui Jim Koko Head",
+            "description": "The Maui Jim Koko Head sunglasses are designed to provide exceptional visual clarity and comfort, featuring lightweight frames and polarized lenses that enhance color and reduce glare.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "93d76553-504b-42fb-9f71-93a155a3a98b",
+            "image": null,
+            "name": "Triomphe",
+            "description": "The Celine Triomphe series includes a range of elegantly designed bags featuring the iconic Triomphe motif, known for their luxurious materials and refined craftsmanship.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Celine"
+            }
+        },
+        {
+            "id": "844e742f-25eb-4551-b8b9-6d7efe65b860",
+            "image": null,
+            "name": "Hugo Boss Green",
+            "description": "Hugo Boss Green is a contemporary collection of men's clothing designed for an active lifestyle, featuring sporty yet sophisticated designs that embody both performance and style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Hugo Boss"
+            }
+        },
+        {
+            "id": "5d4c9860-5f8b-486c-a4f5-367bc2297d91",
+            "image": null,
+            "name": "Honda Shine 100",
+            "description": "The Honda Shine 100 is a motorcycle designed for urban commuting, offering a blend of fuel efficiency, comfort, and reliability, making it suitable for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "cb34d5a2-d54c-42eb-871c-16dbc8ebde44",
+            "image": null,
+            "name": "Le Pliage Cuir",
+            "description": "The Longchamp Le Pliage Cuir series features elegant leather bags known for their lightweight design and durability, making them ideal for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "294e97cc-ea29-42bf-a503-e1ba72b4fe61",
+            "image": null,
+            "name": "Ganni x Le Specs",
+            "description": "The Ganni x Le Specs series features stylish sunglasses designed to combine contemporary fashion with UV protection. This collaboration is known for its bold aesthetic and playful designs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Ganni"
+            }
+        },
+        {
+            "id": "871a978a-4da7-404d-8ed8-0d7cf41e08a4",
+            "image": null,
+            "name": "ContiVanContact 100",
+            "description": "The Continental ContiVanContact 100 is a commercial tire designed for vans and light trucks, offering a balanced performance in terms of durability, grip, and fuel efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "17ee7c68-4dbd-4ba8-b133-5a272b5a073a",
+            "image": null,
+            "name": "EcoContact 6",
+            "description": "The Continental EcoContact 6 is a tire series designed to provide excellent fuel efficiency and reduced rolling resistance, while maintaining good wet and dry grip for passenger vehicles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "698c9f99-f0ad-47af-b53c-62ae4a0664f2",
+            "image": null,
+            "name": "AllSeasonContact",
+            "description": "The Continental AllSeasonContact is a tire designed for year-round use, offering balanced performance in various weather conditions, including dry, wet, and light winter conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "83b9d432-f8a3-4f63-8010-f481c46eb643",
+            "image": null,
+            "name": "WinterContact TS 870",
+            "description": "The Continental WinterContact TS 870 is a winter tire designed to provide excellent grip, handling, and safety in cold and snowy conditions, ensuring optimal performance during harsh winter weather.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "102f4a09-f842-4f8d-b4b2-127f8a367d3a",
+            "image": null,
+            "name": "PremiumContact 7",
+            "description": "The Continental PremiumContact 7 is a summer tire designed to provide excellent performance, comfort, and safety in both dry and wet conditions. It features advanced tread technology for enhanced grip and shorter braking distances.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "155a372b-f386-4dd4-8b8f-430e3b34e7cb",
+            "image": null,
+            "name": "Advanta",
+            "description": "The Yokohama Advanta series consists of high-performance tires designed to deliver optimal handling, traction, and comfort for a variety of vehicles. Introduced in 2004, these tires are known for their durability and excellent road grip.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "c3daaaa9-803f-4f8d-9b87-9969e69aacd3",
+            "image": null,
+            "name": "Advantage T/A",
+            "description": "The Yokohama Advantage T/A series is designed for all-season performance, providing a balance of comfort, handling, and tread life for passenger vehicles.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "34c0d19a-e33c-4481-87ad-ef3168157d78",
+            "image": null,
+            "name": "ADVAN Sport V105",
+            "description": "The Yokohama ADVAN Sport V105 is a high-performance tire designed for sports cars and high-end vehicles, providing enhanced grip, handling, and wet performance.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        }
+    ]
+}

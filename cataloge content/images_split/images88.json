@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "4b89d234-37d4-47da-9741-604ccadcb71f",
+            "image": null,
+            "name": "Geely Haoyue",
+            "description": "The Geely Haoyue is a mid-size SUV designed for family use, offering a spacious interior, modern technology, and a focus on comfort and safety.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "4d2fb24e-64ea-4f88-9673-be4d6d18c414",
+            "image": null,
+            "name": "Proton Wira",
+            "description": "The Proton Wira is a compact sedan produced by the Malaysian automotive manufacturer Proton, designed for everyday use with a focus on affordability and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "62f8bb21-a840-4de9-8ee7-2b2863180212",
+            "image": null,
+            "name": "Mercedes-Benz CL-Class (C215)",
+            "description": "The Mercedes-Benz CL-Class (C215) is a luxury coupe that combines high-performance capabilities with sophisticated design and advanced technological features. Released in 2003, it focuses on delivering a balanced experience of comfort and driving dynamics.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "6ba801b7-a21e-4c21-93c2-a4e4a80583e3",
+            "image": null,
+            "name": "Porsche Panamera (Sport Turismo)",
+            "description": "The Porsche Panamera Sport Turismo is a luxury sports wagon that combines high performance with practicality, offering a spacious interior and versatile cargo options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "843e537b-6809-4a51-92d4-91ca7541b77d",
+            "image": null,
+            "name": "Porsche Cayenne (958)",
+            "description": "The Porsche Cayenne (958) is a luxury midsize SUV introduced in 2012, known for its performance, comfort, and advanced technology.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8cf3e9c0-fc6e-4b40-87ff-8f1f59533610",
+            "image": null,
+            "name": "Citroën C3 Aircross",
+            "description": "The Citroën C3 Aircross is a compact SUV designed for urban environments, offering versatility and a spacious interior, making it suitable for both daily commutes and weekend adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "af18b7fe-01cc-4b9f-897b-0d7764ced4ac",
+            "image": null,
+            "name": "Porsche Panamera 4 E-Hybrid",
+            "description": "The Porsche Panamera 4 E-Hybrid is a luxury hybrid sedan that combines high performance with efficient electric driving, showcasing Porsche's commitment to sustainability without compromising on driving dynamics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b3402ca0-c701-483e-a849-464399201d98",
+            "image": null,
+            "name": "Great Wall Pao",
+            "description": "The Great Wall Pao is a pickup truck series released in 2020, designed for utility and performance in both urban and off-road environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "bebbce3e-cd97-49e8-a8a9-a0f63f362868",
+            "image": null,
+            "name": "Curvy",
+            "description": "The Curvy series by Poliform features elegantly designed sofas characterized by soft, flowing lines that offer both comfort and style, making it ideal for contemporary living spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "daf9f187-4bbe-4975-b096-e65bf47f7f68",
+            "image": null,
+            "name": "Scout",
+            "description": "The Scout series by Gus* Modern offers a stylish and contemporary collection of sofas designed to provide comfort and versatility for modern living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "def09996-5c90-449d-a297-80306070d630",
+            "image": null,
+            "name": "Sonata",
+            "description": "The Hyundai Sonata is a mid-size sedan known for its spacious interior, reliable performance, and advanced technology features, aiming to provide a comfortable driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "e6f3aa88-f743-442e-a525-000e088a0ef1",
+            "image": null,
+            "name": "Kia Rio (2011 Generation)",
+            "description": "The Kia Rio (2011 Generation) is a compact car known for its practicality, fuel efficiency, and affordability, catering to consumers seeking a reliable city vehicle.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "eb5ac917-e3cf-45ed-aa73-60ba90edeb17",
+            "image": null,
+            "name": "GMC Yukon",
+            "description": "The GMC Yukon is a full-size SUV designed for spacious family transport and capable off-road performance, offering a balance of comfort, utility, and advanced technology.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "eb9f5745-ee21-4a58-87d3-2790ea0be208",
+            "image": null,
+            "name": "Porsche 911 (996 generation)",
+            "description": "The Porsche 911 (996 generation) is a high-performance sports car that debuted in the year 2000, known for its iconic design, rear-engine layout, and advanced engineering, serving as a benchmark in the luxury sports car segment.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f118a62d-87b5-4633-933d-b80b9d2a9b66",
+            "image": null,
+            "name": "GMC Sierra 1500",
+            "description": "The GMC Sierra 1500 is a full-size pickup truck known for its strong performance, advanced technology features, and comfortable interior, making it suitable for both work and daily driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "f3a996c1-e5e7-4c7a-82fa-b11b36cb1f0c",
+            "image": null,
+            "name": "Mercedes-Benz SL-Class (R230)",
+            "description": "The Mercedes-Benz SL-Class (R230) is a luxury sports car series known for its blend of performance, comfort, and innovative technology, offering a retractable hardtop for open-air driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "5ea69853-c8cf-447b-b07f-fe08129e1f42",
+            "image": null,
+            "name": "Dawlance 6070",
+            "description": "The Dawlance 6070 series consists of fully automatic washing machines designed for efficient cleaning and durable performance, catering to the needs of modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "16838156-654b-447d-bbc0-f1678a62dc13",
+            "image": null,
+            "name": "Porsche Cayenne (Coupe)",
+            "description": "The Porsche Cayenne Coupe is a luxury SUV that combines the performance characteristics of a sports car with the spaciousness and versatility of an SUV. It is designed for those who seek both style and functionality in their driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "20349c3c-71cc-4428-ab1b-9127183dd049",
+            "image": null,
+            "name": "TEMPUR-LuxeAdapt",
+            "description": "The TEMPUR-LuxeAdapt series by Tempur-Pedic is designed to provide advanced pressure relief and support, featuring a two-layer construction that adapts to the body's shape for a personalized sleeping experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "3c7fe5e4-187c-414c-aeb6-37516f6e13a9",
+            "image": null,
+            "name": "Proton Preve",
+            "description": "The Proton Preve is a compact car produced by Proton, designed for everyday use with a focus on affordability, functionality, and efficiency.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "3e5d36b2-f1e6-45b4-a344-1479621e0d91",
+            "image": null,
+            "name": "MacBook Pro (14-inch and 16-inch, M2 Pro and M2 Max)",
+            "description": "The Apple MacBook Pro series features high-performance laptops available in 14-inch and 16-inch models, powered by M2 Pro and M2 Max chips, designed for professionals who require advanced computing capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "4c5203c3-8f5a-45a8-b37c-a5971c12e294",
+            "image": null,
+            "name": "Proton X90",
+            "description": "The Proton X90 is a mid-size SUV designed to provide a balance of comfort, performance, and practicality for urban and adventurous driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "4d6b94ce-c2d3-4291-88b9-2f0bb1fd8d0a",
+            "image": null,
+            "name": "GMC Envoy",
+            "description": "The GMC Envoy is a mid-size SUV that offers a blend of rugged capability and comfort, designed for both urban and off-road driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "57021d01-5b22-429b-86b5-d477ffeb1625",
+            "image": null,
+            "name": "LG Wing",
+            "description": "The LG Wing is a dual-screen smartphone designed for multitasking and enhanced media consumption, featuring a unique swivel design that allows for a secondary display for various applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "5d28bf2c-3c28-4ee1-83c6-5c0dbb47a659",
+            "image": null,
+            "name": "Traveller",
+            "description": "The Force Motors Traveller series, launched in 2000, is designed as a versatile pickup truck for commercial applications, known for its robust build and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "619605c8-e8b0-4103-bf70-f1556d8ac96c",
+            "image": null,
+            "name": "Maruti Alto",
+            "description": "The Maruti Alto is a compact car series introduced in 2000, known for its affordability, fuel efficiency, and practicality, making it a popular choice for urban commuting.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "68ed09c9-953f-474a-ad4b-c77b6c8245bd",
+            "image": null,
+            "name": "Maruti Suzuki Splash",
+            "description": "The Maruti Suzuki Splash is a compact car launched in 2008, designed to offer a practical and efficient driving experience for urban environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "71daa001-672a-468f-98ba-e950663e2346",
+            "image": null,
+            "name": "Maruti Suzuki Alto K10",
+            "description": "The Maruti Suzuki Alto K10 is a compact city car known for its fuel efficiency and practicality, making it an ideal choice for urban commuting.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "7497eb8e-01dd-4d7d-b83f-fe5ce44da19c",
+            "image": null,
+            "name": "Maruti Suzuki Baleno",
+            "description": "The Maruti Suzuki Baleno is a compact hatchback that offers practicality and fuel efficiency, making it a popular choice for urban commuting.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "e05fad7c-b25a-4aee-9c58-90a70b82615a",
+            "image": null,
+            "name": "Maruti Suzuki Alto",
+            "description": "The Maruti Suzuki Alto is a compact car that has been popular in India since its launch in 2002, known for its fuel efficiency and affordability.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        }
+    ]
+}

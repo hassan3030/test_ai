@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "9c5fcfe1-44d2-4cae-8464-4bfa402ef862",
+            "image": null,
+            "name": "Cooper Discoverer STT",
+            "description": "The Cooper Discoverer STT is an all-terrain tire designed for off-road enthusiasts, providing enhanced traction and durability in rugged conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "9d556947-00ce-4618-ba48-1464b137c416",
+            "image": null,
+            "name": "Cooper Weather-Master S/T 2",
+            "description": "The Cooper Weather-Master S/T 2 is a performance winter tire designed for enhanced traction and handling in severe winter conditions, making it suitable for both passenger and light truck applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "a26e4fb9-e00e-494d-9e77-8e04ab3cd3f9",
+            "image": null,
+            "name": "Sumitomo HTR Series",
+            "description": "The Sumitomo HTR Series is a line of high-performance tires designed for enhanced traction, handling, and comfort on a variety of road conditions, making them suitable for sporty vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "a37ca9e9-a298-473f-a08d-da1f6fc4801b",
+            "image": null,
+            "name": "Graco SnugRide SnugLock 30 Infant Car Seat",
+            "description": "The Graco SnugRide SnugLock 30 Infant Car Seat is designed to provide safety and comfort for infants during travel. It features a simple installation process with a SnugLock technology, ensuring that parents can easily and securely attach the seat to their vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "c1814d10-76c8-4575-8efe-a4751523eb33",
+            "image": null,
+            "name": "Discoverer STT Pro",
+            "description": "The Cooper Tire Discoverer STT Pro is an all-terrain tire designed for off-road performance and rugged durability. It features a specialized tread pattern for enhanced traction on various surfaces, making it suitable for both extreme off-road conditions and everyday driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "f98edfb4-0e99-4820-8d23-4431e25c7930",
+            "image": null,
+            "name": "BMW 2 Series Active Tourer",
+            "description": "The BMW 2 Series Active Tourer is a compact MPV designed for versatility, combining practicality with the driving dynamics typical of BMW vehicles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "cea283a3-10b2-4b36-8fd7-4e271d966c94",
+            "image": null,
+            "name": "Hauck Runner",
+            "description": "The Hauck Runner series features lightweight and versatile strollers designed for active families, providing ease of use and adaptability for various parenting needs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "5f83e32e-7b45-410d-84b3-dc2b0d1fe19e",
+            "image": null,
+            "name": "Chevrolet Equinox (second generation)",
+            "description": "The Chevrolet Equinox (second generation) is a compact SUV designed for versatility and efficient performance, catering to families and individuals seeking a comfortable and spacious vehicle.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "71091e89-8fae-4ceb-a526-9fcbf659125b",
+            "image": null,
+            "name": "Chevrolet Camaro SS (fifth generation)",
+            "description": "The Chevrolet Camaro SS (fifth generation) is a high-performance sports car that combines aggressive styling with powerful engine options, designed for enthusiasts seeking an exhilarating driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "7bfc89fd-b255-4621-9b3f-d78fcd814a5e",
+            "image": null,
+            "name": "Opel Combo",
+            "description": "The Opel Combo is a versatile compact van designed primarily for commercial use, offering ample cargo space and practicality for businesses since its launch in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "80bd1c29-9144-4c17-ab27-b41ce379a984",
+            "image": null,
+            "name": "Falken Wildpeak AT3W",
+            "description": "The Falken Wildpeak AT3W is an all-terrain tire designed for optimal performance on a variety of surfaces, offering durability, traction, and comfort for both on-road and off-road driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "835002b4-d449-4410-8aa3-2bc66497b55d",
+            "image": null,
+            "name": "Hero Dash",
+            "description": "The Hero Dash is a motorcycle series by Hero MotoCorp, designed for urban commuting with a focus on efficiency and convenience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "893020f3-0c3c-470c-83e8-043d70efc0f1",
+            "image": null,
+            "name": "Renault Kwid Climber",
+            "description": "The Renault Kwid Climber is a compact hatchback launched in 2018, designed for urban driving with a rugged outdoor aesthetic and enhanced ground clearance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "9ad11646-6b1e-4b9e-9705-73443cd579d1",
+            "image": null,
+            "name": "Hero Honda Glamour",
+            "description": "The Hero Honda Glamour is a motorcycle series introduced in 2002, known for its stylish design and efficiency, catering to urban commuters seeking reliability and performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "a081e5b7-f099-452c-930b-fc3f9c6a6a9c",
+            "image": null,
+            "name": "BMW 8 Series (G15)",
+            "description": "The BMW 8 Series (G15) is a luxury grand tourer that combines high-performance capabilities with advanced technology and elegant design. It is designed for those who seek a blend of sports car dynamics and refined comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "a3bd1737-29fd-4cd6-98ff-047d247854ba",
+            "image": null,
+            "name": "Audi Allroad (C5)",
+            "description": "The Audi Allroad (C5) is a versatile all-terrain vehicle that combines the attributes of a luxury sedan with off-road capability, featuring a rugged body design and adjustable air suspension for improved handling on various terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a5285ae4-0943-4970-95c6-6abc76ea5da1",
+            "image": null,
+            "name": "Audi RS 5",
+            "description": "The Audi RS 5 is a high-performance sports coupe that combines luxury and speed, featuring a powerful engine and advanced technology for an exhilarating driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a5d7d7b5-3da1-4582-a7e5-60d38fb4e4fd",
+            "image": null,
+            "name": "LG Signature Refrigerator",
+            "description": "The LG Signature Refrigerator series is designed for premium refrigeration performance, featuring advanced technology and sophisticated design to enhance the kitchen experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "0601819a-a9cd-42c4-a46a-dad2abc47386",
+            "image": null,
+            "name": "Volkswagen Tiguan Mk1 facelift",
+            "description": "The Volkswagen Tiguan Mk1 facelift is a compact SUV that combines practicality and comfort, offering versatile interior space and advanced safety features. It was designed to provide an enjoyable driving experience both in urban settings and off-road conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "127cad2a-5b97-459f-b0e6-278df9d11a53",
+            "image": null,
+            "name": "LEGO 10293 Eiffel Tower",
+            "description": "The LEGO 10293 Eiffel Tower is a detailed model kit that allows builders to recreate the iconic Parisian landmark using LEGO bricks. This set features intricate architectural elements and is designed for advanced builders.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "31caad5b-7159-47f6-9c46-1e759e75d2c8",
+            "image": null,
+            "name": "Hero Pleasure +",
+            "description": "The Hero Pleasure + is a motorcycle designed primarily for urban commuting, emphasizing lightweight handling and fuel efficiency, catering to a diverse rider base.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "3df1c97e-0ebf-46d3-a69f-2e9952cabf97",
+            "image": null,
+            "name": "Volvo XC60 (first generation update)",
+            "description": "The Volvo XC60 (first generation update) is a compact luxury SUV known for its safety features, comfort, and performance. Launched in 2013, it combines Scandinavian design with versatile space for passengers and cargo, making it suited for urban and outdoor adventures.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "40c10fb3-9e39-4548-8d5d-f38ee474885d",
+            "image": null,
+            "name": "ID. Buzz",
+            "description": "The Volkswagen ID. Buzz is an all-electric van that combines retro design with modern technology, aimed at providing sustainable transportation solutions while maximizing interior space and versatility.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "4bbda043-1269-40f6-8b6d-a43abac75d29",
+            "image": null,
+            "name": "Volvo S60 (second generation)",
+            "description": "The Volvo S60 is a compact executive car known for its safety features, comfortable ride, and stylish design. This second generation, released in 2009, emphasizes performance and sophistication for those seeking a premium driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "58034d4b-9d90-43ff-a05c-f1f034e407bb",
+            "image": null,
+            "name": "LEGO 75296 The Bad Batch Attack Shuttle",
+            "description": "LEGO 75296 The Bad Batch Attack Shuttle allows fans to recreate scenes from the Star Wars animated series, featuring a buildable shuttle, minifigures, and accessories representing characters from The Bad Batch.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "ae90d033-201c-49a7-b3eb-a12ee954174a",
+            "image": null,
+            "name": "Hero Xtreme",
+            "description": "The Hero Xtreme series is a line of motorcycles known for its performance and stylish design, aimed at providing a thrilling riding experience for urban commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "b318feeb-fb33-497a-a820-999c29ac6880",
+            "image": null,
+            "name": "Ecowing ES31",
+            "description": "The Sumitomo Ecowing ES31 is an environmentally friendly tire designed for fuel efficiency and low rolling resistance, offering a comfortable ride and reliable performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "df44f222-da9d-4e26-be01-566662fba1f1",
+            "image": null,
+            "name": "Ford E-Series",
+            "description": "The Ford E-Series is a line of full-size vans known for their versatility and capability, primarily used for commercial applications, family transport, and customized conversions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "62824788-29cd-49d1-ba2f-92e07a0e658b",
+            "image": null,
+            "name": "LEGO 75300 Imperial Shuttle",
+            "description": "The LEGO 75300 Imperial Shuttle is a detailed building set that allows fans to recreate the iconic starship from the Star Wars universe. It features articulated wings and minifigures of popular characters, making it suitable for both play and display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "74f18ec5-a05a-4b47-a280-1b6c3b32be86",
+            "image": null,
+            "name": "Ford Excursion",
+            "description": "The Ford Excursion is a full-size SUV produced by Ford from 2000 to 2005. Known for its large size and powerful engine options, it is designed to provide maximum passenger and cargo capacity.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        }
+    ]
+}

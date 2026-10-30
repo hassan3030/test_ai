@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "id": "1e9d5e3d-146c-4999-ab7e-5dd65bf1461d",
+            "image": null,
+            "name": "Volkswagen Golf Mk5",
+            "description": "The Volkswagen Golf Mk5 is a compact car produced by Volkswagen from 2002 to 2008, known for its practicality, solid build quality, and a balance of performance and fuel efficiency.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "35d01f45-9de3-4249-a789-d502d0265dca",
+            "image": null,
+            "name": "Volkswagen Passat B6",
+            "description": "The Volkswagen Passat B6 is a mid-size car produced by Volkswagen from 2002, known for its spacious interior, reliable performance, and balanced handling. It serves as a practical choice for families and commuters alike.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "5265dc20-d383-44dc-ac48-078550c15282",
+            "image": null,
+            "name": "Toyota Tacoma TRD Pro",
+            "description": "The Toyota Tacoma TRD Pro is a rugged midsize pickup truck designed for off-road performance and versatility, featuring enhanced capabilities and a durable construction suitable for various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "53372ecd-dc4d-4eed-a1ea-eb470ae50715",
+            "image": null,
+            "name": "Toyota Corolla Cross",
+            "description": "The Toyota Corolla Cross is a compact SUV that combines versatility with a spacious interior, designed to cater to the needs of urban drivers and families seeking a reliable vehicle.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "5cb0bffc-246b-4db6-b8d3-78e9fdba9171",
+            "image": null,
+            "name": "Yaris",
+            "description": "The Toyota Yaris is a compact car designed for urban driving and fuel efficiency, offering practicality and agile handling for city dwellers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "9691d2ca-96ff-424c-b0cd-a4044c3dd4d7",
+            "image": null,
+            "name": "Volkswagen Jetta Mk5",
+            "description": "The Volkswagen Jetta Mk5 is a compact sedan that combines reliability, fuel efficiency, and a spacious interior, making it suitable for both urban commuting and long-distance travel.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "970a56e0-3413-4ac3-b8b4-92774b3e756b",
+            "image": null,
+            "name": "Toyota RAV4 (4th Generation)",
+            "description": "The Toyota RAV4 (4th Generation) is a compact SUV that offers a blend of efficiency, versatility, and off-road capability, designed to cater to urban and adventurous lifestyles.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "9e57e09b-e5ba-4942-b0d8-f988d1931a7b",
+            "image": null,
+            "name": "Volkswagen Sharan (Facelift)",
+            "description": "The Volkswagen Sharan (Facelift) is a versatile MPV designed for family transport, featuring ample space and practicality with modernized aesthetic updates.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "a4750f3f-0e49-4205-8e89-04c4c653a6ad",
+            "image": null,
+            "name": "Toyota Hilux",
+            "description": "The Toyota Hilux is a versatile pickup truck known for its durability and off-road capability, designed for both work and leisure purposes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "b22c9085-da68-419a-a3f6-093001c96c4a",
+            "image": null,
+            "name": "Toyota RAV4 Prime",
+            "description": "The Toyota RAV4 Prime is a plug-in hybrid SUV that combines efficiency with versatility, offering an electric-only driving range along with the capability of a traditional gasoline engine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "b85c5e64-13f9-4248-8a0b-e13606f34671",
+            "image": null,
+            "name": "Toyota Crown",
+            "description": "The Toyota Crown is a luxury sedan that blends advanced technology with comfort and performance, designed to cater to a refined driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "c0d30add-bb05-4efa-93f0-5c232eb38d36",
+            "image": null,
+            "name": "Volkswagen Lupo",
+            "description": "The Volkswagen Lupo is a small city car that emphasizes efficiency and maneuverability, making it suitable for urban driving and parking.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "c22dcea7-b291-4168-a938-e0447b85e335",
+            "image": null,
+            "name": "Toyota Highlander (3rd Generation)",
+            "description": "The Toyota Highlander (3rd Generation) is a midsize SUV designed for family-friendly transportation, offering a spacious interior, versatile seating configurations, and a range of safety features.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "6dedb1e2-2b13-411c-9281-6683f6725036",
+            "image": null,
+            "name": "Razer Barracuda X",
+            "description": "The Razer Barracuda X is a versatile wireless gaming headset designed for immersive sound quality and long-lasting comfort, suitable for various gaming platforms.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "807347c5-d601-4c20-9b9b-914f11b589eb",
+            "image": null,
+            "name": "WAX Type",
+            "description": "The Soft99 WAX Type series offers a selection of high-quality waxes designed for car care, providing a protective layer and enhancing the shine of vehicle surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "dd977766-ca55-42fe-9acc-1901ce556d50",
+            "image": null,
+            "name": "Beats Fit Pro",
+            "description": "The Beats Fit Pro are true wireless earbuds designed for active individuals, offering a secure fit, excellent sound quality, and advanced features like Active Noise Cancelling and Transparency Mode.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e67ac951-dcbb-4866-ace9-3c535366f493",
+            "image": null,
+            "name": "Vespa LX 150",
+            "description": "The Vespa LX 150 is a stylish and practical scooter designed for urban commuting, known for its iconic design and ease of use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "ecebb6a3-f7cc-47ac-832f-75f8e03bcfd3",
+            "image": null,
+            "name": "Dior Homme",
+            "description": "Dior Homme is a contemporary men’s clothing line by Dior known for its modern silhouettes and elegant designs that blend sophistication with a touch of casual ease.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f295f17e-0b41-4841-91f4-7eb6a3cfafa0",
+            "image": null,
+            "name": "Dueler A/T Revo 4",
+            "description": "The Bridgestone Dueler A/T Revo 4 is an all-terrain tire designed for versatile performance across various driving conditions, offering enhanced traction, durability, and comfort for both on-road and off-road adventures.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "f2ee86da-c782-43be-9c74-8a22374544c4",
+            "image": null,
+            "name": "Puma RS 9.8",
+            "description": "The Puma RS 9.8 is a versatile sneaker series that combines retro aesthetics with modern performance features. Designed for comfort and style, it caters to both casual wear and active use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "80994734-b916-4e9b-8113-04f4e192a856",
+            "image": null,
+            "name": "Vulcan 1700 Series",
+            "description": "The Kawasaki Vulcan 1700 Series is a lineup of heavyweight cruiser motorcycles designed for comfortable long-distance riding, featuring a distinctive style and modern technology.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "8fa9e5d2-9dbe-44cc-94af-d2bf568d27ae",
+            "image": null,
+            "name": "Dodge Caliber",
+            "description": "The Dodge Caliber is a compact hatchback car produced by Dodge, designed to offer a blend of versatility, fuel efficiency, and modern styling for daily drivers and families.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "a687bffd-f4c6-45db-8c52-d847f1beedb2",
+            "image": null,
+            "name": "Aquatonic",
+            "description": "Soft99's Aquatonic series is a line of car care products designed to provide effective cleaning and maintaining of vehicle surfaces, focusing on water-repellent properties and easy application.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "b57dc4b4-a441-43ba-a59d-4bc990b68dfb",
+            "image": null,
+            "name": "Dior Women Fall 2021 Collection",
+            "description": "The Dior Women Fall 2021 Collection showcases a blend of elegance and modernity, featuring sophisticated designs that embody the spirit of femininity for the autumn season.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "293d44bd-7807-4834-b6e2-afde319dac23",
+            "image": null,
+            "name": "Aprilia RX 125",
+            "description": "The Aprilia RX 125 is a lightweight, off-road motorcycle designed for young riders and enthusiasts looking for agility and performance on various terrains.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "34744678-546e-40e1-8391-95adbc5a42f6",
+            "image": null,
+            "name": "Volkswagen Jetta V",
+            "description": "The Volkswagen Jetta V is a compact sedan introduced in 2004, known for its balanced performance, spacious interior, and practical features, making it a popular choice among everyday drivers.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "3518085c-251f-4362-9727-3072fb147f79",
+            "image": null,
+            "name": "Dior Men's Sneakers Collection",
+            "description": "The Dior Men's Sneakers Collection is a line of luxury footwear that combines modern style with exceptional comfort, designed for the discerning man who values both aesthetics and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "42df4315-e5f6-4436-955c-41ef3d57d0be",
+            "image": null,
+            "name": "HEMNES",
+            "description": "The HEMNES series by IKEA features a range of wardrobes designed to provide practical storage solutions while maintaining a classic aesthetic. Known for its durability and versatile style, the HEMNES series is ideal for organizing clothing and accessories in any bedroom.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "503ae1d6-aadb-4f52-9aa4-7dbece551cdd",
+            "image": null,
+            "name": "Cuisinart Precision Press Coffee Maker",
+            "description": "The Cuisinart Precision Press Coffee Maker offers a streamlined brewing process for coffee enthusiasts, providing precise control over brewing time and temperature to enhance flavor extraction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b5c255af-a7bf-4ab9-96ec-7756e68a2bb4",
+            "image": null,
+            "name": "Dodge Ram 3500",
+            "description": "The Dodge Ram 3500 is a heavy-duty pickup truck designed for towing and hauling, featuring a robust frame and powerful engine options to handle challenging workloads with ease.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        }
+    ]
+}

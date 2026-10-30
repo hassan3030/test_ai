@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "85621a69-3864-4abf-a4ab-74a20b0baf06",
+            "image": null,
+            "name": "Pearl Masters Maple Complete",
+            "description": "The Pearl Masters Maple Complete is a high-quality drum kit designed for professional musicians, featuring a blend of maple shells that offer a warm resonance and versatility for various musical genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "839799ab-b99f-41cb-916e-cdb703bc3189",
+            "image": null,
+            "name": "Masters Maple Gum Series",
+            "description": "The Pearl Masters Maple Gum Series is a line of high-quality drum kits designed for professional drummers, featuring a blend of maple and gum woods for optimal sound quality and resonance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "fa80a8e4-615d-4e6c-8d36-b1bd2b65e9cf",
+            "image": null,
+            "name": "Roadshow Series",
+            "description": "The Pearl Roadshow Series offers a range of quality musical instruments designed for beginners and intermediate players, making it ideal for education and performance settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "03094180-d5f4-4e0f-92bb-7641a7c1359a",
+            "image": null,
+            "name": "Pearl Decade Maple Series",
+            "description": "The Pearl Decade Maple Series is a range of drum kits designed to provide professional sound quality and versatility for drummers at various skill levels, featuring warm, focused tones and durable construction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "ea8b1b58-c8ab-4f73-a41b-3058aeecc011",
+            "image": null,
+            "name": "MVP Series",
+            "description": "The Pearl MVP Series consists of high-quality musical instruments designed for both professional and aspiring musicians, featuring advanced technology and superior craftsmanship.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "54f4fd3a-a719-4192-8e84-28ded3e64312",
+            "image": null,
+            "name": "Pearl Reference Pure",
+            "description": "The Pearl Reference Pure series is a high-quality line of musical instruments designed for professional musicians, delivering exceptional sound and precision for various musical applications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "ecc6ed48-1d94-45b4-8c98-1b1d422730c2",
+            "image": null,
+            "name": "Pearl Roadshow",
+            "description": "The Pearl Roadshow series offers a range of high-quality, portable musical instruments designed for both beginners and experienced musicians. Its main purpose is to provide a reliable and accessible option for music education and performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "1db0aae4-ab5b-4b17-a215-59d434c0e7eb",
+            "image": null,
+            "name": "Vox AV Series",
+            "description": "The Vox AV Series is a collection of amplifiers and musical instruments designed for both amateur and professional musicians, known for their rich sound quality and innovative designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "c4a70d91-2780-46fe-9f71-b1bdfa0864d4",
+            "image": null,
+            "name": "Vox Lil' Night Train",
+            "description": "The Vox Lil' Night Train is a compact guitar amplifier known for its portable design and rich tone, making it ideal for practice and small performances.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "c38c1087-3a9c-4501-994d-d302b9263028",
+            "image": null,
+            "name": "Vox MV50",
+            "description": "The Vox MV50 series consists of compact, high-performance guitar amplifiers designed to deliver classic Vox tones in a portable format, making them ideal for both practice and live performances.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "94443b41-d39b-468c-a3fb-5665f77281f6",
+            "image": null,
+            "name": "Vox VX50",
+            "description": "The Vox VX50 is a compact and lightweight guitar amplifier designed for portability and versatility, making it ideal for practice, rehearsals, and small gigs. It features various built-in effects and flexible connectivity options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "ed2c9442-a2ab-47b3-a0d6-f043d0db9c64",
+            "image": null,
+            "name": "Vox AC15 C1",
+            "description": "The Vox AC15 C1 is a classic tube guitar amplifier designed for musicians seeking warm tones and rich harmonics. It features a compact design ideal for stage and studio use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "76932e0e-595a-4247-877d-46b8672d16c9",
+            "image": null,
+            "name": "Vox StompLab IG",
+            "description": "The Vox StompLab IG series consists of compact and versatile guitar effects processors designed for musicians seeking a wide range of sounds and customizable settings for practice and performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "773c0976-9b06-4f40-a520-29990772609c",
+            "image": null,
+            "name": "Vox VX50K",
+            "description": "The Vox VX50K is a portable guitar amplifier designed for both practice and performance, featuring a range of built-in effects and presets to enhance your sound.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "4463bdf3-5b17-49ca-a39a-0bfeee7c0482",
+            "image": null,
+            "name": "Vox Adio Air GT",
+            "description": "The Vox Adio Air GT is a compact and versatile guitar amplifier designed for practice, performance, and recording. It features Bluetooth connectivity, built-in effects, and a wide range of tonal options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "fefa0552-3a67-4e0f-88f7-d4619f475eb5",
+            "image": null,
+            "name": "Vox Cambridge50",
+            "description": "The Vox Cambridge50 is a versatile guitar amplifier known for its combination of classic analog sound and modern digital technology, providing musicians with a range of tones suitable for practice and performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "af56aaf4-c5a1-4ce4-993c-f9ac1a60834e",
+            "image": null,
+            "name": "Vox AC30S1",
+            "description": "The Vox AC30S1 is a guitar amplifier known for its rich, warm tones and versatility, making it suitable for a wide range of musical styles. Launched in 2023, it features a single channel design that emphasizes simplicity while maintaining the classic Vox sound.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "f221ec74-dd04-4935-b8bd-ce5302d28d82",
+            "image": null,
+            "name": "Vox Pathfinder 10",
+            "description": "The Vox Pathfinder 10 is a compact guitar amplifier designed to deliver rich, classic tones with ease, making it ideal for practice sessions and small performances.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "de266751-b11f-4ba5-8288-6380261896ae",
+            "image": null,
+            "name": "XT Acoustic Guitar Strings",
+            "description": "D'Addario XT Acoustic Guitar Strings are designed to provide enhanced strength and longevity while delivering a rich, warm tone ideal for acoustic guitar players.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "d796ba08-0e6b-46e4-9adc-58a8fe324ee5",
+            "image": null,
+            "name": "NYXL Electric Guitar Strings",
+            "description": "D'Addario NYXL Electric Guitar Strings are designed for enhanced tuning stability, increased durability, and improved tone, making them a popular choice among electric guitarists.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "19dce2d7-4464-4175-83fa-1d9eac51c1a5",
+            "image": null,
+            "name": "EJ Series",
+            "description": "The D'Addario EJ Series consists of high-quality strings for various stringed instruments, designed to enhance sound quality and playability for musicians of all levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "06e23902-3f31-4f75-b9ae-cb0d791dd6ba",
+            "image": null,
+            "name": "Planet Waves Accessories",
+            "description": "The D'Addario Planet Waves Accessories series offers a wide range of essential musical accessories designed to enhance the performance and maintenance of musical instruments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "60d3f46f-c779-4c8b-becd-b0bec3809d5f",
+            "image": null,
+            "name": "D'Addario EXP Coated Strings",
+            "description": "D'Addario EXP Coated Strings are designed to provide enhanced durability and longevity while maintaining the vibrant tone of the instrument.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "6c62e47c-1100-4953-857a-c8bf0ee86c8c",
+            "image": null,
+            "name": "D'Addario NYXL Strings",
+            "description": "D'Addario NYXL Strings are designed for electric guitars, providing enhanced tuning stability, increased durability, and a bright tone. Launched in 2018, they cater to a wide range of playing styles and preferences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "79933862-7e9b-4c7a-a235-877ee8be7790",
+            "image": null,
+            "name": "D'Addario Pro-Arte Strings",
+            "description": "D'Addario Pro-Arte Strings are a premium line of classical guitar strings designed for optimal performance and sound quality, utilizing advanced materials for professional players and enthusiasts alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "a3f36b95-9233-413d-b259-4a6ad02f570b",
+            "image": null,
+            "name": "D'Addario XT",
+            "description": "D'Addario XT strings are engineered for enhanced performance and durability, providing musicians with a bright, clean tone and excellent intonation.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "605b0170-5ba9-4709-b202-8093f00dacda",
+            "image": null,
+            "name": "D'Addario NYXL",
+            "description": "D'Addario NYXL strings are engineered to provide greater strength, tuning stability, and enhanced tonal clarity, making them ideal for professional musicians.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "b481df44-70e8-4b3a-be42-1d6c83880e16",
+            "image": null,
+            "name": "XS Series",
+            "description": "The D'Addario XS Series offers a range of high-performance strings designed for various musical instruments, featuring advanced materials and technology for enhanced durability and superior playability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "66707656-4695-439f-bd30-d278f776d9a3",
+            "image": null,
+            "name": "XT Series",
+            "description": "The D'Addario XT Series offers high-performance strings designed for musicians seeking durability and tone consistency. These strings are engineered to withstand prolonged play while maintaining exceptional sound quality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "114021ef-51ca-4713-9d07-b0def9a078d8",
+            "image": null,
+            "name": "D'Addario XT Electric Strings",
+            "description": "D'Addario XT Electric Strings are designed for electric guitars, featuring enhanced durability and corrosion resistance for long-lasting performance and a vibrant tone.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        }
+    ]
+}

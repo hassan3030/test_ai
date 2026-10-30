@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "af1f32d4-18db-495e-9d5a-4b376ad2de55",
+            "image": null,
+            "name": "Ninja Foodi Smart XL Grill",
+            "description": "The Ninja Foodi Smart XL Grill is a versatile kitchen appliance that combines the functions of an air fryer and grill, allowing users to cook a variety of meals quickly and efficiently with less oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "dc564603-8e8f-4c94-b8b4-04f0152d72f2",
+            "image": null,
+            "name": "Ninja Speedi",
+            "description": "The Ninja Speedi series includes versatile air fryers designed for quick cooking, allowing users to air fry, steam, and bake with efficiency and ease.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "22cae3c3-6686-44ac-bf04-276c262a6aae",
+            "image": null,
+            "name": "Cosori Air Fryer Max XL",
+            "description": "The Cosori Air Fryer Max XL is a kitchen appliance designed for air frying, providing a healthier alternative to traditional frying by using minimal oil while achieving crispy and delicious results.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "eb52f0af-eaf4-4577-a4a5-294d35bbb7ce",
+            "image": null,
+            "name": "Cosori Air Fryers",
+            "description": "The Cosori Air Fryers are designed to provide a healthier cooking option by using rapid air circulation technology to fry food with little to no oil, making it versatile for various cooking methods.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "cbcd52ba-8b43-483a-a926-de7ba11fad91",
+            "image": null,
+            "name": "Cosori Air Fryer Pro",
+            "description": "The Cosori Air Fryer Pro is designed to provide a healthier alternative to frying by using hot air circulation to cook food, resulting in a crispy texture with less oil. Its versatile functionality allows for various cooking methods, including air frying, roasting, and baking.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "f6bca8eb-014b-49a0-84ee-c18e57c15550",
+            "image": null,
+            "name": "Cosori Smart Air Fryer",
+            "description": "The Cosori Smart Air Fryer is a versatile kitchen appliance designed to offer healthier frying options by using hot air circulation for cooking, allowing users to enjoy crispy meals with less oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "db89cd4e-bc2b-470a-8f7b-6deac8294d51",
+            "image": null,
+            "name": "Cosori Air Fryer Pro LE",
+            "description": "The Cosori Air Fryer Pro LE is an innovative kitchen appliance designed to fry food with little to no oil, providing a healthier alternative to traditional frying methods while ensuring crisp, flavorful results.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "32e0e1d8-ce04-4787-a117-df6496940223",
+            "image": null,
+            "name": "Cosori Food Dehydrator",
+            "description": "The Cosori Food Dehydrator is designed to extract moisture from food, allowing for the preservation of fruits, vegetables, and other snacks while retaining their essential nutrients.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "33a556e6-1ab6-4c75-acd8-10081a636974",
+            "image": null,
+            "name": "Secura Air Fryer",
+            "description": "The Secura Air Fryer is a kitchen appliance that uses hot air circulation to cook food with minimal oil, promoting a healthier cooking method while achieving a crispy texture.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "b39ce449-a9d6-4b20-b2cd-fb9642d5e5de",
+            "image": null,
+            "name": "Dawlance 9150WB",
+            "description": "Dawlance 9150WB is a refrigerator series designed for efficient cooling and preservation of food items while maintaining energy efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "327ca2aa-794e-42bf-b09d-026942ee553b",
+            "image": null,
+            "name": "Secura 4.2 Qt Air Fryer",
+            "description": "The Secura 4.2 Qt Air Fryer is designed to provide a healthier cooking option by using hot air circulation to fry food, reducing the need for oil. Its large capacity allows for cooking a variety of meals for families or gatherings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "51c1a853-86b0-406c-bbc1-1ff7d5688c13",
+            "image": null,
+            "name": "Secura 6 Qt Air Fryer",
+            "description": "The Secura 6 Qt Air Fryer is designed to provide a healthier cooking alternative by using rapid air technology to fry, bake, grill, and roast food with little to no oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "6366d6c3-08eb-41e7-b155-c322ad87f927",
+            "image": null,
+            "name": "Secura 7-in-1 Air Fryer",
+            "description": "The Secura 7-in-1 Air Fryer is a versatile kitchen appliance that combines seven cooking functions, allowing users to fry, bake, grill, roast, sauté, and more with minimal oil for healthier meals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "0f12a804-40d1-435e-abaa-b2b31ed16b9a",
+            "image": null,
+            "name": "FlexBrew",
+            "description": "The Hamilton Beach FlexBrew series offers versatile coffee machines that allow users to brew a single cup or a full pot of coffee, accommodating both traditional ground coffee and single-serve pods for convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "ec757eb4-10ef-4eed-8df7-63399c3f43c5",
+            "image": null,
+            "name": "Hamilton Beach FlexBrew",
+            "description": "The Hamilton Beach FlexBrew series includes versatile coffee machines designed to brew single serve or full pot coffee, catering to various brewing preferences and serving sizes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "9f6dd6c5-eadf-4c86-b6a8-ed89b863f67a",
+            "image": null,
+            "name": "Hamilton Beach Sure-Crisp Air Fryer",
+            "description": "The Hamilton Beach Sure-Crisp Air Fryer is designed to provide a healthy alternative to traditional frying, using hot air circulation to achieve a crispy texture with less oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "b4cbe5cb-9838-45c7-b23b-b2e19187cdb6",
+            "image": null,
+            "name": "Hamilton Beach Professional",
+            "description": "The Hamilton Beach Professional series of blenders is designed for both home and professional use, offering powerful blending capabilities and a variety of pre-programmed settings for convenience and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "26647801-3c58-4185-b12d-39010cf104f7",
+            "image": null,
+            "name": "Hamilton Beach Sure-Crisp",
+            "description": "The Hamilton Beach Sure-Crisp series features air fryers designed to provide a healthier cooking option by using hot air circulation to crisp food without the need for excess oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "8b2c4838-d8ee-446d-879d-daf7c63f6e07",
+            "image": null,
+            "name": "Hamilton Beach Professional Digital Kitchen Scale",
+            "description": "The Hamilton Beach Professional Digital Kitchen Scale is designed for precise measurement of ingredients, making it an essential tool for both home cooks and professional chefs. Its digital interface provides easy readability, ensuring accurate portion control for recipes and nutrition tracking.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "d789f450-b7fb-43ba-90e4-46a1640aae75",
+            "image": null,
+            "name": "FlexBrew Single Serve Coffee Maker",
+            "description": "The Hamilton Beach FlexBrew Single Serve Coffee Maker allows users to brew a single cup of coffee using either ground coffee or K-Cup pods, offering versatility and convenience for coffee lovers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "e1372de3-374b-4ce7-b41e-9c4b9b226b54",
+            "image": null,
+            "name": "Hamilton Beach Air Fryer Ovens",
+            "description": "The Hamilton Beach Air Fryer Ovens are designed to provide a healthier cooking option by using rapid air circulation to fry foods with little to no oil, offering a versatile cooking experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "e60306ee-4c6c-44c2-a2d0-2bd0dee4d7bb",
+            "image": null,
+            "name": "Hamilton Beach Professional Blenders",
+            "description": "The Hamilton Beach Professional Blenders series offers high-performance blenders designed for versatility in food preparation, featuring powerful motors and durable construction to handle a variety of blending tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "98cfafec-7f8c-4cf0-8662-6b0435d79403",
+            "image": null,
+            "name": "Hamilton Beach FlexBrew Coffee Maker",
+            "description": "The Hamilton Beach FlexBrew Coffee Maker offers versatile brewing options, allowing users to make a single cup or a full pot of coffee using ground coffee or pods.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "e052c61c-bbca-4d64-89a8-4edc8fd80a30",
+            "image": null,
+            "name": "Nuwave Brio",
+            "description": "The Nuwave Brio series includes air fryers designed for healthy cooking by circulating hot air around food to create a crispy texture without excess oil. This series emphasizes versatility and ease of use, making it suitable for a variety of cooking methods including frying, baking, grilling, and roasting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "bbf2d442-1622-4dbc-8fe3-54cfbe8f6d41",
+            "image": null,
+            "name": "Nuwave Brio 6QT Air Fryer",
+            "description": "The Nuwave Brio 6QT Air Fryer is a kitchen appliance designed to fry, bake, grill, and roast using hot air circulation, providing a healthier alternative to traditional frying methods.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "39ae3b84-70dc-4458-bea3-410a4be22044",
+            "image": null,
+            "name": "Nuwave Brio 14QT Air Fryer Oven",
+            "description": "The Nuwave Brio 14QT Air Fryer Oven is an innovative cooking appliance that combines multiple cooking functions, including air frying, baking, and roasting, designed for healthier cooking with less oil.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "6f4e0600-2d04-4950-ad31-fd5ad0a66e8f",
+            "image": null,
+            "name": "Nuwave Brio 6Qt Digital Air Fryer",
+            "description": "The Nuwave Brio 6Qt Digital Air Fryer is a kitchen appliance designed for healthier cooking by using hot air circulation to fry food with little to no oil. It features digital controls for precise cooking and a spacious 6-quart capacity, making it suitable for preparing meals for families or gatherings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "b8797227-45ad-4ea4-b73b-0462b654c449",
+            "image": null,
+            "name": "Nuwave Brio 14Qt Toaster Oven Air Fryer",
+            "description": "The Nuwave Brio 14Qt Toaster Oven Air Fryer is a versatile kitchen appliance that combines the functions of a toaster oven and air fryer, allowing for healthier cooking with less oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "45b344bc-7afb-4db5-9344-b87fea345939",
+            "image": null,
+            "name": "Nuwave Brio Air Fryer",
+            "description": "The Nuwave Brio Air Fryer is a versatile kitchen appliance designed to fry, bake, grill, and roast food using hot air circulation for healthier cooking options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "1dd7961b-a2f5-4644-8698-2247a04a703c",
+            "image": null,
+            "name": "Russell Hobbs 24730",
+            "description": "The Russell Hobbs 24730 is an air fryer designed to offer a healthier cooking alternative by using hot air circulation to cook food. It allows users to enjoy crispy and flavorful meals with minimal oil.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e451a4fa-9786-4f90-897b-578533163e1f",
+            "image": null,
+            "name": "Petit Bateau Spring/Summer 2020 Collection",
+            "description": "The Petit Bateau Spring/Summer 2020 Collection features comfortable and stylish kids' clothing designed for warm weather, emphasizing quality and durability for active play.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "c974586d-5977-4b01-9542-d244fd460aa3",
+            "image": null,
+            "name": "ATH-AR3BT",
+            "description": "The Audio-Technica ATH-AR3BT is a series of wireless over-ear headphones designed for high-quality sound and comfortable listening experiences. With Bluetooth connectivity, these headphones are tailored for both casual listeners and audiophiles seeking a versatile audio solution.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "427ba5aa-b030-4c55-93d4-d118a0b65ebb",
+            "image": null,
+            "name": "Ora Ballet Cat",
+            "description": "The Ora Ballet Cat is an electric vehicle produced by Great Wall Motors, known for its stylish design and eco-friendly performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "c38ebe65-659a-45e5-a1ef-854ec0ff0127",
+            "image": null,
+            "name": "Omen (2016)",
+            "description": "The Omen (2016) series consists of high-performance gaming laptops designed for immersive gaming experiences with powerful graphics and processing capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "1de76114-1330-422f-b2e4-6af660dc956a",
+            "image": null,
+            "name": "Petit Bateau x Jean Paul Gaultier",
+            "description": "The Petit Bateau x Jean Paul Gaultier series features stylish and playful kids' clothing that combines the timeless quality of Petit Bateau with the iconic designs of fashion designer Jean Paul Gaultier.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "4e87efe6-00cf-4ecf-b6f2-e428e32a7b38",
+            "image": null,
+            "name": "Turtle Wax Platinum Series",
+            "description": "The Turtle Wax Platinum Series is a line of premium car care products designed to provide advanced protection and a superior shine for automotive finishes.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "14943dd6-eece-4109-85f6-edd6d3817192",
+            "image": null,
+            "name": "ATH-EP700BT",
+            "description": "The Audio-Technica ATH-EP700BT headphones are wireless over-ear headphones designed for comfort and high-quality sound, making them ideal for music lovers on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "8a0c57df-6cd2-436c-a901-d0f98d4c42cc",
+            "image": null,
+            "name": "Tank 300",
+            "description": "The Great Wall Motors Tank 300 is an SUV that combines rugged off-road capabilities with modern design elements, targeting adventure enthusiasts seeking both performance and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "200d5793-4f94-4185-97c9-6dfb7e298b0f",
+            "image": null,
+            "name": "Mothers Reflector",
+            "description": "Mothers Reflector is a series of car care products designed to provide exceptional shine and protection for automotive surfaces. Launched in 2001, these products are formulated to enhance the appearance of vehicles while ensuring durability.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "4c2f42e5-77c8-45ea-8461-28ad204ac985",
+            "image": null,
+            "name": "Godrej Smart Chill",
+            "description": "The Godrej Smart Chill series offers a range of refrigerators designed for efficient cooling and energy conservation, making them ideal for modern kitchens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "cffb6bcb-59c4-4b34-847b-3ee2b72e5486",
+            "image": null,
+            "name": "Omen 15 (2020)",
+            "description": "The Omen 15 (2020) is a high-performance gaming laptop designed for gamers who demand strong performance and sleek portability. It features powerful hardware components tailored to enhance the gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "27c437f4-5ad1-4b50-a9d2-62e782153e23",
+            "image": null,
+            "name": "Godrej Series 7 Washing Machines",
+            "description": "The Godrej Series 7 Washing Machines are designed for efficient laundry care, combining modern technology with user-friendly features to ensure a thorough and gentle wash for various fabric types.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "0247711f-8834-4b8c-8d0b-a0717bfb819c",
+            "image": null,
+            "name": "Rogue Echo Bar",
+            "description": "The Rogue Echo Bar is a versatile barbell designed for various strength training exercises, known for its durable construction and excellent grip, making it suitable for both beginners and advanced lifters.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "5324d489-5691-417b-a1d6-c5c60e69ad62",
+            "image": null,
+            "name": "Godrej Series 5",
+            "description": "The Godrej Series 5 washing machines are designed to provide efficient and effective cleaning solutions, incorporating advanced technology for convenient and reliable laundry care.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "b054bbaf-34ed-4c09-b8a3-25095d108a6c",
+            "image": null,
+            "name": "Dooky Sun & Sleep Cover",
+            "description": "The Dooky Sun & Sleep Cover is a multifunctional stroller accessory designed to provide shade and privacy for your child while in a stroller. It offers protection against sun, wind, and insects, enhancing comfort during outings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Dooky"
+            }
+        },
+        {
+            "id": "1500aa7c-181b-41c6-b6a0-52adb8d6cd7f",
+            "image": null,
+            "name": "Turtle Wax T-1",
+            "description": "Turtle Wax T-1 is a line of car care products designed to provide a high level of shine and protection for automotive surfaces, featuring easy-to-apply formulas that cater to the needs of car enthusiasts and regular consumers alike.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "c4887424-3ce0-49d3-b738-c0a2aa62019e",
+            "image": null,
+            "name": "Aprilia Tuono V4 1100 RR",
+            "description": "The Aprilia Tuono V4 1100 RR is a high-performance naked motorcycle known for its powerful V4 engine, advanced electronics, and agile handling, designed for both track and street use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "5d0c27af-d380-4627-9fe4-98265bb50906",
+            "image": null,
+            "name": "Billybandit Fall/Winter 2016 Collection",
+            "description": "The Billybandit Fall/Winter 2016 Collection offers a range of stylish and comfortable clothing designed for children, focusing on playful designs and practical functionality suitable for the colder months.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Billybandit"
+            }
+        },
+        {
+            "id": "57c57d89-31b8-4639-9485-8387b3a19b4a",
+            "image": null,
+            "name": "Turtle Wax Max",
+            "description": "The Turtle Wax Max series offers a variety of car care products designed to provide exceptional shine and protection for automotive surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "8c7aec27-18a7-46a7-bc5b-39e5bd5e90bd",
+            "image": null,
+            "name": "Peugeot 308 II",
+            "description": "The Peugeot 308 II is a compact car that focuses on delivering a blend of style, efficiency, and advanced technology, making it suitable for both urban and long-distance driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "fdd2e694-c45e-49b4-a0d3-436defca60cf",
+            "image": null,
+            "name": "Omen 27i Monitor",
+            "description": "The Omen 27i Monitor is a high-performance gaming display designed to provide an immersive visual experience with its fast refresh rates and vibrant colors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "6a07a6a8-bdc0-44c3-a8e1-f6234be9d66c",
+            "image": null,
+            "name": "Sector 9 Longboards",
+            "description": "The Sector 9 Longboards series offers a range of skateboards designed for cruising, transport, and carving with stability and style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "46dee1a6-f700-4a3b-8c86-ad21b3eed409",
+            "image": null,
+            "name": "Aprilia Tuono V4 1100 Factory",
+            "description": "The Aprilia Tuono V4 1100 Factory is a high-performance naked motorcycle known for its powerful V4 engine and advanced electronics, designed for both road and track use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "52e0a04d-caa3-4168-b4d9-10528a6b0a23",
+            "image": null,
+            "name": "Rogue Fitness Echo Bike",
+            "description": "The Rogue Fitness Echo Bike is an air bike designed for high-intensity workouts, featuring a sturdy construction and a fan-based resistance system that provides an efficient workout for both strength and cardio training.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "bc4b057c-8878-44ff-8013-ef855c3d11eb",
+            "image": null,
+            "name": "Magnetic World",
+            "description": "The Janod Magnetic World series offers a collection of interactive and educational toys that encourage imaginative play and the development of fine motor skills through magnetic components and playful designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Janod"
+            }
+        },
+        {
+            "id": "870c861f-6c39-4cd8-8eac-08eb0bc40a3b",
+            "image": null,
+            "name": "Aprilia Dorsoduro 900",
+            "description": "The Aprilia Dorsoduro 900 is a versatile motorcycle designed for both urban commuting and spirited riding. It features a powerful engine and a lightweight chassis, providing a balance of performance and agility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "916f1eab-26a7-4859-a333-f27f539163dd",
+            "image": null,
+            "name": "Rogue RM-6 Rack",
+            "description": "The Rogue RM-6 Rack is a versatile and heavy-duty power rack designed for home and commercial gym settings, providing a stable platform for weightlifting and strength training exercises.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "8c503194-8dee-498b-b163-a6c6341d2f13",
+            "image": null,
+            "name": "Rogue Monster Lite Rack Series",
+            "description": "The Rogue Monster Lite Rack Series offers a versatile and durable strength training solution designed for home and gym use, featuring adjustable heights and compatibility with various attachments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "60d4a9a5-f3a2-4eac-a0f4-9df460de4b5d",
+            "image": null,
+            "name": "Turtle Wax Premium Car Wash",
+            "description": "Turtle Wax Premium Car Wash is a high-quality car cleaning solution designed to effectively remove dirt and grime while enhancing shine and protection. It is suitable for all vehicle types and formulated to work safely on all surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "4361d6f4-013a-48b3-b34d-5e03c31fb089",
+            "image": null,
+            "name": "LEGO City: Jungle series",
+            "description": "The LEGO City: Jungle series allows children to explore the adventures of the jungle through imaginative play, featuring vehicles, animals, and explorer minifigures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        }
+    ]
+}

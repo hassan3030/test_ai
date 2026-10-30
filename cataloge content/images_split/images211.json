@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "07b4c616-c48a-4676-999e-6e194c900800",
+            "image": null,
+            "name": "Radio Flyer Classic Red Dual Deck Tricycle",
+            "description": "The Radio Flyer Classic Red Dual Deck Tricycle is a timeless children's tricycle designed for durability and stability, encouraging outdoor play and active movement.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "b2d404a7-7c45-4e1f-b766-b086d1d1e625",
+            "image": null,
+            "name": "Galt Toys Art & Craft",
+            "description": "The Galt Toys Art & Craft series offers a variety of engaging and creative projects designed to inspire children's artistic abilities while promoting hands-on learning and imaginative play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Galt"
+            }
+        },
+        {
+            "id": "e8ac1a43-bb5b-4a39-9ef2-8a9f863594b2",
+            "image": null,
+            "name": "Garanimals Mix and Match",
+            "description": "Garanimals Mix and Match is a line of children's clothing designed to encourage creativity and self-expression by allowing kids to mix and match various outfits easily. The series offers a wide variety of playful patterns and colors, making it fun for children to choose their wardrobe.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Garanimals"
+            }
+        },
+        {
+            "id": "9f697a4a-6f2d-411f-a3df-8ad34c144930",
+            "image": null,
+            "name": "Kenzo Kids Spring/Summer 2017 Collection",
+            "description": "The Kenzo Kids Spring/Summer 2017 Collection features vibrant, playful designs aimed at children, showcasing a blend of comfort and stylish aesthetics suitable for warm weather.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "4e0fdc6f-f6ed-4e35-b4fc-18616e4059dd",
+            "image": null,
+            "name": "Kenzo Kids Fall/Winter 2017 Collection",
+            "description": "The Kenzo Kids Fall/Winter 2017 Collection features a vibrant array of children's clothing designed to blend playful designs with high-quality materials, catering to the comfort and style of young wearers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "999142b3-e785-499b-81bb-d9cffff6e1cb",
+            "image": null,
+            "name": "Kenzo Kids Spring/Summer 2021 Collection",
+            "description": "The Kenzo Kids Spring/Summer 2021 Collection features vibrant and playful clothing designed for children, incorporating bold colors and imaginative patterns. It aims to provide stylish and comfortable outfits suitable for warm weather wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "ae72b865-6444-478a-a614-7be431b9a8af",
+            "image": null,
+            "name": "Kenzo Kids Fall/Winter 2021 Collection",
+            "description": "The Kenzo Kids Fall/Winter 2021 Collection features a vibrant selection of clothing designed for children, emphasizing playful designs and high-quality materials that ensure comfort and style during the colder months.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "5ccd0bd3-4560-4d79-a526-5a8548394934",
+            "image": null,
+            "name": "Dyson V8",
+            "description": "The Dyson V8 is a cordless vacuum cleaner known for its strong suction power, versatility, and ease of use. Launched in 2016, it is designed to effectively capture fine dust and large debris on various surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dyson"
+            }
+        },
+        {
+            "id": "af9c41e6-cf9c-44f6-9ea5-4ca859891f3b",
+            "image": null,
+            "name": "Dyson V10",
+            "description": "The Dyson V10 series is a cordless vacuum cleaner designed for powerful suction and versatility in cleaning different surfaces. It features advanced technology for efficient dust and particle removal.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dyson"
+            }
+        },
+        {
+            "id": "53244c17-720b-4fa1-bdb6-5c85c3120371",
+            "image": null,
+            "name": "Dyson V11",
+            "description": "The Dyson V11 is a cordless vacuum cleaner known for its powerful suction and intelligent motor, designed to provide thorough cleaning on various surfaces with real-time performance monitoring.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dyson"
+            }
+        },
+        {
+            "id": "da07a2ac-14ea-41ed-bb83-5163d59368d2",
+            "image": null,
+            "name": "Dyson V15 Detect",
+            "description": "The Dyson V15 Detect is a cordless vacuum cleaner designed for deep cleaning with intelligent technology that reveals microscopic dust and particles. It features advanced laser detection and powerful suction for an efficient cleaning experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dyson"
+            }
+        },
+        {
+            "id": "cece8f19-65e2-4723-b06f-d706204b040d",
+            "image": null,
+            "name": "Beko RCNE560E40ZP Refrigerator",
+            "description": "The Beko RCNE560E40ZP Refrigerator is a side-by-side refrigerator designed to provide ample storage space and innovative cooling technology, ensuring your food remains fresh for longer.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Beko"
+            }
+        },
+        {
+            "id": "b7d14d38-ed93-49ad-b31b-efdebadab0a1",
+            "image": null,
+            "name": "Vitamix Ascent Series",
+            "description": "The Vitamix Ascent Series is a line of high-performance blenders designed for both home and professional use, featuring advanced technology for precise blending and easy cleanup.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "7e243eb8-2659-40a3-967b-f3886142a67a",
+            "image": null,
+            "name": "Vitamix Explorian Series",
+            "description": "The Vitamix Explorian Series offers versatile, high-performance blenders designed for a range of blending tasks, including smoothies, soups, and more, with a focus on durability and user-friendly features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "d44418d7-a15c-413e-9389-7566a3230934",
+            "image": null,
+            "name": "Krups XP3440",
+            "description": "The Krups XP3440 is an espresso machine designed for home use, offering a combination of sleek design and easy functionality for coffee enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "aec81262-1fa2-4020-8e66-fe111a76b3ca",
+            "image": null,
+            "name": "Krups Evidence",
+            "description": "The Krups Evidence series consists of high-end coffee machines designed for coffee enthusiasts, offering a variety of customizable brewing options and advanced features for a tailor-made coffee experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "c4d5170d-1aea-4ff5-b91a-7049f4accbb7",
+            "image": null,
+            "name": "Krups Arabica",
+            "description": "The Krups Arabica series offers versatile coffee machines designed to brew high-quality coffee while allowing users to customize their settings for a personalized experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "bb8752b4-1325-4f4f-b771-b1b45d4df9c4",
+            "image": null,
+            "name": "Krups Simply Brew",
+            "description": "The Krups Simply Brew series offers a user-friendly coffee machine designed to simplify the brewing process while delivering rich, flavorful coffee.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "9d91f942-8f7a-468e-b7f0-d4593494b19f",
+            "image": null,
+            "name": "Krups Evidence Plus",
+            "description": "The Krups Evidence Plus series consists of fully automatic coffee machines designed to offer a variety of coffee specialties at the touch of a button, merging convenience with high-quality brewing.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "0eef48cf-05c2-4412-8356-ebc056df3301",
+            "image": null,
+            "name": "Krups Espresso Machine XP3208",
+            "description": "The Krups Espresso Machine XP3208 is a compact coffee machine designed for home use, allowing users to easily prepare espresso and coffee drinks with precision and convenience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "abca1bf1-f577-4e45-b62f-a522eff87276",
+            "image": null,
+            "name": "Krups Simply Brew Coffee Maker",
+            "description": "The Krups Simply Brew Coffee Maker is designed for simplicity and efficiency, allowing users to brew fresh coffee with minimal effort. This coffee machine is ideal for daily use, offering a straightforward and reliable brewing experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "1f359db2-5698-44ed-acfb-b31ddfcaf2cf",
+            "image": null,
+            "name": "Krups Prodigio Coffee Machine",
+            "description": "The Krups Prodigio Coffee Machine is a versatile appliance designed for coffee enthusiasts, featuring advanced brewing technology and customizable settings for a personalized coffee experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "5164baea-d912-48b5-a6d2-cd39808a531c",
+            "image": null,
+            "name": "Integrated Refrigeration Series",
+            "description": "The Fisher & Paykel Integrated Refrigeration Series offers a seamless design that allows for customized kitchen integration while providing advanced cooling technology for optimal food preservation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "bb6798e1-9a5d-44ad-b1cc-0ba7aa08a2e9",
+            "image": null,
+            "name": "Washing Machines Series 7",
+            "description": "Fisher & Paykel's Washing Machines Series 7 offer advanced washing technology designed to efficiently clean your laundry while being gentle on fabrics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "4e8699a1-d22f-42be-a11d-cef971e7175f",
+            "image": null,
+            "name": "Fisher & Paykel Serie 9 Dishwashers",
+            "description": "Fisher & Paykel Serie 9 Dishwashers are designed to provide efficient and quiet cleaning, incorporating advanced features for ease of use and optimal performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "60bce0fd-ad1f-4bb8-912a-2c21c6970451",
+            "image": null,
+            "name": "Maytag Bravos XL",
+            "description": "The Maytag Bravos XL series consists of high-efficiency washing machines designed to handle larger loads, while delivering effective cleaning performance and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "94bccc4b-fb23-45f9-ae46-2f2a826907d6",
+            "image": null,
+            "name": "Maytag® 9000 Series",
+            "description": "The Maytag® 9000 Series washing machines are designed to provide efficient and powerful cleaning performance, featuring advanced technology that helps tackle tough stains and reduce wash times.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "2c8b83ca-1de1-4684-a56a-f24113577838",
+            "image": null,
+            "name": "Maytag® Top Load Washers",
+            "description": "The Maytag® Top Load Washers are designed for efficient and powerful cleaning performance, offering robust features to tackle tough stains and various fabrics effectively.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "e391b544-24d8-48c6-911c-7be986e59bec",
+            "image": null,
+            "name": "Maytag® Front Load Washers",
+            "description": "The Maytag® Front Load Washers offer efficient cleaning performance with advanced technology, designed to handle large loads and provide long-lasting durability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "d5aae915-a8ff-4982-ae3e-bd1f10912a00",
+            "image": null,
+            "name": "Maytag® Smart Fill Washer",
+            "description": "The Maytag® Smart Fill Washer is a high-efficiency washing machine designed to automatically adjust water levels based on load size, ensuring optimal cleaning while conserving resources.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        }
+    ]
+}

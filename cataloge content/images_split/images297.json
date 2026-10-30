@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "6e10a54f-5f19-431a-858d-9deda3c1744c",
+            "image": null,
+            "name": "KTM 1190 Adventure R",
+            "description": "The KTM 1190 Adventure R is a versatile adventure motorcycle designed for both on-road and off-road riding, offering powerful performance, advanced technology, and rugged durability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "4e4e2e31-63ce-41cb-b3ba-c214dd3e7dc8",
+            "image": null,
+            "name": "Mini Rodini Summer Collection 2019",
+            "description": "The Mini Rodini Summer Collection 2019 features stylish and comfortable kids' clothing designed with playful patterns and sustainable materials, perfect for warm-weather adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "5b4e47f7-cbe9-4382-9a2f-c47afdeb724f",
+            "image": null,
+            "name": "JBL Link Portable",
+            "description": "The JBL Link Portable is a portable smart speaker that combines high-quality audio performance with voice assistance capabilities, allowing users to listen to music and control smart home devices hands-free.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "a2a64386-c249-49c3-9636-620bbff32363",
+            "image": null,
+            "name": "Fellow Ode Brew Grinder",
+            "description": "The Fellow Ode Brew Grinder is a precision coffee grinder designed specifically for pour-over and immersion brewing methods, featuring grind size consistency and multiple settings for the coffee enthusiast.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Fellow"
+            }
+        },
+        {
+            "id": "6afca1cc-d4cb-45d2-a727-257f87fb7b93",
+            "image": null,
+            "name": "Chevrolet City Express",
+            "description": "The Chevrolet City Express is a compact cargo van designed for urban environments, providing efficient transport solutions for small businesses and city driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "6e444e86-3b76-4406-b384-73e7f84a5abb",
+            "image": null,
+            "name": "Folding Chair",
+            "description": "The Snow Peak Folding Chair series is designed for outdoor use, providing comfort and convenience for campers and outdoor enthusiasts. Its lightweight, compact design allows for easy transport and setup.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "12ca0bc7-c12b-4c28-be38-d7a32721de88",
+            "image": null,
+            "name": "BenQ ZOWIE XL2735",
+            "description": "The BenQ ZOWIE XL2735 is a high-performance gaming monitor designed for competitive gamers, featuring a 27-inch screen with a fast refresh rate and low input lag for enhanced gameplay experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "9bd991c8-6f62-41ce-9139-4d1757a3dc8a",
+            "image": null,
+            "name": "Blendtec Total Blender Classic",
+            "description": "The Blendtec Total Blender Classic is a high-performance blender designed for a variety of tasks such as blending, puréeing, and mixing. It features a powerful motor and pre-programmed cycles for consistent results.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "d49ca8c5-3ee5-4b7f-9fdf-0b31602a5288",
+            "image": null,
+            "name": "NYXL Series",
+            "description": "The D'Addario NYXL Series comprises high-quality guitar strings designed to provide enhanced tuning stability, increased attack, and extended longevity compared to traditional strings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "02ce59d5-aea1-4e7a-b28a-df35ab8e5f75",
+            "image": null,
+            "name": "Finesse",
+            "description": "The Aprica Finesse series offers lightweight strollers designed for ease of use and comfort for both parents and children, featuring a compact fold for convenient transport.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "9db29723-aa58-4127-ac07-e0a2d56f49e6",
+            "image": null,
+            "name": "Longines Master Collection",
+            "description": "The Longines Master Collection is a series of elegant and timeless watches that combine traditional craftsmanship with contemporary design. It showcases Longines' expertise in mechanical watchmaking and features a variety of complications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Longines"
+            }
+        },
+        {
+            "id": "901bdec9-0517-4ebd-847b-2dd7b9dee1a8",
+            "image": null,
+            "name": "Skoda Superb",
+            "description": "The Skoda Superb is a mid-size executive car produced by Skoda Auto, first launched in 2005. It is known for its spacious interior, advanced safety features, and efficient performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "1abac202-dde2-4b31-90e1-d0c8e6c6de85",
+            "image": null,
+            "name": "Proctor Silex 46311",
+            "description": "The Procter Silex 46311 is a coffee machine designed for simplicity and convenience, offering a straightforward brewing experience for coffee lovers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "9e686352-8653-432e-8d18-e05655962fc5",
+            "image": null,
+            "name": "BenQ Zowie XL2566K",
+            "description": "The BenQ Zowie XL2566K is a high-performance gaming monitor designed for competitive esports players, featuring a fast refresh rate and customizable settings for enhanced gameplay.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "06de6b9a-6a3c-48b6-ae69-c64414f63fcf",
+            "image": null,
+            "name": "Škoda Octavia (3rd Generation)",
+            "description": "The Škoda Octavia (3rd Generation) is a compact car produced by Skoda Auto, known for its spacious interior, practicality, and reliability, making it a popular choice for families and commuters alike.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "c2cfcde4-6e78-46d2-9d96-1daf131f0f44",
+            "image": null,
+            "name": "Chery QQ6",
+            "description": "The Chery QQ6 is a compact city car that was designed for urban driving, offering a balance of affordability and efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "e573e4b7-ea9a-426f-a603-c7439c48084e",
+            "image": null,
+            "name": "DrivePro Body 30",
+            "description": "The Transcend Information DrivePro Body 30 is a body-worn camera designed for capturing video evidence in various environments. Its key traits include a durable design, high-resolution video recording, and user-friendly operation, making it suitable for law enforcement and security personnel.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Transcend Information"
+            }
+        },
+        {
+            "id": "cd385efd-6013-4c9f-bf63-03709c72482d",
+            "image": null,
+            "name": "Penny Original Series",
+            "description": "The Penny Original Series features compact, lightweight skateboards designed for easy transportation and a smooth ride. Ideal for both beginners and experienced skaters, these boards are recognized for their distinctive shapes and vibrant colors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "0ab358b4-ab2a-4020-8ef0-4797b838f883",
+            "image": null,
+            "name": "Chery Fulwin 2",
+            "description": "The Chery Fulwin 2 is a compact car designed for urban commuting, offering an economical option for drivers seeking practicality and reliability in their everyday transportation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "e23fda68-c114-4cfc-a35b-93eb4369693c",
+            "image": null,
+            "name": "Mini Rodini SS17 Collection",
+            "description": "The Mini Rodini SS17 Collection features playful and stylish clothing for children, designed with sustainability and quality in mind. This collection emphasizes colorful prints and creative designs, perfect for imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "9a58d3bb-75b0-49b7-a567-0cfbe3fa141f",
+            "image": null,
+            "name": "Moto Guzzi Griso 1200 8V SE",
+            "description": "The Moto Guzzi Griso 1200 8V SE is a modern cruiser motorcycle known for its distinctive styling and performance, blending Italian craftsmanship with innovative engineering.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "b62a09ef-47b2-4324-8ec8-458a6cd7f7f9",
+            "image": null,
+            "name": "Zutano Print Collection",
+            "description": "The Zutano Print Collection offers a variety of colorful and playful clothing designed for children, focusing on comfort and ease of movement.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zutano"
+            }
+        },
+        {
+            "id": "4ff1092e-8afb-41f4-9e0a-bc00cf8f59f4",
+            "image": null,
+            "name": "Chevrolet Uplander",
+            "description": "The Chevrolet Uplander is a multi-purpose vehicle introduced in 2005, designed to provide family-oriented features with spacious interiors and versatile seating arrangements.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "765e94b9-f2a9-4e47-81b3-e9fc3dffd954",
+            "image": null,
+            "name": "Mini Rodini x National Geographic",
+            "description": "The Mini Rodini x National Geographic series features sustainable kids' clothing designed with vibrant prints inspired by nature and wildlife, promoting environmental awareness among young consumers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "ec5fca02-1e42-44ea-999f-9fb7a96a2d7c",
+            "image": null,
+            "name": "Field Bar Table",
+            "description": "The Snow Peak Field Bar Table is a portable and lightweight camping table designed for outdoor use, providing a convenient surface for meal preparation and dining in nature.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "230144e5-adfb-4d68-a587-ecf4e109e04f",
+            "image": null,
+            "name": "JBL Tune Series",
+            "description": "The JBL Tune Series includes a range of headphones designed to provide high-quality sound and comfortable listening experiences, making them ideal for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "e3889c19-bc06-4c4f-9066-c9439c4fb801",
+            "image": null,
+            "name": "Stagg EKG Electric Pour-over Kettle",
+            "description": "The Fellow Stagg EKG Electric Pour-over Kettle is designed for precision and control while brewing coffee, featuring a variable temperature control and pour spout for optimal extraction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Fellow"
+            }
+        },
+        {
+            "id": "fe184d5a-9811-4b6f-9ccf-5ee06da4056e",
+            "image": null,
+            "name": "Holbein Artist Oil Colors",
+            "description": "Holbein Artist Oil Colors are a professional-grade oil paint series known for their vibrant colors and high pigment concentration, offering artists excellent handling and blending capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Holbein"
+            }
+        },
+        {
+            "id": "c5329278-181a-46a4-8f13-07a83a45d5b6",
+            "image": null,
+            "name": "Proctor Silex 46300",
+            "description": "The Proctor Silex 46300 is a coffee machine designed for brewing a convenient and tasty cup of coffee, ideal for home use. It features a user-friendly interface, making it easy to prepare coffee quickly.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "aea6fb56-b876-4487-bcd0-a16ce4e15a78",
+            "image": null,
+            "name": "Copic Wide Markers",
+            "description": "Copic Wide Markers are high-quality, professional-grade markers designed for artists, offering a wide chisel tip for bold strokes and blends. They are refillable and compatible with Copic ink, making them a sustainable choice for continuous use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        }
+    ]
+}

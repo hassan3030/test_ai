@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "972ee053-9043-4521-824a-66103649e3c6",
+            "image": null,
+            "name": "Fire HD 8 (10th Gen)",
+            "description": "The Amazon Fire HD 8 (10th Gen) is a versatile tablet designed for entertainment, web browsing, and productivity. It features a vibrant display, access to a wide range of apps, and Alexa integration for hands-free assistance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "a66a8fc7-0d26-4f09-998a-6dbb02b8b56b",
+            "image": null,
+            "name": "Fire HD 10 (11th Gen)",
+            "description": "The Amazon Fire HD 10 (11th Gen) is a versatile tablet designed for entertainment and productivity, featuring a vibrant display and access to a wide range of apps and content.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "8741f875-d889-496e-9fba-206bd1a434cb",
+            "image": null,
+            "name": "Echo Show 10",
+            "description": "The Amazon Echo Show 10 is a smart display device that combines Alexa's voice control capabilities with a touchscreen interface, offering convenient access to information, entertainment, and smart home management.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "a142d1a9-ab44-47ee-9df9-81e40d6d372d",
+            "image": null,
+            "name": "Suunto 9 Baro",
+            "description": "The Suunto 9 Baro is a high-performance smart watch designed for outdoor enthusiasts, featuring GPS navigation, heart rate monitoring, and a long battery life suitable for extended adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "41ce0ecb-fb17-4200-bf8c-9fc3d036c5ef",
+            "image": null,
+            "name": "Suunto 7",
+            "description": "The Suunto 7 is a versatile smartwatch that combines sports tracking features with smartwatch capabilities, designed for both fitness enthusiasts and everyday users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "cdd946c2-6fea-4f8f-994a-349d2e80a3b7",
+            "image": null,
+            "name": "Guitar Center Exclusive Gibson Les Paul Standard '50s",
+            "description": "The Guitar Center Exclusive Gibson Les Paul Standard '50s is a premium electric guitar that embodies the classic design and tonal qualities of the original Les Paul guitars from the 1950s, aimed at offering musicians a blend of vintage aesthetics and modern performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guitar Center"
+            }
+        },
+        {
+            "id": "d355302e-d853-4d3d-b5cc-9a5c3dcf3c0f",
+            "image": null,
+            "name": "2020 Jeep Gladiator",
+            "description": "The 2020 Jeep Gladiator is a midsize pickup truck that combines the rugged capability of Jeep's off-road lineage with the practicality of a truck, designed for both adventure and daily utility.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "4e4dec61-1a5a-42fd-9408-c233dc563054",
+            "image": null,
+            "name": "2020 Jeep Wrangler",
+            "description": "The 2020 Jeep Wrangler is a rugged SUV designed for off-road capabilities and versatile performance, combining classic styling with modern technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "f8691651-5be2-42eb-821f-40b821d6d465",
+            "image": null,
+            "name": "Jeep Grand Cherokee (WL)",
+            "description": "The Jeep Grand Cherokee (WL) is a full-size SUV known for its off-road capabilities and luxurious interior, designed to provide both rugged performance and comfort for families and adventurers alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "1318b544-8493-4ecf-af45-074bb49e056d",
+            "image": null,
+            "name": "2023 Jeep Grand Cherokee 4xe",
+            "description": "The 2023 Jeep Grand Cherokee 4xe is a plug-in hybrid SUV that combines the legendary off-road capability of the Grand Cherokee with advanced hybrid technology for improved efficiency and reduced emissions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "e015afa1-8e5c-4685-9066-7a3cce354b64",
+            "image": null,
+            "name": "Chrysler Crossfire",
+            "description": "The Chrysler Crossfire is a two-door sports coupe and roadster that was produced from 2003 to 2008. It is known for its distinctive design, rear-wheel drive layout, and a focus on performance and style.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "85fcf133-5876-44da-ad7a-cc4b46130c48",
+            "image": null,
+            "name": "Chrysler Dodge Charger",
+            "description": "The Chrysler Dodge Charger is a full-size sedan known for its powerful engine options, spacious interior, and performance-oriented handling, making it a popular choice among driving enthusiasts and families alike.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "80ec6395-9e43-48c9-bf94-01d11c8e0ac6",
+            "image": null,
+            "name": "Infinix Hot 4",
+            "description": "The Infinix Hot 4 is a budget smartphone launched in 2016, designed to provide essential features and performance at an affordable price.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "040f9222-27bd-44ac-9a77-7f578e434b51",
+            "image": null,
+            "name": "Infinix Note 5",
+            "description": "The Infinix Note 5 is a smartphone released in 2018, known for its large display, powerful battery, and camera capabilities, aimed at providing an affordable user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "86715963-d3ec-4505-8134-13103126f3ad",
+            "image": null,
+            "name": "Infinix Hot 8",
+            "description": "The Infinix Hot 8 is a budget smartphone series launched in 2019, designed to offer essential features and a satisfactory user experience at an affordable price.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "27e0af8f-9522-4ade-aac8-a67d175cd80f",
+            "image": null,
+            "name": "Poco F2 Pro",
+            "description": "The Poco F2 Pro is a smartphone that offers high-end specifications and performance at a competitive price, making it ideal for users seeking flagship features without the premium cost.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "990baa61-55c8-46ed-b3e2-50b83fdc9665",
+            "image": null,
+            "name": "Poco M3",
+            "description": "The Poco M3 is a budget smartphone released in 2020, known for its large display, long battery life, and competitive performance in its price segment.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "1f2e3fef-9f03-4d45-a243-78bd70110ee1",
+            "image": null,
+            "name": "Poco F4 GT",
+            "description": "The Poco F4 GT is a high-performance smartphone designed for gaming enthusiasts, featuring a powerful processor, advanced cooling technology, and a display optimized for an immersive gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "97983a77-339e-406d-a25f-04de07c32d9b",
+            "image": null,
+            "name": "Gionee M6",
+            "description": "The Gionee M6 is a smartphone series released in 2016, known for its emphasis on security and battery performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "060b2344-1e44-48f4-8cb3-59607022c1ae",
+            "image": null,
+            "name": "Intel Core i5-7600K",
+            "description": "The Intel Core i5-7600K is a quad-core processor that belongs to Intel's seventh-generation Core family, designed for gaming and general computing tasks, offering a balance between performance and power consumption.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "201ac8ff-cf38-4587-b59a-11f232bf39ca",
+            "image": null,
+            "name": "Intel Pentium Silver and Celeron Processors",
+            "description": "The Intel Pentium Silver and Celeron Processors are entry-level microprocessors designed for basic computing tasks, offering efficient performance for everyday applications such as web browsing and office productivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "d6a42668-3c1f-4442-808f-6c8b9f95b3f8",
+            "image": null,
+            "name": "Intel 11th Gen Core Processors",
+            "description": "The Intel 11th Gen Core Processors are a series of CPUs designed to deliver enhanced performance, efficiency, and integrated graphics capabilities for desktop and laptop computers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "1337ea21-4762-47eb-ac50-6d798b6c21ae",
+            "image": null,
+            "name": "Intel Xeon Scalable Processors (3rd Gen)",
+            "description": "The Intel Xeon Scalable Processors (3rd Gen) are designed for data centers and enterprise-level applications, offering improved performance, scalability, and security for demanding workloads.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "6186cf38-8341-41f0-a787-ec04f56d255f",
+            "image": null,
+            "name": "Fire TV Stick Lite",
+            "description": "The Amazon Fire TV Stick Lite is a streaming media player designed to provide access to various video streaming services and apps through a simple, handheld remote control. It offers an easy way to upgrade any TV to smart capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "f8bc1b56-60e8-4fc0-af53-fd9706a3ffec",
+            "image": null,
+            "name": "Kindle (11th Generation)",
+            "description": "The Amazon Kindle (11th Generation) is a lightweight e-reader designed for a comfortable reading experience with a glare-free display and adjustable front light, making it suitable for reading in various lighting conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "bf96c407-e5de-41ba-878f-8650d3eead28",
+            "image": null,
+            "name": "Ring Video Doorbell Wired",
+            "description": "The Ring Video Doorbell Wired is a smart home security device that allows users to monitor their front door through a wired video connection, providing high-definition video and two-way audio communication.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "6f40f5e5-11d1-4742-8416-cd6fa9c857ea",
+            "image": null,
+            "name": "Tado Smart AC Control",
+            "description": "The Tado Smart AC Control is a smart home device designed to remotely control air conditioning units via a smartphone app, enhancing comfort and energy efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Tado"
+            }
+        },
+        {
+            "id": "f124500d-2ddc-4f83-b37f-f7b583fcb2b9",
+            "image": null,
+            "name": "Tado Smart Thermostat",
+            "description": "The Tado Smart Thermostat is a smart home device designed to optimize heating and cooling in residential spaces, providing users with energy savings and remote control capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Tado"
+            }
+        },
+        {
+            "id": "2f95e51c-baa5-47eb-bc36-fab0d0903d09",
+            "image": null,
+            "name": "Maui Jim Koki Beach",
+            "description": "The Maui Jim Koki Beach series features high-quality sunglasses designed to provide exceptional UV protection and clarity while offering a lightweight, comfortable fit for outdoor activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "b10a3c64-ac80-4bf1-9f33-762c96cd862a",
+            "image": null,
+            "name": "Jeep Cherokee (2019)",
+            "description": "The Jeep Cherokee (2019) is a mid-size SUV known for its combination of rugged off-road capability and comfortable everyday driving. It features a spacious interior and advanced technology, making it suitable for both adventure and daily commuting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        }
+    ]
+}

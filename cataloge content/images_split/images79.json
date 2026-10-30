@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "9408f88f-8c85-4a0e-bbe7-5b758dc22a73",
+            "image": null,
+            "name": "Acura TLX",
+            "description": "The Acura TLX is a luxury sedan that combines performance, comfort, and advanced technology, designed to cater to the needs of discerning drivers.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "9a4422c7-c2cc-49ea-8df2-213cd6cd9f90",
+            "image": null,
+            "name": "Infiniti QX4",
+            "description": "The Infiniti QX4 is a mid-size luxury SUV that blends off-road capability with refined comfort and premium features, designed to cater to both urban and adventurous driving experiences.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "9ea4c6a6-19dd-475f-958f-933f7c5af538",
+            "image": null,
+            "name": "Acura MDX (2011 Generation)",
+            "description": "The Acura MDX (2011 Generation) is a midsize luxury SUV known for its spacious interior, advanced technology features, and strong performance, making it an ideal choice for families and individuals seeking comfort and versatility.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "a1a3ff26-a662-40f6-99cf-c01cdd08307e",
+            "image": null,
+            "name": "MDX",
+            "description": "The Acura MDX is a mid-size luxury SUV that combines spacious interior comfort with strong performance and advanced technology features, designed for families and individuals seeking a refined driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "ad507a0f-d92b-4f50-ad00-480371be6b56",
+            "image": null,
+            "name": "Jaguar XF 2021 Model Year",
+            "description": "The Jaguar XF 2021 Model Year is a luxury midsize sedan that combines performance, style, and advanced technology, aimed at providing a refined driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c08d1868-bbfe-48fb-a4b6-743550df0fc7",
+            "image": null,
+            "name": "Infiniti QX56",
+            "description": "The Infiniti QX56 is a full-size luxury SUV that emphasizes comfort, spaciousness, and advanced technology, designed to cater to families and individuals seeking a premium driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "c8bfaa78-642d-4e3d-ab64-11e31c8f38cc",
+            "image": null,
+            "name": "Acura RDX",
+            "description": "The Acura RDX is a compact luxury SUV introduced in 2006, known for its blend of performance, comfort, and advanced technology features.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "12604802-47c7-4a83-93b5-152f090ecb6e",
+            "image": null,
+            "name": "Infiniti M45",
+            "description": "The Infiniti M45 is a luxury sedan that was part of Infiniti's M series, designed to offer a blend of performance, comfort, and advanced technology for discerning drivers.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "1c49c7d1-79e6-41e2-9841-eccb1ee930e5",
+            "image": null,
+            "name": "Infiniti EX",
+            "description": "The Infiniti EX is a compact luxury crossover SUV that debuted in 2007, designed to combine sporty performance with high-end comfort and advanced technology features.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "1fc83417-36db-481b-9fb8-101f84561a97",
+            "image": null,
+            "name": "Infiniti G",
+            "description": "The Infiniti G is a luxury car series known for its performance, elegant design, and advanced technology, targeting individuals seeking a blend of sportiness and refinement.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "280ad07e-64bb-4f72-a93c-7d586ef59701",
+            "image": null,
+            "name": "Infiniti FX35",
+            "description": "The Infiniti FX35 is a luxury SUV that combines sporty performance with advanced technology and a comfortable interior, designed for those seeking a dynamic driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "30048a07-239b-4630-aa7c-3cfcdf4d17a5",
+            "image": null,
+            "name": "Infiniti Q45",
+            "description": "The Infiniti Q45 is a luxury sedan that combines performance, technology, and comfort, aimed at providing a premium driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "309e661c-4c9f-4bfe-a4f8-c470404bd9b8",
+            "image": null,
+            "name": "Infiniti EX35",
+            "description": "The Infiniti EX35 is a compact luxury SUV that combines sporty handling with a comfortable interior, designed to provide an enjoyable driving experience and practicality for urban environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "32ae4edb-b0f9-431b-8ac4-801542cf5c77",
+            "image": null,
+            "name": "Acura ZDX",
+            "description": "The Acura ZDX is a luxury crossover SUV that combines sporty performance with practicality, featuring a distinctive design and a focus on comfort and technology.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "3f835ec8-73f4-4a7e-ae33-151994cb26b1",
+            "image": null,
+            "name": "Infiniti FX45",
+            "description": "The Infiniti FX45 is a luxury SUV that was first released in 2002, known for its sporty design and powerful performance, aimed at providing a balance of comfort and versatility for premium customers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "450d689b-bad2-4185-aec7-48a0f260af9e",
+            "image": null,
+            "name": "RDX",
+            "description": "The Acura RDX is a luxury compact SUV designed to offer a blend of performance, technology, and comfort, catering to drivers seeking a sophisticated yet practical vehicle.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "cdeadbd9-e2fc-4b07-acf2-d50096a28149",
+            "image": null,
+            "name": "Infiniti JX",
+            "description": "The Infiniti JX is a mid-size luxury SUV that combines spaciousness with advanced technology, designed to provide a comfortable and versatile driving experience for families.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "d73ee00d-4966-47da-bb66-8a87bdec18c4",
+            "image": null,
+            "name": "Infiniti M Series",
+            "description": "The Infiniti M Series is a line of luxury sedans that combine performance, comfort, and advanced technology, aimed at providing a refined driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "72d6370d-f384-4b62-8361-6729aba9c523",
+            "image": null,
+            "name": "TEMPUR-Flex",
+            "description": "The TEMPUR-Flex series by Tempur-Pedic offers adjustable beds designed to provide personalized comfort and support. Featuring TEMPUR material, these beds aim to alleviate pressure points and enhance sleep quality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "9adbc1a2-adab-49a3-9f03-b6caf0ab4b20",
+            "image": null,
+            "name": "LG G7 ThinQ",
+            "description": "The LG G7 ThinQ is a smartphone designed to provide advanced features such as a dual-camera setup, a bright display, and AI capabilities for improved photography and user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "aa4467a5-8034-4f77-bd55-351a69d4728c",
+            "image": null,
+            "name": "HP Elite Dragonfly",
+            "description": "The HP Elite Dragonfly is a premium, ultra-lightweight laptop designed for business professionals. It combines sleek design with powerful performance, offering features that enhance productivity and mobility.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "aa7bcb80-f72d-4759-8c61-85a3b380563a",
+            "image": null,
+            "name": "Opel Adam",
+            "description": "The Opel Adam is a compact city car that combines stylish design with personal customization options, aimed at young urban drivers seeking a fun and versatile vehicle.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "ae119168-9a83-48e4-aee0-f2327babf75b",
+            "image": null,
+            "name": "Volkswagen Tiguan (Second Generation)",
+            "description": "The Volkswagen Tiguan (Second Generation) is a compact SUV known for its spacious interior, versatile cargo capacity, and advanced safety features. Launched in 2014, it aims to provide a balanced combination of comfort, performance, and practicality for urban and family use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "ae542a81-db5a-4115-8b16-70f6fe428282",
+            "image": null,
+            "name": "Jaguar F-TYPE 2021 Model Year",
+            "description": "The Jaguar F-TYPE 2021 Model Year is a high-performance sports car that embodies dynamic design and advanced engineering, aimed at delivering a thrilling driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d92286f7-859c-4275-b876-df0f178c50a2",
+            "image": null,
+            "name": "Jaguar XKR-S",
+            "description": "The Jaguar XKR-S is a high-performance sports car that combines luxury and speed, featuring a supercharged V8 engine and advanced handling dynamics.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e076cd86-a3f7-436a-b03a-26e9f7509960",
+            "image": null,
+            "name": "KTM 200 Duke",
+            "description": "The KTM 200 Duke is a lightweight motorcycle known for its agile handling, sporty design, and powerful performance, making it suitable for urban commuting and spirited rides.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "f6189fb0-e4a7-4ac3-ba15-5c7d19cf34f0",
+            "image": null,
+            "name": "Infiniti Q60",
+            "description": "The Infiniti Q60 is a luxury sports coupe known for its powerful performance, dynamic design, and advanced technology, delivering an engaging driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "3a71cfa8-8f00-41bf-9e11-a587a58e5655",
+            "image": null,
+            "name": "Secura Air Fryers",
+            "description": "The Secura Air Fryers offer a healthier alternative to traditional frying by using hot air circulation for cooking, providing a crispy texture with less oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "020e1220-1fea-4cd1-a563-01e6291cd086",
+            "image": null,
+            "name": "Infiniti Q50",
+            "description": "The Infiniti Q50 is a luxury sedan that combines performance, technology, and comfort, designed to provide a refined driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "0222f5f0-ec99-4432-b782-97cc66e6495e",
+            "image": null,
+            "name": "Infiniti FX",
+            "description": "The Infiniti FX is a luxury midsize SUV that combines sporty performance with high levels of comfort and advanced technology, catering to those who seek a premium driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        }
+    ]
+}

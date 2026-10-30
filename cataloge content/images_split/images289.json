@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "c00d51c4-51c7-453e-b5e9-50e52514f477",
+            "image": null,
+            "name": "AMD Radeon RX 500 Series",
+            "description": "The AMD Radeon RX 500 Series is a line of graphics cards designed for gaming and high-performance computing, offering enhanced graphics, superior performance, and support for the latest gaming technologies.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "9e10a62e-13d5-4efb-b94d-6b08aa888f54",
+            "image": null,
+            "name": "Roxy 2020 Accessories Line",
+            "description": "The Roxy 2020 Accessories Line offers a variety of stylish and functional accessories designed for women who appreciate outdoor adventures and casual wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Roxy"
+            }
+        },
+        {
+            "id": "9de83170-0436-4f9f-bf50-ade738b0ffea",
+            "image": null,
+            "name": "Nokian Hakka Green",
+            "description": "The Nokian Hakka Green is an environmentally friendly tire designed primarily for passenger vehicles, offering low rolling resistance, excellent grip, and optimized fuel efficiency.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "f67d2e78-a3e7-4e4b-a8b2-49981c3b7999",
+            "image": null,
+            "name": "Quechua MH500",
+            "description": "The Decathlon Quechua MH500 series is designed for camping enthusiasts, offering reliable and durable gear suitable for various outdoor conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "34c729f7-e242-4293-9b22-2ef26be304d4",
+            "image": null,
+            "name": "Hakkapeliitta 8",
+            "description": "Nokian Tyres Hakkapeliitta 8 is a premium winter tire designed for optimal grip and safety on icy and snowy surfaces. It features advanced stud technology for enhanced traction and performance in extreme winter conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "07b7d60d-783a-42b8-b220-d9f1c7f0f0b6",
+            "image": null,
+            "name": "Star Wars: The Last Jedi",
+            "description": "The Hasbro Star Wars: The Last Jedi series features action figures and playsets inspired by the characters and storyline of the film, designed for imaginative play and collection by fans of all ages.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "c5fc26c9-ccdb-4a79-8bdd-936ad16617d7",
+            "image": null,
+            "name": "Backup Plus",
+            "description": "The Seagate Backup Plus series consists of external hard disks designed for data backup and storage, offering users the ability to securely save their important files and media.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "3ca8fe67-8ced-4890-bd72-8b9cce03b035",
+            "image": null,
+            "name": "Terrain",
+            "description": "The Helinox Terrain series is designed for outdoor enthusiasts, offering lightweight and durable camping gear suited for various terrains. Its key traits include portability, stability, and ease of setup, making it ideal for camping trips.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "776e7bd7-cc13-4396-85fe-e06d8dec0ca9",
+            "image": null,
+            "name": "Marshall Stanmore II",
+            "description": "The Marshall Stanmore II is a versatile Bluetooth speaker designed for high-quality audio performance, combining modern technology with the classic Marshall aesthetic. It is suited for various music listening environments, providing rich sound and deep bass in a compact form factor.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "a86a657e-378a-4243-95d2-d08ad246227c",
+            "image": null,
+            "name": "GLB-Class",
+            "description": "The Mercedes-Benz GLB-Class is a compact luxury SUV designed to offer versatile space and comfort, characterized by its stylish design and advanced technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "5effe2ee-b3d4-40d3-ab55-abd2f68e8d36",
+            "image": null,
+            "name": "Spring 2021 Collection",
+            "description": "The Lululemon Spring 2021 Collection focuses on versatile women's clothing designed for both athletic performance and casual wear, emphasizing comfort and stylish functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Lululemon"
+            }
+        },
+        {
+            "id": "bac01a07-e79c-4509-9a43-1b72937c6b6a",
+            "image": null,
+            "name": "Uxbridge Voice",
+            "description": "The Marshall Uxbridge Voice is a compact smart speaker that integrates voice control capabilities, designed for music streaming with high-quality audio performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "1c7bc617-7733-4653-8fa4-7ac0156f53bf",
+            "image": null,
+            "name": "Dungeons & Dragons: Critical Role",
+            "description": "The Dungeons & Dragons: Critical Role series by Hasbro features a range of toys inspired by the popular web series, combining role-playing elements with collectible figures that enhance storytelling and gameplay experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "dd9cf633-a514-456e-859a-7f04d0917c18",
+            "image": null,
+            "name": "GoPro Hero8 Black",
+            "description": "The GoPro Hero8 Black is a versatile action camera known for its exceptional video quality, rugged build, and advanced features like HyperSmooth stabilization and TimeWarp. It is designed for capturing immersive and high-resolution footage in a variety of conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "75d42167-1847-4369-b0b2-ee061e38d548",
+            "image": null,
+            "name": "Renault Kangoo II",
+            "description": "The Renault Kangoo II is a versatile compact van introduced in 2004, designed primarily for commercial use and offering ample cargo space along with passenger versatility.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "909bd996-028a-4d09-9b43-fea3239d0eaf",
+            "image": null,
+            "name": "Combi Daddy Plus",
+            "description": "The Combi Daddy Plus series offers a versatile and lightweight stroller designed for ease of use and convenience for parents on the go. It features multiple seating positions and a compact fold for storage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "98e906a3-121d-45fc-8a3b-681e3c9e0209",
+            "image": null,
+            "name": "Marshall Emberton II",
+            "description": "The Marshall Emberton II is a portable Bluetooth speaker designed for music lovers, offering powerful sound and a rugged design for outdoor use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "09b850d8-bb23-4454-82c6-d02d6c2237e2",
+            "image": null,
+            "name": "ROG Rapture GT-AX11000",
+            "description": "The Asus Republic of Gamers ROG Rapture GT-AX11000 is a high-performance gaming router designed to deliver superior speed and low-latency connectivity for online gaming. It features tri-band technology, advanced security options, and gaming-optimized customization settings for an enhanced gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "b6f051ae-44db-4a11-a413-3d2d2186dce4",
+            "image": null,
+            "name": "Oster 2-in-1 Blender and Food Processor",
+            "description": "The Oster 2-in-1 Blender and Food Processor is a versatile kitchen appliance designed to blend and process food with ease, making it suitable for various food preparation tasks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "cbf798d8-07b8-4a9e-881d-b3d99284a04a",
+            "image": null,
+            "name": "Bully Dog GTX",
+            "description": "The Bully Dog GTX series includes advanced tuners and performance chips designed to enhance vehicle performance, fuel efficiency, and overall drivability. This series features a user-friendly interface and customizable options for optimal tuning.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "201e17f0-38e7-4904-b66c-8e682558233e",
+            "image": null,
+            "name": "AORUS 17G",
+            "description": "The AORUS 17G series by Gigabyte is a gaming laptop line that features high-performance components designed for gamers seeking powerful graphics and fast processing capabilities for an enhanced gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "bf17ff42-eac3-4509-bbda-5efc4ad84e3b",
+            "image": null,
+            "name": "AMD Ryzen 5000 Series",
+            "description": "The AMD Ryzen 5000 Series is a collection of high-performance desktop processors designed for enthusiasts and gamers, featuring advanced architecture for enhanced speed and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "b5d4ae16-f79c-48cd-abdd-bc3011e7cd1a",
+            "image": null,
+            "name": "Roxy Sunglasses Collection 2020",
+            "description": "The Roxy Sunglasses Collection 2020 features stylish and functional sunglasses designed for active women, providing UV protection and enhancing outdoor experiences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Roxy"
+            }
+        },
+        {
+            "id": "103de08d-17d3-4a63-b04b-5c9b1f6701c8",
+            "image": null,
+            "name": "Omen X 2S",
+            "description": "The Omen X 2S is a high-performance gaming PC designed for enthusiasts seeking immersive gaming experiences, equipped with a secondary display for multitasking and enhanced gameplay.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "ca9675ba-084b-4271-bdc1-a52a61225259",
+            "image": null,
+            "name": "Collinite No. 476s Super Doublecoat Auto Wax",
+            "description": "Collinite No. 476s Super Doublecoat Auto Wax is a high-quality wax formulated to provide long-lasting protection and a deep, glossy finish for automotive paint. It is known for its durability and ability to withstand harsh environmental conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "3b72ec86-3d0a-41f2-bc91-cf3c9ce5059b",
+            "image": null,
+            "name": "Nokian zLine",
+            "description": "The Nokian zLine is a high-performance tire series designed for sports cars and high-powered vehicles, offering excellent handling, stability, and wet and dry grip.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "a2e6966d-0012-425e-893b-1af519e48bd4",
+            "image": null,
+            "name": "Transformers: Combiner Wars",
+            "description": "Transformers: Combiner Wars is a toy series by Hasbro that features characters who can combine into larger robots, promoting creativity and imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "8166098c-22f8-47f1-a9f8-7049cf111629",
+            "image": null,
+            "name": "Nerf: Rival",
+            "description": "The Nerf Rival series by Hasbro includes high-performance blasters designed for ultimate competitive play, featuring sturdy construction and precision foam balls.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "efd52f14-956c-4560-9012-67535f4f51b5",
+            "image": null,
+            "name": "Hakkapeliitta R2",
+            "description": "The Nokian Tyres Hakkapeliitta R2 is a studless winter tire designed for optimal performance on snow and ice, providing excellent grip and handling in harsh winter conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "2287e030-035c-450c-ab63-71d4003dc823",
+            "image": null,
+            "name": "Roomba s9+",
+            "description": "The iRobot Roomba s9+ is a robotic vacuum cleaner designed for effectively cleaning various floor types with advanced navigation and powerful suction capability, featuring a self-emptying base for convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        }
+    ]
+}

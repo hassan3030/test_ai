@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "f9a2c242-cef4-49d5-9f0f-3e01f742d0f7",
+            "image": null,
+            "name": "CB Shine SP",
+            "description": "The Honda CB Shine SP is a popular commuter motorcycle designed for efficient city riding, known for its fuel efficiency, comfortable ride, and practical features.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "fe41a290-2be6-470b-ae64-0791b80736bc",
+            "image": null,
+            "name": "Mercedes-Maybach S-Class (W223)",
+            "description": "The Mercedes-Maybach S-Class (W223) is a luxury sedan that combines opulence with advanced technology, offering an unparalleled level of comfort and refinement for discerning customers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "7883919e-dca5-403f-bea0-1e9b7de2de44",
+            "image": null,
+            "name": "Honda X-Blade",
+            "description": "The Honda X-Blade is a motorcycle designed for urban commuting, combining sporty aesthetics with practical features to enhance rider experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "7deb84c1-3b33-4baf-9ae6-d66ccfe06229",
+            "image": null,
+            "name": "Captain",
+            "description": "The Ashok Leyland Captain series consists of pickup trucks designed for efficient transportation and diverse commercial applications, offering a combination of power, durability, and versatility.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ashok Leyland"
+            }
+        },
+        {
+            "id": "81e3c408-f8db-4393-8767-41a02da30bb7",
+            "image": null,
+            "name": "Maruti Suzuki Alto",
+            "description": "The Maruti Suzuki Alto is a compact car that was first released in 2000, designed for urban commuting with a focus on fuel efficiency and affordability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "89d7ae2d-7406-4a09-b349-55d70adeda6b",
+            "image": null,
+            "name": "Honda HR-V (1st Generation)",
+            "description": "The Honda HR-V (1st Generation) is a compact SUV that debuted in 2001, designed to offer versatility and efficient use of space for urban driving and everyday practicality.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "90734325-4a95-4fcd-adf0-4f5e10774de1",
+            "image": null,
+            "name": "Honda CBR 650F",
+            "description": "The Honda CBR 650F is a versatile sport motorcycle designed for both everyday commuting and spirited riding, featuring a balanced design for comfort and performance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "9f9f54ce-5ed2-424a-a580-64fee96b0ffd",
+            "image": null,
+            "name": "Honda CBR1000RR",
+            "description": "The Honda CBR1000RR, also known as the Fireblade, is a high-performance sport motorcycle designed for speed and agility, featuring advanced technology for a superior riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "a227b841-bbc3-47dd-a88a-93804883173a",
+            "image": null,
+            "name": "Mann-Filter C 2544",
+            "description": "The Mann-Filter C 2544 is an engine air filter designed to improve air intake by trapping dust, dirt, and other contaminants, thus enhancing engine performance and longevity.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "a3174d6a-e9d9-4ae9-b77f-ce1e0760c0dd",
+            "image": null,
+            "name": "Honda CBR 1000RR SP",
+            "description": "The Honda CBR 1000RR SP is a high-performance sport motorcycle known for its advanced engineering, lightweight design, and superb handling capabilities, making it ideal for both track and street use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "0b089eaf-3cde-49b8-b191-d5ece56afc75",
+            "image": null,
+            "name": "Mann-Filter Fuel Filters",
+            "description": "Mann-Filter Fuel Filters are designed to effectively remove contaminants from fuel before it reaches the engine, ensuring optimal performance and longevity of the fuel system.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "0b7b3ec9-606c-4b0e-afad-71a316e6d4aa",
+            "image": null,
+            "name": "S2 Series",
+            "description": "The Baja Designs S2 Series is a line of high-performance LED lights designed for off-road applications, providing exceptional brightness and durability in challenging environments since its release in 2012.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "12ab696f-aef4-4d7a-acba-ecb6b13faef0",
+            "image": null,
+            "name": "Vista Collection",
+            "description": "The Vista Collection by Brown Jordan features a range of high-quality outdoor furniture designed for durability and style, making it ideal for enhancing outdoor living spaces.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        },
+        {
+            "id": "270a61eb-954f-4d53-b5d8-7bf2e9ba1f00",
+            "image": null,
+            "name": "Honda CB Hornet 160R",
+            "description": "The Honda CB Hornet 160R is a motorcycle designed for urban commuting, combining sporty aesthetics with efficient performance and agile handling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "2e5b840d-7c5c-4840-bbaf-b585f8582118",
+            "image": null,
+            "name": "Metris",
+            "description": "The Mercedes-Benz Metris is a versatile and efficient vans series designed for commercial use, offering a balance of functionality and comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "341650c2-2674-414b-bc43-08875e1b6a77",
+            "image": null,
+            "name": "Peugeot 301",
+            "description": "The Peugeot 301 is a compact sedan designed for the global market, offering practicality and affordability for urban drivers.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "34aeb206-a7e8-4ecd-aa95-cb233ead808a",
+            "image": null,
+            "name": "Honda CB1100",
+            "description": "The Honda CB1100 is a classic-style motorcycle that combines modern performance with retro aesthetics, aimed at riders seeking a blend of comfort and nostalgia.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "44ec5601-4295-44f1-8254-61958b08a038",
+            "image": null,
+            "name": "V-Class",
+            "description": "The Mercedes-Benz V-Class is a premium multi-purpose vehicle designed to provide spaciousness, comfort, and versatility for families and businesses alike.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "b638d04f-a976-4761-b1ea-207887e5fa69",
+            "image": null,
+            "name": "Dodo Juice Originals",
+            "description": "Dodo Juice Originals is a series of car care products designed for effective cleaning, polishing, and protecting vehicles. Launched in 2007, it emphasizes high-quality formulations that enhance the appearance and longevity of automotive finishes.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "b6ceaec8-2f50-4853-b982-a5aeed74dd07",
+            "image": null,
+            "name": "Vredestein Quartaris 5",
+            "description": "The Vredestein Quartaris 5 is a high-performance all-season tire designed for superior grip and stability in both wet and dry conditions, enhancing driving safety in varying weather situations.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "dd6d3f33-56bc-44c5-98fd-ea0e69db5bdf",
+            "image": null,
+            "name": "Panasonic JZ2000",
+            "description": "The Panasonic JZ2000 series consists of high-performance OLED monitors designed for professional video production, offering superior image quality with precise color accuracy and excellent contrast.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "72b91630-bc20-421f-a7af-2644e93cbd32",
+            "image": null,
+            "name": "LUMIX S5",
+            "description": "The Panasonic LUMIX S5 is a full-frame mirrorless camera designed for both photography and videography enthusiasts, featuring advanced imaging capabilities and a compact, lightweight design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "e13c4156-1fe7-496c-819b-c0b183cfec37",
+            "image": null,
+            "name": "LUMIX S5 II",
+            "description": "The Panasonic LUMIX S5 II is a mirrorless camera designed for both professional and enthusiast photographers, offering advanced imaging capabilities, video performance, and robust build quality for versatile shooting in various conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "eba98d67-5a4e-4f21-a2f9-600c74891af0",
+            "image": null,
+            "name": "Philips TAA8006",
+            "description": "The Philips TAA8006 headphones are designed to deliver high-quality audio with advanced noise cancellation features, ensuring an immersive listening experience for music and calls.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "2f10f53e-7b8b-465a-a9e0-e13876b73f7f",
+            "image": null,
+            "name": "Toyota Highlander (2011 Generation)",
+            "description": "The Toyota Highlander (2011 Generation) is a midsize SUV designed to offer a balance of passenger space, cargo versatility, and fuel efficiency, suitable for families and adventure seekers alike.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "986e3ff8-a8e9-49f7-8f89-c03ec2c7abd4",
+            "image": null,
+            "name": "Skullcandy Venue",
+            "description": "Skullcandy Venue headphones are designed to offer an immersive audio experience with active noise cancellation and a comfortable fit, making them ideal for music lovers on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "fc24cc7b-fe27-4e75-b2fa-6a6053a06b54",
+            "image": null,
+            "name": "Skullcandy Riff Wireless",
+            "description": "The Skullcandy Riff Wireless headphones are designed for effortless portability and delivering quality sound with wireless convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "864e23be-28e7-4cd2-bdd0-95bf26e177f9",
+            "image": null,
+            "name": "Venue",
+            "description": "The Skullcandy Venue headphones are designed to deliver a premium audio experience with active noise cancellation, allowing users to immerse themselves fully in their music while reducing external distractions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "6df8461a-1281-4078-83fa-64d92383347d",
+            "image": null,
+            "name": "Skullcandy Indy Evo",
+            "description": "The Skullcandy Indy Evo is a series of true wireless earbuds designed for convenience and sound quality, featuring a secure fit and easy-to-use controls for an immersive listening experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "cfc639d9-b01e-4d60-bb15-e3e1232393b6",
+            "image": null,
+            "name": "Skullcandy Push Active",
+            "description": "The Skullcandy Push Active headphones are designed for active lifestyles, featuring a lightweight build and secure fit for workouts and outdoor activities. They include built-in controls and a sweat-resistant design for enhanced durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        }
+    ]
+}

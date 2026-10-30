@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "fdfad789-6469-4a00-949c-f493c4f70fc6",
+            "image": null,
+            "name": "Gourmia GAF686 Digital Air Fryer",
+            "description": "The Gourmia GAF686 Digital Air Fryer is a kitchen appliance designed to cook food using hot air circulation, allowing for a healthier cooking method by reducing oil usage while providing a crispy texture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "d0a03538-6d9d-4cd2-9104-39f4fee5957b",
+            "image": null,
+            "name": "Gourmia GAF575 5 Quart Digital Air Fryer",
+            "description": "The Gourmia GAF575 5 Quart Digital Air Fryer is a kitchen appliance designed for healthy cooking, utilizing hot air circulation to fry food with minimal oil, making it a popular choice for those seeking to enjoy lower-fat meals.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "057e6d54-8226-42fd-8960-94b032710626",
+            "image": null,
+            "name": "Gourmia GPC395 Digital Multi- Cooker",
+            "description": "The Gourmia GPC395 Digital Multi-Cooker is an innovative kitchen appliance that combines several cooking functions, including air frying, to provide versatile meal preparation options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "ee227bf3-f019-43bc-9537-d494a66d7ba8",
+            "image": null,
+            "name": "Tassimo Vivy 2",
+            "description": "The Tassimo Vivy 2 is a compact coffee machine designed for single-serve brewing. It utilizes T DISCs to offer a variety of beverages with ease and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Tassimo"
+            }
+        },
+        {
+            "id": "52fe2bdf-9f41-471f-a8ff-9505229e1172",
+            "image": null,
+            "name": "Tassimo My Way",
+            "description": "The Tassimo My Way series offers a versatile coffee machine that allows users to customize their beverage strength, size, and temperature, providing a personalized coffee experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Tassimo"
+            }
+        },
+        {
+            "id": "304dc916-ed25-4731-9afb-923c83f9d315",
+            "image": null,
+            "name": "Tassimo My Way 2",
+            "description": "The Tassimo My Way 2 is a single-serve coffee machine designed for personalized beverage preparation, allowing users to select their preferred drink strength and size using barcode technology to ensure optimal results for a variety of coffee and tea pods.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Tassimo"
+            }
+        },
+        {
+            "id": "5988cbb1-21b8-4e7f-9f79-2013272bb90d",
+            "image": null,
+            "name": "Wolf Gourmet High-Performance Blender",
+            "description": "The Wolf Gourmet High-Performance Blender is designed for culinary enthusiasts, offering powerful blending capabilities, a variety of speed settings, and durable construction for versatile food preparation.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Wolf Gourmet"
+            }
+        },
+        {
+            "id": "d88caf69-32cc-43d0-aab2-9b210730933f",
+            "image": null,
+            "name": "Wolf Gourmet 6-Slice Toaster Oven",
+            "description": "The Wolf Gourmet 6-Slice Toaster Oven is a versatile kitchen appliance designed for optimal cooking performance, featuring multiple functions to toast, bake, and broil up to six slices of bread at once.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Wolf Gourmet"
+            }
+        },
+        {
+            "id": "473933e0-f0ae-4f55-a876-17dff95742d6",
+            "image": null,
+            "name": "Blendtec Classic 575",
+            "description": "The Blendtec Classic 575 is a high-performance blender known for its powerful motor and advanced blending technology, designed to efficiently blend a variety of ingredients for smoothies, soups, and more.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "84827d30-4203-4dcf-87af-4de23757c422",
+            "image": null,
+            "name": "Blendtec Pro 800",
+            "description": "The Blendtec Pro 800 is a high-performance blender designed for both commercial and home use, featuring advanced noise-reduction technology and the ability to blend a wide range of ingredients with precision.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "e183770c-787d-47f6-bf6b-1d12e6930a9d",
+            "image": null,
+            "name": "Blendtec Professional 800",
+            "description": "The Blendtec Professional 800 is a high-performance blender designed for both commercial and home use, featuring advanced technology for efficient blending and noise reduction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "8adc515b-0436-45ae-a327-4a5e362e2f95",
+            "image": null,
+            "name": "Blendtec Classic Series",
+            "description": "The Blendtec Classic Series is a line of high-performance blenders designed for both home and professional use, known for their powerful motors and advanced blending technology that allows users to create smoothies, soups, and other blended recipes with ease.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "02129104-0cac-4084-97f2-e6434f39832c",
+            "image": null,
+            "name": "Oster MyBlend Blender",
+            "description": "The Oster MyBlend Blender is a personal smoothie maker designed for on-the-go blending, featuring a bottle that doubles as a travel cup for convenience and portability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "0bf2a20c-0338-4499-af7c-9ba388dce57f",
+            "image": null,
+            "name": "Bamix Classic",
+            "description": "The Bamix Classic series consists of immersion blenders designed for versatile blending, chopping, and puréeing tasks in the kitchen.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Bamix"
+            }
+        },
+        {
+            "id": "c8b2d08a-96fa-4e99-ba29-2692713e8a03",
+            "image": null,
+            "name": "Bamix Gastro",
+            "description": "The Bamix Gastro series offers professional-grade blenders designed for high performance in commercial kitchens, combining durability with versatile functionality for blending, pureeing, and emulsifying.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Bamix"
+            }
+        },
+        {
+            "id": "5292d4f1-8d1a-43e7-b3a3-57092d386753",
+            "image": null,
+            "name": "Nespresso Vertuo Next",
+            "description": "The Nespresso Vertuo Next is a versatile coffee machine designed to prepare a variety of coffee and espresso sizes with a singular brewing system that utilizes Centrifusion technology for optimal extraction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "050dfc8d-622f-46ae-838d-2ae673905ee2",
+            "image": null,
+            "name": "Essenza Mini",
+            "description": "The Nespresso Essenza Mini is a compact coffee machine designed for convenience and simplicity, allowing users to prepare high-quality espresso and coffee with ease.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "79e4fc49-4048-4a5a-aed2-90270cec0db0",
+            "image": null,
+            "name": "Thule Urban Glide 1",
+            "description": "The Thule Urban Glide 1 is a versatile and lightweight stroller designed for active parents, allowing for easy maneuverability on various terrains with a sleek design.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "574d6328-0cb0-4438-ae50-2ba85a611f48",
+            "image": null,
+            "name": "Thule Vital",
+            "description": "The Thule Vital series offers lightweight and functional bags designed primarily for mountain biking enthusiasts, providing ample storage and easy access to gear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "33d3763e-abc7-47df-9fce-fc88a29cac25",
+            "image": null,
+            "name": "MagnaFlow Cat-Back Performance Exhaust Systems",
+            "description": "The MagnaFlow Cat-Back Performance Exhaust Systems are designed to enhance vehicle performance by improving exhaust flow, optimizing horsepower, and providing a rich sound profile. This series is known for its durable construction and easy installation.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "34917b5e-0677-4260-956d-d801b8ad407e",
+            "image": null,
+            "name": "Menzerna 2000",
+            "description": "Menzerna 2000 is a series of car care products designed for polishing and surface refinement, offering high-quality finishes for automotive surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "4cfc7310-c031-40e3-a4f5-743af98775ed",
+            "image": null,
+            "name": "Menzerna 3000",
+            "description": "Menzerna 3000 is a series of car care products designed for polishing and perfecting automotive finishes, known for their high-quality abrasives and ease of use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "28025861-e34b-4292-a246-0ef3818ef614",
+            "image": null,
+            "name": "Menzerna Super Heavy Cut Compound 300",
+            "description": "Menzerna Super Heavy Cut Compound 300 is a high-performance polishing compound designed for the removal of heavy paint imperfections, including scratches and oxidation, on automotive surfaces. It is known for its fast cutting ability and minimal dust generation during the polishing process.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "b235d6f4-edfd-4823-84c4-3ec53b75eb47",
+            "image": null,
+            "name": "Menzerna Final Polish",
+            "description": "Menzerna Final Polish is a high-quality car care product designed to provide a high-gloss finish and enhance the shine of automotive paints, ensuring a flawless appearance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "94d12387-2786-4827-96f4-114879f39a96",
+            "image": null,
+            "name": "Menzerna 3in1 Polish",
+            "description": "Menzerna 3in1 Polish is a versatile car care product designed for polishing, cutting, and protecting automotive surfaces in a single application.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "3c6df471-7d7a-4e5e-aa65-ec2aaf4c8fd8",
+            "image": null,
+            "name": "LG OLED TV E9 Series",
+            "description": "The LG OLED TV E9 Series is a range of high-end televisions known for their superior picture quality, deep blacks, and vibrant colors, utilizing OLED technology for an immersive viewing experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "3f549f7f-6fac-42ee-9903-f60f688330db",
+            "image": null,
+            "name": "Splatoon 3",
+            "description": "Splatoon 3 is a third-person shooter game developed by Nintendo for the Nintendo Switch, focusing on team-based multiplayer gameplay where players control squid-like characters to paint the environment and defeat opponents.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3fde4cf2-b330-421e-ae14-b0f63ac4311b",
+            "image": null,
+            "name": "Baby Jogger City Mini GT2",
+            "description": "The Baby Jogger City Mini GT2 is a versatile stroller designed for parents on the go, featuring all-terrain wheels and a one-hand folding mechanism for convenience and ease of use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "42a202e0-e1dc-4c65-b943-32c98e5d66b0",
+            "image": null,
+            "name": "Meguiar's Gold Class Carnauba Plus Premium Liquid Wax",
+            "description": "Meguiar's Gold Class Carnauba Plus Premium Liquid Wax is a high-performance car wax designed to provide exceptional shine and protection for automotive paint finishes. Formulated with Brazilian carnauba wax, it enhances the depth of color while offering durability against environmental elements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "48a3a6ad-59a1-4dba-84b2-61f2de41ecc6",
+            "image": null,
+            "name": "PlayStation VR",
+            "description": "The PlayStation VR is a virtual reality headset developed by Sony Interactive Entertainment, designed to provide immersive gaming experiences and interactive virtual environments for PlayStation 4 and PlayStation 5 users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "PlayStation"
+            }
+        }
+    ]
+}

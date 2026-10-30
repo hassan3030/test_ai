@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "5afaffe9-39bb-4bef-ab28-d3827af530ef",
+            "image": null,
+            "name": "BMW M2 (F87)",
+            "description": "The BMW M2 (F87) is a high-performance sports coupe that combines potent power with agile handling, designed to deliver an exhilarating driving experience. It is part of the BMW M lineup, known for its precision engineering and dynamic performance characteristics.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "795bb80b-4398-4e41-85f5-ee5579c3cd8d",
+            "image": null,
+            "name": "Zafira-e",
+            "description": "The Opel Zafira-e is a fully electric compact MPV designed to offer spaciousness and versatility for families, focusing on eco-friendliness and innovative technologies.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "dbc06f56-fc8f-4a0b-a313-30b1d384aed1",
+            "image": null,
+            "name": "Thule Motion",
+            "description": "The Thule Motion series consists of high-capacity rooftop cargo boxes designed for aerodynamic performance and easy installation, making them ideal for carrying extra gear on road trips.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "7258a51b-4940-4a8c-a3b3-9ef6a650f2d6",
+            "image": null,
+            "name": "Bosch Diesel Fuel Injection System",
+            "description": "The Bosch Diesel Fuel Injection System is designed to optimize fuel delivery and combustion efficiency in diesel engines, enhancing performance and reducing emissions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "1f3b0a71-dd8f-4be0-986f-6b2cd7286954",
+            "image": null,
+            "name": "Vitra Tip Ton Chair",
+            "description": "The Vitra Tip Ton Chair is an innovative chair designed to enhance sitting posture and comfort, featuring a unique rocking motion and a minimalist design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "db90c782-36a2-44c1-bc2b-8a1a97629ac3",
+            "image": null,
+            "name": "Husqvarna FC 2023",
+            "description": "The Husqvarna FC 2023 is a high-performance motocross motorcycle designed for competitive racing and off-road performance, featuring advanced technology and lightweight construction for superior agility and handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "d7a8bbd9-99cb-4cbf-96ed-943df477a3f4",
+            "image": null,
+            "name": "Tamron 18-400mm F/3.5-6.3 Di II VC HLD",
+            "description": "The Tamron 18-400mm F/3.5-6.3 Di II VC HLD is a versatile all-in-one zoom lens designed for APS-C DSLR cameras, offering an extensive focal range ideal for capturing a variety of subjects from wide landscapes to distant wildlife.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        },
+        {
+            "id": "e1571893-15bc-41f2-a915-9332d43d00bb",
+            "image": null,
+            "name": "Husqvarna Norden 901",
+            "description": "The Husqvarna Norden 901 is a versatile adventure motorcycle designed for both on-road and off-road capabilities, featuring a powerful engine and modern technology to enhance the riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "ecd90397-0f14-4bc9-bac3-704037a18d7d",
+            "image": null,
+            "name": "BMW M5 (F90)",
+            "description": "The BMW M5 (F90) is a high-performance luxury sedan designed for enthusiasts, combining powerful engine capabilities with advanced technology and superior handling.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "509743b6-35c8-455c-b495-d08ff5fa342d",
+            "image": null,
+            "name": "BMW X7 (G07)",
+            "description": "The BMW X7 (G07) is a full-size luxury SUV designed for comfort and performance, accommodating up to seven passengers with advanced technology and premium materials.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "2f61f28d-7464-4748-9bdd-2662044726f7",
+            "image": null,
+            "name": "Husqvarna 901 series",
+            "description": "The Husqvarna 901 series is a line of modern adventure motorcycles designed for versatility and performance on both paved roads and off-road terrain.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "008facff-f9b8-477f-8ec1-2dfc12f931a3",
+            "image": null,
+            "name": "BabyBjörn Travel Crib Light",
+            "description": "The BabyBjörn Travel Crib Light is a lightweight and portable crib designed for easy travel, providing a safe and comfortable sleeping environment for infants and toddlers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "255ec4c8-00ec-4ad6-9721-030a8e89f99e",
+            "image": null,
+            "name": "Fujifilm X-T3",
+            "description": "The Fujifilm X-T3 is a mirrorless digital camera released in 2019, designed for both photography enthusiasts and professionals, featuring advanced image quality and autofocus performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Fujifilm"
+            }
+        },
+        {
+            "id": "1e592cb2-44d5-4522-828d-3fa026f6fe24",
+            "image": null,
+            "name": "Play-Doh Confetti Compound",
+            "description": "Play-Doh Confetti Compound is a colorful modeling compound that features fun confetti bits, designed to inspire creativity and imaginative play in children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "d7711051-74c8-4621-9720-6fe06516b0b7",
+            "image": null,
+            "name": "Bosch Common Rail System",
+            "description": "The Bosch Common Rail System is designed to improve the efficiency and performance of diesel engines through precise fuel injection, allowing for better fuel atomization and combustion. Introduced in 2009, this system is known for its reliability and advanced technological features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "d7edec4b-28bd-4af3-8063-c7a7b2609712",
+            "image": null,
+            "name": "Vitra .05 Chair",
+            "description": "The Vitra .05 Chair is a minimalist and functional seating solution designed for both home and office environments. Its contemporary design prioritizes comfort and versatility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "18036f13-e764-47e4-b3cd-c3b74a9b8b79",
+            "image": null,
+            "name": "Hamilton Beach Eclectrics 69980",
+            "description": "The Hamilton Beach Eclectrics 69980 series features a range of stylish blenders designed for everyday use, focusing on blending efficiency and ease of operation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "ca51f69b-2303-4db8-ad50-660a6f9e8a1b",
+            "image": null,
+            "name": "Husqvarna TX 2023",
+            "description": "The Husqvarna TX 2023 series consists of off-road motorcycles designed for high performance and agility in challenging terrain, making them suitable for enduro racing and trail riding.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "37fabfea-0435-4ab3-8346-a730cc611814",
+            "image": null,
+            "name": "FolkArt Home Decor",
+            "description": "FolkArt Home Decor is a range of high-quality acrylic paint designed specifically for home decor projects, offering excellent coverage and durability for a variety of surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "5f239914-ba9a-4201-8c22-af0703a1160c",
+            "image": null,
+            "name": "Vitra Toolbox",
+            "description": "The Vitra Toolbox is a versatile table series designed for flexible use in various environments, combining functionality with a modern aesthetic. It serves as an ideal solution for collaborative and personal spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "f64e1e56-7fb1-44c5-840a-48ba777ce491",
+            "image": null,
+            "name": "Thule Versant",
+            "description": "The Thule Versant series consists of versatile backpacks designed for outdoor enthusiasts, equipped with features that enhance comfort and organization for multi-day hiking trips.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "87771d59-a23f-46f0-9add-6078139848cf",
+            "image": null,
+            "name": "Tamron 70-180mm F2.8 Di III VXD",
+            "description": "The Tamron 70-180mm F2.8 Di III VXD is a versatile telephoto zoom lens designed for full-frame Sony E-mount cameras, featuring a constant f/2.8 aperture for excellent low-light performance and depth of field control.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        },
+        {
+            "id": "2abf6ed1-e5a5-47f7-99f9-ada49ec0b6ee",
+            "image": null,
+            "name": "BabyBjörn Baby Carrier One",
+            "description": "The BabyBjörn Baby Carrier One is a versatile baby carrier designed to provide comfort and support for both the baby and the caregiver. It features multiple carrying positions and ergonomic design for extended use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "0eaf343c-86f2-45a7-99f9-6ea37a7ceb84",
+            "image": null,
+            "name": "Tamron 35-150mm F/2.8-4 Di III RXD",
+            "description": "The Tamron 35-150mm F/2.8-4 Di III RXD is a versatile zoom lens designed for Sony E-mount cameras, offering a wide focal range suitable for various types of photography, from portraits to landscapes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        },
+        {
+            "id": "951946dd-e5d5-459c-ab07-1d7c4c2f9a14",
+            "image": null,
+            "name": "Thule Shield",
+            "description": "The Thule Shield series offers durable and weatherproof bags designed to protect your gear from the elements while providing convenient storage solutions for outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "a8927428-8df8-4309-b160-06061ce69665",
+            "image": null,
+            "name": "Hamilton Beach Wave Crusher 54220",
+            "description": "The Hamilton Beach Wave Crusher 54220 is a versatile blender designed to blend, crush, and puree ingredients smoothly and efficiently, featuring a unique Wave-Action system that continuously pulls mixtures down into the blades for consistent results.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "0174e7b9-aa20-4cd9-a9a4-b098d24e0bd8",
+            "image": null,
+            "name": "Thule RoundTrip",
+            "description": "The Thule RoundTrip series includes protective and convenient travel bags designed for transporting bicycles safely. These bags are known for their durability and user-friendly features, ensuring secure and hassle-free travel for cyclists.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "bd86e4b1-2b6a-4c41-b0b3-0764a5ef0a2e",
+            "image": null,
+            "name": "Kipling Fall/Winter Collection 2016",
+            "description": "The Kipling Fall/Winter Collection 2016 features a range of stylish and functional bags designed to provide versatility and practicality for everyday use during the colder months.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kipling"
+            }
+        },
+        {
+            "id": "d6440058-9f24-443e-bef3-177eac86f596",
+            "image": null,
+            "name": "Thule Stroller Series",
+            "description": "The Thule Stroller Series is designed for active families, offering versatile and durable strollers suitable for various outdoor activities. Key traits include ease of use, safety features, and the ability to adapt to different terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "5c4f6cb9-25a2-4633-b7ee-dd14016e99d8",
+            "image": null,
+            "name": "Air Hogs: Supernova",
+            "description": "Air Hogs: Supernova is a series of flying toys designed for indoor and outdoor use, featuring advanced technology that allows for easy maneuverability and a unique hovering mechanism.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        }
+    ]
+}

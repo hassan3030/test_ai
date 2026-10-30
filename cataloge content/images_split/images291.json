@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "801b0466-ee5c-486d-ab53-74c65a6dfd2a",
+            "image": null,
+            "name": "Oster Pro 1200",
+            "description": "The Oster Pro 1200 series offers powerful blending capabilities designed for efficiency and versatility, featuring multiple speed settings and stainless steel blades for a variety of culinary tasks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "4184a18d-55a6-48eb-8456-cfcde859f03d",
+            "image": null,
+            "name": "Combi Shuttle",
+            "description": "The Combi Shuttle is a versatile baby seat designed for infants, providing safety and comfort during travel. It features a lightweight design that simplifies transportation and installation in vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "7885d34f-0a33-4bba-be83-c43c8efb8898",
+            "image": null,
+            "name": "GoPro Max",
+            "description": "The GoPro Max is a versatile 360-degree camera designed for capturing immersive video and high-quality photos. It features advanced stabilization technology and multiple shooting modes, making it ideal for action sports and adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "02617773-02e9-476c-9875-2256dea37199",
+            "image": null,
+            "name": "Renault Kwid Facelift",
+            "description": "The Renault Kwid Facelift is a compact hatchback designed for urban mobility, offering a modern design, efficient performance, and a range of features aimed at enhancing comfort and convenience for city driving.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "98f86c0f-89d7-47d7-b9a2-bf82f5d2e6f3",
+            "image": null,
+            "name": "Combi Mega Ride",
+            "description": "The Combi Mega Ride series includes versatile strollers designed for comfort and convenience during family outings, featuring adjustable seating and easy maneuverability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "e9add4db-135b-4826-a946-e03515c2a39d",
+            "image": null,
+            "name": "Hästens Classic",
+            "description": "The Hästens Classic series features handcrafted beds designed for optimal comfort and support, utilizing natural materials to enhance sleep quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Hästens"
+            }
+        },
+        {
+            "id": "4fcd04be-c8c3-49d0-b76a-877a98aef343",
+            "image": null,
+            "name": "T2 Series",
+            "description": "The Rockford Fosgate T2 Series is a line of high-performance car audio products known for their powerful sound output and durability, designed for audiophiles seeking premium audio experiences in their vehicles.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "e6636ab0-a311-465c-b5a5-e4011695cc3c",
+            "image": null,
+            "name": "Bernhardt Interiors",
+            "description": "The Bernhardt Interiors series features a collection of thoughtfully designed sofas that combine contemporary style with premium craftsmanship, making them suitable for enhancing living spaces with comfort and elegance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Bernhardt"
+            }
+        },
+        {
+            "id": "a09e51a4-184e-47ee-b509-1a4d61459da3",
+            "image": null,
+            "name": "Geely Emgrand Series",
+            "description": "The Geely Emgrand Series is a line of compact cars produced by the Chinese automaker Geely, known for its affordability and modern design. Launched in 2007, the series aims to provide practical and reliable transportation options for urban drivers.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "8612e99a-e8e6-44f3-b637-dc06372b1470",
+            "image": null,
+            "name": "Eidos",
+            "description": "The Flexform Eidos series features a collection of contemporary sofas designed for versatility and comfort, emphasizing clean lines and a sophisticated aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "408db11f-51af-427b-b6d8-74a9012a55fb",
+            "image": null,
+            "name": "BenQ PD3200U",
+            "description": "The BenQ PD3200U is a professional 32-inch 4K monitor designed for designers and creative professionals, offering accurate color reproduction and comprehensive viewing angles to enhance productivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "8b943dba-625b-47eb-8c15-c652c99c0b1b",
+            "image": null,
+            "name": "Griso 1100",
+            "description": "The Moto Guzzi Griso 1100 is a stylish and powerful motorcycle known for its unique design and impressive handling characteristics. It is part of the classic Italian motorcycle lineage, emphasizing performance and rider engagement.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "63e62f24-c579-4193-a07f-bc0ab33cede4",
+            "image": null,
+            "name": "Blendtec Designer 725",
+            "description": "The Blendtec Designer 725 is a high-performance blender designed for versatile blending tasks, featuring an intuitive touchscreen interface and advanced blending technology for optimal results.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "27c187c7-1e84-4b1d-ac68-cdc9da1b1b0f",
+            "image": null,
+            "name": "NordicTrack S22i Studio Cycle",
+            "description": "The NordicTrack S22i Studio Cycle is an indoor exercise bike designed for immersive cycling workouts, featuring adjustable incline and decline settings, and a large interactive touchscreen for access to on-demand studio classes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "dae50254-4745-46f1-a35f-c23d1209b3cb",
+            "image": null,
+            "name": "EJ16 Nylite",
+            "description": "The D'Addario EJ16 Nylite series features synthetic strings designed for classical guitars, offering the tone and feel of traditional nylon strings with enhanced durability and weather stability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "d6410caf-9d33-45d1-bd92-a95cf1035daf",
+            "image": null,
+            "name": "KTM 620 LC4",
+            "description": "The KTM 620 LC4 is a dual-sport motorcycle designed for both off-road and on-road use, offering versatility, performance, and durability in various riding conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "e4689e6a-7550-44a4-9e45-05419ef4cd31",
+            "image": null,
+            "name": "Škoda Superb (2nd Generation)",
+            "description": "The Škoda Superb (2nd Generation) is a mid-size car designed for comfort and spaciousness, featuring a combination of advanced technology and practicality for everyday use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "656c1184-2e69-4120-bebf-fd6756653e70",
+            "image": null,
+            "name": "Mini Rodini AW21",
+            "description": "The Mini Rodini AW21 series features sustainable kids' clothing that combines playful designs with high-quality materials, aimed at providing comfort and style for children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "00f23c84-742e-47be-900b-8c2a9d8d76d8",
+            "image": null,
+            "name": "Brompton Electric",
+            "description": "The Brompton Electric series is designed for urban commuting, integrating an electric assist motor to enhance mobility and ease of travel in city environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Brompton Bicycle"
+            }
+        },
+        {
+            "id": "f58eb007-48f3-49d3-9de1-3b1bd2a75693",
+            "image": null,
+            "name": "Marshall Woburn II",
+            "description": "The Marshall Woburn II is a high-performance Bluetooth speaker designed to deliver powerful sound and rich bass while maintaining a classic Marshall aesthetic. Ideal for music lovers seeking a stylish and versatile audio solution.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "50cff200-a28b-4ef2-8042-93a9e5e32484",
+            "image": null,
+            "name": "Zymöl Anarchy",
+            "description": "Zymöl Anarchy is a series of premium car care products designed to provide high-performance protection and enhancement for automotive finishes, focusing on ease of application and superior results.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "64838df0-245c-429d-ba29-b4ce00153a62",
+            "image": null,
+            "name": "Marshall Amplification's Origin",
+            "description": "The Marshall Amplification's Origin series is designed for guitarists seeking rich, dynamic tones with a vintage vibe, offering a blend of classic Marshall sound and modern functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "b28cface-bb5d-4e9f-8ed4-8986d0c2530b",
+            "image": null,
+            "name": "Leon's Furniture Collection",
+            "description": "The Leon's Furniture Collection features a variety of stylish and functional sofas, designed to enhance comfort and aesthetic appeal in living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Leon's Furniture"
+            }
+        },
+        {
+            "id": "a3b82ddc-d02d-4688-8887-846d9e23c13b",
+            "image": null,
+            "name": "Melitta® Look Therm Deluxe",
+            "description": "The Melitta® Look Therm Deluxe is a coffee machine designed for brewing coffee with enhanced flavor and temperature retention, featuring a stainless steel thermal carafe for optimal heat preservation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "cb8e7f93-97c4-4cfa-81bf-8a7a188a1fed",
+            "image": null,
+            "name": "Zymöl Detail Products",
+            "description": "Zymöl Detail Products are a range of premium car care products designed to enhance and protect the exterior and interior surfaces of vehicles, utilizing natural ingredients for optimal performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "8233f5af-974c-4ee1-ad69-07d928b0c1bb",
+            "image": null,
+            "name": "Combi Well Carry",
+            "description": "The Combi Well Carry series offers lightweight and compact strollers designed for easy transport and convenience for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "7fd4f313-01c2-42ac-9726-bc2924ac9c5d",
+            "image": null,
+            "name": "Oster Flip Pancake Maker",
+            "description": "The Oster Flip Pancake Maker is designed to simplify the pancake-making process, allowing users to easily create perfectly cooked pancakes with a flipping mechanism that ensures even cooking on both sides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "29ef4cf9-1b0c-4254-92bb-f27d425548c6",
+            "image": null,
+            "name": "Oster MyBlend",
+            "description": "The Oster MyBlend series offers convenient personal blenders designed for smoothies and shakes, featuring a portable design that allows users to blend and go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "714fa188-62a1-4d51-83c3-06d8618943ad",
+            "image": null,
+            "name": "Audi Q5 (2010 Facelift)",
+            "description": "The Audi Q5 (2010 Facelift) is a mid-sized luxury SUV designed to offer a blend of comfort, performance, and advanced technology features, catering to both urban and adventurous lifestyles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c9a93b14-423a-42e7-9c54-a92bd0ea4e53",
+            "image": null,
+            "name": "Blendtec Designer 675",
+            "description": "The Blendtec Designer 675 is a high-performance blender known for its powerful motor and smart technology, designed to deliver consistent blending results for a variety of ingredients.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        }
+    ]
+}

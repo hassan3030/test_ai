@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "31201522-de01-4413-82c6-436047f0f23e",
+            "image": null,
+            "name": "2023 Jeep Wrangler 4xe",
+            "description": "The 2023 Jeep Wrangler 4xe is a hybrid SUV designed for off-road enthusiasts, combining electric efficiency with rugged performance to enhance the adventure experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "7137619c-7572-4946-afdc-1b1956b72a2a",
+            "image": null,
+            "name": "2023 Jeep Compass",
+            "description": "The 2023 Jeep Compass is a compact SUV designed for both urban driving and off-road adventures, offering a blend of functionality, technology, and comfort.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "8fa241be-bbd3-4b06-ac01-7866b5809e1b",
+            "image": null,
+            "name": "Dodge Durango",
+            "description": "The Dodge Durango is a mid-size SUV produced by Chrysler, known for its spacious interior and capability to seat up to seven passengers, making it suitable for families and outdoor activities.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "5c8a0e89-6649-4f11-9d38-888d57c89956",
+            "image": null,
+            "name": "Chrysler Town & Country",
+            "description": "The Chrysler Town & Country is a minivan known for its spacious interior, versatility, and family-friendly features. It is designed to offer comfort and convenience for both daily driving and longer trips.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "70ede079-4744-4427-8a80-d5a3cd6d4e20",
+            "image": null,
+            "name": "Chrysler 300C SRT8",
+            "description": "The Chrysler 300C SRT8 is a high-performance luxury sedan that features a powerful V8 engine, aggressive styling, and advanced technology, aimed at providing an exhilarating driving experience combined with comfort and spaciousness.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "24ccdc0f-469d-4a35-92ab-92f1d175ca82",
+            "image": null,
+            "name": "Chrysler Dodge Caravan",
+            "description": "The Chrysler Dodge Caravan is a minivan known for its spacious interior, family-friendly features, and versatile seating arrangements, making it a preferred choice for families and group travel.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "10ecd208-8208-45fe-ba83-95d1cdf977d5",
+            "image": null,
+            "name": "Chrysler Pacifica Hybrid",
+            "description": "The Chrysler Pacifica Hybrid is a plug-in hybrid minivan designed to provide families with a spacious, flexible interior while offering environmentally friendly driving options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "15d70aa3-0a49-4363-9392-95ae49a8b858",
+            "image": null,
+            "name": "Chrysler 300S",
+            "description": "The Chrysler 300S is a full-size luxury sedan known for its bold styling, powerful performance, and a spacious, comfortable interior, designed to provide an elevated driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "e28a50a1-68b2-4d93-86e4-39b06bec07ce",
+            "image": null,
+            "name": "Ram 1500",
+            "description": "The Chrysler Ram 1500 is a full-size pickup truck known for its strong towing capacity, comfortable ride, and versatile features, making it suitable for both work and everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "25cec938-2334-4ef8-b789-f7a7cf870a06",
+            "image": null,
+            "name": "Jeep Gladiator",
+            "description": "The Jeep Gladiator is a midsize pickup truck that combines the rugged off-road capabilities of the Jeep brand with the versatility of a truck bed, making it ideal for both adventure and everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "3b07be37-cc8a-42e2-a415-b549467919c6",
+            "image": null,
+            "name": "Chrysler Pacifica 2021",
+            "description": "The Chrysler Pacifica 2021 is a versatile minivan designed for families, offering spacious seating, advanced safety features, and innovative technology to enhance comfort and convenience during travel.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "90a280c3-fa9e-4cff-85fb-740ce4a475d9",
+            "image": null,
+            "name": "Chrysler 300 2022",
+            "description": "The Chrysler 300 2022 is a full-sized sedan known for its powerful performance, spacious interior, and advanced technology features. It combines luxury with practicality, making it suitable for both daily commuting and long-distance travel.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "01757a3a-c048-49d7-90ea-bf05f4dc27a5",
+            "image": null,
+            "name": "Acura RSX",
+            "description": "The Acura RSX is a compact sports coupe that was produced by Acura from 2002 to 2006, known for its responsive handling and high-revving engine, aimed at providing an engaging driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "7ea55bd5-82aa-4ef7-88d3-34b43212fb35",
+            "image": null,
+            "name": "Acura NSX",
+            "description": "The Acura NSX is a high-performance sports car that combines advanced hybrid technology with precision engineering, offering a unique driving experience characterized by speed, agility, and sustainability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "1aa5ae1f-e2f6-409b-96f0-eff114bb956c",
+            "image": null,
+            "name": "Acura Integra",
+            "description": "The 2023 Acura Integra is a luxury compact car known for its sporty performance, high-quality interior, and advanced technology features, embodying the spirit of the iconic Integra lineage.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "405857ed-86dc-47a6-9db9-661bd6810e7b",
+            "image": null,
+            "name": "Infiniti G20",
+            "description": "The Infiniti G20 is a compact luxury sedan that was designed to provide a blend of performance and comfort, offering a refined driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "017de61e-d6c2-463a-b1e1-02bf4115798c",
+            "image": null,
+            "name": "Infiniti G (M35 and M45)",
+            "description": "The Infiniti G series, including the M35 and M45, is a line of luxury sedans that focuses on performance, technology, and comfort, targeting drivers seeking a refined driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "21d4f513-df0f-4b5c-b997-becff8b1e9dd",
+            "image": null,
+            "name": "Infiniti M35",
+            "description": "The Infiniti M35 is a luxury sedan that combines performance with advanced technology and design, aimed at providing a refined driving experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "7038398d-787e-4a67-8457-43b751b439e2",
+            "image": null,
+            "name": "Infiniti G Sedan",
+            "description": "The Infiniti G Sedan is a luxury compact sedan known for its performance, elegant design, and advanced technology features, offering a balanced experience of sportiness and comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "a375b3e3-0f69-4102-bae9-10f7c262bd51",
+            "image": null,
+            "name": "Infiniti G Coupe",
+            "description": "The Infiniti G Coupe is a luxury sports car that combines elegant design with high-performance capabilities, aimed at offering a dynamic driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "c9a4466f-36e0-425b-9c0d-8dcb6e1778a3",
+            "image": null,
+            "name": "Infiniti QX",
+            "description": "The Infiniti QX series is a line of luxury SUVs designed to offer a combination of refined performance, advanced technology, and spacious interiors for a premium driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "5ede0ee8-49c6-4397-bcc4-8298c7998c84",
+            "image": null,
+            "name": "Infiniti QX60",
+            "description": "The Infiniti QX60 is a luxury midsize SUV designed for families, offering three rows of seating and a spacious interior combined with advanced technology and safety features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "ee425129-db85-478e-8542-f12f85b12ad3",
+            "image": null,
+            "name": "Dacia MCV",
+            "description": "The Dacia MCV is a multi-purpose vehicle designed to offer spacious interiors and practicality, making it suitable for families and transportation needs.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "bf707f34-1d3c-4bf5-a19a-ab9b1928aa6c",
+            "image": null,
+            "name": "Dacia Duster (second generation)",
+            "description": "The Dacia Duster (second generation) is a compact SUV designed to provide practicality and affordability for those seeking a versatile and rugged vehicle for everyday use and leisure activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "0dc26ecc-6863-43e9-ac5d-32fe06159d59",
+            "image": null,
+            "name": "Dacia Logan MCV (third generation)",
+            "description": "The Dacia Logan MCV (third generation) is a versatile family car designed to offer spaciousness and practicality, making it suitable for various lifestyles and needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "5ad035c1-3dfc-406f-98d8-ce4fa9f63c35",
+            "image": null,
+            "name": "Haval F5",
+            "description": "The Haval F5 is a compact SUV designed to provide a blend of style, comfort, and performance for urban driving and everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "0e3ed542-1acd-4d81-8159-5afadc2bb4af",
+            "image": null,
+            "name": "Haval H6 2023",
+            "description": "The Haval H6 2023 is a mid-size SUV that combines modern technology, spacious interiors, and advanced safety features, aimed at providing comfort and versatility for families and urban drivers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "d779b3af-fa43-4f4c-ab1c-1302d7853f4a",
+            "image": null,
+            "name": "Denso Iridium Power Spark Plugs",
+            "description": "Denso Iridium Power Spark Plugs are designed to provide superior ignition performance and durability, enhancing engine efficiency and reliability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Denso"
+            }
+        },
+        {
+            "id": "f7512b59-d31d-4b2f-89d2-71dcd29b3376",
+            "image": null,
+            "name": "Denso O2 Sensors",
+            "description": "The Denso O2 Sensors are essential car parts designed to monitor the oxygen levels in a vehicle's exhaust system, optimizing fuel efficiency and reducing emissions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Denso"
+            }
+        },
+        {
+            "id": "a1ab4fd5-5f83-4654-a1ab-9edc6f64d17b",
+            "image": null,
+            "name": "Marelli Powertrain",
+            "description": "The Marelli Powertrain series by Magneti Marelli comprises a range of car parts specifically designed to enhance engine performance and efficiency. Launched in 2007, these components are engineered for reliability and precision in modern automotive applications.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magneti Marelli"
+            }
+        }
+    ]
+}

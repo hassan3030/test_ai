@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "e5a7aad3-674c-4bf2-bd90-eb75b8ef95c5",
+            "image": null,
+            "name": "Ford F-Series (2019 Super Duty)",
+            "description": "The Ford F-Series (2019 Super Duty) is a line of heavy-duty pickup trucks designed for maximum towing capacity and durability, ideal for commercial use and heavy workloads.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "82054836-3b94-4731-8d08-71f8a14b4261",
+            "image": null,
+            "name": "Safety 1st Elite 3-in-1",
+            "description": "The Safety 1st Elite 3-in-1 is a versatile baby seat designed to adapt as your child grows, offering rear-facing, forward-facing, and booster seat modes for extended use and safety.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "447a0bca-eace-4b34-b5ba-826b083385d4",
+            "image": null,
+            "name": "Klarstein Ice Volcano",
+            "description": "The Klarstein Ice Volcano series consists of compact refrigerators designed for efficient cooling and storage of food and beverages, ideal for small spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "5db337f3-523a-46cd-bc63-568937c22f2c",
+            "image": null,
+            "name": "Safety 1st Guide 65 Convertible Car Seat",
+            "description": "The Safety 1st Guide 65 Convertible Car Seat is designed to provide safety and comfort for your child, transitioning from a rear-facing to a forward-facing seat as your child grows. It features multiple harness positions and a compact design, making it suitable for a variety of vehicles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "6894a3bc-4f61-45d1-8f5b-3ce2704c4ff3",
+            "image": null,
+            "name": "Schenker XMG C Series",
+            "description": "The Schenker XMG C Series consists of high-performance laptops designed for gamers and professionals, offering robust hardware options and customizable features to cater to demanding tasks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "8003953b-421f-421e-8def-d0e94334db92",
+            "image": null,
+            "name": "Trek Marlin 5",
+            "description": "The Trek Marlin 5 is a versatile mountain bike designed for both novice and experienced riders, featuring a lightweight aluminum frame and a performance-oriented geometry for enhanced control and comfort on various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "ebb7e8f3-bdec-40f1-b479-f804ac6d62a0",
+            "image": null,
+            "name": "Persol 3205S",
+            "description": "The Persol 3205S sunglasses are a stylish eyewear option designed to provide superior comfort and protection from sunlight, showcasing the brand's signature Italian craftsmanship.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Persol"
+            }
+        },
+        {
+            "id": "e696253b-c6df-4a3c-b79c-935f416f4253",
+            "image": null,
+            "name": "Schenker XMG NEO",
+            "description": "The Schenker XMG NEO series is a line of high-performance laptops designed for gaming and professional use, offering customizable configurations for enhanced user experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "867d5e6d-053b-4235-b0ed-fa34c8ca86d4",
+            "image": null,
+            "name": "Jet Set Travel",
+            "description": "The Michael Kors Jet Set Travel series features a collection of stylish and functional bags designed for travel and daily use, combining sophistication with practicality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "b1d5b12b-94ed-401f-ae5b-62faa65c9fea",
+            "image": null,
+            "name": "Michael Kors Fall 2021 Collection",
+            "description": "The Michael Kors Fall 2021 Collection features a stylish range of women's clothing designed to offer both elegance and versatility, catering to modern fashion needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "68917849-acd7-48c1-8483-d65738b15b00",
+            "image": null,
+            "name": "Vango Airbeam",
+            "description": "The Vango Airbeam series features inflatable camping tents designed for quick and easy setup, offering stability and spaciousness for outdoor enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "487efd8e-64e0-4386-9ede-8fb8eda0bee5",
+            "image": null,
+            "name": "Michael Kors Spring 2021 Collection",
+            "description": "The Michael Kors Spring 2021 Collection features a range of stylish women's clothing designed for versatility and seasonal elegance, incorporating contemporary trends with classic sophistication.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "8357d31c-1f7f-43db-a9cf-e94ae3f64e13",
+            "image": null,
+            "name": "Waterless Wash & Wax",
+            "description": "Meguiar's Waterless Wash & Wax series is designed for safely cleaning and protecting your vehicle's surface without the need for water. This product provides a convenient solution for maintaining a clean and shiny finish while conserving water.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "119d21e2-0ce3-4901-b77e-f6ab0c35a5c8",
+            "image": null,
+            "name": "Husqvarna TC 450",
+            "description": "The Husqvarna TC 450 is a high-performance motocross motorcycle designed for competitive off-road racing, offering excellent power, handling, and agility.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "67fb63f3-954a-40a1-9d97-cd5c57c3ea23",
+            "image": null,
+            "name": "TicWatch Pro 2",
+            "description": "The TicWatch Pro 2 is a smartwatch designed for fitness tracking and health monitoring, featuring dual display technology for extended battery life and various smart features for daily use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "TicWatch"
+            }
+        },
+        {
+            "id": "ecc9897b-ac48-42dc-810a-57fc94942f9a",
+            "image": null,
+            "name": "Recaro Avan",
+            "description": "The Recaro Avan is a series of infant car seats designed for safety and comfort, featuring a lightweight design and innovative protective technologies to ensure the well-being of young children during travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Recaro"
+            }
+        },
+        {
+            "id": "4cd87894-a260-4691-815a-b8ffff5d0dde",
+            "image": null,
+            "name": "i-Level",
+            "description": "The Joie i-Level series offers versatile strollers designed for comfort and ease of use, accommodating growing children from birth onwards with an emphasis on safety and convenience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cfd10d81-4b7e-4a84-8cb6-e5ce08308a55",
+            "image": null,
+            "name": "Le Pliage Expandable",
+            "description": "The Longchamp Le Pliage Expandable series features lightweight, foldable bags designed for versatility and convenience, ideal for everyday use or travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "caf13746-8c2a-44ef-8ac2-e65ae8bc6f8b",
+            "image": null,
+            "name": "Dzire",
+            "description": "The Maruti Suzuki Dzire is a compact sedan known for its fuel efficiency, comfortable interior, and reliability, aiming to cater to urban commuters and families.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "7016ea8e-609c-4aec-b590-8c89c9d1603c",
+            "image": null,
+            "name": "Tado Smart AC Control 3+",
+            "description": "The Tado Smart AC Control 3+ is a smart home device that allows users to control their air conditioning systems remotely while optimizing energy usage for enhanced comfort and efficiency.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Tado"
+            }
+        },
+        {
+            "id": "42fb19ff-bb5d-44fd-b772-15b8578d2656",
+            "image": null,
+            "name": "Liquitex Paint Marker",
+            "description": "Liquitex Paint Markers are high-quality, water-based markers designed for artists, offering vibrant colors and the ability to paint on various surfaces with precision.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "179b65a5-0a85-410e-8e16-3271e8ba69cd",
+            "image": null,
+            "name": "Timex Expedition Scout",
+            "description": "The Timex Expedition Scout series is designed for outdoor enthusiasts, offering durable construction and reliable functionality in various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "fbd3d039-4845-42f0-8314-c1177779733f",
+            "image": null,
+            "name": "KX250F",
+            "description": "The Kawasaki KX250F is a high-performance motocross motorcycle designed for competitive off-road racing, featuring advanced suspension and engine technology that provides excellent handling and power delivery.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "06f0c505-1a6b-4140-aba8-cb5494362e7e",
+            "image": null,
+            "name": "Phase One IQ3",
+            "description": "The Phase One IQ3 series is a line of medium format digital camera backs designed for professional photographers, offering high-resolution imaging and exceptional image quality suitable for commercial and fine art photography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Phase One"
+            }
+        },
+        {
+            "id": "59004d7e-4ad0-410f-a961-4effa8be9a3b",
+            "image": null,
+            "name": "Babyhome Vida",
+            "description": "The Babyhome Vida is a lightweight and compact stroller designed for urban use, offering convenience and ease of transport for parents and comfort for babies.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Babyhome"
+            }
+        },
+        {
+            "id": "334e1314-646d-4f9b-b902-a5a46ca09af2",
+            "image": null,
+            "name": "Kate Spade New York Fall Collection",
+            "description": "The Kate Spade New York Fall Collection features a variety of stylish and functional bags, designed to complement the autumn season with rich colors and elegant shapes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "7356c56f-a405-4586-b8ac-9454ebd95ae3",
+            "image": null,
+            "name": "Safety 1st Continuum 3-in-1 Convertible Car Seat",
+            "description": "The Safety 1st Continuum 3-in-1 Convertible Car Seat is designed to accommodate growing children from infancy through toddlerhood, offering versatility and safety across three different modes: rear-facing, forward-facing, and booster seat.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "6c30ec5f-d7cd-4dc4-8453-bb5f324d4ebe",
+            "image": null,
+            "name": "Chicco NextFit Zip 2 Convertible Car Seat",
+            "description": "The Chicco NextFit Zip 2 Convertible Car Seat is designed to provide safety and comfort for children as they grow. Its versatile design allows for both rear-facing and forward-facing use, accommodating children from infancy through toddlerhood.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "5a92f2ac-d8e5-4ff6-9bb8-85241a7b25d2",
+            "image": null,
+            "name": "Nacon Revolution X",
+            "description": "The Nacon Revolution X is a customizable gaming controller designed for competitive gaming, featuring adjustable weights and programmable buttons to enhance player performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "05c91bcb-de2e-4768-b7f7-3e38a5a42c7a",
+            "image": null,
+            "name": "Loewe Puzzle",
+            "description": "The Loewe Puzzle series is a collection of bags characterized by their geometric design and versatility, allowing for multiple carrying styles and configurations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Loewe"
+            }
+        }
+    ]
+}

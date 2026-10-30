@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "0c9976df-f1e5-4c9d-906f-3eb0a2c6e76f",
+            "image": null,
+            "name": "Chevrolet Cruze",
+            "description": "The Chevrolet Cruze is a compact car designed to provide a balance of style, efficiency, and advanced technology for everyday driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "24621008-8bab-42c5-b86a-b7162d7d4720",
+            "image": null,
+            "name": "T-Series",
+            "description": "The Rockford Fosgate T-Series is a line of car audio products designed to deliver high-quality sound and advanced performance. This series is known for its durability and ability to produce powerful, clear audio in automotive environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "960f049b-4740-4ec4-a543-8e9e25949290",
+            "image": null,
+            "name": "T1 Series",
+            "description": "The Rockford Fosgate T1 Series is a high-performance line of car audio products designed to deliver exceptional sound quality and power handling. It is characterized by advanced technologies and robust construction, aimed at audiophiles seeking an enhanced in-car listening experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "f28ccaf3-826e-4123-b2da-c567c4ece62c",
+            "image": null,
+            "name": "R3 Series",
+            "description": "The Rockford Fosgate R3 Series is designed to provide exceptional audio performance and clarity for car audio systems, featuring durable construction and versatility to enhance any vehicle's sound experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "1f7e691d-e64c-4905-aed4-2ab8faa8809b",
+            "image": null,
+            "name": "Chanel Spring/Summer 2021 Ready-to-Wear",
+            "description": "The Chanel Spring/Summer 2021 Ready-to-Wear collection features a blend of elegance and modernity, showcasing a variety of garments that embody the essence of the season with vibrant colors and refined silhouettes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0df85100-a059-49ac-811a-e869d1d620a7",
+            "image": null,
+            "name": "Hero Splendor iSmart 2017",
+            "description": "The Hero Splendor iSmart 2017 is a commuter motorcycle designed for fuel efficiency and reliability, catering primarily to everyday riders seeking a practical and economical option for urban commuting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "9d58fc3b-cb4c-4ffc-b415-889dea293a44",
+            "image": null,
+            "name": "Elixir Strings PolyWeb Coated Electric Guitar Strings",
+            "description": "Elixir Strings PolyWeb Coated Electric Guitar Strings are designed to deliver a smooth feel and long-lasting tone, providing electric guitar players with a reliable string option that resists dirt and wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "c10d5c50-76ac-4fc4-849c-937805873678",
+            "image": null,
+            "name": "August Smart Lock 2nd Gen",
+            "description": "The August Smart Lock 2nd Gen is a smart home device designed to retrofit existing deadbolts, allowing users to control access to their homes via a smartphone app, providing convenience and enhanced security.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "c65bd090-365e-4b88-a494-92779e789820",
+            "image": null,
+            "name": "VN Series",
+            "description": "The Kawasaki VN Series consists of a range of cruiser motorcycles designed for comfort and long-distance riding, featuring classic styling and a smooth power delivery.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "72e17015-eb1b-4592-83b8-ccbd72dfa065",
+            "image": null,
+            "name": "Honda CB300R",
+            "description": "The Honda CB300R is a lightweight and agile motorcycle designed for urban commuting as well as weekend rides. It features a minimalist design coupled with a powerful performance, making it suitable for both novice and experienced riders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "70a4f3b4-d2c8-413f-bfa5-a1053053e05c",
+            "image": null,
+            "name": "Volkswagen Golf VII",
+            "description": "The Volkswagen Golf VII is a compact car that blends practicality and performance, designed for everyday driving with efficient fuel consumption and advanced technology features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "b938ba44-7007-4ae9-b484-764ac81aa223",
+            "image": null,
+            "name": "Sub-Zero Refrigeration Series",
+            "description": "The Sub-Zero Refrigeration Series offers high-performance refrigeration solutions designed to preserve food at its optimal freshness. Known for its superior temperature control and durability, this series enhances the kitchen experience for both home and professional chefs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Sub-Zero"
+            }
+        },
+        {
+            "id": "57ebdb84-d664-4926-9363-5d20f8e027ea",
+            "image": null,
+            "name": "Kawasaki ZX-9R",
+            "description": "The Kawasaki ZX-9R is a sport motorcycle known for its powerful engine and agile handling, designed for both performance and everyday riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "ba195689-1e46-4182-911d-6301b0e914ed",
+            "image": null,
+            "name": "Paw Patrol: The Movie",
+            "description": "Paw Patrol: The Movie toys are based on the popular animated series featuring a group of adventurous rescue dogs. Designed for imaginative play, these toys encourage creativity and problem-solving skills in children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "04b76f23-42f0-480c-95be-5b1a34a8078e",
+            "image": null,
+            "name": "Green Toys Airplane",
+            "description": "The Green Toys Airplane is an environmentally friendly toy made from recycled plastic, designed to inspire imaginative play while promoting sustainable practices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "b52ea502-2851-4717-9e70-215b97a700df",
+            "image": null,
+            "name": "Green Toys Tugboat",
+            "description": "The Green Toys Tugboat is an eco-friendly bath toy designed for toddlers, made from recycled plastic. It encourages imaginative play and is safe for children, featuring easy-to-grasp handles and a watertight design for water play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "593c0dc9-0ca3-4a4a-9bca-286137362abf",
+            "image": null,
+            "name": "LeapStart",
+            "description": "LeapStart is an interactive learning system designed for preschool and early elementary school children, featuring a variety of engaging activities that promote essential skills such as reading, math, and problem-solving.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "1098ba1a-394f-40ae-903b-ee68bf5e3073",
+            "image": null,
+            "name": "Number Lovin' Oven",
+            "description": "The Number Lovin' Oven from LeapFrog is an interactive learning toy designed to teach children about numbers, counting, and basic math concepts through cooking play. It features fun sounds and phrases that engage children as they 'bake' and 'serve' delicious food.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "8ff57d59-6731-400d-8340-b587771f3ef4",
+            "image": null,
+            "name": "LeapFrog LeapStart",
+            "description": "The LeapFrog LeapStart series is an interactive learning system designed for preschool and early elementary school children, promoting foundational skills across subjects like reading, math, and social-emotional development through engaging audio and activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "f1e1781b-3968-4273-9a13-7b840e7e0f79",
+            "image": null,
+            "name": "LeapFrog Letter Factory Adventures",
+            "description": "The LeapFrog Letter Factory Adventures series consists of educational toys designed to help children learn the alphabet and develop early literacy skills through engaging activities and characters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "0f3d27ae-52de-4aa0-ab8d-1579b221c85d",
+            "image": null,
+            "name": "LeapFrog LeapStart 3D",
+            "description": "The LeapFrog LeapStart 3D is an interactive learning system designed for preschool and early elementary children, providing engaging activities that promote essential skills such as reading, math, and problem-solving through immersion in 3D animations.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "6f74384d-f1cf-48fd-bc96-e4cea5f0edc2",
+            "image": null,
+            "name": "LeapStart 3D",
+            "description": "The LeapFrog LeapStart 3D is an interactive learning system designed for children, incorporating a variety of engaging activities to foster essential skills in reading, math, and problem-solving through immersive 3D experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "92ed314b-531c-4354-98e9-a1635512c023",
+            "image": null,
+            "name": "Play-Doh Modeling Compound",
+            "description": "Play-Doh Modeling Compound is a non-toxic, colorful modeling clay designed for creative play and artistic expression. It allows children to shape, mold, and create their own imaginative designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "201341e9-a665-4bf6-b567-ff9a78725567",
+            "image": null,
+            "name": "Play-Doh Touch",
+            "description": "Play-Doh Touch is an interactive modeling compound toy series that allows children to create 3D models and bring them to life through digital applications, enhancing creativity and imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "c2d0bfec-9d6b-4add-a378-35a610d8222e",
+            "image": null,
+            "name": "Play-Doh Kitchen Creations",
+            "description": "Play-Doh Kitchen Creations is a series of play sets designed to inspire culinary creativity in children through interactive and imaginative play with non-toxic modeling clay.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "e827eef0-9907-4140-a144-32528773bd35",
+            "image": null,
+            "name": "Play-Doh Super Cloud",
+            "description": "Play-Doh Super Cloud is a creative modeling compound that is designed to be extra soft and fluffy, allowing children to easily shape and mold their artistic creations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "6a9a4110-ddd1-4193-87db-a5cad8cd57ba",
+            "image": null,
+            "name": "Play-Doh SoftPak",
+            "description": "Play-Doh SoftPak is a creative playset designed for children, featuring soft and pliable modeling compound that encourages imaginative play and motor skills development.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "dcc560da-6637-4ad8-9011-a7bd6774e452",
+            "image": null,
+            "name": "Play-Doh Mini",
+            "description": "Play-Doh Mini is a series of small, colorful modeling compounds designed for creative play. Its key purpose is to encourage creativity and imagination in children through hands-on sculpting activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "096232e7-37f2-4184-8e69-d80d0fa31874",
+            "image": null,
+            "name": "Play-Doh Brand Modeling Compound",
+            "description": "Play-Doh Brand Modeling Compound is a versatile and colorful modeling clay designed for creative play, allowing children to mold and shape a variety of fun designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "19f41bec-ab10-4d7e-8590-920f46adbd23",
+            "image": null,
+            "name": "Play-Doh Dr. Drill 'N Fill",
+            "description": "Play-Doh Dr. Drill 'N Fill is a creative play set that allows children to role-play as a dentist, using modeling compound to create dental-themed figures and practice basic dental care skills while engaging in imaginative play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        }
+    ]
+}

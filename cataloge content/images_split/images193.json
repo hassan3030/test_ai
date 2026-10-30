@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1eecac1a-b499-4fda-b931-5845cc86bac1",
+            "image": null,
+            "name": "Graco Mode 3 Lite DLX",
+            "description": "The Graco Mode 3 Lite DLX is a versatile stroller designed to adapt to your growing child's needs, offering multiple riding options and easy folding for convenient transport and storage.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "e439d583-442a-4bca-8659-b0bedfe1cd5e",
+            "image": null,
+            "name": "Cat & Jack",
+            "description": "Cat & Jack is Target's exclusive line of kids' clothing designed to be both stylish and durable, catering to the needs of active children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "fd402ab8-ff1d-414f-8faa-7e78edb3e9ef",
+            "image": null,
+            "name": "Heyday",
+            "description": "The Heyday series by Target offers a variety of fun and engaging toys designed to stimulate creativity and imaginative play among children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "634fb2a9-a610-4089-9716-621479bd7535",
+            "image": null,
+            "name": "Minnie Mouse Baby Gear Collection",
+            "description": "The Minnie Mouse Baby Gear Collection by Target features a range of strollers designed to provide comfort and safety for infants and toddlers while showcasing the beloved Disney character Minnie Mouse.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "d066d34a-fb33-4f05-94a0-17fb2ef48069",
+            "image": null,
+            "name": "FireCuda 530",
+            "description": "The Seagate FireCuda 530 is a high-performance NVMe SSD designed for gamers and creative professionals, offering rapid data transfer speeds and high durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "d1061723-432e-441e-a976-423d15ccde67",
+            "image": null,
+            "name": "L.O.L. Surprise! Toys",
+            "description": "L.O.L. Surprise! Toys are collectible dolls that come in a variety of themes and feature unboxing surprises, including outfits and accessories, aimed at children ages 4 and up.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "e153a376-9139-43ea-89aa-5216f3544e46",
+            "image": null,
+            "name": "The Wonder Shop",
+            "description": "The Wonder Shop by Target is a curated collection of toys designed to foster creativity and imaginative play, perfect for children of all ages.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "a0d2f8eb-d845-4d08-84ca-c220e263a480",
+            "image": null,
+            "name": "Paw Patrol",
+            "description": "The Paw Patrol series by Target consists of a variety of toys inspired by the popular animated television show, designed to encourage imaginative play and teamwork among children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "a0690c0e-34b2-4230-b730-9e70a06ad5f2",
+            "image": null,
+            "name": "Chicco Bravo Quick-Fold Travel System",
+            "description": "The Chicco Bravo Quick-Fold Travel System is a versatile stroller designed for convenience and ease of use, featuring a one-hand fold mechanism and a compatible infant car seat for seamless transitions from car to stroller.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "3d68af66-a700-4d33-81c7-eb277545e570",
+            "image": null,
+            "name": "Chicco NextFit Zip Convertible Car Seat",
+            "description": "The Chicco NextFit Zip Convertible Car Seat is designed to provide safety and comfort for children from infancy through toddlerhood, featuring an easy zip-off cover for convenient cleaning and a wide range of adjustable features to accommodate growing children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "09739f1b-6b15-4ed9-88d7-bb0797642bd4",
+            "image": null,
+            "name": "Chicco Bravo Quick-Fold Stroller",
+            "description": "The Chicco Bravo Quick-Fold Stroller is a versatile and user-friendly stroller designed for parents on the go, featuring a quick one-hand fold for easy storage and transport.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "f121de6d-9d84-4b81-9e26-41f0ee31efb4",
+            "image": null,
+            "name": "Chicco Oasys 1 Plus",
+            "description": "The Chicco Oasys 1 Plus is a baby seat designed for children aged 0 to 1 year, providing safety and comfort during travel.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "d7793f30-8503-437d-832f-9bf109a707eb",
+            "image": null,
+            "name": "Osann Kiddo",
+            "description": "The Osann Kiddo series offers a range of baby seats designed for safety and comfort during travel, suitable for infants and toddlers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "2dc217bb-5765-45d4-80b3-578f720a5563",
+            "image": null,
+            "name": "Osann Yago",
+            "description": "The Osann Yago series includes baby seats designed to provide safety and comfort for infants during travel. These seats feature a practical design suited for ease of use and installation in vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "2fbade24-72f9-4ed7-a11d-a9e18b2abb77",
+            "image": null,
+            "name": "OSANN Baby Seats",
+            "description": "The OSANN Baby Seats series offers a range of child safety seats designed to provide secure and comfortable seating for infants and toddlers during travel. These seats are characterized by their ease of use and safety features, ensuring optimal protection for young passengers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "8d7b02c5-cf14-422e-a25b-09cfad88413e",
+            "image": null,
+            "name": "Osann Ioki",
+            "description": "The Osann Ioki series features high-quality baby seats designed for safety and comfort during travel, making it an essential choice for parents on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "c3874131-18af-451c-81ae-9efb20072976",
+            "image": null,
+            "name": "Hauck Alpha Plus",
+            "description": "The Hauck Alpha Plus is a versatile baby seat designed to support infants and toddlers in various stages of development. Its sturdy construction and adjustable features make it suitable for use for many years.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "e1f8db3e-c749-4169-965c-1bfdc906cd85",
+            "image": null,
+            "name": "Rapid 4",
+            "description": "The Hauck Rapid 4 is a versatile stroller designed for active families, featuring a lightweight frame and a quick, compact fold for easy transportation.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "66eea7a8-ba6f-4165-9ec4-f2faa8dfea4e",
+            "image": null,
+            "name": "Spring 2019 Collection",
+            "description": "The OshKosh B’gosh Spring 2019 Collection features a range of stylish and durable children's clothing designed for comfort and ease of movement during playtime and everyday activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "3e9ca132-1b1a-463a-89c1-6f46cc291568",
+            "image": null,
+            "name": "OshKosh B’gosh Spring Collection",
+            "description": "The OshKosh B’gosh Spring Collection features stylish and comfortable kids' clothes designed for both play and everyday wear, emphasizing durability and classic designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "c8e2e4e3-ddc7-4d88-bb7f-a8ce9164dc7f",
+            "image": null,
+            "name": "Scholastic Reader",
+            "description": "The Scholastic Reader series is designed to engage young readers through fun and educational stories, helping them to build foundational reading skills while enjoying age-appropriate content.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Scholastic"
+            }
+        },
+        {
+            "id": "a5230fff-16e8-43da-9215-d7b0a46d0b31",
+            "image": null,
+            "name": "Scholastic Literacy Pro",
+            "description": "Scholastic Literacy Pro is an educational reading program designed to enhance literacy skills in children through a diverse selection of books and resources that promote reading engagement and comprehension.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Scholastic"
+            }
+        },
+        {
+            "id": "524f2ad1-eae0-4a21-ad5d-eb580342a8f7",
+            "image": null,
+            "name": "Scholastic Learn at Home",
+            "description": "Scholastic Learn at Home is an educational book series designed to provide engaging and age-appropriate learning materials for children, fostering literacy and critical thinking skills through enjoyable stories and activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Scholastic"
+            }
+        },
+        {
+            "id": "fcd94dcb-2a24-437c-b737-e39485dc25c4",
+            "image": null,
+            "name": "KidKraft Modern Living Room Set",
+            "description": "The KidKraft Modern Living Room Set is a toy furniture set designed to enhance imaginative play, featuring realistic details that allow children to create their own living space scenarios.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "f4436d21-3703-4581-bbae-3e1ea6ef5fcf",
+            "image": null,
+            "name": "KidKraft Farmhouse Kitchen",
+            "description": "The KidKraft Farmhouse Kitchen is a beautifully designed play kitchen that encourages imaginative play and creativity in children. It features realistic details and ample storage space for young chefs to explore their culinary skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "29fe1001-50b6-4cbf-879c-92cc194560e6",
+            "image": null,
+            "name": "KidKraft Adventure Town railway set",
+            "description": "The KidKraft Adventure Town railway set is a detailed and interactive toy train set designed to spark imaginative play in children, featuring roads, bridges, and various town elements.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "87ad0b85-70be-40be-a2d6-419f533dfad5",
+            "image": null,
+            "name": "KidKraft Majestic Mansion",
+            "description": "The KidKraft Majestic Mansion is a large dollhouse designed for imaginative play, featuring multiple rooms, functioning doors, and detailed accessories to enhance the play experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "182b5fb2-89f0-4fbb-a9bb-a1c5326de931",
+            "image": null,
+            "name": "KidKraft Modern Outdoor Playhouse",
+            "description": "The KidKraft Modern Outdoor Playhouse offers a stylish and imaginative environment for children to engage in creative play outdoors. Designed for durability and fun, it helps promote social interaction and imaginative storytelling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "37e5bfec-faf7-45b4-bf9f-daff52bacc9b",
+            "image": null,
+            "name": "KidKraft Urban Farmhouse Playset",
+            "description": "The KidKraft Urban Farmhouse Playset is a wooden dollhouse designed for imaginative play, featuring multiple rooms and outdoor areas. It encourages creativity and storytelling among children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "8ae842a0-0d30-4e4b-9276-77c8549f0603",
+            "image": null,
+            "name": "KidKraft Modern Farmhouse",
+            "description": "The KidKraft Modern Farmhouse series features a collection of versatile and imaginative toys designed to inspire creative play while emulating the charm of traditional farmhouse aesthetics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "660cce28-35b6-415d-bb5a-a7374a469b9f",
+            "image": null,
+            "name": "Coleman Instant Up 6P Tent",
+            "description": "The Coleman Instant Up 6P Tent is designed for quick and easy setup, offering spacious accommodations for up to six people, making it ideal for family camping trips.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "cd632fb1-2ad9-4bb2-bf61-6be78039475b",
+            "image": null,
+            "name": "Coleman RoadTrip 285 Portable Propane Grill",
+            "description": "The Coleman RoadTrip 285 Portable Propane Grill is a versatile outdoor cooking solution designed for camping and tailgating, featuring a compact design, adjustable burners, and a reliable propane fuel source for easy grilling on the go.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "ad67a00c-e4c9-42b6-ba98-23003fd25e11",
+            "image": null,
+            "name": "Coleman Camp Kitchen",
+            "description": "The Coleman Camp Kitchen series offers essential outdoor cooking solutions designed for camping enthusiasts, featuring versatile cooking equipment and storage options to enhance the campsite cooking experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "b6c6fb4a-6711-4d27-bb77-29cfaf978e9f",
+            "image": null,
+            "name": "Coleman Outdoor Portable Camping Toilet",
+            "description": "The Coleman Outdoor Portable Camping Toilet is a compact and convenient solution designed for outdoor use, providing a reliable option for sanitation when access to traditional facilities is limited.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "76f857e1-6774-4b45-b3e6-92f69dbd1d31",
+            "image": null,
+            "name": "Coleman RoadTrip 285",
+            "description": "The Coleman RoadTrip 285 is a portable propane grill designed for outdoor cooking, featuring a versatile cooking system and ample grilling space for family and friends.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "4d5c5885-e7d2-4217-8d6d-e3a3c7d999a2",
+            "image": null,
+            "name": "Coleman 2-Person Dome Tent",
+            "description": "The Coleman 2-Person Dome Tent is designed for camping enthusiasts seeking a lightweight and easy-to-set-up shelter for two people. It features durable materials and a spacious interior, making it an ideal choice for outdoor adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "8e6b61e8-a648-41b4-9906-a641e2ef62fa",
+            "image": null,
+            "name": "Coleman Roadtrip 285 Portable Stand-Up Propane Grill",
+            "description": "The Coleman Roadtrip 285 Portable Stand-Up Propane Grill is designed for outdoor cooking, offering a compact and portable solution for grilling while camping or tailgating with features that ensure convenience and ease of use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "af8c551e-153c-4fcc-b2d6-0dc4716440af",
+            "image": null,
+            "name": "Frog Bikes",
+            "description": "Frog Bikes are lightweight, high-quality bicycles designed specifically for children, promoting confidence and enjoyment while cycling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "89885b66-38f0-4830-aa69-8b8a062a0f85",
+            "image": null,
+            "name": "Frog 55",
+            "description": "The Frog 55 is a lightweight bike designed for children aged approximately 5 to 7 years old, promoting cycling skills and confidence in young riders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "84230558-1bf7-4a54-b9d0-14ebbcf1b5ca",
+            "image": null,
+            "name": "Frog Bikes 62",
+            "description": "The Frog Bikes 62 is a lightweight and durable children's bike designed for ages 5 to 6 years, promoting confidence and enjoyment in cycling. It features an easy-to-use gear system and adjustable components to accommodate growing children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Frog Bikes"
+            }
+        },
+        {
+            "id": "5c60dd99-6f57-469e-ab0e-fa4d9f650537",
+            "image": null,
+            "name": "Lamborghini Essenza SCV12",
+            "description": "The Lamborghini Essenza SCV12 is a limited-edition hypercar designed exclusively for track use, featuring a powerful V12 engine and advanced aerodynamics for unparalleled performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "6797fefe-d270-4ef0-a664-c2e858566222",
+            "image": null,
+            "name": "Elixir Strings Acoustic Guitar Strings Sets",
+            "description": "Elixir Strings Acoustic Guitar Strings Sets are designed to provide long-lasting tone and superior playability for acoustic guitarists, featuring a special coating that helps to resist dirt and corrosion.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "35428869-d1a7-43a5-8daf-792264c1b62a",
+            "image": null,
+            "name": "Thule Chariot",
+            "description": "The Thule Chariot series offers versatile child strollers designed for active families who want to enjoy outdoor activities such as running and biking while safely transporting their children.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "994e8640-8dc5-45f5-8c60-28a72dc6ceb5",
+            "image": null,
+            "name": "Thule RideAlong",
+            "description": "The Thule RideAlong is a child bicycle seat designed to provide a safe and comfortable riding experience for young children. It features an adjustable design, easy installation, and is suitable for children aged 9 months to 6 years.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "a3744098-045f-4a9a-9816-dde846988668",
+            "image": null,
+            "name": "Thule Venture",
+            "description": "The Thule Venture series is designed for bike transportation, offering secure and convenient solutions for transporting bikes on vehicles. It is built with durability and ease of use in mind, catering to outdoor enthusiasts and cyclists.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "517d6be9-2b71-485a-9538-0432bdd252e9",
+            "image": null,
+            "name": "Thule Subterra",
+            "description": "The Thule Subterra series includes versatile bags designed for travel and daily use, featuring organized compartments and durable materials for ease and functionality.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "53bee25d-189c-42b4-8a8f-ef8fe0d8ca14",
+            "image": null,
+            "name": "Thule AllTrail",
+            "description": "The Thule AllTrail series consists of versatile and functional bags designed for outdoor adventures, providing durability and organization for essentials during hiking and travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "2af8f809-2165-4731-a843-9e5c5514c01d",
+            "image": null,
+            "name": "Thule Tepui",
+            "description": "The Thule Tepui series offers durable rooftop tents designed for outdoor enthusiasts, providing a convenient and comfortable camping experience atop your vehicle.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "4219b0e5-8edb-4ab6-adb5-d21a081d16d5",
+            "image": null,
+            "name": "Thermex Aqua",
+            "description": "The Thermex Aqua series of water heaters is designed for efficient and reliable water heating, offering a variety of models to suit different household needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "c3f0c203-f335-43e2-930f-73f5d12a0503",
+            "image": null,
+            "name": "Ninja Intelli-Sense Kitchen System",
+            "description": "The Ninja Intelli-Sense Kitchen System is an innovative blending solution designed for versatility and convenience, featuring intelligent blending technology that recognizes the type of container used and adjusts settings accordingly.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "3365a6a1-48a4-476d-8ab9-9115f0a22e5b",
+            "image": null,
+            "name": "Ninja 4-in-1 Cooking System",
+            "description": "The Ninja 4-in-1 Cooking System is a versatile kitchen appliance that combines four cooking methods: air frying, baking, roasting, and dehydrating, allowing for a range of cooking options in one device.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "25448beb-1b06-45b8-8d01-5df83965c8b3",
+            "image": null,
+            "name": "Ninja Foodi",
+            "description": "The Ninja Foodi series includes versatile air fryers that combine multiple cooking methods, allowing users to fry, bake, roast, and dehydrate food with ease and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "7f86640a-b513-4058-8754-74366c4da2fb",
+            "image": null,
+            "name": "Ninja Blender Duo with Auto-iQ",
+            "description": "The Ninja Blender Duo with Auto-iQ is a high-performance blending appliance designed for versatility in food preparation. It features intelligent blending programs that simplify the process of creating smoothies, soups, and other blended recipes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "e078ffc2-2492-4437-a87a-4060a60ba623",
+            "image": null,
+            "name": "Ninja Blender Duo",
+            "description": "The Ninja Blender Duo is a versatile kitchen appliance designed for blending, pureeing, and crushing a variety of ingredients with ease. It features powerful motors and multiple speed settings for optimal blending performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "48e73041-adf5-4e30-a877-9ec79cbe1afd",
+            "image": null,
+            "name": "Ninja Grill",
+            "description": "The Ninja Grill series consists of versatile air fryers designed to provide a healthier alternative to traditional frying by using hot air circulation to cook food evenly and crisply.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "55e4db0d-8959-42be-9906-bdacbc9aa114",
+            "image": null,
+            "name": "Ninja Foodi Pressure Cooker",
+            "description": "The Ninja Foodi Pressure Cooker is a versatile kitchen appliance that combines pressure cooking and air frying capabilities, allowing you to quickly cook meals while achieving a crispy finish.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "5af97666-7959-4192-be48-73273f96b643",
+            "image": null,
+            "name": "Ninja DualBrew Pro Coffee System",
+            "description": "The Ninja DualBrew Pro Coffee System allows users to brew a variety of coffee styles using both ground coffee and pods, making it versatile for coffee enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "bee1f337-0268-42af-8817-4e4fd0282b91",
+            "image": null,
+            "name": "Ninja BN701 Professional Plus Bender with Auto-iQ",
+            "description": "The Ninja BN701 Professional Plus Bender with Auto-iQ is a high-performance blender designed for versatile blending, allowing users to create smoothies, sauces, and other blended recipes with ease, featuring automatic programs for consistent results.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "b6715d79-e9d4-47f2-a78e-528b4bb68e43",
+            "image": null,
+            "name": "Ninja Foodi Grill AG301",
+            "description": "The Ninja Foodi Grill AG301 is a versatile kitchen appliance that combines grilling, air frying, and baking functions, allowing users to prepare a variety of meals efficiently with minimal oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "168ac164-750a-40c8-9d19-f7549f856947",
+            "image": null,
+            "name": "Ninja DualBrew Pro",
+            "description": "The Ninja DualBrew Pro is a versatile coffee machine that allows users to brew both ground coffee and coffee pods, providing flexibility in brewing preferences. It features multiple brewing styles and customizable settings to suit individual tastes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        }
+    ]
+}

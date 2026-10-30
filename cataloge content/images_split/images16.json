@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "b1b99648-4f36-42c8-a922-6d18832c754d",
+            "image": null,
+            "name": "KTM 690",
+            "description": "The KTM 690 series is a range of lightweight and versatile motorcycles designed for off-road and street riding, known for their powerful engines and agile handling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "c46542f8-2483-421c-9129-cbd48a36043e",
+            "image": null,
+            "name": "Mercedes-Benz R-Class (W251)",
+            "description": "The Mercedes-Benz R-Class (W251) is a luxury midsize SUV that combines the spaciousness of an MPV with the performance and handling of a traditional SUV. Introduced in 2011, it offers a versatile interior and a comfortable ride for families and individuals alike.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "d0bcc1ef-f33c-45de-95db-f416e0c7ca1a",
+            "image": null,
+            "name": "KTM 85 SX",
+            "description": "The KTM 85 SX is a competition-oriented miniature motocross motorcycle designed for young racers, featuring lightweight construction and high-performance components suitable for serious track use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "db83cfac-4f1c-4972-b95c-7d2270cb07d4",
+            "image": null,
+            "name": "KTM 125 SX",
+            "description": "The KTM 125 SX is a lightweight motocross bike designed for competitive youth riders, offering a powerful engine and agile handling for effective performance on dirt tracks.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "f7ccd4f4-1685-4f32-9708-b11e56d03ec6",
+            "image": null,
+            "name": "Whirlpool WRF757SDEM",
+            "description": "The Whirlpool WRF757SDEM is a side-by-side refrigerator designed to offer a spacious interior and convenient organization features for efficient food storage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "f8d0c0b9-b624-4e0f-b67d-56c436b55942",
+            "image": null,
+            "name": "Piaggio X9",
+            "description": "The Piaggio X9 is a scooter series designed for urban commuting, offering a blend of comfort, performance, and practicality with stylish design elements.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "a2bde4db-ab66-469d-8e70-4ddc6151d4e0",
+            "image": null,
+            "name": "Dodo Juice Red Mist",
+            "description": "Dodo Juice Red Mist is a car care product series designed to enhance the appearance of vehicle paintwork while providing a protective layer. It is primarily used as a quick detailer to maintain shine between washes.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "fb6cc48f-b4b4-4573-b7f0-a5906c329eef",
+            "image": null,
+            "name": "GE Artistry Series Refrigerators",
+            "description": "The GE Artistry Series Refrigerators combine modern design with practical features for everyday use, providing a stylish and functional solution for food storage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b41ed24a-2b66-4620-b3c6-3beaadfa627e",
+            "image": null,
+            "name": "Lattissima Pro",
+            "description": "The De'Longhi Lattissima Pro is an advanced coffee machine designed for espresso and milk-based beverages, featuring a one-touch system that allows users to create a variety of drinks with ease.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "baf14d89-4108-4846-b90f-859b7da2f97c",
+            "image": null,
+            "name": "Mercedes-Benz CLA-Class",
+            "description": "The Mercedes-Benz CLA-Class is a luxury compact car that combines sporty design with high performance and advanced technology, intended for those who seek elegance and dynamism in their driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "c2b8e1b9-89d8-408e-9ea2-864d5e68ce37",
+            "image": null,
+            "name": "Dodo Juice Red Mist Tropical",
+            "description": "Dodo Juice Red Mist Tropical is a versatile detailing spray designed to enhance gloss and provide a protective layer on painted surfaces. It can be used on wet or dry vehicles, making it an ideal choice for quick touch-ups and maintenance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "cbafa639-4229-4347-bc65-f537fcdf4552",
+            "image": null,
+            "name": "Whirlpool 4-Door Refrigerators",
+            "description": "The Whirlpool 4-Door Refrigerators are designed to provide flexible storage options and organized food management, featuring separate compartments for refrigeration and freezing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "06213a6f-f71f-4b80-9128-ab86bdf94230",
+            "image": null,
+            "name": "TARVA",
+            "description": "The TARVA series by IKEA features solid wood wardrobes designed to provide durable and customizable storage solutions for various spaces, emphasizing a natural aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "0b7e91df-0066-4363-8930-0b110a28b73a",
+            "image": null,
+            "name": "Whirlpool WFC15000YB",
+            "description": "The Whirlpool WFC15000YB is a compact washing machine designed for small spaces, featuring a variety of wash cycles to accommodate different fabrics and laundry needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "14e74cac-2b34-47f0-81c8-73db3284ac21",
+            "image": null,
+            "name": "Mercedes-Benz ML-Class",
+            "description": "The Mercedes-Benz ML-Class is a luxury mid-size SUV known for its combination of comfort, performance, and advanced technology features designed for both on-road and off-road driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "2297ef5e-9c45-47ee-8ea9-9e9874824af6",
+            "image": null,
+            "name": "Lava Agni 5G",
+            "description": "The Lava Agni 5G is a smartphone series released by Lava in 2020, designed to provide 5G connectivity and modern smartphone features at an accessible price.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "26729a6e-2771-4441-89c2-50a996df82bf",
+            "image": null,
+            "name": "Dodo Juice Hard Candy",
+            "description": "Dodo Juice Hard Candy is a series of car care products designed to provide a high-gloss finish and effective protection for automotive paintwork. Launched in 2007, these products are known for their carnauba wax formulations and ease of use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "28b6eb74-2615-44de-ab57-12e3bcfecc5f",
+            "image": null,
+            "name": "Frigidaire 30\" Electric Range with Air Fry",
+            "description": "The Frigidaire 30\" Electric Range with Air Fry is designed to provide versatile cooking options, including a built-in air fry feature that allows for healthier meal preparation without sacrificing flavor.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "37ba1a18-65dc-4d33-a038-069bbddf60bd",
+            "image": null,
+            "name": "Lava Z6",
+            "description": "The Lava Z6 is a smartphone released in 2020, designed to provide essential features and efficient performance at an affordable price.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "3ce1cfe0-0bf7-4411-a458-f1ba18189ec9",
+            "image": null,
+            "name": "Dodo Juice Supernatural",
+            "description": "Dodo Juice Supernatural is a range of premium car care products designed for the detailing enthusiast, focusing on high-quality formulations for cleaning, polishing, and protecting vehicle surfaces.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "48a92a60-86dd-4329-b2d6-cf4a18a0f0a6",
+            "image": null,
+            "name": "Mercedes-Benz E-Class (W213)",
+            "description": "The Mercedes-Benz E-Class (W213) is a luxury vehicle series known for its advanced technology, elegant design, and comfortable interiors, offering a blend of performance and comfort for executives and families alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "edc56e49-84a6-41e1-9e61-f147337853a4",
+            "image": null,
+            "name": "Evenflo Symphony",
+            "description": "The Evenflo Symphony series is a versatile car seat designed for children from infancy through toddlerhood, offering multiple harness positions and ease of use for parents.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ee247a5a-3d6e-4bda-b488-1b973e9934f2",
+            "image": null,
+            "name": "Mercedes-Benz V-Class",
+            "description": "The Mercedes-Benz V-Class is a premium MPV designed for families and businesses, offering spaciousness, comfort, and versatility for both passenger and cargo transport.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "eeb307df-59a0-4ad5-8886-e98e0cabfd7d",
+            "image": null,
+            "name": "Mercedes-Benz S-Class (W222) Facelift",
+            "description": "The Mercedes-Benz S-Class (W222) Facelift is a luxury sedan that represents the pinnacle of automotive technology, comfort, and performance, designed to provide an unparalleled driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "eee61a13-ae70-47b7-ad3a-7d6153f74882",
+            "image": null,
+            "name": "Mercedes-Benz X-Class",
+            "description": "The Mercedes-Benz X-Class is a pickup truck designed to merge luxury with utility, aimed primarily at both lifestyle and commercial users who require versatility and off-road capability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "718c75f3-93f3-4a38-ab54-996f7556ff69",
+            "image": null,
+            "name": "Mercedes-Benz GLC (X253)",
+            "description": "The Mercedes-Benz GLC (X253) is a compact luxury SUV that combines stylish design with advanced technology and comfort, catering to both everyday driving and adventurous lifestyles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "773df794-9f41-44b2-b56a-7f663888df45",
+            "image": null,
+            "name": "Mercedes-Benz EQ",
+            "description": "The Mercedes-Benz EQ series represents the brand's commitment to electric mobility, showcasing a range of fully electric vehicles designed with sustainability, innovative technology, and advanced performance in mind.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "fb9b69f7-61b5-4efb-bdec-843dc9e66789",
+            "image": null,
+            "name": "Whirlpool 7.4 cu. ft. Electric Dryer with Steam",
+            "description": "The Whirlpool 7.4 cu. ft. Electric Dryer with Steam offers a spacious drying capacity and features steam technology to help reduce wrinkles and refresh clothes, making it an essential appliance for efficient laundry care.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "7797166f-5b57-43b2-8c1c-eb78dc0da8cc",
+            "image": null,
+            "name": "KTM 250 SX",
+            "description": "The KTM 250 SX is a high-performance motocross motorcycle designed for racing and off-road riding. Known for its lightweight construction and powerful two-stroke engine, it offers exceptional agility and handling on technical terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "888e9e29-af9a-45ef-a2f5-5995b265106a",
+            "image": null,
+            "name": "Mercedes-Benz GLA-Class",
+            "description": "The Mercedes-Benz GLA-Class is a compact luxury SUV introduced in 2014, known for its combination of sporty design, advanced technology, and versatile functionality suitable for urban driving and off-road adventures.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        }
+    ]
+}

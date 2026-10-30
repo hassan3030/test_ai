@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "cf91939f-07dd-40b4-9caa-0297e7cf9b23",
+            "image": null,
+            "name": "Gamblin Artist Colors Mediums",
+            "description": "Gamblin Artist Colors Mediums are designed to enhance the performance of oil paints, offering various formulations that alter the texture, drying time, and finish of the paint.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "9dd86b1b-0a95-41e4-8a43-a91e17c1b5bd",
+            "image": null,
+            "name": "Zymöl Concours Wax",
+            "description": "Zymöl Concours Wax is a premium car care product renowned for its high-quality formula designed to provide a deep, lasting shine and protection for automotive finishes. Launched in 2002, it is favored by car enthusiasts for its unique blend of natural waxes.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "a9403d22-585b-49f6-baed-5f9309b824e0",
+            "image": null,
+            "name": "Zymöl Vintage Wax",
+            "description": "Zymöl Vintage Wax is a premium car wax designed to enhance the appearance of classic and vintage vehicles by providing a deep, long-lasting shine while protecting the paint from environmental factors.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "0e4abc66-76c6-4c42-98f6-a859ed5ce3ed",
+            "image": null,
+            "name": "Zymöl Cleaner Wax",
+            "description": "Zymöl Cleaner Wax is a car care product introduced in 2001, designed to clean, polish, and protect automotive surfaces in one easy application.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "1645a970-269d-4267-a29b-831508388f0a",
+            "image": null,
+            "name": "Zymöl Concours",
+            "description": "Zymöl Concours is a premium line of car care products designed for luxury vehicles, focusing on enhancing their appearance and providing long-lasting protection.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "201fe749-f461-4f17-bf03-0bd109386637",
+            "image": null,
+            "name": "Britax Römer DUALFIX",
+            "description": "The Britax Römer DUALFIX is a versatile baby seat designed to provide safety and comfort for infants and toddlers. Its 360-degree rotation feature allows for easy access when placing or securing the child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "32515e6f-b42d-44c8-8a51-f7a3427d6bd9",
+            "image": null,
+            "name": "Britax Römer SMILE II",
+            "description": "The Britax Römer SMILE II is a versatile stroller designed for comfort and convenience, featuring a spacious seating area and a lightweight frame for easy maneuverability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b4705d33-1c21-4c61-be0c-672ea035ea0a",
+            "image": null,
+            "name": "Britax Römer Adventure",
+            "description": "The Britax Römer Adventure is a high-back booster seat designed for safety and comfort for children as they transition from a car seat to an adult seat belt. It features adjustable backrest and headrest to accommodate growing children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cc82dadf-1024-4470-90ce-70b7d4ea6dd6",
+            "image": null,
+            "name": "Britax Römer BABY-SAFE II i-Size",
+            "description": "The Britax Römer BABY-SAFE II i-Size is an infant car seat designed to provide safety and comfort for babies during travel. It features advanced safety technologies and is compatible with the i-Size standard for enhanced protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d5692de6-2148-47e1-a82f-d050bfe56f59",
+            "image": null,
+            "name": "Roccat Vulcan 121 AIMO",
+            "description": "The Roccat Vulcan 121 AIMO is a mechanical gaming keyboard designed for precision and performance, featuring customizable AIMO RGB lighting and tactile key switches for an enhanced gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "76a25336-0e6e-405a-a3fb-d550d9d90d29",
+            "image": null,
+            "name": "Kone Pure Ultra",
+            "description": "The Roccat Kone Pure Ultra is a lightweight gaming mouse designed for precision and comfort during intense gaming sessions, featuring a high-quality sensor and customizable features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "b03672d0-7304-4617-84c0-d005084fc27c",
+            "image": null,
+            "name": "Burst Pro",
+            "description": "The Roccat Burst Pro series consists of high-performance gaming accessories designed for gamers seeking precision and comfort. Featuring lightweight designs and advanced features, this series aims to enhance gaming experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "05e4ae28-d987-4009-b74d-5a293e46d823",
+            "image": null,
+            "name": "Burst Pro Air",
+            "description": "The Roccat Burst Pro Air is a wireless gaming mouse designed for high-performance gaming with a focus on precision, ergonomics, and comfort during extended gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "32612af8-c7b7-4fb1-861f-8029d33ed7d6",
+            "image": null,
+            "name": "Nacon Compact Controller",
+            "description": "The Nacon Compact Controller is a versatile gaming controller designed for ease of use and comfort during extended gaming sessions. Featuring a compact design and a variety of customizable buttons, it aims to enhance the gaming experience for players on various platforms.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "a139911f-70c4-46b8-9e65-a490fe8159ba",
+            "image": null,
+            "name": "Nacon Revolution Unlimited Pro Controller",
+            "description": "The Nacon Revolution Unlimited Pro Controller is a high-performance gaming controller designed for competitive gaming, featuring customizable buttons, adjustable weights, and a wireless connection option for enhanced gameplay experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "e48138f6-e1ca-4959-927f-cca475194e2e",
+            "image": null,
+            "name": "Nacon Asymmetric Wireless Controller",
+            "description": "The Nacon Asymmetric Wireless Controller is a game controller designed for console gaming, offering a unique asymmetric shape for improved comfort and access to features like wireless connectivity and customizable controls.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "d42523c8-f954-4ba1-bb93-26224e51cef1",
+            "image": null,
+            "name": "Revolution X",
+            "description": "The Nacon Revolution X is a customizable wired gaming controller designed for competitive gamers, offering precision control and multiple configuration options.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "4fd62ce6-033f-457a-8471-d5ff53995759",
+            "image": null,
+            "name": "Nacon Revolution X Pro Controller",
+            "description": "The Nacon Revolution X Pro Controller is a customizable game controller designed for competitive gaming, featuring programmable buttons and advanced features for enhanced gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "a51ad66c-aa14-4823-82cb-06a8f9b33a1a",
+            "image": null,
+            "name": "Hori Onyx Controller",
+            "description": "The Hori Onyx Controller is a wired gamepad designed for the PlayStation 4, offering enhanced ergonomic features and customizable options for a comfortable gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "f55c9995-6fc3-4783-8b96-cff4381448e5",
+            "image": null,
+            "name": "Hori Fighting Commander for PS4",
+            "description": "The Hori Fighting Commander for PS4 is a specialized controller designed for fighting games, featuring a six-button layout and improved ergonomics for better performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "3479434a-e5a6-42da-aeaf-286674b593be",
+            "image": null,
+            "name": "Hori Battle Pad for Wii U",
+            "description": "The Hori Battle Pad for Wii U is a controller designed for enhanced gameplay, featuring an ergonomic design and a layout optimized for fighting games. It aims to provide players with improved control and responsiveness during their gaming sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "1f500bfe-432c-434e-89b2-1f314b73149b",
+            "image": null,
+            "name": "Hori Nintendo Switch Battle Pad",
+            "description": "The Hori Nintendo Switch Battle Pad is a versatile game controller designed for Nintendo Switch that provides an ergonomic grip and features customizable button layouts for enhanced gameplay experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "c97aaa4f-4e52-4b57-8143-5793b690f56b",
+            "image": null,
+            "name": "Hori Onyx Wireless Controller",
+            "description": "The Hori Onyx Wireless Controller is a customizable game controller designed for the Nintendo Switch, featuring a wireless connection and ergonomic design for enhanced gaming comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "f6aa1ecd-33cb-4a0b-bef3-22158fef9c7f",
+            "image": null,
+            "name": "Hori Fighting Commander",
+            "description": "The Hori Fighting Commander series offers a range of wired game controllers designed specifically for fighting games, featuring customizable buttons and layouts for enhanced gameplay performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "bbcb4f7b-ecf7-4500-9cce-deeb37e18002",
+            "image": null,
+            "name": "Hori D-Pad Wireless Controller",
+            "description": "The Hori D-Pad Wireless Controller is designed for gamers seeking a comfortable and responsive control experience, featuring a traditional D-pad layout optimized for 2D gaming and retro titles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "d07e0c18-c6b0-43ce-9c24-f8e218205e94",
+            "image": null,
+            "name": "Hori Switch Wireless Battle Pad",
+            "description": "The Hori Switch Wireless Battle Pad is a third-party controller designed for the Nintendo Switch, featuring an ergonomic design and wireless connectivity for a comfortable gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "ad9db9f7-e377-4f8f-84aa-2092314ca67c",
+            "image": null,
+            "name": "Hori Split Pad Pro",
+            "description": "The Hori Split Pad Pro is an ergonomic controller designed specifically for the Nintendo Switch, featuring larger grips and additional functionality to enhance gameplay comfort and control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "3db9ab49-d969-4985-b9b6-52a7c4822865",
+            "image": null,
+            "name": "Split Pad Pro",
+            "description": "The Hori Split Pad Pro is a set of detachable controllers designed for the Nintendo Switch, offering enhanced ergonomics and additional functionality for a more comfortable gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "f4ae34d4-06a0-43dd-8e98-23c8b380bebf",
+            "image": null,
+            "name": "Fishing Rod Controller",
+            "description": "The Hori Fishing Rod Controller is a unique gaming accessory designed to enhance the fishing game experience with a realistic fishing rod design and responsive controls.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "82040cb6-3a48-49cd-ad31-4b3d36aed935",
+            "image": null,
+            "name": "Hori D-Pad Controller",
+            "description": "The Hori D-Pad Controller is designed for gamers who prefer a traditional D-Pad layout for precise movements in various gaming genres. This controller combines ergonomic design with responsive controls to enhance the gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        }
+    ]
+}

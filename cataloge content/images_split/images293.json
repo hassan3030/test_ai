@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "9a1753c9-040b-4335-b21d-fc313a1993f3",
+            "image": null,
+            "name": "BenQ TK700STi",
+            "description": "The BenQ TK700STi is a compact 4K home projector designed for short throw applications, providing high-resolution visuals suitable for gaming and movie watching.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "3220678e-4f5f-4fdd-bf0f-1783daa9816e",
+            "image": null,
+            "name": "Longines Conquest V.H.P.",
+            "description": "The Longines Conquest V.H.P. series is known for its high-precision quartz movement and durability, making it an excellent choice for those seeking an athletic and reliable timekeeping instrument.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Longines"
+            }
+        },
+        {
+            "id": "a2f58ed5-b4ab-429a-8610-eb51d2fd078e",
+            "image": null,
+            "name": "Transformers: Rise of the Beasts",
+            "description": "Transformers: Rise of the Beasts is a toy line based on the Transformers franchise, featuring characters that transform from vehicles into beasts and vice versa, allowing for imaginative play and collection.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "40119816-e01b-4aed-b4a4-d0a2e9af4d86",
+            "image": null,
+            "name": "Studio",
+            "description": "The Marshall Studio series comprises a range of compact, high-quality musical instruments that embody Marshall's signature sound and style, designed for musicians seeking professional performance in versatile formats.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "e0103c92-fd9b-4026-b030-6ca88f5c9c6a",
+            "image": null,
+            "name": "Safavieh Couture",
+            "description": "The Safavieh Couture series features a collection of elegantly designed sofas that emphasize style and comfort, crafted to enhance contemporary living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Safavieh"
+            }
+        },
+        {
+            "id": "c3e26a33-09fa-48c1-b8ba-cab6910f4b8c",
+            "image": null,
+            "name": "ROG Phone",
+            "description": "The Asus Republic of Gamers (ROG) Phone series is designed for gaming enthusiasts, offering high-performance specifications and features tailored for an immersive gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "b023abe6-b83e-4c1f-bd9f-ba6899b2698e",
+            "image": null,
+            "name": "Combi Urban Walk",
+            "description": "The Combi Urban Walk series is designed for urban parents, offering lightweight and compact strollers that are easy to maneuver in crowded city environments while ensuring comfort and safety for children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Combi"
+            }
+        },
+        {
+            "id": "793aca10-0a3b-4659-a40f-b1883ed42bbe",
+            "image": null,
+            "name": "Hästens 2000T",
+            "description": "The Hästens 2000T is a luxury bed series designed to offer optimal support and comfort for a restful night's sleep, incorporating natural materials and traditional craftsmanship.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Hästens"
+            }
+        },
+        {
+            "id": "e3cd538b-fd60-41f3-9656-08c862ac092f",
+            "image": null,
+            "name": "AORUS GeForce RTX 30 Series",
+            "description": "The AORUS GeForce RTX 30 Series by Gigabyte is designed for high-performance gaming and creative tasks, providing advanced graphics capabilities powered by NVIDIA's Ampere architecture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "e544fb5a-2c05-48fe-abc2-dfde6797bc96",
+            "image": null,
+            "name": "Audi A8 (2010 Generation)",
+            "description": "The Audi A8 (2010 Generation) is a luxury full-size sedan known for its advanced technology, performance, and premium interior quality. It is designed to provide exceptional comfort and a dynamic driving experience, making it a top choice in the executive car segment.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "35f30a7b-68b1-4d21-a7c7-d75ae3db4ea4",
+            "image": null,
+            "name": "Micron 5200 Series",
+            "description": "The Micron 5200 Series is a line of solid-state drives (SSDs) designed for enterprise and datacenter applications, providing high endurance, reliability, and performance for demanding workloads.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Micron Technology"
+            }
+        },
+        {
+            "id": "5202c0ae-d8b1-4cdc-ad58-523f9a22aeac",
+            "image": null,
+            "name": "Smoby XL Happy Garden",
+            "description": "Smoby XL Happy Garden is a series of outdoor toys designed for children to promote imaginative play and active outdoor engagement. These toys encourage creative interaction and help develop motor skills through fun, garden-themed activities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Smoby"
+            }
+        },
+        {
+            "id": "1d62e8f2-0bd2-4621-9563-433fd1e0b9df",
+            "image": null,
+            "name": "BenQ MOBIUZ EX3210R",
+            "description": "The BenQ MOBIUZ EX3210R is a gaming monitor designed to deliver immersive visuals and an enhanced gaming experience with its swift refresh rate and adaptive sync technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "71cbeb5f-19a3-4c3f-ae1e-343098bbbc16",
+            "image": null,
+            "name": "Copic Sketch Markers",
+            "description": "Copic Sketch Markers are high-quality alcohol-based markers designed for blending and layering, ideal for artists and illustrators.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "083a4ccc-07f7-43f1-8b30-1f1d5c44265a",
+            "image": null,
+            "name": "BenQ GS2",
+            "description": "The BenQ GS2 is a portable, wireless projector designed for outdoor entertainment, featuring IPX2 splash resistance and a long battery life for versatile viewing options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "ca933617-d3e6-4367-80af-f73a558deb4e",
+            "image": null,
+            "name": "Škoda Octavia (Fourth Generation)",
+            "description": "The Škoda Octavia (Fourth Generation) is a compact car designed to offer practicality, advanced technology, and comfort, appealing to both families and individuals seeking efficient transportation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "155aa981-30bd-492f-9e9d-4b8d4633f74c",
+            "image": null,
+            "name": "NYXL",
+            "description": "D'Addario NYXL strings are designed for improved tuning stability, enhanced longevity, and increased output. The series is known for its durable construction and vibrant tone, making it suitable for a wide range of musical genres.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "4b2b91dc-12d7-4977-adfb-5e99ac4234f4",
+            "image": null,
+            "name": "Penny Nickel Series",
+            "description": "The Penny Nickel Series features mid-sized skateboards that are ideal for cruising and commuting, combining the classic Penny design with enhanced stability and performance for riders of all skill levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "271152c2-0cdf-4ce6-9b90-40f47f79ea99",
+            "image": null,
+            "name": "EJ Neon",
+            "description": "The D'Addario EJ Neon series features colorful guitar strings designed to enhance both playability and visibility. Made with durable materials, they are suitable for a variety of musical styles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "7ed29df4-3159-4451-9313-1135ff5f0b73",
+            "image": null,
+            "name": "Mini Rodini AW17 Collection",
+            "description": "The Mini Rodini AW17 Collection features a range of stylish and comfortable kids' clothes designed to blend fun, functionality, and sustainability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "c5c1b8f8-29d7-4b08-b5b3-47f7d62ee0da",
+            "image": null,
+            "name": "KTM 1190 RC8 R",
+            "description": "The KTM 1190 RC8 R is a high-performance sport motorcycle designed for racing enthusiasts, featuring a powerful V-twin engine and advanced suspension systems for superior handling on the track.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "1bfc9014-cb56-4d62-bca3-72a9c2e17708",
+            "image": null,
+            "name": "Tiggo 7 Pro",
+            "description": "The Chery Tiggo 7 Pro is a mid-size SUV designed to offer a balance of comfort, technology, and performance for urban and family use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "4420567a-3ba9-4570-8772-9e81f8279371",
+            "image": null,
+            "name": "Penny 22",
+            "description": "The Penny 22 series by Penny Skateboards features compact, lightweight skateboards designed for easy transportation and cruising. Known for their durable construction and vibrant colors, these boards are ideal for both beginners and experienced riders looking for a stylish way to ride.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "96b62799-067d-4daf-b265-3537364053b5",
+            "image": null,
+            "name": "Mini Rodini SS21",
+            "description": "The Mini Rodini SS21 series features playful and stylish children's clothing, designed with sustainability and comfort in mind. This collection emphasizes imaginative designs that appeal to both kids and their parents.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "1fcff24c-b826-423f-884a-e4df887218ac",
+            "image": null,
+            "name": "Chevrolet Captiva",
+            "description": "The Chevrolet Captiva is a midsize SUV designed to provide a comfortable and versatile driving experience, ideal for families and individuals seeking space and utility.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "fb9d3139-200c-4475-9085-1c26f5e3ce30",
+            "image": null,
+            "name": "Reissue Skateboards",
+            "description": "The Powell Peralta Reissue Skateboards series features classic skateboard designs that pay homage to the brand's iconic history while offering modern construction and performance. These skateboards are aimed at both collectors and skaters looking for a blend of nostalgia and functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "d2bc3aaa-0ea4-46b4-a271-f4b107818a7b",
+            "image": null,
+            "name": "Bernhardt Design",
+            "description": "The Bernhardt Design series features a collection of elegantly designed sofas that prioritize comfort and style, suitable for both residential and commercial settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Bernhardt"
+            }
+        },
+        {
+            "id": "6343e76e-61ff-4b1b-afd0-630d3392505c",
+            "image": null,
+            "name": "ROG Strix G15/G17",
+            "description": "The Asus Republic of Gamers ROG Strix G15/G17 series consists of high-performance gaming laptops designed to meet the needs of gamers with powerful hardware, advanced cooling systems, and customizable RGB lighting.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "cc826f4e-58d6-42ca-86e5-6d9fce7571d5",
+            "image": null,
+            "name": "ROG Swift PG32UQ",
+            "description": "The Asus Republic of Gamers ROG Swift PG32UQ is a high-performance gaming monitor designed to deliver exceptional image quality and responsiveness for immersive gaming experiences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "3f7c96ae-e866-46d0-a050-b4edb251e1c4",
+            "image": null,
+            "name": "AORUS GeForce 16 Series",
+            "description": "The AORUS GeForce 16 Series by Gigabyte is a line of graphics cards designed for gamers and content creators, offering a balance of performance and affordability with advanced cooling solutions and customizable RGB lighting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        }
+    ]
+}

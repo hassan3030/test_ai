@@ -1,0 +1,356 @@
+{
+    "data": [
+        {
+            "id": "375667ac-1beb-4f53-94b1-90ac494a4cc9",
+            "image": null,
+            "name": "Fisher-Price Smart Stages",
+            "description": "The Fisher-Price Smart Stages series features interactive toys designed to grow with your child through three levels of play, engaging them with age-appropriate content that promotes learning and development.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "89bb2fbc-2dbd-4c49-8799-fab25990cde3",
+            "image": null,
+            "name": "Fisher-Price Imaginext",
+            "description": "The Fisher-Price Imaginext series features action figures and playsets designed to inspire imaginative play in children, encouraging creativity and storytelling through interactive adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "2bcff757-575d-4665-b6a8-79c96eb0fc0b",
+            "image": null,
+            "name": "Joie Pact",
+            "description": "The Joie Pact series of strollers is designed for convenience and portability, featuring a lightweight and compact fold for easy transportation and storage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4e61cd91-53fd-4e88-8fc4-3eaf65db5668",
+            "image": null,
+            "name": "Baby Jogger City Mini 2",
+            "description": "The Baby Jogger City Mini 2 is a versatile stroller designed for easy maneuverability and comfortable rides, making it ideal for parents navigating city landscapes with their little ones.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3bccdf81-02de-4aa4-9cc8-16982fad2c53",
+            "image": null,
+            "name": "Fisher-Price Baby's First Blocks",
+            "description": "Fisher-Price Baby's First Blocks is a developmental toy designed to encourage sorting, stacking, and hand-eye coordination in infants and toddlers. The colorful blocks help enhance fine motor skills and promote sensory exploration.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "c27f7587-27f0-43dd-80e6-00f9eb9fd677",
+            "image": null,
+            "name": "Electrolux 700 Series",
+            "description": "The Electrolux 700 Series refrigerators are designed for modern households, offering advanced cooling technology and energy-efficient performance to keep food fresh and organized.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c297e886-f8b5-415e-8519-3a7ffa14566b",
+            "image": null,
+            "name": "Can-Am Spyder",
+            "description": "The Can-Am Spyder is a three-wheeled motorcycle designed for stability and comfort, offering a unique riding experience compared to traditional two-wheeled motorcycles. It combines the excitement of motorcycling with the added safety of a broader stance and vehicle-like handling.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "c2c88c58-63d9-4866-b848-bf5708e3ca27",
+            "image": null,
+            "name": "Audi Allroad",
+            "description": "The Audi Allroad is a versatile crossover vehicle first introduced in 2002, known for its combination of off-road capability and luxury features. It is designed to provide a balanced driving experience on various terrains while maintaining the comfort and performance Audi is known for.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c5411d7e-ec79-4b99-974f-6160ed055d17",
+            "image": null,
+            "name": "Edelbrock Performer EPS",
+            "description": "The Edelbrock Performer EPS is a range of aftermarket intake manifolds designed to enhance the performance of small-block Chevrolet engines, providing improved throttle response and increased horsepower across a broad RPM range.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "4e610f5c-e6d7-4f38-95a9-c82c189d7eb5",
+            "image": null,
+            "name": "Baby Carrier Mini",
+            "description": "The BabyBjörn Baby Carrier Mini is a compact and lightweight baby carrier designed for short babywearing sessions and for newborns up to 12 months, providing comfortable support for both the baby and the caregiver.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "0797c7cf-a81f-4909-8626-5d2745987473",
+            "image": null,
+            "name": "Baby Carrier Harmony",
+            "description": "The BabyBjörn Baby Carrier Harmony is designed to provide a comfortable and ergonomic way for parents to carry their babies with support for both the child and the adult. It features multiple carrying positions and is suitable for newborns up to toddlers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "84de9cac-a26a-4878-aac6-58ca225d5602",
+            "image": null,
+            "name": "Baby Carrier One Air",
+            "description": "The BabyBjörn Baby Carrier One Air is a versatile baby carrier designed for comfort and ease of use, featuring breathable mesh fabric to keep both parent and child cool. It allows for multiple carrying positions and supports the child's head, neck, and spine properly.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "4e04b3e3-1ec9-49c6-8cdb-26dc1b59a7c4",
+            "image": null,
+            "name": "Bouncer Bliss",
+            "description": "The BabyBjörn Bouncer Bliss is a lightweight and portable baby seat designed to provide a safe and comfortable place for infants to relax and play. Its ergonomic design promotes healthy development with natural rocking motion and adjustable seating positions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "79a52232-4873-4f5a-8cd0-dcd4704f2cc5",
+            "image": null,
+            "name": "Advocate ClickTight",
+            "description": "The Britax Advocate ClickTight is a convertible car seat designed to accommodate children from birth to a higher weight limit, offering enhanced safety features and easy installation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9f8edc2-4f4e-4225-ad41-9060924c15f9",
+            "image": null,
+            "name": "Boulevard ClickTight",
+            "description": "The Britax Boulevard ClickTight is a convertible car seat designed for safety and convenience, featuring an innovative ClickTight installation system that ensures a secure fit in vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5daa6afd-ebc5-4879-bc50-60ea340e965c",
+            "image": null,
+            "name": "B-Safe Gen2",
+            "description": "The Britax B-Safe Gen2 is an infant car seat designed for safety and convenience, featuring a base that allows for easy installation and high side walls for enhanced protection.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c5f411e1-68d0-46a1-996c-befbdd6623f7",
+            "image": null,
+            "name": "Bajaj Pulsar 200 AS",
+            "description": "The Bajaj Pulsar 200 AS is a motorcycle designed for both commuting and sport riding, featuring a powerful engine and advanced features for enhanced performance and comfort.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "09d0bbb2-905e-45dc-9d49-87dc0bc5d192",
+            "image": null,
+            "name": "Evenflo SureRide",
+            "description": "The Evenflo SureRide is a series of convertible car seats designed to provide safety and comfort for children during car travel. It features multiple recline positions and adjustable harness systems to accommodate growing children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d3f17f50-4025-43bb-a747-eadb532fafce",
+            "image": null,
+            "name": "Evenflo SafeMax",
+            "description": "The Evenflo SafeMax series includes a range of baby car seats designed for safety and comfort. These seats are engineered to meet or exceed various safety standards, providing parents with peace of mind while traveling with their infants and toddlers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f73b0423-2331-40d0-b584-5318ca7c441e",
+            "image": null,
+            "name": "Evenflo Gold Pivot Xpand Travel System",
+            "description": "The Evenflo Gold Pivot Xpand Travel System is a versatile stroller that easily converts from a single-to-double stroller, designed for families on the go, offering comfort and convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "be2091a8-2ac9-456f-9d3e-ad9238bae599",
+            "image": null,
+            "name": "Evenflo Symphony Elite All-in-One Car Seat",
+            "description": "The Evenflo Symphony Elite All-in-One Car Seat is designed to provide safety and comfort for children from infancy through toddlerhood. It features multiple seating modes to accommodate growing children and is engineered for easy installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4442d59a-35a7-4fd1-9f4d-cca9c252c4ed",
+            "image": null,
+            "name": "Evenflo Chase LX Booster Car Seat",
+            "description": "The Evenflo Chase LX Booster Car Seat is designed to provide safety and comfort for growing children, featuring a multi-functional design that allows it to transition from a harnessed booster seat to a high-back booster seat.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e48480eb-dc0b-4c13-b508-1080f6c363f1",
+            "image": null,
+            "name": "Pivot",
+            "description": "The Evenflo Pivot series of strollers offers versatility and convenience for parents on the go, featuring multiple seating configurations and a lightweight design for easy maneuverability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "929166f4-5905-4ef9-af1d-d6a71a146d71",
+            "image": null,
+            "name": "Evenflo Snugli",
+            "description": "The Evenflo Snugli series includes ergonomic baby seats designed to provide comfort and support for both the child and the caregiver. These baby seats are aimed at facilitating safe and convenient transportation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c72d3902-bb23-4ca9-b5e6-1566c2772e28",
+            "image": null,
+            "name": "Prada Nylon",
+            "description": "The Prada Nylon series features bags made primarily from durable nylon that balances functionality with sophisticated design, promoting a modern aesthetic that is both practical and stylish.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7fd44604-081a-46b2-b11c-4174b17d82e8",
+            "image": null,
+            "name": "Evenflo Gold Pivot Xpand",
+            "description": "The Evenflo Gold Pivot Xpand is a versatile stroller that adapts to accommodate one or two children, providing convenience and comfort for families on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f943c7aa-9385-421b-8660-41476fc7412f",
+            "image": null,
+            "name": "Mico AP",
+            "description": "The Maxi-Cosi Mico AP is a lightweight infant car seat designed to provide safety and comfort for babies while traveling. It features a unique stay-in-car base for easy installation and a canopy for sun protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0533534c-ca85-4fde-9ed9-a05ea1432202",
+            "image": null,
+            "name": "Maxi-Cosi Pebble 360",
+            "description": "The Maxi-Cosi Pebble 360 is a versatile infant car seat designed for safety and convenience, allowing for easy rotation and installation in various vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5edd0d3a-84b6-4920-9d79-a50dde381f1e",
+            "image": null,
+            "name": "Maxi-Cosi Rock",
+            "description": "The Maxi-Cosi Rock is a baby seat designed to provide safe and comfortable travel for infants, featuring a convenient carry handle for portability and enhanced safety features for peace of mind.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "51f09ed7-8c4d-4363-80b3-8bdcc651446e",
+            "image": null,
+            "name": "AORUS Gaming Series",
+            "description": "The Gigabyte AORUS Gaming Series is a line of high-performance gaming PCs designed for immersive gaming experiences, featuring powerful hardware and customizable options to meet the needs of gamers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        }
+    ]
+}

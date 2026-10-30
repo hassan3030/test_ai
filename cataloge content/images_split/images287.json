@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "f73a3ea2-6f88-4241-abde-202038e61470",
+            "image": null,
+            "name": "Melitta Purista",
+            "description": "The Melitta Purista is a series of coffee machines designed for effortless brewing, catering to coffee enthusiasts who value simplicity and quality in their daily coffee experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "8c0eadb2-d588-4c85-bce3-55f666f3d1f5",
+            "image": null,
+            "name": "Nokian Powerproof",
+            "description": "The Nokian Powerproof is a high-performance tire series designed for dynamic driving and optimal grip in both wet and dry conditions, emphasizing safety and stability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "905c26ba-9a2b-492a-8bc9-490aeb1b9da4",
+            "image": null,
+            "name": "Play-Doh: Touch",
+            "description": "Play-Doh: Touch is an interactive modeling compound series that combines traditional Play-Doh with digital technology, allowing children to create and animate their own projects using tablet applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "dc7cb834-ce98-4cfe-8071-9aa2e5aa1646",
+            "image": null,
+            "name": "My Little Pony: Friendship Is Magic - Equestrian Girls",
+            "description": "Hasbro's My Little Pony: Friendship Is Magic - Equestrian Girls series features dolls and toys that celebrate friendship and adventure through the characters of the beloved My Little Pony franchise, specifically focusing on the humanized versions of the ponies as teenagers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "dfca6d1c-7370-4fb7-8bd2-be2a2af9574f",
+            "image": null,
+            "name": "Flip XT",
+            "description": "The Mamas & Papas Flip XT is a versatile stroller designed for families, offering multiple seating configurations and ease of use for parents while ensuring comfort for infants.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mamas & Papas"
+            }
+        },
+        {
+            "id": "48106ffe-ff23-46b9-83f5-00c0f68102b4",
+            "image": null,
+            "name": "Monopoly: Fortnite",
+            "description": "Monopoly: Fortnite is a themed version of the classic board game Monopoly that combines elements from the popular video game Fortnite. Players collect health points, build structures, and aim to be the last one standing, reflecting the strategic gameplay of Fortnite.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "da9ad799-17a3-46d8-b175-9625079fbdec",
+            "image": null,
+            "name": "Zymöl Bodywax",
+            "description": "Zymöl Bodywax is a specialized car care product designed to provide a deep shine and protective barrier to automotive paint surfaces, enhancing their appearance and longevity.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "53c7b7b9-e34b-44ca-84b1-87b225e5222a",
+            "image": null,
+            "name": "ROG Maximus IX Formula",
+            "description": "The Asus Republic of Gamers (ROG) Maximus IX Formula is a high-performance gaming motherboard designed for gamers and enthusiasts seeking advanced features, stability, and overclocking capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "c958d2ea-b1f4-4513-8c26-1210a2919549",
+            "image": null,
+            "name": "Karma",
+            "description": "The GoPro Karma is a camera system that includes a drone and stabilizer designed for capturing high-quality aerial and handheld footage, making it ideal for adventure enthusiasts and content creators.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "1928217a-5eea-4f28-85ad-3ae34649b3ca",
+            "image": null,
+            "name": "Jabra Elite 85t",
+            "description": "The Jabra Elite 85t are true wireless earbuds designed for an optimal listening experience with adjustable active noise cancellation and a comfortable fit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "01d114da-8670-409f-ae14-2d1d3bfeb453",
+            "image": null,
+            "name": "Oasis",
+            "description": "The Therm-a-Rest Oasis series offers portable and lightweight camping gear designed for comfort and convenience during outdoor adventures, ensuring a restful experience in varied environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "12f8bc13-87a8-4c78-9ac4-787a5f147498",
+            "image": null,
+            "name": "Chicco Happy Snack",
+            "description": "Chicco Happy Snack is a series of engaging toys designed to stimulate children's imagination and fine motor skills through interactive play. The toys are crafted with child-safe materials for fun and educational experiences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Chicco Italy"
+            }
+        },
+        {
+            "id": "29f98a62-da49-484f-9ef6-5f44bdf6aed5",
+            "image": null,
+            "name": "Sleep System",
+            "description": "The Therm-a-Rest Sleep System is designed to enhance camping comfort with its combination of sleeping pads, sleeping bags, and pillows, offering insulation and support for a restful night's sleep in the outdoors.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "571ee598-a19e-49d3-a72c-49904682d60f",
+            "image": null,
+            "name": "Paw Patrol: Sea Patrol",
+            "description": "Paw Patrol: Sea Patrol is a toy series that features the beloved characters from Paw Patrol in a marine adventure theme, allowing children to engage in imaginative play as they assist the pups in rescue missions at sea.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "c64a5907-531d-43fb-bed5-be4cdbf7d877",
+            "image": null,
+            "name": "Peg Perego John Deere Gator XUV",
+            "description": "The Peg Perego John Deere Gator XUV is a battery-operated ride-on vehicle designed for children, featuring realistic design and sturdy construction for outdoor play.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a8fd8a2c-449c-45cb-926b-3044b9f3af20",
+            "image": null,
+            "name": "Threadripper",
+            "description": "The AMD Threadripper series is designed for high-performance computing, catering to professional users and enthusiasts who require superior multi-threaded performance for tasks such as content creation, 3D rendering, and scientific simulations.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "0c3d000b-9776-4697-a548-7c7cbb5412ba",
+            "image": null,
+            "name": "Jabra Elite 7 Pro",
+            "description": "The Jabra Elite 7 Pro headphones are true wireless earbuds designed for superior sound quality and adaptive noise cancellation, providing an immersive listening experience and seamless calling functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "5d47b7f3-31be-41d2-adc1-11b59aa71399",
+            "image": null,
+            "name": "Seagate Personal Cloud",
+            "description": "The Seagate Personal Cloud is a network-attached storage device designed for personal use, enabling users to store, share, and access their files remotely over the internet.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "2a6d6de7-bb8c-4f50-b7cb-bf9492c84c43",
+            "image": null,
+            "name": "Paw Patrol: The Movie Toy Line",
+            "description": "The Paw Patrol: The Movie Toy Line features action figures, vehicles, and playsets inspired by the characters and adventures from the animated film, aimed at encouraging imaginative play and problem-solving skills among children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "b3e86f6e-ae26-4797-a323-3d3054a5dc2f",
+            "image": null,
+            "name": "Supremo",
+            "description": "The Morel Supremo series is a high-performance line of car audio speakers known for their exceptional sound quality and premium materials, designed to enhance the in-car listening experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "984aa43e-25ac-459b-b682-7915ec28aee9",
+            "image": null,
+            "name": "Paw Patrol: The Movie – Lego Sets",
+            "description": "Paw Patrol: The Movie – Lego Sets allow children to build and recreate scenes from the animated film, fostering creativity and imaginative play as they join Ryder and his team of heroic pups.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "091840c5-18f4-43f5-88c1-2ac7afb6949f",
+            "image": null,
+            "name": "AONIC 315",
+            "description": "The Shure AONIC 315 headphones are designed for professional audio quality and a secure fit, making them suitable for both on-stage and personal listening.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Shure"
+            }
+        },
+        {
+            "id": "675e8ac0-63a7-4f07-9898-3ac3a344aa65",
+            "image": null,
+            "name": "Therm-a-Rest UberLite",
+            "description": "The Therm-a-Rest UberLite series features ultralight sleeping pads designed for backpackers and campers seeking minimal weight without sacrificing comfort. These pads offer exceptional insulation and packability, making them ideal for long expeditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "8ac7ceb9-e552-47b6-a710-8de6975f1ace",
+            "image": null,
+            "name": "Volkswagen Golf Mk5",
+            "description": "The Volkswagen Golf Mk5 is a compact car that was released in 2005, known for its versatile design, comfortable interior, and reliable performance. It features a blend of practicality and sportiness, making it popular among a wide range of drivers.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "0784a82b-7e88-4b3e-8d8b-bf1901c600e3",
+            "image": null,
+            "name": "NeoAir Xlite NXT",
+            "description": "The Therm-a-Rest NeoAir Xlite NXT is a lightweight, air mattress designed for backpacking and camping. It offers a high level of comfort and insulation for outdoor enthusiasts seeking a compact sleep solution.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "81a8d208-85e5-4279-838e-2dd0b52c7f69",
+            "image": null,
+            "name": "Jabra Engage 75",
+            "description": "The Jabra Engage 75 is a high-performance wireless headset designed for professionals, offering exceptional audio quality, long battery life, and advanced noise cancellation features, making it ideal for communication in busy environments.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "e9e65fe5-b48d-4da2-b66e-e01f449b9507",
+            "image": null,
+            "name": "Volkswagen Polo (New Generation)",
+            "description": "The Volkswagen Polo (New Generation) is a compact hatchback designed to offer a blend of performance, comfort, and practicality for urban driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "8258deb9-856d-47f1-8c7f-2e25016b9b6c",
+            "image": null,
+            "name": "Nuna PIPA Urbn",
+            "description": "The Nuna PIPA Urbn is a lightweight infant car seat designed for safety and convenience, featuring a unique base that allows for easy installation and compatibility with various Nuna strollers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "398c94d2-5d54-41f7-89eb-6a6d935f59e5",
+            "image": null,
+            "name": "Therm-a-Rest NeoAir Xlite NXT",
+            "description": "The Therm-a-Rest NeoAir Xlite NXT is a lightweight and compact sleeping pad designed for three-season camping. It features an advanced insulation technology that provides warmth and comfort without unnecessary bulk.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "fe4a54d7-5d5b-47a6-9cec-4f5a22563872",
+            "image": null,
+            "name": "Eclipse Series",
+            "description": "The Morel Eclipse Series is designed for high-performance car audio applications, focusing on delivering exceptional sound quality and clarity with a premium build tailored for automotive environments.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        }
+    ]
+}

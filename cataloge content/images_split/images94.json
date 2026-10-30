@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "1fed6465-7271-4652-a480-3f3beb9f092b",
+            "image": null,
+            "name": "Givi Monokey Series",
+            "description": "The Givi Monokey Series is a versatile luggage system designed specifically for motorcycles, allowing riders to easily attach and detach cases for enhanced convenience and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "230694e7-04a5-4d18-9a71-16b19121bfa0",
+            "image": null,
+            "name": "Bajaj Pulsar 250",
+            "description": "The Bajaj Pulsar 250 is a motorcycle series launched in 2020, known for its sporty design and performance-oriented features, catering to both commuters and enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "3432f86f-dc66-4dc4-a79e-edbbe453950c",
+            "image": null,
+            "name": "Bajaj Discover 150",
+            "description": "The Bajaj Discover 150 is a motorcycle designed for urban commuting, known for its fuel efficiency and comfortable riding experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "4693949d-bbe6-45f2-b201-a8db8846a9d8",
+            "image": null,
+            "name": "Suzuki GSX-R1000",
+            "description": "The Suzuki GSX-R1000 is a high-performance sport motorcycle designed for speed and agility, known for its advanced engineering and lightweight chassis, catering to both track and street riders.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "5d26da47-e722-4c77-8edc-76ca194d6603",
+            "image": null,
+            "name": "Suzuki Intruder",
+            "description": "The Suzuki Intruder is a cruiser motorcycle series designed for comfort and relaxed riding, combining classic styling with modern engineering.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "d9f9a5ee-4f80-46c9-96cb-b6c9313653b7",
+            "image": null,
+            "name": "Mercedes-Benz GLK-Class",
+            "description": "The Mercedes-Benz GLK-Class is a compact luxury SUV that combines a spacious interior with advanced technology and strong performance capabilities. It is designed for both city driving and off-road adventures, making it versatile for a variety of lifestyles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "84c1ec1e-68a0-4155-aeaa-1f594f603466",
+            "image": null,
+            "name": "Alpina D3 Bi-Turbo",
+            "description": "The Alpina D3 Bi-Turbo is a high-performance sports sedan based on the BMW 3 Series, known for its powerful twin-turbo engine and refined driving dynamics, blending luxury and sportiness.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "a51f1409-ded1-420e-a6c9-c13e43740861",
+            "image": null,
+            "name": "Renault Kangoo E-Tech Electric",
+            "description": "The Renault Kangoo E-Tech Electric is a compact electric van designed for urban mobility, offering space, practicality, and zero-emission performance suited for both personal and commercial use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "e60d65ef-05c5-4317-be69-b20c9ff58301",
+            "image": null,
+            "name": "Exide Inva Master",
+            "description": "The Exide Inva Master series is designed to provide reliable power for various applications, particularly in the automotive sector, ensuring a consistent performance under diverse conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "a5ddb273-ca9d-4f6a-9ccb-1f5962a56fec",
+            "image": null,
+            "name": "Honda Unicorn",
+            "description": "The Honda Unicorn is a motorcycle series launched in 2004, known for its performance, comfort, and reliability, targeting daily commuters and motorcycle enthusiasts alike.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "a60a4125-f5bb-4c0b-a701-5fe648b909a9",
+            "image": null,
+            "name": "Surface Pro 4",
+            "description": "The Microsoft Surface Pro 4 is a versatile 2-in-1 device that functions as both a tablet and a laptop, designed to meet the needs of professionals and students with its portability and powerful performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "ce7c25ab-9af2-46aa-b716-ce5df728300e",
+            "image": null,
+            "name": "Surface Studio 2",
+            "description": "The Microsoft Surface Studio 2 is an all-in-one desktop designed for creative professionals, featuring a high-resolution touchscreen display and versatile hinge for various working angles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "e8e7054b-7812-4e54-89b2-1cc19b19c465",
+            "image": null,
+            "name": "Force Gurkha",
+            "description": "The Force Gurkha is a rugged pickup truck series from Force Motors, designed for off-road enthusiasts and capable of handling challenging terrains with durability and reliability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "e932db30-294d-498d-802f-3462b8d4710c",
+            "image": null,
+            "name": "LG CineBeam 4K UHD Laser Projector",
+            "description": "The LG CineBeam 4K UHD Laser Projector series delivers high-quality 4K resolution visuals and utilizes laser technology for enhanced brightness and longevity, making it ideal for home entertainment and professional presentations.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "d8c793de-c91f-4a6a-96aa-3756a4cf7d4f",
+            "image": null,
+            "name": "Peugeot 4007",
+            "description": "The Peugeot 4007 is a compact SUV that was introduced in 2007, designed to offer versatility and comfort for both urban and outdoor environments.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "f6e87323-6cc9-4acb-932e-f81fd34a0a4d",
+            "image": null,
+            "name": "Samsung QLED TV (2018 Series)",
+            "description": "The Samsung QLED TV (2018 Series) is a line of high-definition televisions utilizing Quantum Dot technology to enhance color and brightness, designed for home entertainment.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "fbb5b157-e845-4b89-b2e4-aeb932708ece",
+            "image": null,
+            "name": "Peugeot 308 SW",
+            "description": "The Peugeot 308 SW is a versatile station wagon designed to offer spaciousness and practicality for families, combining efficient performance with modern technology.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "4b740617-5b23-4a8c-93fc-708652a90f45",
+            "image": null,
+            "name": "Bajaj Pulsar AS200",
+            "description": "The Bajaj Pulsar AS200 is a sport touring motorcycle designed for riders seeking a balance between performance and comfort, featuring a powerful engine and a aerodynamic design.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "d9a2110e-e0e7-457b-bf1e-7f4a8880da9a",
+            "image": null,
+            "name": "525 Series",
+            "description": "The Shinko 525 Series is designed for motorcycle enthusiasts seeking a balance of durability and grip on both paved roads and off-road conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0903cb57-765a-4329-80ce-82aa78e45273",
+            "image": null,
+            "name": "Porsche Taycan Cross Turismo",
+            "description": "The Porsche Taycan Cross Turismo is an all-electric luxury sports wagon designed for versatility and performance, offering a blend of practicality and the exhilarating driving experience characteristic of the Porsche brand.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0acff75f-6fd1-4e8b-99bb-1c05ecd1a761",
+            "image": null,
+            "name": "Renault Scenic",
+            "description": "The Renault Scenic is a compact multi-purpose vehicle (MPV) designed for families, offering versatile seating arrangements and ample storage space for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "1b52cb82-5941-4165-b7fa-03f5e6793d1d",
+            "image": null,
+            "name": "Dost",
+            "description": "The Ashok Leyland Dost is a versatile and reliable pickup truck designed for urban logistics and small cargo transportation, known for its durability and efficiency in commercial use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ashok Leyland"
+            }
+        },
+        {
+            "id": "240aa18c-f7df-49e9-8160-113922eb8de5",
+            "image": null,
+            "name": "Renault Twingo III",
+            "description": "The Renault Twingo III, launched in 2014, is a compact city car known for its agile handling and efficient use of space, designed primarily for urban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "29823ef1-8ffe-426a-9158-484577f8ba51",
+            "image": null,
+            "name": "Sorrento Collection",
+            "description": "The Sorrento Collection by Brown Jordan is an upscale series of outdoor furniture designed for elegance and durability in outdoor settings, featuring refined materials and contemporary aesthetics.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        },
+        {
+            "id": "32f72e86-c119-46f5-a3a9-d8858f201e57",
+            "image": null,
+            "name": "Acadia",
+            "description": "The GMC Acadia is a mid-size SUV known for its spacious interior, advanced safety features, and versatile cargo capacity, making it suitable for both family use and everyday driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "42a9c66a-003b-4a0a-b3fa-bdf18f20a53c",
+            "image": null,
+            "name": "Lava X series",
+            "description": "The Lava X series is a line of smartphones designed to deliver a balanced performance with essential features at an affordable price point.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "4be93d6a-b75e-440f-a532-ccbb8e9b1208",
+            "image": null,
+            "name": "Mann-Filter HU 8000",
+            "description": "The Mann-Filter HU 8000 series is designed for automotive oil filtration, ensuring effective removal of contaminants from engine oil to maintain optimal engine performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "4d3313f1-247b-4eb8-afef-8fa471d6a182",
+            "image": null,
+            "name": "Honda Insight (1st Generation)",
+            "description": "The Honda Insight (1st Generation) is a compact hybrid vehicle introduced in 2001, known for its fuel efficiency and innovative aerodynamics that set new standards in eco-friendly transportation.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6b8d5b3-db68-4683-9465-e8683f1a6ab7",
+            "image": null,
+            "name": "Exide Gel",
+            "description": "Exide Gel batteries are designed to offer a maintenance-free and leak-proof solution for automotive power needs, using gel electrolyte technology for enhanced performance and durability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "600e9034-091f-4be1-9f4d-a7ba093136e8",
+            "image": null,
+            "name": "Honda CB Shine SP",
+            "description": "The Honda CB Shine SP is a commuter motorcycle designed for efficient performance and comfort, catering to the daily transportation needs of riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "b16f7348-a8f3-4d12-b434-492f72e5008d",
+            "image": null,
+            "name": "Evenflo Gold Revolve 360 Rotational All-in-One Car Seat",
+            "description": "The Evenflo Gold Revolve 360 Rotational All-in-One Car Seat is designed to provide safety and convenience for families, featuring a unique rotational design for easy access and adaptability as children grow from infancy to toddlerhood.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b770182d-d1dd-40f8-8b0d-566edf1acd22",
+            "image": null,
+            "name": "Genesis GV80",
+            "description": "The Genesis GV80 is a luxury SUV that combines elegant design with advanced technology and performance, aimed at providing a refined driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "f84c715a-323c-4e99-9081-08de14d3e543",
+            "image": null,
+            "name": "Genesis G80 Sport",
+            "description": "The Genesis G80 Sport is a luxury sedan that combines performance-oriented features with refined style, targeting drivers who seek a premium driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "fbd7f9ce-363a-40c3-a3e6-35e2031d4bd3",
+            "image": null,
+            "name": "Alfa Romeo 159",
+            "description": "The Alfa Romeo 159 is a mid-size executive car produced by the Italian manufacturer Alfa Romeo from 2004 to 2011, known for its distinctive design and dynamic performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "fd552ea6-d392-446b-a737-5a105d07b013",
+            "image": null,
+            "name": "Alfa Romeo 166",
+            "description": "The Alfa Romeo 166 is a luxury executive car produced by Alfa Romeo from 1998 to 2007, known for its elegant design and sporty performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "fde9930d-ebba-4e56-b21c-594518ad5a89",
+            "image": null,
+            "name": "Geely MK",
+            "description": "The Geely MK is a compact car produced by the Chinese automotive manufacturer Geely, designed to offer affordable transportation with practical features for urban driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "ffb3b51e-bab0-4b8e-a317-b3a32d5e56c7",
+            "image": null,
+            "name": "Alfa Romeo Spider (939)",
+            "description": "The Alfa Romeo Spider (939) is a two-door convertible sports car known for its stylish Italian design and dynamic performance. Released in 2003, it offers an engaging driving experience typical of Alfa Romeo vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "76dce395-da98-4baa-9f56-30cd89b37aa7",
+            "image": null,
+            "name": "Level 20 Series",
+            "description": "The Thermaltake Level 20 Series is a line of gaming PCs designed to provide high performance and customization options for gamers. Featuring advanced cooling solutions and modular designs, this series aims to enhance the gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Thermaltake"
+            }
+        },
+        {
+            "id": "0ad7f08b-1331-4357-bcc5-1e631fea57c6",
+            "image": null,
+            "name": "Geely EC7",
+            "description": "The Geely EC7 is a compact car designed to offer a balance of style and functionality, aimed at providing affordable transportation options for urban drivers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "17e909e7-6fd3-4972-abc0-8aa0b66f531b",
+            "image": null,
+            "name": "Alfa Romeo Tonale",
+            "description": "The Alfa Romeo Tonale is a compact SUV that combines Italian design with advanced technology and eco-friendly hybrid powertrains, aimed at providing an agile and engaging driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "1978df67-13d3-49ac-a872-6c412b3e7f21",
+            "image": null,
+            "name": "Alfa Romeo Giulietta",
+            "description": "The Alfa Romeo Giulietta is a compact car designed for those seeking a blend of style, performance, and practicality. Known for its Italian design and sporty handling, it is suitable for both urban and highway driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "19c7151d-d76c-4d57-87c1-36cf7fc06150",
+            "image": null,
+            "name": "Alfa Romeo 8C Competizione",
+            "description": "The Alfa Romeo 8C Competizione is a high-performance sports car that combines Italian design sophistication with exceptional driving dynamics, aimed at enthusiasts looking for a premium driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "302abdca-1207-4e8a-b7dc-76c242b425c9",
+            "image": null,
+            "name": "Geely Panda",
+            "description": "The Geely Panda is a compact city car designed for urban mobility, offering efficiency and practicality for daily commuting.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "3b16b33d-b908-43da-873f-61db06559dd5",
+            "image": null,
+            "name": "Alfa Romeo 4C",
+            "description": "The Alfa Romeo 4C is a compact, lightweight sports car that emphasizes performance and agility. It features a mid-engine layout and is designed for driving enthusiasts seeking an exhilarating experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "3b96faba-31cb-4ccd-b325-6dea3485b905",
+            "image": null,
+            "name": "Alfa Romeo Spider",
+            "description": "The Alfa Romeo Spider is a classic two-door convertible sports car that emphasizes stylish design and engaging driving dynamics, making it a sought-after model for enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "53e025bc-bac9-42b5-adb3-4aeb6e321292",
+            "image": null,
+            "name": "Alfa Romeo Brera",
+            "description": "The Alfa Romeo Brera is a sports coupe that combines distinctive Italian design with performance-oriented engineering, aimed at enthusiasts seeking a stylish and engaging driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "dce39470-c39d-47c7-88c5-8e14e7bbcb69",
+            "image": null,
+            "name": "Opel Corsa F",
+            "description": "The Opel Corsa F is a subcompact hatchback released in 2019, known for its practicality, modern design, and efficient performance, designed for urban mobility and everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "60be99b9-3f7c-47dc-b453-f06f3ec3b115",
+            "image": null,
+            "name": "Dell XPS 13 (2023)",
+            "description": "The Dell XPS 13 (2023) is a premium ultraportable laptop designed for users who require high performance in a compact form factor, featuring a sleek design and advanced display technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "69c7d898-a1ad-41d7-ba45-03b846adf466",
+            "image": null,
+            "name": "Defender 130",
+            "description": "The Land Rover Defender 130 is a versatile, rugged SUV designed for off-road capability and spacious family transportation. With its extended wheelbase, the Defender 130 offers seating for up to eight passengers and advanced technology for a comfortable driving experience in various environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "76dc0e51-b57b-4d7b-b037-388a14d20636",
+            "image": null,
+            "name": "TEMPUR-Breeze",
+            "description": "The TEMPUR-Breeze series by Tempur-Pedic is designed to provide enhanced cooling and comfort with advanced temperature regulation technology, ensuring a restful sleep experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "7e88c094-5c36-4033-bd53-b08bd1283888",
+            "image": null,
+            "name": "Geely Englon TX4",
+            "description": "The Geely Englon TX4 is a compact MPV produced by Geely, designed primarily for urban transportation with a focus on practicality and fuel efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "8515909b-04c6-4aad-96c8-6754c7eaec54",
+            "image": null,
+            "name": "Lenovo Smart Tab M10",
+            "description": "The Lenovo Smart Tab M10 is a versatile tablet designed for entertainment and productivity, featuring a full HD display and the ability to function with Amazon Alexa's hands-free experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "eb613dcd-7ed8-4037-8937-0ee1b4a6fa34",
+            "image": null,
+            "name": "TEMPUR-Ergo",
+            "description": "The TEMPUR-Ergo series by Tempur-Pedic combines advanced ergonomic design with TEMPUR material to provide customized support and comfort, promoting better sleep quality and overall health.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "a2c45fde-07da-41e2-a85d-625fe66fb4b1",
+            "image": null,
+            "name": "KTM 250 Adventure",
+            "description": "The KTM 250 Adventure is a versatile motorcycle designed for both on-road and off-road riding, featuring lightweight construction and advanced suspension for enhanced handling and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "f310658c-e742-4b65-afc4-02415aa0a725",
+            "image": null,
+            "name": "Apple Watch Series 8",
+            "description": "The Apple Watch Series 8 is a smartwatch designed to enhance health and fitness tracking, offering features such as heart rate monitoring, sleep tracking, and notifications for texts and calls.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "f3f3e69b-44b4-4310-b1ad-e1f0f73d81b6",
+            "image": null,
+            "name": "Kia Sorento (2011 Refresh)",
+            "description": "The Kia Sorento (2011 Refresh) is a midsize SUV that combines practicality with a comfortable ride, offering spacious seating and versatile cargo options for families and active individuals.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "b190b3a5-26d1-427b-a7ec-f12f59bc11a2",
+            "image": null,
+            "name": "Moto Guzzi V7 850",
+            "description": "The Moto Guzzi V7 850 is a classic motorcycle designed for riders seeking a blend of heritage styling and modern performance, featuring an 850cc engine for a balanced riding experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "b1ebd044-859a-4bfd-9a87-468da0f485f1",
+            "image": null,
+            "name": "Turtle Wax ICE",
+            "description": "Turtle Wax ICE is a series of innovative car care products designed to provide advanced protection and exceptional shine for vehicles. The products utilize a unique polymer technology that enhances the appearance of all surfaces, inside and out.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "bbbb95cc-84c3-4abb-aa89-28d8943de760",
+            "image": null,
+            "name": "KTM 890 Duke",
+            "description": "The KTM 890 Duke is a mid-weight motorcycle designed for agility and performance, featuring a powerful parallel-twin engine and advanced electronics for a thrilling riding experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "fd2d02b5-8747-41b0-84ee-7d10122670b8",
+            "image": null,
+            "name": "Opel Zafira-e Life",
+            "description": "The Opel Zafira-e Life is a versatile electric van designed for both family and commercial use, offering a spacious interior and multiple seating configurations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        }
+    ]
+}

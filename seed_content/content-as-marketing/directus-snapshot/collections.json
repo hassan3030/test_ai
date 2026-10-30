@@ -1,0 +1,3680 @@
+{
+  "data": [
+    {
+      "collection": "addresses",
+      "meta": {
+        "collection": "addresses",
+        "icon": "location_on",
+        "note": "User addresses for shipping, billing, and pickup",
+        "display_template": "{{label}} - {{city}}, {{country}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#EF4444",
+        "item_duplication_fields": null,
+        "sort": null,
+        "group": "users",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "addresses",
+        "comment": null
+      }
+    },
+    {
+      "collection": "addresses_translations",
+      "meta": {
+        "collection": "addresses_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "addresses_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "ai_generation_logs",
+      "meta": {
+        "collection": "ai_generation_logs",
+        "icon": "insights",
+        "note": "AI listing-generation usage log (one row per generation; metrics only, no prompts/images).",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 13,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "ai_generation_logs",
+        "comment": null
+      }
+    },
+    {
+      "collection": "ai_settings",
+      "meta": {
+        "collection": "ai_settings",
+        "icon": "smart_toy",
+        "note": "AI listing-generation configuration (no secrets).",
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 14,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "ai_settings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "app_feedback",
+      "meta": {
+        "collection": "app_feedback",
+        "icon": "rate_review",
+        "note": "In-app beta feedback (1-5 star app rating + optional comment). Written by /api/feedback via admin client.",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 15,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "app_feedback",
+        "comment": null
+      }
+    },
+    {
+      "collection": "attribute_definitions",
+      "meta": {
+        "collection": "attribute_definitions",
+        "icon": "tune",
+        "note": "Reusable attribute definitions for product specifications",
+        "display_template": "{{name}} ({{field_type}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#A855F7",
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "attribute_definitions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "attribute_definitions_translations",
+      "meta": {
+        "collection": "attribute_definitions_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "attribute_definitions",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "attribute_definitions_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "attribute_option_values",
+      "meta": {
+        "collection": "attribute_option_values",
+        "icon": "label",
+        "note": "One row per attribute option value, with a slug per language. attribute_definitions.options is a flat JSON list, so option values had nowhere to store a slug or translation. This is ALSO the normalisation table: 256GB / 256 GB / 256gb / 256 all map to one row, which is what stops a facet page missing its own inventory.",
+        "display_template": "{{value}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#2ECDA7",
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "attribute_option_values",
+        "comment": null
+      }
+    },
+    {
+      "collection": "attribute_option_values_translations",
+      "meta": {
+        "collection": "attribute_option_values_translations",
+        "icon": "translate",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "attribute_option_values",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "attribute_option_values_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "brands",
+      "meta": {
+        "collection": "brands",
+        "icon": "business",
+        "note": "Brands and manufacturers (Apple, Samsung, Nike, Toyota)",
+        "display_template": "{{logo}} {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#F59E0B",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "brands",
+        "comment": null
+      }
+    },
+    {
+      "collection": "brands_categories",
+      "meta": {
+        "collection": "brands_categories",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "brands_categories",
+        "comment": null
+      }
+    },
+    {
+      "collection": "brands_translations",
+      "meta": {
+        "collection": "brands_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "brands",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "brands_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "business_documents",
+      "meta": {
+        "collection": "business_documents",
+        "icon": "description",
+        "note": "cerification documents uploaded by businesses",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "businesses",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "business_documents",
+        "comment": null
+      }
+    },
+    {
+      "collection": "business_documents_files",
+      "meta": {
+        "collection": "business_documents_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "businesses",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "business_documents_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "business_documents_translations",
+      "meta": {
+        "collection": "business_documents_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 10,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "business_documents_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "businesses",
+      "meta": {
+        "collection": "businesses",
+        "icon": "business",
+        "note": "Business entities for business accounts",
+        "display_template": "{{name}} ({{business_type}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#8B5CF6",
+        "item_duplication_fields": null,
+        "sort": null,
+        "group": "users",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "businesses",
+        "comment": null
+      }
+    },
+    {
+      "collection": "businesses_translations",
+      "meta": {
+        "collection": "businesses_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "businesses",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "businesses_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "business_team",
+      "meta": {
+        "collection": "business_team",
+        "icon": "group",
+        "note": "Team members assigned to businesses and stores",
+        "display_template": "{{role}} — {{invited_email}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "removed",
+        "unarchive_value": "active",
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "businesses",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "business_team",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog",
+      "meta": {
+        "collection": "catalog",
+        "icon": "inventory_2",
+        "note": "Product catalog: categories, brands, models, variants",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#3B82F6",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "catalog_alerts",
+      "meta": {
+        "collection": "catalog_alerts",
+        "icon": "notifications_active",
+        "note": "Availability subscriptions. CONTAINS PII (email) - public role must have NO permission on this collection. Operators use the aggregate demand report instead.",
+        "display_template": "{{entity_type}} {{entity_id}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": "#F59E0B",
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_alerts",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_candidates",
+      "meta": {
+        "collection": "catalog_candidates",
+        "icon": "rule_folder",
+        "note": "Custom catalog values typed by sellers, normalised and clustered. Promote a row to create the real catalog node and backfill every listing that used it.",
+        "display_template": "{{tier}} - {{display_value}} ({{listing_count}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "rejected",
+        "unarchive_value": "pending",
+        "sort_field": "listing_count",
+        "accountability": "all",
+        "color": "#E35169",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_candidates",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_content",
+      "meta": {
+        "collection": "catalog_content",
+        "icon": "article",
+        "note": "Editorial content for catalog landing pages. One row per catalog entity per market. Generated by the AI pipeline; manual edits are preserved because regeneration is gated on source_hash.",
+        "display_template": "{{entity_label}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "date_updated",
+        "accountability": "all",
+        "color": "#2ECDA7",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_content",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_content_settings",
+      "meta": {
+        "collection": "catalog_content_settings",
+        "icon": "tune",
+        "note": "Control panel for the catalog marketing-content pipeline: generation, refresh triggers, quality gate and indexation thresholds. Separate from ai_settings on purpose.",
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#2ECDA7",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_content_settings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_content_translations",
+      "meta": {
+        "collection": "catalog_content_translations",
+        "icon": "translate",
+        "note": "Per-language editorial content for a catalog_content row.",
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "catalog_content_settings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_content_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_enrichment_queue",
+      "meta": {
+        "collection": "catalog_enrichment_queue",
+        "icon": "checklist",
+        "note": "One leasable row per node to enrich. Drained across many cron invocations; the lease is what makes a 300s route ceiling survivable.",
+        "display_template": "{{entity_label}} - {{status}} ({{attempts}})",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "cancelled",
+        "unarchive_value": "queued",
+        "sort_field": "priority",
+        "accountability": "all",
+        "color": "#3B82F6",
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_enrichment_queue",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_enrichment_runs",
+      "meta": {
+        "collection": "catalog_enrichment_runs",
+        "icon": "conveyor_belt",
+        "note": "One row per enrichment run. Holds the plan, the budget ceiling, the spend ledger and the circuit breaker. The queue rows below are the actual units of work.",
+        "display_template": "{{kind}} {{status}} - {{items_done}}/{{items_total}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "cancelled",
+        "unarchive_value": "queued",
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": "#3B82F6",
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_enrichment_runs",
+        "comment": null
+      }
+    },
+    {
+      "collection": "catalog_slug_history",
+      "meta": {
+        "collection": "catalog_slug_history",
+        "icon": "history",
+        "note": "Every slug ever replaced. The resolver 308s from these. Rows are NEVER deleted - a ten-year-old inbound link should still land.",
+        "display_template": "{{entity_type}} {{old_slug}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": "#6B7280",
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "catalog_slug_history",
+        "comment": null
+      }
+    },
+    {
+      "collection": "categories",
+      "meta": {
+        "collection": "categories",
+        "icon": "category",
+        "note": "Main product categories (Electronics, Fashion, Automotive)",
+        "display_template": "{{icon}} {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#3B82F6",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "categories",
+        "comment": null
+      }
+    },
+    {
+      "collection": "categories_translations",
+      "meta": {
+        "collection": "categories_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "categories",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "categories_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "commerce",
+      "meta": {
+        "collection": "commerce",
+        "icon": "storefront",
+        "note": "Commerce: stores, products, listings, orders",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#10B981",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "communication",
+      "meta": {
+        "collection": "communication",
+        "icon": "forum",
+        "note": "Communication: conversations, messages, notifications",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#8B5CF6",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "contact",
+      "meta": {
+        "collection": "contact",
+        "icon": "contact_support",
+        "note": "Public contact form submissions and support requests from users",
+        "display_template": "{{full_name}} {{status}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "contact",
+        "comment": null
+      }
+    },
+    {
+      "collection": "contact_files",
+      "meta": {
+        "collection": "contact_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "contact",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "contact_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "conversations",
+      "meta": {
+        "collection": "conversations",
+        "icon": "chat",
+        "note": "Chat conversations between users",
+        "display_template": "{{participant_1_id.first_name}} ↔ {{participant_2_id.first_name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#06B6D4",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "communication",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "conversations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "exchange_rates",
+      "meta": {
+        "collection": "exchange_rates",
+        "icon": "currency_exchange",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#E35169",
+        "item_duplication_fields": null,
+        "sort": 17,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "exchange_rates",
+        "comment": null
+      }
+    },
+    {
+      "collection": "favorites",
+      "meta": {
+        "collection": "favorites",
+        "icon": "favorite",
+        "note": "User favorites/wishlist for listings",
+        "display_template": "{{user_id}} ❤️ {{listing_id}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#EC4899",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "favorites",
+        "comment": null
+      }
+    },
+    {
+      "collection": "feature_interest",
+      "meta": {
+        "collection": "feature_interest",
+        "icon": "notifications_active",
+        "note": "Registered interest in upcoming features",
+        "display_template": "{{email}} - {{feature_key}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 16,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "feature_interest",
+        "comment": null
+      }
+    },
+    {
+      "collection": "geo_locations",
+      "meta": {
+        "collection": "geo_locations",
+        "icon": "location_city",
+        "note": "Cities used by the in-{city} URL modifier. Seeded from distinct listings.location_city plus a curated top-cities list.",
+        "display_template": "{{city}}, {{country}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#2ECDA7",
+        "item_duplication_fields": null,
+        "sort": 9,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "geo_locations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "geo_locations_translations",
+      "meta": {
+        "collection": "geo_locations_translations",
+        "icon": "translate",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "geo_locations",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "geo_locations_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "global_seo",
+      "meta": {
+        "collection": "global_seo",
+        "icon": "travel_explore",
+        "note": "Global SEO and AI Engine Optimization settings",
+        "display_template": null,
+        "hidden": false,
+        "singleton": true,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "global_seo",
+        "comment": null
+      }
+    },
+    {
+      "collection": "languages",
+      "meta": {
+        "collection": "languages",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "languages",
+        "comment": null
+      }
+    },
+    {
+      "collection": "listing_offers",
+      "meta": {
+        "collection": "listing_offers",
+        "icon": "local_offer",
+        "note": "Offers made on marketplace listings",
+        "display_template": "{{offer_type}} offer: {{amount}} {{currency}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#EC4899",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "listing_offers",
+        "comment": null
+      }
+    },
+    {
+      "collection": "listings",
+      "meta": {
+        "collection": "listings",
+        "icon": "sell",
+        "note": "User listings for buy, sell, rent, swap",
+        "display_template": "{{title}} - {{price}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#6644FF",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "listings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "listings_attribute_values",
+      "meta": {
+        "collection": "listings_attribute_values",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "listings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "listings_attribute_values",
+        "comment": null
+      }
+    },
+    {
+      "collection": "listings_files",
+      "meta": {
+        "collection": "listings_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "listings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "listings_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "listings_translations",
+      "meta": {
+        "collection": "listings_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "listings",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "listings_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "Marketing",
+      "meta": {
+        "collection": "Marketing",
+        "icon": "searchengin",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 18,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "markets",
+      "meta": {
+        "collection": "markets",
+        "icon": "public",
+        "note": "Countries Swibba operates in. Supplies the country URL segment and the per-market content row.",
+        "display_template": "{{code}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 10,
+        "group": "Marketing",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "markets",
+        "comment": null
+      }
+    },
+    {
+      "collection": "markets_translations",
+      "meta": {
+        "collection": "markets_translations",
+        "icon": "translate",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "markets",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "markets_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "messages",
+      "meta": {
+        "collection": "messages",
+        "icon": "message",
+        "note": "Messages within conversations",
+        "display_template": "{{sender_id.first_name}}: {{content}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#06B6D4",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "communication",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "messages",
+        "comment": null
+      }
+    },
+    {
+      "collection": "messages_files",
+      "meta": {
+        "collection": "messages_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "messages",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "messages_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "meta_tags",
+      "meta": {
+        "collection": "meta_tags",
+        "icon": "code",
+        "note": "SEO meta tags for listings, products, stores, etc.",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "meta_tags",
+        "comment": null
+      }
+    },
+    {
+      "collection": "meta_tags_translations",
+      "meta": {
+        "collection": "meta_tags_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "meta_tags",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "meta_tags_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "models",
+      "meta": {
+        "collection": "models",
+        "icon": "smartphone",
+        "note": "Specific product models (iPhone 15 Pro Max, Galaxy S24 Ultra)",
+        "display_template": "{{series_id.name}} - {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#06B6D4",
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "models",
+        "comment": null
+      }
+    },
+    {
+      "collection": "models_attribute_values",
+      "meta": {
+        "collection": "models_attribute_values",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "models",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "models_attribute_values",
+        "comment": null
+      }
+    },
+    {
+      "collection": "models_files",
+      "meta": {
+        "collection": "models_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "models_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "models_translations",
+      "meta": {
+        "collection": "models_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "models",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "models_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "notification_preferences",
+      "meta": {
+        "collection": "notification_preferences",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "notifications",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "notification_preferences",
+        "comment": null
+      }
+    },
+    {
+      "collection": "notifications",
+      "meta": {
+        "collection": "notifications",
+        "icon": "circle_notifications",
+        "note": "swibba notifications",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#E35169",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "notifications",
+        "comment": null
+      }
+    },
+    {
+      "collection": "notifications_translations",
+      "meta": {
+        "collection": "notifications_translations",
+        "icon": "translate",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 11,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "notifications_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "order_items",
+      "meta": {
+        "collection": "order_items",
+        "icon": "inventory_2",
+        "note": "Order line items",
+        "display_template": "{{quantity}}x - ${{unit_price}}",
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#818CF8",
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "orders",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "order_items",
+        "comment": null
+      }
+    },
+    {
+      "collection": "orders",
+      "meta": {
+        "collection": "orders",
+        "icon": "shopping_cart",
+        "note": "Orders for purchases, swaps, and rentals",
+        "display_template": "{{order_number}} - {{status}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#6366F1",
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "orders",
+        "comment": null
+      }
+    },
+    {
+      "collection": "order_verifications",
+      "meta": {
+        "collection": "order_verifications",
+        "icon": "qr_code_scanner",
+        "note": "Tracks all order verification events (QR scans, confirmations, handoffs)",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "date_created",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "orders",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "order_verifications",
+        "comment": null
+      }
+    },
+    {
+      "collection": "Other",
+      "meta": {
+        "collection": "Other",
+        "icon": "settings",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#FFFFFF",
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "push_subscriptions",
+      "meta": {
+        "collection": "push_subscriptions",
+        "icon": "phonelink_ring",
+        "note": "Web Push notification subscriptions per user/device",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#4285F4",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "notifications",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "push_subscriptions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "rentals",
+      "meta": {
+        "collection": "rentals",
+        "icon": "car_rental",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "rentals",
+        "comment": null
+      }
+    },
+    {
+      "collection": "reports",
+      "meta": {
+        "collection": "reports",
+        "icon": "flag",
+        "note": "Content and user reports for moderation",
+        "display_template": "{{report_type}} - {{reason}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#EF4444",
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "trust_safety",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "reports",
+        "comment": null
+      }
+    },
+    {
+      "collection": "reports_files",
+      "meta": {
+        "collection": "reports_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "reports",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "reports_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "reviews",
+      "meta": {
+        "collection": "reviews",
+        "icon": "star",
+        "note": "User and product reviews with ratings",
+        "display_template": "{{rating}}/5 - {{title}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#FBBF24",
+        "item_duplication_fields": null,
+        "sort": 3,
+        "group": "trust_safety",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "reviews",
+        "comment": null
+      }
+    },
+    {
+      "collection": "reviews_files",
+      "meta": {
+        "collection": "reviews_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "reviews",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "reviews_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "reviews_translations",
+      "meta": {
+        "collection": "reviews_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "reviews",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "reviews_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "series",
+      "meta": {
+        "collection": "series",
+        "icon": "collections",
+        "note": "Product series/lines (iPhone 15, Galaxy S24, MacBook Pro)",
+        "display_template": "{{brand_id.name}} - {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#8B5CF6",
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "series",
+        "comment": null
+      }
+    },
+    {
+      "collection": "series_translations",
+      "meta": {
+        "collection": "series_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "series",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "series_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "shipments",
+      "meta": {
+        "collection": "shipments",
+        "icon": "local_shipping",
+        "note": "Shipping module",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#2ECDA7",
+        "item_duplication_fields": null,
+        "sort": 12,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "shipping",
+      "meta": {
+        "collection": "shipping",
+        "icon": "local_shipping",
+        "note": "Shipment records",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "shipments",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "shipping",
+        "comment": null
+      }
+    },
+    {
+      "collection": "shipping_activities",
+      "meta": {
+        "collection": "shipping_activities",
+        "icon": "timeline",
+        "note": "Shipment status history",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "shipping",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "shipping_activities",
+        "comment": null
+      }
+    },
+    {
+      "collection": "shipping_carriers",
+      "meta": {
+        "collection": "shipping_carriers",
+        "icon": "business",
+        "note": "Carrier directory",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "shipments",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "shipping_carriers",
+        "comment": null
+      }
+    },
+    {
+      "collection": "shipping_documents",
+      "meta": {
+        "collection": "shipping_documents",
+        "icon": "attach_file",
+        "note": "Shipping file attachments",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "shipping",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "shipping_documents",
+        "comment": null
+      }
+    },
+    {
+      "collection": "store_addresses",
+      "meta": {
+        "collection": "store_addresses",
+        "icon": "location_on",
+        "note": "Store physical addresses and locations",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": [
+          {
+            "language": "en-US",
+            "translation": "Store Addresses"
+          }
+        ],
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#4CAF50",
+        "item_duplication_fields": null,
+        "sort": 9,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "store_addresses",
+        "comment": null
+      }
+    },
+    {
+      "collection": "stores",
+      "meta": {
+        "collection": "stores",
+        "icon": "storefront",
+        "note": "Verified seller stores (brand stores or verified sellers)",
+        "display_template": "{{logo}} {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#10B981",
+        "item_duplication_fields": null,
+        "sort": 8,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "stores",
+        "comment": null
+      }
+    },
+    {
+      "collection": "stores_translations",
+      "meta": {
+        "collection": "stores_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "stores",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "stores_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "subcategories",
+      "meta": {
+        "collection": "subcategories",
+        "icon": "folder_open",
+        "note": "Subcategories within main categories (Smartphones, Laptops, etc.)",
+        "display_template": "{{category_id.name}} / {{name}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": "#60A5FA",
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": "catalog",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "subcategories",
+        "comment": null
+      }
+    },
+    {
+      "collection": "subcategories_attribute_definitions",
+      "meta": {
+        "collection": "subcategories_attribute_definitions",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "subcategories",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "subcategories_attribute_definitions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "subcategories_translations",
+      "meta": {
+        "collection": "subcategories_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "subcategories",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "subcategories_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "support_categories",
+      "meta": {
+        "collection": "support_categories",
+        "icon": "contact_support",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 6,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "support_categories",
+        "comment": null
+      }
+    },
+    {
+      "collection": "support_categories_translations",
+      "meta": {
+        "collection": "support_categories_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "support_categories",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "support_categories_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "support_questions",
+      "meta": {
+        "collection": "support_questions",
+        "icon": "question_mark",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": "sort",
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "support_questions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "support_questions_files",
+      "meta": {
+        "collection": "support_questions_files",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 2,
+        "group": "support_questions",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "support_questions_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "support_questions_translations",
+      "meta": {
+        "collection": "support_questions_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "support_questions",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "support_questions_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "swaps",
+      "meta": {
+        "collection": "swaps",
+        "icon": "sync_alt",
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "swaps",
+        "comment": null
+      }
+    },
+    {
+      "collection": "terms_and_policies",
+      "meta": {
+        "collection": "terms_and_policies",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": "Other",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "terms_and_policies",
+        "comment": null
+      }
+    },
+    {
+      "collection": "terms_and_policies_translations",
+      "meta": {
+        "collection": "terms_and_policies_translations",
+        "icon": "import_export",
+        "note": null,
+        "display_template": null,
+        "hidden": true,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 1,
+        "group": "terms_and_policies",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "terms_and_policies_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "transactions",
+      "meta": {
+        "collection": "transactions",
+        "icon": "receipt_long",
+        "note": "Payment transactions",
+        "display_template": "{{transaction_id}} - ${{amount}}",
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#A78BFA",
+        "item_duplication_fields": null,
+        "sort": 7,
+        "group": "commerce",
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "transactions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "trust_safety",
+      "meta": {
+        "collection": "trust_safety",
+        "icon": "verified_user",
+        "note": "Trust & Safety: reviews, reports, moderation",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#F59E0B",
+        "item_duplication_fields": null,
+        "sort": 4,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "user_follows",
+      "meta": {
+        "collection": "user_follows",
+        "icon": null,
+        "note": null,
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": "status",
+        "archive_app_filter": true,
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "sort_field": null,
+        "accountability": "all",
+        "color": null,
+        "item_duplication_fields": null,
+        "sort": 9,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": {
+        "schema": "public",
+        "name": "user_follows",
+        "comment": null
+      }
+    },
+    {
+      "collection": "users",
+      "meta": {
+        "collection": "users",
+        "icon": "people",
+        "note": "Users: profiles, addresses, businesses",
+        "display_template": null,
+        "hidden": false,
+        "singleton": false,
+        "translations": null,
+        "archive_field": null,
+        "archive_app_filter": true,
+        "archive_value": null,
+        "unarchive_value": null,
+        "sort_field": null,
+        "accountability": "all",
+        "color": "#EC4899",
+        "item_duplication_fields": null,
+        "sort": 5,
+        "group": null,
+        "collapse": "open",
+        "preview_url": null,
+        "versioning": false,
+        "status": "active",
+        "autosave_revision_interval": null
+      },
+      "schema": null
+    },
+    {
+      "collection": "directus_access",
+      "meta": {
+        "collection": "directus_access",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_access",
+        "translations": null,
+        "display_template": "{{ policy.name }}",
+        "accountability": "all",
+        "sort_field": "sort",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_access",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_activity",
+      "meta": {
+        "collection": "directus_activity",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_activity",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_activity",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_collections",
+      "meta": {
+        "collection": "directus_collections",
+        "hidden": false,
+        "singleton": false,
+        "icon": "database",
+        "note": "$t:directus_collection.directus_collections",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_collections",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_comments",
+      "meta": {
+        "collection": "directus_comments",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_comments",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_comments",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_fields",
+      "meta": {
+        "collection": "directus_fields",
+        "hidden": false,
+        "singleton": false,
+        "icon": "input",
+        "note": "$t:directus_collection.directus_fields",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_fields",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_files",
+      "meta": {
+        "collection": "directus_files",
+        "hidden": false,
+        "singleton": false,
+        "icon": "folder",
+        "note": "$t:directus_collection.directus_files",
+        "translations": null,
+        "display_template": "{{ $thumbnail }} {{ title }}",
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_files",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_folders",
+      "meta": {
+        "collection": "directus_folders",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_folders",
+        "translations": null,
+        "display_template": "{{ name }}",
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_folders",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_migrations",
+      "meta": {
+        "collection": "directus_migrations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_migrations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_migrations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_permissions",
+      "meta": {
+        "collection": "directus_permissions",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_permissions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_permissions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_policies",
+      "meta": {
+        "collection": "directus_policies",
+        "hidden": false,
+        "singleton": false,
+        "icon": "admin_panel_settings",
+        "note": "$t:directus_collection.directus_policies",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_policies",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_presets",
+      "meta": {
+        "collection": "directus_presets",
+        "hidden": false,
+        "singleton": false,
+        "icon": "bookmark",
+        "note": "$t:directus_collection.directus_presets",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_presets",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_relations",
+      "meta": {
+        "collection": "directus_relations",
+        "hidden": false,
+        "singleton": false,
+        "icon": "merge_type",
+        "note": "$t:directus_collection.directus_relations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_relations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_revisions",
+      "meta": {
+        "collection": "directus_revisions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_revisions",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_revisions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_roles",
+      "meta": {
+        "collection": "directus_roles",
+        "hidden": false,
+        "singleton": false,
+        "icon": "supervised_user_circle",
+        "note": "$t:directus_collection.directus_roles",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_roles",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_sessions",
+      "meta": {
+        "collection": "directus_sessions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_sessions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_sessions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_settings",
+      "meta": {
+        "collection": "directus_settings",
+        "hidden": false,
+        "singleton": true,
+        "icon": null,
+        "note": "$t:directus_collection.directus_settings",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_settings",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_users",
+      "meta": {
+        "collection": "directus_users",
+        "hidden": false,
+        "singleton": false,
+        "icon": "people_alt",
+        "note": "$t:directus_collection.directus_users",
+        "translations": null,
+        "display_template": "{{ first_name }} {{ last_name }}",
+        "accountability": "all",
+        "archive_field": "status",
+        "archive_value": "archived",
+        "unarchive_value": "draft",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_users",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_dashboards",
+      "meta": {
+        "collection": "directus_dashboards",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_dashboards",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_dashboards",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_panels",
+      "meta": {
+        "collection": "directus_panels",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_panels",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_panels",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_notifications",
+      "meta": {
+        "collection": "directus_notifications",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_notifications",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_notifications",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_shares",
+      "meta": {
+        "collection": "directus_shares",
+        "hidden": false,
+        "singleton": false,
+        "icon": "share",
+        "note": "$t:directus_collection.directus_shares",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_shares",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_flows",
+      "meta": {
+        "collection": "directus_flows",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_flows",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_flows",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_operations",
+      "meta": {
+        "collection": "directus_operations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_operations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_operations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_translations",
+      "meta": {
+        "collection": "directus_translations",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_translations",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_translations",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_versions",
+      "meta": {
+        "collection": "directus_versions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_versions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_versions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_extensions",
+      "meta": {
+        "collection": "directus_extensions",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_extensions",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_extensions",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployments",
+      "meta": {
+        "collection": "directus_deployments",
+        "hidden": false,
+        "singleton": false,
+        "icon": "cloud_upload",
+        "note": "$t:directus_collection.directus_deployments",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployments",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployment_projects",
+      "meta": {
+        "collection": "directus_deployment_projects",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_deployment_projects",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployment_projects",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_deployment_runs",
+      "meta": {
+        "collection": "directus_deployment_runs",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_deployment_runs",
+        "translations": null,
+        "display_template": null,
+        "accountability": "all",
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_deployment_runs",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_oauth_clients",
+      "meta": {
+        "collection": "directus_oauth_clients",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_oauth_clients",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_oauth_clients",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_oauth_codes",
+      "meta": {
+        "collection": "directus_oauth_codes",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_oauth_codes",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_oauth_codes",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_oauth_consents",
+      "meta": {
+        "collection": "directus_oauth_consents",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_oauth_consents",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_oauth_consents",
+        "comment": null
+      }
+    },
+    {
+      "collection": "directus_oauth_tokens",
+      "meta": {
+        "collection": "directus_oauth_tokens",
+        "hidden": false,
+        "singleton": false,
+        "icon": null,
+        "note": "$t:directus_collection.directus_oauth_tokens",
+        "translations": null,
+        "display_template": null,
+        "accountability": null,
+        "system": true
+      },
+      "schema": {
+        "schema": "public",
+        "name": "directus_oauth_tokens",
+        "comment": null
+      }
+    }
+  ]
+}

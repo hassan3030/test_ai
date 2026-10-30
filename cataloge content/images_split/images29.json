@@ -1,0 +1,352 @@
+{
+    "data": [
+        {
+            "id": "bee55c72-d406-4281-8327-9e29762e8c7c",
+            "image": null,
+            "name": "Porsche 911 (997 series)",
+            "description": "The Porsche 911 (997 series) is a high-performance sports car that blends classic design elements with modern technology, renowned for its agile handling, powerful engine options, and luxurious interior.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c57d3958-96a9-4bfe-948f-cf1e1ca5a6c7",
+            "image": null,
+            "name": "Porsche Cayman (987.1)",
+            "description": "The Porsche Cayman (987.1) is a mid-engine sports car designed for enthusiasts, featuring a lightweight body and balanced handling for an engaging driving experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "dfebd894-e0a2-4119-bdf8-5878a474cff9",
+            "image": null,
+            "name": "Porsche Macan (2016 Facelift)",
+            "description": "The Porsche Macan (2016 Facelift) is a luxury compact SUV that combines sporty performance with versatile utility, designed to offer an engaging driving experience and practicality for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e371b817-ada1-4be3-8af2-f0a767d34736",
+            "image": null,
+            "name": "Louis Vuitton Horizon Light Up Speaker",
+            "description": "The Louis Vuitton Horizon Light Up Speaker is a portable audio device designed to deliver high-quality sound while featuring a stylish design characteristic of the brand. It is equipped with LED lights that can create a vibrant atmosphere, making it suitable for both casual listening and special occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e60ce125-ba74-47fe-9561-f8debc5cfffd",
+            "image": null,
+            "name": "Nuna PIPA Lite",
+            "description": "The Nuna PIPA Lite is an ultra-lightweight infant car seat designed for safety and ease of use, featuring a unique base that enhances stability and a convenient carry handle for portability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f728a5ad-7065-4d29-8ec6-d77b59fced05",
+            "image": null,
+            "name": "DLF City",
+            "description": "DLF City is a planned urban development by DLF Limited, offering premium land and plots for residential and commercial purposes in a well-structured environment.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Land & Plots"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "722c6576-626c-4ce0-adc6-134eefe076bd",
+            "image": null,
+            "name": "Electrolux Perfect Steam",
+            "description": "The Electrolux Perfect Steam series of washing machines features advanced steam technology to help remove tough stains and reduce wrinkles in fabrics, providing effective cleaning while being gentle on your clothes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "73435503-7e60-4037-ba46-78cbd2aff414",
+            "image": null,
+            "name": "Benelli Leoncino",
+            "description": "The Benelli Leoncino series consists of versatile motorcycles known for their blend of classic styling and modern performance. Designed for urban commuting and leisure riding, these bikes offer a balanced combination of power and agility.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "7eefd19a-882c-4b84-9dcc-177d6140efd2",
+            "image": null,
+            "name": "Porsche Boxster (981)",
+            "description": "The Porsche Boxster (981) is a two-seater sports car that premiered in 2012, known for its mid-engine layout, dynamic handling, and open-top driving experience, aimed at enthusiasts who appreciate performance and style.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f73a62b9-5748-44be-bcbc-4f7d69a535cc",
+            "image": null,
+            "name": "Porsche 911 (991.2)",
+            "description": "The Porsche 911 (991.2) is a high-performance sports car known for its iconic design and advanced engineering. Launched in 2013, it combines powerful engines with precision handling and a luxurious interior, making it a favorite among driving enthusiasts.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7fc88e91-2f1b-4ef1-ab3c-4335586a3dd3",
+            "image": null,
+            "name": "Porsche Cayman (981)",
+            "description": "The Porsche Cayman (981) is a mid-engine sports car known for its agile handling, impressive performance, and distinctive design, combining luxury with driving enthusiasm.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8f868490-15f3-484d-a3d3-a69ac1b9b12a",
+            "image": null,
+            "name": "Volkswagen Golf VIII",
+            "description": "The Volkswagen Golf VIII is a compact hatchback that offers versatility, advanced technology, and a focus on sustainability. This model continues the legacy of the Golf series, known for its practicality and dynamic driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "a64b1f30-3b63-4572-870e-455df31c7aea",
+            "image": null,
+            "name": "Porsche 718",
+            "description": "The Porsche 718 is a line of sports cars that combines performance, agility, and everyday usability, representing the brand's commitment to driving pleasure and excellence since its introduction in 2015.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aae1bf1e-a541-48ea-970a-c49b940d1ea9",
+            "image": null,
+            "name": "Nuna REVV",
+            "description": "The Nuna REVV is a versatile baby seat designed to provide safety and comfort for infants and toddlers, featuring a unique 360-degree rotation for easy access and secure installation.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "13c0c2be-042e-4722-aa1c-b28884238349",
+            "image": null,
+            "name": "Graco SnugRide SnugLock 30",
+            "description": "The Graco SnugRide SnugLock 30 is an infant car seat designed for easy installation and safe transport of infants weighing up to 30 pounds. It features a secure base with SnugLock technology, providing peace of mind for parents.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "17ffeb5a-e6c6-4101-886d-28bfb9e14e26",
+            "image": null,
+            "name": "Porsche Macan (2022 facelift)",
+            "description": "The Porsche Macan (2022 facelift) is a compact luxury SUV that combines sporty performance with everyday usability, showcasing Porsche's commitment to engineering and design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2f6cf952-713c-4fa5-b2d5-644f238860f1",
+            "image": null,
+            "name": "Nuna Rava",
+            "description": "The Nuna Rava is a convertible car seat designed to provide safety and comfort for children from birth to toddler age. Its key features include easy installation, an adjustable headrest, and multiple recline positions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3213b813-ef4e-4b59-8f23-5c4aa0423fcd",
+            "image": null,
+            "name": "Benelli 1130 Sport",
+            "description": "The Benelli 1130 Sport is a high-performance motorcycle designed for sport riding, featuring a powerful engine and advanced handling characteristics.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "4f874aa5-9424-4fda-89ee-4336e178fae9",
+            "image": null,
+            "name": "PlayStation 4 Slim",
+            "description": "The PlayStation 4 Slim is a home video game console developed by Sony Interactive Entertainment, offering a compact design and enhanced performance for gaming and multimedia entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": {
+                "name": "PlayStation"
+            }
+        },
+        {
+            "id": "b1e6e15f-d2f4-48a2-8e61-ec5f70facfa7",
+            "image": null,
+            "name": "Triumph Daytona",
+            "description": "The Triumph Daytona series comprises high-performance sport motorcycles known for their agile handling, powerful engines, and distinctive British design, appealing to riders seeking an exhilarating riding experience on both the street and the track.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "bfe2b0ef-2e0d-4e85-ae05-8a6c04c7f621",
+            "image": null,
+            "name": "TXT",
+            "description": "The Gas Gas TXT series is a line of trial motorcycles designed for competition and recreational riding, known for their lightweight construction and agility on challenging terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "cc3db2f5-011a-4a03-b7cd-5786d0e79f8c",
+            "image": null,
+            "name": "KTM RC 390",
+            "description": "The KTM RC 390 is a lightweight sport motorcycle designed for entry-level riders and enthusiasts, combining agile handling with a high-performance engine for track and street use.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "da0dfca8-528c-4233-ae46-613cb0883e21",
+            "image": null,
+            "name": "Louis Vuitton Spring/Summer 2021 Collection",
+            "description": "The Louis Vuitton Spring/Summer 2021 Collection features a range of women's clothing that combines innovative designs with classic elegance, aimed at providing stylish options for warmer seasons.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "de9f1018-34ae-41ae-bef9-8c7a88fe355d",
+            "image": null,
+            "name": "Porsche 911 (992 Generation)",
+            "description": "The Porsche 911 (992 Generation) is a high-performance sports car known for its distinctive design, dynamic handling, and advanced engineering. Launched in 2019, it continues the legacy of the iconic 911 lineup with modern technology and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5f921527-db4d-4b48-aa9d-b2dcb3cb02e2",
+            "image": null,
+            "name": "NMD",
+            "description": "The Adidas NMD series is designed to merge street style with advanced comfort and technology, featuring a lightweight construction and responsive cushioning.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "77079c7d-3f69-4536-bb31-8c5df8e25054",
+            "image": null,
+            "name": "Porsche Panamera (2nd Generation)",
+            "description": "The Porsche Panamera (2nd Generation) is a luxury four-door grand tourer that combines high performance with practicality, featuring a range of powerful engines and advanced technology for an exceptional driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e57bb6fa-c891-4caf-9c08-a2849b585440",
+            "image": null,
+            "name": "Miele 7000 Series",
+            "description": "The Miele 7000 Series refrigerators are designed for optimal food preservation, featuring innovative technology and user-friendly interfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e985acf3-c124-41dc-a34b-8d986dd9709a",
+            "image": null,
+            "name": "Gucci Horsebit",
+            "description": "The Gucci Horsebit series features a collection of bags characterized by their iconic horsebit motif, which reflects the brand's equestrian heritage. These bags combine luxury craftsmanship with practical use, making them suitable for various occasions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "eb6f9fae-db87-4e7c-a4fe-4a944aebbd58",
+            "image": null,
+            "name": "Ace Sneakers",
+            "description": "The Gucci Ace Sneakers are a line of luxury sneakers introduced in 2017, characterized by their classic silhouette and distinctive branding elements. They are designed for stylish everyday wear and offer a blend of comfort and high fashion.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8820c20c-74a9-4bd9-a7a0-538dfafef3b3",
+            "image": null,
+            "name": "Haier U+ Series Refrigerators",
+            "description": "The Haier U+ Series Refrigerators are designed to provide efficient cooling and versatile storage options, aiming to meet the diverse needs of modern households.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        }
+    ]
+}

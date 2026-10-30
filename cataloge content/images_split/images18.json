@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "id": "d715c9c1-a3e2-4131-82ae-1e5dff598e0d",
+            "image": null,
+            "name": "Audi A4 (2016 generation)",
+            "description": "The Audi A4 (2016 generation) is a compact executive car designed to offer a blend of performance, luxury, and advanced technology, making it suitable for both daily commuting and long-distance travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6ba36bd0-c616-451a-b961-63a3191402f1",
+            "image": null,
+            "name": "Triumph Tiger 885i",
+            "description": "The Triumph Tiger 885i is a versatile adventure motorcycle known for its robust design and capability for both on-road and off-road riding. Released in 2000, it caters to riders seeking performance and comfort in various terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "dafd5d55-5938-4360-9140-4e8c6e192c39",
+            "image": null,
+            "name": "Triumph Sprint ST 1050",
+            "description": "The Triumph Sprint ST 1050 is a sport-touring motorcycle designed for a balanced combination of performance, comfort, and versatility, making it suitable for both long-distance rides and spirited rides on twisty roads.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "86d1f849-6848-4474-8fb5-c23e05795744",
+            "image": null,
+            "name": "Benelli Tornado 1130",
+            "description": "The Benelli Tornado 1130 is a high-performance motorcycle known for its distinctive design and powerful engine, aimed at enthusiasts seeking a thrilling riding experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "8b34fb71-6429-4e68-bbe8-86b48079b869",
+            "image": null,
+            "name": "Honda Element",
+            "description": "The Honda Element is a compact crossover SUV known for its versatile and boxy design, catering to active lifestyles with its spacious interior and easy-to-clean features.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a65cbbfa-7168-4f5b-8734-82034aaedb8c",
+            "image": null,
+            "name": "KTM 525 XC",
+            "description": "The KTM 525 XC is a high-performance off-road motorcycle designed for competitive cross-country riding and racing, featuring a powerful engine and lightweight construction for superior agility and control.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "b245cf95-14a7-42f9-a142-71ff9f049fd0",
+            "image": null,
+            "name": "GE Artistry Series",
+            "description": "The GE Artistry Series refrigerators blend vintage design with modern efficiency, focusing on functionality and style to complement any kitchen.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f086f103-cdb0-4281-bec6-e529b466a3f2",
+            "image": null,
+            "name": "Dodo Juice Supernatural Hybridwax",
+            "description": "Dodo Juice Supernatural Hybridwax is a premium car wax that combines natural and synthetic ingredients to provide high levels of gloss and protection for automotive paintwork.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "fa0277f6-59d8-4e09-8130-05d17ec22690",
+            "image": null,
+            "name": "KTM 125 Duke",
+            "description": "The KTM 125 Duke is a lightweight motorcycle designed for urban commuting and beginner riders, known for its agility and modern styling.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "fa0808be-14fd-45c8-98a9-1c2662f33d0f",
+            "image": null,
+            "name": "Triumph Thunderbird",
+            "description": "The Triumph Thunderbird is a cruiser motorcycle series introduced by Triumph in 2002, known for its classic design, powerful engine, and comfortable riding experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "b6721b86-6914-400d-9f1c-889e631e4b2f",
+            "image": null,
+            "name": "Sureride",
+            "description": "The Evenflo Sureride series comprises convertible car seats designed to provide safety and comfort for children from infancy through toddlerhood, featuring multiple harness positions and adjustable headrest.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe6c8529-e172-40b5-a1fa-b653369b6dd4",
+            "image": null,
+            "name": "Nike Renew Run",
+            "description": "The Nike Renew Run is a series of running sneakers designed for comfort and support, featuring a soft foam midsole for responsive cushioning and a breathable upper for enhanced airflow.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "fe8d4652-29f7-461e-a48c-9eb06ae06946",
+            "image": null,
+            "name": "Mickey Thompson Baja MTZ P3",
+            "description": "The Mickey Thompson Baja MTZ P3 is an all-terrain tire designed for off-road enthusiasts, offering enhanced traction and performance in a variety of conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "bb32ed29-93e1-4f84-a3b0-792130cadb88",
+            "image": null,
+            "name": "Nike Air Force 1 Low",
+            "description": "The Nike Air Force 1 Low is a classic athletic sneaker initially released in 1982, known for its iconic silhouette, making it a popular choice for both casual and sport wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "c231b048-f38b-4fd2-9d1b-f9b01d6d9276",
+            "image": null,
+            "name": "KTM 300 EXC",
+            "description": "The KTM 300 EXC is an off-road motorcycle designed for extreme conditions, known for its powerful 2-stroke engine and lightweight chassis, making it ideal for competitive enduro riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "0e99154e-2168-49df-84ae-04c3d9be418f",
+            "image": null,
+            "name": "GE Adora Series",
+            "description": "The GE Adora Series refrigerators combine modern design with advanced cooling technology, providing reliable freshness and energy efficiency for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2a9b43c1-26ff-4d66-929e-1885491dfa36",
+            "image": null,
+            "name": "Frigidaire Gallery",
+            "description": "The Frigidaire Gallery series of refrigerators offers modern design and advanced features, catering to the needs of today's households with efficient food preservation and innovative technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "36d64ca1-3825-4e8a-9486-506a1b6ab0d3",
+            "image": null,
+            "name": "Renew Sofa",
+            "description": "The Renew Sofa by Herman Miller is a modern and versatile seating solution designed for both comfort and aesthetics, making it suitable for various environments, from homes to offices.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3b9da342-fd54-420b-8910-107879322815",
+            "image": null,
+            "name": "Benelli BN 600",
+            "description": "The Benelli BN 600 is a mid-range motorcycle released in 2011, designed for urban commuting and leisure riding, featuring a sporty look and performance-oriented engineering.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "3c897cb5-db79-4261-afa9-7486d3821756",
+            "image": null,
+            "name": "GE Top Load Washing Machines",
+            "description": "The GE Top Load Washing Machines are designed to provide effective cleaning with easy access and intuitive controls, ensuring a user-friendly laundry experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3f8fe344-3e6e-4f75-89a4-a0843874492b",
+            "image": null,
+            "name": "Triumph Tiger 1050",
+            "description": "The Triumph Tiger 1050 is a versatile sport-touring motorcycle designed for a balance of performance and comfort, ideal for both daily commuting and long-distance riding.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "40280409-43aa-49ff-97ca-f91cbefc45b4",
+            "image": null,
+            "name": "Audi Q8 e-tron",
+            "description": "The Audi Q8 e-tron is a luxury electric SUV that combines performance and sustainability, offering a spacious interior and advanced technology for a premium driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cab8eb12-7b0e-48dc-9297-516b4c94667a",
+            "image": null,
+            "name": "KTM 950 Adventure",
+            "description": "The KTM 950 Adventure is a versatile motorcycle designed for on-road and off-road performance, featuring a powerful V-twin engine and a rugged chassis built for adventure touring.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "eef5b209-1267-4eb9-9ac3-80e09fccd397",
+            "image": null,
+            "name": "Triumph Tiger",
+            "description": "The Triumph Tiger is a series of motorcycle models designed primarily for touring and adventure riding, known for their versatility and strong performance on both on-road and off-road terrains.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "f45262e6-9d1b-42b8-af9a-5469e24e4ba7",
+            "image": null,
+            "name": "Kuga",
+            "description": "The Calligaris Kuga series includes contemporary chairs designed for comfort and versatility, suitable for both dining and casual settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f9833125-d545-48b6-a925-6e4460ca1f42",
+            "image": null,
+            "name": "Nike Dri-FIT ADV Seasonless",
+            "description": "The Nike Dri-FIT ADV Seasonless series is designed for ultimate comfort and performance in varying weather conditions, utilizing advanced moisture-wicking technology to keep athletes dry and focused.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "6d63c539-d0c8-46ad-a36c-cfd94fed7c86",
+            "image": null,
+            "name": "Audi A6 Avant",
+            "description": "The Audi A6 Avant is a luxury station wagon designed to offer spacious comfort and advanced technology, embodying the perfect blend of performance and practicality for both urban and rural driving.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7662a496-52c2-41ae-b0fe-cd538dfc45a5",
+            "image": null,
+            "name": "Frigidaire Professional Series",
+            "description": "The Frigidaire Professional Series offers high-performance refrigerators designed for efficiency and durability, featuring advanced cooling technologies and sleek designs for modern kitchens.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7be8a3ba-5aae-4b45-8e9b-1f4ddc36a903",
+            "image": null,
+            "name": "Saint Germain",
+            "description": "The Calligaris Saint Germain series offers elegantly designed sofas that blend comfort with modern aesthetics, making them suitable for various interior styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fb666e99-88df-404b-8e81-71260b56be50",
+            "image": null,
+            "name": "Saarinen Table",
+            "description": "The Saarinen Table series by Herman Miller features a timeless, elegant design characterized by its sculptural forms and clean lines, serving as an iconic centerpiece in various interior settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        }
+    ]
+}

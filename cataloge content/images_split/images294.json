@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "05d625e1-087f-4f73-819b-06b5f3862fb2",
+            "image": null,
+            "name": "Blendtec Designer 625",
+            "description": "The Blendtec Designer 625 is a high-performance blender designed for home chefs, featuring a powerful motor and intuitive touch interface for blending a variety of ingredients with ease.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "271547db-17c1-4e02-92c6-9861f4d854c8",
+            "image": null,
+            "name": "ROG Chakram",
+            "description": "The Asus Republic of Gamers ROG Chakram is an advanced gaming mouse designed for gamers seeking precision, customization, and advanced performance in competitive gaming environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "40f744e7-e268-48a5-9c0b-dc510a2f729f",
+            "image": null,
+            "name": "Geely Emgrand EX7",
+            "description": "The Geely Emgrand EX7 is a compact SUV designed to provide a blend of comfort, technology, and practicality, aimed at urban consumers seeking a reliable vehicle for daily use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "f7a46fd7-2ee5-4ef8-8ca1-535468b62cbf",
+            "image": null,
+            "name": "Geely GX7",
+            "description": "The Geely GX7 is a compact SUV that was first released in 2012, designed to offer a combination of practicality and modern aesthetics for urban and suburban driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "f6d77783-5bd5-48e4-aeaa-c389c53952ad",
+            "image": null,
+            "name": "Power T2 Series",
+            "description": "The Rockford Fosgate Power T2 Series is a line of high-performance car audio products designed to deliver powerful sound and exceptional clarity. They are engineered for serious audiophiles seeking top-quality performance in vehicle audio systems.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "a3c1194f-a170-446f-a2b3-f0653ed6e18a",
+            "image": null,
+            "name": "Moto Guzzi Nevada",
+            "description": "The Moto Guzzi Nevada is a classic motorcycle designed for touring and everyday riding, featuring a comfortable seat and a relaxed riding position.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "2b73abb3-ce1c-4db7-b625-e281c1508aea",
+            "image": null,
+            "name": "Geely Lynk & Co 01",
+            "description": "The Geely Lynk & Co 01 is a compact SUV that combines modern design with advanced technology, aiming to provide a versatile and stylish driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "4570121b-51be-4817-9954-b9947c803315",
+            "image": null,
+            "name": "Audi RS 7",
+            "description": "The Audi RS 7 is a high-performance luxury four-door coupe renowned for its powerful engine, advanced technology, and elegant design, combining sportiness with everyday usability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0815eed0-1504-44a9-917d-5cccf31bd6d3",
+            "image": null,
+            "name": "Prime R2 Series",
+            "description": "The Rockford Fosgate Prime R2 Series is a line of car audio speakers designed to deliver high-quality sound and performance, enhancing the in-vehicle listening experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "e1da7260-4528-4cdf-81ff-a1965b070ebd",
+            "image": null,
+            "name": "ROG Strix Scar 15/17",
+            "description": "The Asus Republic of Gamers ROG Strix Scar 15/17 series is designed for high-performance gaming, featuring powerful hardware and advanced cooling systems to support competitive gaming experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "3845472e-28f3-4e6b-9118-03d7689b612f",
+            "image": null,
+            "name": "Geely Tugela",
+            "description": "The Geely Tugela is a mid-sized SUV designed to offer a combination of style, comfort, and modern technology for daily driving and family use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "8a2c9376-5b19-4f9b-bdaa-cc26965d48d1",
+            "image": null,
+            "name": "Moto Guzzi California",
+            "description": "The Moto Guzzi California is a classic motorcycle series known for its unique V-twin engine design and cruiser styling, aimed at providing a comfortable riding experience on both city streets and highways.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "a4465ddb-bf6e-4684-aca1-2fdeb4d6f4ab",
+            "image": null,
+            "name": "Micron 5200 ECO",
+            "description": "The Micron 5200 ECO series consists of enterprise-grade solid-state drives designed for high endurance and energy efficiency, primarily aimed at data centers and enterprise storage solutions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Micron Technology"
+            }
+        },
+        {
+            "id": "b46c7eaa-a935-4d28-93df-f07f2ef42125",
+            "image": null,
+            "name": "M Series",
+            "description": "The Rockford Fosgate M Series is a line of car audio products designed to deliver exceptional sound quality and performance in automotive environments, featuring specialized components for durability and optimized acoustics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "087066a9-2955-446b-80f2-3349c1e13b3f",
+            "image": null,
+            "name": "ROG Gaming Accessories",
+            "description": "The Asus Republic of Gamers (ROG) Gaming Accessories series offers high-performance peripherals designed to enhance the gaming experience, catering to both casual and professional gamers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "35164929-362a-42ee-9d34-3ef4e9125e66",
+            "image": null,
+            "name": "Geely Geometry E",
+            "description": "The Geely Geometry E is an electric compact car designed to provide a balance of efficiency and urban mobility, focusing on sustainability and modern design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "1458ef48-145f-434c-ad53-19fa66e5a642",
+            "image": null,
+            "name": "Moto Guzzi V11 Sport",
+            "description": "The Moto Guzzi V11 Sport is a sport-touring motorcycle known for its unique design and performance, featuring an air-cooled V-twin engine and classic styling that reflects the brand's heritage.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "7a0f6c20-eb9b-4b07-93ea-760e1dff3993",
+            "image": null,
+            "name": "Smoby Cook & Play",
+            "description": "The Smoby Cook & Play series offers a range of toy kitchen sets designed to encourage imaginative play and develop culinary skills in children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Smoby"
+            }
+        },
+        {
+            "id": "a16e9298-4abe-4391-a678-4a7394e83b0e",
+            "image": null,
+            "name": "Micron 5400 Series",
+            "description": "The Micron 5400 Series is a line of enterprise solid-state drives designed for high performance, durability, and efficiency in data center applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Micron Technology"
+            }
+        },
+        {
+            "id": "33b54e33-f682-482b-8afc-ff0e2df60f91",
+            "image": null,
+            "name": "Cestone",
+            "description": "The Flexform Cestone series is a collection of sophisticated sofas characterized by its elegant design and luxurious comfort, intended for contemporary living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "064bd59a-1058-4cef-8df6-3de927af99be",
+            "image": null,
+            "name": "Gordon",
+            "description": "The Gordon series by Flexform features a collection of chairs that blend comfort and elegance, designed for both residential and commercial spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "f7ffb019-eafe-4ff6-8950-5f731ba70c4b",
+            "image": null,
+            "name": "ROG Swift OLED PG32UQ",
+            "description": "The Asus Republic of Gamers ROG Swift OLED PG32UQ is a high-performance gaming monitor designed for immersive gaming experiences with OLED technology, delivering vibrant colors and deep contrasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "c780c7cb-04ef-4aea-a1e5-ebd56e269649",
+            "image": null,
+            "name": "Audi RS e-tron GT",
+            "description": "The Audi RS e-tron GT is a high-performance electric grand tourer that combines luxury with cutting-edge electric vehicle technology, offering a blend of dynamic driving performance and advanced features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6c2cde49-2267-4379-ac7c-4de9aa719e1d",
+            "image": null,
+            "name": "ROG Strix Scar 16",
+            "description": "Asus Republic of Gamers ROG Strix Scar 16 is a high-performance gaming PC designed to deliver exceptional graphics and speed, tailored for competitive gamers seeking top-tier performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "e4c3fd0c-d9a3-4b9d-b780-96f787872032",
+            "image": null,
+            "name": "BenQ Zowie RL2460",
+            "description": "The BenQ Zowie RL2460 series is designed for competitive gaming, offering fast response times and customizable settings to enhance the gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "96d1c5e0-11a7-4320-959e-95da5f01cca0",
+            "image": null,
+            "name": "Moto Guzzi Breva 1200",
+            "description": "The Moto Guzzi Breva 1200 is a motorcycle known for its classic styling and comfortable riding experience, intended for both urban commuting and long-distance travel.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "b7ef007a-4295-41a8-84f3-114b91c5f5c9",
+            "image": null,
+            "name": "Pro Arte Series",
+            "description": "The D'Addario Pro Arte Series is designed for classical guitarists, offering premium quality nylon strings that provide excellent tone and playability. These strings are known for their rich, warm sound and exceptional durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "4c6c1bd1-1ad0-46a2-b6f4-69226381db07",
+            "image": null,
+            "name": "BenQ W1720",
+            "description": "The BenQ W1720 is a home theater projector that offers 4K resolution and exceptional color accuracy for an immersive viewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "b062431e-0f99-40ac-aa78-d4c6b16c43af",
+            "image": null,
+            "name": "Moto Guzzi Griso 1100",
+            "description": "The Moto Guzzi Griso 1100 is a dynamic and sporty motorcycle known for its distinctive design and powerful performance. Featuring a mix of Italian craftsmanship and modern engineering, it is aimed at riders seeking a unique on-road experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "9ee4988d-a5e6-4147-bde0-829901d23aa7",
+            "image": null,
+            "name": "Proctor Silex 46310",
+            "description": "The Proctor Silex 46310 is a coffee machine designed for simplicity and efficiency, making it easy to brew fresh coffee at home with minimal effort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        }
+    ]
+}

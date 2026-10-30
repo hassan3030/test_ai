@@ -1,0 +1,376 @@
+{
+    "data": [
+        {
+            "id": "81abaa59-b2df-412c-8ed1-2f07e80da768",
+            "image": null,
+            "name": "Nike Epic React Flyknit",
+            "description": "The Nike Epic React Flyknit is a versatile sneaker designed for runners and casual wear, featuring a lightweight and responsive foam midsole for enhanced comfort and energy return.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "88e3cba1-cbd8-4652-97d9-9288f9254727",
+            "image": null,
+            "name": "Nike Air Zoom Maxfly",
+            "description": "The Nike Air Zoom Maxfly is a high-performance sneaker designed for sprinters, featuring a lightweight construction and advanced cushioning technology for improved speed and comfort during races.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "e7dd2f03-4315-41d8-9093-5a14ad845f63",
+            "image": null,
+            "name": "React Infinity Run",
+            "description": "The Nike React Infinity Run is a running sneaker designed for maximum comfort and support, featuring responsive cushioning and a wide base for stability during your runs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "eb13a40b-223d-4005-aa2d-cbfb7928ba59",
+            "image": null,
+            "name": "Beats Powerbeats Pro",
+            "description": "Beats Powerbeats Pro are true wireless in-ear headphones designed for athletes and fitness enthusiasts, offering superior sound quality with enhanced battery life and a secure fit during active use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8f7ce46b-6fb2-405d-83e6-a83ee9461cdb",
+            "image": null,
+            "name": "Beats Pill+",
+            "description": "The Beats Pill+ is a portable Bluetooth speaker designed for high-quality sound and convenience. Its compact design allows for easy transportation, making it ideal for on-the-go listening.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f1afd05f-8cc8-4913-9cee-9ef424423c9e",
+            "image": null,
+            "name": "Nike Dunk Low",
+            "description": "The Nike Dunk Low is a classic sneaker known for its stylish low-top design and comfort, originally designed for basketball but has transcended into a popular lifestyle shoe.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "93137e51-ed0c-4c5c-a83c-1978d75e5763",
+            "image": null,
+            "name": "Nikon NIKKOR Z 100-400mm f/4.5-5.6 VR S",
+            "description": "The Nikon NIKKOR Z 100-400mm f/4.5-5.6 VR S is a versatile telephoto zoom lens designed for Nikon Z-series cameras, offering excellent image quality and advanced vibration reduction for capturing distant subjects with clarity.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe434a79-0587-40f9-9f19-2c3c9ed37181",
+            "image": null,
+            "name": "Louis Vuitton Spring/Summer 2016 Collection",
+            "description": "The Louis Vuitton Spring/Summer 2016 Collection features a range of accessories designed to complement the seasonal fashion line, showcasing the brand's signature craftsmanship and innovative designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a9c849e2-481c-4f58-9d7f-330007ab8788",
+            "image": null,
+            "name": "Nike React Element 55",
+            "description": "The Nike React Element 55 is a modern sneaker designed for comfort and style, featuring a responsive React foam midsole and a sleek silhouette.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "fc6f688a-d1fc-419e-92f8-60729f854bd8",
+            "image": null,
+            "name": "LEGO Friends",
+            "description": "LEGO Friends is a series of children's books that features the characters and stories from the popular LEGO Friends toy line, promoting creativity and friendship among kids.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Lego Publishing"
+            }
+        },
+        {
+            "id": "b776d89c-c9e1-464b-9bed-21950c01d7fc",
+            "image": null,
+            "name": "Louis Vuitton Cruise 2016 Collection",
+            "description": "The Louis Vuitton Cruise 2016 Collection features a range of accessories designed for stylish travel and everyday use, showcasing a blend of classic craftsmanship and contemporary design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0ffdc1ef-2b61-47dd-bd01-b78e5aa2f26c",
+            "image": null,
+            "name": "Nike Zoom Freak 1",
+            "description": "The Nike Zoom Freak 1 is a basketball sneaker designed for performance, featuring responsive cushioning and a secure fit to enhance agility on the court. It is the first signature shoe of NBA player Giannis Antetokounmpo, embodying speed and style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "187cc950-00c1-491f-9a9a-a3eb67918395",
+            "image": null,
+            "name": "Nike Air Max 270",
+            "description": "The Nike Air Max 270 is a lifestyle sneaker known for its large visible Air unit in the heel, providing exceptional cushioning and comfort for everyday wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "2730749b-ed86-496c-b30f-cbbe53e72c32",
+            "image": null,
+            "name": "Supreme x Louis Vuitton",
+            "description": "The Supreme x Louis Vuitton series is a collaboration that combines Louis Vuitton's luxury craftsmanship with Supreme's streetwear aesthetic, featuring a range of accessories designed for both style and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2d0183f0-04ed-45d0-9035-f390f331abe4",
+            "image": null,
+            "name": "Bose Soundbar 700",
+            "description": "The Bose Soundbar 700 is a premium soundbar designed to provide exceptional sound quality for home entertainment systems, featuring sleek aesthetics and advanced technology for an immersive audio experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "555c15b3-f5a3-4a01-9a55-7ed8c317c4f5",
+            "image": null,
+            "name": "Air Jordan 35",
+            "description": "The Nike Air Jordan 35 is a basketball sneaker that combines performance and style, featuring advanced cushioning technology and a sleek, modern design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "5ed1bff6-e2f0-44a3-a7d8-48239f4dc83e",
+            "image": null,
+            "name": "Bose QuietComfort Earbuds II",
+            "description": "The Bose QuietComfort Earbuds II are wireless noise-cancelling earbuds designed to provide excellent audio performance and comfort for prolonged use, making them ideal for music enthusiasts and frequent travelers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b92da165-acb0-41fd-8758-6c09b015b7b2",
+            "image": null,
+            "name": "Dell XPS 13 (9360)",
+            "description": "The Dell XPS 13 (9360) is a high-performance ultrabook known for its sleek design, premium build quality, and impressive display, making it ideal for professionals and students who require portability without sacrificing power.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "b98bc8ce-5e14-47aa-af7f-d87f93d307ab",
+            "image": null,
+            "name": "Pact",
+            "description": "The Joie Pact series includes lightweight and compact strollers designed for ease of use and portability, making it ideal for parents on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b99d495c-cf25-49b4-b2a9-ccc4eb446e22",
+            "image": null,
+            "name": "Jeep Commander",
+            "description": "The Jeep Commander is a mid-size SUV that was introduced in 2005, designed to provide off-road capabilities along with a spacious interior for families and outdoor enthusiasts.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "2643c5f3-42f2-4ea3-aeef-d67549465a17",
+            "image": null,
+            "name": "Skullcandy Push",
+            "description": "The Skullcandy Push series features true wireless in-ear headphones designed for a secure fit and superior sound quality, making them ideal for on-the-go listening.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "d2403227-d07d-4511-bc62-4c6ce656b1a2",
+            "image": null,
+            "name": "Crusher ANC",
+            "description": "The Skullcandy Crusher ANC headphones offer active noise cancellation combined with adjustable sensory bass for an immersive audio experience tailored to the listener's preference.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "a35af780-53c9-49f3-b399-4fe07aa882f0",
+            "image": null,
+            "name": "Skullcandy Push Ultra",
+            "description": "Skullcandy Push Ultra are true wireless earbuds designed for active users, offering secure fit and quality sound in a compact format.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "459423f6-15b3-418b-8dda-a49d34a57bd9",
+            "image": null,
+            "name": "Skullcandy Dime",
+            "description": "The Skullcandy Dime is a series of compact true wireless headphones designed for portability and ease of use, offering a combination of sound quality and convenience for listening on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "c74d4148-a61b-4df2-a4d0-1090eda55ef2",
+            "image": null,
+            "name": "Google Pixel 2",
+            "description": "The Google Pixel 2 is a smartphone that features a camera designed for high-quality photography and integrates Google's software ecosystem for a seamless user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "a467c750-fe54-475e-abc7-7df900941236",
+            "image": null,
+            "name": "Google Pixel 3",
+            "description": "The Google Pixel 3 is a smartphone designed to offer a high-quality photography experience and seamless integration with Google's services, featuring advanced AI capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "ed918306-d1dd-4f57-b40c-b10f6985f8ed",
+            "image": null,
+            "name": "Google Nest Hello",
+            "description": "The Google Nest Hello is a smart video doorbell designed to help users see, hear, and speak to visitors at their doorstep via a smartphone app. It features built-in HDR video, night vision, and intelligent alerts to enhance home security.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "fd3067da-060a-424d-bf28-e82293bd6cee",
+            "image": null,
+            "name": "Nest Hub Max",
+            "description": "The Google Nest Hub Max is a smart home device that features a display, enabling users to manage their connected smart home devices, make video calls, and access a variety of Google services through voice commands.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "fdd1e1c3-569b-47ee-9f89-b26f5fe0e13f",
+            "image": null,
+            "name": "Pixel 5a",
+            "description": "The Google Pixel 5a is a smartphone that combines advanced camera capabilities with a sleek design, providing users with enhanced photography and a smooth Android experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "340b5a21-173d-4f1c-a12e-a37d6401079d",
+            "image": null,
+            "name": "Pixel 7a",
+            "description": "The Google Pixel 7a is a smartphone designed to provide an exceptional photography experience, enhanced performance, and seamless integration with Google's ecosystem of services.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        }
+    ]
+}

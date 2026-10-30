@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "f70819ed-f0d9-44d2-8c31-32dacdd3a16a",
+            "image": null,
+            "name": "Dodo Juice Blue Velvet",
+            "description": "Dodo Juice Blue Velvet is a premium car wax designed to provide a deep, glossy finish and protection to automotive paint surfaces. Its unique formulation enhances the shine while offering durability and resistance to environmental elements.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "6b954fac-1f26-4615-938d-29ae23b56e8a",
+            "image": null,
+            "name": "Ford Mustang Mach-E",
+            "description": "The Ford Mustang Mach-E is a fully electric SUV that combines the performance and style of the iconic Mustang brand with modern electric vehicle technology, designed for both everyday driving and eco-conscious consumers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "6f5145dc-87a4-4b61-a1ea-71c6ff441a5c",
+            "image": null,
+            "name": "Vespa ET4",
+            "description": "The Vespa ET4 is a compact scooter designed for urban commuting, featuring a 125cc or 150cc engine that offers a balance of performance and fuel efficiency, making it ideal for navigating city traffic with ease.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "770dcbb7-3113-4ee4-bafa-5f91e6eda616",
+            "image": null,
+            "name": "Tuono 125",
+            "description": "The Aprilia Tuono 125 is a lightweight motorcycle designed for youthful riders, offering agility and spirited performance in an accessible package.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "779f1915-5c3e-486d-9487-9c71514d03be",
+            "image": null,
+            "name": "Cuisinart AirFryer Oven",
+            "description": "The Cuisinart AirFryer Oven is a versatile kitchen appliance that combines the functions of an air fryer, convection oven, and toaster oven, allowing users to fry, bake, and toast with less oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7a23fd8e-9f55-4d09-a603-ad29a59ecb95",
+            "image": null,
+            "name": "Norton Dominator 961",
+            "description": "The Norton Dominator 961 is a classic motorcycle that blends modern engineering with retro aesthetics, designed for performance and style on both city streets and long rides.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "9372203d-dd32-4c12-bc13-b9b6b4d8b71c",
+            "image": null,
+            "name": "Shinko 712",
+            "description": "The Shinko 712 is a motorcycle tire series designed for cruising and touring, known for its excellent grip and stability on a variety of road conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "011b1825-0901-45bb-acd1-a96f7b4438f6",
+            "image": null,
+            "name": "SR Series",
+            "description": "The Shinko SR Series is designed for performance, providing excellent grip and stability for a variety of motorcycle applications. It aims to enhance rider confidence and control on the road.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "2cc99062-1998-4b22-a339-6e10b47db368",
+            "image": null,
+            "name": "Vespa S 50",
+            "description": "The Vespa S 50 is a lightweight scooter designed for urban commuting, featuring a retro design combined with modern performance and efficiency.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "386280da-4c44-4101-807c-9a9a9a4e2cb6",
+            "image": null,
+            "name": "Ninja 250SL",
+            "description": "The Kawasaki Ninja 250SL is a lightweight sport motorcycle designed for both new and experienced riders, offering a balance of performance and ease of handling, making it suitable for urban commuting and weekend rides.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "3b01afee-5f24-495c-bf0c-d578c3ee98a5",
+            "image": null,
+            "name": "Avon Tires AV9",
+            "description": "The Avon Tires AV9 is a series of tires designed for high-performance vehicles, featuring a balanced design for superior grip, handling, and durability on various road surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "4171cbc6-d89d-413d-94cb-53b2bf2db3e3",
+            "image": null,
+            "name": "Simoniz Wax",
+            "description": "Simoniz Wax is a car care product designed to provide a high-gloss protective coating for automotive surfaces, enhancing the shine and protecting the paint from harmful elements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "4b567558-fb0a-4ef1-a89e-c63662053918",
+            "image": null,
+            "name": "Nike VaporMax",
+            "description": "The Nike VaporMax is a performance sneaker that features a unique air cushioning system designed for lightweight comfort and responsive support during athletic activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "9e8a7b78-7f43-4cf1-9ab3-5193cd14e459",
+            "image": null,
+            "name": "Simoniz Polish",
+            "description": "The Simoniz Polish series offers a range of car care products designed to restore and protect the exterior of vehicles, providing a high-quality finish and long-lasting shine.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "b01460e8-22ba-453d-829d-c17590a5f125",
+            "image": null,
+            "name": "Aprilia SportCity 125",
+            "description": "The Aprilia SportCity 125 is a compact scooter designed for urban mobility, combining agility and comfort for city commuting.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "b0b1b6df-1787-48e6-acb7-64a251593168",
+            "image": null,
+            "name": "Arcane",
+            "description": "Arcane is an animated series by Riot Games, based on the popular game League of Legends. It explores the origins of several characters and the conflict between the magical city of Piltover and the oppressed underground of Zaun.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b1842c1c-a9f7-4412-b36f-54b068b0daa4",
+            "image": null,
+            "name": "Dodge Journey",
+            "description": "The Dodge Journey is a midsize crossover SUV that offers flexible seating and cargo options, making it suitable for families and those needing extra space.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "d89a2b5e-b450-4d01-9670-79b3db5a269a",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-6R",
+            "description": "The Kawasaki Ninja ZX-6R is a sport motorcycle known for its lightweight design, nimble handling, and high-performance capabilities, making it suitable for both track and street riding.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "6f80d1ba-ee2f-4de0-80f2-db70314dbbcb",
+            "image": null,
+            "name": "Hyundai Veloster Turbo",
+            "description": "The Hyundai Veloster Turbo is a compact sports car launched in 2013, known for its unique three-door design and sporty performance, aimed at enthusiasts seeking a combination of practicality and driving excitement.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "eb1de28f-0473-4522-afdf-13f80cf40fa6",
+            "image": null,
+            "name": "Santa Fe",
+            "description": "The Hyundai Santa Fe is a mid-size SUV known for its spacious interior, advanced safety features, and versatile performance, making it suitable for families and outdoor enthusiasts alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "96084a9b-da06-4138-8417-e415f300d901",
+            "image": null,
+            "name": "Hyundai Elantra (2007 Generation)",
+            "description": "The Hyundai Elantra (2007 Generation) is a compact car designed for efficiency and practicality, offering a comfortable ride and a range of features aimed at everyday commuting.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "ed74b13f-5abf-424f-9549-11a278496a0e",
+            "image": null,
+            "name": "Veloster",
+            "description": "The Hyundai Veloster is a compact car known for its unique three-door design, sporty performance, and versatility, appealing to drivers seeking a mix of convenience and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "9e79b213-3181-469f-a7eb-ffe5c454f4e9",
+            "image": null,
+            "name": "Genesis G80",
+            "description": "The Hyundai Genesis G80 is a luxury midsize sedan that provides a blend of comfort, advanced technology, and performance, catering to drivers seeking an upscale driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f37dfcd5-e12f-481b-a5e4-d9ff647bbd85",
+            "image": null,
+            "name": "Hyundai Kona Electric",
+            "description": "The Hyundai Kona Electric is an all-electric SUV designed to deliver an eco-friendly driving experience with advanced technology and impressive efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "9f46e96b-cdbd-4a84-b688-3b88d3d3c437",
+            "image": null,
+            "name": "Hyundai Santa Fe (2007 Generation)",
+            "description": "The Hyundai Santa Fe (2007 Generation) is a mid-size SUV designed to offer a balance of comfort, style, and efficiency, making it suitable for both city driving and outdoor adventures.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "a1f8f954-08f6-48bd-80d0-2f1e180e802f",
+            "image": null,
+            "name": "Hyundai Veloster",
+            "description": "The Hyundai Veloster is a compact sports car known for its unique three-door design and efficient performance. It blends sporty styling with practicality, making it a distinctive choice in the small car segment.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f7588ba8-8656-4c4f-adf3-f4d8b440065d",
+            "image": null,
+            "name": "Hyundai Azera",
+            "description": "The Hyundai Azera is a full-size sedan known for its spacious interior, comfort-focused design, and a balance of performance and efficiency, making it suitable for both family and executive transportation.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f90db3a7-4cbb-4839-b2a5-d378e22d464b",
+            "image": null,
+            "name": "Hyundai Genesis",
+            "description": "The Hyundai Genesis is a luxury sedan that combines performance and comfort, showcasing Hyundai's commitment to high-quality engineering and technology.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "a90e0cc5-fc89-457c-ae9e-b79d0b9bb54c",
+            "image": null,
+            "name": "Hyundai Tiburon (third generation)",
+            "description": "The Hyundai Tiburon (third generation) is a compact sports coupe known for its affordable pricing, stylish design, and sporty driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "bcdecc3f-cf53-42b2-863c-8035cccd6b00",
+            "image": null,
+            "name": "Hyundai Equus",
+            "description": "The Hyundai Equus is a full-size luxury sedan that was first released in 2010, designed to offer a high level of comfort, advanced technology, and premium features for discerning drivers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        }
+    ]
+}

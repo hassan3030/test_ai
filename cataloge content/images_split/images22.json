@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "ef5adaa7-50be-43bb-b2db-9f39520c3271",
+            "image": null,
+            "name": "Nissan Frontier (D22)",
+            "description": "The Nissan Frontier (D22) is a compact pickup truck introduced in 2000, designed for utility and versatility in both on-road and off-road conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "c050e70c-d4ab-4871-a549-f11e0a844c13",
+            "image": null,
+            "name": "Nissan NP300",
+            "description": "The Nissan NP300 is a robust pickup truck recognized for its versatility, durability, and off-road capability, appealing to both commercial and recreational users since its release in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "d184d83f-326d-47bd-87e3-635969a6ce8d",
+            "image": null,
+            "name": "Nissan NV200",
+            "description": "The Nissan NV200 is a compact van designed for versatility and efficiency, making it ideal for businesses and urban environments.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "fd5b5b2b-bbf7-45fd-bbdf-802cc43b7e1b",
+            "image": null,
+            "name": "Nissan 350Z",
+            "description": "The Nissan 350Z is a two-door sports car that was launched in 2002, known for its powerful V6 engine and rear-wheel-drive layout, providing a dynamic driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "0f7b6e84-28d5-4c93-875d-db2da8049a69",
+            "image": null,
+            "name": "2023 Chevrolet Corvette Z06",
+            "description": "The 2023 Chevrolet Corvette Z06 is a high-performance sports car designed for speed and precision, featuring a powerful V8 engine and advanced aerodynamics for enhanced handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "178f51ef-7949-4769-bc61-7009bbfcb1cb",
+            "image": null,
+            "name": "Nissan Armada",
+            "description": "The Nissan Armada is a full-size SUV that combines rugged performance with luxurious features, designed to accommodate larger families and transport them comfortably on various terrains.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "1a4d091d-69a3-45f3-aaf8-0307b0271ebb",
+            "image": null,
+            "name": "2023 Chevrolet Silverado 1500",
+            "description": "The 2023 Chevrolet Silverado 1500 is a full-size pickup truck designed for both work and everyday driving, offering a combination of strength, advanced technology, and comfort.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "22c9a4d6-f495-4d8a-b0f9-a221d4bd690b",
+            "image": null,
+            "name": "Nissan GT-R",
+            "description": "The Nissan GT-R is a high-performance sports car that combines cutting-edge technology with powerful performance and distinctive styling. Launched in 2006, it has become known for its impressive speed and handling capabilities.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "39cf50e1-9328-4338-9340-f166bcf0ed89",
+            "image": null,
+            "name": "Nissan 370Z",
+            "description": "The Nissan 370Z is a two-seater sports car that combines sporty handling with a powerful V6 engine, aimed at driving enthusiasts who seek performance and agility on the road.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "4862935c-027f-403f-bf95-afb74c198646",
+            "image": null,
+            "name": "Nissan Xterra",
+            "description": "The Nissan Xterra is a rugged SUV designed for off-road adventures, combining durability with practical features suited for outdoor enthusiasts.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "4bfafda7-6ff2-48f7-acce-0eaaba640fa8",
+            "image": null,
+            "name": "Nissan Qashqai",
+            "description": "The Nissan Qashqai is a compact SUV that blends versatile design with advanced technology, aimed at providing a comfortable and spacious experience for urban and outdoor driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "63b480f4-b71d-48c4-990d-e149737de92a",
+            "image": null,
+            "name": "Ninja 250R",
+            "description": "The Kawasaki Ninja 250R is a lightweight sport motorcycle designed for new riders while offering a balance of performance and handling characteristics suitable for everyday use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "eb75563f-37e4-4312-bd5f-1f03da016a0a",
+            "image": null,
+            "name": "Nissan Maxima",
+            "description": "The Nissan Maxima is a full-size sedan known for its engaging driving experience, upscale interior, and performance-oriented features, aiming to blend sportiness with comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "ef941224-e9d2-4f89-887e-2aae5cffe1ae",
+            "image": null,
+            "name": "Kawasaki Ninja 250R",
+            "description": "The Kawasaki Ninja 250R is a lightweight sport motorcycle designed for beginner riders and offering a blend of performance and style. It features a 249cc engine and a sporty design that emphasizes agility and ease of handling.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "7362c50e-aca3-4b8a-b81a-b0ba81f7581b",
+            "image": null,
+            "name": "Steelcase Flex",
+            "description": "The Steelcase Flex series offers versatile and collaborative table solutions designed to adapt to changing needs in dynamic work environments. These tables promote flexibility and encourage teamwork by supporting various configurations and activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "88ad1ad8-6eff-4208-a8fb-f31068d1d390",
+            "image": null,
+            "name": "Dodo Juice Soft Wax",
+            "description": "Dodo Juice Soft Wax is a premium car wax that provides a high level of shine and protection for paint surfaces, designed for easy application and removal.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "98980545-0d49-420f-989c-33d669c93ec1",
+            "image": null,
+            "name": "KTM 990 Adventure",
+            "description": "The KTM 990 Adventure is a versatile adventure motorcycle designed for both on-road and off-road travel, known for its powerful engine and robust chassis, making it suitable for long-distance journeys and rugged terrains.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "a3e82146-2f02-4e69-9cfd-fa45fcc985bb",
+            "image": null,
+            "name": "Liberty",
+            "description": "The Piaggio Liberty series is a range of scooters designed for urban commuting, offering a blend of style, comfort, and practicality ideal for navigating city streets.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "ab34a41f-06f6-4a29-a3f7-73db404900f6",
+            "image": null,
+            "name": "Louis Vuitton X Jeff Koons",
+            "description": "The Louis Vuitton X Jeff Koons series is a collaboration that features iconic artworks reimagined on luxury bags, merging high fashion with celebrated art. This collection aims to celebrate the intersection of contemporary art and luxury goods.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c2776c21-ee71-4562-888c-ab8f29dd2bf5",
+            "image": null,
+            "name": "Maxi-Cosi Mica",
+            "description": "The Maxi-Cosi Mica is a versatile baby seat that combines safety and comfort, designed for children from birth to approximately 4 years. It features a 360-degree rotation for easier access to the child and an adjustable reclining position for added comfort during travel.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d344ae7d-955f-4012-bd93-462ff4e0866a",
+            "image": null,
+            "name": "Tiger 800",
+            "description": "The Triumph Tiger 800 is a versatile adventure motorcycle designed for both on-road touring and off-road exploration, renowned for its performance, comfort, and technology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "071d23da-c50b-44c3-87c0-bb82a23c689f",
+            "image": null,
+            "name": "Nissan Leaf (Second Generation)",
+            "description": "The Nissan Leaf (Second Generation) is a compact electric vehicle designed to provide a sustainable and efficient driving experience, featuring advanced technology and improved range compared to its predecessor.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "159b979f-14e8-4185-abe0-173f05a9f448",
+            "image": null,
+            "name": "Triumph Sprint ST",
+            "description": "The Triumph Sprint ST is a sport touring motorcycle designed for comfort and performance on long distances, featuring a powerful engine and a sporty chassis.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "1c8d41ab-65a6-4a92-a400-f13c323cf7e9",
+            "image": null,
+            "name": "Bimota DB7",
+            "description": "The Bimota DB7 is a high-performance motorcycle known for its lightweight design, advanced engineering, and sporty riding experience, aimed at enthusiasts looking for exceptional handling and power.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "233c71ea-3fd6-4f95-9c72-e03c95bbc15e",
+            "image": null,
+            "name": "Piaggio Medley",
+            "description": "The Piaggio Medley is a versatile scooter designed for urban commuting, combining agility and fuel efficiency with a modern aesthetic.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "26886667-4605-4492-882b-88dbf186699b",
+            "image": null,
+            "name": "GE Retro Appliances",
+            "description": "The GE Retro Appliances series features refrigerators that combine vintage-inspired design with modern functionality, offering a stylish addition to any kitchen while providing reliable cooling performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "36f2ad05-a9f8-4482-9989-c8dea505ca8d",
+            "image": null,
+            "name": "Dodo Juice Purple Haze Pro",
+            "description": "Dodo Juice Purple Haze Pro is a premium car wax designed to provide a high-gloss finish and enhanced protection for automotive paint surfaces. Ideal for dark-colored vehicles, it contains natural carnauba wax and other synthetic ingredients to deliver longevity and a deep shine.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "3bcbbcb5-c2a1-41b6-bf08-3a84727d5f4e",
+            "image": null,
+            "name": "KTM 200 Duke",
+            "description": "The KTM 200 Duke is a lightweight motorcycle designed for urban commuting, featuring a powerful engine and agile handling, making it suitable for both novice and experienced riders.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "3bef34c3-3bfd-4d3b-87c5-eb3ccabbc41b",
+            "image": null,
+            "name": "Piaggio MP3 500 HPE",
+            "description": "The Piaggio MP3 500 HPE is a three-wheeled scooter designed for enhanced stability and comfort in urban commuting, featuring advanced technology and safety features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "42f7c0fc-38cd-45e6-9a38-f0c5c857e3d6",
+            "image": null,
+            "name": "KTM 690 Duke",
+            "description": "The KTM 690 Duke is a lightweight and agile motorcycle designed for urban commuting and spirited rides, featuring a powerful single-cylinder engine and a minimalist design that emphasizes maneuverability and rider connection.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        }
+    ]
+}

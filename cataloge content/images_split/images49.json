@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "e902f924-138a-4b13-899f-c3055d1fec9e",
+            "image": null,
+            "name": "Honda Accord (Seventh Generation)",
+            "description": "The Honda Accord (Seventh Generation) is a midsize car known for its reliability, spacious interior, and balanced performance. Released in 2002, it caters to those seeking comfort and efficiency in a practical sedan.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "725dd211-1ae8-4ed4-880c-4e1936af9087",
+            "image": null,
+            "name": "Toyota Tacoma (Second Generation)",
+            "description": "The Toyota Tacoma (Second Generation) is a compact pickup truck known for its durability, versatility, and off-road capabilities, designed to meet the needs of both daily driving and rugged terrain.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "7422bcba-a779-42fa-a292-e707f1b357af",
+            "image": null,
+            "name": "Lenovo Legion 5",
+            "description": "The Lenovo Legion 5 series is a line of gaming laptops designed to deliver high performance and immersive experiences for gamers, featuring powerful processors and dedicated graphics cards.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "981da1d4-5a3c-4a74-9d52-6df3e4d5ff7f",
+            "image": null,
+            "name": "The Legend of Zelda: Tears of the Kingdom",
+            "description": "The Legend of Zelda: Tears of the Kingdom is an action-adventure game developed and published by Nintendo for the Nintendo Switch, focusing on exploration and puzzle-solving within an expansive open world.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "abc775a0-2f0e-4f98-bbb4-fb5ae5378fda",
+            "image": null,
+            "name": "Royal Enfield C5",
+            "description": "The Royal Enfield C5 is a classic motorcycle that blends timeless design with modern engineering, aimed at providing a comfortable and stylish riding experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "ee31c4be-6923-4c2c-a40f-2e3a47567d3d",
+            "image": null,
+            "name": "Can-Am Renegade",
+            "description": "The Can-Am Renegade is a versatile all-terrain vehicle designed for performance on rugged trails and off-road adventures, offering a blend of power, agility, and comfort.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "aff9ece5-c7f9-4d02-8ced-239775a17d43",
+            "image": null,
+            "name": "Haval H5",
+            "description": "The Haval H5 is a compact SUV produced by Great Wall Motors, designed for those seeking a balance of ruggedness and comfort for both urban and off-road driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "b0846d72-4e62-4485-9f01-3b18200f7ed0",
+            "image": null,
+            "name": "Galaxy Buds Live",
+            "description": "The Samsung Galaxy Buds Live are true wireless earbuds designed for comfort and enhanced sound quality, featuring Active Noise Cancellation for an immersive listening experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "ba796cd3-26f8-4c34-bb4a-06dea9f7a396",
+            "image": null,
+            "name": "Mercedes-Benz EQB",
+            "description": "The Mercedes-Benz EQB is an all-electric compact SUV that offers a versatile interior, advanced technology features, and a strong emphasis on sustainability, aimed at providing a comfortable and eco-friendly driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "c33f2e0a-5ab4-43d9-b6c1-42cf6c59e896",
+            "image": null,
+            "name": "Royal Enfield Classic Chrome",
+            "description": "The Royal Enfield Classic Chrome is a motorcycle series known for its retro styling and timeless design. It combines classic aesthetics with modern engineering to deliver a smooth riding experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "fe19ae93-db7f-4cc7-a199-0098ed16646a",
+            "image": null,
+            "name": "Fujitsu ScanSnap iX1500",
+            "description": "The Fujitsu ScanSnap iX1500 is a versatile document scanner designed for efficient digitization of paper documents, featuring wireless connectivity and an intuitive touchscreen interface.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Fujitsu"
+            }
+        },
+        {
+            "id": "d3be5581-cd18-4d27-b9b5-4c8b20588acf",
+            "image": null,
+            "name": "Fiat Panda 4x4",
+            "description": "The Fiat Panda 4x4 is a compact, all-terrain vehicle designed for both urban driving and off-road adventures, featuring a versatile and practical design suited for various environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "027316af-d188-4137-81b7-f9a987f03ead",
+            "image": null,
+            "name": "Haval Jolion",
+            "description": "The Haval Jolion is a compact SUV introduced by Great Wall Motors in 2021, known for its modern design, spacious interior, and advanced technology features aimed at providing a comfortable driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "061e2999-1d6c-4f2c-a629-e177604ff3ec",
+            "image": null,
+            "name": "Fiat 600",
+            "description": "The Fiat 600 is a compact car that embodies retro styling and modern efficiency, designed for urban mobility and ease of use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "0d034251-516e-4dfe-90eb-10720162473a",
+            "image": null,
+            "name": "XL Series",
+            "description": "The Baja Designs XL Series provides powerful LED lighting solutions designed for off-road applications, enhancing visibility and safety in rugged terrains.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "124758d0-b86f-45b5-89f1-d1be6fc8ac5c",
+            "image": null,
+            "name": "Mann-Filter Cuk 29/2",
+            "description": "The Mann-Filter Cuk 29/2 is a cabin air filter designed to enhance the air quality in vehicle interiors by filtering out dust, pollen, and other airborne particles, ensuring a healthier and more comfortable driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "1daa4903-ae69-4303-8c87-d2b8d4fe7d0e",
+            "image": null,
+            "name": "Mann-Filter WK 69/2",
+            "description": "The Mann-Filter WK 69/2 is an automotive fuel filter designed to ensure optimal fuel flow and engine performance. It effectively removes contaminants from the fuel to protect the engine and enhance longevity.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "3780b439-2477-4343-80e6-45145a4c4924",
+            "image": null,
+            "name": "Maruti Suzuki SX4",
+            "description": "The Maruti Suzuki SX4 is a compact car that was introduced in 2004, designed to combine the comfort of a sedan with the versatility of an SUV. It features a spacious interior and robust performance, making it suitable for diverse driving conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "3dc41480-2252-4b7a-8f36-45b8bd775b95",
+            "image": null,
+            "name": "LG S95QR Soundbar",
+            "description": "The LG S95QR Soundbar is a premium audio solution designed to deliver immersive surround sound for home entertainment systems, combining advanced audio technologies with a sleek design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "47b3d3f7-ed3a-45a2-a9f3-8e468e97e7f1",
+            "image": null,
+            "name": "Great Wall Steed",
+            "description": "The Great Wall Steed is a versatile pickup truck designed for both work and leisure, offering a balance of utility and comfort. Launched in 2009, it aims to provide practicality for various driving conditions and cargo needs.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "536f02c1-4dfc-42f9-a8d2-ac9068133995",
+            "image": null,
+            "name": "ROG Zephyrus",
+            "description": "The Asus ROG Zephyrus series is a line of high-performance gaming laptops designed for gamers and enthusiasts, featuring powerful hardware in a sleek, portable design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "681f7822-88aa-4e3b-bc11-13e68176f184",
+            "image": null,
+            "name": "Continental GT 650",
+            "description": "The Royal Enfield Continental GT 650 is a modern classic motorcycle that combines retro design with contemporary performance, catering to riders who appreciate style and agility on both urban roads and open highways.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "d9365d45-626e-4a62-8776-80d7e4999aa7",
+            "image": null,
+            "name": "Royal Enfield Desert Storm",
+            "description": "The Royal Enfield Desert Storm is a classic motorcycle designed for both on-road and off-road riding, characterized by its rugged aesthetics and vintage styling.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "6bdfad7a-b1f5-4742-a93b-8f216ccd6955",
+            "image": null,
+            "name": "Volvo V70 II",
+            "description": "The Volvo V70 II is a mid-size station wagon that was launched in 2000, known for its practicality, safety features, and comfortable interior, making it ideal for families and long-distance travel.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7b620f9c-a525-4883-a873-d1c337ea09ab",
+            "image": null,
+            "name": "Mann-Filter W 811/80",
+            "description": "The Mann-Filter W 811/80 is an oil filter designed for efficient filtration of engine oil, ensuring optimal performance and longevity of the engine by removing contaminants.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "96e6368c-d8d4-4687-972a-cbcc7da15a3d",
+            "image": null,
+            "name": "Mann-Filter C 21 007",
+            "description": "The Mann-Filter C 21 007 is an air filter designed for automotive applications, ensuring optimal air flow and engine performance through effective filtration of dust and contaminants.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "98c7a2a9-b8e1-4d54-a5e0-208554486157",
+            "image": null,
+            "name": "Lenovo Yoga C930",
+            "description": "The Lenovo Yoga C930 is a versatile 2-in-1 laptop designed for productivity and entertainment, featuring a rotating sound bar and a high-resolution touchscreen for an immersive user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "bfabc380-d706-4a62-b358-1e397aa9670d",
+            "image": null,
+            "name": "Renault Scenic II",
+            "description": "The Renault Scenic II is a compact multi-purpose vehicle (MPV) designed for families, offering spacious interiors and versatile seating configurations to enhance passenger comfort and cargo capacity.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "e6b5e3fd-e908-4456-9ee0-97b67846f773",
+            "image": null,
+            "name": "Honda Accord eighth generation",
+            "description": "The Honda Accord eighth generation, released in 2008, is a mid-size sedan known for its reliability, spacious interior, and strong performance, appealing to families and commuters alike.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec1b136f-3d90-408d-9636-65ce7b9f4d7f",
+            "image": null,
+            "name": "Subaru Impreza WRX (New Generation)",
+            "description": "The Subaru Impreza WRX (New Generation) is a performance-oriented compact car known for its all-wheel drive capabilities and sporty design, aimed at enthusiasts seeking a capable vehicle for both everyday driving and motorsport applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

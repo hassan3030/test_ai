@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7dddee2d-35f1-443a-8bdd-2120750db006",
+            "image": null,
+            "name": "Folex Instant Carpet Spot Remover",
+            "description": "Folex Instant Carpet Spot Remover is a versatile cleaning solution designed to effectively remove stains from carpets and upholstery without the need for rinsing. It is known for its quick action and ease of use, making it ideal for tackling unexpected spills and marks.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Folex"
+            }
+        },
+        {
+            "id": "d958c4d3-0989-4438-8089-9a0148a3e990",
+            "image": null,
+            "name": "Canson Imagine",
+            "description": "Canson Imagine is a series of art supplies designed for artists seeking a versatile and high-quality paper suitable for various techniques. Launched in 2022, this series aims to support creativity through its reliable surface for both drawing and painting.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "92f63129-6310-4e48-91b8-0211066f0ee2",
+            "image": null,
+            "name": "Whirlpool Triple Door Refrigerator",
+            "description": "The Whirlpool Triple Door Refrigerator series features a unique design with three separate compartments that enhance organizational efficiency and food preservation. It is designed to provide optimal cooling and easy access to a variety of food items.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "98ba1056-e3a2-4e8f-8160-ce8d96f81af1",
+            "image": null,
+            "name": "Realme C2",
+            "description": "The Realme C2 is an entry-level smartphone launched in 2019, designed to offer essential features and a reliable performance at an affordable price point.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "b4cd9c1e-67d9-4cce-9ecb-d0e85bb66104",
+            "image": null,
+            "name": "How to Save a Dragon",
+            "description": "How to Save a Dragon is a personalized children's book series by Wonderbly that encourages creativity and reading through interactive storytelling, allowing children to become heroes in their own adventure with dragons.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "45d88036-c8df-46f1-b025-acc4268b01d8",
+            "image": null,
+            "name": "Folex Professional Carpet Spot Remover",
+            "description": "Folex Professional Carpet Spot Remover is a powerful cleaning solution designed to effectively lift and remove tough stains from carpets and upholstery without leaving a residue.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Folex"
+            }
+        },
+        {
+            "id": "f0e90d4a-d19b-453a-b07c-25ba43211969",
+            "image": null,
+            "name": "Wonderbly Personalized Books",
+            "description": "Wonderbly Personalized Books are a series of custom children's books that allow parents to create unique stories featuring their child's name and personal details, fostering a love for reading and making storytime more engaging.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "5c8b1230-6cf5-4286-ba9c-a4027792e34b",
+            "image": null,
+            "name": "Lava Z60",
+            "description": "The Lava Z60 is an affordable smartphone designed to provide essential features, catering to users seeking a reliable device for daily communication and basic tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "71920a7d-95e6-45ca-a52e-4f867218fa11",
+            "image": null,
+            "name": "Whirlpool 6th SENSE",
+            "description": "Whirlpool 6th SENSE refrigerators are designed to efficiently preserve food by utilizing advanced sensing technology that adapts to changes in conditions, ensuring optimal storage conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "9dd1128d-f477-4249-a51c-99678e6e075a",
+            "image": null,
+            "name": "Folex Spot Remover",
+            "description": "Folex Spot Remover is a powerful stain removal solution designed specifically for automotive surfaces, effortlessly lifting tough stains and spills to restore the appearance of your vehicle's interior and exterior.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Folex"
+            }
+        },
+        {
+            "id": "862e95cb-8f14-43bd-9ba0-e0fa81510e97",
+            "image": null,
+            "name": "Lava A71",
+            "description": "The Lava A71 is a smartphone released in 2017, designed to provide essential mobile features and functionality at an affordable price point.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "768b9085-f862-446d-bd4c-bbbb0dcea7e3",
+            "image": null,
+            "name": "Whirlpool 3D Cool Technology Refrigerators",
+            "description": "Whirlpool 3D Cool Technology Refrigerators utilize advanced cooling technology that ensures consistent temperature distribution throughout the refrigerator, enhancing preservation of food and beverages.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "20a0103b-8375-4472-b499-7972ae75fcd2",
+            "image": null,
+            "name": "Lava Smartphone Series",
+            "description": "The Lava Smartphone Series is a collection of mobile devices designed to provide users with reliable performance, stylish designs, and essential smartphone features aimed at enhancing everyday communication and connectivity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "b0f4a460-f7a2-4f1f-91fa-d66406d6b376",
+            "image": null,
+            "name": "Mont Marte Brushes",
+            "description": "Mont Marte Brushes are a collection of high-quality paintbrushes designed for artists of all skill levels, suitable for various painting techniques and mediums.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "71b62597-7c14-438c-aca4-885e61b6372c",
+            "image": null,
+            "name": "Kidizoom Duo Camera",
+            "description": "The Kidizoom Duo Camera is an innovative children's camera designed to encourage creativity and imagination in young photographers. It features dual lenses for taking both selfies and regular photos, making it easy and fun for kids to capture their favorite moments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "46080788-ff44-408b-94ab-63a0ee9fef4b",
+            "image": null,
+            "name": "Realme 9 Pro",
+            "description": "The Realme 9 Pro series consists of smartphones designed to deliver a balanced performance with advanced camera capabilities, appealing to users looking for efficient and stylish mobile devices.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "deb1a2ee-1ea4-4897-aa81-4e4305d892d8",
+            "image": null,
+            "name": "Playmobil DreamWorks Dragons",
+            "description": "The Playmobil DreamWorks Dragons series features figures and playsets inspired by the popular animated franchise, allowing children to engage in imaginative play based on the adventures of dragons and their riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "73e570b2-f15b-46df-b589-f661f975e52e",
+            "image": null,
+            "name": "Clevo P870TM",
+            "description": "The Clevo P870TM is a high-performance gaming laptop designed for enthusiasts and gamers seeking powerful hardware and customizable features for an immersive gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "fbc6d1e6-ab71-4166-9e4d-d51bfb2da6d7",
+            "image": null,
+            "name": "Whirlpool Fresh Care",
+            "description": "The Whirlpool Fresh Care series of washing machines is designed to maintain the freshness of clothes for longer periods, utilizing advanced technologies that reduce wrinkles and odors.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "9102eafe-e2b3-49d4-8369-8fa8ae6a87a0",
+            "image": null,
+            "name": "See Inside",
+            "description": "The Usborne See Inside series invites children to explore the world through engaging illustrations and flaps that reveal hidden information on various topics, encouraging curiosity and learning.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "685a42c6-05de-4a89-9045-662868bc72b7",
+            "image": null,
+            "name": "Avita Magus",
+            "description": "The Avita Magus is a versatile 2-in-1 tablet designed for seamless productivity and entertainment, featuring a detachable keyboard for a laptop-like experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Avita"
+            }
+        },
+        {
+            "id": "2acce4ad-8bca-490d-a7f5-1d5c1cca1ca1",
+            "image": null,
+            "name": "Griot's Garage Brilliant Finish Spray Wax",
+            "description": "Griot's Garage Brilliant Finish Spray Wax is a car care product designed to provide a high-gloss finish and protection for your vehicle's paint while making application easy and quick.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "6ab07efc-7d0a-40f3-8650-90720e5e2ce8",
+            "image": null,
+            "name": "Škoda Fabia",
+            "description": "The Škoda Fabia is a subcompact car first released in 2000, designed to offer practicality, efficiency, and comfort for everyday driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "fbf40139-e3ef-47fc-9297-a1666cac6caf",
+            "image": null,
+            "name": "Early Readers",
+            "description": "Usborne's Early Readers series is designed to help young children develop their reading skills through engaging stories and illustrations, promoting confidence and enjoyment in reading.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "2c95fb91-1df1-499b-98c7-84dec370f44a",
+            "image": null,
+            "name": "Rogue",
+            "description": "The Coach Rogue series features a collection of versatile and stylish bags designed for both everyday use and special occasions, showcasing premium craftsmanship and a modern aesthetic.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "a9a73e83-3307-48be-b50a-0baef85e209e",
+            "image": null,
+            "name": "Baby Seats",
+            "description": "The Bikester Baby Seats series provides safe and comfortable seating solutions for transporting infants on bicycles, ensuring a secure and enjoyable ride for both parent and child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Bikester"
+            }
+        },
+        {
+            "id": "78960782-a392-4efb-934f-5321cc44d2b7",
+            "image": null,
+            "name": "Gionee S11s",
+            "description": "The Gionee S11s is a mid-range smartphone released in 2017, designed to provide a balanced performance with a focus on camera capabilities and aesthetics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "e8e55cc2-40dd-4105-acf5-9f01b1792b8b",
+            "image": null,
+            "name": "Schmincke Primacryl",
+            "description": "Schmincke Primacryl is a high-quality acrylic paint series known for its excellent pigment strength, high lightfastness, and smooth application, suitable for a variety of artistic techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "8dc0b6ca-b55d-4f17-9a4f-b85e12e460e3",
+            "image": null,
+            "name": "Gibson USA 2017 Les Paul Traditional",
+            "description": "The Gibson USA 2017 Les Paul Traditional is an electric guitar model that embodies classic design and craftsmanship, aimed at providing musicians with a versatile instrument that delivers rich tones and sustain.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "8483c561-3380-400f-9f8f-bccfa7cd2c94",
+            "image": null,
+            "name": "Gibson Custom 2017 Les Paul Standard",
+            "description": "The Gibson Custom 2017 Les Paul Standard is a premium electric guitar known for its exceptional craftsmanship, classic design, and versatile tones suited for a wide range of musical genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        }
+    ]
+}

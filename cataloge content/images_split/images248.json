@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "47dc5e77-4519-4d78-86be-591a5494e752",
+            "image": null,
+            "name": "Ducati Monster 620",
+            "description": "The Ducati Monster 620 is a naked bike that emphasizes style, agility, and performance, designed for both urban commuting and spirited riding.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "8b3d19c4-89c1-4e82-a719-f2b86d23fb92",
+            "image": null,
+            "name": "Ducati Multistrada 620",
+            "description": "The Ducati Multistrada 620 is a versatile motorcycle designed for both sport and touring purposes, offering a balanced blend of performance, comfort, and style for all types of riders.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "1a812de1-d3e8-4e7d-bcd4-b6a916e99f72",
+            "image": null,
+            "name": "Ducati 749R",
+            "description": "The Ducati 749R is a high-performance motorcycle designed for racing and sport riding, featuring advanced technology and lightweight construction for superior handling and agility.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "abcbf7c4-95f1-4886-87a0-e145b6a4a535",
+            "image": null,
+            "name": "Ducati 999R",
+            "description": "The Ducati 999R is a high-performance sport motorcycle designed for both track and road use, featuring a powerful engine and advanced aerodynamics for optimal handling and speed.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "da61ab81-d0c6-49b1-9a71-fb309f4cb305",
+            "image": null,
+            "name": "Ducati Hypermotard",
+            "description": "The Ducati Hypermotard is a versatile motorcycle that combines the agility of a dirt bike with the performance of a sport bike, designed for both urban commuting and spirited riding in diverse conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "64c9279c-094b-48f9-aad8-14a8ed62b791",
+            "image": null,
+            "name": "Ducati 1198",
+            "description": "The Ducati 1198 is a high-performance sport motorcycle known for its powerful 1198cc L-Twin engine, advanced electronics, and agile handling, designed for track performance and everyday usability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "61fa4e58-844d-426c-9aff-e5912ee70ea2",
+            "image": null,
+            "name": "Ducati Diavel",
+            "description": "The Ducati Diavel is a muscular cruiser motorcycle designed for performance and style, featuring a unique combination of powerful acceleration and modern technology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "8f934b76-d68b-4c03-a62a-d34559a3214f",
+            "image": null,
+            "name": "Ducati XDiavel",
+            "description": "The Ducati XDiavel is a cruiser motorcycle that combines performance and technology with a distinctive design, emphasizing agility and comfort for a unique riding experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "e817c18b-b640-49ec-a80b-0c3cbca0ea5d",
+            "image": null,
+            "name": "Ducati Scrambler Full Throttle",
+            "description": "The Ducati Scrambler Full Throttle is a modern motorcycle that combines retro design with contemporary performance, designed for urban riding and inspired by flat track racing.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "cbc42cd8-c0f1-43cc-ae79-4a07dc0e9a7f",
+            "image": null,
+            "name": "Ducati Panigale 1299",
+            "description": "The Ducati Panigale 1299 is a high-performance sport motorcycle known for its powerful engine, advanced technology, and race-inspired design, aimed at delivering an exhilarating riding experience on both the road and the track.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "54b5aa78-8a82-40d7-b704-69ceb0b2caa2",
+            "image": null,
+            "name": "Ducati Multistrada 1200 Enduro",
+            "description": "The Ducati Multistrada 1200 Enduro is a versatile adventure motorcycle designed for both on-road and off-road riding. It features advanced technology, comfortable ergonomics, and a powerful engine, making it suitable for long-distance travel and varied terrains.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "531f588d-d4d1-4b34-9d01-e3ef449be23e",
+            "image": null,
+            "name": "Ducati V4",
+            "description": "The Ducati V4 series comprises high-performance motorcycles known for their powerful V4 engines and advanced aerodynamics, designed primarily for sport riding and track performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "0664ed78-5adc-4f2d-9ca8-3f618bd8afe7",
+            "image": null,
+            "name": "Ducati Scrambler 1100",
+            "description": "The Ducati Scrambler 1100 is a retro-styled motorcycle that combines classic design with modern engineering, aimed at riders seeking a versatile and enjoyable riding experience in both urban and open-road environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "6879fcf7-b4be-4853-b688-3058e38c57fc",
+            "image": null,
+            "name": "Ducati Panigale V2",
+            "description": "The Ducati Panigale V2 is a sport motorcycle designed for performance and handling, featuring advanced technology and a powerful engine that offers an exhilarating riding experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "a8785271-8d20-430e-ac48-7cd5b5150c14",
+            "image": null,
+            "name": "Ducati Multistrada V4",
+            "description": "The Ducati Multistrada V4 is an adventure motorcycle designed for versatility on various terrains, with a focus on comfort and advanced technology for long-distance touring.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "aa4430bc-c58e-4776-97e2-5a953d9232e7",
+            "image": null,
+            "name": "Multistrada V4",
+            "description": "The Ducati Multistrada V4 is a versatile adventure motorcycle designed for long-distance touring and off-road capability, featuring advanced technology and performance-oriented engineering.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "b0991061-a6f2-42df-9790-0f2ef3db91b6",
+            "image": null,
+            "name": "Streetfighter V4 SP",
+            "description": "The Ducati Streetfighter V4 SP is a high-performance naked motorcycle that combines aggressive styling with advanced technology, emphasizing track-ready features and a powerful V4 engine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "1107716f-c889-490b-ac3f-8342cb74e1bd",
+            "image": null,
+            "name": "Multistrada V2",
+            "description": "The Ducati Multistrada V2 is a versatile adventure motorcycle designed for both on-road and off-road riding, offering a balanced combination of performance, comfort, and technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "4bf3ed74-4632-4278-9be8-4c2a9729bf19",
+            "image": null,
+            "name": "VMAX",
+            "description": "The Yamaha VMAX is a high-performance motorcycle known for its powerful V4 engine, unique design, and impressive acceleration, making it a popular choice among enthusiasts seeking a blend of comfort and performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "f1265376-d517-4b78-9dff-8b3064975c96",
+            "image": null,
+            "name": "Yamaha MT Series",
+            "description": "The Yamaha MT Series is a range of standard motorcycles designed for urban riding, known for their aggressive styling, versatility, and performance aimed at providing a thrilling riding experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "112beb91-78d1-4ea3-b6a8-2313bcef58dd",
+            "image": null,
+            "name": "Primacy 3",
+            "description": "The Michelin Primacy 3 is a tire series designed to offer enhanced performance, comfort, and safety for passenger cars. With a focus on wet and dry grip, it aims to provide a balanced driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "72047718-4dc7-41c0-812f-f5ba27c411b0",
+            "image": null,
+            "name": "CrossClimate",
+            "description": "The Michelin CrossClimate series is designed to provide exceptional performance and safety in a variety of weather conditions, including wet, dry, and light snow. They feature a unique tread design that enhances grip and stability year-round.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "b0061565-1562-4fd3-99f5-682714f189e4",
+            "image": null,
+            "name": "Pilot Sport 4S",
+            "description": "The Michelin Pilot Sport 4S is a high-performance summer tire designed for sports cars and performance sedans, offering exceptional grip and responsiveness in both dry and wet conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "4275c720-f2e8-406d-b38d-1c13db1b8e61",
+            "image": null,
+            "name": "LTX M/S 2",
+            "description": "The Michelin LTX M/S 2 is an all-season tire designed for light trucks and SUVs, offering a balanced combination of durability, traction, and comfort on both wet and dry surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "4fabf0fa-1d09-4451-98e8-511d0c138aa1",
+            "image": null,
+            "name": "LTX Trail",
+            "description": "The Michelin LTX Trail is designed for light trucks and SUVs, offering enhanced traction and stability in both on-road and off-road conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "a533aefb-b1ae-4753-bc70-45b14c2ba7c6",
+            "image": null,
+            "name": "CrossClimate 2",
+            "description": "The Michelin CrossClimate 2 is a versatile all-season tire designed to provide excellent performance in various weather conditions, including light snow and rain, while ensuring long-lasting tread life.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "8647b133-3781-4709-966c-6c5a7a300dfa",
+            "image": null,
+            "name": "Autoglym Ultra Glass Seal",
+            "description": "Autoglym Ultra Glass Seal is a high-performance glass treatment designed to provide long-lasting protection against dirt, rain, and other contaminants, enhancing visibility and making it easier to clean glass surfaces.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "34f1eeae-b53d-42e7-81d8-767ee569dd01",
+            "image": null,
+            "name": "Vokèra Easi-Fit",
+            "description": "The Vokèra Easi-Fit series is designed to provide efficient and reliable water heating solutions for residential use, ensuring comfort and convenience throughout the home.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Vokèra"
+            }
+        },
+        {
+            "id": "b64ec519-61fa-4f0b-8ff6-870c388a5149",
+            "image": null,
+            "name": "Vokèra Unica i",
+            "description": "The Vokèra Unica i is a high-efficiency water heater known for its compact design and reliable performance, providing instant hot water on demand for residential applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Vokèra"
+            }
+        },
+        {
+            "id": "f251e085-2be0-4d40-9528-89b83ddb2f2f",
+            "image": null,
+            "name": "Škoda Octavia",
+            "description": "The Škoda Octavia is a compact car produced by the Czech automobile manufacturer Škoda Auto since 2000. Known for its spacious interior, fuel efficiency, and practicality, the Octavia combines versatility with modern automotive technology.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        }
+    ]
+}

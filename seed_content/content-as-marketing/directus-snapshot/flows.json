@@ -1,0 +1,1822 @@
+{
+  "data": [
+    {
+      "id": "058519f6-d83c-45b8-be93-8204b17c6eaf",
+      "name": "[Stock] Order Completed - Finalize Stock",
+      "icon": "check_circle",
+      "color": "#10B981",
+      "description": "When an order is completed: creates the COD transaction, moves quantity from reserved to sold, and marks the listing sold once fully allocated (amount - reserved - sold \u003C= 0). Skips rentals (date-overlap availability) and swaps ([Swap] flows).",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "252f40fb-2f92-48da-9b13-275e2ae07ea9",
+      "date_created": "2026-01-27T12:51:00.276Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "45fcab26-c1ec-4a82-9d4a-4c9712239e35",
+      "operations": [
+        "2046d378-d006-4a71-ae54-82edbc6bf768",
+        "252f40fb-2f92-48da-9b13-275e2ae07ea9",
+        "3d2cbcb7-a4f3-438b-beb0-00e99ca14c3d",
+        "5ad2419e-4ccf-4b07-b66a-aec3c10339df",
+        "5c6810f6-a49e-45e3-bd65-87b13950ac17",
+        "7b594571-867a-439c-af3f-90db9ca43df0",
+        "8fe9889e-0676-4d44-b883-0b45000b28dc",
+        "bc06abc7-4848-49c2-af13-3cc2639cd6be",
+        "bd867556-0e3a-47a5-9998-faa401b9c25f",
+        "d4007429-71b5-4e7a-9258-8e64f0974a6d",
+        "f6cf90d3-22f0-468e-89e5-64c9938ca5e6"
+      ]
+    },
+    {
+      "id": "078cac0e-39cb-48f6-8027-31d3ebe99acd",
+      "name": "[Reviews] Review Created - Update User Rating",
+      "icon": "bolt",
+      "color": null,
+      "description": "On review create: recalculates the reviewed user’s rating and total_reviews.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["reviews"]
+      },
+      "operation": "a15b424a-d201-4044-be2e-fad72e149b08",
+      "date_created": "2026-02-11T16:28:19.034Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "92df24e2-2038-4661-92b9-0f9e9c06c2a9",
+      "operations": [
+        "78093913-017b-4001-8818-6763d1d09191",
+        "7e7f46e4-f0aa-4b60-a175-9aa4148ae399",
+        "99eb8de7-0b35-4f31-be79-e2cef4a74920",
+        "a15b424a-d201-4044-be2e-fad72e149b08",
+        "df7d40a9-9f74-48bd-bab9-16040d0f39b7"
+      ]
+    },
+    {
+      "id": "09d4da02-a088-4bb9-9b6e-7800c7d4c653",
+      "name": "[Notify] New Review - Notify Target User",
+      "icon": "star",
+      "color": "#FBBF24",
+      "description": "Notifies a user when they receive a new review.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["reviews"]
+      },
+      "operation": "40fc02fc-f4b2-49b7-aa67-dcb3de1028c7",
+      "date_created": "2025-12-24T11:09:52.035Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "40fc02fc-f4b2-49b7-aa67-dcb3de1028c7",
+        "b25933b9-8b79-469d-8f38-a3d9ca52c78c",
+        "bf676d90-31f3-401f-a82d-6beccc631d6c"
+      ]
+    },
+    {
+      "id": "0ba8990d-0b05-4f60-a672-19876efe2a3f",
+      "name": "[Business] New Store Created - Notify Swibba Managers",
+      "icon": "store",
+      "color": "#10B981",
+      "description": "When a new store is created (onboarding or post-approval), notifies all Swibba managers with a deep link to the stores page.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["stores"]
+      },
+      "operation": "92fc0cdf-da14-4de8-9f29-2f3ca72ab980",
+      "date_created": "2026-05-04T15:36:00.456Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "0eb4131e-b48c-40b4-acc8-b45568b150ab",
+        "3fdd2201-86c3-4423-9efe-530e6bdb0ef5",
+        "4bef342e-7ca9-4828-90d1-07580cdd48d8",
+        "92fc0cdf-da14-4de8-9f29-2f3ca72ab980",
+        "ecdfb277-71c6-4757-9598-9c8df2f3fc5a"
+      ]
+    },
+    {
+      "id": "0c1aa884-c22b-4674-9e27-b28b29a9963b",
+      "name": "[Stock] Quantity Updated - Restore Listing Status",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a business listing is updated while its status is reserved/sold/rented/swapped but counters show free capacity (amount - reserved - sold \u003E 0), restores it to published - so raising stock automatically republishes a sold-out product. Skips individual sellers.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listings"]
+      },
+      "operation": "bd5d4b4a-88b4-408c-9bb1-62abfd7121e6",
+      "date_created": "2026-06-29T07:15:31.500Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "45fcab26-c1ec-4a82-9d4a-4c9712239e35",
+      "operations": [
+        "5f66ee25-5440-4225-900a-962238f9c054",
+        "bd5d4b4a-88b4-408c-9bb1-62abfd7121e6",
+        "c4bf8c53-b965-4a17-b626-8f0879cdfc27"
+      ]
+    },
+    {
+      "id": "0fabe6b6-8dea-415a-a9f5-dfa060929415",
+      "name": "[Business] Verification Decision - Notify Owner",
+      "icon": null,
+      "color": null,
+      "description": "Notifies the business owner when their business verification is approved or rejected.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["businesses"]
+      },
+      "operation": "37ac1242-e9ce-4c1c-8cbe-c44a596fd77b",
+      "date_created": "2026-04-20T00:52:55.725Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "37ac1242-e9ce-4c1c-8cbe-c44a596fd77b",
+        "38e4ec2b-2a3b-4f6b-9a05-672491ae297a",
+        "679b6dba-00d7-41f0-9bc7-35440a7723d2",
+        "ba0e718d-9192-4d9c-ac13-f21b7975510d",
+        "cc9b6daf-8eac-454a-a411-91b101adf6af",
+        "d96f40ba-ff53-4318-a2bd-b2ecb2960936"
+      ]
+    },
+    {
+      "id": "126a71fe-46fb-4e16-934a-4d7b5c775131",
+      "name": "[Store Team] Shipping Update → Notify Managers",
+      "icon": "local_shipping",
+      "color": "#0EA5E9",
+      "description": "Additive: notifies store managers (business_team) on shipping create/update. Does not modify existing flows.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": ["shipping"]
+      },
+      "operation": "a70a5a6c-1e53-4adc-b9be-2d6e6912cea5",
+      "date_created": "2026-07-15T19:01:50.580Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "49e448e1-efc3-4fde-9e04-e78d0fa617f1",
+      "operations": [
+        "185199d8-e8da-468c-9c6b-9cce2b76d595",
+        "31350bc1-ae4c-42e0-bdd5-d48b233fac08",
+        "a70a5a6c-1e53-4adc-b9be-2d6e6912cea5",
+        "b7a6fe50-3088-48dc-b4f8-464d4f7a5dad",
+        "c99bf3ce-01f0-4cd4-bfed-3c4813d8c790"
+      ]
+    },
+    {
+      "id": "13f81bb0-7551-442c-bf33-57e0e28bea29",
+      "name": "[Deprecated] New Manager Message - First Message Only",
+      "icon": "support_agent",
+      "color": "#2ECDA7",
+      "description": "DEPRECATED (inactive) - replaced by the unified new-message flow. Notified users only on the first message of a manager conversation.",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["messages"]
+      },
+      "operation": "4e63f396-be55-4cba-85c5-2ba2b6acdd18",
+      "date_created": "2026-02-01T14:01:19.755Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "44a84075-2e25-45b7-b50d-1fae0d329964",
+      "operations": [
+        "12eb14c6-6a34-427c-9aef-b2bc3c855df5",
+        "1ccab322-4bc9-4452-93bf-f70189052347",
+        "388af969-ac86-4998-bb89-522864bd0783",
+        "4c128f81-b534-4b4e-956d-e3bae8dd1524",
+        "4e63f396-be55-4cba-85c5-2ba2b6acdd18",
+        "59e67e7e-6027-4148-81ae-07d89914a4c9",
+        "95fcd04e-0e39-4f41-a0a6-1d37a2dc124f",
+        "989095ec-509e-4047-a433-873b77ed405a",
+        "a40984e9-cbb6-458f-bb50-4af44390d475",
+        "a730835a-92f3-440c-823b-f892403b3e4f"
+      ]
+    },
+    {
+      "id": "1c0009e8-16ab-4e3f-b8bd-6a81f7f5893b",
+      "name": "[Notify] New Offer - Notify Listing Owner",
+      "icon": "local_offer",
+      "color": "#F59E0B",
+      "description": "Notifies the listing owner when someone makes an offer.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "6f16ea68-9af4-4de2-81eb-8ffaedb30822",
+      "date_created": "2025-12-24T11:09:45.564Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "22e90103-3d55-4384-8bac-b33ed054e816",
+        "4814bcd3-93b8-4ad6-95f6-82bab159b7ec",
+        "6f16ea68-9af4-4de2-81eb-8ffaedb30822"
+      ]
+    },
+    {
+      "id": "20a416e6-d0b8-41e0-89d8-4479e9f4a9b2",
+      "name": "[Business] Category Request - Notify Swibba Managers",
+      "icon": "category",
+      "color": "#F59E0B",
+      "description": "When a business updates operating_categories, notifies Swibba managers of NEW pending categories via [Helper] Send to Managers.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["businesses"]
+      },
+      "operation": "fad28d12-6706-4168-8eaf-6348938ecaf5",
+      "date_created": "2026-05-04T10:14:49.207Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "378896af-1c4b-4296-b50a-ea2a658cfd57",
+        "41f22a58-307b-4cc9-82ff-a5f0eaf9659a",
+        "666209e9-656d-4934-84a4-f26ad823961e",
+        "738530a7-2972-47cd-81f2-7673c21de824",
+        "9c2824cf-0554-40a4-912c-3d183d7af857",
+        "e6aa97a0-6eb8-4cfc-ae3d-17559a55e136",
+        "fad28d12-6706-4168-8eaf-6348938ecaf5"
+      ]
+    },
+    {
+      "id": "2f214326-35db-4434-89e7-ec28f479510a",
+      "name": "[Stock] Offer Created - Reserve Stock",
+      "icon": "inventory_2",
+      "color": "#F59E0B",
+      "description": "Filter hook on listing_offers.create: rejects the offer when available stock (amount - reserved - sold) \u003C requested quantity; otherwise increments reserved_quantity and sets listing status to reserved when nothing is left. Skips rentals, swaps, and untracked listings.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "filter",
+        "scope": ["items.create"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "6ad41ea8-c581-4ddc-bb09-9fc9f37506a9",
+      "date_created": "2026-01-27T12:45:15.065Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "45fcab26-c1ec-4a82-9d4a-4c9712239e35",
+      "operations": [
+        "35e3dcbc-86cf-46a8-b218-58b22618b582",
+        "372b2faf-aa18-440e-95cc-fbb6afa050ca",
+        "60f1120f-b5d6-449c-930b-06d6148cdd48",
+        "6ad41ea8-c581-4ddc-bb09-9fc9f37506a9",
+        "74e251fe-42d2-4e9e-b69e-35d363fdea12",
+        "a0ad7530-f6dc-42d5-8570-84cca2cbfa29",
+        "af55c51b-3ff1-4d05-b3ce-bfe2a45cce9d",
+        "b470bf6c-c15e-45df-aa8e-d00bb12c8ea8",
+        "b95a7466-5b2c-47c7-a879-275bc922a55d",
+        "bbc7df21-04a1-47fc-99c9-981a3257bb15",
+        "bcbb7a7c-90ab-4ecf-88d2-134548ad6de0",
+        "d49a18c6-b387-425d-a0f0-5914eeb9f4be"
+      ]
+    },
+    {
+      "id": "30908fb2-c8ea-4f23-8c74-2ed7c9e4150d",
+      "name": "[Orders] Offer Accepted - Create Order",
+      "icon": "shopping_cart",
+      "color": "#10B981",
+      "description": "Automatically creates an order when a listing offer is accepted. Handles purchase, rental, and swap offers.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "288e3aa9-b806-4931-b91f-534b0d5a9059",
+      "date_created": "2026-01-23T19:43:38.940Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "47ba0453-cba3-4384-9431-ce5fa50a44f7",
+      "operations": [
+        "1b908f02-5d57-4135-9803-b8d224e4a347",
+        "288e3aa9-b806-4931-b91f-534b0d5a9059",
+        "2fdbba97-3d56-440b-ae0d-afe1cac5f02e",
+        "80a56b09-794c-491d-a5ef-afdcd70706a1",
+        "80c7e0ed-97e3-4c95-b284-c2a7705e93cf",
+        "843b5b30-300e-446e-b63a-43309a837a1d",
+        "a5e45bf5-5ff3-4c2b-870f-7c212bddf7a9",
+        "b5ee2f9e-f7d9-4e06-a7bb-f5f042058858",
+        "c26ee24f-d302-476f-b805-2108b79ffea0",
+        "c90e70bd-2a82-46ad-8cfb-61991cbb9746",
+        "eb51fc9a-81b9-449b-99ab-5d4414dffcc1"
+      ]
+    },
+    {
+      "id": "35597be7-67aa-4934-a38b-9bf93af1afe9",
+      "name": "[SEO] Brand Meta Tags - Auto Generate",
+      "icon": "bolt",
+      "color": null,
+      "description": "Creates SEO meta tags automatically when a new brand is created.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["brands"]
+      },
+      "operation": "9f38c7ad-0713-4491-a606-adcfc8451345",
+      "date_created": "2026-02-10T23:48:18.141Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "operations": [
+        "35a815ae-c5f8-44c4-a8fa-06c11708e0bd",
+        "380e0cf5-dad3-4643-b8fb-9446d2d673f2",
+        "6d288d72-0b97-4b99-bf54-ad1ec0dbaf87",
+        "9f38c7ad-0713-4491-a606-adcfc8451345",
+        "b213d26d-0691-4316-8593-1fe15f6ee561",
+        "cf97a685-9d76-4525-8860-b86a839e4098",
+        "d25e89d7-d996-4d1c-b61d-a89eaca9558e"
+      ]
+    },
+    {
+      "id": "3a8421c3-3ea4-4b7d-879a-253cfbad894e",
+      "name": "[Reviews] Brand Rating - Recalculate",
+      "icon": "bolt",
+      "color": null,
+      "description": "On review create/update with a brand_id: recalculates the brand’s rating and total_reviews.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": ["reviews"]
+      },
+      "operation": "e765386f-8be9-4d8c-a99f-a9d4afb6ac09",
+      "date_created": "2026-07-01T03:55:51.709Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "92df24e2-2038-4661-92b9-0f9e9c06c2a9",
+      "operations": [
+        "87638da7-f62f-4d5f-8371-2d8bf5ec22e2",
+        "b4f5dc1f-dd91-45d0-b2aa-52e9ef321d26",
+        "ba276db0-4795-419d-9e8d-482fda4bbce7",
+        "dbf61465-df58-44d4-b01e-00d2e522366c",
+        "e765386f-8be9-4d8c-a99f-a9d4afb6ac09",
+        "fc75c8cc-dd5f-433d-987f-be10d0d40573"
+      ]
+    },
+    {
+      "id": "3d3543da-5e31-4889-8911-e97e9cbdf73d",
+      "name": "[Helper] Send to Managers",
+      "icon": "supervisor_account",
+      "color": "#6366F1",
+      "description": "Reusable helper: sends notification to ALL active Swibba managers. Input: { subject, message, collection?, item? }",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "85af61dc-bf90-418b-b185-60c1c9e5bfa3",
+      "date_created": "2026-05-04T10:13:35.066Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "5a554a39-5c06-4c28-a97b-a21f669f2a74",
+        "85af61dc-bf90-418b-b185-60c1c9e5bfa3",
+        "d64c0893-fa75-4adf-8c2f-a9d96f610c0c",
+        "e8ba459c-70dd-41c0-8e37-cd411498482b"
+      ]
+    },
+    {
+      "id": "4243b75f-ef1f-4785-a6da-f73cdda8cf1d",
+      "name": "[Notify] Listing Approved/Rejected - Notify Owner",
+      "icon": "verified",
+      "color": "#22C55E",
+      "description": "Notifies the listing owner when their listing is approved (published) or rejected.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listings"]
+      },
+      "operation": "213a1b22-3a20-4473-8cae-4a9534f4ce9c",
+      "date_created": "2026-01-17T15:47:24.564Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "0971e4ec-95e7-4050-a426-c9b72ddd409c",
+        "213a1b22-3a20-4473-8cae-4a9534f4ce9c",
+        "4305d12b-1065-49ff-ba28-b81496bccfc2",
+        "abcb3309-68ba-4a7c-a7ab-95c736c6c16e",
+        "b283222a-7220-4848-b65c-09ce04b4241f",
+        "c65b4886-8c52-46dc-b451-2228f04cf3fb"
+      ]
+    },
+    {
+      "id": "4c10d9be-13b9-4116-b75a-1185d0cae950",
+      "name": "[Helper] Notify Store Team",
+      "icon": "groups",
+      "color": "#10B981",
+      "description": "Reusable: given { business_id, store_id?, owner_id?, actor_id?, exclude_ids?, subject, message, category, ... , translations }, notifies all active store managers (business_team) of that store/business. Owner & actor excluded; deduped.",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "023d49c1-3d4b-4bad-9023-841207584b71",
+      "date_created": "2026-07-15T19:01:45.555Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "023d49c1-3d4b-4bad-9023-841207584b71",
+        "19cccc3d-2677-4382-be74-e354fd5cc590",
+        "2cf4cc05-de74-4f06-9c77-ac8493d0b895",
+        "52af6728-9a00-4297-a43f-4ed09742d49e",
+        "7012d23f-ee1f-4c55-9040-6f78698a7500",
+        "b88cf8ae-bdc8-44b2-95fc-dc2f90f17e08"
+      ]
+    },
+    {
+      "id": "4f9b037e-60a8-4598-aa26-c7eae99aea0d",
+      "name": "[Notify] Shipping Status Changed - Notify Users",
+      "icon": null,
+      "color": null,
+      "description": "Notifies buyers, sellers, and managers when shipping status changes (created, in transit, delivered, disputes).",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": ["shipping"]
+      },
+      "operation": "bce7990b-7a62-47ba-92ea-be89e0cada1d",
+      "date_created": "2026-06-04T17:19:19.734Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "1e410177-89ca-4341-b60f-64cee6bc8c59",
+        "35d9195c-89f5-4547-8a37-ba717a0a6334",
+        "36e572d6-8185-42b7-9f5c-78c3a8e4bdcc",
+        "8cf7c60b-cf04-4dc2-8fd4-aae2f4362742",
+        "950528ea-ed73-4cef-a900-5f637f27b40c",
+        "aeb825ba-597f-46f4-8843-ad4e1792de3c",
+        "af7881f5-b136-4527-ab88-f09857d10fac",
+        "bce7990b-7a62-47ba-92ea-be89e0cada1d"
+      ]
+    },
+    {
+      "id": "5e772627-b5ec-408b-b858-720f1a5cc6e2",
+      "name": "[SEO] Category Meta Tags - Auto Generate",
+      "icon": "bolt",
+      "color": null,
+      "description": "Creates SEO meta tags automatically when a new category is created.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["categories"]
+      },
+      "operation": "5eb9768b-1e93-464e-8396-3e2703c3a446",
+      "date_created": "2026-02-10T18:31:00.191Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "operations": [
+        "35c5c079-8cd0-49e2-a7ca-e33afab190e2",
+        "3d3c27e2-0957-4d9f-8517-68ad96a67fc1",
+        "482192ba-08ba-4c65-8ffc-3fb19dd24c5e",
+        "4dc255ea-727c-4b2e-979d-635c7b217215",
+        "5eb9768b-1e93-464e-8396-3e2703c3a446",
+        "a66596ad-33ad-423a-9547-a08d43afd3e5",
+        "d1894f37-4311-44e0-8dbd-5ad3c8eb2817"
+      ]
+    },
+    {
+      "id": "61edd5af-1222-4db5-8e57-12c8466341b7",
+      "name": "[Swap] Offer Cancelled - Release Both Sides",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a swap offer is cancelled/rejected/expired: releases reserved stock on both sides of the swap.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "8e2f3cbe-f2df-4de0-9307-e19e6d6118ce",
+      "date_created": "2026-07-14T14:43:24.113Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "40a523eb-34c8-4c87-a0d5-0e1cf4579d4a",
+      "operations": [
+        "8510ae83-3316-408f-84ec-1b59fd03ee1a",
+        "87927200-1b02-4781-ac6f-f58dc8903966",
+        "8801bf5a-d677-4ae0-924e-8d2f13cde50c",
+        "8e2f3cbe-f2df-4de0-9307-e19e6d6118ce",
+        "9cafed28-e421-48f7-b121-9a7f6d9bfed7",
+        "e454e5d4-5315-4f3c-ac5a-4ffd91df98fa"
+      ]
+    },
+    {
+      "id": "62bf36a8-c39f-44eb-ada8-1f6fda34f860",
+      "name": "Marketing Content / Enrichment Plan",
+      "icon": "event_repeat",
+      "color": "#3B82F6",
+      "description": "Monthly. Picks the worst-covered approved brands, expands brand -\u003E series -\u003E models, and enqueues the work. Calls no model, so it is fast and safe to retry. The expensive half is the Drain flow below.",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 2 1 * *"
+      },
+      "operation": "bae0483c-628c-4485-bcde-1f597441a096",
+      "date_created": "2026-09-12T15:52:54.738Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "179a9389-83ad-4e46-8c2c-39bc1ee66d2d",
+        "bae0483c-628c-4485-bcde-1f597441a096"
+      ]
+    },
+    {
+      "id": "66f8412c-7283-4358-905b-38dd44c8b3b4",
+      "name": "[Notify] New Contact - Notify Swibba Managers",
+      "icon": "mail",
+      "color": "#8B5CF6",
+      "description": "Notifies all Swibba managers when a new contact request is submitted.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["contact"]
+      },
+      "operation": "5a2b9a43-d644-492e-81b2-5488f1a3fd31",
+      "date_created": "2026-01-21T14:23:16.589Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "271d1888-66f6-42de-aafb-07bf7a08c1d5",
+        "4c1f1589-7492-4d41-85d2-f238f41a69e4",
+        "5a2b9a43-d644-492e-81b2-5488f1a3fd31",
+        "81612fc3-9b24-4051-bed6-13be90d0bd70",
+        "b1b257bd-2a71-4725-851e-4041e266b49f"
+      ]
+    },
+    {
+      "id": "6883655b-a22c-42f4-85cb-46c491a078e6",
+      "name": "[Notify] Order Confirmed - Notify Buyer",
+      "icon": "shopping_bag",
+      "color": "#3B82F6",
+      "description": "Notifies the buyer when their order is confirmed.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "71b8f86b-5d92-4051-8d52-085c75eba846",
+      "date_created": "2025-12-24T11:09:42.933Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "2150ae87-ecb4-47c0-9a97-5bcbe1ca0935",
+        "71b8f86b-5d92-4051-8d52-085c75eba846",
+        "bd0f56e1-ca07-444c-ba0a-c1eb0f11ce41"
+      ]
+    },
+    {
+      "id": "6f570e34-6316-4dd4-a7f4-23225f894e74",
+      "name": "Marketing Content / Alert Match",
+      "icon": "notifications_active",
+      "color": "#F59E0B",
+      "description": "Listing transitions into published -\u003E match confirmed catalog_alerts and create notifications. The status-transition guard is what stops every later edit re-notifying everyone. Docs: docs/content-as-marketing/07-availability-alerts.md section 3",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": ["listings"]
+      },
+      "operation": "88eda7b7-f316-46f1-9cc9-c59e5db3aedb",
+      "date_created": "2026-09-01T13:51:55.968Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "2e53fd8b-c0fd-44c2-8297-cc5247a1598b",
+        "803b34c4-8b23-4ddd-aaac-dc48166d42bf",
+        "88eda7b7-f316-46f1-9cc9-c59e5db3aedb",
+        "95b5d32d-d8f3-4588-8ce5-d95c824edf5e",
+        "f4152748-67f6-43aa-9f1d-ff9e5f98226e"
+      ]
+    },
+    {
+      "id": "74d759e9-9d2b-46a6-9a30-7d64ec4bf336",
+      "name": "[Social] Follow Created - Update Counts",
+      "icon": "person_add",
+      "color": "#4CAF50",
+      "description": "When a user_follows record is created, updates followers_count and following_count on both users.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["user_follows"]
+      },
+      "operation": "506cdbbd-555b-43c8-be3d-7c54d84c3b80",
+      "date_created": "2026-02-09T11:18:04.733Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "e00b618c-8c02-46ab-b5bc-c77c5b22ff04",
+      "operations": [
+        "21f3e967-d6ac-4202-a5f3-6e4c07474aee",
+        "4ff5ece0-238a-454b-ae27-4dcf41f43991",
+        "506cdbbd-555b-43c8-be3d-7c54d84c3b80",
+        "d78822ec-59f9-41dd-ad01-a1fc04ca0e84"
+      ]
+    },
+    {
+      "id": "756a2abd-0cd2-49bd-8c03-bee4e34b7119",
+      "name": "[Reviews] Review Deleted - Update User Rating",
+      "icon": "bolt",
+      "color": null,
+      "description": "On review delete: recalculates the reviewed user’s rating and total_reviews.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.delete"],
+        "collections": ["reviews"]
+      },
+      "operation": "2f8b1c96-de9c-4511-b51f-4bb0d1825a13",
+      "date_created": "2026-02-15T11:13:10.450Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "92df24e2-2038-4661-92b9-0f9e9c06c2a9",
+      "operations": [
+        "1fac1a62-1d6e-438c-917c-48e54ed76036",
+        "2f8b1c96-de9c-4511-b51f-4bb0d1825a13",
+        "6a3bbad0-2c86-4b7b-86f5-54b64d399915",
+        "bca59772-530c-4828-9b93-4e1f3496f81d",
+        "e4fd3a4b-32a4-4920-9dd1-8e56155dc6f7"
+      ]
+    },
+    {
+      "id": "75a91103-64d6-42a8-ab83-95d96e71af47",
+      "name": "[Cron] Listing Expiration Warning - Daily",
+      "icon": "warning",
+      "color": "#F59E0B",
+      "description": "Daily warning for listings expiring in 3-7 days (runs at 10:00 AM). Currently inactive.",
+      "status": "inactive",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 10 * * *"
+      },
+      "operation": "2061f519-b741-44ca-acd7-ea935ba8580d",
+      "date_created": "2025-12-25T12:14:00.311Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "operations": [
+        "2061f519-b741-44ca-acd7-ea935ba8580d",
+        "25cdad15-8134-4832-8988-33f1ffba329b",
+        "306d544d-da16-4714-b6dc-aa6bdfe04fe2",
+        "646cc576-b150-4e82-99ef-aa9c9f9a7a3d",
+        "74e903d7-a651-49d3-bd9d-f2b42deb352e",
+        "98106b11-280b-4d5b-844f-e02cd03de735",
+        "caef45f7-590e-45a0-a8ae-d1b0c2eb3440"
+      ]
+    },
+    {
+      "id": "774050c6-d755-459c-b627-d727a8f957b0",
+      "name": "[Store Team] New Review → Notify Managers",
+      "icon": "star",
+      "color": "#EAB308",
+      "description": "Additive: notifies store managers (business_team) on reviews items.create. Does not modify existing flows.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["reviews"]
+      },
+      "operation": "7a2bbee6-84e7-4e89-8d6b-c8b68a243cfc",
+      "date_created": "2026-07-15T19:01:48.169Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "49e448e1-efc3-4fde-9e04-e78d0fa617f1",
+      "operations": [
+        "085fa285-abe2-419b-8049-a445bb1b208a",
+        "7a2bbee6-84e7-4e89-8d6b-c8b68a243cfc",
+        "9d045e19-585f-498e-ad96-87cef609c12a",
+        "ff4a9c3b-13e3-4c85-9749-94db3d2e49fb"
+      ]
+    },
+    {
+      "id": "7987bc8b-9afe-4939-932d-63f0931ac842",
+      "name": "Marketing Content / Revalidate",
+      "icon": "cached",
+      "color": "#3B82F6",
+      "description": "Any catalog, content, geo or facet change -\u003E purge the matching Next.js cache tags. Docs: docs/content-as-marketing/04-rendering-caching.md section 5",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update", "items.delete"],
+        "collections": [
+          "categories",
+          "subcategories",
+          "brands",
+          "series",
+          "models",
+          "categories_translations",
+          "subcategories_translations",
+          "brands_translations",
+          "series_translations",
+          "models_translations",
+          "catalog_content",
+          "catalog_content_translations",
+          "geo_locations",
+          "geo_locations_translations",
+          "attribute_option_values",
+          "attribute_option_values_translations",
+          "attribute_definitions"
+        ]
+      },
+      "operation": "dee54997-ba98-4a88-9775-142402aab559",
+      "date_created": "2026-09-01T13:51:52.743Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "0801a507-8787-4f7c-b149-3b304e4afdd9",
+        "dee54997-ba98-4a88-9775-142402aab559"
+      ]
+    },
+    {
+      "id": "7ebdc460-99b8-4f69-926e-cbdc7fca2a8d",
+      "name": "[Swap] Order Completed - Finalize Both Sides",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a swap order is completed: moves reserved to sold and updates listing status on both sides of the swap.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "2821e14a-c93c-4222-acba-6c38f222820c",
+      "date_created": "2026-07-15T08:26:48.244Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "40a523eb-34c8-4c87-a0d5-0e1cf4579d4a",
+      "operations": [
+        "2821e14a-c93c-4222-acba-6c38f222820c",
+        "28764a62-b23f-492b-ab9e-dd4ec8fa5d3b",
+        "6c217ec4-9086-41ea-a20d-4b404e018249",
+        "756c4ac0-9e9a-4887-b426-b07b3a2ce365",
+        "80f161b5-b13f-4c7b-919c-77e5f855a669",
+        "e728ae55-4c10-445b-b841-218909261bac"
+      ]
+    },
+    {
+      "id": "85960c68-3009-46db-afe9-acf496e3e02c",
+      "name": "[Swap] Offer Created - Reserve Both Sides",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a swap offer is created: reserves stock on the target listing and the offered swap listings.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "3a183682-486d-4606-8ae0-0798e259947a",
+      "date_created": "2026-07-14T23:23:12.626Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "40a523eb-34c8-4c87-a0d5-0e1cf4579d4a",
+      "operations": [
+        "29192a62-f53a-4ec1-aff4-9d7d8a712a7d",
+        "3a183682-486d-4606-8ae0-0798e259947a",
+        "42b21add-e487-40ab-b328-1e152e91628a",
+        "6d395c78-626c-45e7-8741-47273e667390",
+        "ea3f2046-0b93-4298-902c-8ae1c0398d72",
+        "f0f0b2aa-c202-41a6-a72e-1219d314f7f8"
+      ]
+    },
+    {
+      "id": "8d865d44-4553-4b83-bfd7-2c00decea4a4",
+      "name": "[Helper] Send Email Notification",
+      "icon": "email",
+      "color": "#EA4335",
+      "description": "Helper flow to send email notifications via SMTP",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "0dad6604-25cc-4e5b-bac8-7d80ebc01e91",
+      "date_created": "2025-12-25T12:13:38.042Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "0bc23b84-8a01-41bd-bbde-f29901a6a59b",
+        "0dad6604-25cc-4e5b-bac8-7d80ebc01e91",
+        "130e6441-1848-440d-9bbe-a8db74a3118d",
+        "2998f2b9-76a3-4444-9a89-fbbfa2b5f655",
+        "43807c6a-61ab-43aa-b448-c63304d2ed62",
+        "54a052d2-f786-4ecb-bf54-421ff1d0843e",
+        "6eac0971-8ea8-48ab-8892-3aa36eb9ba85",
+        "89f83916-f332-45d6-89b2-0da29365947e",
+        "a3db05ff-3448-4779-922d-f462d344f7c9",
+        "fedc3833-34ce-45bf-8919-d08214517857"
+      ]
+    },
+    {
+      "id": "8fb1c97b-4c05-4951-9b34-7aca03162793",
+      "name": "[Business] New Business Created - Notify Swibba Managers",
+      "icon": "business_center",
+      "color": "#3B82F6",
+      "description": "When a new business is created during onboarding, notifies all Swibba managers with a deep link.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["businesses"]
+      },
+      "operation": "b35ca768-29fb-4091-addc-ada3a37dbbb9",
+      "date_created": "2026-05-04T15:35:58.179Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "1bbecb2e-2f38-4a7b-808c-7057d97920a2",
+        "4920f5ff-94b3-44d5-b9b9-63b579fa1707",
+        "56378824-bddb-4870-9f6b-1211cc54efd3",
+        "b35ca768-29fb-4091-addc-ada3a37dbbb9",
+        "e83c584f-da5f-4978-8c81-1ccf655b21f7"
+      ]
+    },
+    {
+      "id": "91ed18d5-28f7-409f-8c6c-b031fc459b53",
+      "name": "Marketing Content / Listing Supply",
+      "icon": "inventory",
+      "color": "#3B82F6",
+      "description": "A listing changed -\u003E purge the catalog counts and the indexation gate reads for its chain and its city. Docs: docs/content-as-marketing/04-rendering-caching.md section 5",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update", "items.delete"],
+        "collections": ["listings"]
+      },
+      "operation": "ac0786e0-daa4-4a40-a042-2912a137eb81",
+      "date_created": "2026-09-01T13:51:53.963Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "103ca7b4-cde5-4b10-ad4c-378350129b80",
+        "96e9b8ed-b20b-4638-a488-b85baeb0bebc",
+        "ac0786e0-daa4-4a40-a042-2912a137eb81",
+        "b4bf5af1-5f01-474e-8d52-ed5ccc63ee80"
+      ]
+    },
+    {
+      "id": "926adba4-617c-4746-a629-442dea4dca9e",
+      "name": "Marketing Content / Revalidate Settings",
+      "icon": "cached",
+      "color": "#3B82F6",
+      "description": "catalog_content_settings change -\u003E purge catalog:settings. Logs activity only, never the payload: the payload carries the marketing access key in plaintext. See 06-build-flows.mjs FLOW 2b.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "activity",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update", "items.delete"],
+        "collections": ["catalog_content_settings"]
+      },
+      "operation": "cd962f1a-083d-4845-9e60-925f34c94371",
+      "date_created": "2026-09-27T12:35:38.427Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "af07a16e-ec85-41b3-b1d0-0861b60694cf",
+        "cd962f1a-083d-4845-9e60-925f34c94371"
+      ]
+    },
+    {
+      "id": "977125ce-487a-47e5-ab74-cbb1217774a8",
+      "name": "Marketing Content / Generate (copy)",
+      "icon": "auto_awesome",
+      "color": "#2ECDA7",
+      "description": "Catalog entity created or renamed -\u003E generate landing-page content in all 7 languages. catalog_content* is deliberately NOT in the scope so the generator writeback cannot loop. Docs: docs/content-as-marketing/03-content-pipeline.md",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": [
+          "categories",
+          "subcategories",
+          "brands",
+          "series",
+          "models",
+          "categories_translations",
+          "subcategories_translations",
+          "brands_translations",
+          "series_translations",
+          "models_translations"
+        ]
+      },
+      "operation": "e7500813-9c4d-4d21-bf79-d4f30d491a86",
+      "date_created": "2026-10-28T19:18:12.613Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "0a584c95-e9f6-421e-819e-cfb93e42ea40",
+        "4e5bfca7-0a3b-48bc-80bc-63662496e8a6",
+        "b73fee45-d43c-40f3-9914-24f58d42e8f6",
+        "e2dc713a-6491-45e1-8a57-6eb612531fd9",
+        "e74668d8-93c3-4df1-b0e3-fa45adfd4f72",
+        "e7500813-9c4d-4d21-bf79-d4f30d491a86"
+      ]
+    },
+    {
+      "id": "9b75a4a0-1a9f-487e-b68a-3325d6aa87c2",
+      "name": "[Notify] Order Completed - Notify Seller",
+      "icon": "check_circle",
+      "color": "#10B981",
+      "description": "Notifies the seller when an order is marked as completed.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "fbc05cc5-c221-405d-ac9e-200822c5ee01",
+      "date_created": "2025-12-24T11:09:39.592Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "34a9ed14-de3a-4ea4-bc28-36f8a7e34f65",
+        "c768b81f-13dd-4135-b365-1c034e1207bc",
+        "d9a58b68-398b-4f49-9854-90cd7d1cfd47",
+        "fbc05cc5-c221-405d-ac9e-200822c5ee01"
+      ]
+    },
+    {
+      "id": "9da69788-b990-412e-ba87-f325580b8139",
+      "name": "[Notify] Listing Updated - Notify Watchers",
+      "icon": "update",
+      "color": "#8B5CF6",
+      "description": "Notifies users watching a listing when it is updated.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listings"]
+      },
+      "operation": "c4d9eb6f-e9fd-4f96-8bd6-add241af35a4",
+      "date_created": "2025-12-25T12:13:48.732Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "2914a7f7-b716-4f2e-8438-105be9824c98",
+        "353ec762-0a21-4a66-8160-db25774d34f5",
+        "5addcece-e723-4ee8-9b30-d85386c13a65",
+        "802ae25f-cb70-44ec-8e6b-aaf7cab702ee",
+        "809d0a73-c583-4abd-ba45-9a4e3cf1ed8d",
+        "c4416ac8-d5db-4d0c-b7e2-96ec09d4776f",
+        "c4d9eb6f-e9fd-4f96-8bd6-add241af35a4",
+        "dc063ab9-c871-43b2-9489-942c56516caf"
+      ]
+    },
+    {
+      "id": "9ff3a193-060c-49e3-bcf0-2f0ca703ecd9",
+      "name": "[Swap] Order Cancelled - Release Both Sides",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a swap order is cancelled or refunded: releases reserved stock on both sides of the swap.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "b81461b4-35cc-4bee-83e9-1f2e8d6524e0",
+      "date_created": "2026-07-15T09:04:15.163Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "40a523eb-34c8-4c87-a0d5-0e1cf4579d4a",
+      "operations": [
+        "44552beb-dd7c-4d6d-87b2-2bd47a55e48f",
+        "9044c47a-81a2-400e-a60c-ce908b5e90e6",
+        "b2a37258-bf4a-490b-b776-1f9fb43ded8b",
+        "b81461b4-35cc-4bee-83e9-1f2e8d6524e0",
+        "e4f247ca-e7c8-4359-b0f5-cde61761e336",
+        "e66e10ec-1494-40f0-a4a9-48b4ecbaddaf"
+      ]
+    },
+    {
+      "id": "a0bd489d-2f2c-4d65-894a-30ca64b70dc4",
+      "name": "[Cron] Auto-Complete Shipped Orders (7-Day Safety Valve)",
+      "icon": null,
+      "color": null,
+      "description": "Runs daily. Auto-completes orders shipped more than 7 days ago without buyer confirmation.",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 2 * * *"
+      },
+      "operation": "79d702e2-3f03-481a-a0a6-74cde89e02d7",
+      "date_created": "2026-06-15T20:55:17.104Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "operations": [
+        "1d294066-0e33-499f-a921-70332ab4f2a2",
+        "63ccb0a5-0b5c-486a-87cd-a9240eabac3d",
+        "79d702e2-3f03-481a-a0a6-74cde89e02d7"
+      ]
+    },
+    {
+      "id": "a3ed39a7-c752-4569-b7c2-c334fbcb947c",
+      "name": "[Helper] Expire Single Offer",
+      "icon": "timer_off",
+      "color": "#EF4444",
+      "description": "Helper: expires a single offer by ID. Triggered by Auto-Expire cron with iteration. The individual update triggers the existing Release Stock flow.",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "473b8b3a-1d84-4b88-8587-eb50c29d46c4",
+      "date_created": "2026-04-26T19:39:02.435Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "473b8b3a-1d84-4b88-8587-eb50c29d46c4",
+        "ff8bd340-4fc1-4b66-9dfe-dc6948b4652b"
+      ]
+    },
+    {
+      "id": "b175e37c-9cde-470e-b7d8-7a8753760a83",
+      "name": "Marketing Content / Enrichment Drain",
+      "icon": "conveyor_belt",
+      "color": "#3B82F6",
+      "description": "Every 10 minutes. Leases a few queue rows, generates them, ledgers the spend, releases the rest. Short on purpose: the route dies at 300s and one 7-locale node takes 20-70s, so a longer tick would be killed mid-node and leave a half-written translation set. Does nothing when no run is active.",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "*/10 * * * *"
+      },
+      "operation": "bdda88e0-94d1-46b3-b15d-be8b5c2e5e04",
+      "date_created": "2026-09-12T15:52:55.858Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "a24dd29e-5fff-4c98-a112-74301c682013",
+        "bdda88e0-94d1-46b3-b15d-be8b5c2e5e04"
+      ]
+    },
+    {
+      "id": "b7a9d2c1-8f4e-4a3b-9c5d-6e7f8a1b2c3d",
+      "name": "[SEO] Listing Meta Tags - Auto Generate",
+      "icon": "sell",
+      "color": "#8B5CF6",
+      "description": "Creates SEO meta tags for new listings based on listing content.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["listings"]
+      },
+      "operation": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "date_created": "2026-01-25T17:12:34.364Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "operations": [
+        "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+        "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+        "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+        "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c"
+      ]
+    },
+    {
+      "id": "bf4c060c-6634-4191-a329-35a4e5079e6d",
+      "name": "Marketing Content / Model Discovery",
+      "icon": "travel_explore",
+      "color": "#A855F7",
+      "description": "Monthly. Asks, per SERIES, which models released since are missing from the list we already hold - a checkable list-diff, not an open question. Writes catalog_candidates ONLY; promotion to a real models row is always a human decision.",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 4 1 * *"
+      },
+      "operation": "c6644a62-5577-4f0c-9fa6-223cf6813c5c",
+      "date_created": "2026-09-12T15:52:56.962Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "c6644a62-5577-4f0c-9fa6-223cf6813c5c",
+        "dc6b7118-b64d-4959-9c49-61be8773dd7d"
+      ]
+    },
+    {
+      "id": "cad8121e-3952-47bc-8aa1-4cf92dd553f2",
+      "name": "[Cron] Auto-Expire Offers - Hourly",
+      "icon": "timer_off",
+      "color": "#EF4444",
+      "description": "Runs hourly. Expires pending/countered offers past their expiry via [Helper] Expire Single Offer.",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "*/2 * * * *"
+      },
+      "operation": "7283d775-fa9e-484c-80aa-a39b6be98d8d",
+      "date_created": "2026-03-17T17:06:49.464Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "operations": [
+        "2150b3a9-f206-4ae9-9f4f-6aaa9ad903b1",
+        "25000a55-093c-4f30-ae71-45386eb1594e",
+        "7283d775-fa9e-484c-80aa-a39b6be98d8d",
+        "79c45c77-c168-4c97-9f69-b6e0c63a2e45",
+        "a441b8f2-6b88-42a8-8b99-5abacc251b2d"
+      ]
+    },
+    {
+      "id": "cb68f35f-cac8-42c0-acc1-30bdf3d50780",
+      "name": "[Notify] New Message - Notify Recipient (All Types)",
+      "icon": "chat",
+      "color": "#8B5CF6",
+      "description": "Notifies a user when they receive a new message (user-to-user, manager, system). Currently inactive - messaging notifications are handled in app code.",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["messages"]
+      },
+      "operation": "96108a29-7b7b-47b1-8e92-07cb0f6cf202",
+      "date_created": "2025-12-24T11:09:48.125Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "3f67a211-ac9f-4643-b2e2-c20c67bbf7ba",
+        "4751a0b0-e91f-48b7-aeed-815bf27cb1fe",
+        "4952f829-b0df-4770-8f37-ed8a65dc9594",
+        "7a1edae2-8e3e-4dfb-b78d-e69dadb0f6a3",
+        "84a2a236-eb1b-4ff3-8b72-a2613126b367",
+        "96108a29-7b7b-47b1-8e92-07cb0f6cf202",
+        "b89775ab-aeb9-421a-a510-7f5d0f83b003",
+        "bbef4f78-4fd5-46f6-977a-414380568e5d"
+      ]
+    },
+    {
+      "id": "cdfcf0f2-6455-4d8a-85dd-9dfb43d92e9c",
+      "name": "[Business] Listing Created by Manager - Reassign Owner",
+      "icon": "bolt",
+      "color": null,
+      "description": "When a store manager creates a listing, reassigns listings.user_id to the store’s business owner so ownership stays with the business.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["listings"]
+      },
+      "operation": "d183e1b0-1563-48f3-b1cf-5faa148ef1d9",
+      "date_created": "2026-07-03T05:16:36.425Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "28d0c924-00fd-4e36-8831-539baa709bff",
+        "9a03de63-3922-4db3-ac05-4ea7de2b6a94",
+        "b0028345-9b40-432d-a888-29e0697dea81",
+        "c42f9ae7-ff49-4921-a141-41d8d53020e4",
+        "d183e1b0-1563-48f3-b1cf-5faa148ef1d9",
+        "e29e287c-219d-4bf0-8ad6-719a97c2d416"
+      ]
+    },
+    {
+      "id": "d0faa6f5-3462-44ef-a8d5-352ec8c64848",
+      "name": "[Notify] Contact Form - Send Confirmation Email",
+      "icon": "bolt",
+      "color": null,
+      "description": "Sends a confirmation/notification email to the user after a contact form submission.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["contact"]
+      },
+      "operation": "89a25e42-9444-4f98-98f2-300bd3eb7b8f",
+      "date_created": "2026-01-07T00:25:08.704Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": ["89a25e42-9444-4f98-98f2-300bd3eb7b8f"]
+    },
+    {
+      "id": "d0fcf5b7-6c7f-4eff-a3d2-3cdf20414307",
+      "name": "[Orders] Order Cancelled - Revert Offers & Notify",
+      "icon": "cancel",
+      "color": "#EF4444",
+      "description": "When an order is cancelled: reverts linked accepted offers to cancelled (which triggers [Stock] Offer Cancelled/Expired - Release Reserved), cancels a linked rental row, and notifies the other party. Swap stock is handled by [Swap] flows.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "8fd1c451-ebe0-4f99-86da-fc73bcf89b59",
+      "date_created": "2026-04-26T20:29:02.125Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "47ba0453-cba3-4384-9431-ce5fa50a44f7",
+      "operations": [
+        "0c2a033f-31a9-4cff-9af1-bec10b00af37",
+        "18e53ee4-21b9-4c3f-9ac6-0e8a8dc08c61",
+        "5928c3ad-a39b-4a3d-94ed-1fcf2d4f3053",
+        "65526013-c0c0-4cc9-8f8b-a07d5b25519d",
+        "8387089e-253f-4452-a713-b0e5e05cbce1",
+        "8fd1c451-ebe0-4f99-86da-fc73bcf89b59",
+        "b06f4fa5-bcad-430d-8dad-b92fd505bff3",
+        "b3a73666-7fc3-4fed-9e56-4c1926cda4d4",
+        "c06eed85-2444-4ac1-97cc-040cd25c5dd3",
+        "cdfe2272-8f91-4d9d-a1e0-df053afe2fc2",
+        "e0a5bbed-9d5c-4679-88c4-c48b4ec4d34a",
+        "f14b15f2-3582-466f-8f56-4bb19f6e5b63"
+      ]
+    },
+    {
+      "id": "d230dccb-c3c5-4d83-a7dc-09f5f5bdc554",
+      "name": "[Notify] New Order - Notify Seller & Store Team",
+      "icon": "store",
+      "color": "#F59E0B",
+      "description": "When a new order is created, notifies the business owner and the assigned store manager(s).",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["orders"]
+      },
+      "operation": "3325c1ad-984a-45c2-b461-ed48aaa7e0f4",
+      "date_created": "2026-06-17T18:14:47.099Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "3325c1ad-984a-45c2-b461-ed48aaa7e0f4",
+        "64b0ac27-6ddc-4819-b042-c24d9ed1a992",
+        "8296ad93-59a2-4f48-94d7-2d8ab7865213",
+        "855aa62e-6e70-414a-a223-3970a0b59c55",
+        "b2fe8e06-b46c-4c2f-a80f-491d5e9eb994",
+        "b3de9c6f-e6a0-4b8c-91c5-48c9d2d24c7c",
+        "c0edb9de-b41f-47a7-b6d7-c8c28421e072"
+      ]
+    },
+    {
+      "id": "d92ad16b-40df-452a-9a8d-2a3c8c031703",
+      "name": "[Reviews] Store Rating - Recalculate",
+      "icon": "bolt",
+      "color": null,
+      "description": "On review create/update with a store_id: recalculates the store’s rating and total_reviews.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": ["reviews"]
+      },
+      "operation": "995d4d00-5f79-4f9b-bd65-ade1c4d693ae",
+      "date_created": "2026-07-01T03:32:56.671Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "92df24e2-2038-4661-92b9-0f9e9c06c2a9",
+      "operations": [
+        "3e168a77-ce85-468e-92f7-9bd76becb0a0",
+        "5efb4911-4898-4c5b-8173-102ac3a916cc",
+        "6b487f77-f80c-4898-9dc3-5a9c9faca784",
+        "9043d6d1-4a18-48a5-92c2-62c179ac2ad8",
+        "995d4d00-5f79-4f9b-bd65-ade1c4d693ae",
+        "ad1986ef-ebd8-4b73-a8c3-4ade8bce6efa"
+      ]
+    },
+    {
+      "id": "dc22004b-bbdd-49de-a35f-8d7b58b89a0e",
+      "name": "[Helper] Create Notification",
+      "icon": "notifications_active",
+      "color": "#10B981",
+      "description": "Reusable helper flow to create notifications with preference checking",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "783302ab-975c-42b8-952a-f88a4bd120c5",
+      "date_created": "2025-12-24T11:09:32.448Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "1e5c1293-190a-4292-8285-d6a5bd1804b4",
+        "2751a26f-32f8-4f11-8033-69917db191e5",
+        "52b44280-dc88-4c5b-aedf-1c3f412abada",
+        "5317d686-1943-49f9-899a-04569a6009cc",
+        "66bd01ec-076d-4542-a860-29dd59439bb3",
+        "783302ab-975c-42b8-952a-f88a4bd120c5",
+        "92e0f549-58fc-4620-a224-87468689bd9a",
+        "aafaa18d-715c-4779-b6b3-ac8e518cb6d5",
+        "ca7fac59-d28f-468b-a63b-9a58d509525a",
+        "d58572dc-fdd6-4743-90d2-0131f6305ad1",
+        "d6132b10-b1a1-4210-81cf-dfd632741cdf"
+      ]
+    },
+    {
+      "id": "dd4103d0-389d-4cd7-a87c-17ebd9f82366",
+      "name": "[Deprecated] Order Cancelled by Business - Duplicate Stock Release",
+      "icon": "bolt",
+      "color": null,
+      "description": "DEACTIVATED 2026-07-19: released reserved_quantity directly on every order cancellation (not only business ones, unclamped), duplicating the release already done via [Orders] Order Cancelled - Revert Offers -\u003E [Stock] Offer Cancelled/Expired - Release Reserved. Kept inactive for reference.",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "8d1d7fe2-2368-4545-ab98-c5bc99b6afe8",
+      "date_created": "2026-06-29T05:30:57.006Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "44a84075-2e25-45b7-b50d-1fae0d329964",
+      "operations": [
+        "059a59a0-a462-47d5-9e86-ef74ff6f29c1",
+        "3f3acba3-f42f-4fda-a41f-5490cd059da0",
+        "754eb2a7-a105-4b34-84c9-697bbd816813",
+        "757b5ee0-22ab-4e57-ad24-1adb8b4ba388",
+        "8d1d7fe2-2368-4545-ab98-c5bc99b6afe8",
+        "a0a1515b-01d2-4062-b4c5-eeb05b1bfd00",
+        "ca29a67c-8746-4299-8920-f44b407eb429"
+      ]
+    },
+    {
+      "id": "ddb506c2-68c9-4ed7-9062-dfa1ec6cb339",
+      "name": "[Notify] Offer Status Changed - Notify Offer Creator",
+      "icon": "update",
+      "color": "#F59E0B",
+      "description": "Notifies the offer creator when their offer status changes.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "d0867cef-48ef-4da3-b34f-ec7492d0c389",
+      "date_created": "2025-12-25T12:13:44.803Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "2b56e98e-08e6-4bbc-b4a5-ba1502a27ad0",
+        "55496bbf-8c91-4667-89d4-99dd0fa11451",
+        "7387326b-5394-44b9-b04f-7c33743634bc",
+        "7889a25c-25bf-402d-bc05-bd96c1464360",
+        "d0867cef-48ef-4da3-b34f-ec7492d0c389"
+      ]
+    },
+    {
+      "id": "df03b61f-d0dd-4040-9285-ec52937d9ec4",
+      "name": "[Helper] Send Push Notification",
+      "icon": "notifications_active",
+      "color": "#4285F4",
+      "description": "Helper flow to send push notifications via external service",
+      "status": "active",
+      "trigger": "operation",
+      "accountability": "all",
+      "options": {
+        "return": "$last"
+      },
+      "operation": "08f65b9f-34c0-460f-b855-07f358787b98",
+      "date_created": "2025-12-25T12:23:40.602Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "operations": [
+        "08f65b9f-34c0-460f-b855-07f358787b98",
+        "290471f1-15ee-4134-aa68-95bae9a6db57",
+        "2df14f3a-f1ed-4f1c-9c8c-44258afb1487",
+        "928a3922-64a9-4a69-bebe-4fa7016335d7",
+        "af804387-49da-4cb7-bcd6-88c93aeae8da",
+        "b76765b4-7c53-4cd5-ab56-5490446daae6"
+      ]
+    },
+    {
+      "id": "dfefd8fc-eab6-4448-9147-e9df9668c459",
+      "name": "[Social] Follow Deleted - Update Counts",
+      "icon": "person_remove",
+      "color": "#F44336",
+      "description": "When a user_follows record is deleted, updates followers_count and following_count on both users.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "filter",
+        "scope": ["items.delete"],
+        "collections": ["user_follows"]
+      },
+      "operation": "6b3926de-1834-464b-afa8-54d4eb43a29b",
+      "date_created": "2026-02-09T11:18:08.205Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "e00b618c-8c02-46ab-b5bc-c77c5b22ff04",
+      "operations": [
+        "581c5e2c-3ad9-4206-846a-354d2197a752",
+        "6b3926de-1834-464b-afa8-54d4eb43a29b",
+        "bd70121e-1ed1-4d72-a682-7832d9c2bd85",
+        "e16f80a6-8189-4dd7-8ac7-e769fc49fe8e",
+        "ed3ffa06-6b26-4b1c-b78e-290bc4e2d5d2",
+        "fdb47e08-32e9-4693-8da5-37c7f0060b1b",
+        "ff39d904-083e-46e5-a102-c48f11933c59"
+      ]
+    },
+    {
+      "id": "e2a91db9-697f-4f89-b55e-814da0b51b12",
+      "name": "[Stock] Offer Cancelled/Expired - Release Reserved",
+      "icon": "undo",
+      "color": "#EF4444",
+      "description": "When an offer becomes rejected/expired/withdrawn/cancelled: decrements reserved_quantity and restores the listing to published if stock is available again. Skips swaps ([Swap] flows) and untracked listings.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["listing_offers"]
+      },
+      "operation": "786741db-1b67-47bf-8ce1-ead097a8b632",
+      "date_created": "2026-01-27T12:55:47.475Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "45fcab26-c1ec-4a82-9d4a-4c9712239e35",
+      "operations": [
+        "08680da8-fe14-4fca-9f1d-0b13d2bf3013",
+        "0bf0d0bf-7c27-4852-bc12-0aa629e8a295",
+        "25456dff-9eae-4f55-bc9c-33b6814af682",
+        "786741db-1b67-47bf-8ce1-ead097a8b632",
+        "8193f379-5677-45da-bd67-80b359891f33",
+        "8a60f65e-98f8-49ae-b7b0-95ca5841b6de",
+        "91523414-48bf-49c2-ba94-192edd8e4c32",
+        "a417973c-fe3e-4ee5-a8cd-52aa64bfffe7",
+        "f1c5e040-afe8-4279-9d81-492ec4d662c6"
+      ]
+    },
+    {
+      "id": "e57e5b62-f8be-4a86-b3d1-a60243ed7ed0",
+      "name": "[Orders] Verification Events - Update Status",
+      "icon": "verified",
+      "color": "#2ECDA7",
+      "description": "Updates order status when verification events are recorded (QR scans, handover confirmations).",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["order_verifications"]
+      },
+      "operation": "d7aaad02-c050-4bc8-b19a-2acc3af21f78",
+      "date_created": "2026-01-23T20:11:26.879Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "47ba0453-cba3-4384-9431-ce5fa50a44f7",
+      "operations": [
+        "19df1cf5-f56b-45f5-a98e-bf5866eb74b8",
+        "1dab1af0-9789-4d5f-a3b4-ae3d16b3e708",
+        "5fd15ca8-5732-4bc4-884d-83210d63fa88",
+        "ab646dcd-964c-44b0-a5b0-b905ad68a95e",
+        "d7aaad02-c050-4bc8-b19a-2acc3af21f78",
+        "e1ca0aac-73f0-4e28-bc54-e49b6e35fc2e",
+        "e2252ca5-6c4a-4d34-81e8-d1ee327c49ce"
+      ]
+    },
+    {
+      "id": "e5c2a873-ef6b-4870-82ae-c59b954647fd",
+      "name": "[SEO] Next.js Cache Revalidator",
+      "icon": "bolt",
+      "color": "#60A5FA",
+      "description": "Invalidates the Next.js cache when SEO-relevant content changes (global_seo, listings, listings_translations).",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update", "items.delete"],
+        "collections": ["global_seo", "listings", "listings_translations"]
+      },
+      "operation": "0151d85c-9bdd-426d-94cc-d30d80191322",
+      "date_created": "2026-04-02T02:45:58.641Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "operations": ["0151d85c-9bdd-426d-94cc-d30d80191322"]
+    },
+    {
+      "id": "ebdc1385-f359-47ae-98a4-be7e952fdbd7",
+      "name": "[Business] Document Re-submitted - Notify Swibba Managers",
+      "icon": null,
+      "color": null,
+      "description": "Notifies Swibba managers when a business re-submits a verification document.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["business_documents"]
+      },
+      "operation": "02dc12cc-7510-4ce2-bc0f-0d8f79f5a66d",
+      "date_created": "2026-05-03T12:30:43.136Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "02dc12cc-7510-4ce2-bc0f-0d8f79f5a66d",
+        "0870e895-289c-46dc-8ac7-c62182748442",
+        "bac9a41b-897a-4765-b892-b4fa07f6d4a3",
+        "ca673eaf-3aee-4ae1-8418-1604e976a3d5",
+        "d0633223-38ac-410f-9bbb-98775ee9fb06",
+        "df1a6538-9d80-4dff-8677-9f7f505fe632",
+        "f3d959c1-cf4f-4982-a5d9-6b2a4ea6c59e"
+      ]
+    },
+    {
+      "id": "efe4f585-e5ea-4d5c-a69b-72c788710df1",
+      "name": "[Notify] Order Ready for Pickup - Notify Buyer",
+      "icon": "package",
+      "color": "#6366F1",
+      "description": "Notifies the buyer when the seller marks an order as ready for pickup.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["orders"]
+      },
+      "operation": "793360ac-e4f7-4f2c-90f4-af0eeb9a0b79",
+      "date_created": "2026-04-26T19:05:19.116Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "operations": [
+        "0d7ecdca-c79a-4eb5-bd80-1caa4ad68a98",
+        "0fa3e1fa-db56-4ac5-b52a-76d92d64ae5b",
+        "793360ac-e4f7-4f2c-90f4-af0eeb9a0b79",
+        "b5fce29d-39f1-4574-859d-49a389eed63b",
+        "d6c846c8-d19d-4f43-a1fe-42c4b203bba0"
+      ]
+    },
+    {
+      "id": "efec871b-8077-4013-b460-963db5be8e7b",
+      "name": "[Cron] Rental Expiration Reminder - Daily",
+      "icon": "schedule",
+      "color": "#EF4444",
+      "description": "Daily reminder for rentals expiring in 1-3 days (runs at 9:00 AM).",
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 9 * * *"
+      },
+      "operation": "8ba8fb35-b67a-47a9-8d26-70abe6a17e30",
+      "date_created": "2025-12-25T12:13:54.477Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "operations": [
+        "13a11d8f-a792-407f-8c77-ac9c3f018da4",
+        "65d34c82-4373-4a15-9186-63094b13c6c4",
+        "778e66d3-5e85-441c-af3d-ed5e83afa033",
+        "8ba8fb35-b67a-47a9-8d26-70abe6a17e30",
+        "af1ac881-e708-47c2-8578-c3cc34b7ab99",
+        "b217a1c9-f3ba-4cb8-89a3-12ee4b054d4a",
+        "b5a024d1-9d8d-400d-8d46-7ab6ef8c403d",
+        "bac5c732-def9-4244-bb17-67fa0ce88579",
+        "db8bbbeb-d3be-4b5a-b9d2-6818886556dd"
+      ]
+    },
+    {
+      "id": "f195cc1a-fbb4-4f64-9be4-f1d20917dea7",
+      "name": "[Cron] Auto-Exchange Currency (1-Hour)",
+      "icon": "bolt",
+      "color": null,
+      "description": null,
+      "status": "active",
+      "trigger": "schedule",
+      "accountability": "all",
+      "options": {
+        "cron": "0 * * * *"
+      },
+      "operation": "136fc933-2e79-41b5-892a-b6eafaadbd7c",
+      "date_created": "2026-08-04T20:07:10.542Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "operations": [
+        "136fc933-2e79-41b5-892a-b6eafaadbd7c",
+        "1b4e4cfd-df21-494f-9d74-528fcfe45eaf",
+        "4102e0f7-6a87-43cc-8ac4-3197accaded0",
+        "c3617b2a-24e8-4834-a41b-6b16b1d0a22d"
+      ]
+    },
+    {
+      "id": "f3194712-5e4a-48cc-a036-43e00a727018",
+      "name": "[Business] Store Approved/Rejected - Notify Owner",
+      "icon": null,
+      "color": null,
+      "description": "Notifies the business owner when their store is approved or rejected by a Swibba manager.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["stores"]
+      },
+      "operation": "fd9fdba9-b940-4e33-8064-9738b5b3f7be",
+      "date_created": "2026-05-04T18:40:17.414Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "13f67f7d-8d73-4391-ba9e-557475e13a28",
+        "176eaaf4-3967-4d7d-a9e0-ea2f0a727be5",
+        "b49bfb7e-e246-4207-b521-1612f7d661fc",
+        "d1168583-1758-44b7-aa1c-03b2fcd8ca19",
+        "e519c821-62f0-4e5c-a6b7-1247906b8f15",
+        "fd9fdba9-b940-4e33-8064-9738b5b3f7be"
+      ]
+    },
+    {
+      "id": "f56c0df3-6823-494e-a211-9c8eeba13473",
+      "name": "Marketing Content / Generate",
+      "icon": "auto_awesome",
+      "color": "#2ECDA7",
+      "description": "Catalog entity created or renamed -\u003E generate landing-page content in all 7 languages. catalog_content* is deliberately NOT in the scope so the generator writeback cannot loop. Docs: docs/content-as-marketing/03-content-pipeline.md",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create", "items.update"],
+        "collections": [
+          "categories",
+          "subcategories",
+          "brands",
+          "series",
+          "models",
+          "categories_translations",
+          "subcategories_translations",
+          "brands_translations",
+          "series_translations",
+          "models_translations"
+        ]
+      },
+      "operation": "c61689f5-9273-4427-8175-665c16cdb2d1",
+      "date_created": "2026-09-01T13:51:50.545Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "operations": [
+        "3f038b46-ccbc-4a64-82b3-6c0a05923ea8",
+        "5c0769eb-3fac-43b8-8f38-eecc1eba85a8",
+        "5d59329c-36d6-49b2-98f9-c780268ada67",
+        "8dd0939f-aae3-41b6-b4df-bd24f7cee124",
+        "c61689f5-9273-4427-8175-665c16cdb2d1"
+      ]
+    },
+    {
+      "id": "f6431e0a-fc7d-42a3-b3ee-81386fb945b9",
+      "name": "[SEO] AI GEO Autobuilder",
+      "icon": "smart_toy",
+      "color": "#10B981",
+      "description": "Triggers OpenAI analysis on listing descriptions (listings_translations) to auto-build GEO/SEO metadata.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["listings_translations"]
+      },
+      "operation": "3ae633e5-0e5d-479a-9ec9-2fb2c2b99632",
+      "date_created": "2026-04-02T03:09:30.142Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "operations": [
+        "17afa76e-2b34-4894-8962-354a2fb386d4",
+        "3ae633e5-0e5d-479a-9ec9-2fb2c2b99632"
+      ]
+    },
+    {
+      "id": "f9958a8a-e21f-4d09-9530-a1ebf7e0ab03",
+      "name": "[Business] Document Rejected - Notify Owner",
+      "icon": null,
+      "color": null,
+      "description": "Notifies the business owner when one of their verification documents is rejected.",
+      "status": "active",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.update"],
+        "collections": ["business_documents"]
+      },
+      "operation": "a8cab4c3-183a-4235-8220-781e0b8a0a5f",
+      "date_created": "2026-05-03T12:30:35.937Z",
+      "user_created": "68027a3a-3ea4-4243-a5f1-e6bee2477f78",
+      "folder": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "operations": [
+        "72d11ca6-0bd4-4fb0-8441-e13f5c078a10",
+        "77aa8a8a-86c2-433d-8745-15e163a8a43e",
+        "8be2de04-4448-4b54-8071-afb26f49b409",
+        "a8cab4c3-183a-4235-8220-781e0b8a0a5f",
+        "bf285a44-24a5-420a-ac34-614758c0f085",
+        "ce808f5a-b716-4d6e-8225-ac4c6d447ee5"
+      ]
+    },
+    {
+      "id": "fa998b5d-05c4-48c6-82fb-94d1b0a1315b",
+      "name": "[Deprecated] Get Provider Info",
+      "icon": "bolt",
+      "color": null,
+      "description": "Inactive/unfinished experiment: was meant to capture SSO provider info on user create; its only operation has a null payload.",
+      "status": "inactive",
+      "trigger": "event",
+      "accountability": "all",
+      "options": {
+        "type": "action",
+        "scope": ["items.create"],
+        "collections": ["directus_users"]
+      },
+      "operation": "28b20784-78e8-465e-a5b4-1a340dcb537e",
+      "date_created": "2026-04-14T00:32:50.388Z",
+      "user_created": "0c2c53ad-7099-4987-9b3e-d7b6ab236667",
+      "folder": "44a84075-2e25-45b7-b50d-1fae0d329964",
+      "operations": ["28b20784-78e8-465e-a5b4-1a340dcb537e"]
+    }
+  ]
+}

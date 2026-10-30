@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "0f1f0305-dc88-4ba3-9013-3cc1374c9d70",
+            "image": null,
+            "name": "Citroën C5 II",
+            "description": "The Citroën C5 II is a mid-size family car that focuses on comfort and advanced technology features, offering a smooth ride and spacious interior suitable for everyday use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "3391dca3-ee75-4283-91da-a1df96483814",
+            "image": null,
+            "name": "Škoda Fabia (facelift)",
+            "description": "The Škoda Fabia (facelift) is a compact car designed for urban mobility, known for its practicality, efficiency, and modern design updates introduced in the 2017 model year.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "3534263b-5abe-464b-8c66-2ca6dcc045a1",
+            "image": null,
+            "name": "Škoda Kodiaq (2021 Update)",
+            "description": "The Škoda Kodiaq (2021 Update) is a mid-size SUV that combines spaciousness and versatility, designed for families and outdoor enthusiasts, offering comfortable seating for up to seven passengers and a variety of advanced technology features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "36d41f8b-6e83-4d6b-8f93-461b07a09850",
+            "image": null,
+            "name": "Citroën Berlingo",
+            "description": "The Citroën Berlingo is a versatile light commercial vehicle and family-friendly car known for its spacious interior and practicality, introduced in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "47560821-33b6-4422-b576-9d4ef384f810",
+            "image": null,
+            "name": "Citroën C4",
+            "description": "The Citroën C4 is a compact car designed for a balance of comfort and performance. It features modern styling and innovative technology, catering to urban driving and family needs.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "306aace8-8f4a-4e28-a602-4ee5159f3293",
+            "image": null,
+            "name": "Oppo Find X5 Series",
+            "description": "The Oppo Find X5 Series is a line of high-end smartphones released in 2023, designed to deliver premium performance, advanced camera capabilities, and sleek aesthetics.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "1e978a9d-d1c7-4576-a7a6-e16245ed2fca",
+            "image": null,
+            "name": "Oppo Reno8 Series",
+            "description": "The Oppo Reno8 Series includes a range of smartphones launched in 2023, designed to deliver advanced photography features and seamless user experiences for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "be729086-9e43-4020-83a7-7b926f6085be",
+            "image": null,
+            "name": "Oppo A78",
+            "description": "The Oppo A78 series is a range of smartphones released in 2023, designed to provide users with an efficient and user-friendly mobile experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "7655a038-d938-4eaa-842e-abaea35ff43a",
+            "image": null,
+            "name": "Tefal ActiFry Genius",
+            "description": "The Tefal ActiFry Genius is an air fryer designed to provide healthier cooking options by using hot air circulation to fry without immersing food in oil, offering versatility in preparing various meals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Tefal"
+            }
+        },
+        {
+            "id": "8a4249f1-b582-42ec-a27a-4bdc2ff05a3d",
+            "image": null,
+            "name": "Easy Fry",
+            "description": "The Moulinex Easy Fry series consists of air fryers that utilize hot air circulation technology to prepare healthier meals with less oil, making it easier to enjoy crispy food while maintaining a lower fat content.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "0f8277ac-42b8-4ad0-99b9-255a187da67a",
+            "image": null,
+            "name": "Cookeo",
+            "description": "The Moulinex Cookeo series is a line of innovative multi-cookers designed to simplify meal preparation through automated cooking programs and intuitive controls.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "2201f09d-9138-476c-9a43-e549f26587d3",
+            "image": null,
+            "name": "Moulinex Easy Fry & Grill",
+            "description": "The Moulinex Easy Fry & Grill series includes versatile air fryers designed to prepare healthier meals with less oil while providing grilling capabilities for a variety of cooking options.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "05d0a84b-a606-47d0-8b2b-658a791ffb43",
+            "image": null,
+            "name": "Nokia 3310 (2017)",
+            "description": "The Nokia 3310 (2017) is a modernized version of the classic feature phone, known for its durability and long battery life, aimed at users seeking simplicity and reliability in mobile communication.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "35e6cbd0-275b-40b6-a7a7-e58cdd107ac5",
+            "image": null,
+            "name": "Nokia 3",
+            "description": "The Nokia 3 is an Android smartphone known for its solid build quality and user-friendly interface, aimed at providing essential smartphone functionalities at an affordable price.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "8eedd617-7b28-4a20-8ba2-b0861cd94319",
+            "image": null,
+            "name": "Nokia 5",
+            "description": "The Nokia 5 is a mid-range smartphone that combines a premium aluminum design with reliable performance and an emphasis on essential features, making it suitable for everyday tasks and communication.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "f11dd896-faf8-4e0a-899b-5d1818f7752e",
+            "image": null,
+            "name": "Nokia 6",
+            "description": "The Nokia 6 is a smartphone released in 2016, characterized by its durable build, solid performance, and a focus on delivering a refined user experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "5eb504c8-fe0b-4360-b230-1f6776f6c8b0",
+            "image": null,
+            "name": "Nokia 8",
+            "description": "The Nokia 8 is a flagship smartphone released in 2017, known for its dual-camera system, high-quality build, and emphasis on multimedia performance, particularly in photography and video recording.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "be842dd7-abac-4362-b664-74fce1527a30",
+            "image": null,
+            "name": "Nokia 5.1",
+            "description": "The Nokia 5.1 is a smartphone released in 2018, known for its aluminum body, 18:9 display, and an emphasis on delivering quality performance in a mid-range market.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "28512720-fc89-4f96-863c-645e7596a8c8",
+            "image": null,
+            "name": "Nokia 3.1",
+            "description": "The Nokia 3.1 is a smartphone developed by Nokia, released in 2018, designed for users seeking a reliable device with a balance of performance and affordability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "e16829bf-7956-4714-af31-0e28d26f6e26",
+            "image": null,
+            "name": "Nokia 2.1",
+            "description": "The Nokia 2.1 is an entry-level smartphone released in 2018, designed to offer a solid Android experience with a focus on essential features and battery life.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "f5ed4cdd-9126-4b47-84c2-4eaae9736de3",
+            "image": null,
+            "name": "Nokia 7 Plus",
+            "description": "The Nokia 7 Plus is a mid-range smartphone designed to provide a balance of performance and usability, featuring a large display and a dual-camera system for enhanced photography.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "2872ff16-ab8d-4901-b87e-0e9d3ff580e8",
+            "image": null,
+            "name": "Nokia 9 PureView",
+            "description": "The Nokia 9 PureView is a smartphone launched in 2019, known for its unique five-camera setup that captures detailed images and offers advanced photography capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "f79d7a4d-60e7-4bfd-9b47-8b253ea923b8",
+            "image": null,
+            "name": "Nokia 7.2",
+            "description": "The Nokia 7.2 is a mid-range smartphone released in 2019, known for its versatile triple camera system and PureDisplay technology allowing for enhanced viewing experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "c6aa16c1-0a1d-473b-a179-dc5dd0cbc0d5",
+            "image": null,
+            "name": "Nokia 6.2",
+            "description": "The Nokia 6.2 is a mid-range smartphone released in 2019, known for its solid build quality, versatile photography capabilities, and a clean Android experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "be53235d-ab9b-4f07-a016-4fb5e7a52488",
+            "image": null,
+            "name": "Nokia 1.3",
+            "description": "The Nokia 1.3 is a budget smartphone launched in 2020, designed to provide essential smartphone features with a focus on durability and user-friendly experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "529d27ee-e59b-42a5-8b02-7d42a5aeed8c",
+            "image": null,
+            "name": "Nokia 5.3",
+            "description": "The Nokia 5.3 is a budget-friendly smartphone released in 2020, designed to offer a reliable performance with a focus on essential features, including a versatile camera system and long-lasting battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "204a62bc-b073-494d-96f8-7e42f49bbf70",
+            "image": null,
+            "name": "Nokia 8.3 5G",
+            "description": "The Nokia 8.3 5G is a smartphone designed to support 5G connectivity, offering users advanced performance and versatile photography capabilities in a durable design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "beee41f1-29d5-41e8-bb70-1f367436e719",
+            "image": null,
+            "name": "Nokia 5310 (2020)",
+            "description": "The Nokia 5310 (2020) is a feature phone designed for users who prioritize basic communication and music playback. It offers a simple user interface with a focus on essential phone functionalities combined with a music player.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "9cafeed3-4ad4-4ba1-bb79-2509c99ceb40",
+            "image": null,
+            "name": "Nokia G10",
+            "description": "The Nokia G10 is a budget-friendly smartphone designed to deliver essential features and reliable performance, making it suitable for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "f09afd48-46a6-4487-9c98-9e23dc985076",
+            "image": null,
+            "name": "Nokia G20",
+            "description": "The Nokia G20 is a smartphone designed for everyday use, featuring a large display, multiple camera capabilities, and a focus on durability and battery life.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        }
+    ]
+}

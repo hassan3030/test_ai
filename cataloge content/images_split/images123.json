@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1260ce01-3fec-477f-99dd-11b8970d3d52",
+            "image": null,
+            "name": "Changan EADO EV460",
+            "description": "The Changan EADO EV460 is a compact electric car designed for urban commuting, offering efficient performance and modern technology in a stylish package.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "1be501d7-c1c2-4961-8b4c-8e22a7862b18",
+            "image": null,
+            "name": "Hino 300 Series",
+            "description": "The Hino 300 Series is a line of lightweight commercial pickup trucks designed for urban transport and delivery, known for their durability and efficiency.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino Motors"
+            }
+        },
+        {
+            "id": "28c11d3d-f060-4c7c-8ac2-61808d438581",
+            "image": null,
+            "name": "Tata Manza",
+            "description": "The Tata Manza is a sedan produced by Tata Motors, designed to offer a spacious interior, comfortable ride, and efficient performance for everyday use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "37cae06c-5704-47eb-b754-750b54f36d59",
+            "image": null,
+            "name": "Moto Guzzi Eldorado",
+            "description": "The Moto Guzzi Eldorado is a classic touring motorcycle designed for comfort and performance on long rides, featuring a distinctive style that pays homage to the brand's heritage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "ced642fc-935a-4a15-93c8-3f445b2e7eff",
+            "image": null,
+            "name": "KTM 520 EXC",
+            "description": "The KTM 520 EXC is a powerful off-road motorcycle designed for extreme durability and performance in challenging terrains, making it ideal for enduro riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "62e9231d-277c-40f3-86d6-46ab28fe35af",
+            "image": null,
+            "name": "PremiumContact 6",
+            "description": "The Continental PremiumContact 6 is a high-performance tire designed for enhanced handling, safety, and comfort in a variety of driving conditions. It is engineered to provide excellent wet and dry grip while ensuring a smooth ride.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "fb002579-c1a9-413f-ae53-6a32a42e8ba1",
+            "image": null,
+            "name": "Omen 15",
+            "description": "The Omen 15 is a gaming laptop series designed for immersive gaming experiences, featuring powerful performance and a sleek design tailored for gamers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "5ba8946a-21df-49df-9664-a33bd0e119e2",
+            "image": null,
+            "name": "Omen 17",
+            "description": "The Omen 17 series is a line of gaming laptops designed for high performance, featuring powerful graphics and processing capabilities for an immersive gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "ce307e34-bf60-4db6-ba8c-0521aa1e44fb",
+            "image": null,
+            "name": "Omen Mindframe Headset",
+            "description": "The Omen Mindframe Headset is a gaming headset designed for immersive audio and comfort, featuring active cooling technology to enhance long gaming sessions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "1279c13e-2d34-4d5c-89dd-1b00c0a84cc2",
+            "image": null,
+            "name": "Omen 17 (2018)",
+            "description": "The Omen 17 (2018) is a high-performance gaming laptop designed for gamers seeking powerful hardware and immersive experiences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "3235dbd3-7b5b-4df3-9572-c108352694e0",
+            "image": null,
+            "name": "Omen X 2S",
+            "description": "The Omen X 2S series represents a high-performance gaming laptop designed for gamers seeking powerful hardware and innovative features, including a dual-screen setup that enhances multitasking capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "24673560-a76e-4ce8-96d9-c107c038db12",
+            "image": null,
+            "name": "Motorola Edge 30 Ultra",
+            "description": "The Motorola Edge 30 Ultra is a flagship smartphone released in 2022 that features high-performance specifications, advanced camera capabilities, and a sleek design, catering to users looking for cutting-edge technology in a mobile device.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "c3b6c5b3-9001-4be9-a7ad-a86d0b449b0b",
+            "image": null,
+            "name": "Vivosmart 4",
+            "description": "The Garmin Vivosmart 4 is a sleek activity tracker designed to monitor health and wellness metrics, such as heart rate, sleep quality, and stress levels, while showcasing a stylish and sophisticated design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "65c308f7-899c-4a00-a666-7765796e33b1",
+            "image": null,
+            "name": "Garmin Venu 2 Plus",
+            "description": "The Garmin Venu 2 Plus is a smartwatch designed for fitness enthusiasts, offering health tracking features, GPS capabilities, and smartwatch functionalities to enhance wellness and daily activities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "514d8ed9-7b9f-46e3-b61e-cebfc002334a",
+            "image": null,
+            "name": "Garmin Forerunner 265",
+            "description": "The Garmin Forerunner 265 is a GPS smart watch designed for runners and athletes, featuring health monitoring, training tools, and advanced features for performance tracking.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "cb7a8336-c592-410e-8e48-30d177905e4f",
+            "image": null,
+            "name": "Garmin Forerunner 965",
+            "description": "The Garmin Forerunner 965 is a high-performance smartwatch designed for athletes and fitness enthusiasts, offering tracking features for various sports, advanced health monitoring, and smart connectivity.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "3ea0bcd6-50fb-4299-bb68-071955f6dbc8",
+            "image": null,
+            "name": "Garmin Fenix 7 Pro Series",
+            "description": "The Garmin Fenix 7 Pro Series consists of advanced smart watches designed for outdoor enthusiasts, offering multi-sport tracking, GPS navigation, and health monitoring features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "aad62659-d352-4812-a018-2c7cd0369521",
+            "image": null,
+            "name": "TomTom Sports",
+            "description": "The TomTom Sports series offers smartwatches designed for fitness tracking and activity monitoring, helping users to enhance their performance through precise metrics and insights.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "TomTom"
+            }
+        },
+        {
+            "id": "a39092c7-0804-4dab-aa1f-238d0bb96e1a",
+            "image": null,
+            "name": "Amazon Echo Dot (2nd Generation)",
+            "description": "The Amazon Echo Dot (2nd Generation) is a compact smart speaker that uses voice recognition to facilitate hands-free control of music playback, smart home devices, and various information queries, acting as an embedded AI assistant.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "1e10d802-92f5-4dd0-9ab0-3f9a71d9bff2",
+            "image": null,
+            "name": "Fire HD 10",
+            "description": "The Amazon Fire HD 10 is a tablet designed for entertainment, featuring a vibrant display and access to a wide range of apps, books, and media.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "3db5990d-af3b-4850-9031-4f076eaf07a1",
+            "image": null,
+            "name": "Fire HD 10 Tablet (9th Gen)",
+            "description": "The Amazon Fire HD 10 Tablet (9th Gen) is a versatile tablet designed for entertainment and productivity, featuring a 10.1-inch display and access to a wide range of apps and content.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "c3ff38ac-2a56-4dad-a66c-18a51d875453",
+            "image": null,
+            "name": "Echo Show 5",
+            "description": "The Amazon Echo Show 5 is a smart home device featuring a compact display that allows users to interact with Alexa, control smart home devices, and access various entertainment options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "170e21f2-cdfa-419a-8239-a2713ac61483",
+            "image": null,
+            "name": "Echo Show 10 (3rd Gen)",
+            "description": "The Amazon Echo Show 10 (3rd Gen) is a smart display with a 10.1-inch screen that offers interactive video calling, entertainment, and smart home control, featuring Amazon's Alexa voice assistant.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "821d4594-c517-4e22-a539-9930bff02298",
+            "image": null,
+            "name": "Deebot X1 Omni",
+            "description": "The Deebot X1 Omni is a robotic vacuum cleaner designed to automate floor cleaning tasks with advanced navigation technology and smart home integration.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "85750086-587b-4295-a6be-c7a4ca354f62",
+            "image": null,
+            "name": "Sengled Pulse",
+            "description": "Sengled Pulse is a series of smart LED bulbs that combine high-quality lighting with built-in speakers, allowing users to stream music and control their lighting through a mobile app or smart home assistant.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "45920556-1f80-47bf-93cd-a009c40b8402",
+            "image": null,
+            "name": "Sengled Smart LED",
+            "description": "The Sengled Smart LED series offers a range of energy-efficient, smart LED bulbs that can be controlled via a mobile app or smart home hub, providing users with customizable lighting options and enhanced convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "6fa7eeaf-f9d1-4316-a1a4-c8efd5420898",
+            "image": null,
+            "name": "Sengled Smart LED Multicolor A19",
+            "description": "The Sengled Smart LED Multicolor A19 is a smart lighting solution that allows users to customize their home lighting with a wide range of colors and remote control functionality, enhancing ambiance and convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "c4756b26-b1a8-43fe-98bc-b4a9afb353da",
+            "image": null,
+            "name": "Sengled Smart LED Filament Bulbs",
+            "description": "Sengled Smart LED Filament Bulbs are energy-efficient lighting options that combine smart technology with a vintage filament design, allowing users to control light settings remotely and customize their home ambiance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sengled"
+            }
+        },
+        {
+            "id": "dffc1ac5-efb6-4d97-ba9b-76517296d9bc",
+            "image": null,
+            "name": "ContiCrossContact RX",
+            "description": "The Continental ContiCrossContact RX is a performance tire designed for crossovers and SUVs, providing enhanced handling, stability, and comfort on various road conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "9826c525-f744-4e9e-b9a5-41ba1a45f4b4",
+            "image": null,
+            "name": "ContiSportContact 7",
+            "description": "The Continental ContiSportContact 7 is a high-performance tire designed for sport-oriented vehicles, offering enhanced grip, precise handling, and improved safety in both wet and dry conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        }
+    ]
+}

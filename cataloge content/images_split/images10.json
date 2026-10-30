@@ -1,0 +1,374 @@
+{
+    "data": [
+        {
+            "id": "4acaa002-f6e3-4ac4-b516-254906771e48",
+            "image": null,
+            "name": "Dodge Charger (2018)",
+            "description": "The Dodge Charger (2018) is a full-size sedan known for its powerful engine options and muscular design, aiming to provide both performance and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "5718caf0-f57c-4621-857b-95dfb2758470",
+            "image": null,
+            "name": "Dior So Real",
+            "description": "Dior So Real sunglasses are a distinctive eyewear line known for their innovative geometric shapes and modern aesthetic, designed to provide a bold fashion statement while protecting the eyes from harmful UV rays.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5f09aa7e-ff79-417f-ba1e-09295e5afae8",
+            "image": null,
+            "name": "Aprilia SR Motard 50",
+            "description": "The Aprilia SR Motard 50 is a lightweight motorcycle designed primarily for urban commuting and mobility. It features a sporty design and agile handling, making it suitable for navigating through city traffic.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "e578c385-fb20-46d3-abf3-372bca5f3f57",
+            "image": null,
+            "name": "DiorID Sneakers",
+            "description": "The DiorID Sneakers, launched in 2018, are stylish and contemporary footwear designed to blend luxury with everyday comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "611339fa-577b-41d5-b77a-0bbe085c96dd",
+            "image": null,
+            "name": "Cuisinart 4-Quart Ice Cream Maker",
+            "description": "The Cuisinart 4-Quart Ice Cream Maker is designed for home use, allowing users to create up to 4 quarts of ice cream, sorbet, or frozen yogurt with ease and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "67063060-44a5-496c-a5f4-cc19e2a8e89d",
+            "image": null,
+            "name": "Nike Vapormax 2.0",
+            "description": "The Nike Vapormax 2.0 is a performance sneaker known for its innovative Air sole technology that provides cushioning and support, designed specifically for responsive comfort during running and everyday wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "6963a39e-90d1-4c9f-9484-aa9b4da4e115",
+            "image": null,
+            "name": "Uncharted: The Lost Legacy",
+            "description": "Uncharted: The Lost Legacy is an action-adventure game developed by Naughty Dog, featuring new protagonists Chloe Frazer and Nadine Ross as they embark on a quest in India to find the Golden Tusk of Ganesh.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "69b15549-f080-4faa-b96f-b8997e9e7f20",
+            "image": null,
+            "name": "KTM 640",
+            "description": "The KTM 640 series consists of versatile motorcycles designed for both on-road and off-road performance, emphasizing a lightweight frame and powerful engine.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "763452bb-b972-4e47-9533-311d6cde5adc",
+            "image": null,
+            "name": "Whirlpool WRF560SEHZ",
+            "description": "The Whirlpool WRF560SEHZ is a top-freezer refrigerator designed to provide efficient food storage and organization with adjustable shelves and humidity-controlled crispers, suitable for various kitchen layouts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "7893d3df-1379-4486-9256-d2081fcb2f5e",
+            "image": null,
+            "name": "Vespa GTS Super",
+            "description": "The Vespa GTS Super is a modern scooter that combines classic Vespa design with enhanced performance features, making it ideal for urban commuting and leisurely rides.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "81c2c8a3-3b91-4164-ae28-4291c042859f",
+            "image": null,
+            "name": "Graco Pack 'n Play Reversible Napper & Changer Playard",
+            "description": "The Graco Pack 'n Play Reversible Napper & Changer Playard is a versatile baby care solution that functions as both a napper and a changer, providing a comfortable space for your baby to rest and a convenient changing area all in one portable unit.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "02484116-d7e1-4fc8-9de2-c8e34567e1b6",
+            "image": null,
+            "name": "Whirlpool Smart Top Load Washers",
+            "description": "The Whirlpool Smart Top Load Washers are designed for efficient cleaning and convenience, offering a variety of wash cycles and smart technology integration for optimized laundry care.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "296f9f44-a6b4-49f5-97a9-eab94d291146",
+            "image": null,
+            "name": "Vespa GTS Super Tech",
+            "description": "The Vespa GTS Super Tech is a premium scooter that combines classic Vespa styling with modern technology, including advanced connectivity features and powerful performance. It is designed for urban commuting and provides a comfortable and efficient riding experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "31eae53f-ecb4-4265-ba07-799a0ff6537c",
+            "image": null,
+            "name": "Nike Joyride Run",
+            "description": "The Nike Joyride Run series features innovative cushioning technology designed to provide a soft, responsive feel while running, making it ideal for casual runners seeking comfort and support.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "39f5dd9e-4278-4a73-b2ff-58415d44998b",
+            "image": null,
+            "name": "Uncharted 4: A Thief's End",
+            "description": "Uncharted 4: A Thief's End is an action-adventure video game developed by Naughty Dog for the PlayStation, featuring treasure hunter Nathan Drake as he embarks on a journey to uncover his past.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "52dbb771-c086-4411-8efb-e557a6f8cfb3",
+            "image": null,
+            "name": "Dynamat Extreme",
+            "description": "Dynamat Extreme is a series of sound deadening materials designed to reduce noise and vibrations in automotive applications, enhancing the overall driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Dynamat"
+            }
+        },
+        {
+            "id": "9037bc02-6fef-403f-86af-6406c35a1754",
+            "image": null,
+            "name": "Dodge Durango (2018)",
+            "description": "The Dodge Durango (2018) is a full-size SUV known for its powerful performance, spacious interior, and advanced technology features designed for family transport and versatility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "94b00da2-d9ba-4195-bea8-ac1d8a0618b2",
+            "image": null,
+            "name": "Hyundai Elantra N",
+            "description": "The Hyundai Elantra N, released in 2023, is a high-performance compact sedan that combines sporty design with advanced technology and dynamic handling, aimed at driving enthusiasts seeking an engaging experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "96a73f42-b7a7-4860-86e4-32ee43d9bc8f",
+            "image": null,
+            "name": "Honda S2000",
+            "description": "The Honda S2000 is a two-seater sports car renowned for its high-revving inline-four engine and exceptional handling, primarily designed for enthusiastic driving and track performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9b8c112f-d5e2-4da6-8cbe-7d8a37f02c6d",
+            "image": null,
+            "name": "Bimota DB6",
+            "description": "The Bimota DB6 is a high-performance motorcycle that combines advanced engineering and design with a focus on lightweight construction and agility.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "b04db6f4-f26c-4db9-8900-0e5d8c7719ea",
+            "image": null,
+            "name": "Dodge Hornet",
+            "description": "The Dodge Hornet is a compact crossover SUV designed for performance and versatility, blending sporty handling with spacious interior features.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "b9846652-ca90-4336-bafd-72209036818e",
+            "image": null,
+            "name": "Kawasaki VN 2000",
+            "description": "The Kawasaki VN 2000 is a heavy cruiser motorcycle introduced in 2004, known for its large displacement V-twin engine and distinctive style, making it suitable for long-distance riding and comfortable cruising.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "d648e55c-c896-4fc9-9274-acdca441934a",
+            "image": null,
+            "name": "Nike Air Max 720",
+            "description": "The Nike Air Max 720 is a sneaker series released in 2019, known for its distinctive and oversized Air cushioning, providing maximum comfort and support for everyday wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "de8ea6ff-19a9-4ed7-a13a-01ca40c6280b",
+            "image": null,
+            "name": "MALM",
+            "description": "The IKEA MALM series includes a range of stylish and functional beds designed to enhance any bedroom decor. Known for their clean lines and minimalist aesthetics, these beds are made with quality materials to ensure durability and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "eac305c6-a58a-4ae5-b5c0-bcb2a3286cea",
+            "image": null,
+            "name": "KALLAX",
+            "description": "The KALLAX series by IKEA is designed to provide versatile storage solutions, featuring a modular design that can be customized to meet a variety of organizational needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "674a431c-3183-4c81-acdf-89c3ea645b98",
+            "image": null,
+            "name": "Cuisinart SmartPower Duet Blender and Food Processor",
+            "description": "The Cuisinart SmartPower Duet Blender and Food Processor is a versatile kitchen appliance designed to efficiently blend and process a variety of food ingredients, making it ideal for preparing smoothies, soups, sauces, and more.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7f5cd646-14ca-4afd-adec-9d806a77eaec",
+            "image": null,
+            "name": "Honda Accord (2004)",
+            "description": "The Honda Accord (2004) is a midsize car known for its reliability, comfortable ride, and spacious interior. It is designed to meet the needs of families and commuters with a focus on efficiency and safety.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f7973ea0-e0af-4c17-9161-6d494a1af0b1",
+            "image": null,
+            "name": "Whirlpool 5.3 cu. ft. Top Load Washer",
+            "description": "The Whirlpool 5.3 cu. ft. Top Load Washer is designed for efficient and convenient laundry care, featuring a large capacity and multiple wash settings to handle various fabric types and soil levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "f81a065b-24c6-4c68-b3db-d2e7fe38f125",
+            "image": null,
+            "name": "Herman Miller Sayl Chair",
+            "description": "The Herman Miller Sayl Chair, released in 2017, is designed to provide ergonomic support while emphasizing sustainable materials and modern aesthetics. Its unique back construction allows for a wide range of motion, making it a versatile choice for various workspaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7f724492-af52-4920-a8b5-0cae70705d1c",
+            "image": null,
+            "name": "Cuisinart AirFryer Toaster Oven",
+            "description": "The Cuisinart AirFryer Toaster Oven combines the functions of an air fryer and a toaster oven to provide versatility in cooking. It is designed to cook food with little or no oil for healthier meals while also allowing for baking, broiling, and toasting.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        }
+    ]
+}

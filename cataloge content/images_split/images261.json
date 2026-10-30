@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "8525258d-51e1-4043-9d20-52d9a20ebf1a",
+            "image": null,
+            "name": "CH22 Lounge Chair",
+            "description": "The CH22 Lounge Chair is a modern seating piece designed by Hans J. Wegner, known for its organic forms and exceptional craftsmanship. Released in 2017, it exemplifies a harmonious blend of functionality and aesthetic appeal, making it suitable for various living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Carl Hansen & Søn"
+            }
+        },
+        {
+            "id": "5f397fe1-0ee8-48d2-bbf5-658484f0c179",
+            "image": null,
+            "name": "Bergtagen",
+            "description": "The Fjällräven Bergtagen series features durable and functional camping gear designed for outdoor enthusiasts seeking reliable performance and comfort in rugged landscapes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "7028ffc5-e494-4570-a776-20f747aca531",
+            "image": null,
+            "name": "Frigidaire 36'' Professional Series Refrigerator",
+            "description": "The Frigidaire 36'' Professional Series Refrigerator is a premium refrigerator designed to meet the needs of culinary enthusiasts. It features a spacious interior, advanced cooling technology, and a professional-grade stainless steel finish.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2c915aa3-7549-4b55-9edb-457a542d2e7c",
+            "image": null,
+            "name": "Cougar RANGER Backpack",
+            "description": "The Cougar RANGER Backpack is designed for gamers, providing spacious compartments and ergonomic support for transporting gaming equipment and accessories.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "ec9d76bd-14da-4bdd-b680-b6cdbdb38c77",
+            "image": null,
+            "name": "Frigidaire Air Fryer",
+            "description": "The Frigidaire Air Fryer series offers a healthier way to prepare your favorite fried foods by using hot air circulation for crispiness without the excess oil, making it suitable for a variety of cooking needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7b0b043e-ee02-4a43-af08-1c000e01070d",
+            "image": null,
+            "name": "Eco-Friendly Sunglasses Collection",
+            "description": "The Eco-Friendly Sunglasses Collection by Blue Planet Eyewear features stylish sunglasses made from sustainable materials, designed to provide UV protection while minimizing environmental impact.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Blue Planet Eyewear"
+            }
+        },
+        {
+            "id": "b4bdc8b5-2466-46c0-8183-1d0b4ed9565b",
+            "image": null,
+            "name": "Maui Jim Makena",
+            "description": "The Maui Jim Makena series features high-performance sunglasses designed to provide superior clarity and protection from harmful UV rays. With PolarizedPlus2 lens technology, these sunglasses enhance colors and reduce glare for an excellent visual experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "3b2f3677-d949-4623-b943-aedcb72dfff8",
+            "image": null,
+            "name": "Lexus LX 570",
+            "description": "The Lexus LX 570 is a full-size luxury SUV known for its powerful performance, spacious interior, and advanced off-road capabilities, combining luxury with ruggedness for both urban and adventurous driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "086c8fac-5496-4a7f-85bf-99642a784bda",
+            "image": null,
+            "name": "Kånken Re-Kånken",
+            "description": "The Kånken Re-Kånken series by Fjällräven features environmentally friendly backpacks made from recycled materials, designed to provide durable and functional storage for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "63920ed2-7bf5-464f-88f6-3602146ff803",
+            "image": null,
+            "name": "Cougar Revenger S",
+            "description": "The Cougar Revenger S is a series of gaming accessories designed for enhanced ergonomics and performance, catering to gamers seeking precision and comfort during prolonged use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "0f9542c8-fb33-48e9-a57c-bd9d1e55aa3b",
+            "image": null,
+            "name": "Frigidaire Affinity Washing Machines",
+            "description": "The Frigidaire Affinity Washing Machines are designed to provide efficient and effective cleaning for a variety of fabrics, featuring multiple wash cycles and energy-saving technologies.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6f9183e-d3eb-4efd-9af1-00ecc99047ab",
+            "image": null,
+            "name": "Britax Römer Smile III",
+            "description": "The Britax Römer Smile III is a versatile stroller designed for comfort and ease of use, offering features such as a spacious seat, adjustable canopy, and compatibility with infant car seats for travel convenience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "d3733c26-0927-448e-bd86-e094c009d388",
+            "image": null,
+            "name": "Kawasaki ZZR1400",
+            "description": "The Kawasaki ZZR1400 is a sport motorcycle known for its powerful performance and high-speed capabilities. Launched in 2005, it combines advanced engineering with a comfortable riding experience, catering to both speed enthusiasts and long-distance riders.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "02f08494-7066-4ec8-9237-55015af48898",
+            "image": null,
+            "name": "Lexus GS 350",
+            "description": "The Lexus GS 350 is a luxury midsize sedan known for its refined driving experience, upscale features, and strong performance, making it a popular choice for those seeking both comfort and sportiness in their vehicle.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "8d88b8ba-182e-4972-8fcb-97dc6d9e353c",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-14",
+            "description": "The Kawasaki Ninja ZX-14 is a sport-touring motorcycle designed for high-performance riding, featuring a powerful engine, advanced aerodynamics, and cutting-edge technology for stability and comfort on the road.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "3dfcd729-cc1f-49e5-8d50-79f1e86e131c",
+            "image": null,
+            "name": "Maui Jim Ho'okipa",
+            "description": "The Maui Jim Ho'okipa series features stylish sunglasses designed for outdoor activities, offering high-performance lenses that enhance clarity and reduce glare.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "7d741cf1-bf3e-41cb-b631-531ceb403e79",
+            "image": null,
+            "name": "Cougar Armor Series",
+            "description": "The Cougar Armor Series is designed for gamers seeking comfort and support during long gaming sessions, featuring ergonomic designs and adjustable features for personalized seating.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "0d53b670-2040-414d-81ba-788b5eb9909d",
+            "image": null,
+            "name": "Kawasaki Ninja 1000",
+            "description": "The Kawasaki Ninja 1000 is a sport-touring motorcycle known for its powerful performance, comfortable ergonomics, and versatility, combining the excitement of sport riding with the comfort needed for long-distance travel.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "f8812f56-4ae3-4398-ac51-6950f34763fe",
+            "image": null,
+            "name": "Frigidaire Gallery Microwave",
+            "description": "The Frigidaire Gallery Microwave series offers a range of built-in and countertop microwaves designed for efficient cooking with advanced features and stylish design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2dba1222-4d28-4304-ae19-37aeeb93d192",
+            "image": null,
+            "name": "Ford Explorer (4th Generation)",
+            "description": "The Ford Explorer (4th Generation), released in 2006, is a midsize SUV designed for family transportation and versatile performance across various terrains.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "2f1edb88-b8be-494b-920a-698487b2b659",
+            "image": null,
+            "name": "Vulcan 1700 Series",
+            "description": "The Kawasaki Vulcan 1700 Series is a range of heavyweight cruisers designed for long-distance touring, offering a blend of classic styling and modern performance features.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "1d0d295a-2cfd-45b6-9e1d-2ac61fb7fcb0",
+            "image": null,
+            "name": "JVC Procision Series",
+            "description": "The JVC Procision Series is designed for car audio enthusiasts seeking high-quality sound performance and advanced features in automotive audio systems.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "3181a64b-82da-4e07-9cf7-45b02cb9a83d",
+            "image": null,
+            "name": "Graco 4Ever DLX",
+            "description": "The Graco 4Ever DLX is a versatile baby seat designed to accommodate children from infancy through the toddler years, providing safety and comfort throughout multiple stages of growth.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "54b3b42d-d35d-4608-9213-b14c9f26d368",
+            "image": null,
+            "name": "Secura 4 Liter Air Fryer",
+            "description": "The Secura 4 Liter Air Fryer is a kitchen appliance designed for healthier frying with hot air circulation, allowing users to enjoy crispy meals with less oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "90152497-8344-4382-9374-b19aab4be638",
+            "image": null,
+            "name": "Liquitex Professional Soft Body Acrylics",
+            "description": "Liquitex Professional Soft Body Acrylics are high-quality acrylic paints designed for artists seeking a smooth, fluid consistency that is ideal for a variety of techniques, including fine detail work and glazing.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "79daf07b-eecf-4f99-84db-7b59e50c40ed",
+            "image": null,
+            "name": "Keurig K-Supreme Plus SMART Brew",
+            "description": "The Keurig K-Supreme Plus SMART Brew is a single-serve coffee maker that utilizes SMART Brew technology to optimize brew settings for a personalized coffee experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Keurig"
+            }
+        },
+        {
+            "id": "94d91fa1-1009-4e4d-9bb8-ec7be343d920",
+            "image": null,
+            "name": "High Coast 2.0",
+            "description": "The Fjällräven High Coast 2.0 series features lightweight, versatile bags ideal for day hikes and everyday use, prioritizing functionality and comfort while maintaining a sleek design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "b63aa6aa-2fd8-44d7-8442-dd3656a3164f",
+            "image": null,
+            "name": "Ford Mustang Boss 302",
+            "description": "The Ford Mustang Boss 302 is a high-performance version of the iconic Mustang, designed for enthusiasts seeking a blend of power, precision handling, and classic muscle car performance. Released in 2012, it features a powerful V8 engine and an enhanced suspension for an exhilarating driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "f3100046-de27-4e10-aa1e-811d9aa07ee0",
+            "image": null,
+            "name": "Wemo Dimmer",
+            "description": "The Wemo Dimmer is a smart home device that allows users to control the brightness of their lights remotely from a smartphone or through voice commands via compatible smart assistants.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "28813b37-6be5-4ac8-a8c2-5cc78360e6b6",
+            "image": null,
+            "name": "Trust GXT 850 Wireless Gamepad",
+            "description": "The Trust GXT 850 Wireless Gamepad is a versatile controller designed for gaming enthusiasts, offering wireless connectivity and ergonomic design for extended gameplay comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Trust Gaming"
+            }
+        }
+    ]
+}

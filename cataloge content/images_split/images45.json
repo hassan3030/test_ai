@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "4595656b-c9bb-4925-84c0-0100d6cc9ec3",
+            "image": null,
+            "name": "Arai CT-Z",
+            "description": "The Arai CT-Z is a versatile open-face motorcycle helmet designed for urban riders, combining comfort and visibility with a modern aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "4c3602b1-4421-4c59-889c-af07ab1ad0ea",
+            "image": null,
+            "name": "Arai RX-7 RA",
+            "description": "The Arai RX-7 RA is a high-performance motorcycle helmet designed to provide superior protection, comfort, and aerodynamics for riders. It features advanced materials and a unique ventilation system for optimal airflow.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "51c77f6f-2b94-4b11-9fdd-e8470888aaa2",
+            "image": null,
+            "name": "Shinko 004",
+            "description": "The Shinko 004 is a motorcycle tire series designed for high-performance street and sport riding, offering enhanced grip and stability in a variety of conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "57ded9bb-892f-4c01-9391-07578a69d2c4",
+            "image": null,
+            "name": "Profile-V",
+            "description": "The Arai Profile-V is a motorcycle helmet designed for enhanced comfort and protection, featuring a shape that reduces drag and a ventilation system for optimal air circulation.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "795c5125-df1b-4967-80e7-a98a16951632",
+            "image": null,
+            "name": "Bully Dog 40410",
+            "description": "The Bully Dog 40410 is a performance tuner designed specifically for pickup trucks, enhancing engine performance and fuel efficiency.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "efc49aee-9b0b-406f-b939-8fc066786c55",
+            "image": null,
+            "name": "Škoda Superb II",
+            "description": "The Škoda Superb II is a mid-size car produced by Skoda Auto, known for its spacious interior, advanced features, and balanced performance, aimed at providing comfort for families and individuals alike.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "f318a042-0d23-4a99-b5db-68ec677616ff",
+            "image": null,
+            "name": "Škoda Octavia III",
+            "description": "The Škoda Octavia III is a compact car produced by Skoda Auto since 2013, known for its spacious interior, practicality, and reliable performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "7b736f09-9558-42ad-ab64-921759be55f9",
+            "image": null,
+            "name": "Great Wall Deer",
+            "description": "The Great Wall Deer is a series of pickup trucks produced by Great Wall Motors, designed primarily for utility and off-road capabilities, catering to both commercial and personal use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "8ff2aa37-587a-42ce-9c77-f8b327c4053d",
+            "image": null,
+            "name": "Punto (Second Generation)",
+            "description": "The Fiat Punto (Second Generation) is a compact car that was first released in 2001, known for its stylish design, practicality, and efficient use of space, making it a popular choice for urban driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "ab47b024-9780-42b7-b534-96314435e9d2",
+            "image": null,
+            "name": "Shoei RJ-Platinum R",
+            "description": "The Shoei RJ-Platinum R is a full-face motorcycle helmet designed to provide enhanced safety and comfort for riders. It features advanced aerodynamics and noise reduction technology, making it suitable for both casual and long-distance riding.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "b853ab83-2443-4c08-8b94-02a0488cbc20",
+            "image": null,
+            "name": "Great Wall Hover H5",
+            "description": "The Great Wall Hover H5 is a midsize SUV known for its affordability and rugged design, aimed at providing versatility for both urban and off-road driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "c71fb0f4-0e6a-4da5-82b3-1ee5d66a3c04",
+            "image": null,
+            "name": "Haval F5",
+            "description": "The Haval F5 is a compact SUV produced by Great Wall Motors, designed to offer a blend of style, technology, and practicality for urban driving.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "fce3cc63-e7ba-4d13-a28f-f86dcb3c2463",
+            "image": null,
+            "name": "Subaru Liberty",
+            "description": "The Subaru Liberty, also known as the Subaru Legacy in many markets, is a mid-size car designed for comfort and performance. It is characterized by its all-wheel-drive capability, spacious interior, and reliability.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fff1e8d6-6711-4f16-b650-45d394964090",
+            "image": null,
+            "name": "Fiat Grande Punto",
+            "description": "The Fiat Grande Punto is a subcompact car produced by Fiat, known for its stylish design, practicality, and efficient performance. It was designed to offer a comfortable driving experience while being well-suited for urban environments.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "c9904451-b31f-4315-ab28-a86bbd31f826",
+            "image": null,
+            "name": "Honda CR-V (Third Generation)",
+            "description": "The Honda CR-V (Third Generation) is a compact SUV that offers a balance of practicality, reliability, and efficiency, making it suitable for both urban and family use.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c52df929-4233-4920-851f-9c47fe04d260",
+            "image": null,
+            "name": "Electrolux Pure A9",
+            "description": "The Electrolux Pure A9 series is a range of cordless vacuum cleaners designed for powerful suction and versatility in cleaning various surfaces. It features a lightweight design and advanced filtration system for effective dust and allergen removal.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ca6c4a83-721d-45ea-9c84-0fc91626ab43",
+            "image": null,
+            "name": "Škoda Octavia (third generation)",
+            "description": "The Škoda Octavia (third generation) is a compact car produced by Skoda Auto, known for its practicality, spacious interior, and efficient performance. Launched in 2012, it offers a balanced combination of comfort and functionality for both urban and long-distance driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "d23f7e69-1702-4716-b15d-626803585080",
+            "image": null,
+            "name": "X-Spirit",
+            "description": "The Shoei X-Spirit series is a high-performance motorcycle helmet designed for professional and serious riders, featuring advanced aerodynamics and ventilation systems for optimal comfort and safety.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "0355c772-cd11-4cb7-88a3-8ad15868d494",
+            "image": null,
+            "name": "Great Wall Florid",
+            "description": "The Great Wall Florid is a compact car produced by Great Wall Motors, designed primarily for urban commuting with a focus on affordability and efficiency.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "0f01dd3d-fc33-49c2-bd36-ccb7ec128d58",
+            "image": null,
+            "name": "MANN-FILTER F 2015",
+            "description": "The MANN-FILTER F 2015 is a high-quality cabin air filter designed to ensure clean air circulation inside the vehicle. It effectively traps dust, pollen, and other airborne contaminants.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "1128cd68-3f1a-46cb-b629-4b9f7c44f242",
+            "image": null,
+            "name": "Arai Regent-X",
+            "description": "The Arai Regent-X is a premium motorcycle helmet designed for comfort and safety, featuring a variety of advanced ventilation systems and a customizable fit for riders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "14647ba9-eeb4-423c-b0be-4472f232cbb8",
+            "image": null,
+            "name": "Mercedes-Benz CLS (C257)",
+            "description": "The Mercedes-Benz CLS (C257) is a luxury four-door coupe known for its elegant design, high-performance engines, and advanced technology, aimed at providing a blend of style and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "17094a7d-94ff-4441-9bb1-dc555aad1c80",
+            "image": null,
+            "name": "Maruti Suzuki Swift",
+            "description": "The Maruti Suzuki Swift is a compact hatchback known for its sporty design, fuel efficiency, and practicality, making it a popular choice for urban driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "36dbb8e6-11bc-479a-9715-64fc54d94e99",
+            "image": null,
+            "name": "Wingle",
+            "description": "The Great Wall Motors Wingle is a series of pickup trucks designed for versatility and utility, offering robust performance suitable for both work and personal use.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "39920400-a44d-490a-af42-fa6473459e6d",
+            "image": null,
+            "name": "Samsung Galaxy Tab S4",
+            "description": "The Samsung Galaxy Tab S4 is a high-performance tablet designed for productivity and entertainment, featuring a sleek design and S Pen support for enhanced creativity and efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "5c67cfdb-4023-449b-a99b-d72058a6b114",
+            "image": null,
+            "name": "LG OLED C1 Series TV",
+            "description": "The LG OLED C1 Series TV is a high-performance television known for its stunning picture quality and vibrant colors, making it ideal for immersive home entertainment experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "de144cb8-ccce-45f2-aae3-7845eb4fa4f1",
+            "image": null,
+            "name": "ScorpionExo-900",
+            "description": "The ScorpionExo-900 is a series of versatile motorcycle helmets designed for comfort and safety, featuring advanced ventilation and a lightweight structure suitable for various riding conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "ScorpionExo"
+            }
+        },
+        {
+            "id": "de5cefec-ff5e-4f2f-a25e-1d29078cec00",
+            "image": null,
+            "name": "JVC KW-Z1000W",
+            "description": "The JVC KW-Z1000W is a car audio receiver that combines advanced connectivity features with enhanced sound quality for an immersive listening experience while on the road.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "65de35a0-d827-42b9-8d9f-539ef128da18",
+            "image": null,
+            "name": "VRX Series",
+            "description": "The Clarion VRX Series is a line of car audio products designed in 2003, focusing on delivering high-quality sound and versatile multimedia playback options for automotive environments.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "f2a7edd2-3417-49e1-88e5-5db538c6a307",
+            "image": null,
+            "name": "JVC Everio",
+            "description": "The JVC Everio series includes compact camcorders designed for high-quality video recording, featuring internal hard drives that allow for significant storage capacity and ease of use.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "8adc0c6c-9723-45c6-bb1a-e7e18b5b215d",
+            "image": null,
+            "name": "Atari Box",
+            "description": "The Atari Box is a gaming console designed to connect players with classic Atari games as well as new indie titles, featuring a modern interface and retro design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Atari"
+            }
+        },
+        {
+            "id": "2353c586-8d6a-4498-8abc-24821dff0107",
+            "image": null,
+            "name": "Mothers Boat Care",
+            "description": "Mothers Boat Care is a series of specialized cleaning and maintenance products designed to preserve and enhance the appearance of boats and marine equipment.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "89ae7c8c-5f3c-4881-b0c8-e235dc6f55b1",
+            "image": null,
+            "name": "Mothers CMX Ceramic Sealant",
+            "description": "Mothers CMX Ceramic Sealant is a premium car care product designed to provide a durable, high-gloss finish while protecting vehicle surfaces from environmental contaminants.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "398f4979-71ab-42c8-8baf-f39b4bde71fa",
+            "image": null,
+            "name": "Mud Guards",
+            "description": "Husky Liners Mud Guards are designed to offer exceptional protection for vehicle exteriors by preventing mud, dirt, and debris from damaging paint and finishes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "437bff38-ce8e-4bb2-b136-759bf61de499",
+            "image": null,
+            "name": "Alpina D5 Bi-Turbo",
+            "description": "The Alpina D5 Bi-Turbo is a high-performance luxury sedan designed for individuals seeking a blend of comfort and driving dynamics, featuring a powerful twin-turbocharged engine and refined styling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "7e625c56-35ae-440d-aba4-39a027776545",
+            "image": null,
+            "name": "Explorian Series",
+            "description": "The Vitamix Explorian Series includes high-performance blenders designed for versatility in creating a variety of recipes, from smoothies to soups. It features user-friendly controls and durable components to support both everyday use and culinary exploration.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "f88cac19-c708-4362-a467-1b1f19db91a9",
+            "image": null,
+            "name": "Dodo Juice Polish",
+            "description": "Dodo Juice Polish is a series of car care products designed to enhance the appearance of automotive paint through polishing and correcting imperfections.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "757d4662-8302-471a-b810-752bd7b6be57",
+            "image": null,
+            "name": "Cort Sunset Series",
+            "description": "The Cort Sunset Series is a collection of electric guitars designed for versatility and playability, offering a modern take on classic guitar styles suitable for a variety of genres.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "3533cb48-14d3-4de1-b5f1-96e5abcd0ec6",
+            "image": null,
+            "name": "Tabby",
+            "description": "The Coach Tabby series features a collection of stylish bags that blend classic design with modern aesthetics, making them ideal for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "46724f34-92c7-487d-82d4-643fc675e8ea",
+            "image": null,
+            "name": "Gionee M7 Power",
+            "description": "The Gionee M7 Power is a smartphone designed to offer a long-lasting battery life and a large display for multimedia consumption, catering to users who prioritize productivity and entertainment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "79b6f101-0ee8-436f-8f02-8c47ab0613e0",
+            "image": null,
+            "name": "XF",
+            "description": "The Jaguar XF is a luxury sedan known for its elegant design, dynamic performance, and advanced technology features, aimed at providing a refined driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fcd3dd5e-6064-4330-b039-65c9ad3285db",
+            "image": null,
+            "name": "Husky Liners WeatherBeater",
+            "description": "The Husky Liners WeatherBeater series is designed to provide superior protection for your vehicle's interior against dirt, mud, and spills. These floor liners feature a durable construction and a raised edge to contain messes, ensuring your vehicle remains clean.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "90e39667-6ae4-4534-a7c5-6697225b0fb5",
+            "image": null,
+            "name": "Mothers FX",
+            "description": "Mothers FX is a series of high-quality car care products designed to enhance the appearance and protection of vehicles. The products in this series are formulated to deliver professional results for car enthusiasts and regular users alike.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "7e7a7564-e3ac-4853-9d9c-d747b947ac67",
+            "image": null,
+            "name": "Bebecar Ip-Op",
+            "description": "The Bebecar Ip-Op series consists of versatile strollers designed for ease of use and comfort, catering to the needs of families on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bebecar"
+            }
+        },
+        {
+            "id": "7516ae60-10c9-4959-900d-3c3d96ca5633",
+            "image": null,
+            "name": "I-PACE",
+            "description": "The Jaguar I-PACE is an all-electric luxury SUV that combines performance, cutting-edge technology, and exceptional design, aimed at providing a sustainable driving experience without compromising on comfort or style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a1f370af-d397-4b62-8dbf-480c95c44f96",
+            "image": null,
+            "name": "Mothers Wheel Brush",
+            "description": "Mothers Wheel Brush series is designed specifically to clean wheels effectively, featuring durable bristles that reach into tight spaces and remove brake dust and grime effortlessly.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "2623ad06-9ee4-4265-afef-b3967a9d2889",
+            "image": null,
+            "name": "Gibson USA 2016 SG",
+            "description": "The Gibson USA 2016 SG is a solid-body electric guitar known for its lightweight design and powerful sound, making it a favorite among rock and metal musicians.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "838d6e45-3927-4162-b66d-e4679a346f4b",
+            "image": null,
+            "name": "Gibson USA 2017 Les Paul Standard",
+            "description": "The Gibson USA 2017 Les Paul Standard is an electric guitar designed for professional musicians, known for its classic tone, playability, and iconic design features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "e08ca831-d229-4159-a06a-b828f027784d",
+            "image": null,
+            "name": "Mothers Scratch Remover",
+            "description": "Mothers Scratch Remover is a car care product designed to eliminate light scratches and imperfections from automotive paint, restoring a glossy finish.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "25347e63-1d77-4b57-9970-dcf45a7e484c",
+            "image": null,
+            "name": "Husky Guard Tonneau Cover",
+            "description": "The Husky Guard Tonneau Cover is designed for pickup trucks, providing protection for the truck bed and securing cargo from the elements and theft. With its durable construction and easy installation, it is ideal for both work and leisure purposes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "87727eec-b666-4fd5-b55d-dc164b8d8cf4",
+            "image": null,
+            "name": "Mazda6 (GH)",
+            "description": "The Mazda6 (GH) is a mid-size sedan known for its sporty design, spacious interior, and engaging driving dynamics. Launched in 2007, it combines performance with practicality, catering to both family needs and individual driving enjoyment.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "52e6ade2-2c35-4e5e-8b93-15aa131e4a24",
+            "image": null,
+            "name": "Epiphone 2017 Les Paul Standard PlusTop Pro",
+            "description": "The Epiphone 2017 Les Paul Standard PlusTop Pro is a solid body electric guitar that offers classic Les Paul styling and sound, featuring a carved maple top and ProBucker pickups for versatile tonal options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "88f8c860-88aa-4047-af35-bafc7f6819d1",
+            "image": null,
+            "name": "Gibson Les Paul Standard",
+            "description": "The Gibson Les Paul Standard is a premium electric guitar known for its rich tone and sustain, making it a favored choice for musicians across various genres. Its solid body design and quality craftsmanship contribute to its iconic status in the world of music.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "ddb9062b-9b32-4406-8092-9d1040f9b391",
+            "image": null,
+            "name": "Vitamix A3500i",
+            "description": "The Vitamix A3500i is a high-performance blender designed for versatile blending tasks, featuring advanced technology and user-friendly controls for optimal results.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "3cd5ae44-8d18-416d-8ce9-a36b85a21446",
+            "image": null,
+            "name": "Dodge Challenger (2008 Generation)",
+            "description": "The Dodge Challenger (2008 Generation) is a muscle car known for its powerful performance, retro styling, and versatility, serving as a modern tribute to the classic American muscle cars of the 1970s.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "a9b158c8-e4c1-4425-9401-cad4c7e48d41",
+            "image": null,
+            "name": "Dodge Charger (2012)",
+            "description": "The Dodge Charger (2012) is a full-size sedan known for its muscular styling and powerful performance, combining practicality with a sporty driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "144eceba-87c5-4f08-a826-d75614c3f0db",
+            "image": null,
+            "name": "Chuwi Hi12",
+            "description": "The Chuwi Hi12 is a versatile tablet designed for productivity and entertainment, featuring a dual boot system with Windows and Android operating systems.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "041643a4-2b47-4fc1-a7d1-0211cb6b7b2d",
+            "image": null,
+            "name": "Mazda 2 (2022)",
+            "description": "The Mazda 2 (2022) is a compact car designed for urban driving, offering a blend of agility, efficiency, and modern styling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "fd496b3e-6d0e-4def-9fdd-bbf2e03ddce7",
+            "image": null,
+            "name": "Dodge Journey (2012)",
+            "description": "The Dodge Journey (2012) is a midsize SUV designed to provide versatility and comfort for families, featuring a spacious interior with seating for up to seven passengers and ample cargo space.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "a62310c5-d243-4d2b-9935-29d49e2c8961",
+            "image": null,
+            "name": "Cort AD Series",
+            "description": "The Cort AD Series is a line of acoustic guitars designed to provide high-quality sound and playability for musicians of all levels, featuring solid tops and premium materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        }
+    ]
+}

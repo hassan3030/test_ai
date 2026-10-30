@@ -1,0 +1,360 @@
+{
+    "data": [
+        {
+            "id": "41ac4bb1-34d8-41b8-b798-a34b8c993872",
+            "image": null,
+            "name": "LV Trainer",
+            "description": "The Louis Vuitton LV Trainer is a collection of high-end sneakers introduced in 2022, known for its sporty design combined with luxurious materials, reflecting the brand's heritage and craftsmanship.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4a6c2684-b482-4db1-986b-d4145ed38368",
+            "image": null,
+            "name": "Gucci Marmont",
+            "description": "The Gucci Marmont series features a range of stylish bags characterized by their soft, matelassé leather and iconic Double G logo. Designed for versatility, these bags can be worn casually or dressily.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "518a8b63-69fc-4b96-8ad9-571aa7c0fb58",
+            "image": null,
+            "name": "Gucci X Adidas",
+            "description": "The Gucci X Adidas sneaker series blends the luxury aesthetic of Gucci with the sporty feel of Adidas, showcasing a unique collaboration that emphasizes both style and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "54098334-6945-4507-a74b-0e689331038e",
+            "image": null,
+            "name": "Gucci 100",
+            "description": "The Gucci 100 series features a collection of premium sneakers that embody the brand's classic luxury and modern design ethos, focusing on comfort and style.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "594b66c5-26e8-4c50-bb67-4b0b7e3928ea",
+            "image": null,
+            "name": "Gucci Sylvie",
+            "description": "The Gucci Sylvie series features a collection of luxurious handbags characterized by their refined design, high-quality materials, and signature web stripe. Launched in 2018, these bags combine elegance with functionality, making them suitable for various occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "da7dd2c7-247e-4434-aa57-c13b145d67f7",
+            "image": null,
+            "name": "Futurecraft Loop",
+            "description": "The Adidas Futurecraft Loop is an innovative sneaker designed with a focus on circularity and sustainability, featuring a fully recyclable construction to reduce environmental impact.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "db026156-ed86-4b24-98b3-54389278757d",
+            "image": null,
+            "name": "Adidas AlphaBounce",
+            "description": "The Adidas AlphaBounce is a series of running sneakers known for their comfortable fit and responsive cushioning, designed to support various types of athletic activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "63936e14-ebd8-447a-be5e-da5e40d457b8",
+            "image": null,
+            "name": "Gucci Men's Spring/Summer 2023 Collection",
+            "description": "The Gucci Men's Spring/Summer 2023 Collection showcases a blend of contemporary styles and classic Italian craftsmanship, intended to define modern masculinity through innovative designs and vibrant colors.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "757e2519-fc2b-49ef-bffe-6c79a831c9c8",
+            "image": null,
+            "name": "Gucci Women's Spring/Summer 2023 Collection",
+            "description": "The Gucci Women's Spring/Summer 2023 Collection features a range of elegant and contemporary clothing designed for modern women, showcasing the brand's signature style and craftsmanship.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e54cc8ed-c6ec-4f29-9d7f-23b39ebd47f5",
+            "image": null,
+            "name": "Primeblue",
+            "description": "The Adidas Primeblue series is a collection of men's clothing made from advanced, high-performance fabrics that include recycled materials. It embodies a commitment to sustainable practices while delivering comfort and functionality for various sports activities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "eef60203-33cf-4ba4-a11e-6784f24a7eea",
+            "image": null,
+            "name": "Adidas Ozweego",
+            "description": "The Adidas Ozweego is a retro-inspired sneaker series that combines a distinct 1990s aesthetic with modern cushioning technology, providing both style and comfort for everyday wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "7c8e09dc-16c3-45e9-9014-8371ed9dce57",
+            "image": null,
+            "name": "Prada Galleria",
+            "description": "The Prada Galleria series is a collection of luxury bags characterized by their sophisticated design, high-quality materials, and practical functionality, ideal for both everyday use and special occasions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f7920c07-5948-43de-bb2a-660836ccefe4",
+            "image": null,
+            "name": "Gucci X Adidas Sneakers",
+            "description": "The Gucci X Adidas Sneakers are a collaborative footwear series that blends the luxury aesthetic of Gucci with the sporty functionality of Adidas, reflecting a fusion of high fashion and athletic design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7d2b4a40-c1cb-420d-9cd6-6394643419a3",
+            "image": null,
+            "name": "Alphaedge 4D",
+            "description": "The Adidas Alphaedge 4D is a cutting-edge sneaker series featuring a 4D-printed midsole designed for superior comfort and responsiveness, aimed at runners and athletes seeking performance and innovation.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "ecbc9110-d912-4c55-9ba3-769a717106b5",
+            "image": null,
+            "name": "Kindle Oasis (9th Generation)",
+            "description": "The Kindle Oasis (9th Generation) is a high-end e-reader designed for a premium reading experience, featuring a high-resolution display and an ergonomic design for comfortable use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "835638a7-a2af-4ef2-a65a-9a675281289e",
+            "image": null,
+            "name": "Chanel Eyewear 2021 Collection",
+            "description": "The Chanel Eyewear 2021 Collection features a range of stylish sunglasses designed to combine fashion with functionality, offering UV protection and high-quality materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9f0f573f-b312-47fb-b01f-651bc37639d9",
+            "image": null,
+            "name": "PUMA x Ader Error",
+            "description": "The PUMA x Ader Error series features a collaboration between the sportswear brand Puma and the South Korean design label Ader Error, focusing on innovative, streetwear-inspired sneakers that blend contemporary aesthetics with sporty functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "04fe770e-38e4-4360-ac17-c5ca378dc419",
+            "image": null,
+            "name": "Forum",
+            "description": "The Adidas Forum is a classic sneaker series that combines retro basketball aesthetics with modern comfort and style, making it suitable for casual wear and street fashion.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "12d7ce71-f893-4315-af8a-be85749b98e5",
+            "image": null,
+            "name": "Adidas NMD",
+            "description": "The Adidas NMD is a series of sneakers that combines lifestyle and performance elements, featuring innovative cushioning and contemporary design for urban wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "3dc38937-a01e-4da9-9aa3-03115accfde0",
+            "image": null,
+            "name": "Kelsey",
+            "description": "The Kelsey series by Crate & Barrel features modern chairs designed for comfort and style, making them suitable for a variety of living spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4954538b-9690-48f9-9b80-020dc697e600",
+            "image": null,
+            "name": "Chanel 2021 Spring-Summer Collection",
+            "description": "The Chanel 2021 Spring-Summer Collection features a range of women's clothing that embodies the brand's signature elegance and timeless style, showcasing vibrant colors and innovative designs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a2d00705-a2dd-49cd-8b21-a19fa745df4a",
+            "image": null,
+            "name": "Ultraboost 20",
+            "description": "The Adidas Ultraboost 20 is a high-performance running sneaker designed for comfort and energy return, featuring a responsive Boost cushioning and a Primeknit upper for a snug fit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "ba5fc11a-1711-48cc-805d-afc6798724e1",
+            "image": null,
+            "name": "Gucci GG Running",
+            "description": "The Gucci GG Running series features a range of accessories characterized by the iconic GG logo, combining elegance with a casual aesthetic.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ca1d2d0e-a096-492f-9a26-900a5c05da5a",
+            "image": null,
+            "name": "Puma Creeper",
+            "description": "The Puma Creeper is a line of sneakers that features a distinctive platform sole and is designed in collaboration with the artist Rihanna, combining style and comfort for a fashionable streetwear look.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "cd02a58b-baf3-4c02-8898-37609d45c688",
+            "image": null,
+            "name": "Chanel Fall/Winter 2020 Ready-to-Wear",
+            "description": "The Chanel Fall/Winter 2020 Ready-to-Wear collection showcases classic silhouettes infused with modern elements, reflecting the house's commitment to timeless elegance and innovation in women's fashion.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d02bb22a-e554-4524-94a7-a41d4dbc7f80",
+            "image": null,
+            "name": "NMD S1",
+            "description": "The Adidas NMD S1 is a modern sneaker that combines street-style aesthetics with advanced comfort technology, designed for both performance and everyday wear.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "d2436971-08c1-47cd-bc2e-acfb4a15935f",
+            "image": null,
+            "name": "Adidas 4D",
+            "description": "The Adidas 4D series features innovative footwear that incorporates 3D printing technology to create a uniquely cushioned midsole, designed to provide exceptional support and comfort for various athletic activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "dcf59df1-be61-48f4-87c6-a72aecfa2801",
+            "image": null,
+            "name": "Balenciaga Track",
+            "description": "The Balenciaga Track series is a line of sneakers known for its bold design and innovative construction, combining athletic performance with high-fashion aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e318eb2a-bd52-481b-a40d-76330fcd4f29",
+            "image": null,
+            "name": "Anderson",
+            "description": "The La-Z-Boy Anderson series is a collection of sofas designed for comfort and style, featuring a contemporary design that fits seamlessly into a variety of living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6bae1266-c477-418d-9823-1c1b52f146d0",
+            "image": null,
+            "name": "Arena Sneakers",
+            "description": "The Balenciaga Arena Sneakers are a stylish and contemporary footwear option known for their distinctive design and high-quality materials, combining comfort with urban aesthetics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        }
+    ]
+}

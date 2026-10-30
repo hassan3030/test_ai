@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "4140b975-3295-4b96-a629-aa22e8bee720",
+            "image": null,
+            "name": "Riley",
+            "description": "The Calligaris Riley series features a modern collection of sofas designed to provide both comfort and style, suitable for various interior settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "53ec5610-96f6-4d09-8df5-bacbf92d1dab",
+            "image": null,
+            "name": "Lava Iris 50",
+            "description": "The Lava Iris 50 is a budget smartphone released in 2016, designed to offer essential smartphone features and functionality at an affordable price.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "bdd01a79-ec26-49d5-b0f3-c0312d74e960",
+            "image": null,
+            "name": "Mi Router Pro",
+            "description": "The Xiaomi Mi Router Pro is a smart home device designed to provide reliable wireless connectivity and enhanced network performance, suitable for various smart devices in a home environment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "bdd286e6-d319-4aeb-ab3f-32942c48e1b4",
+            "image": null,
+            "name": "Maruti Suzuki XL6",
+            "description": "The Maruti Suzuki XL6 is a multi-purpose vehicle (MPV) designed for families, providing flexible seating arrangements and a focus on comfort and style. Launched in 2020, it combines the spaciousness of an SUV with the practicality of a family car.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "bed7c500-77c9-4088-bc0c-e5ee914eee06",
+            "image": null,
+            "name": "Infiniti G35",
+            "description": "The Infiniti G35 is a luxury sports sedan that combines performance and elegance, featuring a rear-wheel-drive layout and a powerful V6 engine.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "bc46a174-6667-46b5-8e1e-e91169d1fe73",
+            "image": null,
+            "name": "Dawlance 6030",
+            "description": "The Dawlance 6030 series includes top-loading washing machines designed for efficient laundry care, featuring various wash programs and energy-saving technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "e9b28c12-876b-4636-a9cc-945150bfaba6",
+            "image": null,
+            "name": "AORUS 5",
+            "description": "The Gigabyte AORUS 5 is a gaming PC series designed for high-performance gaming with advanced thermal management and powerful graphics capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "f09dbcba-f96f-4c8e-9f95-34afad2131bc",
+            "image": null,
+            "name": "AORUS 7",
+            "description": "The AORUS 7 series from Gigabyte specializes in high-performance gaming PCs designed for immersive gameplay and demanding applications, featuring advanced cooling solutions and powerful hardware.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "d22851a6-c4a5-4a40-9a19-7b46d6d3426c",
+            "image": null,
+            "name": "Nest Hub (2nd Gen)",
+            "description": "The Google Nest Hub (2nd Gen) is a smart home display that integrates a touchscreen interface with Google Assistant, allowing users to control compatible smart devices, check the weather, view photos, and access information hands-free.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "6754aed5-0f42-41c7-b20f-ee46f5d635f1",
+            "image": null,
+            "name": "Pixel 6a",
+            "description": "The Google Pixel 6a is a smartphone released in 2022, designed to deliver high-quality performance and smart features, making it suitable for everyday tasks and advanced usage.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "5c70d338-951a-4b86-a941-61c62031cc5c",
+            "image": null,
+            "name": "Formovie Theatre",
+            "description": "The Formovie Theatre series is a line of projectors designed to deliver high-quality cinematic experiences in home settings. These projectors prioritize ease of use and versatility for users looking to enhance their viewing environment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "738cc46a-3676-4221-94f4-cb6ea853539c",
+            "image": null,
+            "name": "Pebble Core",
+            "description": "The Pebble Core is a compact smart device designed for fitness tracking and music playback, allowing users to enjoy a hands-free running experience while staying connected to their digital life.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Pebble"
+            }
+        },
+        {
+            "id": "f0f9eb0d-3f22-4ed2-b849-36c1be0a4105",
+            "image": null,
+            "name": "Colmi P12",
+            "description": "The Colmi P12 is a smart watch designed to assist users in tracking fitness activities and health metrics while providing essential notification features for connected smartphones.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "2d863810-7b5c-4be4-a75e-642ca091851c",
+            "image": null,
+            "name": "Fossil Q Smartwatches",
+            "description": "The Fossil Q Smartwatches are a series of hybrid smartwatches that combine traditional watch design with smart technology, enabling users to track fitness data and receive notifications while maintaining a classic appearance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "315a6d4e-cd3d-4d11-b753-7e3201cdaa18",
+            "image": null,
+            "name": "Netatmo Smart Indoor Air Quality Sensor",
+            "description": "The Netatmo Smart Indoor Air Quality Sensor monitors the air quality in your home by measuring factors such as temperature, humidity, CO2 levels, and noise. It provides real-time feedback to help you create a healthier indoor environment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "6c1eb319-7de0-4730-95de-5e35f3f41030",
+            "image": null,
+            "name": "Netatmo Smart Outdoor Camera",
+            "description": "The Netatmo Smart Outdoor Camera is a weatherproof security camera designed for outdoor use, featuring advanced motion detection and two-way audio for real-time communication.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "84553140-336b-4a8b-98d6-023fda7f7c9d",
+            "image": null,
+            "name": "Netatmo Smart Indoor Air Quality Monitor",
+            "description": "The Netatmo Smart Indoor Air Quality Monitor is a device designed to track and provide real-time information about indoor air quality, monitoring factors such as temperature, humidity, and pollutant levels to enhance health and comfort in living spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "ecac2f0d-e51f-4d9e-b5b7-2156a8907b0c",
+            "image": null,
+            "name": "Netatmo Smart Outdoor Camera with Floodlight",
+            "description": "The Netatmo Smart Outdoor Camera with Floodlight is a security camera designed to monitor outdoor spaces, equipped with intelligent features such as person detection and a built-in floodlight for enhanced visibility at night.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "6ed36c00-fcc4-4b4c-9520-c6e4967fd72b",
+            "image": null,
+            "name": "Wemo Smart Light Switch",
+            "description": "The Wemo Smart Light Switch allows you to control your home lighting through your smartphone or voice assistant, enabling convenient scheduling and automation for energy efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "074e1e0d-163c-480f-9e6a-fd444f9330df",
+            "image": null,
+            "name": "Longchamp x Jeremy Scott",
+            "description": "The Longchamp x Jeremy Scott series features a unique collaboration that combines the craftsmanship of Longchamp with the bold, playful designs of Jeremy Scott, creating functional bags that make a statement.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "4429f914-f154-46c7-80a4-ae7b0f363737",
+            "image": null,
+            "name": "Le Pliage Green",
+            "description": "The Longchamp Le Pliage Green series features eco-friendly bags made from recycled materials, emphasizing sustainability without compromising on style or functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "9c2e110c-b6ec-435e-a39d-2f8a377e87cd",
+            "image": null,
+            "name": "Osprey Arcane Series",
+            "description": "The Osprey Arcane Series consists of durable, eco-friendly bags designed for urban adventures and everyday use. Each bag features a minimalist aesthetic combined with practical functionality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Osprey"
+            }
+        },
+        {
+            "id": "48b93b12-41c2-4594-9023-c8993c8b72b0",
+            "image": null,
+            "name": "Osprey Farpoint 2023",
+            "description": "The Osprey Farpoint 2023 is a versatile travel backpack designed for global adventurers, featuring a spacious main compartment and multiple organization pockets to keep your gear easily accessible.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Osprey"
+            }
+        },
+        {
+            "id": "572c117f-2c39-4e10-8b90-7c993139e4f3",
+            "image": null,
+            "name": "Osprey Talon 2023",
+            "description": "The Osprey Talon 2023 series is designed for versatile day hikes and outdoor adventures, featuring a lightweight build and efficient organization for gear.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Osprey"
+            }
+        },
+        {
+            "id": "3ee51201-f2d4-4717-94b0-5b7a3a71bb2c",
+            "image": null,
+            "name": "Just Dance 2017",
+            "description": "Just Dance 2017 is a rhythm game developed by Ubisoft that allows players to dance to popular music tracks using motion controls, making it a fun and interactive experience for players of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4a1be8dd-38a0-4191-8271-8992759861dc",
+            "image": null,
+            "name": "Nintendo Switch OLED Model - The Legend of Zelda: Tears of the Kingdom Edition",
+            "description": "The Nintendo Switch OLED Model - The Legend of Zelda: Tears of the Kingdom Edition is a specially designed handheld console that features a vibrant OLED screen, enhanced audio, and unique artwork inspired by the popular video game series.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "60e200d7-a432-4050-a945-7a18b375465f",
+            "image": null,
+            "name": "Whirlpool Front Load Washer",
+            "description": "The Whirlpool Front Load Washer series offers efficient washing solutions designed to save water and energy while providing a thorough and gentle clean for a wide variety of fabrics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "dcd636b7-aeef-46b0-804e-bd48bfefafbe",
+            "image": null,
+            "name": "Razer Viper Ultimate",
+            "description": "The Razer Viper Ultimate is a high-performance wireless gaming mouse designed for pro gamers, featuring advanced optical sensors and Razer HyperSpeed wireless technology for ultra-fast response times and precision.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "edd1d017-4a7a-4889-953a-e4b5e5e5206d",
+            "image": null,
+            "name": "VALORANT",
+            "description": "VALORANT is a tactical first-person shooter developed by Riot Games, featuring strategic gameplay and character-based abilities that enhance the competitive experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3e32f9cf-47d8-40a8-a657-c313c48aad17",
+            "image": null,
+            "name": "Titan",
+            "description": "The Secretlab Titan series is a high-quality gaming chair designed for comfort and support during long gaming sessions, featuring adjustable components to fit various body types.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        }
+    ]
+}

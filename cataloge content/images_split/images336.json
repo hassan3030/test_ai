@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "28bf9cf9-831f-49eb-84bb-72775a9efa2f",
+            "image": null,
+            "name": "Clarion DXZ",
+            "description": "The Clarion DXZ series is a line of car audio receivers designed to enhance the in-car listening experience with advanced features like MP3 playback and customizable sound settings.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "d1d50b1d-23ec-43a3-a322-139ec6bc8acb",
+            "image": null,
+            "name": "2016 Harley-Davidson Dyna Low Rider S",
+            "description": "The 2016 Harley-Davidson Dyna Low Rider S is a cruiser motorcycle that combines a classic design with modern performance features, making it suitable for both touring and everyday riding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "a04c4dc4-998b-48d0-a87d-f3b080cc1e69",
+            "image": null,
+            "name": "Galaxy Z Fold3",
+            "description": "The Samsung Galaxy Z Fold3 is a foldable smartphone that features a large, flexible display, allowing users to experience multi-tasking and immersive usability in a compact form factor.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "d8fec8b0-4ac1-4c9b-9ca7-6a6112dc7e6b",
+            "image": null,
+            "name": "Clarion VRX",
+            "description": "The Clarion VRX series is designed for car audio systems, offering drivers high-quality sound and multimedia features with a focus on usability and connectivity.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "7fbcf0d2-de50-498b-8c44-41e65da76710",
+            "image": null,
+            "name": "2016 Harley-Davidson Softail Slim S",
+            "description": "The 2016 Harley-Davidson Softail Slim S is a classic cruiser motorcycle that combines retro styling with modern performance, designed for riders seeking a blend of style and power.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "66cdb07b-5343-488c-94db-fd8f6cacf669",
+            "image": null,
+            "name": "Clarion MCD",
+            "description": "The Clarion MCD series is a line of car audio products released in 2005, designed to provide high-quality sound and enhance the in-car listening experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "30a6f035-bf7b-426b-b208-628a8dec408a",
+            "image": null,
+            "name": "2016 Harley-Davidson Sportster 883 Iron",
+            "description": "The 2016 Harley-Davidson Sportster 883 Iron is a lightweight cruiser motorcycle known for its minimalist design and agile handling, making it ideal for urban riding and personal customization.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "2e80127a-f296-4803-9129-c525123a0ca9",
+            "image": null,
+            "name": "2016 Harley-Davidson Road Glide Special",
+            "description": "The 2016 Harley-Davidson Road Glide Special is a touring motorcycle known for its iconic design, comfortable ride, and advanced electronics, making it ideal for long-distance travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "b61b7650-aec2-4a17-a2a2-5d8c190eaaee",
+            "image": null,
+            "name": "Clarion DB355MP",
+            "description": "The Clarion DB355MP is a car audio receiver designed to provide high-quality sound and versatile playback options, making it suitable for multimedia integration in vehicles.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "ac3e78ff-c3ed-495f-b0da-2bc0d699ff70",
+            "image": null,
+            "name": "Behringer XENYX Analog Mixers",
+            "description": "The Behringer XENYX Analog Mixers are versatile audio mixing consoles designed for live sound and studio recording applications, featuring high-quality preamps and an array of connectivity options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Behringer"
+            }
+        },
+        {
+            "id": "ea0cb6a2-692e-4a8d-9c75-5965093c2355",
+            "image": null,
+            "name": "Clarion VZ709",
+            "description": "The Clarion VZ709 is a car audio receiver designed to deliver high-quality sound and multimedia capabilities, including DVD playback and advanced connectivity options.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "8b6ac4d1-71e3-41e5-9dc8-eeb3ce30c5e1",
+            "image": null,
+            "name": "Fenix 7 Series",
+            "description": "The Garmin Fenix 7 Series is a collection of premium smartwatches designed for outdoor enthusiasts and athletes, featuring advanced GPS navigation, health monitoring, and fitness tracking capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "cdbea1b3-2b71-4e8f-913f-7a6fa59868fc",
+            "image": null,
+            "name": "2016 Harley-Davidson Street Rod",
+            "description": "The 2016 Harley-Davidson Street Rod is a performance-oriented motorcycle designed for urban riding, featuring a powerful engine, agile handling, and a sleek design that combines classic Harley styling with modern aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "8dfaf3bb-831d-486e-b402-4214bc08e1c1",
+            "image": null,
+            "name": "Behringer UMC Series",
+            "description": "The Behringer UMC Series is a range of high-performance audio interfaces designed for musicians and audio engineers, offering reliable connectivity and professional-grade audio quality for recording and playback.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Behringer"
+            }
+        },
+        {
+            "id": "287ea3f0-5ef1-4a47-bbd4-70db1d192d0d",
+            "image": null,
+            "name": "Clarion CZ202",
+            "description": "The Clarion CZ202 is a car audio receiver designed to enhance in-car entertainment with features such as AM/FM radio, CD playback, and auxiliary inputs.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "16d7a7e3-263b-4fbb-bbec-21919cdc916c",
+            "image": null,
+            "name": "Epix (Gen 2)",
+            "description": "Garmin's Epix (Gen 2) is a premium smart watch designed for outdoor enthusiasts, featuring advanced GPS capabilities, health monitoring, and robust fitness tracking.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "b90fe7ef-a82f-4f70-b23f-b18bc5edebe1",
+            "image": null,
+            "name": "Clarion APX1000",
+            "description": "The Clarion APX1000 series is a car audio amplifier designed to enhance the sound quality in vehicles, offering powerful performance and reliable performance for audiophiles.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "a1790aba-9bce-46d9-bccc-0b468ff5f2cf",
+            "image": null,
+            "name": "Milwaukee-Eight",
+            "description": "The Harley-Davidson Milwaukee-Eight series is a line of powerful touring and cruiser motorcycles, equipped with a refined engine that balances performance and comfort for riders seeking an enhanced long-distance riding experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "f4165ebf-c5ad-4634-9d15-54e3e32e99ae",
+            "image": null,
+            "name": "Fat Bob",
+            "description": "The Harley-Davidson Fat Bob is a cruiser motorcycle known for its muscular design, powerful engine, and enhanced handling, making it ideal for riders seeking performance and comfort on the road.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "5e068649-7ec8-41e8-8f30-66395b08f79a",
+            "image": null,
+            "name": "Livewire",
+            "description": "The Harley-Davidson Livewire is the company's first electric motorcycle, aimed at providing a high-performance riding experience with zero emissions and advanced technology features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "5a694bb7-7a50-472b-abfd-7278c52b9aa0",
+            "image": null,
+            "name": "Forty-Eight Special",
+            "description": "The Harley-Davidson Forty-Eight Special is a classic motorcycle that combines vintage style with modern performance, featuring a solo seat, muscular stance, and the iconic 1200cc Evolution engine, ideal for urban riding and cruising.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "670c221e-3342-46c3-aded-ca6e00f795d8",
+            "image": null,
+            "name": "Instinct 2 Series",
+            "description": "The Garmin Instinct 2 Series is a robust line of GPS smartwatches designed for outdoor enthusiasts, featuring durable construction, advanced fitness tracking, and a variety of sport modes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "2ac18397-4d4f-4624-8252-98ff8ac40610",
+            "image": null,
+            "name": "Street Rod",
+            "description": "The Harley-Davidson Street Rod is a compact motorcycle designed for urban riding, featuring a sportier attitude and agile handling. It combines the brand's iconic styling with modern performance to cater to riders seeking a dynamic city experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "b04e6166-478d-40ae-88d8-eec0d5808be8",
+            "image": null,
+            "name": "Road Glide Special",
+            "description": "The Harley-Davidson Road Glide Special is a touring motorcycle designed for long-distance rides, featuring a distinctive shark nose fairing and advanced technology for a comfortable and powerful cruising experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "ddb4e528-4b3d-4af4-af28-deb554e6660b",
+            "image": null,
+            "name": "Street Glide Special",
+            "description": "The Harley-Davidson Street Glide Special is a premium touring motorcycle designed for long-distance rides, offering advanced technology, a comfortable seating position, and striking style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "9d57d563-4cc5-41d9-b6cf-19740cd82617",
+            "image": null,
+            "name": "Intel Pentium",
+            "description": "The Intel Pentium series is a line of budget-friendly processors designed for everyday computing tasks, offering a balance of performance and efficiency for users seeking reliable performance in entry-level systems.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "dff72ffe-e275-49f4-a075-77ea3137b184",
+            "image": null,
+            "name": "Nightster 975",
+            "description": "The Harley-Davidson Nightster 975 is a modern motorcycle that combines classic styling with contemporary performance, designed for riders seeking a versatile and agile riding experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "f43f8bae-3cce-4246-bb3c-534ad560d173",
+            "image": null,
+            "name": "Intel Atom E3900",
+            "description": "The Intel Atom E3900 series is a family of system-on-chip (SoC) processors designed primarily for embedded applications, providing low power consumption and integrated graphics capabilities for various industries.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "97fe11b1-e022-4647-88bf-f94fc37c1851",
+            "image": null,
+            "name": "Street Glide ST",
+            "description": "The Harley-Davidson Street Glide ST is a touring motorcycle designed for long-distance rides and equipped with performance upgrades for enhanced power and handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "1d9e9373-aa91-4eca-89e3-ac14df8f99a1",
+            "image": null,
+            "name": "Intel Core i9",
+            "description": "The Intel Core i9 series is a high-performance line of processors designed for enthusiasts and professionals. It offers advanced multi-core technology to handle demanding tasks such as gaming, content creation, and data processing.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        }
+    ]
+}

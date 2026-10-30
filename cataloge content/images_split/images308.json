@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1a001335-3418-427c-94bc-e6782a436ae3",
+            "image": null,
+            "name": "Billybandit Spring/Summer 2016 Collection",
+            "description": "The Billybandit Spring/Summer 2016 Collection offers a range of stylish and comfortable clothing for children, designed to capture the playful spirit of youth while ensuring quality and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Billybandit"
+            }
+        },
+        {
+            "id": "d30c489d-d893-4fe3-aa69-1ceee1b6821a",
+            "image": null,
+            "name": "Sector 9 Skateboards",
+            "description": "The Sector 9 Skateboards series is designed for skateboarding enthusiasts, featuring durable and high-quality materials that enhance performance and stability for various riding styles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "d4b94354-cfd2-4b20-9f26-aa1ec29ed828",
+            "image": null,
+            "name": "Kia Sportage (Second Generation)",
+            "description": "The Kia Sportage (Second Generation) is a compact SUV that was first introduced in 2000, known for its practicality, affordability, and versatility in urban and suburban driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "1ea21f5e-a4b6-4ea9-b1c6-cf09c32006f4",
+            "image": null,
+            "name": "Kia Borrego",
+            "description": "The Kia Borrego is a mid-size SUV that provides a spacious interior, a strong towing capacity, and advanced safety features, aimed at families and adventure seekers.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "350db5c0-813e-4d00-aff7-dca9552eb397",
+            "image": null,
+            "name": "Haval H8",
+            "description": "The Haval H8 is a mid-size SUV produced by Great Wall Motors, designed to offer a balance of comfort and off-road capability, targeting both urban and adventurous drivers.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "5b9054a6-c99f-4d63-beb1-cc4cc6ffd3f8",
+            "image": null,
+            "name": "Vertbaudet Kids Clothes",
+            "description": "Vertbaudet Kids Clothes offers a range of stylish and comfortable clothing designed specifically for children, combining functionality and playful aesthetics for everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "60305833-c839-4901-8b6b-520846d2c407",
+            "image": null,
+            "name": "Pyjama Collection",
+            "description": "The Petit Bateau Pyjama Collection offers comfortable and cozy sleepwear for children, designed with soft fabrics and playful patterns to ensure a good night's sleep.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "52a8ae80-f401-420b-b601-8ac25728ef8a",
+            "image": null,
+            "name": "Kia Soul (New Generation)",
+            "description": "The Kia Soul (New Generation) is a compact crossover with a distinctive design that offers versatility and practicality. It is designed to provide spacious interior comfort and advanced technology features for urban driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "d0e5304a-961e-4ca8-b620-f38575e42518",
+            "image": null,
+            "name": "Whirlpool 6th Sense",
+            "description": "The Whirlpool 6th Sense series of refrigerators features advanced sensing technology that helps maintain optimal food freshness and energy efficiency, making it a practical choice for everyday storage needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "5e08cee3-a512-4587-9c85-5ff6f8015110",
+            "image": null,
+            "name": "Haval M4",
+            "description": "The Haval M4 is a compact SUV produced by Great Wall Motors, designed for urban mobility while providing versatility and practicality for everyday use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "6151ee02-f002-406f-ac39-7829cde933d3",
+            "image": null,
+            "name": "Vertbaudet Kids Collection",
+            "description": "The Vertbaudet Kids Collection offers a range of stylish and functional clothing designed specifically for children, focusing on comfort and durability while appealing to their sense of style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "0358d77d-908a-4605-b763-807a245af600",
+            "image": null,
+            "name": "Lenovo Legion Pro 5i",
+            "description": "The Lenovo Legion Pro 5i is a high-performance gaming laptop designed to deliver powerful processing and graphics capabilities for an immersive gaming experience and efficient multitasking.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "4a07e2fc-bc62-4f60-959c-38788582f6aa",
+            "image": null,
+            "name": "Omen 17 (2022)",
+            "description": "The Omen 17 (2022) is a high-performance gaming laptop designed for immersive gameplay and efficient multitasking, featuring powerful components and advanced cooling solutions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "c6a769ed-c755-4129-9a0d-5f76f61f6d46",
+            "image": null,
+            "name": "Bissell CrossWave",
+            "description": "The Bissell CrossWave is a versatile cleaning appliance designed to vacuum and wash floors simultaneously, making it suitable for different surface types including hard floors and area rugs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "2e115bba-d23f-4d7a-8f85-eb1813937c36",
+            "image": null,
+            "name": "Aprilia RSV4 RF",
+            "description": "The Aprilia RSV4 RF is a high-performance sport motorcycle designed for both track and street use. It features advanced electronics and a powerful V4 engine, providing an exhilarating riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "b4b01129-3692-4259-afa5-cb1b7486adaf",
+            "image": null,
+            "name": "Omen 16 (2023)",
+            "description": "The Omen 16 (2023) is a gaming laptop designed for high performance, featuring advanced graphics and processing capabilities suitable for demanding gaming applications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "a4bdc5cf-c50b-44f3-bf71-01ee68a7d9e3",
+            "image": null,
+            "name": "Companion",
+            "description": "The Moulinex Companion series consists of versatile kitchen blenders designed to facilitate meal preparation, blending, and mixing for home cooks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "79289d3a-6670-4990-8ec0-3a77733431be",
+            "image": null,
+            "name": "LEGO Fantastic Beasts",
+            "description": "The LEGO Fantastic Beasts series features building sets based on the magical world of J.K. Rowling's Wizarding World, allowing fans to create and explore the environments and creatures from the films.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "340c0549-a764-4a0b-9c97-547b64132e1b",
+            "image": null,
+            "name": "Baker Pro Series",
+            "description": "The Baker Pro Series is a line of skateboards designed for professional skaters, featuring durable construction and high-performance graphics suitable for both street and park skating.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "86424c25-e8d1-444c-9e99-aeca8fe180a1",
+            "image": null,
+            "name": "Mickey & Friends",
+            "description": "The Mickey & Friends series by Hachette Kids features beloved Disney characters in engaging storybooks designed to entertain and educate young readers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Hachette Kids"
+            }
+        },
+        {
+            "id": "86890508-437f-4bff-b7ab-4de6a0ddbaed",
+            "image": null,
+            "name": "Baker Skateboards Pro Model Series",
+            "description": "The Baker Skateboards Pro Model Series features professional-grade skateboards designed for performance and durability, catering to the needs of advanced skaters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "60559f50-d5e6-4d54-a91b-e6a23f868738",
+            "image": null,
+            "name": "Baker 2022 Pro Model Series",
+            "description": "The Baker 2022 Pro Model Series features high-quality skateboards designed for professional skaters, emphasizing durability and performance in skateparks and street environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "632477a5-91b2-4e3e-8887-00614e6f3b80",
+            "image": null,
+            "name": "Chromecast with Google TV",
+            "description": "The Chromecast with Google TV is a streaming media player that allows users to access various streaming services and content on their television, featuring an interface powered by Google TV for personalized recommendations and easy navigation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "60a346b2-4ee2-4e43-8726-f51720e2e746",
+            "image": null,
+            "name": "LEGO 21315 Pop-Up Book",
+            "description": "The LEGO 21315 Pop-Up Book is a creative building set that allows users to construct a charming pop-up book featuring iconic fairy tales, fostering imaginative play and storytelling.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "d98ba268-1180-4633-8782-192ab7f45911",
+            "image": null,
+            "name": "Kiki & Coco in Paris",
+            "description": "Kiki & Coco in Paris is a delightful children's book series that explores friendship and adventure through the eyes of two charming characters as they navigate the sights and culture of Paris.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Candlewick Press"
+            }
+        },
+        {
+            "id": "bae58d30-dca6-4f48-b525-5fb4bc09ce25",
+            "image": null,
+            "name": "Frugi Organic Cotton Gift Sets",
+            "description": "Frugi Organic Cotton Gift Sets offer sustainably produced clothing for children, crafted from soft organic cotton, designed to be both comfortable and environmentally friendly.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "8bfea588-ed81-4559-a725-4a9638a05faa",
+            "image": null,
+            "name": "Great Wall Coolbear",
+            "description": "The Great Wall Coolbear is a compact car released in 2009 by Great Wall Motors, designed primarily for urban commuting with a focus on affordability and practicality.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "7df983a6-b240-4234-bbad-ee085644008f",
+            "image": null,
+            "name": "Whirlpool Top Load Washing Machine",
+            "description": "The Whirlpool Top Load Washing Machine series offers reliable performance and efficient cleaning for everyday laundry needs, designed for ease of use with various wash settings and a user-friendly interface.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "c29e8dbe-5e4e-42b0-966a-640ba7d092ff",
+            "image": null,
+            "name": "The Bamboo Longboard",
+            "description": "The Bamboo Longboard series by Sector 9 is designed for cruising and carving, featuring a lightweight and eco-friendly bamboo construction that provides flexibility and durability for a smooth ride.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "bfc69afe-5131-4a77-a3a4-a4a91efb220e",
+            "image": null,
+            "name": "Lenovo Legion 5i (2023)",
+            "description": "The Lenovo Legion 5i (2023) is a gaming laptop designed for high performance and immersive experiences, equipped with advanced cooling technology and robust hardware to support demanding games and multitasking.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        }
+    ]
+}

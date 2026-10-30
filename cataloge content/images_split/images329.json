@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "35ea091e-ab84-4020-87aa-8d2595cb870b",
+            "image": null,
+            "name": "Enjoi Skateboard Decks",
+            "description": "The Enjoi Skateboard Decks series offers a range of high-quality skateboard decks designed for durability and performance, catering to skaters of all levels.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "aa4a977b-fa0a-4b0e-bcd8-efdfd69469d3",
+            "image": null,
+            "name": "Fiat Punto Mk2b",
+            "description": "The Fiat Punto Mk2b is a compact hatchback that showcases practicality and efficient performance, designed primarily for urban driving with a focus on fuel economy and maneuverability.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "a298e10d-fd5d-4e35-8174-6bc457991e2d",
+            "image": null,
+            "name": "Bamboo Skateboards Complete Skateboards",
+            "description": "Bamboo Skateboards Complete Skateboards is a series of eco-friendly skateboards designed for both beginners and experienced riders. Made from sustainable bamboo, these complete skateboards emphasize durability and performance while promoting environmental responsibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "714b3e10-7690-43df-9731-900befed3ed9",
+            "image": null,
+            "name": "Bonneville T100",
+            "description": "The Triumph Bonneville T100 is a classic motorcycle inspired by the original Bonneville models from the 1960s, featuring a retro design combined with modern technology for versatility on the road.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "c7e966e2-0d07-4528-8b8f-d21df5b7c8ea",
+            "image": null,
+            "name": "Triumph Speedmaster",
+            "description": "The Triumph Speedmaster is a classic cruiser motorcycle that combines timeless design with modern engineering, aimed at providing a comfortable and stylish riding experience on both city streets and open highways.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "fc324229-dd46-48f1-bbc0-fd45cf50f71c",
+            "image": null,
+            "name": "Instant Pot Duo Plus",
+            "description": "The Instant Pot Duo Plus is a versatile multi-cooker that combines seven appliances in one, including a pressure cooker, slow cooker, rice cooker, steamer, sauté pan, food warmer, and yogurt maker. It is designed for efficient cooking, offering customizable settings and a user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Instant Pot"
+            }
+        },
+        {
+            "id": "a6d92782-6ebd-425a-968e-65181cbac035",
+            "image": null,
+            "name": "Triumph Speed Triple S",
+            "description": "The Triumph Speed Triple S is a naked motorcycle known for its powerful engine, agile handling, and distinctive styling, designed for both urban and spirited riding.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "6d24800a-952d-473f-a333-f6423b457e22",
+            "image": null,
+            "name": "Enjoi Panda",
+            "description": "The Enjoi Panda series features a collection of skateboards designed for both beginners and experienced skaters, emphasizing durability and style. The series showcases the iconic panda graphic, which has become synonymous with the Enjoi brand.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "add07ec8-74ab-476b-9d50-d6ea37bdc2e8",
+            "image": null,
+            "name": "Vic Firth Corpsmaster",
+            "description": "The Vic Firth Corpsmaster series offers a collection of top-quality drumsticks and mallets, designed specifically for marching percussion and orchestral performances. These instruments aim to deliver superior balance, feel, and durability for drummers and percussionists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "c48217e8-d073-494a-85ef-af2ddcccd8eb",
+            "image": null,
+            "name": "Vic Firth American Classic 5A",
+            "description": "The Vic Firth American Classic 5A is a versatile drumstick known for its balanced weight and well-rounded tip, making it suitable for various musical styles and settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "f720c2a3-bed4-4ed9-b01f-f58d6212a087",
+            "image": null,
+            "name": "C 2620",
+            "description": "The Mann-Filter C 2620 is an automotive cabin air filter designed to improve the air quality inside vehicles by trapping dust, pollen, and pollutants.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "97053d5f-f00e-4461-b5f7-3a74c62f68fe",
+            "image": null,
+            "name": "Vic Firth American Classic 7A",
+            "description": "The Vic Firth American Classic 7A is a pair of drumsticks designed for versatility and balance, making them suitable for a wide range of musical genres, especially in jazz and light rock.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "e5a7245c-817e-4dad-9568-5441fa450b8b",
+            "image": null,
+            "name": "Fiat 500 (2004)",
+            "description": "The Fiat 500 (2004) is a compact city car known for its retro-inspired design, efficient performance, and versatility, making it popular for urban driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "3d19c0ab-e1fc-489a-8c53-5b4c592ce975",
+            "image": null,
+            "name": "Triumph America",
+            "description": "The Triumph America is a cruiser motorcycle designed for relaxed riding with a comfortable seat and timeless styling.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "cd59f552-defc-44d7-8338-75747bfa911b",
+            "image": null,
+            "name": "Bamboo Skateboards Longboards",
+            "description": "The Bamboo Skateboards Longboards are designed for smooth rides and enhanced stability, combining eco-friendly bamboo construction with performance-driven design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "9fb03237-67fe-41bb-a040-85ff7f06b445",
+            "image": null,
+            "name": "Simply Acrylics",
+            "description": "Daler Rowney Simply Acrylics is a series of high-quality, affordable acrylic paints designed for artists of all skill levels, offering vibrant colors and versatile application on various surfaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "f3229a0d-4572-4b46-a0f5-c604bc3d4208",
+            "image": null,
+            "name": "Fiat 500 (new generation)",
+            "description": "The Fiat 500 (new generation) is a compact city car that combines modern design with classic styling, aimed at urban mobility and offering efficient performance and advanced technology features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "f7345542-9c35-412e-8694-b09b21aa78ee",
+            "image": null,
+            "name": "Cloud Up 3",
+            "description": "The Naturehike Cloud Up 3 is a lightweight, portable tent designed for three-person camping, featuring quick setup and durable materials for reliable outdoor protection.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Naturehike"
+            }
+        },
+        {
+            "id": "fe8b92e5-d43a-404a-9d10-86b1e8e49674",
+            "image": null,
+            "name": "Poco M2 Pro",
+            "description": "The Poco M2 Pro is a budget-friendly smartphone designed to deliver high-performance features, including a long-lasting battery, versatile camera setup, and efficient processing power for everyday tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "d1a5082b-1f6f-4de3-983e-fdcd4d4f2152",
+            "image": null,
+            "name": "Poco C51",
+            "description": "The Poco C51 is a budget-friendly smartphone designed for everyday use, offering essential features for communication, entertainment, and connectivity.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "46e4647e-e82d-4a61-86ab-40d724651ce7",
+            "image": null,
+            "name": "Instant Pot Ultra",
+            "description": "The Instant Pot Ultra series is a versatile multi-cooker that combines pressure cooking, slow cooking, and other cooking functions to provide efficient meal preparation. It features an easy-to-use interface and customizable settings for enhanced cooking control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Instant Pot"
+            }
+        },
+        {
+            "id": "4263700d-0c9b-42ce-bdd4-83b8f4d86856",
+            "image": null,
+            "name": "Triumph Tiger 800 XCA",
+            "description": "The Triumph Tiger 800 XCA is an adventure motorcycle designed for riders seeking versatility and comfort for both on-road and off-road journeys, featuring advanced technology and durable construction.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "1655726a-81fc-4146-a91f-131b9cedbc95",
+            "image": null,
+            "name": "Sennelier Watercolor Paints",
+            "description": "Sennelier Watercolor Paints are high-quality, artist-grade watercolors known for their brilliance, transparency, and vibrant pigmentation, suitable for professional artists and enthusiasts alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "1589ce6c-c26e-4320-ac1f-3b125d5662c3",
+            "image": null,
+            "name": "Ducati Multistrada V4 Pikes Peak",
+            "description": "The Ducati Multistrada V4 Pikes Peak is a high-performance adventure motorcycle designed to excel on both paved roads and off-road terrain, known for its versatility, advanced technology, and powerful V4 engine.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "554eb419-fa63-495d-b585-3be0f4168b3f",
+            "image": null,
+            "name": "Instant Pot Duo Crisp",
+            "description": "The Instant Pot Duo Crisp is a versatile kitchen appliance that combines the functions of a pressure cooker and an air fryer, allowing users to prepare a variety of healthy meals efficiently.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Instant Pot"
+            }
+        },
+        {
+            "id": "dde40cfc-6448-48fd-82a4-3df542dca38c",
+            "image": null,
+            "name": "Funky",
+            "description": "The Pedrali Funky series of chairs, launched in 2016, is characterized by its playful design and ergonomic comfort, making it suitable for both residential and commercial spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "412ecb3f-ab2c-47eb-bdaf-8110ca6b76a7",
+            "image": null,
+            "name": "Ducati DesertX",
+            "description": "The Ducati DesertX is an adventure motorcycle designed for both on-road and off-road performance, featuring a robust chassis and advanced technology for versatility in various terrains.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "b9e6f26e-5d14-4072-9609-e9baa90aca11",
+            "image": null,
+            "name": "Nefeli",
+            "description": "The Pedrali Nefeli series features elegantly designed chairs that combine comfort and versatility, making them suitable for various indoor and outdoor settings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "8cf61a4a-e127-487f-884d-ae0359faf15e",
+            "image": null,
+            "name": "Tiger Explorer",
+            "description": "The Triumph Tiger Explorer is a versatile adventure motorcycle designed for both on-road and off-road touring, offering a balance of comfort, performance, and technology suitable for long-distance journeys.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "e65facb8-8d13-44fc-9ad2-596db3a6d0b7",
+            "image": null,
+            "name": "Renault Mégane II (Facelift)",
+            "description": "The Renault Mégane II (Facelift) is a compact car that offers improved aesthetics and features compared to its predecessor, aimed at providing a comfortable driving experience and practicality for families.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        }
+    ]
+}

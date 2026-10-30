@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "63f1cfef-c1b8-4c2e-a1cf-3b7e8fdb96ae",
+            "image": null,
+            "name": "Artcore",
+            "description": "The Ibanez Artcore series features semi-hollow body electric guitars designed for versatile sound and playability, making them suitable for a wide range of music genres.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "210491cd-6623-457a-9e8a-d8747d1a1cda",
+            "image": null,
+            "name": "AZ Series",
+            "description": "The Ibanez AZ Series is a line of electric guitars designed for versatile performance, featuring advanced pickups and comfortable neck profiles to cater to a wide range of musical styles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "7cad07ae-9b76-479b-ad1b-c3b5277f3f8b",
+            "image": null,
+            "name": "SR Series",
+            "description": "The Ibanez SR Series is a line of electric bass guitars known for their sleek body designs and versatile sound options, catering to a wide range of genres and playing styles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "a41e5cf2-0b26-4523-9dda-05e86bff1e96",
+            "image": null,
+            "name": "AS Series",
+            "description": "The Ibanez AS Series features hollow body electric guitars designed to provide a rich, warm tone preferred by jazz and blues musicians, offering versatile playability and aesthetic appeal.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "aa6750d2-6329-4788-9e63-995924018df6",
+            "image": null,
+            "name": "Ibanez RG Series",
+            "description": "The Ibanez RG Series is a line of electric guitars designed for high performance, featuring a sleek body, fast necks, and versatile electronics. It is favored by rock and metal musicians for its playability and powerful sound.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "7e7101f0-e114-46d2-995b-a3ad3c13feb9",
+            "image": null,
+            "name": "Ibanez S Series",
+            "description": "The Ibanez S Series is a line of electric guitars known for their lightweight body and versatile sound, designed for musicians seeking both comfort and high-performance playability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "9e3d3d4a-2ea2-4e22-acb7-d7c3acd2f10f",
+            "image": null,
+            "name": "Ibanez AEG Series",
+            "description": "The Ibanez AEG Series is a collection of acoustic-electric guitars designed for versatility and comfort, aimed at musicians seeking a reliable instrument for both performing and practicing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "4010765b-45a7-4fab-ba7c-7fd40f0cee51",
+            "image": null,
+            "name": "RGA Series",
+            "description": "The Ibanez RGA Series is a line of electric guitars designed for high-performance play, combining modern aesthetics with versatile sound capabilities. It features a double-cutaway body shape, allowing easy access to higher frets and catering primarily to rock and metal musicians.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "5ea238e9-2541-460c-b884-49e4948b6ece",
+            "image": null,
+            "name": "Ibanez Prestige Series",
+            "description": "The Ibanez Prestige Series is a line of high-quality electric guitars and basses, designed for professional musicians who demand exceptional craftsmanship, playability, and tone.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "2d55a534-ec58-4802-80f3-add1d4734524",
+            "image": null,
+            "name": "Martin X Series",
+            "description": "The Martin X Series is a line of acoustic guitars designed to provide premium sound quality and performance at an accessible price point, suitable for players of all skill levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "5d110755-a607-4e19-be7a-eed93cc9523f",
+            "image": null,
+            "name": "Martin Road Series",
+            "description": "The Martin Road Series is a collection of high-quality acoustic guitars designed for players seeking an affordable yet exceptional instrument that delivers rich tone and playability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "a1d722c9-fa5b-4a9b-b85e-08c43e2c66c3",
+            "image": null,
+            "name": "Martin 000-28 EC",
+            "description": "The Martin 000-28 EC is an acoustic guitar designed for professional musicians, featuring a smaller body size that enhances playability and provides a rich, warm tone.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "741e6150-d485-475b-b35d-a2080af83883",
+            "image": null,
+            "name": "Martin D-28 Modern Deluxe",
+            "description": "The Martin D-28 Modern Deluxe is a premium acoustic guitar known for its rich tonal quality and craftsmanship, combining traditional design with modern enhancements for superior performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "31652c68-0f12-4f57-81c8-356c3f415496",
+            "image": null,
+            "name": "Martin D-18",
+            "description": "The Martin D-18 is an acoustic guitar known for its warm sound, rich tonal quality, and high-quality craftsmanship. It is particularly favored for its versatility in various musical genres, making it a suitable instrument for both professional and amateur musicians.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "691fc647-3ab4-4a98-8560-1e1120e5995c",
+            "image": null,
+            "name": "Martin 000-15M",
+            "description": "The Martin 000-15M is an acoustic guitar known for its warm tone and comfortable playability, making it suitable for both beginners and seasoned musicians alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "38f44e7e-c71d-429b-b47b-3c650e1f4f1a",
+            "image": null,
+            "name": "Martin 000-28 Modern Deluxe",
+            "description": "The Martin 000-28 Modern Deluxe is an acoustic guitar that combines traditional craftsmanship with modern advancements, designed for musicians seeking a balanced tone and aesthetic appeal.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "c6ebf321-68a8-4300-bd83-53020c40265c",
+            "image": null,
+            "name": "Martin SC-13E",
+            "description": "The Martin SC-13E is an acoustic-electric guitar known for its innovative design and exceptional playability, making it suitable for both performing musicians and casual players.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "da12f7ff-fa40-46b9-b184-8d0349326406",
+            "image": null,
+            "name": "Eurolive",
+            "description": "The Behringer Eurolive series consists of portable PA speakers designed for live sound applications, offering high performance and reliability for musicians and sound engineers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Behringer"
+            }
+        },
+        {
+            "id": "36b5d38b-7ecc-46e5-b330-f43ba755f31f",
+            "image": null,
+            "name": "Marshall Code",
+            "description": "The Marshall Code series comprises versatile digital amplifiers designed for guitarists, featuring a range of customizable tones and effects suitable for practice, recording, and live performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "e06e4e8b-fee3-4f63-ab4b-4d3a4d082a0a",
+            "image": null,
+            "name": "Marshall Killburn",
+            "description": "The Marshall Killburn is a portable Bluetooth speaker designed to deliver a rich, powerful sound experience, making it ideal for music lovers on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "338dcedf-7ffb-45ab-8d43-29b8d6b31768",
+            "image": null,
+            "name": "Marshall Acton",
+            "description": "The Marshall Acton is a compact Bluetooth speaker that delivers powerful sound with a classic Marshall design, suitable for both music enthusiasts and casual listeners.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "9f07bb74-8580-4ca8-93dd-e60cf5e4beed",
+            "image": null,
+            "name": "Marshall Stanmore",
+            "description": "The Marshall Stanmore is a compact Bluetooth speaker designed for home use, offering powerful sound quality with iconic Marshall styling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "054ed534-f2ff-4503-b894-46d41eac17c1",
+            "image": null,
+            "name": "K Family",
+            "description": "The Zildjian K Family is a series of high-quality cymbals known for their dark and complex tones, ideal for jazz and fusion styles of music.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "ec4602ed-0c4e-41d5-8f9e-7d6e7f72fdd5",
+            "image": null,
+            "name": "Stanmore II",
+            "description": "The Marshall Stanmore II is a compact Bluetooth speaker designed for high-quality audio performance, featuring classic Marshall design inspired by the brand's iconic guitar amplifiers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "d8172e72-b1f1-4e4c-ab0b-4e2ad5f9279d",
+            "image": null,
+            "name": "Bumbleride Era",
+            "description": "The Bumbleride Era is a versatile stroller designed to provide comfort and convenience for both parents and children. Its key features include a lightweight frame, all-terrain wheels, and a spacious seating area.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "252f09a2-4502-4f1f-aaad-d24040207798",
+            "image": null,
+            "name": "Bumbleride Indie 4",
+            "description": "The Bumbleride Indie 4 is a versatile stroller designed for active parents, featuring all-terrain capabilities and a smooth ride suitable for various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "a41d9f4c-e356-46ad-9fd8-1ac084ba51ea",
+            "image": null,
+            "name": "Bumbleride Indie Plus",
+            "description": "The Bumbleride Indie Plus is a versatile stroller designed for active parents, offering a smooth ride and compatibility with various accessories for enhanced functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "40fe9378-0371-4617-a4d3-57ca0c8facdc",
+            "image": null,
+            "name": "Art and Crafts",
+            "description": "The Melissa & Doug Art and Crafts series includes a variety of creative toys and materials designed to enhance children's artistic skills and encourage imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Melissa & Doug"
+            }
+        },
+        {
+            "id": "7e5e9874-8900-4cd2-b576-7bbb503674f1",
+            "image": null,
+            "name": "Sound Puzzles",
+            "description": "The Melissa & Doug Sound Puzzles series features wooden puzzles that play realistic sounds when pieces are placed correctly, promoting auditory recognition and hand-eye coordination in young children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Melissa & Doug"
+            }
+        },
+        {
+            "id": "df2eebab-d78a-4add-b7ec-738b05412d01",
+            "image": null,
+            "name": "Chevrolet Colorado",
+            "description": "The Chevrolet Colorado is a mid-size pickup truck known for its versatility and capability, designed to meet the needs of both work and everyday driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        }
+    ]
+}

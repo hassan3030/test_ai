@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e190307e-ba6f-4a9a-b091-8f7f7c2caf43",
+            "image": null,
+            "name": "701 Enduro",
+            "description": "The Husqvarna 701 Enduro is a versatile and powerful off-road motorcycle designed for both performance and practicality, making it ideal for adventurers who tackle a variety of terrains.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "9d09712f-69eb-43bc-b15a-e6f70da31267",
+            "image": null,
+            "name": "701 Supermoto",
+            "description": "The Husqvarna 701 Supermoto is a lightweight motorcycle designed for both street and off-road riding, featuring high-performance components and agile handling for an exhilarating riding experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4a36c00c-4016-443a-a75c-e8116275ccb4",
+            "image": null,
+            "name": "Husqvarna 401 series",
+            "description": "The Husqvarna 401 series is a range of lightweight motorcycles designed for urban commuting and agile handling, offering a blend of modern design and practical performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "e67c91e5-7fca-400e-9e39-74414ceb7555",
+            "image": null,
+            "name": "Husqvarna 701 series",
+            "description": "The Husqvarna 701 series is a range of dual-sport motorcycles designed for both on-road and off-road riding. Known for their lightweight frame, powerful engine, and exceptional handling, these motorcycles are built for adventure and versatility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "66802d17-c8a9-4646-a27b-1ae504cb8502",
+            "image": null,
+            "name": "Husqvarna FE 450",
+            "description": "The Husqvarna FE 450 is a powerful off-road motorcycle designed for enduro racing, featuring a lightweight frame and an advanced suspension system for enhanced maneuverability and performance on various terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4471c1fa-7568-4f65-bb30-4a6922b34513",
+            "image": null,
+            "name": "Husqvarna TE 250i",
+            "description": "The Husqvarna TE 250i is a lightweight, performance-oriented enduro motorcycle designed for off-road enthusiasts. It features advanced technology and a powerful engine to provide exceptional handling and control in various terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4896caf2-9824-4cbe-9545-8d24b70761ba",
+            "image": null,
+            "name": "Husqvarna Vitpilen 701",
+            "description": "The Husqvarna Vitpilen 701 is a modern motorcycle designed for urban and agile riding, combining sleek aesthetics with powerful performance and advanced technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "eff8fe8b-c90f-4b21-99c6-992d492e7348",
+            "image": null,
+            "name": "Husqvarna Svartpilen 701",
+            "description": "The Husqvarna Svartpilen 701 is a modern lightweight motorcycle designed for both urban commuting and spirited riding. It features a minimalist aesthetic combined with advanced technology for an agile and dynamic riding experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "5535eacb-b95a-435e-b76a-dc1cfcf3d94e",
+            "image": null,
+            "name": "Husqvarna FE 501",
+            "description": "The Husqvarna FE 501 is a high-performance off-road motorcycle designed for enduro riding, featuring advanced suspension and a powerful engine for tackling various terrains with ease.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "722341fc-9664-4b95-8834-610fe4639e79",
+            "image": null,
+            "name": "Enduro Range",
+            "description": "The Husqvarna Motorcycles Enduro Range is designed for off-road performance, featuring lightweight construction and advanced technology to tackle a variety of terrains with ease.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "26edcdd0-9915-437f-bdaa-5a887c679417",
+            "image": null,
+            "name": "TE 300i",
+            "description": "The Husqvarna TE 300i is a high-performance off-road motorcycle designed for enduro riding, featuring a powerful two-stroke engine and advanced fuel injection technology for optimal efficiency and power delivery.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4f1198ca-083c-4581-93bf-bbbc41aed975",
+            "image": null,
+            "name": "SVARTPILEN 401 2022",
+            "description": "The Husqvarna SVARTPILEN 401 2022 is a lightweight motorcycle designed for urban riding, characterized by its minimalist design and agile performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "15a191a8-f077-4f9a-9635-ac3516c63555",
+            "image": null,
+            "name": "Jeep Compass (2019)",
+            "description": "The Jeep Compass (2019) is a compact SUV that blends versatility and capability, designed to navigate both urban environments and off-road terrain with ease.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "f74221df-f830-4670-8dd4-706f9571d908",
+            "image": null,
+            "name": "Isuzu Ascender",
+            "description": "The Isuzu Ascender is a midsize SUV produced by Isuzu from 2000, designed for both on-road comfort and off-road capability, featuring a robust construction and versatile interior space.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "e9185c19-f714-4a8a-8513-e363eacc7f63",
+            "image": null,
+            "name": "Blaupunkt Woodstock",
+            "description": "The Blaupunkt Woodstock series is a line of car audio systems designed to enhance the listening experience in vehicles with high-quality sound and multiple features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "eba1399f-4b0a-4031-8860-32af9877dc0d",
+            "image": null,
+            "name": "Blaupunkt Portland",
+            "description": "The Blaupunkt Portland series is a line of car audio systems designed to enhance the in-car listening experience with high-quality sound reproduction and user-friendly interface features.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "04ca4eb3-879b-4035-a046-4057b8770014",
+            "image": null,
+            "name": "Blaupunkt Seattle",
+            "description": "The Blaupunkt Seattle series is a range of car audio systems designed to deliver high-quality sound and enhance the listening experience while driving, featuring various models with different functionalities to cater to the diverse needs of automotive audio enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "fe123f13-1eb5-4f6d-a51b-9a4e1ce3f626",
+            "image": null,
+            "name": "Blaupunkt Tucson",
+            "description": "The Blaupunkt Tucson series is a range of car audio systems designed to enhance the in-car listening experience with improved sound quality and user-friendly features.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "01c32a7d-6b47-4665-9b7d-d66ed6934439",
+            "image": null,
+            "name": "Blaupunkt TravelPilot",
+            "description": "The Blaupunkt TravelPilot series features car audio products designed to integrate navigation and multimedia functionality, providing users with a versatile driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "1dad9a90-9762-4c6d-87bc-180aee638580",
+            "image": null,
+            "name": "Blaupunkt Bremen SQR 46",
+            "description": "The Blaupunkt Bremen SQR 46 is a car audio system released in 2004, designed to enhance in-vehicle entertainment with advanced features for audio playback and radio reception.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "a6c03969-017b-44e1-a39d-833d9f64803b",
+            "image": null,
+            "name": "Blaupunkt Miami",
+            "description": "The Blaupunkt Miami series offers a range of car audio systems designed to deliver high-quality sound and enhanced listening experiences while on the road.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "7ba48432-9372-4b4b-b2a8-45e7804fd707",
+            "image": null,
+            "name": "Blaupunkt Bremen",
+            "description": "The Blaupunkt Bremen series is a line of car audio systems designed to enhance the in-car listening experience with high-quality sound and versatile media playback options.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "3e5b6269-689b-4f4e-8c06-b3ac77007e5a",
+            "image": null,
+            "name": "Blaupunkt Berlin",
+            "description": "The Blaupunkt Berlin series represents a range of car audio systems released in 2006, designed to provide high-quality sound and a variety of features for enhanced in-car entertainment.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "0422ac5e-e825-456a-9298-095390b7376e",
+            "image": null,
+            "name": "Blaupunkt Sacramento",
+            "description": "The Blaupunkt Sacramento series is a range of car audio systems designed to enhance the in-vehicle listening experience with high-quality sound and user-friendly features.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "4b93234c-ff54-41da-8d2f-42b5951d617b",
+            "image": null,
+            "name": "Blaupunkt Bremen MP68",
+            "description": "The Blaupunkt Bremen MP68 is a car audio receiver designed to enhance in-vehicle entertainment with features such as CD playback, FM/AM radio, and auxiliary input options.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "d0e04376-0170-4023-9dd5-dc7b710d81c6",
+            "image": null,
+            "name": "Blaupunkt San Diego MP68",
+            "description": "The Blaupunkt San Diego MP68 is a car audio system released in 2007, designed to provide high-quality sound playback and versatile connectivity options for drivers and passengers.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "c1a58323-3519-4fdd-888f-58162d17fbd9",
+            "image": null,
+            "name": "Blaupunkt Houston MC",
+            "description": "The Blaupunkt Houston MC is a car audio system designed to enhance in-vehicle entertainment with high-quality sound and versatile connectivity options.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "c620a41a-7f06-4eb0-b237-1a07cdc3f52a",
+            "image": null,
+            "name": "Rockville RVL Series",
+            "description": "The Rockville RVL Series is a line of high-performance car audio products designed to deliver superior sound quality and power for automotive audio systems.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockville"
+            }
+        },
+        {
+            "id": "66b02394-f196-4013-a09a-6d827d6cfe8c",
+            "image": null,
+            "name": "Rockville RWA Series",
+            "description": "The Rockville RWA Series is a range of car audio components designed for enhanced sound quality and performance in automotive environments, featuring durable construction and efficient power handling.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockville"
+            }
+        },
+        {
+            "id": "45c8c43b-7960-405f-bfc2-5a66b5bbc6d3",
+            "image": null,
+            "name": "Baja MT",
+            "description": "The Mickey Thompson Baja MT series is designed for off-road performance, featuring aggressive tread patterns that provide enhanced traction in muddy and rocky conditions, making it suitable for both recreational and competitive off-road driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "f47911e6-7657-4131-9a5b-925901a58d9d",
+            "image": null,
+            "name": "Škoda Superb",
+            "description": "The Škoda Superb is a mid-size car produced by the Czech automaker Škoda, first released in 2000. It is known for its spacious interior, high comfort levels, and advanced technology features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "5bad591b-ec05-4673-a9f4-92f0b25daf9b",
+            "image": null,
+            "name": "Škoda Roomster",
+            "description": "The Škoda Roomster is a versatile compact car introduced in 2002, known for its spacious interior and practical design, aimed at families and individuals seeking functionality.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "2a8d5db7-459d-49dd-9fb2-0a1f21b97255",
+            "image": null,
+            "name": "Škoda Fabia II",
+            "description": "The Škoda Fabia II is a compact car model produced by the Czech automaker Škoda, known for its practicality, efficient use of space, and affordability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "f88e639d-c543-40fb-8b42-5065f97dd6c5",
+            "image": null,
+            "name": "Škoda Superb II",
+            "description": "The Škoda Superb II is a mid-size car produced by Škoda, known for its spacious interior, practical features, and excellent value for money, aimed at family and business use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "2484fb05-5885-4506-9995-9166df5fed80",
+            "image": null,
+            "name": "Škoda Octavia II (Facelift)",
+            "description": "The Škoda Octavia II (Facelift) is a compact car that offers a blend of practicality, comfort, and efficiency, making it a popular choice for families and daily commuters.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "98c691fd-19bd-48c4-ac39-32958b122b34",
+            "image": null,
+            "name": "Škoda Yeti",
+            "description": "The Škoda Yeti is a compact SUV that was first introduced in 2009, known for its practical design, spacious interior, and versatility, making it suitable for both urban and off-road environments.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "33f48745-2178-49ca-9632-81e53946b0d3",
+            "image": null,
+            "name": "Škoda Fabia III",
+            "description": "The Škoda Fabia III is a subcompact car known for its practicality, efficiency, and spacious interior. Launched in 2014, it aims to provide an affordable and reliable option for urban drivers.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "cc352a61-0745-4829-982f-4549b40573a8",
+            "image": null,
+            "name": "Škoda Octavia III",
+            "description": "The Škoda Octavia III is a compact car produced by the Czech automaker Škoda, first released in 2014. Known for its spacious interior, advanced technology, and fuel efficiency, it serves as a family-friendly vehicle that balances performance and practicality.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "3ee8c0b0-6646-4b07-94dc-29065c427c00",
+            "image": null,
+            "name": "Škoda Superb III",
+            "description": "The Škoda Superb III is a mid-size car produced by the Czech automaker Škoda, known for its spacious interior, practicality, and advanced technology features. The model has been designed to provide comfort and functionality for both everyday use and longer journeys.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "02db7436-d6ac-4e70-9d5d-d077c441393e",
+            "image": null,
+            "name": "Škoda Superb (3rd Generation)",
+            "description": "The Škoda Superb (3rd Generation) is a mid-size car designed to offer spacious interiors, advanced technology, and a range of efficient engines, catering to both comfort and practicality for everyday use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "e478643f-d544-4cc5-9a56-ad54d8f3363d",
+            "image": null,
+            "name": "Škoda Fabia (3rd Generation)",
+            "description": "The Škoda Fabia (3rd Generation) is a versatile and compact car designed for urban driving, offering practicality and efficiency for everyday use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "9233e2b4-3f02-46a9-bb61-e7c95d7661f4",
+            "image": null,
+            "name": "Igor",
+            "description": "The Calligaris Igor series offers a versatile design suitable for various environments, combining comfort and aesthetic appeal in its chairs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0abb054a-bed8-4917-94a7-7b94d0b4daf8",
+            "image": null,
+            "name": "Yamaha FZ Series",
+            "description": "The Yamaha FZ Series is a line of motorcycles known for their lightweight design, agility, and powerful performance, catering to urban commuting and spirited riding enthusiasts since 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "49da895f-432a-46a0-a0b3-14b38556b957",
+            "image": null,
+            "name": "VRSC",
+            "description": "The Harley-Davidson VRSC series, launched in 2000, represents a line of high-performance motorcycles designed for power and style, characterized by their V-Twin engines and distinctive design.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "e8faeb90-54f3-4fa4-9c49-5cecece5b91e",
+            "image": null,
+            "name": "Dyna",
+            "description": "The Harley-Davidson Dyna series is a line of cruiser motorcycles known for their distinctive style, performance, and customizability, catering to riders who appreciate classic designs and open-road riding experiences.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "b0e834ba-0cd6-4db7-b78f-a4116e5569c3",
+            "image": null,
+            "name": "FXSTD Deuce",
+            "description": "The Harley-Davidson FXSTD Deuce is a cruiser motorcycle known for its classic design, custom styling, and comfortable ride. Released in 2001, it combines performance with the iconic Harley-Davidson brand heritage.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "791db19d-4dea-461e-8327-56e27f02934f",
+            "image": null,
+            "name": "FLHR/R Road King",
+            "description": "The Harley-Davidson FLHR/R Road King is a touring motorcycle renowned for its comfortable ride and classic design, making it ideal for long-distance travel.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "6f38ce8f-0b6c-4be7-a0b2-999feb4013bc",
+            "image": null,
+            "name": "FLSTC Heritage Softail Classic",
+            "description": "The Harley-Davidson FLSTC Heritage Softail Classic is a cruiser motorcycle known for its classic styling and comfortable ride, designed for long-distance cruising and touring.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "dde7b972-51c1-4a1d-8e2d-3a5e8fcf8269",
+            "image": null,
+            "name": "V-Rod",
+            "description": "The Harley-Davidson V-Rod is a series of motorcycles introduced in 2002, known for its sporty performance and modern design, combining a powerful V-twin engine with a lightweight frame.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "53447100-6b1f-41e2-a461-80bf4266a185",
+            "image": null,
+            "name": "FLHRC Road King Classic",
+            "description": "The Harley-Davidson FLHRC Road King Classic is a touring motorcycle known for its classic styling, comfortable seating, and capability for long-distance rides, making it ideal for both cruising and touring enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "8bde52ee-5557-4974-a3a4-24779ba6e64e",
+            "image": null,
+            "name": "FLHTCUI Electra Glide Ultra Classic",
+            "description": "The Harley-Davidson FLHTCUI Electra Glide Ultra Classic is a touring motorcycle designed for long-distance comfort and convenience, featuring ample storage and advanced entertainment options.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "a788b491-63d5-4078-810d-d0933846723c",
+            "image": null,
+            "name": "VRSC (V-Rod) Series",
+            "description": "The Harley-Davidson VRSC (V-Rod) Series, introduced in 2003, is known for its modern design and liquid-cooled V-Twin engine, offering a blend of sport performance and classic Harley aesthetics.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "3113c360-e305-4222-a642-676478a40d57",
+            "image": null,
+            "name": "Softail Deuce",
+            "description": "The Harley-Davidson Softail Deuce is a lightweight cruiser motorcycle known for its classic styling and comfortable ride, featuring a hidden rear suspension that enhances its sleek appearance.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "cba1ccdb-d554-48d7-ab8b-594dad3c17a9",
+            "image": null,
+            "name": "Buell 1125",
+            "description": "The Buell 1125 is a sport motorcycle produced by Harley-Davidson, known for its powerful engine, advanced design, and agile handling, making it suitable for both street and track use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "bf115a5c-9ba8-4434-b345-068fddd890a5",
+            "image": null,
+            "name": "Harley-Davidson XR1200",
+            "description": "The Harley-Davidson XR1200 is a sport-oriented motorcycle that blends classic Harley-Davidson styling with modern performance, designed for riders seeking a dynamic ride on both street and track.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "8aa07fa1-5576-4afa-b7e7-1e837fe4f29c",
+            "image": null,
+            "name": "VRSCF V-Rod Muscle",
+            "description": "The Harley-Davidson VRSCF V-Rod Muscle is a powerful cruiser motorcycle known for its distinctive styling and high-performance V-twin engine. Designed for both touring and cruising, it combines modern engineering with the classic allure of Harley-Davidson.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "33f4d070-217a-4477-a39a-4271cda4de0f",
+            "image": null,
+            "name": "FLTR/FLTRX Road Glide",
+            "description": "The Harley-Davidson FLTR/FLTRX Road Glide is a touring motorcycle known for its distinctive frame-mounted fairing, which provides excellent wind protection and stability. Designed for long-distance rides, it combines comfort with powerful performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "e0e9e588-28a7-418c-97d3-7e10fd496db4",
+            "image": null,
+            "name": "FXDF Dyna Fat Bob",
+            "description": "The Harley-Davidson FXDF Dyna Fat Bob is a cruiser motorcycle known for its distinctive styling, powerful V-twin engine, and comfortable riding position, making it suitable for both urban commuting and long-distance rides.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "532d8ea3-a0fc-4c2b-9fd4-7ea4a4bbde05",
+            "image": null,
+            "name": "FLHTK Electra Glide Ultra Limited",
+            "description": "The Harley-Davidson FLHTK Electra Glide Ultra Limited is a touring motorcycle designed for long-distance travel, featuring a powerful engine, advanced comfort features, and ample storage capacity for riders and passengers.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "8fbae4e6-c268-4cd3-9aba-fea785519d66",
+            "image": null,
+            "name": "XL1200N Nightster",
+            "description": "The Harley-Davidson XL1200N Nightster is a custom-styled motorcycle featuring a dark, minimalist aesthetic, designed for riders seeking a blend of classic cruiser styling and modern performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        }
+    ]
+}

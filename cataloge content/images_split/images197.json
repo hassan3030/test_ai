@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "72297ba9-8714-4d7b-bc80-88bb3c7f2990",
+            "image": null,
+            "name": "Billybandit Autumn/Winter Collection 2017",
+            "description": "The Billybandit Autumn/Winter Collection 2017 is a range of stylish and comfortable clothing for kids, designed to keep them warm and fashionable during the colder months.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Billybandit"
+            }
+        },
+        {
+            "id": "419910b3-675c-46be-93e5-ea38305520d7",
+            "image": null,
+            "name": "The Pigeon Will Ride the Roller Coaster!",
+            "description": "The Pigeon Will Ride the Roller Coaster! is a children's book that features the beloved character Pigeon created by Mo Willems. This engaging story captures the excitement and anxiety of going on a roller coaster, encouraging children to embrace new experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Candlewick Press"
+            }
+        },
+        {
+            "id": "01d1dbc4-cfe1-4e55-a678-c8820a89b0f8",
+            "image": null,
+            "name": "Ada Twist, Scientist",
+            "description": "The Ada Twist, Scientist series follows a young girl named Ada who is curious about the world around her and engages in scientific exploration and inquiry. The series aims to inspire children to embrace their curiosity and foster a love for science.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Candlewick Press"
+            }
+        },
+        {
+            "id": "67dce35e-c15a-490b-9cbe-b1a7d72af878",
+            "image": null,
+            "name": "The Thing Lou Couldn't Do",
+            "description": "The Thing Lou Couldn't Do is a children's book by Candlewick Press that explores themes of perseverance, friendship, and overcoming challenges through the story of a young girl named Lou.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Candlewick Press"
+            }
+        },
+        {
+            "id": "07e98cc1-67db-4eaf-8197-b9392bd93f98",
+            "image": null,
+            "name": "The Usborne Big Book of Things to Spot",
+            "description": "The Usborne Big Book of Things to Spot series features engaging, illustrated search-and-find books designed to enhance observational skills and encourage early reading in children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "a4c1a134-2bbd-4035-9a46-056ceac5050c",
+            "image": null,
+            "name": "The Usborne Science Encyclopedia",
+            "description": "The Usborne Science Encyclopedia is a comprehensive resource that introduces children to various scientific concepts and principles in an engaging and accessible way. It is designed to spark curiosity and encourage a love for learning in the fields of science and technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "8a14eb66-3b10-4213-9e08-a69e3c339547",
+            "image": null,
+            "name": "Usborne Very First Reading",
+            "description": "Usborne Very First Reading is a series of books designed to help young children develop their reading skills through engaging stories and illustrations. Each book is carefully crafted to encourage early literacy in a fun and accessible way.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "f158797d-ffd6-409d-b9f5-5e113686b283",
+            "image": null,
+            "name": "Usborne Picture Books",
+            "description": "The Usborne Picture Books series features beautifully illustrated stories designed to engage young readers and promote early literacy skills through captivating narratives and vibrant visuals.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "4ae7432a-903e-421f-ba53-56634e36b0e8",
+            "image": null,
+            "name": "Usborne Lift-the-Flap",
+            "description": "The Usborne Lift-the-Flap series is designed to engage young readers with interactive elements that encourage exploration and discovery through the use of flaps that reveal hidden information and illustrations.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "d4f2501e-9696-40e0-a404-13e26e407809",
+            "image": null,
+            "name": "Usborne Illustrated Stories for Little Children",
+            "description": "The Usborne Illustrated Stories for Little Children series is designed to engage young readers with beautifully illustrated retellings of classic tales, promoting early literacy and a love for storytelling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "63bbc78a-1b92-4593-a7f1-4abbf5a25d19",
+            "image": null,
+            "name": "Turtleback Library Binding Editions",
+            "description": "Turtleback Library Binding Editions are durable children's books designed for library use, featuring reinforced bindings and protective covers to withstand frequent use and handling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Turtleback Books"
+            }
+        },
+        {
+            "id": "ba446c9c-83fa-49ad-a756-587f32bc7ff1",
+            "image": null,
+            "name": "Puffin Books Classics",
+            "description": "Puffin Books Classics is a series of timeless children's literature published by Puffin Books, aimed at introducing young readers to classic stories that have shaped children's literature over generations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "e40be718-4594-4531-bc93-13ca4305eb88",
+            "image": null,
+            "name": "Puffin Modern Classics",
+            "description": "Puffin Modern Classics is a collection of timeless children's literature that has been carefully selected to engage young readers with its rich storytelling and enduring themes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "ab3b0553-ef62-43ba-96dd-559a2b457f4b",
+            "image": null,
+            "name": "The Very Hungry Caterpillar",
+            "description": "The Very Hungry Caterpillar is a beloved children's book series by Eric Carle that introduces young readers to concepts of counting, the days of the week, and the life cycle of a butterfly through colorful illustrations and simple text.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "502855f4-bf26-411b-91e0-b5ddb9990787",
+            "image": null,
+            "name": "Puffin Classics",
+            "description": "The Puffin Classics series offers a selection of timeless children’s literature, providing young readers with access to classic stories and invaluable lessons from renowned authors.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "41acfe2b-f0e2-410c-b5bf-4c25b3b0659f",
+            "image": null,
+            "name": "Capstone Interactive",
+            "description": "Capstone Interactive is a series of engaging children's books designed to foster a love of reading through interactive features and multimedia content.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Capstone Publishers"
+            }
+        },
+        {
+            "id": "2979e33c-ddc3-40e4-ab23-4cb4d519e593",
+            "image": null,
+            "name": "Big Book of Activities",
+            "description": "The Big Book of Activities series by Silver Dolphin Books features a collection of engaging and educational activity books designed to stimulate creativity and provide hours of fun for children. Each book includes a variety of puzzles, games, and crafts that encourage learning through play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Silver Dolphin Books"
+            }
+        },
+        {
+            "id": "f6a8f42e-c93f-4ff1-b5c3-80871caa5dfd",
+            "image": null,
+            "name": "Best Little Word Book",
+            "description": "The Best Little Word Book series by Silver Dolphin Books introduces young readers to foundational vocabulary through engaging illustrations and interactive activities, fostering early literacy and language skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Silver Dolphin Books"
+            }
+        },
+        {
+            "id": "13677016-8550-4afc-a3a9-ba58fd24a85e",
+            "image": null,
+            "name": "Bugaboo Fox",
+            "description": "The Bugaboo Fox is a versatile stroller designed for comfort and ease of use. It features a lightweight frame, advanced suspension system, and is suitable for all terrains, making it ideal for both urban and off-road adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "6c620a53-46f8-4a70-a95e-fc341c417243",
+            "image": null,
+            "name": "Bugaboo Bee5",
+            "description": "The Bugaboo Bee5 is a lightweight and compact stroller designed for urban parents who prioritize mobility and ease of use, offering versatility and comfort for both baby and caregiver.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "b43d18a1-10c4-493f-96b4-8ef1e109b4b5",
+            "image": null,
+            "name": "Bugaboo Fox 2",
+            "description": "The Bugaboo Fox 2 is a versatile stroller designed for comfort and ease of use, featuring a lightweight design and advanced suspension for smooth rides.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "b951914b-1383-42eb-a573-e35fba50e383",
+            "image": null,
+            "name": "Bugaboo Ant",
+            "description": "The Bugaboo Ant is a compact and lightweight stroller designed for parents on the go. Its key features include maneuverability, ease of storage, and versatility for urban environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "c4bf1d35-bf32-4fa7-8d21-8f44521652ba",
+            "image": null,
+            "name": "Bugaboo Fox 3",
+            "description": "The Bugaboo Fox 3 is a versatile stroller designed for the comfort and convenience of both parent and child, featuring an adaptive design suitable for various terrains and a lightweight frame for easy maneuverability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "50b92033-cad8-4dba-9790-b6cea9485ca8",
+            "image": null,
+            "name": "Bugaboo Bee 6",
+            "description": "The Bugaboo Bee 6 is a compact and lightweight stroller designed for urban parents, offering versatility and easy maneuverability, suitable for children from birth up to 22 kg.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "db347c57-d777-40b7-9999-8c7c3ba98210",
+            "image": null,
+            "name": "Bugaboo Fox 5",
+            "description": "The Bugaboo Fox 5 is a high-quality stroller designed for urban living, emphasizing versatility, comfort, and ease of use for parents and their children.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "130dfd75-bdad-4952-b5d5-2fdb191e909e",
+            "image": null,
+            "name": "Bugaboo Butterfly",
+            "description": "The Bugaboo Butterfly is a compact and lightweight stroller designed for urban parents seeking convenience and ease of use. It features a one-handed fold mechanism and a spacious seat, making it ideal for on-the-go lifestyles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bugaboo"
+            }
+        },
+        {
+            "id": "b7c423c4-caa4-48ce-85e7-4d82135a1bfd",
+            "image": null,
+            "name": "VISTA",
+            "description": "The Uppababy VISTA is a versatile stroller designed to accommodate growing families, featuring multiple seating configurations and compatibility with car seats and bassinets.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Uppababy"
+            }
+        },
+        {
+            "id": "2ba0f2a8-cf49-457f-961d-8ed7b6b4eb20",
+            "image": null,
+            "name": "CRUZ",
+            "description": "The Uppababy CRUZ is a versatile stroller designed for urban environments, offering a smooth ride and adaptability for growing families with its compatibility for various accessories.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Uppababy"
+            }
+        },
+        {
+            "id": "4b3276b3-21c1-47ae-95f2-7b05f87142b0",
+            "image": null,
+            "name": "CRUZ V2",
+            "description": "The UPPAbaby CRUZ V2 is a versatile stroller designed for families, featuring a one-hand fold, adjustable handlebars, and compatibility with UPPAbaby infant car seats.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Uppababy"
+            }
+        },
+        {
+            "id": "10260297-e1f4-4db0-85c5-b110ffce4e84",
+            "image": null,
+            "name": "MESA V2",
+            "description": "The Uppababy MESA V2 is a reliable infant car seat designed for safety and ease of use, featuring a SmartSecure system for accurate installation and adjustable headrest for growing infants.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Uppababy"
+            }
+        }
+    ]
+}

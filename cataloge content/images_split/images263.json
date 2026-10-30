@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "a90c65c1-7085-4296-b343-3fcd91a77f7c",
+            "image": null,
+            "name": "Berg Buddy",
+            "description": "The Berg Buddy series is designed for children, featuring sturdy go-karts that encourage outdoor play and physical activity. They are equipped with adjustable seats and are suitable for various ages, promoting fun and exercise.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Berg"
+            }
+        },
+        {
+            "id": "863a62be-e576-4aab-aada-45c4f759e55a",
+            "image": null,
+            "name": "Berg Rally",
+            "description": "The Berg Rally series offers sturdy and durable bikes designed for kids, providing a thrilling outdoor experience while promoting active play and exercise.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Berg"
+            }
+        },
+        {
+            "id": "d6dbdc49-5540-4e59-9682-85bef50b382a",
+            "image": null,
+            "name": "Frigidaire Professional Refrigerator",
+            "description": "The Frigidaire Professional Refrigerator series offers premium refrigeration solutions designed for the modern kitchen, featuring advanced cooling technologies and spacious storage options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "afea4760-db31-4b72-9c9b-c499fdff2b5b",
+            "image": null,
+            "name": "Rafael",
+            "description": "The Rafael series by Poliform consists of sophisticated sofas designed for modern living spaces, offering comfort and a minimalist aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "0d6f10a4-45ff-45c4-b58d-63debcd6aea8",
+            "image": null,
+            "name": "Cougar Argo",
+            "description": "The Cougar Argo series consists of gaming chairs designed for comfort and support during long gaming sessions, featuring ergonomic designs and adjustable components to enhance user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "45d51334-9b19-4a80-92cd-2876f10dc4bf",
+            "image": null,
+            "name": "Liquitex Heavy Body Acrylic Paint",
+            "description": "Liquitex Heavy Body Acrylic Paint is a thick, artist-quality acrylic paint known for its rich pigment load and buttery consistency, ideal for creating textured effects and expressive brushwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "59041728-a0ad-4863-b44c-d63b1240b710",
+            "image": null,
+            "name": "Graco Skylar Travel System",
+            "description": "The Graco Skylar Travel System is a versatile stroller designed to provide convenience and safety for parents and their children during outings. It features an infant car seat that attaches directly to the stroller for seamless transitions between car and stroller.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "74be8908-e764-457e-aa0f-d0064323acc2",
+            "image": null,
+            "name": "Graco Tranzitions 3-in-1 Harness Booster",
+            "description": "The Graco Tranzitions 3-in-1 Harness Booster is a versatile child car seat designed to adapt as your child grows, providing safety and comfort in three different modes: harness booster, high back booster, and backless booster.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "c9f301e6-bb2a-4671-ab3a-e31a92568c1c",
+            "image": null,
+            "name": "Myson Ecoline R",
+            "description": "Myson Ecoline R series is a line of water heaters designed for energy efficiency and reliable performance, providing consistent hot water supply for residential applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Myson"
+            }
+        },
+        {
+            "id": "18aa8269-c159-47cb-a2aa-eb9110da05d5",
+            "image": null,
+            "name": "Liquitex Professional Heavy Body Acrylics",
+            "description": "Liquitex Professional Heavy Body Acrylics offer a full spectrum of high-pigment colors in a buttery, thick consistency that allows for excellent brushability and visibility of brush strokes, ideal for professional artists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "2a0a05d5-0109-4f28-8887-89c5097f2ede",
+            "image": null,
+            "name": "Liquitex Freestyle Acrylic Paint Marker",
+            "description": "Liquitex Freestyle Acrylic Paint Markers are versatile, water-based acrylic markers designed for artists and creators, ideal for both fine detail work and bold applications on various surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "9c15f784-87c2-45d4-8595-c53e2007a891",
+            "image": null,
+            "name": "Grado Series RS2x",
+            "description": "The Grado Series RS2x headphones are open-back dynamic headphones designed for audiophiles, providing a detailed sound experience with a focus on musicality and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "6cc67306-5700-4db0-92cd-ef5dedb28f9e",
+            "image": null,
+            "name": "Graco® Extend2Fit® 3-in-1 Car Seat",
+            "description": "The Graco® Extend2Fit® 3-in-1 Car Seat is designed to provide safety and comfort for children from rear-facing to high-back booster modes, accommodating them as they grow.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "093441dd-842f-4200-a8b1-a27b95985070",
+            "image": null,
+            "name": "Smeg 50s Retro Style Fridge",
+            "description": "The Smeg 50s Retro Style Fridge series offers a unique blend of vintage aesthetics and modern refrigeration technology, designed to enhance any kitchen with its distinctive, retro design and efficient cooling performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fc0c95d1-b4c2-461c-8ad6-18d3bf44d6a0",
+            "image": null,
+            "name": "Liquitex Freestyle Acrylic Paints",
+            "description": "Liquitex Freestyle Acrylic Paints are a versatile range of acrylic paints designed for artists looking for vibrant colors and quick-drying properties, suitable for both indoor and outdoor use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "8f582eb9-81ef-4a94-9b0e-b4b4a62ce065",
+            "image": null,
+            "name": "Soleil",
+            "description": "The Manutti Soleil series offers versatile and stylish outdoor furniture designed to enhance outdoor living spaces while providing comfort and durability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Manutti"
+            }
+        },
+        {
+            "id": "d1f51a22-e5d3-470b-9802-033413dacc68",
+            "image": null,
+            "name": "Dreo Air Fryer Pro Max",
+            "description": "The Dreo Air Fryer Pro Max is a kitchen appliance designed to cook food with little to no oil, utilizing Rapid Air Technology for healthier frying alternatives. It offers versatile cooking options, allowing users to fry, bake, grill, and roast a variety of dishes efficiently.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Dreo"
+            }
+        },
+        {
+            "id": "d737ae52-3fed-4744-8719-419afae81d81",
+            "image": null,
+            "name": "Smeg 1950s Retro Style Refrigerators",
+            "description": "The Smeg 1950s Retro Style Refrigerators combine vintage aesthetics with modern refrigeration technology, offering both functionality and style for contemporary kitchens.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8b3062a8-d5e5-4508-ba32-96b58ad02f9b",
+            "image": null,
+            "name": "Timex x DQM",
+            "description": "The Timex x DQM series is a collaboration between Timex and DQM, offering stylish and functional timepieces that blend classic designs with modern aesthetics, suitable for casual and everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "38bb562e-dc30-43d8-821b-13be1f65ef12",
+            "image": null,
+            "name": "Phase One XF",
+            "description": "The Phase One XF is a medium format digital camera system designed for professional photographers, featuring modular components for customizable workflows and exceptional image quality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Phase One"
+            }
+        },
+        {
+            "id": "91097e87-9888-4769-99ae-a29bdd308839",
+            "image": null,
+            "name": "Meguiar's Professional",
+            "description": "Meguiar's Professional is a series of high-quality car care products designed for automotive detailing professionals and enthusiasts alike, focusing on delivering superior performance for cleaning, polishing, and protecting vehicles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "18509d06-9414-47e2-868e-6807ea15b77e",
+            "image": null,
+            "name": "Klarstein Skyscraper",
+            "description": "The Klarstein Skyscraper series offers versatile vacuum cleaners designed to provide efficient cleaning solutions for various surfaces and environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "0ed8cf26-2a3e-4788-a1fa-d0dae19aa50b",
+            "image": null,
+            "name": "Ninja H2 SX",
+            "description": "The Kawasaki Ninja H2 SX is a high-performance sport-touring motorcycle that combines power with advanced technology for both aggressive riding and long-distance comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "5d426cce-c249-4405-88ad-9d298c3259c1",
+            "image": null,
+            "name": "Pro Compact Controller",
+            "description": "The Nacon Pro Compact Controller is a versatile gaming controller designed for enhanced gameplay, featuring ergonomic design and responsive controls for gamers seeking a more compact option.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "a4886bf8-d1d0-457b-9bce-d017c2791570",
+            "image": null,
+            "name": "Kanken Art",
+            "description": "The Fjällräven Kanken Art series features durable, functional bags designed for everyday use, with unique artistic designs that reflect individuality and creativity. They are crafted to offer practicality and comfort while promoting sustainability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "91b29668-fbec-4153-843f-92d398261c54",
+            "image": null,
+            "name": "Ford F-Series (Eleventh Generation)",
+            "description": "The Ford F-Series (Eleventh Generation) is a line of full-size pickup trucks known for their durability, versatility, and capability, making them suitable for both personal and commercial use.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "1b1f738f-2db8-4b09-82b5-8a773f85cd43",
+            "image": null,
+            "name": "Sofia",
+            "description": "The Poliform Sofia series offers a sophisticated wardrobe solution, characterized by its elegant design and customizable configurations, catering to diverse storage needs and aesthetic preferences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "982db92c-22aa-4290-9c44-6e6796c589d4",
+            "image": null,
+            "name": "MYSON TORNADO",
+            "description": "The Myson Tornado series consists of high-efficiency water heaters designed for quick heating and energy savings, making them ideal for various residential and commercial applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Myson"
+            }
+        },
+        {
+            "id": "f86ef040-9599-4a00-81fc-db2e775e4dcf",
+            "image": null,
+            "name": "Liquitex Acrylic Paints",
+            "description": "Liquitex Acrylic Paints are professional-grade acrylic paints known for their high pigment concentration, versatile applications, and quick drying time, making them ideal for artists in a variety of media.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "47a15e6c-4d42-497e-86b8-1ac2d5872ff6",
+            "image": null,
+            "name": "Kånken Re-Wool",
+            "description": "The Fjällräven Kånken Re-Wool series features durable and eco-friendly bags made from recycled wool, designed for everyday use and outdoor activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        }
+    ]
+}

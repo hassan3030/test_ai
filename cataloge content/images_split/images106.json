@@ -1,0 +1,342 @@
+{
+    "data": [
+        {
+            "id": "5cf44427-0ce8-4d48-8af3-f3300875dab7",
+            "image": null,
+            "name": "GE Adora™ Series Appliances",
+            "description": "The GE Adora™ Series Appliances provide reliable performance and modern features designed to enhance home efficiency and convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5dd0780f-f278-4a8a-9867-5c3648b01635",
+            "image": null,
+            "name": "FreshZone",
+            "description": "The Electrolux FreshZone series of refrigerators features advanced storage solutions designed to preserve the freshness of food, utilizing optimal temperature and humidity control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e3287cf8-04b9-4b40-9e45-2107e618e9be",
+            "image": null,
+            "name": "Classic Series",
+            "description": "The Miele Classic Series coffee machines are designed for coffee enthusiasts who appreciate high-quality brewing and elegant design, offering a range of customizable options for a perfect cup of coffee.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ecebb6a5-6e80-4fca-b1d7-5fde93eb4a6c",
+            "image": null,
+            "name": "Kenmore 600 Series",
+            "description": "The Kenmore 600 Series washing machines are designed to deliver efficient cleaning performance and user-friendly features, making laundry tasks more manageable.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "71b61a63-ee46-49ea-bcd3-277334f4dac6",
+            "image": null,
+            "name": "Miele W1 Series",
+            "description": "The Miele W1 Series consists of high-quality washing machines designed to deliver exceptional cleaning performance and energy efficiency. This series features advanced technologies that ensure thorough fabric care and optimal washing results.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e89b5fd8-1add-49de-b4be-67d6357f751b",
+            "image": null,
+            "name": "Maytag Smart Washer and Dryer",
+            "description": "The Maytag Smart Washer and Dryer series offers advanced laundry solutions with Smart technology features that allow users to control and monitor their laundry from a mobile device. Built for durability and efficiency, these machines are designed to handle large loads and provide optimal cleaning performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "72d85873-09bb-46a9-8801-2e66f8d411d0",
+            "image": null,
+            "name": "KitchenAid 5-Speed Hand Blender",
+            "description": "The KitchenAid 5-Speed Hand Blender is a versatile kitchen tool designed for blending, pureeing, and emulsifying a variety of ingredients effortlessly, making meal preparation easier and more efficient.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "72e13d8c-43f8-4cb5-9729-54507c19ff3f",
+            "image": null,
+            "name": "Kenmore Elite",
+            "description": "The Kenmore Elite series offers a selection of high-efficiency washing machines designed to provide effective cleaning and enhance laundry care through innovative features and advanced technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7b180dce-29d6-49e3-80b2-0c64a346d363",
+            "image": null,
+            "name": "Kenmore Elite 700 Series",
+            "description": "The Kenmore Elite 700 Series refrigerators offer advanced cooling technology and a variety of innovative features designed to keep food fresh and organized, providing a reliable solution for modern kitchens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7d24f46e-caf4-4811-b247-5f351e5138fb",
+            "image": null,
+            "name": "Kenmore Elite 51716",
+            "description": "The Kenmore Elite 51716 is a modern refrigerator series designed for efficiency and convenience, featuring a sleek design and advanced cooling technologies that help to preserve food freshness.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a2f6b85a-20b8-4036-a963-93093139ec4a",
+            "image": null,
+            "name": "Kenmore Smart",
+            "description": "The Kenmore Smart series of refrigerators, released in 2021, combines advanced technology with energy efficiency to offer convenience and connectivity for modern kitchens.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aa99c0c4-53f3-4985-b100-6d3e427c7daa",
+            "image": null,
+            "name": "Miele CM 7 Series",
+            "description": "The Miele CM 7 Series consists of advanced coffee machines designed to deliver high-quality coffee experiences with programmable settings and customizable options for different coffee types.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b216d76c-1c62-4a5b-9c88-33484cb45cbb",
+            "image": null,
+            "name": "Kenmore 500 Series",
+            "description": "The Kenmore 500 Series is a line of washing machines designed for efficient cleaning performance and convenience, featuring multiple wash cycles and options to accommodate various laundry needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0ffa53cd-343b-4269-93e3-03db733372fa",
+            "image": null,
+            "name": "La Specialista Arte",
+            "description": "The De'Longhi La Specialista Arte is a premium coffee machine designed for home baristas, offering users a combination of manual and automatic features to enhance their espresso-making experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "194a6c61-99db-494b-b392-d0aadf6c165d",
+            "image": null,
+            "name": "Miele T1 Series",
+            "description": "The Miele T1 Series is a line of high-efficiency washing machines designed to provide exceptional cleaning performance while being gentle on clothes. Their advanced technology and various care programs cater to diverse laundry needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2324847f-23d4-4dd3-83ae-3e8db177b62f",
+            "image": null,
+            "name": "Breville Bambino Plus Espresso Machine",
+            "description": "The Breville Bambino Plus Espresso Machine is designed to deliver café-quality espresso in a compact format, featuring an intuitive interface and advanced temperature control for precise extraction.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2380b6aa-6033-4c73-8688-4ed569657ef6",
+            "image": null,
+            "name": "Cuisinart Coffee Center",
+            "description": "The Cuisinart Coffee Center combines convenience and versatility by offering a fully automatic coffee maker along with a single-serve brewer, allowing users to enjoy both full carafes and single cups of coffee.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "386e0a65-df03-4f2f-9252-221a599e70dc",
+            "image": null,
+            "name": "Cuisinart Ice Cream Maker",
+            "description": "The Cuisinart Ice Cream Maker series is designed to effortlessly create homemade ice cream, sorbet, and frozen yogurt, allowing users to enjoy a variety of frozen desserts with minimal preparation time.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4a8936a6-6a4e-41f3-981c-f272e73ddc34",
+            "image": null,
+            "name": "Dedica",
+            "description": "The De'Longhi Dedica series features compact espresso machines designed to deliver cafe-quality coffee drinks at home, focusing on ease of use and customizable brewing options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4d8178b4-027a-4331-9f8b-da7f4c3b23d7",
+            "image": null,
+            "name": "Barista Touch",
+            "description": "The Breville Barista Touch is a versatile coffee machine designed for home baristas, featuring a touchscreen display for easy navigation and customizable settings to brew the perfect espresso.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bd0340f9-4242-410b-8298-d84b5b152272",
+            "image": null,
+            "name": "Cuisinart Precision Master Stand Mixer",
+            "description": "The Cuisinart Precision Master Stand Mixer is a versatile kitchen appliance designed for mixing, kneading, and whipping various ingredients with ease, making it ideal for both novice and experienced bakers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c6873bbd-b9e6-4cfb-9f68-ceee8ab13247",
+            "image": null,
+            "name": "Cuisinart AirFryer Ovens",
+            "description": "The Cuisinart AirFryer Ovens are versatile kitchen appliances that combine the functionality of an oven and an air fryer, allowing you to cook a variety of meals with less oil for healthier results.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ce3ca699-3fae-4408-bfcc-c7c658694c55",
+            "image": null,
+            "name": "Miele Dialog Oven",
+            "description": "The Miele Dialog Oven is a cutting-edge microwave oven that utilizes innovative cooking technology to prepare food evenly and efficiently, ensuring optimal flavor and texture.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e779b3e5-a798-4a5b-bc0e-8174321bbb04",
+            "image": null,
+            "name": "Chicco KeyFit 30 Infant Car Seat",
+            "description": "The Chicco KeyFit 30 Infant Car Seat is designed to provide safety and comfort for infants during travel, featuring an easy-to-install base and adjustable harness system.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "ea09d78d-b3b6-4438-8e65-cd0550a52a03",
+            "image": null,
+            "name": "Frigidaire 30 in. Air Fry Range",
+            "description": "The Frigidaire 30 in. Air Fry Range is a versatile kitchen appliance that combines the functionality of an oven with air frying capabilities, allowing users to cook meals with less oil while achieving a crispy texture.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "61db8fc3-fccd-4dc1-8dff-954c11b1a945",
+            "image": null,
+            "name": "Smeg Citrus Juicer",
+            "description": "The Smeg Citrus Juicer is an electric citrus extractor designed for efficiently squeezing juice from various citrus fruits while maintaining a stylish and compact appearance in any kitchen.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ea333e2b-8228-487f-8d97-85401e6214a0",
+            "image": null,
+            "name": "Frigidaire 18 cu. ft. Top Freezer Refrigerator",
+            "description": "The Frigidaire 18 cu. ft. Top Freezer Refrigerator is a reliable appliance designed for efficient food storage with adjustable shelving and plenty of space in both the refrigerator and freezer compartments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fcbc5af9-45cc-4123-8b4f-8708ecbe6abb",
+            "image": null,
+            "name": "Graco Extend2Fit",
+            "description": "The Graco Extend2Fit is a convertible car seat designed for children, featuring extended rear-facing capability to ensure safety as they grow. It combines comfort with advanced safety features, making it suitable for extended use from infancy through toddlerhood.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "6aeadbc4-2fcc-480d-b9f3-1869dabb3afe",
+            "image": null,
+            "name": "Focal Spark",
+            "description": "The Focal Spark series is a line of on-ear headphones designed for casual listening, providing clear sound quality and comfort for extended use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "63b197b8-b800-4175-a712-41adb0766a62",
+            "image": null,
+            "name": "City Select LUX",
+            "description": "The Baby Jogger City Select LUX is a versatile stroller designed for growing families, offering multiple seating configurations and a modular design for adaptability and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        }
+    ]
+}

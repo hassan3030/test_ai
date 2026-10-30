@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "86299104-6fb5-4b0c-bd5a-c2a824ac9506",
+            "image": null,
+            "name": "Santa Cruz x Peanuts",
+            "description": "The Santa Cruz x Peanuts series features skateboards that combine the iconic imagery of Charles Schulz's beloved comic characters with high-performance skateboard design, catering to both collectors and skateboarding enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "58a9b588-8105-4cba-a9ab-ccd794172b81",
+            "image": null,
+            "name": "Santa Cruz x Thrasher",
+            "description": "The Santa Cruz x Thrasher series features a collaboration between two iconic skateboarding brands, showcasing unique designs and graphics that cater to skateboard enthusiasts and collectors alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "e7b1c202-1c06-40d5-a7cf-71165eb1a280",
+            "image": null,
+            "name": "Santa Cruz Skateboards 2022 Pro Models",
+            "description": "The Santa Cruz Skateboards 2022 Pro Models feature professional-grade skateboards designed for street and park performance, offering durability and superior design elements tailored for pro skaters.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "7ad3c5ef-8dcf-4e5c-a84c-a88851a34514",
+            "image": null,
+            "name": "Santa Cruz Classic Dot",
+            "description": "The Santa Cruz Classic Dot series features iconic skateboard decks known for their durability and vibrant designs, ideal for both recreational riding and serious skateboarding.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "8f2c32e0-8887-457d-818d-cb8dd05b4a77",
+            "image": null,
+            "name": "Winsor & Newton Cotman Water Colour",
+            "description": "Winsor & Newton Cotman Water Colour series offers a range of watercolours designed for students and beginners, known for their excellent transparency and vibrant colours.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "7a077ffd-d8c1-4f14-a260-25fc0e8916a7",
+            "image": null,
+            "name": "Cotman Water Colours",
+            "description": "Winsor & Newton Cotman Water Colours are a range of affordable, high-quality watercolour paints designed for artists of all levels. Known for their transparency and brilliance, they are ideal for both studio and outdoor painting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "9e11059a-6641-4522-8ee2-704575c5cfea",
+            "image": null,
+            "name": "Professional Water Colour",
+            "description": "The Winsor & Newton Professional Water Colour series is designed for artists seeking high-quality, vibrant watercolors with exceptional lightfastness and mixing capabilities. Launched in 2017, this range is renowned for its extensive palette and the ability to produce transparent, luminous washes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "8a7c1d96-6bff-42d9-a756-6960762d2b90",
+            "image": null,
+            "name": "Winsor & Newton Professional Water Colours",
+            "description": "Winsor & Newton Professional Water Colours are a high-quality range of water-based paints, designed for artists seeking vibrant colors and excellent transparency in their artwork.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "c6f2b53c-bb18-45f8-9b21-fb1373ff0e96",
+            "image": null,
+            "name": "Water Colour Markers",
+            "description": "The Winsor & Newton Water Colour Markers are versatile art supplies designed for both watercolor techniques and precise marking, providing vibrant colors and smooth blending abilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "ad590cae-667f-45c1-8f31-36ca5697c72f",
+            "image": null,
+            "name": "Ferrari 488 Spider",
+            "description": "The Ferrari 488 Spider is a high-performance convertible sports car, known for its powerful twin-turbocharged V8 engine, advanced aerodynamics, and sleek design, combining thrilling driving dynamics with open-air enjoyment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "e55f1f88-c49b-464e-ad9e-197d88d208b2",
+            "image": null,
+            "name": "Ferrari 812 Superfast",
+            "description": "The Ferrari 812 Superfast is a high-performance sports car known for its powerful V12 engine, exceptional handling, and luxurious design, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "8d8469d8-0245-4938-b7d8-aff7442ac77f",
+            "image": null,
+            "name": "Ferrari F8 Spider",
+            "description": "The Ferrari F8 Spider is a high-performance convertible sports car that combines striking design with cutting-edge technology, aiming to deliver an exhilarating driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "8e96b2a2-5d2e-4faf-8223-1e806197db8f",
+            "image": null,
+            "name": "Ferrari F1-75",
+            "description": "The Ferrari F1-75 is a Formula One racing car that competes in the FIA Formula One World Championship, known for its innovative design and advanced technology aimed at achieving optimal performance on the track.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "9f6a9d3e-7972-4b2b-b72d-37ed11255a22",
+            "image": null,
+            "name": "Suzuki Wagon R",
+            "description": "The Suzuki Wagon R is a compact MPV designed for urban commuting, featuring a tall-box design that maximizes interior space and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "23c0ad40-c646-4869-aa9e-04e1e16a2bfb",
+            "image": null,
+            "name": "Suzuki Aerio",
+            "description": "The Suzuki Aerio is a compact car that was produced by Suzuki from 2002, known for its practical design, reliable performance, and fuel efficiency, making it suitable for everyday driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "1e0ac444-38b7-4832-9cd0-81bae622941d",
+            "image": null,
+            "name": "Suzuki Forenza",
+            "description": "The Suzuki Forenza is a compact car that was produced by Suzuki from 2002 to 2008, offering a practical design and efficient performance for everyday driving needs.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "dcaff1a1-4a66-45a0-baaf-5204dbba01a8",
+            "image": null,
+            "name": "Classic Style Floor Liners",
+            "description": "Husky Liners Classic Style Floor Liners are designed to provide maximum protection for the vehicle's interior against dirt, mud, and spills while maintaining a classic fit and look.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "01184022-d419-4e99-9343-ffd0423f74bc",
+            "image": null,
+            "name": "Volvo V40",
+            "description": "The Volvo V40 is a compact car introduced in 2002, known for its safety features, practicality, and comfort, making it suitable for both urban and long-distance driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ed3fd7b2-0ebc-4ac8-b910-fceb675cd687",
+            "image": null,
+            "name": "Santa Cruz Screaming Hand",
+            "description": "The Santa Cruz Screaming Hand series features a vibrant collection of skateboards known for their bold graphics and quality construction, designed for both aesthetic appeal and performance on the street or skate park.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "70e77301-c628-4592-ba6f-8d66b459dffc",
+            "image": null,
+            "name": "Santa Cruz Tom Asta Pro Model",
+            "description": "The Santa Cruz Tom Asta Pro Model skateboards are designed for high-performance skating, combining durability and style to meet the needs of professional skateboarders and enthusiasts alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "13d8a77f-fc9a-4f5c-b300-a45d362e352e",
+            "image": null,
+            "name": "Copic Classic",
+            "description": "Copic Classic markers are high-quality, alcohol-based markers designed for artists and illustrators. They feature a broad range of colors, refillable ink, and replaceable nibs, making them versatile tools for various artistic applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "528a42b5-33b6-4efb-93be-4c8fc2b7361b",
+            "image": null,
+            "name": "Copic Sketch",
+            "description": "Copic Sketch markers are high-quality, dual-tipped alcohol-based markers, ideal for artists and illustrators, known for their vibrant colors and blending capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "d1fc1796-8f23-4974-861a-10d323a8aea9",
+            "image": null,
+            "name": "Copic Ciao",
+            "description": "Copic Ciao markers are a versatile range of alcohol-based ink markers designed for artists and illustrators, known for their ease of use, vibrant colors, and refillable design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "363350cb-ac17-4dc7-ade2-2641cddb05b5",
+            "image": null,
+            "name": "Copic Wide",
+            "description": "Copic Wide markers are specially designed for creating large areas of color, offering smooth application and quick-drying, high-quality ink that is perfect for artists and illustrators seeking to achieve broad strokes and vibrant hues.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "1523ac04-e009-46f7-9f31-a04f72eb4c32",
+            "image": null,
+            "name": "Copic Multiliner",
+            "description": "Copic Multiliner is a series of quality fineliner pens designed for artists, illustrators, and designers, known for their precision and high-quality ink suitable for various paper types.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "a16a0748-ddea-4e7a-a499-66cf3083e3a5",
+            "image": null,
+            "name": "Copic Sketch Marker",
+            "description": "Copic Sketch Markers are high-quality alcohol-based markers designed for artists and illustrators, offering a wide range of colors and a flexible brush tip for smooth, even application.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "70b952b9-0673-4aee-aba0-3a895cec4c76",
+            "image": null,
+            "name": "Copic Ciao Marker",
+            "description": "The Copic Ciao Marker series is a versatile range of double-ended alcohol-based markers designed for artists and hobbyists. They are known for their smooth application, vibrant colors, and ability to blend seamlessly.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "2e12b388-8f79-41d9-8e9d-d1e033f1f049",
+            "image": null,
+            "name": "Copic Markers",
+            "description": "Copic Markers are high-quality, alcohol-based markers known for their smooth application and vibrant colors, making them ideal for artists, illustrators, and designers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "a71ec7e9-0415-4a63-9a36-95596d6ecb3d",
+            "image": null,
+            "name": "Copic Marker 2022 Color Release",
+            "description": "The Copic Marker 2022 Color Release consists of new color additions to the Copic marker line, designed for artists and illustrators who seek high-quality, refillable markers with smooth application and vibrant colors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "edbdfbb2-e2d5-49d7-897d-653c6029c9e6",
+            "image": null,
+            "name": "Holbein Artist Watercolors",
+            "description": "Holbein Artist Watercolors are high-quality watercolors known for their excellent pigment concentration, smooth application, and vibrant colors, designed for professional artists and watercolor enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Holbein"
+            }
+        }
+    ]
+}

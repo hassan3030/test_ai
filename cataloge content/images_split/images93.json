@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "af35a70d-4a2c-4833-9559-4336cee578ff",
+            "image": null,
+            "name": "Kia EV6 GT",
+            "description": "The Kia EV6 GT is a high-performance electric SUV that combines advanced technology with sporty driving dynamics, designed for those who seek both eco-friendliness and excitement on the road.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "b51b2928-a8e5-4b5e-8165-1494f3b063f7",
+            "image": null,
+            "name": "Audi A6 (eighth generation)",
+            "description": "The Audi A6 (eighth generation) is a premium midsize luxury sedan known for its sophisticated design, advanced technology, and a blend of performance with comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cfb12f7c-b006-49f9-8ac6-600c0953847b",
+            "image": null,
+            "name": "Bajaj Pulsar 200",
+            "description": "The Bajaj Pulsar 200 is a motorcycle series launched in 2006, known for its sporty design and performance-oriented features aimed at enthusiasts seeking an exhilarating riding experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "d83d58a7-1cb6-4de2-bd91-af5a440d05bc",
+            "image": null,
+            "name": "Panasonic GX85 / GX80",
+            "description": "The Panasonic GX85 / GX80 is a mirrorless camera series designed for photography enthusiasts, featuring advanced imaging capabilities, in-body stabilization, and compact design for versatility in various shooting situations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "138c519c-6a3d-4963-ab5c-463ac081b533",
+            "image": null,
+            "name": "Terrain",
+            "description": "The GMC Terrain is a compact SUV known for its blend of functionality and comfort, offering ample cargo space and advanced technology features to enhance the driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "19ee06ab-0241-4c22-8fd7-47d1d8dacc2c",
+            "image": null,
+            "name": "Bajaj Avenger 180",
+            "description": "The Bajaj Avenger 180 is a cruiser motorcycle designed for comfort and style, offering a relaxed riding experience with a powerful engine and distinctive design.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "338cea59-d2c9-49f8-b21a-eb51a351de2a",
+            "image": null,
+            "name": "Porsche Macan (new generation)",
+            "description": "The Porsche Macan (new generation) is a luxury compact SUV designed to deliver exceptional performance and versatility, combining sporty handling with the practicality needed for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3733efa3-439e-4ec4-97c1-e2f0fd1005a7",
+            "image": null,
+            "name": "Lenovo IdeaPad 5",
+            "description": "The Lenovo IdeaPad 5 series is a line of mid-range laptops designed to provide a balance of performance, portability, and multimedia capabilities, suitable for everyday computing tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "382e3af5-c38a-44e0-a064-67d792d6185d",
+            "image": null,
+            "name": "Honda Civic (7th Generation)",
+            "description": "The Honda Civic (7th Generation) is a compact car known for its reliability, fuel efficiency, and practical design. It is designed to provide a comfortable driving experience while offering versatile interior space and advanced safety features.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "39556d90-5d34-4ff2-ab5c-f7ced9b05700",
+            "image": null,
+            "name": "Mercedes-Benz R-Class",
+            "description": "The Mercedes-Benz R-Class is a mid-size luxury crossover SUV that combines the functionality of an SUV with the comfort and features of a premium passenger vehicle, aimed at families and individuals seeking versatility and spaciousness.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "3e5c6c44-6ae0-48dc-a0b2-b2f6aa933dd4",
+            "image": null,
+            "name": "Porsche 911 75th Anniversary Edition",
+            "description": "The Porsche 911 75th Anniversary Edition is a special variant of the iconic sports car, celebrating 75 years of Porsche's legacy in automotive excellence, blending performance with unique design elements.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "57c1ce67-982b-40fe-b2f2-7789736be889",
+            "image": null,
+            "name": "Alpina B5 Bi-Turbo",
+            "description": "The Alpina B5 Bi-Turbo is a high-performance luxury sedan developed by Alpina, featuring a powerful bi-turbo engine, refined handling, and exclusive styling elements.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "de990065-3dbb-400c-8213-9bc99f9c6ac5",
+            "image": null,
+            "name": "Honda Activa",
+            "description": "The Honda Activa is a popular series of scooters manufactured by Honda Motorcycle & Scooter India, designed for ease of use and reliability in urban commuting since its introduction in 2003.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "e1543fb3-1b89-431a-841d-cabfbe8d28d2",
+            "image": null,
+            "name": "Pulsar 200NS",
+            "description": "The Bajaj Pulsar 200NS is a motorcycle designed for performance and agility, featuring a powerful engine and lightweight frame to deliver an engaging riding experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "63bf818a-476f-4933-92b7-05d348b6da95",
+            "image": null,
+            "name": "Bajaj Pulsar N160",
+            "description": "The Bajaj Pulsar N160 is a motorcycle designed for urban commuting and sporty performance, featuring a powerful engine and modern styling suitable for both daily use and weekend rides.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "e5f70b57-6aca-45bc-a8cc-1853b35ec821",
+            "image": null,
+            "name": "Honda Shine",
+            "description": "The Honda Shine is a popular commuter motorcycle that has been designed for efficient performance and comfort, making it suitable for daily use on urban roads.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "fafb5b1c-9e1c-4bb1-b066-0b38d0a22983",
+            "image": null,
+            "name": "Bajaj Dominar",
+            "description": "The Bajaj Dominar is a series of powerful motorcycles designed for long-distance touring and everyday commuting, known for their modern styling, advanced technology, and robust performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "46fd2c5f-7a66-4864-b1b9-86441b5c0b85",
+            "image": null,
+            "name": "Fire TV Stick 4K",
+            "description": "The Amazon Fire TV Stick 4K is a streaming media player that allows users to access a variety of streaming services, providing high-quality 4K video playback and a user-friendly interface.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "8256a395-87a4-4137-8786-c58a98765167",
+            "image": null,
+            "name": "Bajaj Platina 100",
+            "description": "The Bajaj Platina 100 is a commuter motorcycle designed for efficiency and comfort, offering a reliable and economical riding experience for urban and rural environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "9e42d3b3-6ed7-43b6-aedf-d4627b33eda3",
+            "image": null,
+            "name": "Honda CB Shine",
+            "description": "The Honda CB Shine is a popular motorcycle produced by Honda Motorcycle & Scooter India since 2004, known for its fuel efficiency, reliable performance, and comfortable riding experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "a44c8b6b-a95d-4fad-b41b-25c8fff87cee",
+            "image": null,
+            "name": "Bajaj Pulsar F250",
+            "description": "The Bajaj Pulsar F250 is a modern motorcycle designed for performance and style, featuring a powerful engine and advanced technology to enhance the riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "ab6ebaba-bc4f-44e3-9583-9eefcdd17475",
+            "image": null,
+            "name": "Monokey",
+            "description": "The Givi Monokey series offers a versatile system for mounting luggage on motorcycles, enabling easy attachment and detachment of cases while maintaining security and stability during rides.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "adca0b58-f829-40f4-9de8-82fc99b071f5",
+            "image": null,
+            "name": "Pulsar 220F",
+            "description": "The Bajaj Pulsar 220F is a popular sports motorcycle known for its performance and style, designed for riders seeking a balance between speed and comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "b60ec044-3196-4d9d-a601-36ed253f725e",
+            "image": null,
+            "name": "LEGO Friends",
+            "description": "LEGO Friends is a toy series designed to engage children through imaginative play, featuring a diverse set of characters and creative building sets that encourage storytelling and social interaction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "c9c79354-e688-4b5d-bf17-935d549b4753",
+            "image": null,
+            "name": "Bajaj Platina 125",
+            "description": "The Bajaj Platina 125 is a commuter motorcycle designed for efficiency and comfort, offering a balance between performance and fuel economy.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "caf52582-815f-4494-a331-89d234c171f0",
+            "image": null,
+            "name": "Monolock",
+            "description": "The Givi Monolock series is designed for lightweight and easy-to-use motorcycle luggage systems, featuring a single key operation for greater convenience and flexibility.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "141daa00-a05d-46a5-9156-d00b34e56b8b",
+            "image": null,
+            "name": "Tanklock",
+            "description": "The Givi Tanklock series is designed for motorcycle enthusiasts seeking convenient and secure luggage solutions. Its key feature is the innovative fitting system that allows tank bags to be attached and detached quickly and easily without needing additional straps.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "14fffac0-a02e-4015-a0fb-c3ce08118eb5",
+            "image": null,
+            "name": "Bajaj Dominar 250",
+            "description": "The Bajaj Dominar 250 is a sporty motorcycle designed for commuting and touring, offering a balance of performance and comfort. Launched in 2020, it features a robust engine and modern styling aimed at young riders.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "18823603-8e0d-47c9-9f96-6f8a276ad69e",
+            "image": null,
+            "name": "Givi Trekker Series",
+            "description": "The Givi Trekker Series is a line of hard luggage designed for adventure and touring motorcycles, known for their sturdy construction and weather resistance to protect your gear on long rides.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "1d61c6a9-95a4-4021-b35a-985e068b43cd",
+            "image": null,
+            "name": "Givi Dolomiti Series",
+            "description": "The Givi Dolomiti Series is a line of motorcycle luggage designed for adventure and touring, featuring durable materials and practical design for long-distance travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        }
+    ]
+}

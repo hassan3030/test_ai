@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "id": "b5360ffc-8844-4e26-90c9-cd65c91089ea",
+            "image": null,
+            "name": "Bimota DB9 Brivido",
+            "description": "The Bimota DB9 Brivido is a premium sports motorcycle known for its lightweight construction and high-performance capabilities, designed for exhilarating rides on the road and track.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "ba745592-393c-4dfa-aa78-2d10692e4e8a",
+            "image": null,
+            "name": "Zero X",
+            "description": "The Zero X is an electric motorcycle series designed for off-road and trail riding, known for its lightweight construction and durable performance in various terrains.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "c24c179a-3d77-429b-88f1-8d96a8e331d6",
+            "image": null,
+            "name": "Versys 650",
+            "description": "The Versys 650 is a versatile motorcycle designed for both on-road and off-road riding, featuring a comfortable upright seating position and adjustable windscreen for enhanced touring capabilities.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "0bc973e6-ddc3-4560-b940-800ab5b3a367",
+            "image": null,
+            "name": "Jaguar X-Type",
+            "description": "The Jaguar X-Type is a compact executive car that combines luxury with performance, aiming to deliver a refined driving experience and stylish design.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0c08ee54-997c-4d08-a22f-6d5e2052faf4",
+            "image": null,
+            "name": "Shinko 700 Series",
+            "description": "The Shinko 700 Series is designed for on-road touring and sport riding, offering a balanced combination of performance, durability, and comfort.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0d2d69da-3dbe-4411-8eea-07fd9423ed4e",
+            "image": null,
+            "name": "Zero XU",
+            "description": "The Zero XU is an electric motorcycle designed for urban commuting and light off-road use, combining agility and efficiency with environmentally friendly technology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "180dc226-0bd2-4754-b635-38323eb859cd",
+            "image": null,
+            "name": "Piaggio Vespa Elettrica",
+            "description": "The Piaggio Vespa Elettrica is an electric scooter that combines classic design with modern technology, aimed at providing efficient urban mobility while reducing environmental impact.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "33e2faf6-97ab-4d6e-95f3-f7b7b8a717a1",
+            "image": null,
+            "name": "Electrolux INVERTER",
+            "description": "The Electrolux INVERTER series of refrigerators features advanced inverter technology for efficient cooling and energy savings, designed to meet modern refrigeration needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "35885f9c-03ad-4e16-8134-14407b4f584e",
+            "image": null,
+            "name": "Zero DS",
+            "description": "The Zero DS is an all-electric motorcycle designed for versatility and adaptability, suitable for both on-road and off-road riding experiences. It emphasizes performance, durability, and environmentally friendly transportation.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "498f833a-2694-4bf6-9963-0bb117a257bb",
+            "image": null,
+            "name": "S-Type",
+            "description": "The Jaguar S-Type is a luxury sedan produced by Jaguar Cars, known for its elegant design and a blend of performance and comfort, aimed at providing a sophisticated driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5b066a07-ddde-4cc7-9656-aa11cda94fd3",
+            "image": null,
+            "name": "Speed Triple R",
+            "description": "The Triumph Speed Triple R is a high-performance motorcycle known for its agile handling, powerful engine, and distinctive design, making it ideal for both spirited rides and everyday commuting.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "cccd581a-cec9-4e7a-8d88-5797224e0d88",
+            "image": null,
+            "name": "Tiger 1200",
+            "description": "The Triumph Tiger 1200 is an adventure motorcycle known for its versatility, powerful performance, and advanced technology, designed for long-distance travel and off-road capability.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "d1faf49b-a7ad-43ec-a713-476641e8babd",
+            "image": null,
+            "name": "Kawasaki ER-6n",
+            "description": "The Kawasaki ER-6n is a versatile naked motorcycle designed for both new and experienced riders, offering a lightweight frame, comfortable seating position, and a user-friendly inline-twin engine. It is well-suited for urban commuting and casual rides, making it an accessible choice in the motorcycle market.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "ffcabd99-001f-4f3c-a932-1aa415917cf1",
+            "image": null,
+            "name": "Jaguar XK (X150)",
+            "description": "The Jaguar XK (X150) is a luxury grand tourer that combines performance and elegance, featuring a powerful V8 engine and a sophisticated design.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "363dc33b-cbf5-43ac-b4e1-8661bc124416",
+            "image": null,
+            "name": "Peppa Pig: Happy Birthday",
+            "description": "The Peppa Pig: Happy Birthday series features toys inspired by the popular children's TV show, allowing kids to celebrate birthdays with their favorite characters in imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "60592d74-133a-413a-a810-274bb24fdcc9",
+            "image": null,
+            "name": "Volvo XC40 Recharge",
+            "description": "The Volvo XC40 Recharge is an all-electric compact SUV that combines stylish design with advanced technology and sustainability, aimed at providing a premium driving experience while minimizing environmental impact.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "92daeedd-54e3-4808-844c-c9b839b309cb",
+            "image": null,
+            "name": "Black Coral",
+            "description": "The Maui Jim Black Coral sunglasses combine style and performance, featuring lightweight materials and polarized lenses designed to reduce glare and enhance clarity in bright sunlight.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "720eeb03-d7c1-4fb7-a0d1-47dfcfb3074b",
+            "image": null,
+            "name": "Graco Ready2Grow LX 2.0 Double Stroller",
+            "description": "The Graco Ready2Grow LX 2.0 Double Stroller is designed to accommodate two children in various seating configurations, providing versatility and convenience for families with more than one little one.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "7642e602-b0ed-4219-87db-3578b01dd693",
+            "image": null,
+            "name": "Louis Vuitton City Bags",
+            "description": "The Louis Vuitton City Bags series, released in 2017, combines sophistication with functionality, catering to urban life while maintaining the brand's iconic luxury aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7d753e74-ecce-4a17-84e3-11d9c8caeda2",
+            "image": null,
+            "name": "Louis Vuitton x League of Legends Collection",
+            "description": "The Louis Vuitton x League of Legends Collection combines luxury fashion with the iconic gameplay of the popular video game, featuring a selection of high-end bags designed for gamers and enthusiasts alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "84585edb-080b-4fad-9038-51c38ff6116c",
+            "image": null,
+            "name": "Jaguar S-Type",
+            "description": "The Jaguar S-Type is a luxury sedan that combines traditional British craftsmanship with modern design and technology, aimed at delivering a balance of comfort and performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e631512-dc20-4bbc-bcbc-94e5a3c26573",
+            "image": null,
+            "name": "Chicco EasyFit Baby Carrier",
+            "description": "The Chicco EasyFit Baby Carrier is designed to provide a comfortable and ergonomic solution for carrying your baby, allowing parents to stay close while keeping their hands free. Its simplicity and adjustability make it suitable for both newborns and toddlers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "8e75f0b9-12f8-49f5-a7a6-0b35b6d45525",
+            "image": null,
+            "name": "Chevrolet Corvette Stingray",
+            "description": "The Chevrolet Corvette Stingray is a high-performance sports car known for its sleek design, powerful engine options, and advanced technology, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "95052005-f2d1-470c-98f1-72032e011500",
+            "image": null,
+            "name": "Graco 4Ever",
+            "description": "The Graco 4Ever series consists of convertible baby seats designed to accommodate children from infancy to booster seat age, providing safety and versatility throughout multiple stages of growth.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "044854ef-58e1-4455-a158-510787a5ee2d",
+            "image": null,
+            "name": "Electrolux Pure F9",
+            "description": "The Electrolux Pure F9 is a versatile vacuum cleaner series designed for efficient cleaning on a variety of surfaces, combining powerful suction with flexible maneuverability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "22cd7950-b539-45f0-abd7-ee5cec81dc21",
+            "image": null,
+            "name": "Louis Vuitton x NBA Collection",
+            "description": "The Louis Vuitton x NBA Collection features a range of accessories that blend luxury fashion with the dynamic spirit of basketball, reflecting both brands' iconic styles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "31187d2b-002d-407f-ab9b-999140d11758",
+            "image": null,
+            "name": "Jaguar S-Type (second generation)",
+            "description": "The Jaguar S-Type (second generation) is a luxury sedan that combines classic styling with modern technology, offering a comfortable driving experience and a spacious interior.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "34e1280f-c112-4135-a516-6f431eb9379a",
+            "image": null,
+            "name": "Aïku",
+            "description": "The Calligaris Aïku series features contemporary chairs designed for comfort and style, perfect for various dining and living environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4e491211-1518-41b8-a06b-0da70fe8f1b4",
+            "image": null,
+            "name": "Jaguar XJ (X351)",
+            "description": "The Jaguar XJ (X351) is a full-size luxury sedan that combines advanced technology with a refined design and powerful performance, aimed at delivering a superior driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "999e7847-13bb-4b33-8b27-07e1b7073090",
+            "image": null,
+            "name": "Jaguar XK",
+            "description": "The Jaguar XK is a luxury grand tourer that combines performance with elegance, featuring a sleek design and a powerful engine for an exhilarating driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

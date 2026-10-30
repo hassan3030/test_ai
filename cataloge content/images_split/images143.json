@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8deb0d26-9c00-4cfe-8f39-d2558f771827",
+            "image": null,
+            "name": "Paul Costelloe Eyewear Collection",
+            "description": "The Paul Costelloe Eyewear Collection features a range of stylish sunglasses designed to provide both protection from UV rays and a fashionable accessory for various occasions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Paul Costelloe"
+            }
+        },
+        {
+            "id": "a03e7307-ccf4-494c-b4e0-60eedb2a1726",
+            "image": null,
+            "name": "Paul Costelloe Accessories Collection",
+            "description": "The Paul Costelloe Accessories Collection features a range of meticulously crafted accessories designed to complement a variety of outfits, showcasing elegance and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Paul Costelloe"
+            }
+        },
+        {
+            "id": "1b8af605-1389-4fb1-a120-79b48b26bbc5",
+            "image": null,
+            "name": "Paul Costelloe Men's Collection",
+            "description": "The Paul Costelloe Men's Collection is a line of sophisticated and stylish men's clothing designed to offer quality and elegance for various occasions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Paul Costelloe"
+            }
+        },
+        {
+            "id": "d8b0d072-5c66-4463-bd75-fe0137a7d27d",
+            "image": null,
+            "name": "Whirlpool French Door Refrigerator",
+            "description": "The Whirlpool French Door Refrigerator series offers a spacious and versatile refrigeration solution, featuring accessible shelving and advanced cooling technology to keep food fresh and organized.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "f469fd67-1d10-4acc-bf31-05e995ff52a9",
+            "image": null,
+            "name": "RM 50-03 McLaren F1",
+            "description": "The Richard Mille RM 50-03 McLaren F1 is an exquisite luxury watch designed in collaboration with the McLaren Formula 1 team, emphasizing lightweight materials and advanced mechanical engineering for performance-oriented timekeeping.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Richard Mille"
+            }
+        },
+        {
+            "id": "d6867ae9-5826-429e-941a-559c67c9946f",
+            "image": null,
+            "name": "Bergtagen Series",
+            "description": "The Fjällräven Bergtagen Series is designed for outdoor enthusiasts seeking functional and durable camping gear, emphasizing practical features for extended wilderness adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "4aa7f36f-4755-45a5-b370-ce1fd5b32f94",
+            "image": null,
+            "name": "Ganni Spring/Summer 2021",
+            "description": "The Ganni Spring/Summer 2021 collection features a blend of contemporary designs with playful silhouettes and vibrant prints, designed to embody the spirit of the season while promoting versatility and comfort in women's clothing.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Ganni"
+            }
+        },
+        {
+            "id": "8556eacb-57dd-41a9-a842-a93332cf821f",
+            "image": null,
+            "name": "Schmincke Norma Watercolour",
+            "description": "Schmincke Norma Watercolour is a professional-grade watercolor paint series known for its high pigment concentration and excellent lightfastness, making it suitable for various artistic applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "185ea96c-7fe5-4d66-ac6b-024991a3f739",
+            "image": null,
+            "name": "Exide Insta Charge",
+            "description": "Exide Insta Charge is a series of automotive batteries designed for quick recharging and reliable performance, ensuring that vehicles have the power needed for start-up and operation.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "f2f55015-269f-4009-86a9-e4aa961b1e88",
+            "image": null,
+            "name": "Exide Power",
+            "description": "The Exide Power series from Exide Industries offers a range of high-performance car batteries designed to provide reliable power and longevity, ensuring optimal vehicle performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "851d1e4d-74e1-4af5-9278-3b66b0d5152a",
+            "image": null,
+            "name": "Bully Dog WatchDog",
+            "description": "The Bully Dog WatchDog is an automotive data monitoring and tuning device designed to provide real-time information and enhance vehicle performance for diesel and gas engines.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "eb70d73c-88c1-4144-a1c1-906c6a07cb7e",
+            "image": null,
+            "name": "Bully Dog BDX Tuner",
+            "description": "The Bully Dog BDX Tuner is a performance tuning device designed to optimize engine performance and improve fuel efficiency for vehicles.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "a0a12ff3-308f-42b0-a364-2163b025c4e8",
+            "image": null,
+            "name": "Squadron",
+            "description": "The Baja Designs Squadron series offers high-performance LED lights designed for off-road and automotive applications, providing superior brightness and durability in various conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "b6f01cbb-70c1-4a8e-849c-706c724ebd9c",
+            "image": null,
+            "name": "Fuego",
+            "description": "The Baja Designs Fuego series offers high-quality lighting solutions designed for automotive applications, providing enhanced visibility and durability for off-road enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "2b0c1a80-a8d4-4f21-9534-ed677c7a2bd3",
+            "image": null,
+            "name": "Squadron Series",
+            "description": "The Baja Designs Squadron Series is a line of high-performance LED lights designed for off-road vehicles, particularly SUVs, providing superior illumination and durability for various terrains since 2012.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "32c1c22a-2994-484d-921c-55e367b41f02",
+            "image": null,
+            "name": "Can-Am Spyder RT",
+            "description": "The Can-Am Spyder RT is a three-wheeled touring motorcycle known for its stability, comfort, and innovative design, enabling riders to enjoy long-distance travel with enhanced safety features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "559ad9d5-ed2f-4d13-8b2b-bd72aadec252",
+            "image": null,
+            "name": "Can-Am Spyder ST",
+            "description": "The Can-Am Spyder ST is a three-wheeled motorcycle designed for sport and touring, offering a unique riding experience that combines stability and agility for both new and experienced riders.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "11c2a003-f44b-47bb-9474-61dc6f917c5b",
+            "image": null,
+            "name": "Can-Am Defender",
+            "description": "The Can-Am Defender is a versatile utility vehicle designed for work and recreation, featuring a robust chassis and high payload capacity for optimal performance in various terrains.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "90fde74b-b462-4e7a-97f9-6f1edab9fbe3",
+            "image": null,
+            "name": "Rivian R1T",
+            "description": "The Rivian R1T is an all-electric pickup truck designed for adventure and utility, featuring a rugged build and innovative technology for both on-road and off-road capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Rivian"
+            }
+        },
+        {
+            "id": "8afdf880-84ad-4f94-98f3-b9292d8b609f",
+            "image": null,
+            "name": "Rivian R1S",
+            "description": "The Rivian R1S is an all-electric SUV designed for outdoor adventure, offering substantial performance, off-road capabilities, and advanced technology for a sustainable driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Rivian"
+            }
+        },
+        {
+            "id": "28ec7df0-d824-4161-bc8a-cfcf41cb634c",
+            "image": null,
+            "name": "MG ZR",
+            "description": "The MG ZR is a compact car produced by MG Motors, known for its sporty design and youthful appeal, aiming to provide an engaging driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "8c378fc8-fb79-48b1-b161-3c3057fc7f4c",
+            "image": null,
+            "name": "MG ZS",
+            "description": "The MG ZS is a compact SUV that offers a blend of stylish design, practicality, and a range of features suited for urban driving. It is designed to provide a comfortable and efficient driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "281fa47e-0498-44e4-ad61-8fe28f115a07",
+            "image": null,
+            "name": "Avita Pura",
+            "description": "The Avita Pura series offers a sleek and lightweight laptop experience, designed for everyday use with a focus on portability and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Avita"
+            }
+        },
+        {
+            "id": "9dc98ec1-5c09-4b1e-b08e-4de1e91ff8fd",
+            "image": null,
+            "name": "Kogan Smart Home Range",
+            "description": "The Kogan Smart Home Range consists of a variety of smart home devices designed to enhance everyday living by providing convenience, control, and automation for various household functions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Kogan"
+            }
+        },
+        {
+            "id": "c8279f96-9aed-459f-9d0a-6f010ef11a08",
+            "image": null,
+            "name": "Kogan 4K Ultra HD Smart TV Series",
+            "description": "The Kogan 4K Ultra HD Smart TV Series offers high-resolution viewing and smart capabilities, allowing users to stream content and access apps seamlessly.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Kogan"
+            }
+        },
+        {
+            "id": "838190d2-a5b0-45dd-bd0b-25abf2d352fc",
+            "image": null,
+            "name": "Gateway NV Series",
+            "description": "The Gateway NV Series laptops are designed for everyday tasks, combining efficient performance with a sleek design suitable for students and professionals alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "ce5266af-ef0e-4cfe-b0dd-57945c3df003",
+            "image": null,
+            "name": "Tecno Pova",
+            "description": "The Tecno Pova series is designed to provide efficient performance and long-lasting battery life, targeting users who prioritize gaming and multimedia experiences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "8aac0e09-3dcd-418a-b300-9e2f7e2664bf",
+            "image": null,
+            "name": "Tecno Camon 18",
+            "description": "The Tecno Camon 18 series is a line of smartphones launched in 2021, designed to deliver advanced photography capabilities, notable battery life, and an affordable user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "87e5b0a7-0389-4ea5-82c2-003682946d69",
+            "image": null,
+            "name": "Tecno Pova 2",
+            "description": "The Tecno Pova 2 is a smartphone designed for performance and long battery life, catering to users who demand efficiency and durability in daily tasks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "441dac06-09ab-4858-ac2a-a512487942cd",
+            "image": null,
+            "name": "Tecno Camon 19",
+            "description": "The Tecno Camon 19 series is a line of smartphones released in 2022, designed to offer enhanced photography capabilities and stylish design for the budget-conscious consumer.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        }
+    ]
+}

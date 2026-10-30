@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "aa793dae-8c72-48c1-847d-2c4eb4e2d408",
+            "image": null,
+            "name": "K&N's 69 Series Air Intake",
+            "description": "K&N's 69 Series Air Intake is designed to enhance engine performance by improving airflow and filtration, resulting in increased horsepower and acceleration.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "f6433226-8320-4566-b304-e9b891db280f",
+            "image": null,
+            "name": "Reusable Filter Series",
+            "description": "The K&N Filters Reusable Filter Series offers high-performance air filters designed to provide superior filtration while allowing for greater airflow, leading to improved engine efficiency. These filters are washable and reusable, contributing to reduced waste and long-term cost savings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "cc8a8859-b1cf-4b17-9405-9c25c9437ef9",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Performance Air Intake System",
+            "description": "The K&N 77 Series High-Flow Performance Air Intake System is designed to improve the performance and horsepower of your vehicle by increasing airflow to the engine. It features a durable construction and is engineered for easy installation, making it a popular choice for automotive enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "9b7d14f1-3b56-4301-938a-e2ec08fc59c9",
+            "image": null,
+            "name": "Jeep Wrangler (Unlimited)",
+            "description": "The Jeep Wrangler (Unlimited) is a versatile compact SUV known for its rugged off-road capabilities and spacious interior, ideal for adventure seekers and outdoor enthusiasts.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "ad12fe41-7c63-4aa5-a751-a9cd0916ad38",
+            "image": null,
+            "name": "Jeep Grand Cherokee (Laredo)",
+            "description": "The Jeep Grand Cherokee (Laredo) is a mid-size SUV known for its rugged trail capabilities and spacious interior, tailored for both everyday use and off-road adventures.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "f7d7dce1-723f-43a9-b4d8-f08cd02f771a",
+            "image": null,
+            "name": "Jeep Grand Cherokee (2012)",
+            "description": "The Jeep Grand Cherokee (2012) is a midsize SUV known for its rugged off-road capability, luxurious interior, and advanced technology features, making it suitable for both everyday driving and adventurous excursions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "e1ca9e85-ba66-405a-b69e-bff03366afd2",
+            "image": null,
+            "name": "Jeep Wrangler (2012)",
+            "description": "The Jeep Wrangler (2012) is a versatile SUV known for its off-road capability and rugged design, ideal for adventure seekers.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "79d59c25-43ce-4032-b322-b2358bb24871",
+            "image": null,
+            "name": "Jeep Compass (2012)",
+            "description": "The Jeep Compass (2012) is a compact SUV designed for versatility both on and off the road, combining a spacious interior with advanced safety features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "714c8c4a-1e90-4240-8f87-bfb8be3ca81b",
+            "image": null,
+            "name": "Jeep Patriot (2012)",
+            "description": "The Jeep Patriot (2012) is a compact SUV known for its rugged styling and off-road capability, providing a balance of utility and comfort for daily driving and adventure alike.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "b714318f-b666-4081-bb89-8639f8c1ae4e",
+            "image": null,
+            "name": "Jeep Wrangler (JL)",
+            "description": "The Jeep Wrangler (JL) is an iconic compact SUV known for its off-road capabilities, rugged design, and customizable features, making it ideal for adventure enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "ef46f41b-cefc-4ead-a859-172bec20a058",
+            "image": null,
+            "name": "Jeep Cherokee (KL)",
+            "description": "The Jeep Cherokee (KL) is a versatile mid-size SUV, known for its off-road capabilities, comfortable interior, and advanced technology features, designed for both urban and outdoor adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "21c24295-2131-4218-81e4-cc1654a2c35f",
+            "image": null,
+            "name": "Jeep Compass (M6)",
+            "description": "The Jeep Compass (M6) is a compact SUV designed for both urban and off-road driving, offering a blend of style, comfort, and capability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "05714558-7492-44ef-8b2d-65adf9d84c5e",
+            "image": null,
+            "name": "MG5",
+            "description": "The MG5 is a compact family car produced by MG Motors, designed to offer practicality and efficiency for everyday driving needs.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "8542d755-4550-47d1-be7b-7b478e7822b6",
+            "image": null,
+            "name": "Jeep Renegade (BU)",
+            "description": "The Jeep Renegade (BU) is a compact SUV designed for versatile performance both on and off-road, offering a blend of rugged capability, advanced technology, and distinctive styling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "07d4f483-b549-4158-a0ff-ae1b848e0fda",
+            "image": null,
+            "name": "Jeep Compass (2022)",
+            "description": "The Jeep Compass (2022) is a compact SUV known for its versatile performance, advanced technology, and off-road capabilities, making it suitable for both urban and rugged environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "e3f7896e-a51d-4a02-87bd-a3c48b6f8282",
+            "image": null,
+            "name": "Clevo N960TU",
+            "description": "The Clevo N960TU is a versatile laptop designed for both gaming and professional use, featuring powerful hardware capabilities in a portable form factor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "ccd4ba3a-9bde-414c-8e81-7d6e6afb7d99",
+            "image": null,
+            "name": "Clevo P950HR",
+            "description": "The Clevo P950HR is a high-performance laptop designed for gaming and demanding computational tasks, featuring customizable configurations to cater to various user needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "074b4e65-3121-4c5b-9189-603cd808c099",
+            "image": null,
+            "name": "Clevo N860HK1",
+            "description": "The Clevo N860HK1 is a gaming laptop designed for high-performance gaming and demanding applications, featuring customizable hardware configurations.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "6e9ad072-a2a4-41fb-9893-7508d00e0276",
+            "image": null,
+            "name": "Clevo NH55",
+            "description": "The Clevo NH55 is a series of laptops designed for gaming and high-performance computing, featuring customizable configurations to meet diverse user needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "0ba2ee82-d47c-442c-8cfc-9b7ffd4a74f6",
+            "image": null,
+            "name": "Clevo NH76",
+            "description": "The Clevo NH76 is a high-performing laptop series designed for gaming and multitasking, featuring powerful hardware and customizable options to meet the demands of various users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "0c19cf04-057c-4233-9bbf-1895b1f5fb14",
+            "image": null,
+            "name": "Honor 30 Pro",
+            "description": "The Honor 30 Pro is a high-performing smartphone released in 2020, featuring advanced photography capabilities and a sleek design, making it suitable for both everyday use and photography enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "1c7e70f1-37a5-495a-87c7-095f6faa928f",
+            "image": null,
+            "name": "Poco X3 NFC",
+            "description": "The Poco X3 NFC is a mid-range smartphone known for its powerful performance, large battery, and excellent display, targeted towards gamers and tech enthusiasts looking for value.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "997642c3-87e0-48e8-b60f-b3e2aaef2bce",
+            "image": null,
+            "name": "Poco X4 Pro 5G",
+            "description": "The Poco X4 Pro 5G is a smartphone designed for performance and versatility, featuring advanced connectivity and robust specifications suitable for various user needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "42a69fb1-0477-46f4-b946-4b646ddf7712",
+            "image": null,
+            "name": "Poco M4 Pro 5G",
+            "description": "The Poco M4 Pro 5G is a smartphone designed for seamless connectivity and efficient performance, featuring 5G capabilities and a user-friendly interface.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "d5b503bd-1745-485d-9022-a179cf5857e2",
+            "image": null,
+            "name": "Poco F5",
+            "description": "The Poco F5 is a smartphone series released in 2023, known for its powerful performance, sleek design, and competitive pricing, aimed at delivering high-quality features to a broad audience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "eca503dd-b837-41cf-b483-5c6acb258747",
+            "image": null,
+            "name": "Poco X5 Pro",
+            "description": "The Poco X5 Pro is a smartphone series released in 2023, designed to deliver high performance and advanced features for an enhanced user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "92d31591-7a79-4486-a0d8-22eebd4ce8a7",
+            "image": null,
+            "name": "Gionee M7",
+            "description": "The Gionee M7 is a smartphone series launched in 2017, known for its combination of a large battery and a vibrant display, catering to users looking for an efficient and stylish mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "46f46311-a528-4fda-8309-9da940e241a1",
+            "image": null,
+            "name": "Intel Core i7-7700K",
+            "description": "The Intel Core i7-7700K is a high-performance processor from Intel's Kaby Lake architecture, designed for desktop computers. It is intended for gamers and content creators who require powerful multitasking capabilities and enhanced processing power.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "6fefbe36-648e-4091-8a56-906e1108d239",
+            "image": null,
+            "name": "Intel Xeon Scalable Processors",
+            "description": "The Intel Xeon Scalable Processors are designed for data centers and enterprise applications, providing high performance, scalability, and reliability for demanding workloads.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "7c6e9eab-d50c-442e-9e3a-021194f69d5b",
+            "image": null,
+            "name": "Echo Show (2nd Gen)",
+            "description": "The Amazon Echo Show (2nd Gen) is a smart display that combines the functionality of a speaker with a screen, enabling users to make video calls, watch videos, and control smart home devices using voice commands or touch.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        }
+    ]
+}

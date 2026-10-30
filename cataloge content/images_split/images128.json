@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "bf89c0ef-13d3-4ce0-8c96-fe3e46be75ed",
+            "image": null,
+            "name": "Ecsta SPT",
+            "description": "The Sumitomo Ecsta SPT is a high-performance tire designed for sporty vehicles, focusing on delivering enhanced grip and responsiveness in both wet and dry conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "09373e4b-062a-4283-b5b5-473fb31e9d5a",
+            "image": null,
+            "name": "Rugged Terrain",
+            "description": "The Sumitomo Tire Rugged Terrain series is designed for off-road and all-terrain capabilities, providing enhanced traction and durability for adventure-seeking drivers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "b1061abd-98fc-4f3e-8fcf-70957cee75c7",
+            "image": null,
+            "name": "Toyotires Proxes R1R",
+            "description": "The Toyotires Proxes R1R is a high-performance tire designed for motorsport applications, offering exceptional grip and handling on both dry and wet surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "22c7a9d4-df69-4523-a6a1-705d5185e83d",
+            "image": null,
+            "name": "Roadian AT-AC",
+            "description": "The Sumitomo Tire Roadian AT-AC is an all-terrain tire designed for light trucks and SUVs, providing improved off-road capability and enhanced traction on various surfaces.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "be4522bd-97a0-43d8-9a74-126fd99f4143",
+            "image": null,
+            "name": "Geolandar A/T G015",
+            "description": "The Sumitomo Tire Geolandar A/T G015 is an all-terrain tire designed to provide balanced performance on both on-road and off-road conditions, offering durability and traction for light trucks and SUVs.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "e8930776-9318-4798-abab-a2de865432a3",
+            "image": null,
+            "name": "Wilderness AT",
+            "description": "The Sumitomo Tire Wilderness AT is an all-terrain tire designed for versatile performance on and off-road, featuring enhanced traction, durability, and comfort for a variety of driving conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "a4e54805-831d-4e1c-ae80-5cfead8ed695",
+            "image": null,
+            "name": "Sumitomo HTR A/S P03",
+            "description": "The Sumitomo HTR A/S P03 is an all-season tire designed to offer a balance of performance and comfort in various driving conditions, featuring a tread pattern that enhances grip and stability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "36abc465-e9a9-4654-b1e0-16faea0e8922",
+            "image": null,
+            "name": "Geolandar X-AT",
+            "description": "The Sumitomo Tire Geolandar X-AT is an all-terrain tire designed for both on-road and off-road driving, providing excellent grip, durability, and performance in various conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "69a8802d-6c6e-4fa3-b093-999b637b0116",
+            "image": null,
+            "name": "Sp Sport 190",
+            "description": "The Sumitomo Tire Sp Sport 190 is a performance tire designed for optimum handling and stability on both wet and dry roads, making it suitable for sports vehicles and high-performance applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "553af243-58c3-49b5-8cba-60154015a312",
+            "image": null,
+            "name": "Vredestein Wintrac",
+            "description": "The Vredestein Wintrac series is designed to provide optimal performance in winter conditions, featuring enhanced grip and handling on snow and ice.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "e372a868-f71d-4ea8-bd78-e23379f7d917",
+            "image": null,
+            "name": "Vredestein Sportec",
+            "description": "The Vredestein Sportec series is designed for high-performance vehicles, offering excellent grip and handling on both wet and dry surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "5b97b239-1442-47f2-b97b-7ec0e5fb4a85",
+            "image": null,
+            "name": "Vredestein Wintrac Xtreme S",
+            "description": "The Vredestein Wintrac Xtreme S is a high-performance winter tire designed to provide excellent grip and stability on snowy and icy roads, making it suitable for extreme winter conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "6641952b-23c8-4390-8493-ce1c561cf416",
+            "image": null,
+            "name": "Sprint Classic",
+            "description": "The Vredestein Sprint Classic is a series of high-performance tires designed for vintage and classic cars, featuring a design that complements classic aesthetics while providing modern grip and handling.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "58b83c66-dcff-47eb-88d0-c0abb6fa44dc",
+            "image": null,
+            "name": "Sptrac 5",
+            "description": "The Vredestein Sptrac 5 is a tire series designed for high-performance vehicles, focusing on delivering superior grip and handling in both wet and dry conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "fabbb3b3-5566-4f9c-8fc6-b7269e519617",
+            "image": null,
+            "name": "Vredestein Hypertrac",
+            "description": "The Vredestein Hypertrac is a high-performance tire designed for sport vehicles, offering superior handling, stability, and comfort on both dry and wet surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "100b769f-213b-48f0-a0ff-9c4d466d3216",
+            "image": null,
+            "name": "Husqvarna 520 WR",
+            "description": "The Husqvarna 520 WR is a lightweight, off-road motorcycle designed for trail riding and competition. It features a powerful engine and advanced suspension for enhanced performance in rugged terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b4d21a24-c67d-4666-b55d-f79f09610987",
+            "image": null,
+            "name": "Husqvarna CR 125",
+            "description": "The Husqvarna CR 125 is a lightweight off-road motorcycle designed for agile handling and competitive performance, ideal for motocross and trail riding.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "eff74233-e2f7-47f3-9b8a-e903da8e347a",
+            "image": null,
+            "name": "Husqvarna SM 450",
+            "description": "The Husqvarna SM 450 is a streamlined supermotard motorcycle designed for high-performance on both road and off-road terrains, emphasizing agility and handling.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "7d7f5089-bf80-47ba-a7fb-3be280b9c313",
+            "image": null,
+            "name": "Husqvarna SM 510",
+            "description": "The Husqvarna SM 510 is a supermoto motorcycle designed for both on-road and off-road performance, featuring a lightweight design and powerful engine for enhanced agility and control.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "2f1615b7-9782-4e5e-ab96-864ac2e10d25",
+            "image": null,
+            "name": "TC",
+            "description": "The Husqvarna TC series consists of lightweight, high-performance motocross motorcycles designed for competitive racing and recreational trail riding.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "9669c3a8-ed57-4900-abdb-1474f3cae09c",
+            "image": null,
+            "name": "Husqvarna TXC",
+            "description": "The Husqvarna TXC series consists of off-road motorcycles designed for cross-country racing, characterized by their lightweight construction, agile handling, and powerful performance.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "81fa05ce-03b5-4be8-8f08-9826315a05e3",
+            "image": null,
+            "name": "Husqvarna TXC 450",
+            "description": "The Husqvarna TXC 450 is an off-road motorcycle designed for competitive enduro riding, featuring strong performance characteristics and advanced suspension technology to handle a variety of terrains.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "72201163-dce7-4084-b88d-c7c3d0f1eed1",
+            "image": null,
+            "name": "Husqvarna SM 125",
+            "description": "The Husqvarna SM 125 is a lightweight supermoto motorcycle designed for agile handling and maneuverability on both street and dirt surfaces, making it suitable for urban commuting and off-road adventures.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "1a198e57-c9c4-43c1-a488-6091621a3cf2",
+            "image": null,
+            "name": "Husqvarna SM 630",
+            "description": "The Husqvarna SM 630 is a supermoto motorcycle designed for both on-road and off-road riding, providing versatility and performance with a lightweight frame and powerful engine.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "779a3efe-f96f-4c58-b27a-85af2aa4337e",
+            "image": null,
+            "name": "Husqvarna WR 450",
+            "description": "The Husqvarna WR 450 is a high-performance off-road motorcycle designed for enduro riding, featuring advanced suspension, powerful engine efficiency, and lightweight construction for optimal handling in rugged terrains.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b7c39c1c-cb9f-49ab-b1f6-ff74677e4bdf",
+            "image": null,
+            "name": "Husqvarna TE 449",
+            "description": "The Husqvarna TE 449 is a dual-sport motorcycle designed for both on-road and off-road performance, featuring a powerful engine and advanced suspension to handle various terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "6ea2c725-c543-49a5-914d-f877ae59e46c",
+            "image": null,
+            "name": "Husqvarna SMS 125",
+            "description": "The Husqvarna SMS 125 is a lightweight, dual-sport motorcycle designed for both on-road and off-road use, offering agility and versatility for riders.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "ff6a144f-3d27-47ca-b9a2-9e6f8ce6b3da",
+            "image": null,
+            "name": "Husqvarna TXC 449",
+            "description": "The Husqvarna TXC 449 is an off-road motorcycle designed for competition and recreational riding, featuring a robust and lightweight frame, optimized suspension, and a powerful engine for enhanced performance on various terrains.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "f9eacb77-8602-4da8-9944-2e34b688f6d2",
+            "image": null,
+            "name": "Husqvarna 2014 Enduro Series",
+            "description": "The Husqvarna 2014 Enduro Series consists of off-road motorcycles designed for competitive enduro riding, featuring lightweight frames and powerful engines that provide high performance across various terrains.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "6dc351de-85bc-4c86-9a8f-7790d5ff688c",
+            "image": null,
+            "name": "TE 250",
+            "description": "The Husqvarna TE 250 is a lightweight, high-performance off-road motorcycle designed for enduro racing and trail riding enthusiasts. It features advanced technology and a robust engine that enhances durability and agility.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        }
+    ]
+}

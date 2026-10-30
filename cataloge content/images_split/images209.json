@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "57a877e7-b6d3-42ed-a22f-0ac8ed00e7c0",
+            "image": null,
+            "name": "Lamborghini Reventón",
+            "description": "The Lamborghini Reventón is a limited-production sports car introduced in 2007, known for its extreme performance and distinctive angular design, inspired by stealth aircraft.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "9bbc1684-11a0-49e0-969c-4f0581e1d72c",
+            "image": null,
+            "name": "Lamborghini Reventón Roadster",
+            "description": "The Lamborghini Reventón Roadster is a high-performance luxury sports car that exemplifies cutting-edge design and engineering, featuring a striking aerodynamic body and an advanced V12 engine.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "a5d7e8d6-8785-470c-84a9-a476e1336a76",
+            "image": null,
+            "name": "Lamborghini Huracán EVO",
+            "description": "The Lamborghini Huracán EVO is a high-performance sports car designed for agility and speed, featuring advanced aerodynamics and cutting-edge technology for an exhilarating driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "287d37d5-dce2-4a86-a9a9-47262adf6102",
+            "image": null,
+            "name": "Adizero Pro",
+            "description": "The Adidas Adizero Pro is a performance-focused sneaker designed for speed and efficiency in running, featuring a lightweight construction for enhanced agility.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "2a033aef-058b-46f6-93f5-84e8af2f8f26",
+            "image": null,
+            "name": "X-act Contour",
+            "description": "Husky Liners X-act Contour is a line of high-quality, custom-fit floor liners designed to provide maximum protection against dirt, spills, and wear in vehicles. These liners are made from durable materials and feature a raised perimeter to contain messes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "2a50c6d7-aa17-4aa2-9dfd-6a81a776e008",
+            "image": null,
+            "name": "Miele Generation 7000 Refrigerators",
+            "description": "The Miele Generation 7000 Refrigerators are a series of high-quality, energy-efficient refrigeration appliances designed for optimal food preservation and convenient storage.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2c9564a6-5faf-4715-bc25-e905b42a07a1",
+            "image": null,
+            "name": "Gas Gas TXT",
+            "description": "The Gas Gas TXT series consists of trial motorcycles known for their lightweight design, maneuverability, and exceptional handling, making them ideal for trials competition and recreational riding.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "31c58c95-aa0a-4c0f-abb5-62f4cbb72f3d",
+            "image": null,
+            "name": "iPhone 13 Pro",
+            "description": "The Apple iPhone 13 Pro, released in 2021, is a high-end smartphone known for its advanced camera system, ProMotion display technology, and powerful A15 Bionic chip, designed to deliver an exceptional user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "37b2f612-fc01-48b3-8e48-bdf8a627b540",
+            "image": null,
+            "name": "Volkswagen Jetta (sixth generation)",
+            "description": "The Volkswagen Jetta (sixth generation) is a compact sedan designed for efficiency and comfort, combining a stylish exterior with a spacious interior to meet the needs of modern drivers.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "39f2ba44-adc6-44c2-9a30-1b9f9a70c6dd",
+            "image": null,
+            "name": "Bose QuietComfort 35 II Gaming Headset",
+            "description": "The Bose QuietComfort 35 II Gaming Headset is a versatile headphone designed for gaming with noise-cancelling technology and built-in voice assistant capabilities, offering immersive sound and comfort for extended gaming sessions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3de571d3-968d-4572-abd4-fc06ff255b69",
+            "image": null,
+            "name": "Chicco NextFit Zip Convertible Car Seat",
+            "description": "The Chicco NextFit Zip Convertible Car Seat is designed to provide safety and comfort for children from infancy through toddlerhood, featuring a zip-off seat pad for easy cleaning and multiple recline and harness positions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "408b9f30-6c89-4518-9454-1ca36185bf16",
+            "image": null,
+            "name": "KTM 1290 Super Adventure S",
+            "description": "The KTM 1290 Super Adventure S is a powerful and versatile adventure motorcycle designed for long-distance travel and off-road capabilities, combining advanced technology with performance and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "08a1deb0-729f-4d8d-8b96-ba824c8c99c7",
+            "image": null,
+            "name": "The Superhero",
+            "description": "The Superhero series by Wonderbly encourages children to embrace their imagination and fosters a sense of empowerment through personalized storytelling.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "2e45110e-37d9-40e2-b6cc-5f88622b3838",
+            "image": null,
+            "name": "The Birthday Thief",
+            "description": "The Birthday Thief is a personalized children's book by Wonderbly that tells the story of a child who embarks on an adventurous quest to reclaim their stolen birthday. The book aims to promote creativity and individuality through its customizable narratives and illustrations.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "047c10db-ee88-4423-af0e-ee5768989eb5",
+            "image": null,
+            "name": "Mini Tactile Games",
+            "description": "The Janod Mini Tactile Games series consists of engaging and interactive toys designed to stimulate children's senses and fine motor skills through hands-on play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Janod"
+            }
+        },
+        {
+            "id": "75bddd5e-4675-4730-ae7e-ed247aa9a39d",
+            "image": null,
+            "name": "Puky R 1",
+            "description": "The Puky R 1 is a toddler balance bike designed to help young children develop their balance and coordination skills in a safe and enjoyable way.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "4ebc6048-12fc-4fb0-80a7-39cfa5af2ee6",
+            "image": null,
+            "name": "Puky ZL 16",
+            "description": "The Puky ZL 16 is a children's bike designed for ages 4 to 6, emphasizing stability and safety while promoting active outdoor play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "d3a0d5ab-e800-43a4-97a8-b21162d317dc",
+            "image": null,
+            "name": "Puky R 3",
+            "description": "The Puky R 3 is a children's bike designed to enhance balance and coordination for young riders. It features a lightweight frame and adjustable seat, making it suitable for early childhood development.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "633a3f38-c910-47ef-8cef-f9f6ae91b5fd",
+            "image": null,
+            "name": "Puky Fitsch",
+            "description": "The Puky Fitsch is a specially designed balance bike for young children, promoting balance and coordination as they learn to ride.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "6629ed8f-cd83-4643-98fa-49853ad43648",
+            "image": null,
+            "name": "Puky LR M",
+            "description": "The Puky LR M is a lightweight and sturdy balance bike designed for young children to develop their balance and coordination skills while having fun.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "b644bef5-98e3-4cdc-8782-0706842b107c",
+            "image": null,
+            "name": "Puky LR Ride",
+            "description": "The Puky LR Ride series consists of balance bikes designed for young children, promoting the development of balance and coordination skills in a safe and engaging manner.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "fc02b003-acf8-4774-a3db-027031e38407",
+            "image": null,
+            "name": "Puky 18-1",
+            "description": "The Puky 18-1 is a children's bike designed to support young riders as they learn balance and coordination. It features a sturdy construction, adjustable seat height, and safety-oriented design perfect for early childhood exploration.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "6eaead28-e6c4-4abb-866c-f3af14dbbf79",
+            "image": null,
+            "name": "Puky LR 1L",
+            "description": "The Puky LR 1L is a durable balance bike designed for young children to learn balance and coordination skills before transitioning to pedaled bicycles. Its lightweight construction and ergonomic features make it suitable for ages 2 to 5 years.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "6fffde42-08e0-4f63-b760-0507718300dd",
+            "image": null,
+            "name": "Usborne Young Reading Series",
+            "description": "The Usborne Young Reading Series is designed to help young readers develop their reading skills through engaging stories and beautiful illustrations. It features age-appropriate content that encourages children to build confidence in their reading abilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "5b1d2eba-33ac-499b-8228-3b8a1fdc92a5",
+            "image": null,
+            "name": "Usborne Picture Books",
+            "description": "The Usborne Picture Books series features vibrant illustrations and engaging stories designed to entertain and educate young children, fostering a love of reading from an early age.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "3371b7ee-87f5-424c-bbcc-157c432034b3",
+            "image": null,
+            "name": "Usborne Very First Reading",
+            "description": "Usborne Very First Reading is a series of children's books designed to help young readers develop their literacy skills through engaging stories and illustrations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "09dc6dc1-e88f-4863-b5b5-e174e6f00222",
+            "image": null,
+            "name": "Usborne Beginner's Series",
+            "description": "The Usborne Beginner's Series is designed to introduce young readers to various topics through engaging illustrations and simple text, making it easier for them to understand complex subjects and foster a love for reading.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "677711da-c6a6-4362-af13-4151a58a0a38",
+            "image": null,
+            "name": "Usborne Illustrated Stories",
+            "description": "The Usborne Illustrated Stories series presents a collection of classic and original tales beautifully illustrated to engage young readers, fostering a love for reading and storytelling. Each book is tailored for children, making stories accessible and enjoyable.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "2c05b68e-6caf-4fcb-8f02-deca3fb2d447",
+            "image": null,
+            "name": "Usborne Lift-the-Flap Series",
+            "description": "The Usborne Lift-the-Flap Series is a collection of interactive children's books designed to engage young readers with flaps that reveal fun facts and illustrations, promoting curiosity and learning.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "3541805a-10f8-40c0-933a-27ff98d8766a",
+            "image": null,
+            "name": "Usborne Illustrated Classics",
+            "description": "The Usborne Illustrated Classics series presents classic literature in a beautifully illustrated format, making timeless stories accessible and engaging for young readers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "b5cb87f2-4c38-4b09-9db1-47617bf28aa2",
+            "image": null,
+            "name": "Puma Basket Heart",
+            "description": "The Puma Basket Heart is a stylish sneaker series launched in 2017, known for its unique lacing system with oversized satin bows, aimed at providing a fashionable yet comfortable footwear option.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "ba686c02-7a5a-4c13-b7bd-76c71ef7bbbe",
+            "image": null,
+            "name": "Volkswagen Scirocco",
+            "description": "The Volkswagen Scirocco is a compact sports coupe known for its stylish design, sporty performance, and versatility as a daily driver.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "c582f22f-e5a9-4b23-a076-07d405edd483",
+            "image": null,
+            "name": "Aprilia SX 125",
+            "description": "The Aprilia SX 125 is a lightweight motorcycle designed for both urban commuting and off-road capabilities, featuring agile handling and a sporty design.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "d7cf4010-ec51-4073-b48f-cde31501d97f",
+            "image": null,
+            "name": "Fendi Monster Sunglasses",
+            "description": "Fendi Monster Sunglasses are a playful and bold eyewear collection that embodies the distinctive and whimsical aesthetic of the Fendi brand, characterized by their unique shapes and vibrant colors.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6b875b29-25cc-4553-8acc-8efc7fbe0989",
+            "image": null,
+            "name": "Volkswagen Jetta Mk6",
+            "description": "The Volkswagen Jetta Mk6 is a compact sedan that combines practicality, comfort, and advanced technology, making it suitable for everyday driving needs.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "e3b257c8-2bd3-4958-8480-892a14c15283",
+            "image": null,
+            "name": "Volkswagen Eos",
+            "description": "The Volkswagen Eos is a compact convertible manufactured by Volkswagen, known for its stylish design and retractable hardtop roof, providing a blend of coupe and convertible experiences for drivers and passengers.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "ef254191-eaf7-4b8b-9784-a53eaa9b61d9",
+            "image": null,
+            "name": "Volkswagen Touareg II",
+            "description": "The Volkswagen Touareg II is a mid-size luxury SUV that combines practicality with off-road capability, offering a comfortable ride and advanced technology features.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "f170a299-76b4-4346-a3b8-948b452244a3",
+            "image": null,
+            "name": "Volkswagen Jetta Mk5 (New Generation)",
+            "description": "The Volkswagen Jetta Mk5 (New Generation) is a compact car known for its combination of practicality, comfort, and performance, offering a reliable driving experience for everyday use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "6d905eac-9a39-4127-aa21-637b357f9838",
+            "image": null,
+            "name": "Volkswagen Beetle (A5)",
+            "description": "The Volkswagen Beetle (A5) is a compact car that reinterprets the iconic design of the original Beetle while incorporating modern technology and safety features. It aims to provide a fun and efficient driving experience with its distinctive styling and reliable performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "f4607cee-aa50-4164-807a-b395f9badaf3",
+            "image": null,
+            "name": "CarPro Reload",
+            "description": "CarPro Reload is a high-performance spray sealant designed to enhance the appearance of automotive surfaces while providing durable protection against environmental contaminants. It is known for its ease of application and hydrophobic properties that help repel water and dirt.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "75bce795-3798-4b29-af22-24a71c774d56",
+            "image": null,
+            "name": "Volkswagen Golf R",
+            "description": "The Volkswagen Golf R is a high-performance variant of the popular Golf hatchback, featuring enhanced power, sporty handling, and advanced technology for an exhilarating driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "80ceb52f-d977-45fb-9a9c-7ed69f01682f",
+            "image": null,
+            "name": "Razer Kaira Pro",
+            "description": "The Razer Kaira Pro is a high-quality wireless gaming headset designed for immersive audio experiences, featuring customizable RGB lighting and a comfortable design for extended gaming sessions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8588cf8e-c927-4ca7-ab45-24072c3c46b2",
+            "image": null,
+            "name": "Volkswagen Rabbit",
+            "description": "The Volkswagen Rabbit is a compact car known for its practicality and versatility, featuring a spacious interior and efficient performance suitable for urban driving.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "94b8c861-d93e-4d2d-ad9c-ae5fdbbd9005",
+            "image": null,
+            "name": "Volkswagen Transporter T6",
+            "description": "The Volkswagen Transporter T6 is a versatile vehicle designed for both commercial and personal use, offering ample space and practicality for various transportation needs.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "984fc867-d955-464f-9737-fb98f0dbc901",
+            "image": null,
+            "name": "Volkswagen T-Roc",
+            "description": "The Volkswagen T-Roc is a compact SUV designed to offer a blend of style, versatility, and driving comfort, catering to both urban and adventurous lifestyles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "1ec97b41-bfa4-4c50-b3fa-6fb4477f07cb",
+            "image": null,
+            "name": "Volkswagen Passat B7",
+            "description": "The Volkswagen Passat B7 is a mid-size car produced by Volkswagen, characterized by its spacious interior, advanced safety features, and efficient performance, making it suitable for commuting and family use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "2241548f-a879-4233-bfbe-31715a7df49d",
+            "image": null,
+            "name": "Volkswagen Jetta Hybrid",
+            "description": "The Volkswagen Jetta Hybrid is a compact sedan that combines traditional gasoline engine performance with an electric motor to enhance fuel efficiency and reduce emissions, making it an eco-friendly choice for daily commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "26ac7a33-cde0-4ef2-9c77-c5e2f09d66e7",
+            "image": null,
+            "name": "Volkswagen Sharan II",
+            "description": "The Volkswagen Sharan II is a versatile multi-purpose vehicle designed for families, offering spacious seating and advanced safety features.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "3d0a4607-ce2f-4c81-ad9e-8b7cc1b51ec3",
+            "image": null,
+            "name": "Volkswagen Jetta (A6)",
+            "description": "The Volkswagen Jetta (A6) is a compact sedan known for its blend of spacious interior, solid build quality, and efficient performance. It targets drivers seeking a practical and reliable vehicle for daily commuting and family use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "58b02af0-5a60-49ce-a978-c6b1ca0214ed",
+            "image": null,
+            "name": "Volkswagen Jetta (A7)",
+            "description": "The Volkswagen Jetta (A7) is a compact sedan that combines efficiency, practicality, and modern technology. Designed for both urban commuting and long-distance travel, it offers a comfortable driving experience with a spacious interior.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "5d3f6ec0-fd98-4f86-a024-ce8f2167be76",
+            "image": null,
+            "name": "Volkswagen Touran",
+            "description": "The Volkswagen Touran is a compact MPV designed to accommodate families with practical seating and storage solutions, offering a balance of comfort and efficiency since its launch in 2004.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "ae4e8432-98b1-442b-887d-3b16d34fe0dc",
+            "image": null,
+            "name": "Volkswagen Up!",
+            "description": "The Volkswagen Up! is a compact city car designed for urban driving, offering efficient use of space and fuel economy while maintaining a versatile and enjoyable driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "bae753a1-3577-40de-94f2-4dff1dfade8e",
+            "image": null,
+            "name": "Volkswagen Polo (2009 Model)",
+            "description": "The Volkswagen Polo (2009 Model) is a compact car designed for efficient urban mobility, combining practicality, comfort, and advanced safety features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "cff6d049-4921-4608-ad98-5fdd5e6a431d",
+            "image": null,
+            "name": "Volkswagen Passat (B8)",
+            "description": "The Volkswagen Passat (B8) is a mid-size car known for its spacious interior, advanced technology features, and comfort, making it a popular choice for families and professionals alike.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "d5b70348-6a10-4f63-ab19-5ab3973083b3",
+            "image": null,
+            "name": "Volkswagen Golf Mk6",
+            "description": "The Volkswagen Golf Mk6 is a compact car known for its blend of practicality, performance, and comfort, aimed at providing an enjoyable driving experience for everyday use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "e4b6af08-48f3-45e6-9d30-74e792f6bd2d",
+            "image": null,
+            "name": "Aprilia Tuono 1000 R",
+            "description": "The Aprilia Tuono 1000 R is a naked motorcycle characterized by its powerful V-twin engine, aggressive styling, and advanced technology, designed for both spirited riding on the road and track performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "ea54bd79-4df4-4ec3-bbbd-2d0054d3dbb5",
+            "image": null,
+            "name": "Kawasaki KX250",
+            "description": "The Kawasaki KX250 is a high-performance motocross motorcycle designed for competitive racing. It features a powerful 2-stroke engine known for its agility and responsiveness on off-road tracks.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "6d80bde8-599a-48a5-891d-4207ddb621ee",
+            "image": null,
+            "name": "Puma RS-X",
+            "description": "The Puma RS-X is a retro-inspired sneaker series known for its bold and chunky design, offering comfort and style for everyday wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "f5d10a66-60f8-4aa7-a3e3-914492d38953",
+            "image": null,
+            "name": "Wonder Makers",
+            "description": "Fisher-Price Wonder Makers is a series of imaginative play toys designed to inspire creativity and storytelling in children. The toys encourage open-ended play and help develop fine motor skills through interactive building and customization.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "ba6096f3-c425-4f21-8b88-8a0f06874c02",
+            "image": null,
+            "name": "V-Moda M-200",
+            "description": "The V-Moda M-200 headphones are designed for professional audio monitoring, featuring customizable ear pads for comfort and noise isolation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        }
+    ]
+}

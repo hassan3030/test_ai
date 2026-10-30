@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "3a26f137-c6bd-4d4d-be8b-96689dac1c7b",
+            "image": null,
+            "name": "Autoglym Bodywork Shampoo",
+            "description": "Autoglym Bodywork Shampoo is designed to clean and protect vehicle exteriors, effectively removing dirt and grime while maintaining the integrity of wax finishes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "df7b631f-0da9-4f37-8739-0f6ee8ff83d9",
+            "image": null,
+            "name": "Gtechniq G1 Clear Vision",
+            "description": "Gtechniq G1 Clear Vision is a high-performance windscreen treatment designed to enhance visibility in wet weather by causing water to bead and run off quickly, thereby improving driving safety.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "1506a6ee-c9c9-41a0-9cb9-4ffdf99ca374",
+            "image": null,
+            "name": "Maxi-Cosi AxissFix Plus",
+            "description": "The Maxi-Cosi AxissFix Plus is a flexible and safe baby car seat that allows for easy installation and rotation, providing convenience for parents and comfort for children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6dc9e7c4-9583-4555-a327-a2780b190422",
+            "image": null,
+            "name": "DUPLO Farm Animals",
+            "description": "The DUPLO Farm Animals series features brightly colored, oversized animal figures designed for young children to encourage imaginative play and develop fine motor skills.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "c98b5734-6f26-47cc-937f-13944fe99a4c",
+            "image": null,
+            "name": "Gamblin Oil Colors",
+            "description": "Gamblin Oil Colors is a series of high-quality oil paints designed for artists seeking a versatile and vibrant color palette. Known for their buttery consistency and excellent lightfastness, these oils blend smoothly and hold brush strokes well.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "e062d799-2997-4d53-b867-4cdc851a6b31",
+            "image": null,
+            "name": "Logitech G433",
+            "description": "The Logitech G433 is a versatile gaming headset designed for immersive sound and comfort during extended gaming sessions, featuring advanced audio technology and a lightweight design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "1429ecb1-a7a0-4ef4-a434-621d873e597f",
+            "image": null,
+            "name": "Maxi-Cosi Pearl 360",
+            "description": "The Maxi-Cosi Pearl 360 is a versatile baby seat designed to provide safety and comfort for children from birth to approximately 4 years old, featuring a swiveling base for easy access and secure installations.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "28db095a-8a1f-46b5-b43f-63477198c26e",
+            "image": null,
+            "name": "DUPLO Construction Set",
+            "description": "The DUPLO Construction Set is an engaging and versatile building toy designed for young children, promoting creativity, fine motor skills, and imaginative play through large, colorful bricks that are easy to handle and connect.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "6f0ab43e-4542-4358-816c-6e526683f861",
+            "image": null,
+            "name": "Gtechniq C1 Smart Surface Science",
+            "description": "Gtechniq C1 Smart Surface Science is a series of advanced car care products that offer durable protection and enhancement for automotive surfaces, primarily focusing on paint, glass, and plastics since its release in 2008.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "b4ecd30c-a0d1-4e74-9ce3-fbac9cd2bd91",
+            "image": null,
+            "name": "Duo",
+            "description": "The Hyperkin Duo is a series of gaming accessories designed for retro gaming enthusiasts, offering compatibility with multiple cartridge formats to enhance the gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "f36cfc67-dfa3-4b68-ad81-ed4418da2767",
+            "image": null,
+            "name": "Technivorm KBG Select",
+            "description": "The Technivorm KBG Select is a high-quality coffee machine designed to brew exceptional coffee, featuring precise temperature control and a unique design that allows for optimal extraction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Technivorm"
+            }
+        },
+        {
+            "id": "9b3f7253-d88f-40b4-9939-3b8b3a334e2e",
+            "image": null,
+            "name": "Mercedes-Benz SLK (R171)",
+            "description": "The Mercedes-Benz SLK (R171) is a compact luxury roadster known for its retractable hardtop, sporty performance, and refined interior. Released in 2008, it combines sleek design with advanced technology for a versatile driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "dea08d64-d74d-4bbd-a752-4776b12d1c77",
+            "image": null,
+            "name": "Logitech G Pro X Wireless LIGHTSPEED Gaming Headset",
+            "description": "The Logitech G Pro X Wireless LIGHTSPEED Gaming Headset is a high-performance gaming headset designed for professional esports players and passionate gamers, offering low-latency wireless connectivity and customizable sound profiles for an immersive gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "23b471c3-08c2-4d3f-9ac5-cba0e441148e",
+            "image": null,
+            "name": "Mercedes-Benz GLK",
+            "description": "The Mercedes-Benz GLK is a compact luxury SUV that blends practicality with premium features, designed for both urban driving and off-road capabilities.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "302941f9-5054-4936-8f5f-9fb239248ea2",
+            "image": null,
+            "name": "AMD Bristol Ridge",
+            "description": "The AMD Bristol Ridge series consists of desktop and mobile processors designed to deliver solid performance for everyday computing tasks, while also featuring integrated Radeon graphics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "63f0f3cc-a875-4e14-abfc-7a8e80c1ed5e",
+            "image": null,
+            "name": "Autoglym UHD Ceramic Coating",
+            "description": "Autoglym UHD Ceramic Coating is a high-performance protective treatment designed for automotive paint surfaces, offering durable shine and resistance to environmental contaminants.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "423d8bd8-f19f-446b-9cba-ae0d6afa9f65",
+            "image": null,
+            "name": "CS Ceramics",
+            "description": "Gtechniq's CS Ceramics series offers advanced ceramic coatings designed to protect automotive surfaces while enhancing durability and gloss.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "c674a562-9727-444f-bf10-d2e501e2bea8",
+            "image": null,
+            "name": "Brio Starter Set",
+            "description": "The Brio Starter Set is a collection of classic wooden train toys designed to inspire creativity and imaginative play in children. This set serves as an introductory platform for constructing various track layouts and features versatile pieces that can be expanded with additional sets.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Brio"
+            }
+        },
+        {
+            "id": "910cfccf-0662-4b6a-9ea0-ec61ccbb4cbe",
+            "image": null,
+            "name": "Smart Finish",
+            "description": "Autoglym Smart Finish is a series of car care products designed to restore and enhance the appearance of vehicle paintwork, providing a high-quality finish and protection against environmental contaminants.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "fd83a486-cf17-4245-92f0-c89fab511c78",
+            "image": null,
+            "name": "Jabra Steel",
+            "description": "The Jabra Steel series offers durable and reliable headphones designed for use in tough environments, providing high-quality audio performance and robust construction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Jabra"
+            }
+        },
+        {
+            "id": "1fa6a825-11d3-46e0-ad53-ed65e77f1f2b",
+            "image": null,
+            "name": "Raja",
+            "description": "The Hilleberg Raja series is designed for winter and multi-season camping, offering excellent stability and weather resistance. It combines a lightweight yet durable construction, making it suitable for harsh conditions while maintaining ease of setup.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "8056207e-ebf9-46b2-a515-1065eb1e29af",
+            "image": null,
+            "name": "Baratza Sette 30",
+            "description": "The Baratza Sette 30 is a precision burr coffee grinder designed for home baristas. It features a unique grind adjustment system and a high-speed grinding capability, making it ideal for espresso and other brewing methods.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "0d941cda-7abd-4dfb-9cb5-ba6c854a5d43",
+            "image": null,
+            "name": "Autoglym Ultra High Definition Wax",
+            "description": "Autoglym Ultra High Definition Wax is a premium car wax designed to provide long-lasting protection and enhance the appearance of your vehicle's paintwork. It offers a high-gloss finish and is suitable for all paint types.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "9a8fa083-d6f5-4693-b858-3a840d226b9b",
+            "image": null,
+            "name": "Aston Martin Vanquish S",
+            "description": "The Aston Martin Vanquish S is a luxury sports car known for its high performance, elegant design, and exceptional handling capabilities. Released in 2017, it represents the pinnacle of British automotive engineering, combining power and sophistication.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "9a90abc0-0e59-49c1-92df-fc6327d50607",
+            "image": null,
+            "name": "iZi Go Modular X1",
+            "description": "The Be Safe iZi Go Modular X1 is a infant car seat designed for safety and comfort, featuring a modular design for easy transfer between different bases.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Be Safe"
+            }
+        },
+        {
+            "id": "eb565caf-8749-44c3-b979-69ce7efc9421",
+            "image": null,
+            "name": "DUPLO 10898 My First Animal Brick Box",
+            "description": "The DUPLO 10898 My First Animal Brick Box is a toddler-friendly building set designed to encourage imaginative play and fine motor skills development through various animal-themed building activities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "0a70a06f-369e-4a68-9da9-fa2aa695e3fb",
+            "image": null,
+            "name": "Hyperkin Adaptor for the Original Xbox",
+            "description": "The Hyperkin Adaptor for the Original Xbox allows users to connect their Original Xbox controllers to modern gaming systems, providing compatibility and functionality for gaming enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "762b3f7f-2642-494f-9d4a-5a8ad4871a31",
+            "image": null,
+            "name": "Kerlon 1000",
+            "description": "The Hilleberg Kerlon 1000 series features lightweight and durable tent fabric designed for three-season use, providing excellent weather protection and stability in various outdoor conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "90684495-fb31-4e32-8f6f-f6fdeb9f343f",
+            "image": null,
+            "name": "Logitech G923",
+            "description": "The Logitech G923 is a high-performance racing wheel designed for gaming enthusiasts, featuring TrueForce force feedback technology for a more immersive racing experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "3c7ed6d3-6129-427f-acfa-a3794ae69398",
+            "image": null,
+            "name": "MG3",
+            "description": "The MG3 is a compact hatchback produced by MG Motors since 2008, designed for urban driving with a focus on practicality and affordability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        }
+    ]
+}

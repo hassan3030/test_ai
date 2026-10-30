@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8bd08ca3-4188-4879-9d87-91e0bc3ac4b2",
+            "image": null,
+            "name": "Pastels",
+            "description": "The Pastels series by Conté à Paris offers high-quality pastel sticks designed for vibrant color application and blending, ideal for both artists and students.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "9b4a4848-8426-4ee4-9518-f43d96617f0c",
+            "image": null,
+            "name": "Gamblin 1980 Oil Colors",
+            "description": "Gamblin 1980 Oil Colors are a series of premium oil paints that offer artists vibrant colors and high performance at an economical price. Designed for both amateurs and professionals, these colors are formulated with artist-quality pigments and refined linseed oil.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "c3456b43-a634-4ec7-a4ec-aa1953194403",
+            "image": null,
+            "name": "Gamblin Radiant Oil Colors",
+            "description": "Gamblin Radiant Oil Colors are high-quality oil paints that offer vibrant colors with exceptional lightfastness and a smooth consistency, suitable for artists seeking bright and intense hues.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "a0b814e3-f756-4720-bfd5-dd4df4b6227d",
+            "image": null,
+            "name": "Gamblin Oil Colors",
+            "description": "Gamblin Oil Colors are high-quality artist oil paints made with a unique blend of refined linseed oil and carefully selected pigments, offering excellent color strength and durability for artists.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "09095a28-19ec-4478-b101-4a31c3e0b89d",
+            "image": null,
+            "name": "Gamblin Mediums",
+            "description": "Gamblin Mediums are a collection of high-quality mediums designed for use with oil paints, enhancing their usability and allowing artists to manipulate texture, sheen, and drying times.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "8b3ece2f-f031-4f5e-8dc7-b34fc037c648",
+            "image": null,
+            "name": "Gamblin Artist's Oil Colors",
+            "description": "Gamblin Artist's Oil Colors are high-quality oil paints formulated with premium materials to provide brilliant colors, excellent consistency, and long-lasting results for artists.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "356f9c3f-5124-463f-8b5c-80a0464e1a59",
+            "image": null,
+            "name": "Koh-I-Noor Progresso",
+            "description": "Koh-I-Noor Progresso series offers high-quality colored pencils designed for artists and students, featuring a unique water-soluble core that provides versatility in techniques and applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "b21d4379-20e7-41d3-ac40-918be985ceb0",
+            "image": null,
+            "name": "Koh-I-Noor Polycolor",
+            "description": "Koh-I-Noor Polycolor is a series of high-quality colored pencils designed for artists and students. They offer excellent lightfastness and a wide range of vibrant colors suitable for various art techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "6baea5ad-be70-452c-8f4e-4c44efc412bd",
+            "image": null,
+            "name": "Koh-I-Noor Mondeluz",
+            "description": "Koh-I-Noor Mondeluz is a range of high-quality watercolor pencils designed for artists and illustrators. They offer excellent blending capabilities and vibrant colors, making them suitable for a variety of techniques and applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "d5eff3d8-67d1-4795-948a-1a9a5705254f",
+            "image": null,
+            "name": "Koh-I-Noor Gioconda",
+            "description": "Koh-I-Noor Gioconda is a series of art supplies designed for artists, featuring high-quality oil pastels that are well-suited for diverse drawing techniques and applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "a956efa3-1e8c-4243-bcf1-386eaaa525ac",
+            "image": null,
+            "name": "Koh-I-Noor Triograph",
+            "description": "The Koh-I-Noor Triograph series features high-quality drawing tools designed for artists and illustrators. Known for their smooth performance and rich pigmentation, these products are ideal for both detailed work and broad strokes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "89508e0e-bf9a-4844-8311-0657d0f0e535",
+            "image": null,
+            "name": "Koh-I-Noor Magic",
+            "description": "The Koh-I-Noor Magic series features a range of vibrant, erasable colored pencils designed for artists and students. Their unique formula allows for easy blending and smooth application.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Koh-I-Noor"
+            }
+        },
+        {
+            "id": "a49c28fd-d381-4c46-9afc-d65315fd857d",
+            "image": null,
+            "name": "FolkArt Chalk Acrylic Paint",
+            "description": "FolkArt Chalk Acrylic Paint is a versatile, high-quality acrylic paint designed to create a chalky matte finish on various surfaces, perfect for crafting and home décor projects.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "44c4a515-0b3e-4911-8eb5-aff795501910",
+            "image": null,
+            "name": "FolkArt Acrylic Paint",
+            "description": "FolkArt Acrylic Paint is a versatile craft paint suitable for a wide range of surfaces, providing vibrant colors and excellent coverage for artists and DIY enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "a904c2d8-d4a5-408c-8c0b-a4ac6ffa8d07",
+            "image": null,
+            "name": "FolkArt Multi-Surface Paint",
+            "description": "FolkArt Multi-Surface Paint is a versatile, acrylic-based paint that is designed for use on various surfaces, making it suitable for both indoor and outdoor projects.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "55cbddd9-f03b-43b3-80f3-852ea4345075",
+            "image": null,
+            "name": "FolkArt Outdoor Paint",
+            "description": "FolkArt Outdoor Paint is a high-quality acrylic paint designed specifically for outdoor use, providing durable, weather-resistant finishes on a variety of surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "31501f8e-e250-4fe3-9255-1dc7c1d02a26",
+            "image": null,
+            "name": "FolkArt Outdoor",
+            "description": "FolkArt Outdoor is a series of acrylic paints designed specifically for outdoor use, offering enhanced durability and weather resistance for various surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "40c0113d-7455-41b7-bd40-348d9996651c",
+            "image": null,
+            "name": "Versalite Series",
+            "description": "The Montbell Versalite Series is designed for lightweight camping gear, emphasizing packability and durability for outdoor activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Montbell"
+            }
+        },
+        {
+            "id": "ceea0044-e17f-4bce-a7a0-b6f75974f4aa",
+            "image": null,
+            "name": "FolkArt Glow in the Dark Acrylic Paint",
+            "description": "FolkArt Glow in the Dark Acrylic Paint is a versatile, high-quality paint that glows in the dark after exposure to light, making it ideal for creative projects and crafts that require a unique luminous effect.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "5e533290-76bf-45bc-bf09-2ff8a7162531",
+            "image": null,
+            "name": "FolkArt Acrylic Paints",
+            "description": "FolkArt Acrylic Paints are a range of high-quality, water-based acrylic paints suitable for various art and craft projects. Known for their vibrant colors and excellent coverage, these paints are ideal for both beginners and experienced artists alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "e86819d5-ad79-48b7-ba45-03c0f2ea58fe",
+            "image": null,
+            "name": "FolkArt Glow in the Dark Paint",
+            "description": "FolkArt Glow in the Dark Paint is a specially formulated paint that glows in the dark, perfect for adding a luminous effect to various surfaces, making it ideal for crafts and home decor projects.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "d57456d4-62a4-4ac7-8c1a-f61a29b57047",
+            "image": null,
+            "name": "Gamblin Artist Oil Colors",
+            "description": "Gamblin Artist Oil Colors are a professional-grade series of oil paints known for their rich pigmentation, excellent lightfastness, and smooth application. Designed for artists, they offer a wide range of colors that facilitate varied artistic techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "5082e5c3-f107-4109-9cc1-9bdf7b043d43",
+            "image": null,
+            "name": "Gamblin Oil Paints",
+            "description": "Gamblin Oil Paints are high-quality, professional-grade oil paints designed for artists, known for their rich pigmentation, smooth application, and excellent lightfastness.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "919e4efe-5945-4592-a58b-c85108eb6fbe",
+            "image": null,
+            "name": "Masterson Palette",
+            "description": "The Masterson Palette is a versatile art supply designed for painters to keep their palette colors fresh and workable for extended periods. It features a unique sealed design to maintain moisture levels and prevent drying.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "3e791d61-5e98-4fb8-a855-5b19eb1ab68d",
+            "image": null,
+            "name": "Korg ARP Odyssey Module",
+            "description": "The Korg ARP Odyssey Module is a compact synthesizer that recreates the classic ARP Odyssey sound, offering powerful analog synthesis capabilities ideal for both live performance and studio production.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "edc6e90b-5e02-4a23-8145-be92ee0ab8c4",
+            "image": null,
+            "name": "Wavestate",
+            "description": "The Korg Wavestate is a digital synthesizer that offers advanced wavetable synthesis, enabling musicians to create complex and evolving sounds by manipulating audio samples in real-time.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "272bb181-061f-4581-b002-07edde0431d3",
+            "image": null,
+            "name": "miniKORG 700fs",
+            "description": "The miniKORG 700fs is a modern analog synthesizer inspired by the original miniKORG 700, designed for musicians seeking versatile sound creation with a classic touch.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "146842a0-735b-4752-a11d-4616d15a1c6f",
+            "image": null,
+            "name": "Korg Nautilus",
+            "description": "The Korg Nautilus series is a versatile line of music workstations designed for both professional musicians and composers. It features advanced sound engines, intuitive controls, and a wide range of built-in effects, making it suitable for composing, performing, and producing music across various genres.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "6d95299d-c2e8-4324-855e-0bb705d85983",
+            "image": null,
+            "name": "Korg SV-2",
+            "description": "The Korg SV-2 is a stage piano designed for live performance, featuring a wide range of authentic instrument sounds and an intuitive interface for musicians.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "22a3e878-b936-4172-bca7-ca5f0d5fe3e0",
+            "image": null,
+            "name": "Mitsubishi Endeavor",
+            "description": "The Mitsubishi Endeavor is a mid-size SUV that was produced from 2000 to 2011, designed for comfortable passenger transport and versatile utility in urban and off-road settings.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        }
+    ]
+}

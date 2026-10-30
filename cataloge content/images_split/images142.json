@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b1e88796-f3a4-4ba7-ad6f-0f857fe3df60",
+            "image": null,
+            "name": "Renault Fluence",
+            "description": "The Renault Fluence is a mid-size sedan that was first launched in 2007, designed to offer a balance of comfort, elegance, and space for both passengers and luggage.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "0b21c50f-5e4b-4e59-bab1-64dc3b35ddee",
+            "image": null,
+            "name": "Renault Duster (2015 facelift)",
+            "description": "The Renault Duster (2015 facelift) is a compact SUV designed to provide a combination of rugged performance and urban practicality, featuring updated design elements and enhanced comfort for everyday use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "085ee98a-03da-4b47-825b-9f5a5dc36a07",
+            "image": null,
+            "name": "Volkswagen Beetle",
+            "description": "The Volkswagen Beetle is a compact car known for its distinctive rounded shape and retro styling, designed for efficient urban mobility and personal expression.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "0f2ff57f-d57f-4093-a980-e83ab3854242",
+            "image": null,
+            "name": "Ameo",
+            "description": "The Volkswagen Ameo is a compact sedan designed for the Indian market, emphasizing efficiency and practicality for urban commuting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "afb5fb34-6231-4db1-bdb2-1fd55dfc6db4",
+            "image": null,
+            "name": "Tiguan",
+            "description": "The Volkswagen Tiguan is a compact SUV that offers a combination of practicality, comfort, and advanced technology, designed to meet the needs of urban and adventure-driven drivers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "7e668ecf-e696-4e9b-a724-d9007978c709",
+            "image": null,
+            "name": "Volkswagen Polo (6th Generation)",
+            "description": "The Volkswagen Polo (6th Generation) is a compact hatchback that combines modern design with efficient performance, designed for urban mobility and daily commuting.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "fb93cce3-535b-4de5-a755-924e8a295a5c",
+            "image": null,
+            "name": "Volkswagen T-Cross",
+            "description": "The Volkswagen T-Cross is a compact SUV designed to offer versatility, practicality, and comfort for urban driving and beyond. Launched in 2019, it combines modern design elements with advanced features to cater to a wide range of consumers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "fb64be9b-286f-4861-89cb-b7e6b13f9b0d",
+            "image": null,
+            "name": "Force Traveller 26",
+            "description": "The Force Traveller 26 is a versatile and robust pickup truck designed for commercial use, offering durability and spaciousness for transporting goods and passengers efficiently.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "d74c8d68-ed16-4f59-b5a9-e26e3fc99852",
+            "image": null,
+            "name": "Maruti Suzuki Omni",
+            "description": "The Maruti Suzuki Omni is a compact multi-purpose vehicle, originally released in 1984 in India and updated in 2006, known for its spacious interior and versatility, making it suitable for both personal and commercial use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "736eb5f7-62f8-4949-8f28-904253796581",
+            "image": null,
+            "name": "Maruti Suzuki Ignis",
+            "description": "The Maruti Suzuki Ignis is a compact crossover that emphasizes urban mobility with its distinctive design, practical features, and efficient performance, making it a suitable choice for city driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "f2be045f-2109-40ab-9b53-82407982d2f6",
+            "image": null,
+            "name": "Maruti Suzuki Vitara Brezza (New Generation)",
+            "description": "The Maruti Suzuki Vitara Brezza (New Generation) is a compact SUV introduced in 2019, offering a blend of style, comfort, and advanced features tailored for urban driving and family needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "82dfdffd-1e53-436a-acaf-48e1c31c88a0",
+            "image": null,
+            "name": "Maruti Suzuki Jimny",
+            "description": "The Maruti Suzuki Jimny is a compact SUV designed for off-road capabilities and rugged terrain, featuring a lightweight construction and a robust four-wheel drive system.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "1c5e6869-56cc-4c25-a227-86f35a669cdd",
+            "image": null,
+            "name": "Maruti Suzuki Fronx",
+            "description": "The Maruti Suzuki Fronx is a compact SUV designed to blend modern aesthetics with urban practicality, catering to the needs of city dwellers while offering stylish looks and robust performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "c5ddc411-a1d9-4b81-b6e2-4f9403cff9a2",
+            "image": null,
+            "name": "Bosch GDS 100",
+            "description": "The Bosch GDS 100 is a series of automotive diagnostic tools designed to provide accurate and reliable vehicle data for effective troubleshooting. This series is characterized by its user-friendly interface and versatility in working with various vehicle makes and models.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "d6888516-7d5d-49b7-8d13-9e0f33e11523",
+            "image": null,
+            "name": "MacBook Pro (14-inch and 16-inch, M1 Pro and M1 Max)",
+            "description": "The MacBook Pro series with M1 Pro and M1 Max chips offers high-performance laptops suitable for professionals who require advanced processing power and exceptional graphics capabilities for tasks such as video editing, software development, and other demanding applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "d6ae6fdd-b0f9-4631-b11f-dc8fd89bfec3",
+            "image": null,
+            "name": "Titan Series",
+            "description": "The Phoenix Gold Titan Series is a line of car audio products designed to deliver high-quality sound performance and reliability for automotive audio systems.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "d8696704-b524-4ca3-a27e-8248c6aab852",
+            "image": null,
+            "name": "Alfa Romeo Mito",
+            "description": "The Alfa Romeo Mito is a subcompact car that combines sporty styling with agile handling, designed for urban living and offering a blend of performance and efficiency since its release in 2008.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "48f55963-72f4-4738-a56e-bf722d504dec",
+            "image": null,
+            "name": "Infinix Hot 10S",
+            "description": "The Infinix Hot 10S is a budget-friendly smartphone series released in 2021, designed to offer essential features and a reliable performance for everyday users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "27294062-b17e-4fc0-95ab-3f582a517152",
+            "image": null,
+            "name": "Infinix Zero 5G",
+            "description": "The Infinix Zero 5G is a smartphone series launched in 2022, designed to offer high-speed 5G connectivity and advanced features for performance-oriented users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "25f6c43b-2f9a-43d2-98ec-6102c647659d",
+            "image": null,
+            "name": "Infinix Note 12",
+            "description": "The Infinix Note 12 series is a line of smartphones aimed at providing a balance of performance and affordability, featuring large displays and efficient processors for daily tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "8e4fbd7d-49fd-40b6-811b-508a2a7f12e8",
+            "image": null,
+            "name": "Infinix Hot 12",
+            "description": "The Infinix Hot 12 is a budget smartphone series launched in 2022, designed to offer essential features and performance for everyday use, catering to users seeking affordability without compromising on quality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "44bbc045-edcc-4c8e-b02f-8be07ebc5607",
+            "image": null,
+            "name": "Avita Liber V",
+            "description": "Avita Liber V is a series of lightweight, portable laptops designed for everyday computing tasks, offering a combination of performance and style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Avita"
+            }
+        },
+        {
+            "id": "744d2650-d334-4f9f-92f6-907b03184111",
+            "image": null,
+            "name": "Tecno Phantom 6",
+            "description": "The Tecno Phantom 6 is a smartphone series released in 2016, known for its sleek design, dual-camera setup, and focus on delivering strong multimedia performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "63452dda-7c31-4907-b271-c6ea57872faa",
+            "image": null,
+            "name": "Tecno Camon",
+            "description": "The Tecno Camon series, launched in 2017, is designed to provide exceptional photography capabilities and user-friendly features at an affordable price.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "e94733b6-d700-4e7f-9667-caa3a51acac8",
+            "image": null,
+            "name": "Tecno Camon 11",
+            "description": "The Tecno Camon 11 is a smartphone known for its emphasis on camera performance and affordability, designed to provide users with enhanced photography capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "9e51ca2f-3e2c-4267-a418-bb31c024e755",
+            "image": null,
+            "name": "Tecno Phantom 9",
+            "description": "The Tecno Phantom 9 is a smartphone that emphasizes advanced photography capabilities and a sleek design, targeted towards users who seek a high-performance mobile experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "35a03eae-11c2-424d-9aea-cafb877f012e",
+            "image": null,
+            "name": "Tecno Camon 15",
+            "description": "The Tecno Camon 15 is a smartphone series launched in 2020, designed for photography enthusiasts, featuring a high-resolution camera and a focus on camera performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "33b7bf94-d224-4f39-a2a6-7e3443a4e3da",
+            "image": null,
+            "name": "Seiko Presage",
+            "description": "The Seiko Presage series is a collection of elegantly crafted mechanical watches that combine traditional Japanese artistry with modern technology, designed for both style and functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Seiko"
+            }
+        },
+        {
+            "id": "8b61dca8-57c5-40f3-8969-5d5c10e4156f",
+            "image": null,
+            "name": "Ring Spotlight Cam",
+            "description": "The Ring Spotlight Cam is a smart home security camera featuring built-in spotlights, two-way audio, and motion-activated alerts, designed to enhance home security and provide real-time video monitoring.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "775c3f1d-9c87-4c1b-bd40-4279cbfe7d2a",
+            "image": null,
+            "name": "Bvlgari Serpenti Seduttori",
+            "description": "The Bvlgari Serpenti Seduttori is a luxury watch series characterized by its striking design, featuring a distinctive serpent-like silhouette that combines elegance with contemporary style, symbolizing seduction and allure.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Bvlgari"
+            }
+        }
+    ]
+}

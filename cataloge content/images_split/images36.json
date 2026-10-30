@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "8c34eb7e-8e14-4422-af63-e553a71c62af",
+            "image": null,
+            "name": "Miele CM6 Coffee Machines",
+            "description": "The Miele CM6 Coffee Machines are fully automatic coffee makers designed to deliver a convenient and high-quality coffee experience, featuring customizable settings and a compact design for home use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "932bc6bf-6dbd-44c4-9ac4-458b43bb6d2e",
+            "image": null,
+            "name": "Haier HWS Series Washing Machines",
+            "description": "The Haier HWS Series Washing Machines are designed for efficient and effective cleaning, providing users with modern technology and various wash settings to meet diverse laundry needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f78413fd-bb67-4e3b-aa69-0430d7e8a1d6",
+            "image": null,
+            "name": "Dell Latitude 7400 2-in-1",
+            "description": "The Dell Latitude 7400 2-in-1 is a versatile laptop designed for business professionals, offering a flexible form factor and features that enhance productivity and collaboration.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "fbf206bb-1734-48f6-9aaa-8a7bb2943be3",
+            "image": null,
+            "name": "Yeezy",
+            "description": "The Adidas Yeezy sneakers are a collaboration between Adidas and designer Kanye West, known for their distinctive aesthetic, innovative materials, and comfort, targeting the lifestyle and streetwear markets.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "9352b5d5-0686-4c86-b7ea-76a07feceec5",
+            "image": null,
+            "name": "Nissan Titan XD",
+            "description": "The Nissan Titan XD is a heavy-duty pickup truck designed for both commercial and personal use, offering increased towing capacity and power without sacrificing comfort and technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "ab8ff667-9b94-417f-abcf-d62004483e9e",
+            "image": null,
+            "name": "Dell G5 15 (2019)",
+            "description": "The Dell G5 15 (2019) is a gaming laptop designed to deliver a balance between performance and affordability, featuring powerful hardware specifications aimed at gamers and multimedia enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "afbc30c5-cff9-4eb4-9527-a6605afd37d4",
+            "image": null,
+            "name": "Dell Technologies - Vostro 15 3000",
+            "description": "The Dell Technologies Vostro 15 3000 series is a line of laptops designed for small businesses, offering essential features and reliable performance for everyday computing tasks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "b468dc32-63a4-4431-9412-1d32054b6476",
+            "image": null,
+            "name": "Graco Contender 65 Convertible Car Seat",
+            "description": "The Graco Contender 65 Convertible Car Seat is designed to accommodate growing children from infant to toddler stages, offering both rear-facing and forward-facing options for safety and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "3ad65c4e-00a4-4338-8551-b8cd66c4d2d9",
+            "image": null,
+            "name": "Graco 4Ever DLX 4 in 1 Car Seat",
+            "description": "The Graco 4Ever DLX 4 in 1 Car Seat is a versatile car seat designed to accommodate growing children from rear-facing to booster seat, providing safety and comfort for various stages of development.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "3f2ac695-242c-4da5-9cc1-b010d198fda5",
+            "image": null,
+            "name": "Dell Alienware m15",
+            "description": "The Dell Alienware m15 is a high-performance gaming laptop designed for immersive gaming experiences, featuring advanced thermal management and customizable RGB lighting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "482ea230-281b-46fd-9612-84390707dea1",
+            "image": null,
+            "name": "Dell Latitude 7000 series",
+            "description": "The Dell Latitude 7000 series is a line of business-class laptops designed for professionals who require high performance, durability, and security features for their daily computing needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "4fe3de06-3a35-43a7-b0a8-ac0c6e90bd18",
+            "image": null,
+            "name": "City Mini 2",
+            "description": "The Baby Jogger City Mini 2 is a lightweight and compact stroller designed for easy maneuverability and convenience, making it ideal for families on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "51e8c134-c0b7-40a5-87a6-a3f4bddc7876",
+            "image": null,
+            "name": "Xbox Play Anywhere",
+            "description": "Xbox Play Anywhere is a gaming initiative that allows players to purchase a game once and play it on both Xbox consoles and Windows 10 PCs, with shared progress and achievements across platforms.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "55894025-b846-4bdd-b66a-1255a07ba268",
+            "image": null,
+            "name": "Dell Inspiron 7000 series",
+            "description": "The Dell Inspiron 7000 series is a line of versatile laptops designed for both everyday productivity and entertainment, featuring modern designs and advanced performance capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "5e99e9a4-88c8-4076-9654-770752e7bbc8",
+            "image": null,
+            "name": "Dell XPS 13 (2019)",
+            "description": "The Dell XPS 13 (2019) is a compact laptop designed for portability and high performance, featuring a sleek design and powerful hardware suitable for everyday computing needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c846afa7-53b0-4ad9-9a2a-e792db7b6c36",
+            "image": null,
+            "name": "Dell XPS 13 (9370)",
+            "description": "The Dell XPS 13 (9370) is a premium ultraportable laptop designed for those seeking a blend of powerful performance and sleek design, suitable for both professional and everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "e01b553c-33fa-470d-9b82-f73a57ce55ba",
+            "image": null,
+            "name": "Surface Laptop 3",
+            "description": "The Microsoft Surface Laptop 3 is a sleek and portable laptop designed for productivity, featuring a premium build and enhanced performance with fast charging and longer battery life.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "7b766814-e95e-464d-b187-018b11fd09f5",
+            "image": null,
+            "name": "Lenovo Yoga 900S",
+            "description": "The Lenovo Yoga 900S is a versatile laptop featuring a sleek design and a 360-degree hinge, allowing it to be used in various modes for productivity and entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "926b2157-5283-4554-8ce9-851f3eecc375",
+            "image": null,
+            "name": "Surface Laptop 4",
+            "description": "The Microsoft Surface Laptop 4 is a premium laptop designed for productivity and portability, featuring a sleek design and long battery life, making it ideal for both work and leisure.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "95588780-cf39-408c-bac4-0eb575c729ed",
+            "image": null,
+            "name": "Surface Pro 7",
+            "description": "The Microsoft Surface Pro 7 is a versatile 2-in-1 laptop designed for productivity and portability, featuring a detachable keyboard and touchscreen display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "eaf45966-bb1b-4788-80dc-26db6cda298c",
+            "image": null,
+            "name": "Dell Alienware x17 R2",
+            "description": "The Dell Alienware x17 R2 is a high-performance gaming laptop designed for immersive gaming experiences, featuring advanced graphics capabilities and a sleek, premium design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "a23ef2ae-e17a-4c11-b08d-0634fa2b653e",
+            "image": null,
+            "name": "Dell G Series (G3 and G7)",
+            "description": "The Dell G Series (G3 and G7) laptops are designed for immersive gaming experiences and high-performance tasks, featuring dedicated graphics and powerful processors to cater to gamers and professionals alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "f9e6febf-4a07-47bd-a993-825bafe1a7f8",
+            "image": null,
+            "name": "Lenovo Legion Y520",
+            "description": "The Lenovo Legion Y520 is a gaming laptop series that combines powerful performance with a sleek design, catering to gamers who seek an immersive experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "fc227425-5391-4fa5-84ae-638c0dbf0bfb",
+            "image": null,
+            "name": "Lenovo Mirage Camera",
+            "description": "The Lenovo Mirage Camera is a compact 360-degree camera designed for capturing immersive photos and videos, enabling users to experience their memories in a more engaging way.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "abeb01a1-ec07-4af6-83fc-35c30872aa39",
+            "image": null,
+            "name": "Surface Studio",
+            "description": "The Microsoft Surface Studio is an all-in-one desktop computer designed for creative professionals and artists, featuring a large touchscreen display and a sleek, adjustable design that allows for versatile use in both drawing and productivity tasks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "ae054ff1-0667-45b1-878c-cd3c2a4718b5",
+            "image": null,
+            "name": "Surface Duo 2",
+            "description": "The Microsoft Surface Duo 2 is a dual-screen Android smartphone designed for productivity and multitasking, featuring a unique hinged design that allows users to run multiple apps simultaneously.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "b2810889-13fb-4bcc-a750-445e8dced6b9",
+            "image": null,
+            "name": "Surface Laptop 5",
+            "description": "The Microsoft Surface Laptop 5 is a sleek and powerful laptop designed for professionals and everyday users, offering a high-resolution touchscreen and enhanced performance for productivity and entertainment.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "b9fd7066-8390-4c6d-a160-c9ef31c381b0",
+            "image": null,
+            "name": "Surface Book",
+            "description": "The Microsoft Surface Book is a versatile 2-in-1 laptop designed for professional and creative users, featuring a detachable screen that can function as a tablet.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "08f4c377-aa20-45f9-84e1-26499136dd79",
+            "image": null,
+            "name": "Surface Laptop",
+            "description": "The Microsoft Surface Laptop is a sleek and portable laptop designed for efficiency and productivity, featuring a high-resolution touchscreen and a premium design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "09e081a4-7793-4fe7-8bb6-d521afa711d9",
+            "image": null,
+            "name": "Motorola Moto Z",
+            "description": "The Motorola Moto Z series, released in 2016 by Lenovo, consists of modular smartphones designed to allow users to attach various accessories known as Moto Mods, enhancing functionality such as camera capabilities, battery life, and audio experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        }
+    ]
+}

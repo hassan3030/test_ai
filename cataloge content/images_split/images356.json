@@ -1,0 +1,342 @@
+{
+    "data": [
+        {
+            "id": "abe7bb31-77e2-40b3-82d8-4bb97b3c105a",
+            "image": null,
+            "name": "Hourglass Bag",
+            "description": "The Balenciaga Hourglass Bag is a distinctive handbag characterized by its unique shape and structured silhouette, designed to evoke a modern aesthetic while offering practicality for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e1bf036-080a-4474-955b-14655d11308c",
+            "image": null,
+            "name": "City Bag",
+            "description": "The Balenciaga City Bag is a renowned handbag that embodies a blend of contemporary fashion and iconic style, designed for daily use with a spacious interior and a relaxed silhouette.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d12793d0-7896-41e4-b6a8-b494159493c5",
+            "image": null,
+            "name": "Fjällbo",
+            "description": "The Fjällbo series from IKEA features a collection of tables characterized by a combination of metal and wood, designed for durability and versatility in various living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "ee4b2712-59d1-4b7d-86ad-6984a445eddb",
+            "image": null,
+            "name": "Vimle",
+            "description": "The Vimle series from IKEA features modular sofas that offer flexibility and comfort, designed to adapt to various living spaces. Its clean lines and soft fabrics create a welcoming environment for relaxation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "b0f23bdd-c4df-4e29-a51e-f88945401bd6",
+            "image": null,
+            "name": "VADHOLMA",
+            "description": "The VADHOLMA series from IKEA features versatile tables designed for dining and workspace needs, characterized by their durable materials and sleek design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "29806f28-7dd0-45a8-8f8f-443a53bf54ba",
+            "image": null,
+            "name": "Brinley",
+            "description": "The Brinley series by Ashley Furniture offers an elegant and versatile choice for seating, emphasizing comfort with its plush upholstery and stylish design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "de913ca1-616a-46b1-b21c-414022087c22",
+            "image": null,
+            "name": "Ology",
+            "description": "The Steelcase Ology series is designed to enhance the health and productivity of employees through innovative office furniture solutions that prioritize comfort and support for various work styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6fd94ebc-f3f2-42db-94bd-91e415fc9163",
+            "image": null,
+            "name": "Amia",
+            "description": "The Steelcase Amia series is designed to provide ergonomic support and adaptability for various seating needs in office environments, promoting comfort and productivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9c8bf983-eafb-45a7-b2a2-777955e8554d",
+            "image": null,
+            "name": "Thread",
+            "description": "The Steelcase Thread series is designed to support collaborative work environments by offering flexible seating options that adjust to various postures and work modes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3413bb9e-ed15-4dd9-a06b-766d3b50b32a",
+            "image": null,
+            "name": "Steelcase Flex Collection",
+            "description": "The Steelcase Flex Collection is a versatile office furniture series designed to support collaborative and individual work within dynamic environments, promoting adaptability and comfort.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "75d3aafd-ea77-48d7-a97a-3c6be8e1c10b",
+            "image": null,
+            "name": "Gesture",
+            "description": "The Steelcase Gesture series is designed to support a wide variety of postures and movements throughout the workday, offering ergonomic comfort and versatility tailored for the modern workplace.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6d800bc0-409a-4aac-ab9b-b2b6c959ea35",
+            "image": null,
+            "name": "Berkley Collection",
+            "description": "The Berkley Collection by Pottery Barn features elegantly designed beds that blend modern aesthetics with classic comfort, providing durable and stylish sleeping solutions for any bedroom.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3f7397d1-6f79-440a-9156-c8b22297bc1b",
+            "image": null,
+            "name": "Irving Collection",
+            "description": "The Irving Collection by Pottery Barn features a range of dining and accent tables characterized by their classic design and durable construction, making them suitable for both everyday use and special occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ff7b7c6e-7be8-4924-9e56-ac0903bc19e5",
+            "image": null,
+            "name": "Happy Hour",
+            "description": "The Happy Hour series by Crate & Barrel features a collection of versatile tables designed for casual gatherings and entertaining, offering both style and functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8c9bc0df-3eb5-49d4-964c-0691cdb1fbca",
+            "image": null,
+            "name": "Ethan Allen Luxe",
+            "description": "The Ethan Allen Luxe series offers a collection of sophisticated sofas designed to provide exceptional comfort and elegance in any living space.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "98265806-2187-479d-9e2b-a072aa4f47cf",
+            "image": null,
+            "name": "Knoll ReGeneration Chair",
+            "description": "The Knoll ReGeneration Chair is designed to offer flexible support and comfort in a sustainable manner, reflecting innovative ergonomic design principles for dynamic office environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f124a1b2-a817-4b03-a6b6-287828b2dafc",
+            "image": null,
+            "name": "PB Comfort Collection",
+            "description": "The PB Comfort Collection by Pottery Barn features a range of sofas designed for ultimate relaxation and comfort, combining classic style with modern durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "85e8e79f-a3b3-4921-afc9-6cceb819631c",
+            "image": null,
+            "name": "Ferguson Collection",
+            "description": "The Ferguson Collection by Pottery Barn offers a range of elegantly designed chairs that combine comfort with a classic aesthetic, making them ideal for both casual and formal settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c22d69f1-c8e0-4bcc-b292-409b97edf90b",
+            "image": null,
+            "name": "Ethan Allen Modern",
+            "description": "The Ethan Allen Modern series features sofas that blend contemporary design with comfort and functionality, making them an ideal choice for modern living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b433b39b-8c9c-4fb5-85a4-236df1750436",
+            "image": null,
+            "name": "Xbox Live Gold",
+            "description": "Xbox Live Gold is a subscription service for Xbox users that provides access to online multiplayer gaming, free monthly games, and exclusive discounts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "41f9c18b-4834-4e93-8477-b892954f50fc",
+            "image": null,
+            "name": "Nintendo Switch (Model HAC-001(-01))",
+            "description": "The Nintendo Switch (Model HAC-001(-01)) is a hybrid gaming console released in 2019 that can be used as a handheld device or connected to a TV. It features versatile play styles, allowing for both solo and multiplayer gaming experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "62aeaca2-eb9e-4d46-89c8-304532f0c524",
+            "image": null,
+            "name": "Mario Kart Live: Home Circuit",
+            "description": "Mario Kart Live: Home Circuit is an augmented reality racing game that combines physical remote-controlled cars with digital gameplay. Players can create their own custom tracks in their homes and race against friends or AI-controlled characters.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3cf8016a-76d5-405b-9377-4bc2ecb8b0c8",
+            "image": null,
+            "name": "Hyrule Warriors: Age of Calamity",
+            "description": "Hyrule Warriors: Age of Calamity is an action hack-and-slash game developed by Koei Tecmo and published by Nintendo. It serves as a prequel to The Legend of Zelda: Breath of the Wild, offering players the opportunity to experience epic battles and explore the story leading up to the Great Calamity in Hyrule.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3c85b701-3548-4325-97c7-58c767445137",
+            "image": null,
+            "name": "Super Mario 3D World + Bowser's Fury",
+            "description": "Super Mario 3D World + Bowser's Fury is a platform video game that combines the cooperative gameplay of Super Mario 3D World with an open-world adventure in Bowser's Fury, allowing players to explore and work together to defeat Bowser.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "169e2e1b-73c7-4516-ad69-7225360aa81b",
+            "image": null,
+            "name": "Metroid Dread",
+            "description": "Metroid Dread is a 2D action-adventure game for the Nintendo Switch, featuring the bounty hunter Samus Aran as she explores a mysterious and dangerous alien planet.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1f530581-c125-4983-9ea3-9354bab55ae8",
+            "image": null,
+            "name": "Just Dance 2020",
+            "description": "Just Dance 2020 is a rhythm game developed by Ubisoft, allowing players to dance to a variety of songs using motion-sensing gameplay. It is designed for players of all ages to enjoy dancing and having fun with friends and family.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2f6ae96c-b290-4c22-9364-1a7c9b8876b2",
+            "image": null,
+            "name": "Razer DeathAdder Elite",
+            "description": "The Razer DeathAdder Elite is a high-performance gaming mouse designed for esports athletes, featuring an ergonomic design, precise sensor technology, and customizable lighting options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f26ab1a2-e3f2-4ff8-bdfa-8a5d3c72922a",
+            "image": null,
+            "name": "Razer Naga Hex V2",
+            "description": "The Razer Naga Hex V2 is a specialized gaming mouse designed primarily for multiplayer online battle arena (MOBA) gamers, featuring customizable buttons for quick access to in-game commands.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e5fa9e1c-a1b0-489b-b070-826ecd9b49c9",
+            "image": null,
+            "name": "Razer Kraken",
+            "description": "The Razer Kraken is a series of gaming headsets known for their immersive sound quality and comfort, designed to enhance the gaming experience with features tailored for gamers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b6c5c6dc-62f6-40ad-af1b-38ab5d1775a9",
+            "image": null,
+            "name": "Razer Naga Mouse",
+            "description": "The Razer Naga Mouse series is designed for gamers, featuring customizable buttons and ergonomic designs to enhance gameplay and improve efficiency in various gaming genres.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        }
+    ]
+}

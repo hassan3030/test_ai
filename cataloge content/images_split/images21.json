@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "73c01a48-0f0d-4d2a-8489-a99c6955145d",
+            "image": null,
+            "name": "Chevrolet Cruze",
+            "description": "The Chevrolet Cruze is a compact car designed to offer fuel efficiency and practicality in a stylish package, with features that appeal to a wide range of drivers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "da6f221a-5876-4b94-a059-83f73efe7336",
+            "image": null,
+            "name": "Chevrolet Volt",
+            "description": "The Chevrolet Volt is a plug-in hybrid electric vehicle designed to offer an efficient alternative to traditional gasoline-powered cars, combining electric-only driving with a gasoline engine for extended range capabilities.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "8d2b669f-c95d-4b1b-8005-b707466752bb",
+            "image": null,
+            "name": "Dodge Ram 2500",
+            "description": "The Dodge Ram 2500 is a heavy-duty pickup truck known for its strong towing capacity and rugged construction, designed primarily for work and off-road capabilities.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "ddb745a5-65b1-4c6f-90ca-eb6ceb510c01",
+            "image": null,
+            "name": "Chevrolet Silverado 1500 Classic",
+            "description": "The Chevrolet Silverado 1500 Classic is a full-size pickup truck known for its robust build, practicality, and versatility, making it suitable for both work and everyday transportation.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "92656b21-5067-41c0-8e09-05973e714e36",
+            "image": null,
+            "name": "Chevrolet Spark EV",
+            "description": "The Chevrolet Spark EV is an all-electric subcompact car designed for urban driving, offering zero emissions and efficient energy use.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "fd85198b-99ff-4548-8b43-b874cd1d395b",
+            "image": null,
+            "name": "Chevrolet Camaro ZL1",
+            "description": "The Chevrolet Camaro ZL1 is a high-performance variant of the Camaro, known for its powerful supercharged V8 engine and advanced technological features, delivering exceptional speed and handling on both the road and the track.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "af265c16-4573-4ba0-b578-56a7e96974da",
+            "image": null,
+            "name": "Chevrolet Malibu (2013)",
+            "description": "The Chevrolet Malibu (2013) is a mid-size sedan known for its balanced ride quality, ample interior space, and comprehensive safety features, designed to provide a comfortable and efficient driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "b2ea3eb5-422f-4928-98cf-fdbd2980be66",
+            "image": null,
+            "name": "Chevrolet SSR",
+            "description": "The Chevrolet SSR is a pickup truck and convertible hybrid that combines classic styling with modern performance, designed for enthusiasts looking for a unique driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "ba3cd44a-bc66-4798-a5f9-823374b3e651",
+            "image": null,
+            "name": "Chevrolet Spark",
+            "description": "The Chevrolet Spark is a subcompact car designed for urban driving, offering a compact size, fuel efficiency, and a practical interior that caters to city dwellers.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "c892aabc-59ce-46a8-b9ac-94d38ab36a11",
+            "image": null,
+            "name": "Chevrolet Impala (2012)",
+            "description": "The Chevrolet Impala (2012) is a full-size sedan known for its spacious interior, comfortable ride, and reliable performance, designed to cater to everyday driving needs.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "c953d371-17f8-47ec-9ab6-be57e941a969",
+            "image": null,
+            "name": "Chevrolet Sonic",
+            "description": "The Chevrolet Sonic is a subcompact car designed for urban driving, offering a combination of efficiency, affordability, and modern features.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "0d535536-eb8f-471d-8d04-44f819aeb28c",
+            "image": null,
+            "name": "Chevrolet Silverado (2017 refresh)",
+            "description": "The Chevrolet Silverado (2017 refresh) is a full-size pickup truck that combines rugged performance with advanced technology features, designed for both work and leisure activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "14f0d0ea-2fd0-44a4-9397-7c79a949dfea",
+            "image": null,
+            "name": "Chevrolet Corvette (C8)",
+            "description": "The Chevrolet Corvette (C8) is a mid-engine sports car that delivers exceptional performance, handling, and technology, representing a significant evolution of the Corvette lineage.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "17275323-1f42-4418-9bfc-f8682a2ac223",
+            "image": null,
+            "name": "Chevrolet Cobalt",
+            "description": "The Chevrolet Cobalt is a compact car that was produced by Chevrolet from 2005 to 2010. It is designed to provide a balance of performance, efficiency, and affordability for everyday driving.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "1a82e82d-4284-436f-82eb-e8b802e51b70",
+            "image": null,
+            "name": "Chevrolet Camaro (sixth generation)",
+            "description": "The Chevrolet Camaro (sixth generation) is a sports car produced by Chevrolet, known for its powerful performance, sharp handling, and distinctive styling. It is designed to deliver an exhilarating driving experience on both the road and the track.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "2667484a-613b-462a-8c50-9873c3d0a77a",
+            "image": null,
+            "name": "Chevrolet Camaro (5th generation)",
+            "description": "The Chevrolet Camaro (5th generation) is a sporty coupe and convertible that was first released in 2010, known for its bold design and performance-oriented features, appealing to enthusiasts of American muscle cars.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "33f861fb-a107-4ca5-a10b-335d5e5a1d7c",
+            "image": null,
+            "name": "Chevrolet Silverado 1500",
+            "description": "The Chevrolet Silverado 1500 is a full-size pickup truck known for its robust performance, versatility, and reliability, making it suitable for both work and daily driving needs.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "4299433e-c4a1-42d9-b749-307d9cdb9d34",
+            "image": null,
+            "name": "Chevrolet Traverse (second generation)",
+            "description": "The Chevrolet Traverse (second generation) is a midsize SUV that offers a spacious interior, advanced safety features, and a versatile seating configuration, designed to accommodate families and enhance their driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "4a8f42d0-0b08-4162-9499-935a06fbd31d",
+            "image": null,
+            "name": "Chevrolet Aveo",
+            "description": "The Chevrolet Aveo is a subcompact car introduced in 2004, designed to provide economical transportation with a focus on efficient fuel consumption and practical features.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "d8e1c5f5-541f-4b4f-ba09-7329a98c2245",
+            "image": null,
+            "name": "Chevrolet Equinox EV",
+            "description": "The Chevrolet Equinox EV is an all-electric SUV designed to offer versatility, advanced technology, and a spacious interior, catering to the needs of modern drivers seeking eco-friendly alternatives.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "6bc34282-4836-417d-afc6-63fd8cf1240e",
+            "image": null,
+            "name": "Nissan Sentra (B15)",
+            "description": "The Nissan Sentra (B15) is a compact car that was designed for reliability and fuel efficiency, aimed at providing an affordable transportation option for consumers.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "73ba1d81-189b-40fd-ae14-d948c6330571",
+            "image": null,
+            "name": "Nissan Pathfinder (2008 model year)",
+            "description": "The Nissan Pathfinder (2008 model year) is a mid-size SUV designed for family-oriented adventures, offering spacious interior room, off-road capability, and a range of safety features.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "e3315d80-ef92-4c6b-ab6d-fe0feebd0db0",
+            "image": null,
+            "name": "Nissan NV2500 HD",
+            "description": "The Nissan NV2500 HD is a heavy-duty commercial van designed for versatility and capability, aimed primarily at businesses requiring reliable transport and cargo solutions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "8927bc93-6e0f-45a6-adfb-fcace671e35a",
+            "image": null,
+            "name": "Nissan Altima (L32)",
+            "description": "The Nissan Altima (L32) is a mid-size sedan that offers a blend of comfort, performance, and practicality, designed to cater to everyday driving needs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "e8c9067f-3a4f-4aa2-a4a5-0a3011ae0d77",
+            "image": null,
+            "name": "2023 Chevrolet Suburban",
+            "description": "The 2023 Chevrolet Suburban is a full-size SUV known for its spacious interior, powerful performance, and advanced technology features, making it ideal for families and those needing ample cargo space.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "e92748f6-0ed2-43b3-9359-f32534527dbf",
+            "image": null,
+            "name": "Nissan Micra",
+            "description": "The Nissan Micra is a compact car known for its practicality, fuel efficiency, and maneuverability, making it an ideal choice for urban driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "eaf72aee-1313-4274-827e-5eac34584223",
+            "image": null,
+            "name": "Nissan Versa Note",
+            "description": "The Nissan Versa Note is a compact hatchback designed for efficient urban driving, offering versatile cargo space and fuel economy.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "a72c940b-8b5f-42d4-864d-aa008f2a465c",
+            "image": null,
+            "name": "Nissan NV3500 HD",
+            "description": "The Nissan NV3500 HD is a full-size van designed for commercial use, offering robust capabilities and a spacious interior suitable for transporting cargo or passengers.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "a765d94d-84b8-4a2a-9b77-a285b7b34baf",
+            "image": null,
+            "name": "Chevrolet Silverado EV",
+            "description": "The Chevrolet Silverado EV is an electric full-size pickup truck designed for versatility, power, and advanced technology, aiming to meet the needs of both work and recreational users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "ab3ed582-adcc-4752-987c-9fd8e2361eae",
+            "image": null,
+            "name": "2023 Chevrolet Tahoe",
+            "description": "The 2023 Chevrolet Tahoe is a full-sized SUV that offers a combination of spacious interior, advanced technology, and strong towing capabilities, making it ideal for families and adventure-seekers alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "266d83c2-d97b-43eb-a304-905fbcab1bd2",
+            "image": null,
+            "name": "Toyota Sienna (Third Generation)",
+            "description": "The Toyota Sienna (Third Generation) is a minivan designed for family transportation, offering spacious interiors, advanced safety features, and versatility for various driving needs.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "766238d7-1f69-48b5-9e0e-ddaf248da6dd",
+            "image": null,
+            "name": "Hero Passion",
+            "description": "The Hero Passion series is a line of motorcycles designed for everyday commuting, known for their fuel efficiency, reliability, and ease of use. Launched in 2007, this series has become popular among riders looking for a practical and economical transportation solution.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "76e64914-68d7-4a69-95a8-f724915fb49a",
+            "image": null,
+            "name": "BMW X3 (G01)",
+            "description": "The BMW X3 (G01) is a luxury compact SUV designed to offer a balance of sportiness and practicality. Introduced in 2017, it features advanced technology, a spacious interior, and versatile performance for both urban and off-road driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "938220ce-3fe1-46f4-9f19-746e258fe110",
+            "image": null,
+            "name": "Opel Astra (G)",
+            "description": "The Opel Astra (G) is a compact car developed by the German automaker Opel, designed to offer a balance of performance, comfort, and efficiency in everyday driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "96c97325-c55e-403f-b051-67e9ae65cad6",
+            "image": null,
+            "name": "Volkswagen Touareg",
+            "description": "The Volkswagen Touareg is a mid-size luxury SUV known for its off-road capabilities, sophisticated design, and advanced technology. It combines versatility and comfort, making it suitable for both urban and rugged environments.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "9cdfb9a1-c81a-4f27-a380-c6ec7ee78f8a",
+            "image": null,
+            "name": "Ecsta PS91",
+            "description": "The Sumitomo Ecsta PS91 is a high-performance tire designed for sports cars and high-speed driving, offering enhanced grip, stability, and handling in both dry and wet conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "9ef827ec-3697-4144-98bc-44f37fd1be35",
+            "image": null,
+            "name": "Hyundai Verna",
+            "description": "The Hyundai Verna is a compact sedan that offers a balance of style, comfort, and efficiency, primarily designed for urban driving and everyday use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "a5ddc743-d20e-482f-b043-d382f35b0d9a",
+            "image": null,
+            "name": "Porsche 718 Cayman GT4 RS",
+            "description": "The Porsche 718 Cayman GT4 RS is a high-performance sports car released in 2022, designed for driving enthusiasts seeking track-capable performance combined with everyday usability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "00cbc0e2-fbc5-4a1c-8774-e26bb7c1798b",
+            "image": null,
+            "name": "Hero Honda CBZ",
+            "description": "The Hero Honda CBZ is a motorcycle launched in 2002, known for its sporty design and reliable performance, catering mainly to young riders seeking a blend of style and functionality.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "0cf254d8-a432-4f09-826f-3e0e85dd0181",
+            "image": null,
+            "name": "Crosstek 2",
+            "description": "The Sumitomo Tire Crosstek 2 is an all-season tire designed for enhanced performance and durability across various driving conditions. It offers a balanced combination of traction, comfort, and tread life.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "1ada0274-2015-4b91-9e21-b8e2e253cde4",
+            "image": null,
+            "name": "Ford F-150 (2006 Model)",
+            "description": "The Ford F-150 (2006 Model) is a full-size pickup truck designed for both utility and comfort, offering a balance of power, towing capabilities, and interior features suitable for both work and leisure.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "24bb5807-90d9-46ea-8c18-c027280c4137",
+            "image": null,
+            "name": "LEGO 31201 Beatles Tribute",
+            "description": "The LEGO 31201 Beatles Tribute set allows fans to create iconic imagery related to The Beatles through a unique and artistic building experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "4249cdd6-1742-4419-8f7e-6ae9590affa4",
+            "image": null,
+            "name": "Hero Honda CBZ Xtreme",
+            "description": "The Hero Honda CBZ Xtreme is a motorcycle that debuted in 2005, known for its stylish design and performance-focused features, catering to riders who seek a blend of power and efficiency.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "435622d8-7ec9-4f95-93ae-9079b0ed8466",
+            "image": null,
+            "name": "Ford Focus RS",
+            "description": "The Ford Focus RS is a high-performance hatchback that combines powerful turbocharged performance with advanced all-wheel-drive technology, designed for enthusiasts seeking an exhilarating driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "470601b1-eada-4b2b-883c-638602c3d622",
+            "image": null,
+            "name": "Volkswagen Vento",
+            "description": "The Volkswagen Vento is a compact sedan designed to offer a blend of style, comfort, and performance. Launched in 2000, it has become popular in various markets for its practicality and reliability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "b6ee6a93-43f2-4441-94f3-699458068dfd",
+            "image": null,
+            "name": "Hyundai Elantra (2002 model)",
+            "description": "The Hyundai Elantra (2002 model) is a compact car known for its efficient use of space and fuel, making it a practical choice for budget-conscious drivers seeking reliability and comfort.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "b7e682da-6e90-4fd2-a86e-1dcf99ff52cf",
+            "image": null,
+            "name": "BMW M4",
+            "description": "The BMW M4 is a high-performance sports car that combines luxury and advanced automotive technology, designed for driving enthusiasts who seek both speed and precision on the road.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "bd6f1125-0f03-4d2d-9f8d-a5a7e722d81f",
+            "image": null,
+            "name": "Ford Taurus",
+            "description": "The Ford Taurus is a full-size sedan that combines comfort, spaciousness, and reliability, making it a popular choice for families and commuters.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "c95ab36b-4e4e-4af4-8aa0-7a1d3a88a430",
+            "image": null,
+            "name": "Hyundai i10",
+            "description": "The Hyundai i10 is a small city car known for its compact size, fuel efficiency, and practicality, making it an ideal choice for urban driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f722a4c7-7cd5-4402-9881-0e78fe584bcc",
+            "image": null,
+            "name": "Quatrac Pro",
+            "description": "The Vredestein Quatrac Pro is a high-performance all-season tire designed for sport and luxury vehicles, providing excellent grip and handling in various weather conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "f8d70818-a5ab-410c-9d3a-188ccab37c7b",
+            "image": null,
+            "name": "Wintrac Pro",
+            "description": "The Vredestein Wintrac Pro is a high-performance winter tire designed for superior grip and handling in challenging weather conditions, ensuring safety and comfort during winter driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "27964302-89c9-4000-ac1b-395f83ebc7bf",
+            "image": null,
+            "name": "BMW i7",
+            "description": "The BMW i7 is an all-electric luxury sedan that combines advanced technology and premium comfort, designed to provide an exceptional driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "6edc6010-d0e2-48d6-a371-1f7eada57fcc",
+            "image": null,
+            "name": "Vredestein Quatrac Pro",
+            "description": "The Vredestein Quatrac Pro is a high-performance all-season tire designed for superior grip and handling in various weather conditions, ensuring safety and comfort on the road.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "1dbc1f21-a790-4653-9288-ca337345f1e6",
+            "image": null,
+            "name": "ID Chair",
+            "description": "The Vitra ID Chair is an adaptable and ergonomic seating solution designed for various work environments, emphasizing comfort and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "78e490ff-2ee2-4670-b01b-7c947f40c1e8",
+            "image": null,
+            "name": "Ecopia EP300",
+            "description": "The Sumitomo Ecopia EP300 is a line of fuel-efficient tires designed to enhance fuel economy while providing a comfortable ride and reliable performance in various driving conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "891a54df-bb9f-443f-9820-f114ec613e90",
+            "image": null,
+            "name": "Vredestein HiTrac",
+            "description": "The Vredestein HiTrac is a tire series designed to provide reliable handling and comfort for everyday driving while enhancing fuel efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "8d956bfe-c2d7-412a-8542-a7033f8d5918",
+            "image": null,
+            "name": "Husqvarna WR",
+            "description": "The Husqvarna WR series consists of off-road motorcycles designed for trail riding and enduro racing, known for their lightweight construction and agile handling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a22fd884-cf01-48b2-9ff6-9f202b0327b0",
+            "image": null,
+            "name": "Ultrac Sessanta",
+            "description": "The Vredestein Ultrac Sessanta is a high-performance tire designed for sports cars, offering exceptional grip and handling on both dry and wet surfaces. This series is engineered to enhance driving pleasure while maintaining comfort.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "a6550270-b11a-4235-9bcb-752b4eb323c4",
+            "image": null,
+            "name": "Razer Blade Stealth (2017)",
+            "description": "The Razer Blade Stealth (2017) is a high-performance ultraportable laptop designed for gaming and productivity, featuring a sleek aluminum chassis and powerful internals for efficient multitasking and gameplay.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b1abba36-de20-4ae2-9569-2498984c2de3",
+            "image": null,
+            "name": "Quatrac 2",
+            "description": "The Vredestein Quatrac 2 is an all-season tire designed for passenger vehicles, providing reliable performance in both wet and dry conditions, with a focus on comfort and longevity.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        }
+    ]
+}

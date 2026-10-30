@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "2a8254d0-f3f3-43a4-8f83-3bf665b1d0c2",
+            "image": null,
+            "name": "Fujifilm X-H2S",
+            "description": "The Fujifilm X-H2S is a high-performance mirrorless camera designed for professional photographers and videographers, featuring advanced imaging capabilities and impressive autofocus technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Fujifilm"
+            }
+        },
+        {
+            "id": "8b531544-1f71-4e86-8c63-4afe04d3c01e",
+            "image": null,
+            "name": "Alcatel A3",
+            "description": "The Alcatel A3 series includes smartphones designed for budget-conscious consumers, offering essential features with a focus on user-friendly experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "b5ee5ee7-3a37-49c7-b33e-fec1264c42b8",
+            "image": null,
+            "name": "Alcatel A5 LED",
+            "description": "The Alcatel A5 LED is a smartphone released in 2016 that features a unique LED notification system on its back cover, designed to provide customizable notifications and enhance user interaction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "30fb0bb3-ac98-405c-a81a-5490d67db0ef",
+            "image": null,
+            "name": "Alcatel Pop 4",
+            "description": "The Alcatel Pop 4 series consists of budget-friendly smartphones launched in 2016, designed to provide essential features for everyday use with a focus on accessibility and ease of use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "68b21c78-6a99-4d72-9b97-d6263e385a83",
+            "image": null,
+            "name": "Alcatel Idol 4",
+            "description": "The Alcatel Idol 4 series consists of smartphones released in 2016, designed to provide users with a balance of performance, style, and multimedia capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "f2843f23-3b15-47b8-b8fb-33936b3988de",
+            "image": null,
+            "name": "Alcatel Pixi 4",
+            "description": "The Alcatel Pixi 4 series includes smartphones designed for affordable performance and ease of use, targeting budget-conscious consumers with essential features and a user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "5b7c5d22-f5f6-4c6a-a350-371cc35e13c6",
+            "image": null,
+            "name": "Alcatel U5",
+            "description": "The Alcatel U5 is a budget smartphone released in 2017, designed to provide essential smartphone functionalities with a focus on simplicity and usability for first-time users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "1f6cf3b0-ac25-4e2c-9bbe-268d52d89e6e",
+            "image": null,
+            "name": "Alcatel 1X",
+            "description": "The Alcatel 1X series is a line of budget smartphones designed to provide essential features and functionality for everyday use, focusing on accessibility and user-friendly experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "ab060f03-d2bc-4260-a0dd-0bb6c1c80bb1",
+            "image": null,
+            "name": "Lenovo Legion 5",
+            "description": "The Lenovo Legion 5 is a series of gaming laptops designed to deliver high performance and an immersive gaming experience, featuring powerful processors and graphics paired with advanced cooling solutions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "13336572-7c4a-4d23-b5e6-d9411c76a229",
+            "image": null,
+            "name": "Lenovo Legion 7i",
+            "description": "The Lenovo Legion 7i is a high-performance gaming laptop series designed for gamers seeking powerful graphics, advanced cooling, and customizable features for an immersive gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "05c0183e-f802-4446-956a-4d4989e15961",
+            "image": null,
+            "name": "Doro 8060",
+            "description": "The Doro 8060 is a mobile phone designed specifically for seniors, featuring a user-friendly interface, large icons, and useful accessibility features to enhance ease of use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "c46fe300-7a3c-43a3-b586-df6dbcb3da4f",
+            "image": null,
+            "name": "G-SHOCK GA-2000",
+            "description": "The Casio G-SHOCK GA-2000 series features rugged, durable watches designed for outdoor activities and everyday wear, known for their shock resistance and unique design elements.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "9790427c-1640-43bc-b7a4-3063494175e7",
+            "image": null,
+            "name": "BABY-G BGA-250",
+            "description": "The Casio BABY-G BGA-250 series features stylish, durable watches designed for active women, combining functionality with a fashionable appeal.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "b7f2875c-35c1-43e4-a3a4-03394128e5d1",
+            "image": null,
+            "name": "Ring Stick Up Cam Battery (3rd Generation)",
+            "description": "The Ring Stick Up Cam Battery (3rd Generation) is a versatile, wireless security camera designed for indoor or outdoor use, allowing users to monitor their homes remotely with live video streaming and two-way audio capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "4cc02b7a-10b9-438e-9e29-b0f83a6171a0",
+            "image": null,
+            "name": "Kate Spade New York Spring/Summer 2017 Collection",
+            "description": "The Kate Spade New York Spring/Summer 2017 Collection features a range of bags designed with vibrant colors and playful patterns, embodying the brand's signature style of whimsical sophistication suitable for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "82d9f115-e994-462d-ac3f-c3c0d1e2958d",
+            "image": null,
+            "name": "Hugo Boss Black",
+            "description": "Hugo Boss Black is a premium men's clothing line by Hugo Boss, known for its elegant and sophisticated design, catering to modern professionals who value both style and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Hugo Boss"
+            }
+        },
+        {
+            "id": "c51c2290-684e-4bf1-b758-444ff8536a13",
+            "image": null,
+            "name": "Bolle Sunglasses Collection",
+            "description": "The Bolle Sunglasses Collection is designed for outdoor sports enthusiasts, offering a combination of style and performance with advanced lens technology and lightweight materials.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Bolle"
+            }
+        },
+        {
+            "id": "18695f5b-5533-4ef6-9aaf-0bddcad906b2",
+            "image": null,
+            "name": "Rudy Project Stratofly",
+            "description": "The Rudy Project Stratofly sunglasses are designed for athletes seeking optimal performance and protection in various outdoor activities. With advanced lens technology and a lightweight frame, these sunglasses offer clarity and comfort during intense use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Rudy Project"
+            }
+        },
+        {
+            "id": "24b9f25e-387c-4815-8401-5ea013d75741",
+            "image": null,
+            "name": "Dita Eyewear 2018 Collection",
+            "description": "The Dita Eyewear 2018 Collection features luxury sunglasses that combine innovative design with high-quality materials, aimed at providing both style and UV protection.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Dita Eyewear"
+            }
+        },
+        {
+            "id": "5a9166e6-ddd6-4119-85df-496665690ad1",
+            "image": null,
+            "name": "Michael Kors Access",
+            "description": "The Michael Kors Access series encompasses a range of smartwatches that combine advanced technology with stylish designs, allowing users to stay connected while making a fashion statement.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "cacc6180-73d8-4619-8986-a59a71837be0",
+            "image": null,
+            "name": "Jet Set",
+            "description": "The Michael Kors Jet Set series features a range of stylish bags designed for the modern traveler, combining functionality with fashionable appeal. This series is known for its versatile designs and quality materials, making it an ideal choice for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "70bb9604-9980-4c1d-beda-bcb4b590fb05",
+            "image": null,
+            "name": "Michael Kors Runway",
+            "description": "The Michael Kors Runway series features sophisticated watches designed to enhance both casual and formal attire, blending contemporary aesthetics with classic elegance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "11fb2ddf-7635-4d0c-85e9-1b21794cf8ae",
+            "image": null,
+            "name": "Nova",
+            "description": "The Nova series by Veja features sustainably produced sneakers known for their minimalist design and eco-friendly materials. Launched in 2016, these sneakers aim to combine style with social responsibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "25c43677-fc91-4674-95b8-969577ac09fc",
+            "image": null,
+            "name": "Veja V-15",
+            "description": "The Veja V-15 is a sustainable sneaker series known for its eco-friendly materials and minimalistic design, aimed at promoting responsible consumerism.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "4ce6f5bb-e791-4a8a-aa23-ea29b02da1e5",
+            "image": null,
+            "name": "Campos",
+            "description": "The Veja Campos is a sustainable sneaker series launched in 2020, known for its eco-friendly materials and minimalist design, making it suitable for everyday wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "7c74691f-502e-4332-a405-79b3352c02db",
+            "image": null,
+            "name": "Campo",
+            "description": "The Veja Campo sneakers, released in 2022, are known for their eco-friendly materials and minimalist design, making them suitable for everyday wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "a1044a51-ab83-4cf3-9c32-2b23fcd65cbb",
+            "image": null,
+            "name": "Superga 2790",
+            "description": "The Superga 2790 is a platform sneaker featuring a classic canvas upper and rubber outsole, designed for comfort and style, suitable for casual everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Superga"
+            }
+        },
+        {
+            "id": "9da6b862-93fd-4948-ae3e-4bd4ab2c204b",
+            "image": null,
+            "name": "Jack & Jones Jeans Intelligence",
+            "description": "Jack & Jones Jeans Intelligence is a collection of men's denim that combines contemporary styles with innovative fabric technologies for enhanced comfort and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Jack & Jones"
+            }
+        },
+        {
+            "id": "c1eb2a66-976c-4ae9-b28d-a674acd23950",
+            "image": null,
+            "name": "Vero Moda Collection",
+            "description": "The Vero Moda Collection is a series of women's clothing designed to provide contemporary styles and versatile options for everyday wear. It emphasizes comfort, quality, and fashionable designs suitable for various occasions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Vero Moda"
+            }
+        },
+        {
+            "id": "e9ecd242-55ea-43a9-973f-23ef0852c9ef",
+            "image": null,
+            "name": "Alcatel 1",
+            "description": "The Alcatel 1 series consists of budget-friendly smartphones aimed at providing essential features and user-friendly experiences for basic communication and multimedia use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        }
+    ]
+}

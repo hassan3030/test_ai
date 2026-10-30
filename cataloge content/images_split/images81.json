@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "5cc2ac9e-71f9-4840-98df-688270c1095b",
+            "image": null,
+            "name": "DS Wild Rubis",
+            "description": "The DS Wild Rubis is a luxury SUV concept car unveiled by DS Automobiles in 2013, designed to combine elegance with functionality for urban mobility.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "ba90965a-158b-4f00-889f-572de7112b30",
+            "image": null,
+            "name": "Dacia Logan II",
+            "description": "The Dacia Logan II is a compact family car designed for practicality and affordability, offering spacious interior and efficient performance.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "bb105703-5d15-4e20-8083-9e14cca37d51",
+            "image": null,
+            "name": "Dacia Lodgy",
+            "description": "The Dacia Lodgy is a versatile multi-purpose vehicle (MPV) designed to provide spaciousness and practicality for families and groups. Released in 2010, it is known for its affordability and functionality in the compact van segment.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "c404b903-6d10-494c-962b-0b867a19e1cf",
+            "image": null,
+            "name": "Dacia Logan (Third Generation)",
+            "description": "The Dacia Logan (Third Generation) is a compact sedan known for its affordability, spacious interior, and practicality, making it a popular choice for budget-conscious consumers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "c86a13ad-187f-4207-8412-5d20cf63b4d3",
+            "image": null,
+            "name": "DS 3",
+            "description": "The DS 3 is a compact luxury hatchback produced by DS Automobiles, known for its stylish design and personalized options, aimed at offering a premium driving experience since its launch in 2009.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "e347261e-e6c4-4812-9ce6-0ecf6692e95c",
+            "image": null,
+            "name": "Brembo Xtra",
+            "description": "Brembo Xtra offers high-performance brake discs designed for enhanced braking efficiency and improved aesthetics, making them ideal for both street and track use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "6857685f-ce93-43e3-8cad-5078ffff6985",
+            "image": null,
+            "name": "Rotiform RSE",
+            "description": "The Rotiform RSE series offers a distinctive design that combines style and performance for automotive enthusiasts, catering to a variety of vehicles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "bd197313-ed7f-4abb-a9e9-ee62f8258a30",
+            "image": null,
+            "name": "Andris R",
+            "description": "The Ariston Thermo Andris R series includes electric water heaters designed for efficient and reliable domestic hot water supply, featuring compact designs ideal for small spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Ariston Thermo"
+            }
+        },
+        {
+            "id": "6aba8502-8def-4fe7-849b-6ecef30d9122",
+            "image": null,
+            "name": "Rotiform BLQ",
+            "description": "The Rotiform BLQ series features a distinct multi-spoke design that combines style and performance, making it suitable for a wide range of vehicles. Designed for enthusiasts, these wheels enhance the aesthetic appeal while providing durability and reliability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "6d6e9064-b0e6-403a-8a32-71bd503dd703",
+            "image": null,
+            "name": "Vorsteiner V-FF 107",
+            "description": "The Vorsteiner V-FF 107 is a lightweight, flow-formed wheel designed to enhance the aesthetic and performance of high-end sports cars. Its engineering focuses on reducing weight while maintaining structural integrity, making it suitable for both street and track applications.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "8fe70f2a-d408-439d-bea2-b04399f78735",
+            "image": null,
+            "name": "ZF 8HP Transmission",
+            "description": "The ZF 8HP Transmission is an eight-speed automatic transmission developed by ZF Friedrichshafen, known for its efficiency, smooth shifting, and adaptability to various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "ZF Friedrichshafen"
+            }
+        },
+        {
+            "id": "9b47ac51-3c12-42d2-980b-1ca23b1bb616",
+            "image": null,
+            "name": "Haval H4",
+            "description": "The Haval H4 is a compact SUV designed to offer a balance of comfort, performance, and practicality for everyday driving needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "aefb6d23-1e53-499e-9f62-842eb385a7f9",
+            "image": null,
+            "name": "Mercedes-Benz E-Class (W213) Facelift",
+            "description": "The Mercedes-Benz E-Class (W213) Facelift is a luxury mid-size sedan known for its advanced technology, comfort, and a smooth driving experience. It combines luxury with practicality, making it suitable for both personal and business use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "b4702bf7-8e10-463e-b8dd-d18804de5645",
+            "image": null,
+            "name": "Haval Big Dog",
+            "description": "The Haval Big Dog is a 2023 SUV designed to offer a combination of off-road capabilities and versatile urban functionality, catering to adventure enthusiasts and daily commuters alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "b71edf62-f1aa-455b-80f8-ca0d9b1c39e8",
+            "image": null,
+            "name": "Castrol GTX MAGNATEC",
+            "description": "Castrol GTX MAGNATEC is an engine oil designed to provide enhanced protection and performance for your vehicle. Its unique molecules cling to engine parts, helping to reduce wear during critical start-up periods.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Castrol"
+            }
+        },
+        {
+            "id": "bbee8f21-266a-4198-86a9-39323c967940",
+            "image": null,
+            "name": "DS 7",
+            "description": "The DS 7 is a luxury SUV from DS Automobiles, designed to offer a blend of performance, comfort, and advanced technology, appealing to drivers seeking sophistication and versatility.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "c95c53d0-4b8c-4ba9-923c-d33aac911cc3",
+            "image": null,
+            "name": "Brembo Gran Turismo",
+            "description": "The Brembo Gran Turismo series is designed to enhance braking performance and aesthetics for high-performance vehicles, providing improved heat dissipation and reduced fade during intense driving conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Brembo"
+            }
+        },
+        {
+            "id": "d069a479-5820-42c4-959e-2510ef0b11cb",
+            "image": null,
+            "name": "Nissan Patrol Y60",
+            "description": "The Nissan Patrol Y60 is a rugged SUV designed for off-road capabilities and endurance, renowned for its strong performance in various terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan Patrol"
+            }
+        },
+        {
+            "id": "13d25d25-05a7-43cc-97b5-db08592188f8",
+            "image": null,
+            "name": "Nissan Patrol Y61",
+            "description": "The Nissan Patrol Y61 is a rugged SUV designed for off-road performance and durability, offering capability and reliability for diverse driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan Patrol"
+            }
+        },
+        {
+            "id": "16836e94-ebab-44a7-8467-15e9b6e861c2",
+            "image": null,
+            "name": "Vorsteiner V-FF 101",
+            "description": "The Vorsteiner V-FF 101 is a lightweight alloy wheel designed to enhance performance and aesthetic appeal, providing a stylish and dynamic fit for various vehicles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "2c7febd3-fa2e-41b5-9d53-c79977df5295",
+            "image": null,
+            "name": "Haval H9 (2020 Series)",
+            "description": "The Haval H9 (2020 Series) is a mid-size SUV designed to provide a blend of off-road capability and family-friendly comfort, featuring spacious interiors and advanced safety features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "3e3c93f3-e2c6-4e20-b3e4-50be7412e626",
+            "image": null,
+            "name": "Haval H9",
+            "description": "The Haval H9 is a mid-size SUV designed for off-road capability and passenger comfort, featuring a robust build and a versatile interior suitable for various driving situations.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "4319c2ba-ae5b-49d4-b1a9-ad712e991fcb",
+            "image": null,
+            "name": "Haval H2",
+            "description": "The Haval H2 is a compact SUV known for its stylish design, comfortable interior, and competitive features aimed at providing a balance of performance and efficiency.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "4429aef0-47d9-4cdd-90d8-83ffc746d05d",
+            "image": null,
+            "name": "NGK Iridium IX",
+            "description": "The NGK Iridium IX spark plugs are designed for high-performance engines, featuring an iridium tip that provides improved ignition efficiency and longevity.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "48a9627b-76ba-44ca-9868-99b416742ab7",
+            "image": null,
+            "name": "Haval H8",
+            "description": "The Haval H8 is a midsize SUV designed to offer a blend of comfort and off-road capability, suited for both urban and adventurous environments.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "4adbec38-b3c4-447e-aede-cea3232759b3",
+            "image": null,
+            "name": "Vorsteiner V-FF 102",
+            "description": "The Vorsteiner V-FF 102 is a premium lightweight forged wheel designed for high-performance vehicles, offering enhanced aesthetics and superior durability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "537dc7ad-0c14-4412-96a1-ba07e2375f1a",
+            "image": null,
+            "name": "Rotiform TWF",
+            "description": "The Rotiform TWF series features high-quality, performance-oriented wheels designed to enhance the aesthetic appeal and handling of a wide range of vehicles. Known for their unique designs and engineering excellence, these wheels are crafted for enthusiasts seeking both style and functionality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "d86f3dc7-41b9-4831-8d07-c3d614a207d4",
+            "image": null,
+            "name": "Haval M4",
+            "description": "The Haval M4 is a compact SUV that combines modern design with practical features, aimed at providing an efficient and comfortable driving experience in urban settings.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "f36f2197-fcc5-45a1-ab47-59e1866d626e",
+            "image": null,
+            "name": "Amarok",
+            "description": "The Volkswagen Amarok is a robust pickup truck designed for both work and leisure, offering a blend of performance, utility, and comfort for a variety of driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "839a67a9-0bfc-466e-bf89-da1475c88d89",
+            "image": null,
+            "name": "Echo Show (2nd Generation)",
+            "description": "The Amazon Echo Show (2nd Generation) is a smart home device featuring a touchscreen display, allowing users to interact with Alexa visually. It provides access to video content, smart home controls, and can facilitate video calls.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        }
+    ]
+}

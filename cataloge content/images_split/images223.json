@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7778ac22-8382-4c11-9205-a72f2feccb71",
+            "image": null,
+            "name": "Godrej Smart Wi-Fi Water Heater",
+            "description": "The Godrej Smart Wi-Fi Water Heater is an innovative hot water solution that offers efficient heating and smart connectivity features for enhanced user convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "9a551d42-8bc9-461d-83e6-e48d31d8bb91",
+            "image": null,
+            "name": "Godrej Activ Bloo",
+            "description": "The Godrej Activ Bloo series consists of washing machines designed to provide effective and efficient cleaning while incorporating advanced features to enhance the user experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "3ab1859c-cf5b-455e-9a30-97387c4793a5",
+            "image": null,
+            "name": "Godrej Washing Machine with Smart Pro",
+            "description": "The Godrej Washing Machine with Smart Pro is designed to provide efficient and effective washing solutions, featuring advanced technology that adapts to various fabric types for optimal cleaning performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Godrej Appliances"
+            }
+        },
+        {
+            "id": "5b016903-3e59-45d5-a8ab-631013014bcf",
+            "image": null,
+            "name": "Whirlpool IntelliFresh",
+            "description": "The Whirlpool IntelliFresh series includes advanced refrigerators designed to maintain the freshness of food for longer periods while utilizing energy-efficient technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "5326bc0e-439b-4a5d-9466-219ec397d134",
+            "image": null,
+            "name": "Whirlpool 190 L 4 Star Inverter Direct Cool Refrigerator",
+            "description": "The Whirlpool 190 L 4 Star Inverter Direct Cool Refrigerator is designed to provide efficient cooling with a focus on energy conservation, suitable for small to medium households.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "8f09f5df-eeab-4c9f-9b87-de6b388a107d",
+            "image": null,
+            "name": "Whirlpool 265 L 3 Star Inverter Frost-Free Refrigerator",
+            "description": "The Whirlpool 265 L 3 Star Inverter Frost-Free Refrigerator is designed for efficient cooling and long-lasting freshness, featuring a frost-free design and inverter technology to optimize energy consumption.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "a46eefd7-cbad-4a90-9ce0-e52b7f573591",
+            "image": null,
+            "name": "Whirlpool 9.5 kg 5 Star Fully Automatic Top Loading Washing Machine",
+            "description": "The Whirlpool 9.5 kg 5 Star Fully Automatic Top Loading Washing Machine is designed to offer efficient washing with advanced features to make laundry chores convenient and time-saving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "1e9ce964-e5ba-4aef-8a5d-e0bd3582aabd",
+            "image": null,
+            "name": "Whirlpool 7 kg 5 Star Front Loading Washing Machine",
+            "description": "The Whirlpool 7 kg 5 Star Front Loading Washing Machine is designed for efficient cleaning, offering a capacity suitable for small to medium households and featuring a high energy efficiency rating.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "396eec9b-436c-4ff0-ac1f-3e787e5497fb",
+            "image": null,
+            "name": "Whirlpool 30 L Convection Microwave",
+            "description": "The Whirlpool 30 L Convection Microwave is designed to provide versatile cooking options, including baking, grilling, and reheating, making it suitable for a variety of culinary needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "60821989-ef17-4e57-9865-df498df54c1d",
+            "image": null,
+            "name": "Whirlpool 240 L 3 Star Inverter Frost-Free Double Door Refrigerator",
+            "description": "The Whirlpool 240 L 3 Star Inverter Frost-Free Double Door Refrigerator is designed to provide efficient cooling with a spacious interior for storing food and beverages. Its inverter technology ensures optimal energy consumption while maintaining the desired temperature.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "0274a6dd-c06e-45d4-b2f4-1b3676a860a8",
+            "image": null,
+            "name": "Whirlpool 265 L 3 Star Frost-Free Double Door Refrigerator",
+            "description": "The Whirlpool 265 L 3 Star Frost-Free Double Door Refrigerator is designed to provide efficient cooling and ample storage for food and beverages, making it a practical choice for family use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "3408b233-c703-4b60-b006-53081b17a882",
+            "image": null,
+            "name": "Whirlpool 365 L 3 Star Frost-Free Double Door Refrigerator",
+            "description": "The Whirlpool 365 L 3 Star Frost-Free Double Door Refrigerator is designed to provide ample storage space with efficient cooling and frost-free functionality, making it suitable for everyday use in households.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "c26140ee-0217-4ac8-8fc6-7dee2861561e",
+            "image": null,
+            "name": "Whirlpool 1.5 Ton 5 Star Inverter Split AC",
+            "description": "The Whirlpool 1.5 Ton 5 Star Inverter Split AC is designed for efficient cooling performance and energy savings, featuring inverter technology that adjusts power consumption based on your cooling needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "5f2327e2-5c46-4b4c-99ce-882d3c762725",
+            "image": null,
+            "name": "Whirlpool 1 Ton 3 Star Window AC",
+            "description": "The Whirlpool 1 Ton 3 Star Window AC is designed to efficiently cool indoor spaces while providing energy savings. It features a 3-star energy rating, making it a practical choice for rooms requiring moderate cooling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "b3e84895-a6ce-4adf-9219-090c0a81f143",
+            "image": null,
+            "name": "Dawlance 9170WB",
+            "description": "The Dawlance 9170WB is a top-freezer refrigerator designed to offer efficient cooling and spacious storage solutions for household needs. It features a durable design and energy-efficient operation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "c2fdbbbd-1bd9-4ce7-b2ea-6ab75e095e73",
+            "image": null,
+            "name": "Dawlance 9192 WB",
+            "description": "The Dawlance 9192 WB is a refrigerator designed to provide efficient cooling and optimal storage for food and beverages. It features a stylish design and is equipped with advanced technology for better energy efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "b6539e70-fdcd-424c-b495-17c03b1ea5af",
+            "image": null,
+            "name": "Dawlance 9186 WB",
+            "description": "The Dawlance 9186 WB is a modern refrigerator designed to provide efficient cooling and ample storage for food items, featuring advanced technology for energy conservation and enhanced durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "7a2bbadf-aa93-42e6-aa00-13a004ebdb6d",
+            "image": null,
+            "name": "Dawlance DWD-800",
+            "description": "The Dawlance DWD-800 series consists of washing machines designed for efficient laundry care, offering various wash programs and energy-saving features to accommodate diverse user needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "aabb3ace-40fe-4a3f-bb7b-45d52c0bdf99",
+            "image": null,
+            "name": "Dawlance Water Heaters",
+            "description": "Dawlance Water Heaters are designed to provide efficient heating solutions for residential and commercial use, ensuring a reliable supply of hot water.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "20f686fd-667b-4d19-aa40-312ea92e9532",
+            "image": null,
+            "name": "Dawlance Washing Machines",
+            "description": "Dawlance Washing Machines are designed to provide efficient and reliable laundry solutions, combining advanced technology with user-friendly features for effective cleaning performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "8dbc0a27-b9e9-45cf-80ea-5b8585549dc1",
+            "image": null,
+            "name": "Dawlance 9184 WB",
+            "description": "The Dawlance 9184 WB is a refrigerator designed to provide efficient cooling and ample storage space for food and beverages, featuring advanced technology to optimize energy consumption.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "02375cc1-0cd3-46d5-85c3-1fd6bdc641dd",
+            "image": null,
+            "name": "Dawlance 9195 WB",
+            "description": "The Dawlance 9195 WB is a top freezer refrigerator designed to provide efficient cooling and storage solutions for households, featuring modern technology for optimal performance and energy efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "a0cdcb95-ea25-494e-bf73-e11114943bc1",
+            "image": null,
+            "name": "Dawlance 6160",
+            "description": "The Dawlance 6160 is a high-efficiency washing machine designed to provide effective cleaning and sustainable water usage.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "7b362381-57bf-4495-a34a-049bfbf23c84",
+            "image": null,
+            "name": "Dawlance 9177 WB",
+            "description": "The Dawlance 9177 WB is a modern refrigerator designed to provide efficient cooling and ample storage space for various food items, ensuring freshness and convenience for households.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "5206d6d0-3c2e-4d2d-9285-d2e1932f2e53",
+            "image": null,
+            "name": "Dawlance 6261 L",
+            "description": "The Dawlance 6261 L is a washing machine designed for efficient and convenient laundry care. It features user-friendly controls and a durable build, making it suitable for various household needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "ef87ddf7-2a1f-484e-8fee-96e16c5dc8fd",
+            "image": null,
+            "name": "Neff N 50",
+            "description": "The Neff N 50 series includes a range of refrigerators designed to combine efficient cooling with user-friendly features for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Neff"
+            }
+        },
+        {
+            "id": "2f4f8f45-3741-4435-8dcf-621eea6219fb",
+            "image": null,
+            "name": "Neff N 70",
+            "description": "The Neff N 70 series comprises a range of sophisticated refrigerators designed to offer optimal food preservation with advanced cooling technology and a focus on user convenience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Neff"
+            }
+        },
+        {
+            "id": "201f4f5c-f07b-49df-9362-7e08779fce8b",
+            "image": null,
+            "name": "Neff N 90",
+            "description": "The Neff N 90 series includes high-quality refrigerators that combine advanced technology with elegant design, aimed at providing optimal food preservation and user-friendly features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Neff"
+            }
+        },
+        {
+            "id": "8448edb8-a082-454e-894b-d7277083564e",
+            "image": null,
+            "name": "Solis Dual Coffee Grinder",
+            "description": "The Solis Dual Coffee Grinder is designed to provide consistent and precise grinding for coffee enthusiasts, allowing users to achieve their desired grind size for various brewing methods.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Solis"
+            }
+        },
+        {
+            "id": "10efc5ff-912b-4a35-8130-95c15cffaed7",
+            "image": null,
+            "name": "Solis Compact Coffee Machine",
+            "description": "The Solis Compact Coffee Machine is designed for brewing high-quality coffee in a space-saving design, making it ideal for small kitchens and offices.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Solis"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "36d4160d-b97f-49a9-a6a3-da18e65b1b62",
+            "image": null,
+            "name": "Samsung Bespoke Refrigerators",
+            "description": "The Samsung Bespoke Refrigerators are customizable kitchen appliances designed to seamlessly blend into any home decor while offering advanced cooling technology for optimal food preservation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "9d0c979a-12dc-4395-b853-d212ba9a3cd0",
+            "image": null,
+            "name": "Intel Pentium Gold",
+            "description": "The Intel Pentium Gold series offers dual-core and quad-core processors designed for everyday computing tasks, delivering reliable performance at an affordable price point.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "dcaaf467-e148-41b4-9358-35ad866ce1a9",
+            "image": null,
+            "name": "Caterpillar 320D L Hydraulic Excavator",
+            "description": "The Caterpillar 320D L Hydraulic Excavator is a versatile and powerful machine designed for various earthmoving applications, offering enhanced fuel efficiency and superior performance in tough working conditions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Caterpillar"
+            }
+        },
+        {
+            "id": "6f90c4fd-2876-4e44-a7ed-002568f2c538",
+            "image": null,
+            "name": "Intel Celeron",
+            "description": "The Intel Celeron series is a line of budget-friendly processors designed for basic computing tasks, offering efficient performance for everyday applications and light workloads.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "95627501-a8d4-4230-8597-e63c2d95fc9b",
+            "image": null,
+            "name": "Caterpillar 329D L Hydraulic Excavator",
+            "description": "The Caterpillar 329D L Hydraulic Excavator is a robust earthmoving equipment designed for a variety of construction and excavation tasks. Known for its efficient hydraulic system and durability, it is ideal for heavy-duty applications.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Caterpillar"
+            }
+        },
+        {
+            "id": "0f3cd216-2ef5-456b-b579-15ba7b453816",
+            "image": null,
+            "name": "Caterpillar 345D L Hydraulic Excavator",
+            "description": "The Caterpillar 345D L Hydraulic Excavator is a heavy-duty construction machine designed for earthmoving, demolition, and site preparation tasks. It features advanced hydraulics for improved digging and lifting capabilities, making it suitable for challenging terrain and large projects.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Caterpillar"
+            }
+        },
+        {
+            "id": "635882dd-070e-4230-9ebb-87e7d5658f2d",
+            "image": null,
+            "name": "Intel Core i9-9900K",
+            "description": "The Intel Core i9-9900K is a high-performance 8-core processor designed for enthusiasts and gamers, offering advanced multitasking capabilities and support for demanding applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "ac6fd7cd-0577-4e29-b419-bb9116d8a955",
+            "image": null,
+            "name": "Fitzroy",
+            "description": "The Lowe Alpine Fitzroy series is designed for outdoor enthusiasts, offering durable and functional camping gear tailored for various outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "32c9fa33-f545-43a2-92a7-df61d5fdb77d",
+            "image": null,
+            "name": "Intel Core i5-9600K",
+            "description": "The Intel Core i5-9600K is a 9th generation, unlocked CPU designed for desktop PCs, offering a balanced performance for gaming and productivity tasks, with six cores and a base clock speed of 3.7 GHz.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "75f36eb6-2e9a-465a-9c82-edacdce98081",
+            "image": null,
+            "name": "Intel Xeon Scalable Processors (second generation)",
+            "description": "The Intel Xeon Scalable Processors (second generation) are designed for data centers and cloud computing, offering enhanced performance, scalability, and security features for enterprise applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "6d507d1e-c7a7-4dc3-b2a1-577c94717d42",
+            "image": null,
+            "name": "Pulse",
+            "description": "The Lowe Alpine Pulse series consists of versatile camping gear designed for outdoor enthusiasts, offering functionality and durability for various activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "b9ff70ee-40e5-4f0c-b0b6-d876f36c7c91",
+            "image": null,
+            "name": "TS-A Series",
+            "description": "The Pioneer TS-A Series comprises a range of car audio speakers designed to provide high-quality sound performance. Known for their durability and acoustic fidelity, these speakers enhance the listening experience for automotive enthusiasts.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "1c48f850-a15c-47e1-937e-f5913b4f5613",
+            "image": null,
+            "name": "Road Glide ST",
+            "description": "The Harley-Davidson Road Glide ST is a premium touring motorcycle designed for long-distance comfort and performance, featuring a sleek design and advanced technology for an enhanced riding experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "51eb9f54-f3e9-43e2-9a8b-63e33cd83080",
+            "image": null,
+            "name": "10th Gen Intel Core Processors",
+            "description": "The 10th Gen Intel Core Processors are a series of CPUs designed for desktops and laptops, offering enhanced performance, improved efficiency, and advanced features like Intel Turbo Boost Technology and integrated graphics capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "251fcba4-1f34-4455-a6c0-7b1d34e4a99f",
+            "image": null,
+            "name": "Intel Optane Memory H10 with Solid State Storage",
+            "description": "The Intel Optane Memory H10 with Solid State Storage combines Intel Optane memory technology with a high-capacity 3D NAND SSD to deliver fast storage performance and responsiveness for laptops and desktops.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "a9e84ae4-9d11-48cd-aa4c-c3a4d460c977",
+            "image": null,
+            "name": "Clarion FZ502",
+            "description": "The Clarion FZ502 is a car audio receiver designed for high-quality sound playback and user-friendly operation, featuring Bluetooth connectivity for hands-free calling and music streaming.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "44e977fa-30e4-4750-8daf-55791ac46bc5",
+            "image": null,
+            "name": "Intel XeSS",
+            "description": "Intel XeSS is an advanced image upscaling technology designed to enhance gaming visuals by improving performance and image quality in compatible games.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "5fcf2731-e247-48e0-b874-aacc23ba6406",
+            "image": null,
+            "name": "Continental WinterContact TS 850 P",
+            "description": "The Continental WinterContact TS 850 P is a performance winter tire designed for superior handling and safety in winter conditions, featuring advanced tread patterns that enhance grip on snow and ice.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "0f395d67-94b5-437e-87b7-1f55e6d561de",
+            "image": null,
+            "name": "Intel Core 13th Gen",
+            "description": "The Intel Core 13th Gen series represents Intel's latest generation of processors designed for performance and efficiency in personal computing, offering advanced architecture and enhanced multi-threading capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "9d723c69-c1d3-4c3a-beb3-6783d5f773da",
+            "image": null,
+            "name": "Shinko 011 Verge",
+            "description": "The Shinko 011 Verge is a performance tire designed for sport and track use, offering excellent grip and handling for motorcycle enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "d7f44d6f-f040-435a-b197-ba0b02a80d85",
+            "image": null,
+            "name": "Sony Xperia 10 IV",
+            "description": "The Sony Xperia 10 IV is a mid-range smartphone released in 2022, designed for balanced performance with a focus on multimedia capabilities and a sleek, lightweight design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "7cdccad8-76fa-4f94-b833-9f0ffad808e4",
+            "image": null,
+            "name": "ContiEcoContact 3",
+            "description": "The Continental ContiEcoContact 3 is a tire designed for enhanced fuel efficiency and reduced rolling resistance, making it suitable for environmentally conscious drivers seeking performance and comfort.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "bff7c5c6-71a8-4cf3-bd3a-9bc36600ba6d",
+            "image": null,
+            "name": "Intel Core 10th Gen",
+            "description": "The Intel Core 10th Gen series comprises a range of processors designed for enhanced performance and efficiency in both gaming and productivity tasks, utilizing the 10nm manufacturing process.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "34ce968d-7f18-4ed6-b307-caba395be774",
+            "image": null,
+            "name": "Intel Core 11th Gen",
+            "description": "The Intel Core 11th Gen series includes processors designed for high-performance computing, offering improved performance, integrated graphics, and enhanced power efficiency, suitable for a wide range of applications from gaming to content creation.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "41a35cd1-2b03-4180-95c9-c061a0010a58",
+            "image": null,
+            "name": "Intel Atom x6000E Series",
+            "description": "The Intel Atom x6000E Series is a lineup of energy-efficient system-on-chip (SoC) processors designed for embedded applications, delivering performance and low power consumption for a variety of use cases including IoT devices and edge computing.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "37c28bbd-2f53-42f4-8dc0-e51b822f90d9",
+            "image": null,
+            "name": "ContiSportContact 6",
+            "description": "The Continental ContiSportContact 6 is a high-performance tire designed to provide excellent grip, precise handling, and enhanced driving stability, making it suitable for sports vehicles and high-speed driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "20bb7205-3b8b-4a14-8582-69cbac7463b7",
+            "image": null,
+            "name": "ContiCrossContact 4x4",
+            "description": "The Continental ContiCrossContact 4x4 series is designed for off-road and on-road use, providing enhanced traction and stability for SUVs and 4x4 vehicles. Its robust construction and tread patterns facilitate excellent performance in various driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "7147a4c7-f2a3-494c-87fd-2f3bf4510764",
+            "image": null,
+            "name": "SportContact 6",
+            "description": "The Continental SportContact 6 is a high-performance tire designed for sports cars and high-powered vehicles, offering exceptional grip, handling, and stability in both dry and wet conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "9d7c7e86-9b07-4e3d-b2e9-8146be53bc9a",
+            "image": null,
+            "name": "Oscar Schmidt Guitars",
+            "description": "The Oscar Schmidt Guitars series consists of a variety of stringed instruments designed for musicians of all skill levels, offering quality craftsmanship and sound clarity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "1a44d7fb-bb0f-410c-90ce-b169c3edc1c8",
+            "image": null,
+            "name": "Intel Xeon Scalable Processors (Sapphire Rapids)",
+            "description": "The Intel Xeon Scalable Processors (Sapphire Rapids) are designed for high-performance computing and data center applications, offering enhanced performance, security features, and scalability for enterprise workloads.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        }
+    ]
+}

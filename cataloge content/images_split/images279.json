@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "1bd6b113-c0ef-4db4-9b45-9d8e078d3d6e",
+            "image": null,
+            "name": "Hamilton Beach Air Fryers",
+            "description": "The Hamilton Beach Air Fryers are kitchen appliances designed to fry food using hot air circulation, providing a healthier alternative to traditional frying methods while maintaining crispy textures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "b633358a-6894-4a17-9e1a-2d652a0d4b61",
+            "image": null,
+            "name": "BabyBjörn Move",
+            "description": "The BabyBjörn Move is a versatile baby seat designed to provide a safe and comfortable place for babies to relax, play, and rest. It features adjustable positions and a lightweight design for easy portability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "3011736e-5d5f-4de8-9537-58df3233ca98",
+            "image": null,
+            "name": "Roccat Burst Core",
+            "description": "The Roccat Burst Core is a gaming mouse designed for precision and speed, featuring an ergonomic shape and advanced optical sensor technology for enhanced gaming performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "d05893c8-8a78-4506-b460-ff0a88d3fcc9",
+            "image": null,
+            "name": "Hamilton Beach Blenders",
+            "description": "The Hamilton Beach Blenders are designed for versatile blending tasks, providing efficient performance for smoothies, purees, and more, with a focus on ease of use and convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "ff0b5c2d-4322-460a-b834-5d5eabc8195f",
+            "image": null,
+            "name": "Bakugan: Armored Alliance",
+            "description": "Bakugan: Armored Alliance is a series of collectible battle toys that combines strategy and skill, featuring unique Bakugan characters that can transform from balls into powerful creatures for competitive play.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "bcc727bb-49a6-40bf-8cd3-8d3ff536e6b1",
+            "image": null,
+            "name": "Kipling Spring/Summer 2023 Collection",
+            "description": "The Kipling Spring/Summer 2023 Collection features a range of stylish and functional bags designed to complement the vibrant and active lifestyle of modern consumers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kipling"
+            }
+        },
+        {
+            "id": "e4201027-2115-4269-9c94-cc8623f07518",
+            "image": null,
+            "name": "Hamilton Beach Coffee Machines",
+            "description": "The Hamilton Beach Coffee Machines are designed to brew a variety of coffee styles efficiently, catering to the needs of coffee enthusiasts seeking convenience and quality in their morning routine.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "42925bf9-9cc6-436c-bac1-40c2781612f8",
+            "image": null,
+            "name": "CYBEX ZENO",
+            "description": "The CYBEX ZENO is a versatile stroller designed for active families, allowing seamless transitions from strolling to jogging and cycling, thanks to its modular design and innovative features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Cybex Germany"
+            }
+        },
+        {
+            "id": "51c32828-5b19-4940-9a80-58055305d253",
+            "image": null,
+            "name": "TeraFlex Track Bars",
+            "description": "The TeraFlex Track Bars are designed to enhance vehicle stability and alignment for SUVs, ensuring optimal handling and performance on and off-road.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "8aa008e5-e53c-4815-835d-34bc9973b16c",
+            "image": null,
+            "name": "Tesla Model S (facelift)",
+            "description": "The Tesla Model S (facelift) is a fully electric luxury sedan designed for high performance and long-range driving, featuring an updated design and advanced technology.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a074159e-1fa1-4d51-a04a-928e6c75f000",
+            "image": null,
+            "name": "Benelli Tornado 302",
+            "description": "The Benelli Tornado 302 is a sport motorcycle designed for performance and agility, featuring a lightweight frame and a powerful engine, suitable for both urban commuting and spirited rides on twisty roads.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "35ec85f1-5036-4ac3-a252-d0fb41f836c1",
+            "image": null,
+            "name": "FolkArt Chalk Paint",
+            "description": "FolkArt Chalk Paint is a versatile, water-based acrylic paint designed for a variety of surfaces, allowing for easy application and a matte finish perfect for home décor and crafting projects.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "e2ada405-47c6-421f-b3b5-5d47503ced9c",
+            "image": null,
+            "name": "Benelli BN 302",
+            "description": "The Benelli BN 302 is a lightweight and agile motorcycle designed for urban commuting and beginner riders, featuring a parallel-twin engine and a sporty design.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "745a3514-da9d-4353-ac64-8d1fb6ea0cdf",
+            "image": null,
+            "name": "Roccat Vulcan 122 AIMO",
+            "description": "The Roccat Vulcan 122 AIMO is a gaming keyboard designed for performance and precision, featuring customizable RGB lighting and durable mechanical switches for an enhanced gaming experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "33938e4f-e5dd-4fc5-a9a1-97425ed9c49c",
+            "image": null,
+            "name": "CYBEX ATON 2",
+            "description": "The CYBEX ATON 2 is a lightweight infant car seat designed for safety and comfort, featuring a removable newborn inlay and a superior side-impact protection system.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Cybex Germany"
+            }
+        },
+        {
+            "id": "669e3e8a-f0b6-46b9-aae3-bdfa78150c51",
+            "image": null,
+            "name": "Hamilton Beach Air Fryer Oven",
+            "description": "The Hamilton Beach Air Fryer Oven is designed to provide a crispy, fried texture to meals without the need for excessive oil, making it a healthier alternative for cooking favorites like fries, chicken wings, and baked goods.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "174a7440-05db-4121-8710-87e27bcca7e6",
+            "image": null,
+            "name": "Valvoline Durablend",
+            "description": "Valvoline Durablend is a line of motor oils designed to provide enhanced engine protection and performance, featuring a blend of conventional and synthetic oils for improved viscosity and durability.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "dbe41893-c63e-4015-8352-aaca72795a61",
+            "image": null,
+            "name": "Green Toys Tea Set",
+            "description": "The Green Toys Tea Set is an eco-friendly toy designed for imaginative play, made from 100% recycled plastic and safe for children. This set encourages social interaction and role-playing skills through tea party scenarios.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "da6a72d1-5a5e-4e77-bafd-de73d9b71c9f",
+            "image": null,
+            "name": "Hamilton Beach Professional 1800W Blender",
+            "description": "The Hamilton Beach Professional 1800W Blender is designed for high-performance blending, offering powerful motor capabilities for smoothies, soups, and more.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "9c32b4bb-011c-475a-b770-03376318e98f",
+            "image": null,
+            "name": "Valvoline Full Synthetic Motor Oil",
+            "description": "Valvoline Full Synthetic Motor Oil provides superior engine protection and performance, formulated to enhance fuel efficiency and extend engine life.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "06138dfd-c718-4ed6-880b-f3b47fe5b52a",
+            "image": null,
+            "name": "Lacoste Live",
+            "description": "Lacoste Live is a men’s clothing line created by Lacoste, known for its bold designs and contemporary style, aimed at a younger audience seeking casual yet fashionable apparel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Lacoste"
+            }
+        },
+        {
+            "id": "e68631f9-056a-4e23-ae41-f5ff220431ae",
+            "image": null,
+            "name": "Olympus OM-D E-M1 Mark III",
+            "description": "The Olympus OM-D E-M1 Mark III is a versatile mirrorless camera designed for advanced photography enthusiasts and professionals, featuring enhanced image stabilization and high-speed performance suitable for various shooting conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "b27cedd9-49bc-4855-b18a-318dd259ac46",
+            "image": null,
+            "name": "Olympus PEN E-PL9",
+            "description": "The Olympus PEN E-PL9 is a compact mirrorless camera designed for easy handling and high-quality photo and video capture, making it ideal for both enthusiasts and casual users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "feadf7fd-a0bf-40cc-a265-28cdfabad937",
+            "image": null,
+            "name": "Roccat Kone XP",
+            "description": "The Roccat Kone XP is a high-performance gaming mouse designed for gamers who demand precision and customization in their gameplay experience. It features an ergonomic shape, customizable RGB lighting, and multiple programmable buttons.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "928fc86f-023d-445a-b39b-b664a94b85b1",
+            "image": null,
+            "name": "Green Toys Ferry Boat with Mini Cars",
+            "description": "The Green Toys Ferry Boat with Mini Cars is an eco-friendly toy set designed to encourage imaginative play and promote early motor skills in children. Made from recycled materials, it features a colorful ferry boat and two mini cars for endless fun in the water or on land.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "f6065590-b31f-42ce-b114-11634828f51c",
+            "image": null,
+            "name": "Benelli Leoncino 800",
+            "description": "The Benelli Leoncino 800 is a versatile motorcycle designed for urban commuting and weekend rides, featuring a blend of modern technology and classic styling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "6fc97ea0-27ed-4b80-89ca-0c64ae0e7daf",
+            "image": null,
+            "name": "GuliKit Kingkong 2",
+            "description": "The GuliKit Kingkong 2 series consists of wireless game controllers designed for ergonomic comfort and compatibility with various devices, enhancing the gaming experience for users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "84ea80db-de21-4127-a31a-a631d86f88d4",
+            "image": null,
+            "name": "ML-Class",
+            "description": "The Mercedes-Benz ML-Class is a luxury SUV that combines off-road capability with on-road comfort, making it suitable for a range of driving conditions. Introduced in 2001, it is known for its spacious interior, advanced safety features, and a strong emphasis on performance.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "224083e5-c92b-4280-8c88-fb2e386a6bd3",
+            "image": null,
+            "name": "Big Agnes Q-Core SL",
+            "description": "The Big Agnes Q-Core SL is an ultra-lightweight sleeping pad designed for backpackers seeking comfort and insulation during their outdoor adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "7a88b5cf-cb23-42b4-9578-6c33ca6661d2",
+            "image": null,
+            "name": "X1 Ipotesi",
+            "description": "The FrancisFrancis! X1 Ipotesi is a high-quality espresso machine designed for both home and professional use, featuring an elegant design and innovative technology to deliver exceptional coffee brewing.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "FrancisFrancis!"
+            }
+        }
+    ]
+}

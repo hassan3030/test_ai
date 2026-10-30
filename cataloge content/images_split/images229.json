@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "20e30e04-ed87-4acd-a26d-7c11fffa3a6b",
+            "image": null,
+            "name": "Vive Flow",
+            "description": "The Vive Flow is a compact virtual reality headset designed for immersive experiences, including entertainment and relaxation, providing users with high-quality visuals and sound in a portable format.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive"
+            }
+        },
+        {
+            "id": "69d2af4e-b946-4849-b87f-4dc1c87d8f11",
+            "image": null,
+            "name": "Vive Pro 2",
+            "description": "The Vive Pro 2 is a high-end virtual reality headset designed for immersive gaming and professional applications. It features high-resolution displays and a wide field of view, enabling an expansive virtual experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive"
+            }
+        },
+        {
+            "id": "9ecd016a-1cef-4f26-a0e3-d6336d15c682",
+            "image": null,
+            "name": "Destiny 2",
+            "description": "Destiny 2 is an online multiplayer first-person shooter game developed by Bungie, known for its immersive storytelling, expansive universe, and cooperative gameplay elements.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Bungie"
+            }
+        },
+        {
+            "id": "c34f286c-9492-488b-bf93-ebf426b4fb13",
+            "image": null,
+            "name": "Avegant Glyph",
+            "description": "The Avegant Glyph is a personal entertainment device that combines virtual reality and augmented reality features, designed to deliver a unique immersive viewing experience through its innovative display technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Avegant"
+            }
+        },
+        {
+            "id": "75a7331c-08e7-490e-b2a8-3347b1edbd9f",
+            "image": null,
+            "name": "Vive Pro",
+            "description": "The Vive Pro is a high-performance virtual reality headset designed for immersive experiences in gaming, training, and simulations, offering enhanced resolution and audio capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive Pro"
+            }
+        },
+        {
+            "id": "90e3c621-a794-41c2-a765-1e55c16e23e7",
+            "image": null,
+            "name": "Vive Pro Eye",
+            "description": "The Vive Pro Eye is a high-end virtual reality headset that features built-in eye tracking for enhanced interaction and immersion, aimed at both consumers and enterprise users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive Pro"
+            }
+        },
+        {
+            "id": "e2a32db8-10ad-4db7-b507-37c419ada64a",
+            "image": null,
+            "name": "Vive Pro 2",
+            "description": "The Vive Pro 2 is a high-end virtual reality headset designed for immersive gaming and professional applications, featuring enhanced resolution and audio capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive Pro"
+            }
+        },
+        {
+            "id": "574037b5-84b6-428a-be5a-23264de2cb06",
+            "image": null,
+            "name": "SmartBoy",
+            "description": "The Hyperkin SmartBoy is a handheld gaming accessory that allows users to play Game Boy titles on their smartphones, providing a nostalgic gaming experience with modern technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "308e6759-9bff-4aa3-9a98-9415a2691338",
+            "image": null,
+            "name": "Retron HD",
+            "description": "The Hyperkin Retron HD is a gaming console designed to play classic Nintendo Entertainment System (NES) cartridges in high definition. It features HDMI output and supports original NES controllers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "350cd0b0-dcd6-40ee-b69b-aae0f5ea0ac7",
+            "image": null,
+            "name": "Digi-Drive",
+            "description": "The Hyperkin Digi-Drive is a series of gaming accessories designed to enhance the experience of digital gaming, featuring reliable storage solutions and compatibility with various platforms.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "4caa1e5c-e901-4ce3-99db-6d836c655f75",
+            "image": null,
+            "name": "Hyperkin HD Cable Series",
+            "description": "The Hyperkin HD Cable Series includes high-definition cables designed to enhance the gaming experience by providing superior audio and video quality for a range of consoles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "56f94c95-02eb-4d06-8877-2627b2cf930e",
+            "image": null,
+            "name": "Hyperkin Retron 5",
+            "description": "The Hyperkin Retron 5 is a multi-console video game emulator that enables users to play classic games from various systems. Designed to support cartridges from NES, SNES, Genesis, and other platforms, it brings nostalgia to a modern display.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "b2ab7b89-5197-4efb-995f-3bdc13c75a73",
+            "image": null,
+            "name": "Hyperkin Duke Wired Controller",
+            "description": "The Hyperkin Duke Wired Controller is a retro-inspired game controller designed for Xbox that features a classic design and modern functionality, catering to both nostalgia and performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Hyperkin"
+            }
+        },
+        {
+            "id": "08433d2f-9f3e-4b24-a108-5be91f18f0e9",
+            "image": null,
+            "name": "Redgear Cloak Wired RGB Gaming Mouse",
+            "description": "The Redgear Cloak Wired RGB Gaming Mouse is designed for gamers seeking precision and customization. It features programmable RGB lighting and a comfortable grip, enhancing the gaming experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Redgear"
+            }
+        },
+        {
+            "id": "114863e0-0975-4eb9-9839-c7350d4b1951",
+            "image": null,
+            "name": "Redgear Raptor Wired RGB Gaming Keyboard",
+            "description": "The Redgear Raptor Wired RGB Gaming Keyboard is designed for gamers seeking an enhanced typing and gaming experience, featuring customizable RGB lighting and a robust build for durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Redgear"
+            }
+        },
+        {
+            "id": "7927ce9b-3d0a-47d4-a528-9dfc51807c8d",
+            "image": null,
+            "name": "Redgear Z1 Gaming Chair",
+            "description": "The Redgear Z1 Gaming Chair is designed for gamers seeking comfort and durability, featuring ergonomic support and adjustable settings for extended gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Redgear"
+            }
+        },
+        {
+            "id": "ead68465-ba57-464c-a7f6-7476a8203f07",
+            "image": null,
+            "name": "Ant Esports H707 HD RGB Gaming Chair",
+            "description": "The Ant Esports H707 HD RGB Gaming Chair is designed for gamers seeking comfort and style, featuring RGB lighting for a customized gaming experience and ergonomic support for extended use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Ant Esports"
+            }
+        },
+        {
+            "id": "35b9392b-184d-4b33-b0f2-33db196b7478",
+            "image": null,
+            "name": "Ant Esports H707 HD Gaming Chair",
+            "description": "The Ant Esports H707 HD Gaming Chair is designed for gamers seeking comfort and support during extended play sessions, featuring ergonomic design and adjustable components.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Ant Esports"
+            }
+        },
+        {
+            "id": "bb3cd514-c1b3-44bd-8cfa-3e846fea60a8",
+            "image": null,
+            "name": "Omen X",
+            "description": "The Omen X series by HP is designed for high-performance gaming, featuring customizable features and advanced cooling solutions suitable for passionate gamers looking for powerful gaming PCs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "ffce037b-49be-441d-b029-20928d67abcc",
+            "image": null,
+            "name": "Omen by HP",
+            "description": "Omen by HP is a series of gaming PCs designed to deliver high-performance gaming experiences with cutting-edge technology and customizable options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "9ffe0f67-b7b6-48c9-b267-adcd14ba4ddf",
+            "image": null,
+            "name": "Omen 15",
+            "description": "The Omen 15 by HP is a gaming laptop series designed for high performance and immersive gaming experiences. It features powerful hardware specifications and a robust cooling system to handle demanding games.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "8b17685b-a6cb-475b-8a3c-0bafcd7307e0",
+            "image": null,
+            "name": "Omen 17",
+            "description": "The Omen 17 by HP is a high-performance gaming laptop designed for immersive gaming experiences, featuring powerful hardware and an aggressive design for gamers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "97eee2ce-ff62-4dee-90a3-6ad7630256b1",
+            "image": null,
+            "name": "Omen X Laptop",
+            "description": "The Omen X Laptop series by HP is designed for gaming enthusiasts, featuring high-performance components and a customizable design for an immersive gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "7f3e54ca-7b78-4489-9906-47525a9ac1d5",
+            "image": null,
+            "name": "Omen by HP Gaming Monitor",
+            "description": "The Omen by HP Gaming Monitor series is designed for gamers seeking high-performance displays with fast refresh rates and immersive visuals, ensuring an enhanced gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "49ec6ff1-9fc7-4f31-b569-c5e316511d05",
+            "image": null,
+            "name": "Omen 15 (2019)",
+            "description": "The Omen 15 (2019) by HP is a gaming laptop designed for performance and portability, equipped with powerful graphics and processing capabilities to enhance the gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "fab1c5d6-12d7-421b-ad47-cf3efad2784d",
+            "image": null,
+            "name": "Omen 17 (2019)",
+            "description": "The Omen 17 (2019) by HP is a powerful gaming laptop designed for high-performance gaming and immersive multimedia experiences, featuring advanced graphics and processing capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "f8a3b74b-ea84-4e2d-b880-b7afffdf84b7",
+            "image": null,
+            "name": "Omen 25i",
+            "description": "The Omen 25i is a high-performance gaming monitor designed to enhance the gaming experience with its fast refresh rates and stunning visuals, providing gamers with an edge during gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "94a84262-3e94-4415-ae98-e3d0876facd7",
+            "image": null,
+            "name": "ROG Strix",
+            "description": "The Asus Republic of Gamers (ROG) Strix series encompasses high-performance gaming PCs designed for gamers seeking powerful hardware and immersive experiences. These systems are equipped with advanced cooling solutions and customizable RGB lighting to enhance gameplay.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "338a7c15-2ab0-42c1-9042-2dd8c60a3c6f",
+            "image": null,
+            "name": "ROG Zephyrus",
+            "description": "The ROG Zephyrus series by Asus Republic of Gamers is a line of high-performance gaming laptops designed for gamers seeking powerful hardware within a sleek, portable chassis.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "75155c5d-fa2f-4299-bc59-b3e632bbbbe2",
+            "image": null,
+            "name": "ROG Maximus IX",
+            "description": "The Asus Republic of Gamers ROG Maximus IX series is designed for high-performance gaming, offering advanced features and customizability to enhance the gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        }
+    ]
+}

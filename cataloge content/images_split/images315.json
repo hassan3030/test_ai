@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "8ae2d45d-e4fb-4e7f-887d-dfee6e54e305",
+            "image": null,
+            "name": "Subaru STI S209",
+            "description": "The Subaru STI S209 is a high-performance sports sedan that is characterized by its powerful turbocharged engine, all-wheel drive system, and track-focused enhancements, making it suitable for both daily driving and competitive racing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4316e6c6-8777-4b83-9d05-049db1ce3810",
+            "image": null,
+            "name": "Vivo V20",
+            "description": "The Vivo V20 series is a smartphone line launched in 2020, known for its sleek design, high-quality camera capabilities, and user-friendly interface aimed at photography enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "ffb29d84-1fcb-4261-af97-b5712bab7ce7",
+            "image": null,
+            "name": "Lava Iris 504Q",
+            "description": "The Lava Iris 504Q is a smartphone released in 2013, designed to offer a balance of performance and affordability, featuring a touch screen and a range of multimedia capabilities.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "6c2e2201-3d8e-463e-9f92-24903a27fc04",
+            "image": null,
+            "name": "Once Upon a Time",
+            "description": "Once Upon a Time is a personalized children's book series by Wonderbly that allows young readers to see themselves as the protagonist in unique fairy tale adventures, promoting literacy and engagement through storytelling.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "71b806d0-8379-4bd5-b49d-e737d9fb690d",
+            "image": null,
+            "name": "Whirlpool 360° Bloomwash",
+            "description": "The Whirlpool 360° Bloomwash series includes top-loading washing machines designed to provide efficient washing and versatility in various washing modes, catering to different fabric types and washing needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "6d2fca0f-9894-4863-9738-c0f1dec1809b",
+            "image": null,
+            "name": "Kettal Boma",
+            "description": "The Kettal Boma series features outdoor furniture designed to provide comfort and style for outdoor living spaces. Known for its durable materials and modern design, it emphasizes functionality while enhancing the aesthetics of any environment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "89cefeed-47d6-44aa-a50e-b659a62b9b6e",
+            "image": null,
+            "name": "Canson Mi-Teintes",
+            "description": "Canson Mi-Teintes is a range of high-quality textured papers specifically designed for pastel work, drawing, and various art techniques. Known for its excellent color retention and durability, this series is ideal for artists seeking versatility in their creative expression.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "9f72d561-3f44-4fb3-bc51-7dbc0b9bd44c",
+            "image": null,
+            "name": "Mont Marte Art Spectrum Acrylic Paints",
+            "description": "Mont Marte Art Spectrum Acrylic Paints are high-quality, versatile paints ideal for artists of all levels, providing excellent coverage and vibrant color fidelity for a range of artistic applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "8a6c3ac7-b5cb-4a87-bf39-620f43e0f014",
+            "image": null,
+            "name": "Tama Rhythm Mate",
+            "description": "The Tama Rhythm Mate series is a collection of reliable and versatile drum kits designed for both beginners and experienced drummers. Known for their sturdy construction and quality sound, they cater to a variety of musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "80c0fb3d-7021-448c-b370-7b6caa043828",
+            "image": null,
+            "name": "Moto E 2022",
+            "description": "The Motorola Moto E 2022 is an entry-level smartphone designed to provide essential features at an affordable price, making it suitable for everyday users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "41135665-e4c6-45e9-8b38-7fc1e6c6560f",
+            "image": null,
+            "name": "Lava Z61",
+            "description": "The Lava Z61 is an entry-level smartphone designed for practical users, offering essential smartphone features at an affordable price, making it suitable for everyday tasks and connectivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "827b5c4f-3273-4fbc-85c1-d7cf0cfa4d9d",
+            "image": null,
+            "name": "Volvo S60 Polestar",
+            "description": "The Volvo S60 Polestar is a performance-oriented version of the S60 sedan, designed to deliver enhanced driving dynamics and sporty styling while maintaining Volvo's commitment to safety and comfort.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5dbe49fc-3131-4480-acab-3832974e1fc9",
+            "image": null,
+            "name": "Faber-Castell Connector Pens",
+            "description": "Faber-Castell Connector Pens are versatile art supplies designed for drawing, coloring, and creative projects, featuring a unique connector system that allows for easy attachment and storage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Faber-Castell"
+            }
+        },
+        {
+            "id": "ece4d2f8-9d9f-4fe5-a1bd-e7324ff7f99b",
+            "image": null,
+            "name": "Mont Marte Art Range",
+            "description": "The Mont Marte Art Range offers a comprehensive selection of high-quality art supplies designed for artists of all skill levels. This range aims to inspire creativity and provide the essential tools needed for various artistic endeavors.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "055a5ad6-30c5-4cf8-a745-2cf0442981e8",
+            "image": null,
+            "name": "Realme 11 Series",
+            "description": "The Realme 11 Series consists of a range of smartphones released in 2023, designed to offer advanced features, stylish designs, and enhanced performance for a variety of user needs.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "079036ad-1e48-48f9-a55d-5d756c071c28",
+            "image": null,
+            "name": "Playmobil Knight's Kingdom",
+            "description": "Playmobil Knight's Kingdom is a toy series that allows children to engage in imaginative play with knights, castles, and medieval adventures. It encourages creativity and storytelling through detailed figures and settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "940ba67b-3652-4af2-82f1-3fa11e119a46",
+            "image": null,
+            "name": "Nokia C2 2nd Edition",
+            "description": "The Nokia C2 2nd Edition is an entry-level smartphone designed for essential communication and usability, featuring a straightforward interface and reliable performance for everyday tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "a9133cae-631c-49a5-830a-16c1e318e46e",
+            "image": null,
+            "name": "Nokia C21",
+            "description": "The Nokia C21 is a budget-friendly smartphone designed for everyday use, offering essential features such as a sturdy build, a reliable battery life, and an intuitive user experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "42349c3f-a90c-417a-8082-6a0370d3cb86",
+            "image": null,
+            "name": "Sear Box",
+            "description": "The Camp Chef Sear Box is a portable accessory designed to enhance outdoor cooking experiences by providing high-temperature searing capabilities for meats, ensuring they lock in juiciness and flavor.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "58c214cf-b686-4714-906f-8b625b662700",
+            "image": null,
+            "name": "The Little Boy Who Lost His Name",
+            "description": "The Little Boy Who Lost His Name is a personalized children's book that features a young boy who embarks on an adventure to discover his name, fostering imagination and self-identity in young readers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "430e8ac0-11fe-4034-a86d-5494b024233d",
+            "image": null,
+            "name": "Lava KKT 20",
+            "description": "The Lava KKT 20 is a mobile phone released in 2006, designed to provide essential communication features with a focus on affordability and ease of use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "be1130f4-a60f-44ea-9f5d-b8737cd22d3a",
+            "image": null,
+            "name": "LEGO Star Wars: The Skywalker Saga",
+            "description": "LEGO Star Wars: The Skywalker Saga is an action-adventure video game that allows players to experience the iconic Star Wars saga through the lens of LEGO's signature building style. The game features various characters and settings from all nine films of the Skywalker saga.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "9495011d-744f-44df-839b-70650b461bcd",
+            "image": null,
+            "name": "Blind 2020 Skateboards",
+            "description": "The Blind 2020 Skateboards series features high-quality decks designed for street and park skateboarding, reflecting the brand's commitment to skate culture and innovation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Blind"
+            }
+        },
+        {
+            "id": "a745e83c-cdb3-4522-8d08-ae6ac30267a7",
+            "image": null,
+            "name": "Lost My Name",
+            "description": "Lost My Name is a personalized children's book series that allows kids to embark on an imaginative journey to discover the mystery of their names in a fun and engaging way.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "49adc89c-3355-4492-9884-66e3c07190c3",
+            "image": null,
+            "name": "Lava Iris 450 Color",
+            "description": "The Lava Iris 450 Color is a budget smartphone released in 2013, designed to offer essential smartphone features in a compact and colorful design.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "db7310cc-ad7d-41f6-bec3-e30e4ef4f16b",
+            "image": null,
+            "name": "Martin 15 Series",
+            "description": "The Martin 15 Series is a line of acoustic guitars known for their solid wood construction and affordability, making them ideal for both beginners and seasoned musicians who seek quality sound.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "713c4a41-9d89-403a-b213-8061bb274f21",
+            "image": null,
+            "name": "Motorola Edge",
+            "description": "The Motorola Edge series comprises smartphones designed to deliver high-performance features and an immersive visual experience through edge-to-edge displays and advanced camera systems.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "ad7e8f28-dedc-4c81-9fcb-2ce6a3f4d6d8",
+            "image": null,
+            "name": "Winsor & Newton Galeria",
+            "description": "Winsor & Newton Galeria is a versatile range of professional-grade acrylic paints designed for artists seeking high-quality color and performance. This series features a wide palette of vibrant colors that offer excellent coverage and durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "7156bfc0-d5ab-48f8-b8f3-38020f1168b5",
+            "image": null,
+            "name": "ATH-CKS50XBT",
+            "description": "The Audio-Technica ATH-CKS50XBT series is a line of wireless headphones designed to deliver high-quality sound with a focus on deep bass and comfortable wear for extended listening periods.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "c07f2fa6-0ed1-4a55-abf0-03c660963add",
+            "image": null,
+            "name": "Motorola One",
+            "description": "The Motorola One series represents a line of smartphones designed to offer a pure Android experience with essential features, focusing on usability and functionality for everyday activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        }
+    ]
+}

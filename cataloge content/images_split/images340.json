@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8684434d-255c-497a-8f0e-c4a2d02f6a94",
+            "image": null,
+            "name": "Hape Stacking Train",
+            "description": "The Hape Stacking Train is a wooden toy designed to promote fine motor skills and imaginative play through stacking and sorting activities. Its colorful blocks and train format encourage creativity and hand-eye coordination in young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "e7b64f21-4f70-4f04-8558-2d95ce780c67",
+            "image": null,
+            "name": "LG UP Series",
+            "description": "The LG UP Series Monitors are designed to provide high-quality visuals and enhanced color accuracy for a variety of tasks, making them suitable for both professional and casual use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "c675187e-88e8-49a1-b4c4-f7071b0a2084",
+            "image": null,
+            "name": "ZK Series",
+            "description": "The Optoma ZK Series consists of high-resolution laser projectors designed for professional installations, offering enhanced brightness and vivid color reproduction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "36d510b0-8416-4cd1-aee5-125dbebb93c1",
+            "image": null,
+            "name": "Aira",
+            "description": "The Roland Aira series is a collection of innovative musical instruments that combines traditional analog sound with modern digital technology, designed for live performance and studio production.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "1e00e60e-7c87-4fe2-bef8-74d776f3dcdc",
+            "image": null,
+            "name": "Fantom",
+            "description": "The Roland Fantom series is a line of versatile synthesizers and workstations designed for live performance and studio production, featuring advanced sound design capabilities and a user-friendly interface.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "50bcec82-090c-4323-8e03-80edf966aba4",
+            "image": null,
+            "name": "UHD Series",
+            "description": "The Optoma UHD Series consists of high-performance projectors designed for delivering 4K Ultra HD resolution, ensuring stunning image quality for home theater and professional presentations.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "5e77a677-9735-4ddc-9a6a-c6d6dbee9cf8",
+            "image": null,
+            "name": "LG Gram",
+            "description": "The LG Gram series features lightweight and portable laptops designed for users seeking powerful performance and long battery life, making them ideal for productivity on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "106f644c-326f-4fe8-9ae3-6f2b9a0689b9",
+            "image": null,
+            "name": "Vredestein Sportrac",
+            "description": "The Vredestein Sportrac is a series of high-performance tires designed for enhanced grip, stability, and comfort in wet and dry conditions, making it suitable for sporty vehicles.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "f892daeb-e6e0-48aa-a506-f0b5682a0936",
+            "image": null,
+            "name": "Optoma UHD38",
+            "description": "The Optoma UHD38 is a 4K UHD home theater projector designed to deliver high-quality images and enhanced video clarity for an immersive viewing experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "ad0d38a8-3bf2-4058-b55f-be73d4381164",
+            "image": null,
+            "name": "Optoma ZH403",
+            "description": "The Optoma ZH403 series is a range of high-brightness laser projectors designed for professional use, delivering vibrant colors and sharp images for various applications such as business presentations and educational purposes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "03e92920-d072-4932-bcba-34633cb098f4",
+            "image": null,
+            "name": "Hape Wooden Toy Cars",
+            "description": "The Hape Wooden Toy Cars series features a variety of colorful wooden vehicles designed to enhance imaginative play and motor skills in young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "50f1007f-d72b-4dff-b1a2-5a26693e0053",
+            "image": null,
+            "name": "Vredestein Snowtrac 5",
+            "description": "The Vredestein Snowtrac 5 is a premium winter tire designed for enhanced traction, stability, and safety on snowy and icy roads. Its advanced tread design and rubber composition deliver reliable performance in cold weather conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "6dd42e81-ea9e-4c05-8329-46895a203e59",
+            "image": null,
+            "name": "Optoma ZH506T",
+            "description": "The Optoma ZH506T is a 1080p laser projector designed for high brightness and versatility, suitable for both business and educational environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "dfd5851a-4d57-4c4d-b259-fa58648a5316",
+            "image": null,
+            "name": "Vredestein Ultra Silent",
+            "description": "The Vredestein Ultra Silent series features tires designed to minimize road noise while providing high levels of comfort and performance for drivers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "480a3bf5-0d1e-4543-9153-c77fe87af877",
+            "image": null,
+            "name": "Vredestein Ultrac Cento",
+            "description": "The Vredestein Ultrac Cento is a high-performance tire designed for optimal grip and handling in both dry and wet conditions, offering a balanced ride for sporty and luxury vehicles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "ba03502f-1474-4826-880b-751496c35d79",
+            "image": null,
+            "name": "Suunto Spartan Trainer",
+            "description": "The Suunto Spartan Trainer is a versatile smartwatch designed for sports enthusiasts, featuring GPS tracking and a range of fitness metrics to support training and performance monitoring.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "ea1fe346-b49c-40d2-9531-e33d03caed7a",
+            "image": null,
+            "name": "Vredestein Pinzo All Season",
+            "description": "The Vredestein Pinzo All Season is a versatile tire designed for various weather conditions, offering reliable performance in both dry and wet conditions, as well as light winter use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "43370a24-e81d-4b19-a4fc-5841a97b606a",
+            "image": null,
+            "name": "Aira Compact",
+            "description": "The Roland Aira Compact series consists of portable musical instruments designed for both live performance and studio use, featuring innovative technology and sound quality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "4950979e-7e5d-462d-b9d3-cc83f5dacbc1",
+            "image": null,
+            "name": "Suunto Spartan Trainer Wrist HR",
+            "description": "The Suunto Spartan Trainer Wrist HR is a multisport GPS watch designed for athletes and fitness enthusiasts, featuring heart rate monitoring, activity tracking, and a long battery life.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "7680bdd3-9dd0-4fa1-8367-cfa5328c8b4b",
+            "image": null,
+            "name": "Vredestein Ultrac Vorti R",
+            "description": "The Vredestein Ultrac Vorti R is a high-performance tire designed for sports cars, providing exceptional grip, stability, and handling at high speeds.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "9aa91393-6e70-499a-8d49-b4164deac53f",
+            "image": null,
+            "name": "Suunto 9 Baro Titanium",
+            "description": "The Suunto 9 Baro Titanium is a high-performance smart watch designed for endurance athletes and outdoor enthusiasts, featuring advanced tracking capabilities and a durable titanium build.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "b8d4c922-5356-43fa-b47f-3bb14893c96c",
+            "image": null,
+            "name": "Gas Gas Pampera",
+            "description": "The Gas Gas Pampera is a lightweight off-road motorcycle designed for both trail riding and competition use, known for its agility and ease of handling in various terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "b5cc0143-d8e6-4d27-bf6c-d58d89a7da0d",
+            "image": null,
+            "name": "Suunto 9 Peak Pro",
+            "description": "The Suunto 9 Peak Pro is a feature-rich smart watch designed for athletes and outdoor enthusiasts, offering advanced tracking capabilities, long battery life, and robust durability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "35331d78-6ee2-477d-bcc7-54bc5221405c",
+            "image": null,
+            "name": "Latitude 7000 Series",
+            "description": "The Dell Latitude 7000 Series offers premium business laptops designed for professionals seeking reliability, portability, and performance in their daily tasks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "96734aca-3c75-4351-bff5-cd61283ce9a4",
+            "image": null,
+            "name": "V-Drums Acoustic Design",
+            "description": "The Roland V-Drums Acoustic Design series combines the feel and responsiveness of acoustic drums with advanced digital technology, providing drummers with a versatile instrument for practice, recording, and live performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "64504c37-1103-4599-8e05-536f6cc0ecf4",
+            "image": null,
+            "name": "Colmi P1",
+            "description": "The Colmi P1 is a smart watch designed for fitness tracking and daily activity monitoring, offering features like heart rate monitoring and notifications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "ce164da8-0b25-400d-b88d-f67a8106a0aa",
+            "image": null,
+            "name": "Colmi P25",
+            "description": "The Colmi P25 series is a line of smartwatches designed to provide fitness tracking, health monitoring, and smart notifications for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "74d4c605-9307-48e3-8c9c-f929058a4a10",
+            "image": null,
+            "name": "Dell Venue 10",
+            "description": "The Dell Venue 10 series is a line of Android tablets designed for productivity and entertainment, featuring a sleek design and responsive touch screens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "5338ce9a-0cd1-4151-9f9c-b9238fcaa172",
+            "image": null,
+            "name": "Changan CS15",
+            "description": "The Changan CS15 is a compact SUV launched in 2017, designed to provide a blend of functionality and style for urban drivers seeking an accessible yet versatile vehicle.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "8e9e6a39-9b94-43f3-8491-f66ad548521a",
+            "image": null,
+            "name": "Skip Hop Explore & More Mobile",
+            "description": "The Skip Hop Explore & More Mobile is an engaging and colorful toy designed to stimulate infants' visual and auditory senses while encouraging early learning through play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Skip Hop"
+            }
+        }
+    ]
+}

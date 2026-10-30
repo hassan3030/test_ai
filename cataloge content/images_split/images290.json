@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "11c4a684-42bb-4b62-994c-3534e9ff75e6",
+            "image": null,
+            "name": "Alcatel 1B (2022)",
+            "description": "The Alcatel 1B (2022) is an entry-level smartphone designed for essential communication and basic functionality, targeting budget-conscious users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "b1843b78-5ffc-41e3-a309-7912dead2ff4",
+            "image": null,
+            "name": "Spyder ST",
+            "description": "The Can-Am Spyder ST is a three-wheeled motorcycle designed for touring and recreational riding, offering a unique blend of comfort, stability, and distinctive styling.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "f08820ee-183d-4e2c-a78c-c50107682d54",
+            "image": null,
+            "name": "One Touch",
+            "description": "The Seagate One Touch series consists of portable external hard drives designed to provide easy storage and backup solutions for personal and professional data.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "9aca51bf-4f45-4a44-88ff-60196d8e26b7",
+            "image": null,
+            "name": "Roomba j7+ (2022)",
+            "description": "The iRobot Roomba j7+ (2022) is an advanced robotic vacuum cleaner designed to intelligently navigate and clean various surfaces while avoiding obstacles. Its key traits include smart mapping technology and a self-emptying capability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "5e83f904-b014-45bb-86e8-c4b837fd8f56",
+            "image": null,
+            "name": "Nokian Outpost HT",
+            "description": "The Nokian Outpost HT is a high-performance all-terrain tire designed for light trucks and SUVs, offering durability and traction on both on-road and off-road surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "98769df8-3a93-4084-851f-c7e2cf208a80",
+            "image": null,
+            "name": "Pip",
+            "description": "The Mamas & Papas Pip series features a range of soft toys designed to provide comfort and entertainment for babies and toddlers. Each toy is crafted with safe materials and engaging textures to stimulate sensory development.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mamas & Papas"
+            }
+        },
+        {
+            "id": "4e972464-2bb2-4754-90fb-c714f5736b49",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 10",
+            "description": "The Nokian Hakkapeliitta 10 is a premium winter tire designed for exceptional grip and stability on icy and snowy roads, enhancing safety and performance in extreme winter conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "9ad1dbcd-e92f-4387-a774-75e9a25b06bf",
+            "image": null,
+            "name": "Exide Ecostar",
+            "description": "The Exide Ecostar series provides reliable and durable car batteries designed to meet the needs of various vehicles. Known for their long service life and maintenance-free features, these batteries are tailored for optimal performance in everyday driving conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "b779f312-0dac-440b-b48b-f50f1add6754",
+            "image": null,
+            "name": "Nokian Outpost",
+            "description": "The Nokian Outpost series consists of rugged tires designed for off-road driving, offering durability and traction in challenging terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "51578deb-054b-473e-8ecc-e617e18a3015",
+            "image": null,
+            "name": "Melitta Caffeo",
+            "description": "The Melitta Caffeo series comprises high-quality coffee machines designed to brew a variety of coffee beverages, focusing on personalization and user-friendly operation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "313cd516-a35e-4caf-a8bb-43cbd8129227",
+            "image": null,
+            "name": "ROG Strix Scar Edition",
+            "description": "The Asus Republic of Gamers ROG Strix Scar Edition is a high-performance gaming PC series designed for gamers who demand powerful hardware and immersive gameplay experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "66a4716e-89da-470f-a167-bebcfd7e65e4",
+            "image": null,
+            "name": "Melitta Fully Automatic Coffee Machines",
+            "description": "The Melitta Fully Automatic Coffee Machines are designed to provide a convenient way to brew high-quality coffee with the touch of a button, featuring customizable settings for various coffee preferences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "ead16c8b-da77-4251-9d6c-621795706e1f",
+            "image": null,
+            "name": "Zymöl Cleaning Kit",
+            "description": "The Zymöl Cleaning Kit is a comprehensive set of automotive cleaning products designed to provide effective cleaning and maintenance for vehicle surfaces, ensuring a pristine finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "fd1364d5-59ff-485a-b2f9-b5874319aa85",
+            "image": null,
+            "name": "My Little Pony: Make Your Mark",
+            "description": "The My Little Pony: Make Your Mark series features colorful pony figures that promote imaginative play and friendship themes, introducing new characters and adventures in the My Little Pony universe.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "b89fe590-2557-4320-bf18-373d8c8006d6",
+            "image": null,
+            "name": "Mercedes-Benz S-Class (W222)",
+            "description": "The Mercedes-Benz S-Class (W222) is a luxury sedan that represents the pinnacle of automotive excellence, offering advanced technology, opulent comfort, and superior performance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "27ed3a7e-64d5-49fe-82af-37efd919c322",
+            "image": null,
+            "name": "Mercedes-Benz E-Class Coupe",
+            "description": "The Mercedes-Benz E-Class Coupe is a luxury two-door coupe that combines sleek design with advanced technology, offering a smooth driving experience and high-performance features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "e9c47d9b-0715-4b69-a996-713f2cada7d3",
+            "image": null,
+            "name": "Alcatel 3X (2021)",
+            "description": "The Alcatel 3X (2021) is a budget-friendly smartphone designed to offer essential features and performance for everyday use, including a large display and versatile camera capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "459f04c9-f6ed-4330-b35a-0f1e37f37b1c",
+            "image": null,
+            "name": "Can-Am Outlander L",
+            "description": "The Can-Am Outlander L is an all-terrain vehicle designed for both recreational and utility purposes, offering a blend of comfort, performance, and practicality for outdoor enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "7c3be29a-07e8-4f83-b1b0-9956147bc51c",
+            "image": null,
+            "name": "G-Class",
+            "description": "The Mercedes-Benz G-Class is a luxury SUV known for its rugged off-road capabilities and iconic design, combining high performance with advanced technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "59bd718a-f7c9-4383-b61a-31d5a2319ce7",
+            "image": null,
+            "name": "Star Wars: The Force Awakens",
+            "description": "The Hasbro Star Wars: The Force Awakens series features a variety of action figures and toys based on characters from the seventh installment of the Star Wars saga, designed to engage fans and collectors of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "039f43b3-0916-4e6b-bc76-e58c2d7d1345",
+            "image": null,
+            "name": "Alcatel 3 (2021)",
+            "description": "The Alcatel 3 (2021) series comprises budget-friendly smartphones designed to deliver essential features and reliable performance for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "3201242e-80c7-45ad-8dd7-43883c96c364",
+            "image": null,
+            "name": "ROG Strix Series",
+            "description": "The Asus Republic of Gamers ROG Strix Series comprises high-performance gaming PCs designed for an immersive gaming experience, featuring advanced graphics capabilities and customizable aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "889afe8d-e2f4-4866-91de-b6b821fb0fe6",
+            "image": null,
+            "name": "NERF Nitro",
+            "description": "NERF Nitro is a series of toy blasters designed to launch foam cars, enabling interactive play while promoting creativity and motor skills.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "d84c5816-179d-4bd6-939d-37cdc9a7ce25",
+            "image": null,
+            "name": "Nokian WR SUV 4",
+            "description": "The Nokian WR SUV 4 is an all-weather tire designed for SUVs and crossovers, providing excellent grip and stability in various weather conditions while maintaining low rolling resistance for improved fuel efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "6dcced85-3493-498b-92bf-090bae5b0ec4",
+            "image": null,
+            "name": "CLA-Class",
+            "description": "The Mercedes-Benz CLA-Class is a compact luxury sedan designed to offer a combination of style, performance, and advanced technology for a dynamic driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "eb6a132c-43d1-4bdb-9c02-ee92202cbb7f",
+            "image": null,
+            "name": "Nerf: Fortnite Series",
+            "description": "The Nerf: Fortnite Series by Hasbro features a range of foam dart blasters inspired by the popular video game Fortnite. These blasters are designed for competitive play and promote active outdoor fun.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "3d657c61-4b1d-4457-aae5-cbe439b79f24",
+            "image": null,
+            "name": "GA-Z170X-GAMING 3",
+            "description": "The GA-Z170X-GAMING 3 is a high-performance motherboard from Gigabyte, designed for gamers and PC enthusiasts, featuring advanced connectivity options and support for the latest hardware technologies.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "6eef7448-36b1-4da9-b94f-753a0e7c8481",
+            "image": null,
+            "name": "Ripper Skateboard",
+            "description": "The Powell Peralta Ripper Skateboard series features iconic graphics and high-quality materials designed for both street and park skating, catering to skaters of all skill levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "fb0cd999-c9cf-48d8-a378-a9c2b0cf84bd",
+            "image": null,
+            "name": "Reissue Series",
+            "description": "The Powell Peralta Reissue Series consists of classic skateboard designs that have been faithfully reproduced for collectors and enthusiasts, aimed at celebrating the rich heritage of skateboarding.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "670ae0b7-168b-4353-8ea4-0731d28367b9",
+            "image": null,
+            "name": "Quick",
+            "description": "The Cannondale Quick series includes versatile fitness bikes designed for urban commuting and recreational riding, featuring a lightweight frame and an efficient geometry for a smooth ride.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Cannondale"
+            }
+        }
+    ]
+}

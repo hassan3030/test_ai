@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "df834d4e-ccab-49e0-9bc5-7f44cb1e8840",
+            "image": null,
+            "name": "Outline Sofa",
+            "description": "The Outline Sofa is a modern seating solution designed by Muuto, featuring a minimalist aesthetic and customizable modular components to suit various living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "0d0dbc23-1a4e-4407-ade5-b19215865d31",
+            "image": null,
+            "name": "E27 Pendant",
+            "description": "The E27 Pendant by Muuto is a minimalist pendant light designed to showcase the beauty of the bulb, providing functional yet stylish illumination for various spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "c6a08460-f142-46ed-9745-b045821f5266",
+            "image": null,
+            "name": "Outline",
+            "description": "The Muuto Outline series features a contemporary design with clean lines, offering a comfortable and stylish seating solution for modern living spaces. Introduced in 2018, this series emphasizes functionality and simplicity, making it versatile for various interior settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "f6a8257f-720d-4179-8bf9-6d35e19ecb07",
+            "image": null,
+            "name": "Fiber",
+            "description": "The Fiber series by Muuto features a collection of modern chairs that combine innovative materials with a minimalist aesthetic, designed for both comfort and versatility in various settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "4f37acdf-758e-418f-a65c-83a049e21fcd",
+            "image": null,
+            "name": "Kumo",
+            "description": "The Royal Botania Kumo series offers a sophisticated collection of outdoor furniture designed for comfort and style, ideal for enhancing any outdoor living space.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Royal Botania"
+            }
+        },
+        {
+            "id": "594706d2-cc0d-4bdc-bfc5-44a2d292b9bf",
+            "image": null,
+            "name": "Kettal Biva",
+            "description": "Kettal Biva is an outdoor furniture series designed for comfort and versatility, featuring a modern aesthetic and durable materials suitable for various outdoor settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "8e465e70-c103-43f2-bbd5-5e00908af7e4",
+            "image": null,
+            "name": "Kettal Maarten",
+            "description": "The Kettal Maarten series features modern outdoor furniture characterized by its elegant design, durable materials, and functionality for leisure and relaxation in outdoor spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "9a190b8e-5d40-4a9f-af81-f299fc5f8690",
+            "image": null,
+            "name": "Kettal Maia",
+            "description": "The Kettal Maia series is a collection of outdoor furniture designed to blend elegance and comfort, featuring modular pieces that cater to various outdoor settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "65bd9e4a-491b-4969-87ec-227a4c454e88",
+            "image": null,
+            "name": "Kettal Bitta",
+            "description": "The Kettal Bitta series is a collection of outdoor furniture designed for comfort and style, featuring lightweight aluminum frames and a variety of textile options suitable for outdoor use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "aa03183a-1475-4bfa-845f-9cf5af93b981",
+            "image": null,
+            "name": "Kettal PLOA",
+            "description": "The Kettal PLOA series is an outdoor furniture collection designed for both comfort and aesthetic appeal, featuring modern designs that enhance outdoor living spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "e91a3a1e-9482-42db-b865-a9d54418af83",
+            "image": null,
+            "name": "Sava MBS",
+            "description": "The Sava MBS series is designed for light commercial vehicles, delivering reliable performance and durability on various road conditions since its release in 2004.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "ae98b03d-167a-4cfb-9f29-810a4e7fdb86",
+            "image": null,
+            "name": "Sava Intenza",
+            "description": "The Sava Intenza series is designed for reliable performance and durability in various road conditions. These tires provide good traction and stability, making them suitable for everyday driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "3eb521c5-3c79-43b9-b58b-b5fded552d3b",
+            "image": null,
+            "name": "Sava Intensa UHP",
+            "description": "The Sava Intensa UHP is a high-performance tire series designed for sport-oriented vehicles, offering excellent handling, responsiveness, and comfort on both wet and dry roads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "1b39ec3b-d9e8-4729-b280-f3cdda83a55a",
+            "image": null,
+            "name": "Sava Intensa HP2",
+            "description": "The Sava Intensa HP2 is a high-performance tire designed for sports and premium vehicles, offering enhanced grip and handling both in dry and wet conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "fb220eca-47a3-4eb7-9b02-a5c8b7397223",
+            "image": null,
+            "name": "Tempur-LuxeBreeze",
+            "description": "The Tempur-LuxeBreeze series is designed to provide enhanced cooling and comfort with TEMPUR material, aiming to deliver a restful night's sleep by reducing heat retention.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "35b432bc-e626-41d8-b297-855e39731a6c",
+            "image": null,
+            "name": "TEMPUR-PRObreeze",
+            "description": "The TEMPUR-PRObreeze series from Tempur-Pedic features advanced cooling technology designed to reduce heat retention, ensuring a comfortable sleep environment. This series combines the renowned TEMPUR material for support with enhanced breathability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "d388d5f2-6a2b-43cc-84b5-561fb4d0e5eb",
+            "image": null,
+            "name": "Stearns & Foster Reserve",
+            "description": "The Stearns & Foster Reserve series offers premium mattresses designed to provide exceptional comfort and support, combining luxurious materials with advanced engineering for a restful night's sleep.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Stearns & Foster"
+            }
+        },
+        {
+            "id": "464fb18c-0c22-4b51-a36e-86f78069b554",
+            "image": null,
+            "name": "Beautyrest Black",
+            "description": "The Simmons Beautyrest Black series offers a premium sleep experience, designed with advanced technology and luxurious materials to provide enhanced support and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Simmons"
+            }
+        },
+        {
+            "id": "f4348cc0-d31d-4e24-ac16-1961d1ab7fc2",
+            "image": null,
+            "name": "Beautyrest Luxury",
+            "description": "The Simmons Beautyrest Luxury series offers a refined sleep experience with advanced support and comfort technologies designed to enhance sleep quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Simmons"
+            }
+        },
+        {
+            "id": "b3b32a2c-5a77-4d6c-a8f4-a9faec47d75f",
+            "image": null,
+            "name": "Alpina B3",
+            "description": "The Alpina B3 is a high-performance luxury sedan designed for driving enthusiasts, combining refined comfort with powerful engine options and precise handling.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "860dca40-e87e-4754-88c3-195a1c8121c6",
+            "image": null,
+            "name": "Alpina D3",
+            "description": "The Alpina D3 is a high-performance vehicle based on the BMW 3 Series, known for its blend of luxury, sportiness, and efficiency. Released in 2010, it features enhanced powertrain options and refined driving dynamics.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "3e1c89b3-6220-4370-8fe0-89755f09d884",
+            "image": null,
+            "name": "Mann-Filter C Series",
+            "description": "The Mann-Filter C Series is designed to provide high-performance air filtration for various automotive applications, ensuring optimal engine efficiency and longevity.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "e97a2f14-56ff-4da5-9c79-b12603c094ad",
+            "image": null,
+            "name": "Mann-Filter W Series",
+            "description": "The Mann-Filter W Series is a line of premium automotive filters designed to provide optimal engine protection and performance by effectively removing contaminants from oil, air, and fuel systems.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "12af16b2-31ba-4375-a6cc-4b65a0745914",
+            "image": null,
+            "name": "Mann-Filter C3",
+            "description": "Mann-Filter C3 series is designed to provide high-quality filtration for automotive engines, ensuring optimal performance and extended engine life.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "9ad213a5-9568-48ad-8dbd-0651ce5cb3ee",
+            "image": null,
+            "name": "Mann-Filter W950/21",
+            "description": "The Mann-Filter W950/21 is a high-quality oil filter designed for automotive applications, providing effective filtration to maintain engine performance and extend engine life.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "81f5ca0b-273f-4a66-81a0-f31aa43405eb",
+            "image": null,
+            "name": "Mann-Filter F 2000",
+            "description": "The Mann-Filter F 2000 series consists of automotive filters designed to ensure optimal engine performance and longevity by efficiently removing contaminants from the fuel, air, and oil systems.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "62c3ca14-70d6-437b-8397-0baf666cef02",
+            "image": null,
+            "name": "Flat",
+            "description": "The Gandia Blasco Flat series offers a modern and minimalist design in outdoor furniture, emphasizing functionality and comfort for outdoor living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Gandia Blasco"
+            }
+        },
+        {
+            "id": "70d47c99-b340-4ac8-bead-98e229d3c5e2",
+            "image": null,
+            "name": "Daybed",
+            "description": "The Gandia Blasco Daybed series features stylish and functional outdoor furniture designed for comfort and relaxation in outdoor spaces. This series combines contemporary aesthetics with durable materials suitable for various weather conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Gandia Blasco"
+            }
+        },
+        {
+            "id": "009e23d9-d994-43cd-a311-9686a1db7f67",
+            "image": null,
+            "name": "Gandia Blasco Outdoor Collection",
+            "description": "The Gandia Blasco Outdoor Collection features a range of aesthetically pleasing and functional outdoor furniture designed to enhance outdoor living spaces while ensuring durability and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Gandia Blasco"
+            }
+        },
+        {
+            "id": "af1968f0-5d72-48ea-b974-b40de53d8979",
+            "image": null,
+            "name": "Gandia Blasco Daybed Collection",
+            "description": "The Gandia Blasco Daybed Collection is a versatile range of outdoor furniture designed for relaxation, featuring modular components and weather-resistant materials suitable for various outdoor settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Gandia Blasco"
+            }
+        }
+    ]
+}

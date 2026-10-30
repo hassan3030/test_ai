@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "0311e7bc-605b-4c42-8471-a1466cc5d26d",
+            "image": null,
+            "name": "GE Laundry",
+            "description": "The GE Laundry series offers efficient and reliable washing machines designed to provide thorough cleaning and convenient features for modern laundry needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f6193ea5-4aa3-44d6-b641-590e7e3ea5f5",
+            "image": null,
+            "name": "GE UltraFresh Front Load Washers",
+            "description": "The GE UltraFresh Front Load Washers are advanced washing machines designed to offer superior cleaning performance while minimizing odor and maximizing convenience for users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        }
+    ]
+}

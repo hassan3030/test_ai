@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "306dcc58-047e-452c-8090-766da0fc1b03",
+            "image": null,
+            "name": "Bridgestone Potenza Adrenalin RE-71RS",
+            "description": "The Bridgestone Potenza Adrenalin RE-71RS is a high-performance tire designed for motorsport enthusiasts, offering exceptional grip and responsiveness on both dry and wet surfaces. It aims to provide enhanced cornering stability and braking performance for competitive driving.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "4add478c-4c1c-4bcd-a7f7-8c2ec2968fee",
+            "image": null,
+            "name": "Bridgestone Ecopia EP421",
+            "description": "The Bridgestone Ecopia EP421 is a line of environmentally friendly tires designed to enhance fuel efficiency and provide a comfortable ride while maintaining excellent traction and durability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "95d13073-7a10-4e7a-a75b-670198ed78e7",
+            "image": null,
+            "name": "Ecopia EP150",
+            "description": "The Bridgestone Ecopia EP150 is an eco-friendly tire designed to enhance fuel efficiency while providing a quiet and comfortable ride. It is characterized by low rolling resistance and improved wear performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "3c9ffda2-5ed0-4533-a200-ad25b479fd53",
+            "image": null,
+            "name": "Dueler A/T 001",
+            "description": "The Bridgestone Dueler A/T 001 is an all-terrain tire designed for versatility and performance on both on-road and off-road conditions. It provides enhanced traction and durability for SUVs and light trucks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "f24074bf-f5e4-4610-be7d-3c84aca5dfab",
+            "image": null,
+            "name": "Ecopia EP500",
+            "description": "The Bridgestone Ecopia EP500 is a line of eco-friendly tires designed to enhance fuel efficiency and provide a comfortable ride while minimizing environmental impact.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "f2e4a7c0-97d9-4c5c-9724-82b293b984ef",
+            "image": null,
+            "name": "Turanza Quiettrack",
+            "description": "The Bridgestone Turanza Quiettrack is a premium touring tire designed to provide a quiet and comfortable ride while enhancing wet and dry traction.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "1d7a88b2-3b5c-433c-8a8b-21cb623fc9c4",
+            "image": null,
+            "name": "Goodyear Assurance",
+            "description": "The Goodyear Assurance series includes a range of all-season tires designed to provide reliable performance, enhanced traction, and improved handling for everyday driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "ac758846-8aee-4bd4-b3e6-aa85c220d71e",
+            "image": null,
+            "name": "Goodyear Eagle",
+            "description": "The Goodyear Eagle series consists of high-performance tires designed for traction and handling in various driving conditions, making them suitable for sports cars and performance vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "9832b755-355f-49b5-8560-8e8644724d84",
+            "image": null,
+            "name": "Goodyear Eagle GT",
+            "description": "The Goodyear Eagle GT is a performance tire designed for enhanced handling, responsiveness, and stability on both wet and dry roads. Introduced in 2001, it is suitable for sporty and high-performance vehicles.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "37f1fc16-6e77-40f1-ba7b-b01aba933b68",
+            "image": null,
+            "name": "Goodyear Wrangler HT",
+            "description": "The Goodyear Wrangler HT is a highway terrain tire designed primarily for light trucks and SUVs, offering a balance of comfort and durability along with reliable performance on both wet and dry surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "bbc5f027-f8a6-439e-8281-bfd8129463d0",
+            "image": null,
+            "name": "Goodyear Eagle F1",
+            "description": "The Goodyear Eagle F1 series is designed to provide high-performance capabilities for sports cars and high-end vehicles, offering excellent handling, grip, and stability in both dry and wet conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "27877f7b-9378-4c8d-9930-75ed45937bcd",
+            "image": null,
+            "name": "Goodyear Wrangler MT/R",
+            "description": "The Goodyear Wrangler MT/R is a rugged tire designed for off-road driving, featuring an aggressive tread pattern for enhanced traction in mud and rocky terrain.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "065ef0f8-9f23-459e-a029-dc846188e7f6",
+            "image": null,
+            "name": "Eagle RS-A",
+            "description": "The Goodyear Eagle RS-A is a high-performance tire designed for sports cars and performance vehicles, featuring enhanced handling and traction capabilities in both wet and dry conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "be14df0f-3b19-4bd7-8145-90df3b092309",
+            "image": null,
+            "name": "Goodyear Fortera",
+            "description": "The Goodyear Fortera is a tire series designed for sport utility vehicles (SUVs) and light trucks. It offers enhanced traction and stability for both on-road and off-road conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "5c1096af-0767-4a8f-95ed-550a9511501b",
+            "image": null,
+            "name": "Integrity",
+            "description": "The Goodyear Integrity is a line of tires introduced in 2006, designed to offer balanced performance, durability, and comfort for passenger vehicles.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "8bd7a5e5-ea23-45b8-b795-231be60e059c",
+            "image": null,
+            "name": "Assurance ComforTred",
+            "description": "The Goodyear Assurance ComforTred tires are designed to provide a smooth, comfortable ride with enhanced traction and stability for all-season driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "774d0f87-17ba-448d-8c9b-c83b60ff3c84",
+            "image": null,
+            "name": "Eagle F1 Asymmetric",
+            "description": "The Goodyear Eagle F1 Asymmetric is a high-performance tire designed for sports cars and high-performance vehicles, offering superior grip, handling, and stability at high speeds.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "c9050f04-046c-44e0-a4b4-5b24141a3758",
+            "image": null,
+            "name": "Eagle GT",
+            "description": "The Goodyear Eagle GT is a performance tire designed for sport and touring vehicles, offering enhanced handling and traction in both wet and dry conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "4cc78dec-c909-4d7e-9afe-0501d295ccb8",
+            "image": null,
+            "name": "Assurance WeatherReady",
+            "description": "The Goodyear Assurance WeatherReady is an all-season tire designed to provide enhanced traction and control in varying weather conditions, including rain and light snow, ensuring safety and performance throughout the year.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "b8e583cf-92c9-4223-a24f-286e1bacb7ab",
+            "image": null,
+            "name": "Eagle Sport All-Season",
+            "description": "The Goodyear Eagle Sport All-Season tires are designed to provide reliable performance in various weather conditions, offering a balance of grip, comfort, and durability for everyday driving needs.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "58fe412a-20fd-464a-b051-5a6c9809737b",
+            "image": null,
+            "name": "Eagle Sport",
+            "description": "Goodyear Eagle Sport tires are designed for sporty performance, providing enhanced handling and traction on both wet and dry roads, suitable for a variety of passenger vehicles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "c2d8e83b-8852-42bf-ac78-84fab51d22bf",
+            "image": null,
+            "name": "Goodyear Assurance WeatherReady",
+            "description": "The Goodyear Assurance WeatherReady is an all-season tire designed to provide reliable performance in a variety of weather conditions, featuring advanced tread design for improved traction and comfort.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "e6df40ec-deab-410c-82cd-be0927c64253",
+            "image": null,
+            "name": "Goodyear EfficientGrip",
+            "description": "The Goodyear EfficientGrip is a tire series launched in 2010, designed for fuel efficiency and reduced rolling resistance, providing enhanced comfort and handling in various driving conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "0483d848-ccb8-4ea3-baac-7628e2cca9a9",
+            "image": null,
+            "name": "Dunlop Sport Maxx RT",
+            "description": "The Dunlop Sport Maxx RT is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip, precision handling, and excellent responsiveness on both dry and wet roads.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "044d08ee-1414-49ea-9acc-f99eb1fbf657",
+            "image": null,
+            "name": "Ninja H2R",
+            "description": "The Kawasaki Ninja H2R is a high-performance motorcycle designed specifically for track use, featuring a supercharged engine that delivers unparalleled power and acceleration.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "e41d5715-0956-45a2-b1e6-758c5d721996",
+            "image": null,
+            "name": "Fast Finish",
+            "description": "Autoglym Fast Finish is a car care product series designed to provide an easy application of a protective coating that enhances shine and repels dirt and water.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "889a49b5-d306-463e-aadc-a502e88864a2",
+            "image": null,
+            "name": "Kånken Re-Made",
+            "description": "The Kånken Re-Made series by Fjällräven features bags made from recycled materials, aiming to reduce environmental impact while maintaining the classic Kånken design known for its durability and practicality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "09fde4d9-eeaf-495c-8101-0a516727caa7",
+            "image": null,
+            "name": "Fjällräven Rucksack 2021",
+            "description": "The Fjällräven Rucksack 2021 is a versatile and durable backpack designed for outdoor adventures, combining functionality with stylish design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "a4f4a58b-aff4-44ea-87a9-da14454f74e9",
+            "image": null,
+            "name": "Fjällräven Abisko 2021",
+            "description": "The Fjällräven Abisko 2021 series features a range of camping gear designed for outdoor enthusiasts, prioritizing lightweight materials and functionality for various camping environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "9c25b737-02a9-4d1f-b030-81abe3990e15",
+            "image": null,
+            "name": "Fjällräven Keb 2021",
+            "description": "The Fjällräven Keb 2021 series offers durable and functional men's clothing designed for outdoor activities. It combines comfort and protection, making it suitable for hiking and trekking in varying weather conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        }
+    ]
+}

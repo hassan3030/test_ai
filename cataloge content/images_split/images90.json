@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a1542f18-2876-4970-8bca-d5d89270d23a",
+            "image": null,
+            "name": "Hyundai Tucson (LM)",
+            "description": "The Hyundai Tucson (LM) is a compact SUV designed to offer a balance of comfort, practicality, and advanced safety features, making it suitable for both urban and outdoor adventures.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "a74e87e6-3ba0-42ec-ae1d-6a4d5df43eee",
+            "image": null,
+            "name": "Hyundai i20",
+            "description": "The Hyundai i20 is a subcompact hatchback that offers a blend of practicality, comfort, and modern design, aimed at urban drivers looking for an efficient and stylish vehicle.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "10bfd23b-ea04-4876-8aa1-8889535f6c34",
+            "image": null,
+            "name": "Wall System",
+            "description": "The Poliform Wall System series offers versatile and customizable wardrobe solutions designed to maximize storage efficiency while enhancing the aesthetic of living spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "34f51f06-e950-4bd2-a59f-7af411098ba5",
+            "image": null,
+            "name": "Ertiga",
+            "description": "The Maruti Suzuki Ertiga is a versatile MPV designed for families, offering spacious interiors, comfort, and fuel efficiency.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "48df7ed2-ec06-479a-a15a-916cfd73f883",
+            "image": null,
+            "name": "GMC Sierra 2500HD",
+            "description": "The GMC Sierra 2500HD is a heavy-duty pickup truck designed for superior towing and hauling capabilities, making it ideal for both work and recreational use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "4b932ed5-05ec-4973-9702-2fefa3b06f11",
+            "image": null,
+            "name": "Vitara Brezza Facelift",
+            "description": "The Maruti Suzuki Vitara Brezza Facelift is a compact SUV designed for urban and semi-urban environments, offering a blend of style, comfort, and practicality for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "54128490-f0d0-4095-81ec-04a18d9486d9",
+            "image": null,
+            "name": "Hyundai Elantra (MD)",
+            "description": "The Hyundai Elantra (MD) is a compact sedan known for its efficient performance, stylish design, and advanced safety features, making it a practical choice for everyday commuting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "592f91d0-f417-42b1-8bf0-0c42bcb18edc",
+            "image": null,
+            "name": "S-Presso",
+            "description": "The Maruti Suzuki S-Presso is a compact hatchback that combines a modern design with a practical approach, aimed at providing a spacious interior and efficient performance for urban driving.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "b0634b54-4db6-4b8c-b265-81190dccc3fb",
+            "image": null,
+            "name": "Alto 800",
+            "description": "The Maruti Suzuki Alto 800 is a compact car known for its fuel efficiency and affordability, making it a popular choice for urban commuters in India.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "b3f5a1f2-361d-4a83-a264-70b21520fb0d",
+            "image": null,
+            "name": "Geely GX2",
+            "description": "The Geely GX2 is a compact SUV released in 2006, designed to deliver a combination of practicality and urban versatility, aimed at consumers looking for an affordable and functional vehicle.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "c755e578-bb37-48c1-8e84-ce856ac227f4",
+            "image": null,
+            "name": "Stearns & Foster Estate",
+            "description": "The Stearns & Foster Estate series is designed to provide luxury comfort and support, featuring premium materials and craftsmanship for a restful sleep experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Stearns & Foster"
+            }
+        },
+        {
+            "id": "cefc9c08-0fab-4902-93d8-6e3ab18e3798",
+            "image": null,
+            "name": "Actyon",
+            "description": "The SsangYong Actyon is a compact SUV first introduced in 2004, designed to combine style, performance, and versatility for urban and outdoor driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "d22876dd-185c-4558-b039-9f1318c48d09",
+            "image": null,
+            "name": "Maruti Suzuki Vitara Brezza",
+            "description": "The Maruti Suzuki Vitara Brezza is a compact SUV introduced in 2015, known for its versatile design, fuel efficiency, and practicality, making it suitable for urban commuting and family use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "e58e95a9-3427-4a1f-bf93-93d110dc2da5",
+            "image": null,
+            "name": "Korando e-Motion",
+            "description": "The Korando e-Motion is an all-electric SUV from SsangYong, designed to offer a blend of modern technology, spaciousness, and sustainability, making it suitable for urban and adventurous lifestyles alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "7c273bf5-6f0f-4f79-be77-5590ea52bd83",
+            "image": null,
+            "name": "SsangYong Actyon Sports",
+            "description": "The SsangYong Actyon Sports is a pickup truck designed for versatility, combining practicality for work with a sporty design for personal use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "ef56c574-64ab-4140-89a9-98a70f7dad56",
+            "image": null,
+            "name": "Pagani Zonda F",
+            "description": "The Pagani Zonda F is a high-performance sports car known for its exceptional speed, lightweight design, and distinctive styling, reflecting Pagani's dedication to automotive artistry and engineering excellence.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "80e631e3-c4df-4db3-9d10-731f599d4eee",
+            "image": null,
+            "name": "SsangYong Kyron",
+            "description": "The SsangYong Kyron is a mid-size SUV known for its rugged design, spacious interior, and versatile performance, aiming to provide comfortable and reliable transport for both urban and off-road use.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "efb99dc1-65de-407d-b495-db2a3f2c71fb",
+            "image": null,
+            "name": "SsangYong Chairman",
+            "description": "The SsangYong Chairman is a luxury sedan known for its spacious interior, advanced features, and a focus on comfort for both drivers and passengers.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "f9af9bf6-c5fd-4d90-9df7-54113a07ae3c",
+            "image": null,
+            "name": "SsangYong Rexton (New Generation)",
+            "description": "The SsangYong Rexton (New Generation) is a modern SUV designed for versatility and performance, combining advanced technology with spacious interior comfort for both urban and off-road adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "89494513-bca0-4cf8-a111-13f278ebbfb6",
+            "image": null,
+            "name": "Actyon Sports",
+            "description": "The SsangYong Actyon Sports is a versatile pickup truck known for its rugged design and practical capabilities, primarily aimed at consumers seeking a functional vehicle for both work and leisure.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "8a722553-fbea-4718-9ec9-f7c2ca9859c8",
+            "image": null,
+            "name": "Optimum No Rinse Wash & Shine",
+            "description": "Optimum No Rinse Wash & Shine is a waterless car wash product designed to clean and shine vehicles without the need for rinsing, making it convenient for quick detailing and maintaining a vehicle's appearance.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Optimum No Rinse"
+            }
+        },
+        {
+            "id": "9babddd8-8ebd-4c95-bc8f-2419c4c9b310",
+            "image": null,
+            "name": "SsangYong Rexton",
+            "description": "The SsangYong Rexton is a mid-size SUV that has been designed for both on-road comfort and off-road capability since its launch in 2003.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "fa2fa172-c129-49d3-9a5a-85e5bc2d8848",
+            "image": null,
+            "name": "SsangYong Rexton W",
+            "description": "The SsangYong Rexton W is a mid-size SUV known for its robust build and off-road capability, designed to accommodate both urban driving and rugged terrain.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "a81d15c1-ea9e-433c-a5f7-2c87b3fd89e5",
+            "image": null,
+            "name": "Aqua Fine",
+            "description": "Schmincke Aqua Fine is a premium line of watercolors designed for artists, offering high pigment concentration, excellent lightfastness, and smooth application on paper.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "c8685af8-314c-4f31-92b4-4c3bc2f5dfbd",
+            "image": null,
+            "name": "Maruti Suzuki Jimny",
+            "description": "The Maruti Suzuki Jimny is a compact SUV designed for off-road performance and urban versatility, featuring a rugged build and a 4x4 drivetrain.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "cdafe948-28b6-49d7-96cc-1c2818247de9",
+            "image": null,
+            "name": "Pagani Zonda",
+            "description": "The Pagani Zonda is a high-performance sports car known for its distinctive design and exceptional engineering. Launched in 2000, it features a lightweight construction and powerful engine capabilities that emphasize speed and agility.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "d31c0fca-818f-4217-9996-d1c9e0b7e7b5",
+            "image": null,
+            "name": "Noble M600",
+            "description": "The Noble M600 is a high-performance supercar designed for enthusiasts, featuring a lightweight chassis, powerful V8 engine, and a focus on driving dynamics.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Noble Automotive"
+            }
+        },
+        {
+            "id": "1c9549cf-f9a0-4094-9bc3-65754a8c1c0b",
+            "image": null,
+            "name": "SsangYong Musso",
+            "description": "The SsangYong Musso is a mid-size SUV that combines practicality with off-road capability, designed for both urban commuting and adventurous off-road experiences.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "2039ed78-16c6-4b86-9b4f-ad5bfff2a4ca",
+            "image": null,
+            "name": "SsangYong Stavic",
+            "description": "The SsangYong Stavic is a multi-purpose vehicle that was designed to provide spacious interiors and practical features for families and larger groups. Its key traits include versatility, comfort, and a strong emphasis on passenger space.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "26a18fff-1023-4722-86a9-08decec3e7d4",
+            "image": null,
+            "name": "Optimum No Rinse Concentrate",
+            "description": "Optimum No Rinse Concentrate is a car care product designed for no-rinse washing, providing a convenient and effective way to clean vehicles without the need for traditional water-based washing methods.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Optimum No Rinse"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "4e56cc28-45e5-4c67-9476-3dc138583dfa",
+            "image": null,
+            "name": "Zymöl Vintage",
+            "description": "Zymöl Vintage is a premium line of car care products designed to enhance and protect the finish of classic and vintage automobiles. The series is known for its high-quality waxes and polishes that deliver exceptional shine and durability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "53c30309-3b93-439a-913b-fcd267c4ee1d",
+            "image": null,
+            "name": "Renault Clio II",
+            "description": "The Renault Clio II is a compact car produced by Renault, known for its practicality, efficiency, and comfortable driving experience. It appeals to a wide range of drivers seeking a versatile and reliable vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "6b3c4b88-76c5-45fb-b28a-548f7a1e2ac8",
+            "image": null,
+            "name": "Mothers Foaming Wheel and Tire Cleaner",
+            "description": "Mothers Foaming Wheel and Tire Cleaner is designed to effectively clean and remove brake dust, dirt, and grime from wheels and tires, providing a foam action that clings for thorough cleaning.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "da2fe8c1-5059-4519-ac87-ecef75862f9d",
+            "image": null,
+            "name": "Mothers California Gold Carnauba Wax",
+            "description": "Mothers California Gold Carnauba Wax is a premium car wax designed to provide a deep, rich shine while delivering protection to automotive surfaces. This product features pure Brazilian carnauba wax, known for its durability and long-lasting finish.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "a6d0e8dc-acaa-45bf-8c37-4fd0b2790da1",
+            "image": null,
+            "name": "Bajaj Pulsar 180",
+            "description": "The Bajaj Pulsar 180 is a popular motorcycle known for its performance and sporty design, targeting both young riders and enthusiasts seeking a reliable and powerful bike.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "724e698e-9ac2-4025-9d3a-477b34793dd2",
+            "image": null,
+            "name": "Mothers Reflections",
+            "description": "Mothers Reflections is a series of car care products designed to enhance the appearance of automotive surfaces, providing a deep, lasting shine and protection.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "76b76f7b-0201-402e-8425-ff702b749305",
+            "image": null,
+            "name": "Mothers FX",
+            "description": "Mothers FX is a series of car care products designed to enhance and maintain the appearance of vehicles, offering effective solutions for polishing, cleaning, and protecting surfaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "7f0e6c62-3e4a-4fde-8b0f-7ac4d86d6dff",
+            "image": null,
+            "name": "Mothers Speed Foam Wax",
+            "description": "Mothers Speed Foam Wax is a quick and easy car wax designed to provide a protective layer and enhance the shine of automotive paint surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "9106f3b8-ced9-46c9-bf83-871368e314c6",
+            "image": null,
+            "name": "Folex Upholstery Spot Remover",
+            "description": "Folex Upholstery Spot Remover is a specialized cleaning solution designed for removing stains and spot marks from upholstery and carpets, particularly suitable for automotive interiors.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Folex"
+            }
+        },
+        {
+            "id": "9f519497-406a-4920-a9c7-ba6cca0959b0",
+            "image": null,
+            "name": "Audi A2",
+            "description": "The Audi A2 is a compact MPV that emphasizes practicality and efficiency, known for its aluminum construction and innovative design.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0b48d7fc-bf55-4d3a-a61c-99719ba859df",
+            "image": null,
+            "name": "Crystal Serum Light",
+            "description": "Gtechniq Crystal Serum Light is a premium ceramic paint protection product designed to enhance the durability and gloss of vehicle paintwork while providing resistance against environmental contaminants.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "18e5c791-367e-4b86-83c9-74f94b7b5efb",
+            "image": null,
+            "name": "C1 Crystal Lacquer",
+            "description": "Gtechniq C1 Crystal Lacquer is a high-performance ceramic coating designed to provide long-lasting protection and enhance the appearance of automotive surfaces.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "1cae9951-5cab-4a64-9add-4d774dc30652",
+            "image": null,
+            "name": "Mothers California Gold",
+            "description": "Mothers California Gold is a series of premium car care products designed to enhance and protect your vehicle's exterior and interior surfaces. Launched in 2000, the series emphasizes high-quality formulations that provide easy application and effective results.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "4d7c14f0-bccb-437c-a0b6-53451cec5d55",
+            "image": null,
+            "name": "P1 Paint Sealant",
+            "description": "Gtechniq P1 Paint Sealant is a durable car care product designed to protect automotive paint surfaces from environmental contaminants, enhancing shine and longevity.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "5835c7ca-3a38-4199-9aba-c9290eae9f7e",
+            "image": null,
+            "name": "L1 Leather Guard",
+            "description": "Gtechniq L1 Leather Guard is a protective coating designed to enhance the durability and appearance of leather surfaces in vehicles. Its key traits include water resistance, UV protection, and prevention of fading and cracking.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "9f76481b-8419-4812-a4ad-ea2f124e5062",
+            "image": null,
+            "name": "Renault Mégane",
+            "description": "The Renault Mégane is a compact car produced by Renault, known for its stylish design, comfort, and innovative technology. It is designed to offer a balance of performance and practicality for urban and suburban driving.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "a7849e7c-61b1-468e-8217-fd792a793037",
+            "image": null,
+            "name": "Mothers PowerBall",
+            "description": "Mothers PowerBall is a premium polishing tool designed for automotive care, enabling users to achieve a high-gloss finish on paint surfaces with ease and efficiency.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "b9712474-a8f0-4b75-9b80-1942afc08534",
+            "image": null,
+            "name": "Mothers Synthetic Wax",
+            "description": "Mothers Synthetic Wax is a premium car care product designed to provide a durable protective layer and enhance the gloss of automotive finishes. It is formulated to be easy to apply and remove, offering long-lasting protection against UV rays and environmental contaminants.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "c0ea11e8-b174-4f97-a0c0-8f0d6b51b17c",
+            "image": null,
+            "name": "Gtechniq C1 Crystal Lacquer",
+            "description": "Gtechniq C1 Crystal Lacquer is a high-performance ceramic coating that provides long-lasting protection and enhanced gloss for automotive surfaces.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "c76240ce-ccfd-4a11-a545-9685bfb2fedf",
+            "image": null,
+            "name": "Gtechniq Crystal Serum",
+            "description": "Gtechniq Crystal Serum is a professional-grade ceramic coating designed to provide long-lasting protection and enhance the gloss of automotive paintwork. It offers resistance to chemicals, UV rays, and environmental contaminants, making it a popular choice for car enthusiasts.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "cbc785c1-6a78-4c74-94c8-1c49678cccf2",
+            "image": null,
+            "name": "Mothers Back-to-Black",
+            "description": "Mothers Back-to-Black is a series of car care products designed to restore and enhance the appearance of faded exterior plastics and trim. The products in this series effectively clean, rejuvenate, and protect surfaces to ensure a lasting, like-new finish.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "cfffb7ec-79c9-4826-95d2-caafa1aad3ed",
+            "image": null,
+            "name": "Folex Carpet Spot Remover",
+            "description": "Folex Carpet Spot Remover is a versatile cleaning solution designed to effectively remove carpet stains and spots, making it suitable for home and automotive use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Folex"
+            }
+        },
+        {
+            "id": "d25127be-5d68-442c-874c-602fb1a97059",
+            "image": null,
+            "name": "Reflections",
+            "description": "Mothers Polish Reflections series offers a range of car care products designed to enhance the shine and protection of automotive surfaces. Established in 2002, this series is noted for its effective formulations that deliver professional-grade results for car enthusiasts and everyday users alike.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "743ea2f3-581a-4761-9aee-02afca47ec24",
+            "image": null,
+            "name": "Moto Guzzi V11",
+            "description": "The Moto Guzzi V11 is a series of motorcycles known for their robust design and distinctive Italian styling, offering a blend of performance and comfort for riders seeking both sportiness and touring capability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "e3b39506-95a3-4005-84cc-20efd8285e2c",
+            "image": null,
+            "name": "California Vintage",
+            "description": "The Moto Guzzi California Vintage is a classic cruiser motorcycle renowned for its timeless design, comfortable riding position, and powerful V-twin engine, embodying the spirit of open road touring.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "9217dc78-f535-4720-9abb-fce5fd79ccdf",
+            "image": null,
+            "name": "Nerf Ultra",
+            "description": "The Nerf Ultra series features high-performance foam blasters designed for long-range shooting and accurate targeting, making it a popular choice among active play enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "ef3c5fc9-2b7e-4236-903d-28fa7ead59de",
+            "image": null,
+            "name": "Nerf Doomlands",
+            "description": "The Nerf Doomlands series features blasters designed with a post-apocalyptic theme, designed for active outdoor play. These toys are known for their high-performance darts and rugged style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "93f55e08-76ce-4ffc-aa23-955c1a878d45",
+            "image": null,
+            "name": "Detailers Pro Series Carpet & Upholstery Cleaner",
+            "description": "Detailers Pro Series Carpet & Upholstery Cleaner is designed to effectively remove dirt, stains, and odors from carpets and upholstery surfaces in vehicles, ensuring a clean and fresh interior.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Detailers Pro Series"
+            }
+        },
+        {
+            "id": "9d1cea91-7e4d-4e10-9a49-314026d15f1d",
+            "image": null,
+            "name": "Gtechniq ACC",
+            "description": "The Gtechniq ACC series offers a range of advanced car care products designed to enhance and protect various surfaces of vehicles. These products are known for their high-performance formulations that provide durable protection against environmental contaminants.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "9e2c1bb8-01ec-4a03-8f56-2372cae05aa8",
+            "image": null,
+            "name": "Gtechniq EXO",
+            "description": "Gtechniq EXO is a high-performance ceramic coating designed to provide durable protection for automotive surfaces against environmental contaminants, enhancing gloss and hydrophobic properties.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        }
+    ]
+}

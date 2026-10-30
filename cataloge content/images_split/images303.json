@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "fca0d354-505c-4ca8-9ff0-d4651e6e2c1a",
+            "image": null,
+            "name": "Santa Cruz Skateboards - Rob Roskopp Face",
+            "description": "The Santa Cruz Skateboards - Rob Roskopp Face series features iconic graphics and is designed for both street and park skating, appealing to skaters of all skill levels.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "7978053b-721f-4153-8511-94969e096963",
+            "image": null,
+            "name": "Maclaren Twin Triumph",
+            "description": "The Maclaren Twin Triumph is a lightweight double stroller designed for parents with twins or siblings close in age. It features a compact fold and essential safety features to ensure convenience and security during outings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "b2820d9e-a8b4-4956-8335-8cd04f4e2dbf",
+            "image": null,
+            "name": "LuvLap Baby Seat",
+            "description": "The LuvLap Baby Seat is designed to provide a safe and comfortable seating solution for infants and toddlers, promoting proper posture and support during travel or play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "bda3181a-f943-44a4-aa1f-646994a79fa1",
+            "image": null,
+            "name": "Infinix Note 10 Pro",
+            "description": "The Infinix Note 10 Pro is a smartphone designed for users seeking a balance between performance and affordability, featuring a large display and a capable camera system.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "a56daad5-e599-4493-b0a8-f022287fff14",
+            "image": null,
+            "name": "Gold Class Carnauba Plus Premium Paste Wax",
+            "description": "Meguiar's Gold Class Carnauba Plus Premium Paste Wax is a high-quality car wax formulated to provide a deep, rich shine while protecting the vehicle's paint from environmental contaminants.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "354bfef0-a880-41df-aa1a-b37d5ae24b75",
+            "image": null,
+            "name": "Everslick",
+            "description": "The Santa Cruz Everslick series features skateboards designed with a unique top sheet that allows for improved slide capabilities and durability, making them suitable for various skating styles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "852b7536-fadd-4b08-acb5-ef4bc8f988e0",
+            "image": null,
+            "name": "Favn",
+            "description": "The Favn series by Fritz Hansen features elegantly designed sofas that emphasize comfort and natural curves, making them ideal for diverse living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "563321f8-a3ab-4169-9eb6-cd1ad1e009aa",
+            "image": null,
+            "name": "Playgro Clip Clop Activity Toy",
+            "description": "The Playgro Clip Clop Activity Toy is designed to stimulate sensory development in infants through various textures, sounds, and colors, encouraging reach and grasp skills.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playgro"
+            }
+        },
+        {
+            "id": "3a5f189b-2c0f-4282-b898-1dc680969e6a",
+            "image": null,
+            "name": "Yukon",
+            "description": "The GMC Yukon is a full-size SUV known for its spacious interior, comfortable ride, and advanced technology features, designed for families and adventure seekers alike.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "e4883227-2499-4642-964a-9900bdab0881",
+            "image": null,
+            "name": "See Inside Your Body",
+            "description": "The See Inside Your Body series by Usborne Publishing provides interactive, engaging illustrations and flaps that reveal fascinating facts about the human body, aiming to educate children about anatomy and physiology in an accessible manner.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "fe311683-5c1b-4f87-aeef-d5c64c5cacda",
+            "image": null,
+            "name": "ARTIS",
+            "description": "The ARTIS series from Technogym is a premium line of gym equipment designed to enhance the overall fitness experience with its cutting-edge technology and user-centric features, suitable for both personal and commercial use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Technogym"
+            }
+        },
+        {
+            "id": "c1545de9-19df-443b-b1d4-820d77907953",
+            "image": null,
+            "name": "Nissan Almera",
+            "description": "The Nissan Almera is a compact car that was first released in 2000, designed to offer a reliable and economical driving experience for everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "3cdcf8b5-3b6b-4b71-9cd9-3c9ea0728569",
+            "image": null,
+            "name": "Lenovo Legion Y920",
+            "description": "The Lenovo Legion Y920 is a high-performance gaming PC designed for avid gamers seeking power and reliability for an immersive gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "ca7d2b53-b43a-4ce1-8794-64b717cfc440",
+            "image": null,
+            "name": "Reima Taiska",
+            "description": "Reima Taiska is a series of kids' clothing designed to provide comfort and durability for active children, featuring weather-resistant materials and practical designs suitable for various outdoor activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "67a9b2e4-c2de-4a3c-bbd4-b21ba8366271",
+            "image": null,
+            "name": "Nissan Murano (Z51)",
+            "description": "The Nissan Murano (Z51) is a mid-size crossover SUV known for its stylish design, comfortable interior, and advanced safety features, offering a blend of practicality and luxury for everyday driving.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "d33db063-24a6-4c8b-a688-4451eba41170",
+            "image": null,
+            "name": "LinkStation 220D",
+            "description": "Buffalo LinkStation 220D is a compact network-attached storage (NAS) device designed for home and small office environments, providing easy file sharing and backup capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "24860e73-ba99-4457-9aa2-7941d9f301fc",
+            "image": null,
+            "name": "Oppo Reno 4 Pro",
+            "description": "The Oppo Reno 4 Pro is a premium smartphone released in 2020, known for its sleek design and advanced camera features, catering to users seeking high-quality photography and performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "7edf1d07-fd3f-4b20-8339-f5d605da11d3",
+            "image": null,
+            "name": "Great Wall Hover H3",
+            "description": "The Great Wall Hover H3 is a compact SUV that debuted in 2007, known for its rugged design and functionality, catering to both urban and off-road driving needs.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "0af18262-b883-48bc-8447-c9300eff90e6",
+            "image": null,
+            "name": "Oppo F19",
+            "description": "The Oppo F19 series is a line of smartphones launched in 2021, featuring advanced photography capabilities and a sleek design tailored for everyday users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "c5b1dfe4-b5d3-42b8-a69e-e9fad9869922",
+            "image": null,
+            "name": "Vertbaudet Baby Collection",
+            "description": "The Vertbaudet Baby Collection features a range of stylish and comfortable clothing designed specifically for infants and toddlers, focusing on quality and practicality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "ecc1ccb1-44ab-4270-a78f-f0d302749be8",
+            "image": null,
+            "name": "Turtle Wax Carnauba Liquid Wax",
+            "description": "Turtle Wax Carnauba Liquid Wax is a high-quality car care product designed to provide a deep, protective shine while enhancing the color and clarity of the vehicle's paint. It is formulated with natural carnauba wax to deliver durable protection against UV rays and environmental contaminants.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "5f83a3e9-2da3-4c3c-ab7d-cc5cd99f4aec",
+            "image": null,
+            "name": "Whirlpool Front Load Washing Machine",
+            "description": "The Whirlpool Front Load Washing Machine is designed for efficient cleaning, utilizing advanced technology to gently care for fabrics while saving water and energy.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "b16bd5ea-7c4a-4ed9-9744-44cf8d99d2ca",
+            "image": null,
+            "name": "LuvLap Sunshine Stroller",
+            "description": "The LuvLap Sunshine Stroller is designed to provide a comfortable and secure riding experience for infants and toddlers. Its lightweight frame and easy maneuverability make it a practical choice for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "cd773401-e1ba-40d3-a8cf-db324637dfb0",
+            "image": null,
+            "name": "Infinix S5",
+            "description": "The Infinix S5 is a smartphone series released in 2019, designed to offer a balance of performance, camera capabilities, and value for budget-conscious consumers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "d733f00e-f123-45d7-951f-ca3324c5f69f",
+            "image": null,
+            "name": "Raleigh Stow-E Way",
+            "description": "The Raleigh Stow-E Way is a compact folding bike designed for urban commuting and easy storage, featuring a lightweight frame and practical folding mechanism.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Raleigh Bikes"
+            }
+        },
+        {
+            "id": "b8c925aa-47ea-47a3-97ee-3a41824672f3",
+            "image": null,
+            "name": "Raleigh Stunt",
+            "description": "The Raleigh Stunt series features robust bikes designed for street and park riding, emphasizing durability and performance for trick and stunt enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Raleigh Bikes"
+            }
+        },
+        {
+            "id": "c308d98c-d878-44d6-82fc-acd05ac00787",
+            "image": null,
+            "name": "Meguiar's Ultimate Liquid Wax",
+            "description": "Meguiar's Ultimate Liquid Wax is a premium car wax designed to provide long-lasting protection and a brilliant shine. Its easy application and removal make it suitable for enthusiasts and everyday users alike.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "533ea463-72a9-4cc6-8236-d3c5171a288b",
+            "image": null,
+            "name": "Ultimate Polish",
+            "description": "Meguiar's Ultimate Polish is a premium car care product designed to enhance the gloss and clarity of automotive paint while removing light imperfections. It is formulated to provide a deep, rich shine without leaving any dust or oily residue.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "14d9412c-baa6-4a3d-a0bd-451d6ae6055a",
+            "image": null,
+            "name": "LuvLap Lamb Baby Seat",
+            "description": "The LuvLap Lamb Baby Seat is designed to provide a safe and comfortable seating solution for infants and toddlers, featuring a soft cushion and secure harness for optimal safety.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "ade723af-05bd-40d6-86e4-c8adc386de7d",
+            "image": null,
+            "name": "HyperX Ngenuity",
+            "description": "The HyperX Ngenuity series by Kingston Technology offers customizable RGB lighting and software control for compatible gaming peripherals, enhancing the gaming experience through personalization and performance optimization.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        }
+    ]
+}

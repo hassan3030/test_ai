@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "780eb07e-68eb-4a3e-9e9e-b52fdedf4467",
+            "image": null,
+            "name": "Chrysler PT Cruiser",
+            "description": "The Chrysler PT Cruiser is a compact car produced by Mopar, known for its retro design and versatility, offering ample cargo space and a distinctive style that blends elements of both a hatchback and a classic coupe.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "7b6af88c-4808-4dd8-939f-84053a8bfdde",
+            "image": null,
+            "name": "Martha",
+            "description": "The Cassina Martha series is a collection of elegantly designed sofas that emphasize comfort and contemporary aesthetics, making it suitable for both residential and commercial spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        },
+        {
+            "id": "786cda50-cbd1-43e0-8ff6-6349f33004b5",
+            "image": null,
+            "name": "E-Force Supercharger",
+            "description": "The Edelbrock E-Force Supercharger series is designed to significantly increase the horsepower and torque of automotive engines, providing an enhanced driving experience with improved performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "84358c6e-cd5f-45e6-9a9a-7ce2a2ff01d6",
+            "image": null,
+            "name": "Edelbrock Pro-Flo XT EFI System",
+            "description": "The Edelbrock Pro-Flo XT EFI System is a performance fuel injection system designed for improved power and drivability in gasoline engines. Its key features include self-tuning capabilities and a flexible design that accommodates a wide range of applications.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "121b73b4-64d5-42db-aa56-86d5daa014f9",
+            "image": null,
+            "name": "E-Force Supercharger Systems",
+            "description": "The Edelbrock E-Force Supercharger Systems are designed to significantly enhance the performance of gasoline engines by providing increased airflow and power, facilitating efficient and effective engine operation.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "2aca103a-acfd-4b5e-b6e0-2aaf148e4234",
+            "image": null,
+            "name": "Dodge Caravan",
+            "description": "The 2001 Mopar Dodge Caravan is a versatile minivan designed for family transportation, offering ample interior space and practicality for everyday use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "2ee3c30f-8cd0-4113-b3df-d213c7ec6c05",
+            "image": null,
+            "name": "NGK Iridium IX Spark Plug",
+            "description": "The NGK Iridium IX Spark Plug series is designed for high-performance ignition, providing improved throttle response, increased fuel efficiency, and extended service life. These spark plugs feature fine wire iridium centers for enhanced durability and optimal performance in various engine conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "443d0df2-83af-42f4-b1b6-bf675f7a9d55",
+            "image": null,
+            "name": "Edelbrock Performer RPM Intake Manifolds",
+            "description": "The Edelbrock Performer RPM Intake Manifolds are designed to improve the performance of small-block and big-block engines by optimizing air flow and enhancing throttle response, making them ideal for street and racing applications.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "4a213789-493c-403c-85ca-537cc10ecdcb",
+            "image": null,
+            "name": "Edelbrock E-Force Supercharger System",
+            "description": "The Edelbrock E-Force Supercharger System is an aftermarket performance upgrade designed to increase horsepower and torque by forcing more air into the engine, significantly enhancing its power output.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "4d899bb9-b64e-442d-9c98-a1c40a0b2bdf",
+            "image": null,
+            "name": "Pro-Flo XT Fuel Injection System",
+            "description": "The Edelbrock Pro-Flo XT Fuel Injection System is a high-performance fuel delivery system designed to improve engine efficiency and power output in various vehicle applications. It utilizes advanced technology for precise fuel management and features a user-friendly installation process.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "af46f3f2-cbdb-4ffd-b895-e63a6ad688d7",
+            "image": null,
+            "name": "Vorsteiner V-FF 105",
+            "description": "The Vorsteiner V-FF 105 series features lightweight forged aluminum wheels designed for high performance and aesthetics, catering to automotive enthusiasts seeking an upgrade for their vehicles.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "7a2319e7-b485-4b5a-926f-6ae64a0e5d9d",
+            "image": null,
+            "name": "Kia Optima (2011 Generation)",
+            "description": "The Kia Optima (2011 Generation) is a mid-size sedan known for its stylish design, spacious interior, and a balanced performance that caters to everyday driving needs.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "7b5ae887-c634-4940-a1c4-ce215ac6647f",
+            "image": null,
+            "name": "Stearns & Foster Lux Estate",
+            "description": "Stearns & Foster Lux Estate beds are designed to provide exceptional comfort and support, featuring high-quality materials and craftsmanship for a luxurious sleep experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Stearns & Foster"
+            }
+        },
+        {
+            "id": "7ee6d81d-5f3d-484d-b69b-5bf07c034092",
+            "image": null,
+            "name": "Jaguar XF (second generation)",
+            "description": "The Jaguar XF (second generation) is a luxury midsize sedan designed to offer a blend of performance, comfort, and advanced technology, appealing to both driving enthusiasts and those seeking a premium driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "82d27918-b010-4fea-82d4-0fa234991d54",
+            "image": null,
+            "name": "C-Class (W204)",
+            "description": "The Mercedes-Benz C-Class (W204) is a compact executive car produced from 2007 to 2014, known for its blend of performance, luxury, and advanced technology.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "99011f2c-98d7-4561-bfba-a0e8292a41f1",
+            "image": null,
+            "name": "Mercedes-Benz S-Class (W220)",
+            "description": "The Mercedes-Benz S-Class (W220) is a luxury sedan known for its advanced technology, superior comfort, and exceptional performance. First released in 2003, it represents the pinnacle of Mercedes-Benz engineering and design.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "a9c26e05-56af-4dac-9111-5962b43587e7",
+            "image": null,
+            "name": "Hyundai Genesis Coupe",
+            "description": "The Hyundai Genesis Coupe is a sporty two-door coupe designed for driving enthusiasts, offering a blend of performance and style in a rear-wheel-drive configuration.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "db7100bb-3d27-4f32-9c5a-18c4e1e5ac9a",
+            "image": null,
+            "name": "Mercedes-Benz W211 (E-Class)",
+            "description": "The Mercedes-Benz W211 is an executive car that belongs to the E-Class series, produced from 2004 to 2009, known for its blend of luxury, performance, and advanced technologies.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "ecc2be85-4e57-40ad-92fb-a471d66efcb9",
+            "image": null,
+            "name": "Volkswagen Vento (Facelift)",
+            "description": "The Volkswagen Vento (Facelift) is a compact sedan known for its refined design and enhanced features, delivering a balance of comfort and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "a9f73f46-d8f6-4046-85fd-e68411c96a0f",
+            "image": null,
+            "name": "TEMPUR-ProAdapt",
+            "description": "The TEMPUR-ProAdapt series by Tempur-Pedic features advanced memory foam technology designed to provide personalized comfort and support for a restful night's sleep.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "afe9c73e-9575-4aef-827e-02c52a2f3a1d",
+            "image": null,
+            "name": "Jaguar XJ (X350)",
+            "description": "The Jaguar XJ (X350) is a luxury full-size sedan produced by Jaguar from 2004 to 2009, known for its sophisticated design, advanced technology, and a blend of performance and comfort.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "45a210a4-b629-49ef-af9c-c83abdaf275a",
+            "image": null,
+            "name": "Bajaj Avenger Street 150",
+            "description": "The Bajaj Avenger Street 150 is a cruiser motorcycle designed for relaxed riding and comfortable long-distance travel with a modern styling and powerful performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "f0cd39c7-029f-4f60-876a-836cf44f13bf",
+            "image": null,
+            "name": "LG X Power 2",
+            "description": "The LG X Power 2 is a smartphone designed to provide long-lasting battery life and essential features for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "1677e095-d446-4da8-b370-05996ac38810",
+            "image": null,
+            "name": "Mercedes-Benz X164 (GL-Class)",
+            "description": "The Mercedes-Benz X164 GL-Class is a luxury SUV introduced in 2004, designed to offer a spacious interior, advanced technology, and impressive off-road capabilities while providing a comfortable ride.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "182a707d-3450-49dc-9b2a-6f0214fe4935",
+            "image": null,
+            "name": "Mopar Performance Parts",
+            "description": "Mopar Performance Parts is a series of car parts designed specifically for enhancing the performance, durability, and style of Chrysler, Dodge, and Jeep vehicles, ensuring that enthusiasts receive OEM quality with improved capabilities.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "32c8b5db-c79c-49e9-96e2-5d9217aa8cd3",
+            "image": null,
+            "name": "Jaguar XE (2023)",
+            "description": "The Jaguar XE (2023) is a luxury compact sedan that combines sporty performance with advanced technology and upscale interior design, aimed at providing a dynamic driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "35bdae5e-0d1b-4424-b927-d59f76e10877",
+            "image": null,
+            "name": "Opel Mokka",
+            "description": "The Opel Mokka is a compact SUV that provides a blend of versatility, comfort, and efficiency, catering to urban and suburban driving needs since its release in 2012.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "3ff16d0b-9bb9-45cc-bc55-12628eb17b92",
+            "image": null,
+            "name": "KTM 790 Adventure",
+            "description": "The KTM 790 Adventure is an adventure motorcycle designed for both on-road and off-road capabilities, offering versatility and performance for riders seeking to explore diverse terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "43a91708-6d7e-469a-9def-6af4d30b0f0c",
+            "image": null,
+            "name": "Mopar '11",
+            "description": "The Mopar '11 is a limited-edition vehicle series produced by Mopar, designed to celebrate the Mopar brand's heritage and performance. It features unique styling elements and performance enhancements, appealing to automotive enthusiasts.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "4448ab7c-6c0a-4d01-bfd1-1b75d816c8da",
+            "image": null,
+            "name": "Jaguar XF (2023)",
+            "description": "The Jaguar XF (2023) is a luxury midsize sedan that combines performance, style, and advanced technology, designed to deliver a refined driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

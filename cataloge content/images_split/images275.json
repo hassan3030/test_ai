@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7ddfb098-d95a-4d33-925e-5ad45e3e50bf",
+            "image": null,
+            "name": "Thule Outbound",
+            "description": "The Thule Outbound series features a range of versatile bags designed for outdoor adventures, offering durability and ample storage space for travel essentials.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "a0e670ed-b0c5-4253-a25b-61ff9b71d200",
+            "image": null,
+            "name": "BMW 7 Series (G11/G12)",
+            "description": "The BMW 7 Series (G11/G12) is a luxury executive car designed to offer exceptional comfort, performance, and advanced technology for discerning drivers and passengers. It combines innovative features with a sophisticated design ethos.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "59490c71-a24e-41fc-8619-68c464688d4e",
+            "image": null,
+            "name": "Pampa Light",
+            "description": "The Palladium Pampa Light series features lightweight sneakers designed for versatility and comfort, ideal for urban exploration and outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Palladium"
+            }
+        },
+        {
+            "id": "6454f387-451e-4a95-9720-6d9e32d5e8fc",
+            "image": null,
+            "name": "Bosch Fuel Systems",
+            "description": "The Bosch Fuel Systems series includes a range of components designed to optimize fuel delivery in automotive applications, enhancing engine performance and efficiency. This series is known for its reliability and precision engineering, catering to a variety of vehicle makes and models.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "1aaf480a-6fed-4d47-99ad-b614849ebfba",
+            "image": null,
+            "name": "Outwell Air Beam",
+            "description": "The Outwell Air Beam series offers inflatable tents and awnings designed for easy setup and enhanced stability, making them ideal for camping enthusiasts seeking convenience and comfort in outdoor living.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "7040a3d9-2045-4d0d-a9b9-fab6ab149d8d",
+            "image": null,
+            "name": "Aventador S Roadster",
+            "description": "The Lamborghini Aventador S Roadster is a high-performance luxury sports car known for its striking design, powerful V12 engine, and advanced aerodynamics, providing an exhilarating open-top driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "f5c9d22c-e68d-4c72-b310-f15f2b7ccb15",
+            "image": null,
+            "name": "Aquabeads Super Mario Craft Sets",
+            "description": "Aquabeads Super Mario Craft Sets allow children to create colorful bead designs inspired by the iconic Super Mario franchise, promoting creativity and fine motor skills through artistic play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "63584287-c117-4159-b4e3-ec81aef33380",
+            "image": null,
+            "name": "Maruti Suzuki S-Cross",
+            "description": "The Maruti Suzuki S-Cross is a compact crossover SUV introduced in 2020, designed to combine spacious interiors and practicality with performance and style.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "539d0410-68cc-4882-9ecb-133b6f2f372c",
+            "image": null,
+            "name": "Outwell Constellation",
+            "description": "The Outwell Constellation series is designed for camping enthusiasts, offering durable and comfortable sleeping solutions that enhance outdoor experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "293cb63d-db3f-42b2-a209-70bd40fe2d0d",
+            "image": null,
+            "name": "Aquabeads Pattern Play Set",
+            "description": "The Aquabeads Pattern Play Set allows children to create colorful bead designs using water-activated beads, fostering creativity and fine motor skills.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "09b4042a-51c0-4525-a018-cb6d85f80881",
+            "image": null,
+            "name": "Everystage DLX",
+            "description": "The Diono Everystage DLX is a versatile car seat designed to accommodate children from birth to 120 pounds, offering extended use in rear-facing, forward-facing, and booster seat modes for safety and convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "7c975929-1ca6-4de7-aabe-f3fc882bc2c1",
+            "image": null,
+            "name": "Diono Radian 3R",
+            "description": "The Diono Radian 3R is a convertible car seat designed to provide safety and comfort for children from infancy through early childhood. Its key features include a slim design for three-across seating, rear-facing capabilities, and a durable steel frame.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "71809c2f-dd1d-4038-8b99-46394445dd67",
+            "image": null,
+            "name": "Potenza RE-11A",
+            "description": "The Bridgestone Potenza RE-11A is a high-performance tire designed for sports cars and performance vehicles, offering exceptional grip and handling on both dry and wet surfaces.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "21b2ea6f-bc81-4e3c-a456-07ca6b8172e0",
+            "image": null,
+            "name": "Siesta",
+            "description": "The Outwell Siesta series is designed for camping enthusiasts seeking comfort and functionality in lightweight sleeping solutions, featuring various inflatable mattress options for restful nights outdoors.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "d4075800-cb95-479c-bfe7-fda1c8a6951e",
+            "image": null,
+            "name": "Ninja Intelli-Sense",
+            "description": "The Ninja Intelli-Sense series features advanced blenders designed to effortlessly create a variety of recipes, including smoothies, sauces, and soups, using intelligent programs and a touch interface for ease of use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "a2388eeb-9a0c-469a-bea9-30f5ce77f64e",
+            "image": null,
+            "name": "Pinypon Dolls",
+            "description": "Pinypon Dolls are a collectible line of interchangeable play dolls designed for imaginative play. Each doll features customizable hair and outfits, allowing children to create their unique characters.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "4314a3ea-b1e8-4bd6-ab4a-8a63a4a5f1a1",
+            "image": null,
+            "name": "Opel Astra (H generation)",
+            "description": "The Opel Astra (H generation) is a compact car produced by the German automaker Opel from 2004. Known for its practicality, comfortable interior, and efficient performance, it targets consumers seeking a reliable and versatile vehicle.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "54b39bb9-96e5-4298-823e-adeae74edbe8",
+            "image": null,
+            "name": "Camping Furniture",
+            "description": "The Outwell Camping Furniture series offers a range of practical and comfortable furniture designed specifically for camping enthusiasts, providing essential support and convenience during outdoor activities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "45fc7b5a-2a07-4c20-9352-4f42659c3f47",
+            "image": null,
+            "name": "Opel Zafira (B generation)",
+            "description": "The Opel Zafira (B generation) is a compact multi-purpose vehicle designed to provide versatile seating and spacious interiors for families and groups. Introduced in 2004, it features flexible seating arrangements and practical storage solutions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "37de722b-1f79-4315-bbb9-1c4d430b5aeb",
+            "image": null,
+            "name": "Paul Smith Shoes",
+            "description": "Paul Smith Shoes features a collection of contemporary sneakers designed to combine comfort and style, reflecting the brand's iconic British heritage.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "80fd005a-e3ac-48b6-bd94-34ebb9c25007",
+            "image": null,
+            "name": "FolkArt Color Shift",
+            "description": "FolkArt Color Shift is a series of acrylic paint that changes color depending on the angle of light. Ideal for use on a variety of surfaces, it provides a unique shimmering effect that enhances artwork and craft projects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "750de456-e0bd-45af-9091-2f71e244b36d",
+            "image": null,
+            "name": "Play-Doh 50th Anniversary",
+            "description": "The Play-Doh 50th Anniversary series celebrates five decades of creativity with Play-Doh, featuring classic colors and shapes for imaginative play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "19be7cb8-701f-498e-813e-9a60a586c5c9",
+            "image": null,
+            "name": "Vitra Eames Sofa Compact",
+            "description": "The Vitra Eames Sofa Compact is a modern, versatile sofa designed by Charles and Ray Eames, known for its elegant proportions and comfortable seating, ideally suited for both residential and public spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "0666f838-a0ec-498a-ad19-c49ab0edbdfd",
+            "image": null,
+            "name": "FolkArt Metallic Acrylic Paints",
+            "description": "The FolkArt Metallic Acrylic Paints series consists of high-quality acrylic paints that provide a vibrant metallic finish. Designed for a variety of surfaces, these paints are ideal for artists and crafters seeking to add a shimmering touch to their projects.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "dd0ae2d1-147f-4fbd-ac91-140b43d4b638",
+            "image": null,
+            "name": "Ninja Professional PLUS Bender with Auto-iQ",
+            "description": "The Ninja Professional PLUS Bender with Auto-iQ is a high-performance blender designed for creating a variety of blended beverages and food items, featuring intelligent programs for convenient operation.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "5e812d80-23a7-4143-9d3f-2c17af487767",
+            "image": null,
+            "name": "Opel Corsa (C)",
+            "description": "The Opel Corsa (C) is a compact car designed for efficiency and urban mobility, offering a balance of practicality and performance for everyday driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "6646da1b-f6b6-445c-bfe2-da4ee4e26b39",
+            "image": null,
+            "name": "Paul Smith Sneakers",
+            "description": "Paul Smith Sneakers combine contemporary design with comfortable wear, reflecting the brand's signature style and British heritage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "b26259c3-199a-4d13-9cf0-19b92a6d3fab",
+            "image": null,
+            "name": "Bridgestone WeatherPeak",
+            "description": "The Bridgestone WeatherPeak series is designed for all-season performance, providing reliable traction and handling in diverse weather conditions, from rain to mild winter weather.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "07dacb80-f037-4afc-ab5b-a6327a0ac9aa",
+            "image": null,
+            "name": "Opel Cascada",
+            "description": "The Opel Cascada is a convertible car that combines stylish design with a comfortable driving experience, making it ideal for those seeking open-air motoring.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "5a3a5ed1-2e6c-4fed-bb50-9810b8254ca3",
+            "image": null,
+            "name": "BMW Z4 (E89)",
+            "description": "The BMW Z4 (E89) is a compact sports car known for its elegant design and dynamic driving capabilities, primarily aimed at providing an engaging open-top driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f4e8c916-15da-4c97-9029-4f4505d71d47",
+            "image": null,
+            "name": "Chrysler 300 (3rd Generation)",
+            "description": "The Chrysler 300 (3rd Generation) is a full-size luxury sedan introduced in 2009, known for its distinctive styling, spacious interior, and rear-wheel-drive performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "bf2d7455-9df2-42e0-837d-483be7396e00",
+            "image": null,
+            "name": "Kincraig",
+            "description": "The Lowe Alpine Kincraig series offers durable and functional camping gear designed to enhance outdoor experiences with practicality and reliability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Lowe Alpine"
+            }
+        },
+        {
+            "id": "29eb54d3-b48d-48d1-b3b6-c4199f38b1d5",
+            "image": null,
+            "name": "Oltre XR4",
+            "description": "The Bianchi Oltre XR4 is a high-performance road bike designed for competitive cyclists. It features advanced aerodynamics and lightweight materials to enhance speed and efficiency on the road.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "619cd422-05f3-4253-84f6-cf8359cf4959",
+            "image": null,
+            "name": "Chrysler PT Cruiser Turbo",
+            "description": "The Chrysler PT Cruiser Turbo is a compact car known for its unique retro styling and versatile interior space, designed to offer a blend of performance and practicality.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "678c7faf-98b8-409d-a340-8af66fb39c10",
+            "image": null,
+            "name": "Jeep Grand Cherokee L",
+            "description": "The Jeep Grand Cherokee L is a three-row SUV that combines rugged capability with luxury features, designed for families and adventure seekers alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "6dbee8d5-0c10-49c4-aa43-035ca458d2ce",
+            "image": null,
+            "name": "Jeep Renegade",
+            "description": "The Jeep Renegade is a compact SUV designed for urban and off-road adventures, combining versatility and rugged capability with a stylish design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "6f85fb37-97ee-48dc-8427-44d089007d2c",
+            "image": null,
+            "name": "Jeep Wagoneer",
+            "description": "The Jeep Wagoneer, released in 2022, is a full-size SUV that combines luxury with off-road capability, designed for families and adventurers alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "7e90e42e-2496-4399-9881-b9b28fb65e14",
+            "image": null,
+            "name": "Jeep Gladiator Mojave",
+            "description": "The Jeep Gladiator Mojave is a rugged and versatile pickup truck designed for off-road enthusiasts, featuring a durable build and advanced performance capabilities suited for desert terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "83e19fbb-8902-4825-91fa-5425b402f274",
+            "image": null,
+            "name": "Jeep Gladiator",
+            "description": "The Jeep Gladiator is a mid-size pickup truck that merges the versatility of a Jeep with the utility of a truck, designed for off-road capability and everyday functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "8728e028-904a-4c52-a62c-4941e99dff10",
+            "image": null,
+            "name": "Acura RL",
+            "description": "The Acura RL is a luxury sedan that was first introduced in 2001, designed to offer a blend of performance, comfort, and advanced technology catering to premium consumers.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "11cdad3c-9b87-40ac-90fc-c70960451717",
+            "image": null,
+            "name": "Chrysler PT Cruiser (Convertible)",
+            "description": "The Chrysler PT Cruiser Convertible is a compact convertible designed for style and versatility, blending retro design elements with modern features for a unique driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "1cb147c8-f822-4520-aaf4-458fe3b4d11a",
+            "image": null,
+            "name": "Chrysler 300C",
+            "description": "The Chrysler 300C is a full-size luxury sedan known for its distinctive styling, spacious interior, and advanced technology features, launched in 2003 as part of Chrysler's flagship 300 series.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "2c31f71f-bfdb-4155-ba0a-fe7d9f14c3a6",
+            "image": null,
+            "name": "Acura TL",
+            "description": "The Acura TL is a luxury sedan that was first introduced in 2000, known for its performance, comfort, and advanced technology features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "3b980cb2-f0ee-40fb-a16f-dea371e87f8b",
+            "image": null,
+            "name": "Chrysler Town & Country (4th Generation)",
+            "description": "The Chrysler Town & Country (4th Generation) is a minivan that offers a versatile interior, family-friendly features, and enhanced safety options, making it ideal for daily commuting and family travels.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "44afbb20-ba40-400b-8610-2f670b2eb9b1",
+            "image": null,
+            "name": "Acura MDX",
+            "description": "The Acura MDX is a mid-size luxury SUV that combines spaciousness with advanced technology and a well-appointed interior, designed to provide a comfortable and versatile driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "5bd85ef7-798b-43dc-83cb-a7bb6b5b542d",
+            "image": null,
+            "name": "Chrysler Sebring",
+            "description": "The Chrysler Sebring is a mid-size car known for its comfortable ride and spacious interior, designed to cater to everyday driving needs.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "8aa66456-aa96-4021-994a-8ad4bd0522fa",
+            "image": null,
+            "name": "Jeep Grand Cherokee 4xe",
+            "description": "The 2023 Jeep Grand Cherokee 4xe is a plug-in hybrid SUV that combines electrification with rugged capability, offering both eco-friendly driving and off-road performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "925fc89c-b2a3-4149-a439-0a084a5549c9",
+            "image": null,
+            "name": "Jeep Gladiator 4xe",
+            "description": "The Jeep Gladiator 4xe is a mid-size pickup truck that combines off-road capability with hybrid technology, offering a balance of rugged performance and efficiency.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "945ecf4f-a4ba-493a-82ac-3dec14e5059a",
+            "image": null,
+            "name": "Compass",
+            "description": "The Jeep Compass is a compact SUV designed for versatile performance both on and off the road, offering a blend of modern technology and rugged capability suitable for diverse driving conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "a620b81d-384f-45f6-8ce9-ba2255aea4dd",
+            "image": null,
+            "name": "Jeep Grand Wagoneer",
+            "description": "The Jeep Grand Wagoneer is a premium, full-size SUV that combines luxury with off-road capability, designed for comfort and adventure.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "abf491b1-68bf-4ba1-a334-5eb9c2e8e5aa",
+            "image": null,
+            "name": "Jeep Wrangler 4xe",
+            "description": "The Jeep Wrangler 4xe is a plug-in hybrid SUV designed for off-road capability and versatility, combining classic Jeep ruggedness with environmentally friendly technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "ad3e8310-91ee-4b03-a59a-53bcee65f321",
+            "image": null,
+            "name": "Ford Escape Hybrid",
+            "description": "The Ford Escape Hybrid is a compact SUV that combines the versatility of an SUV with a hybrid powertrain, promoting fuel efficiency while providing ample space and capability for everyday use.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "c290e73f-9cea-4327-b7b2-725230de08cd",
+            "image": null,
+            "name": "Chrysler Dodge Journey",
+            "description": "The Chrysler Dodge Journey is a mid-size crossover SUV that combines versatility and spaciousness, designed for families and active lifestyles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "d8dd9acf-6fbd-49fb-83ef-254b3d5a8edd",
+            "image": null,
+            "name": "Chrysler PT Cruiser",
+            "description": "The Chrysler PT Cruiser is a compact car known for its distinctive retro styling and versatility, combining elements of both a hatchback and an SUV.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "e53f80f1-7cb2-4ce1-8fca-e6543fcff017",
+            "image": null,
+            "name": "Infiniti M",
+            "description": "The Infiniti M is a luxury sedan series that combines performance, comfort, and advanced technology, designed to provide a premium driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "d0bed47c-f5e1-466e-b76b-259a9974bfaf",
+            "image": null,
+            "name": "LEGO Ninjago: Masters of Spinjitzu",
+            "description": "The LEGO Ninjago: Masters of Spinjitzu series features engaging stories that follow the adventures of young ninjas as they learn the art of Spinjitzu and battle against various villains. Aimed at children, these books inspire creativity and imagination through the lens of the popular LEGO brand.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Lego Publishing"
+            }
+        },
+        {
+            "id": "6be3c9dd-3cc5-4a3c-9c07-2abca7f454a3",
+            "image": null,
+            "name": "Infiniti G37",
+            "description": "The Infiniti G37 is a luxury sports car introduced in 2008, known for its powerful performance, refined interior, and advanced technology features.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "769090de-44c3-498b-8c3d-5d5cd1c83d80",
+            "image": null,
+            "name": "Acura RLX",
+            "description": "The Acura RLX is a luxury sedan that combines premium comfort with advanced technology and performance. It is designed to offer a refined driving experience with a focus on safety and innovation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "77652625-658c-45b2-9170-ca506f7e7e88",
+            "image": null,
+            "name": "Acura ILX",
+            "description": "The Acura ILX is a compact luxury sedan introduced in 2011, designed to deliver a combination of performance, comfort, and advanced technology in an efficient package.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "82ca89fa-00af-4959-a5ee-e9b52556c29f",
+            "image": null,
+            "name": "Infiniti I30",
+            "description": "The Infiniti I30 is a luxury sedan known for its combination of elegance, comfort, and performance, targeting consumers seeking a refined driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        }
+    ]
+}

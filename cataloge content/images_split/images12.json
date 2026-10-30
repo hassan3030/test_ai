@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "id": "4a4a4263-075c-4861-9d95-fe3e5827dfa0",
+            "image": null,
+            "name": "Honda CBR500R",
+            "description": "The Honda CBR500R is a sport motorcycle designed for beginners and experienced riders alike, offering a blend of accessibility, performance, and efficiency suitable for everyday riding and weekend excursions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5ee6302c-51c0-4b3f-9b25-57b200b3c4a9",
+            "image": null,
+            "name": "Fit",
+            "description": "The Honda Fit is a versatile subcompact car known for its efficient use of space, fuel economy, and practicality, catering to urban drivers and small families.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5f5ef97d-c596-43f8-95b8-093c01ae7f3d",
+            "image": null,
+            "name": "Sayl Chair",
+            "description": "The Sayl Chair by Herman Miller, released in 2018, is designed to provide ergonomic support and encourage movement while seated, featuring a unique unframed design that allows for a higher degree of flexibility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec4c7317-b6ea-4898-8095-3ccbf17f1c30",
+            "image": null,
+            "name": "KTM 65 SX",
+            "description": "The KTM 65 SX is a lightweight motocross motorcycle designed for young riders looking to compete in high-performance off-road racing. It is known for its powerful engine, agile handling, and lightweight frame, making it an ideal choice for youth racing enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "7cc17f87-f694-4e64-a0ee-e9d9b65ec00c",
+            "image": null,
+            "name": "KTM 200 EXC",
+            "description": "The KTM 200 EXC is a lightweight off-road motorcycle designed for enduro riding, featuring a powerful engine and excellent suspension for tackling challenging terrain.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "833e5d67-8406-40bb-a982-684c1648ba86",
+            "image": null,
+            "name": "Dior Bobby",
+            "description": "The Dior Bobby series features a collection of bags characterized by their clean lines, sophisticated design, and versatility, catering to modern luxury consumers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f6dbc0f2-0929-4f6d-9368-4b79f28a47b2",
+            "image": null,
+            "name": "KTM 950",
+            "description": "The KTM 950 is a dual-sport motorcycle, designed for both on-road and off-road performance. It features a powerful V-twin engine, making it suitable for adventure touring and rugged terrain.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "8d06684f-76d8-4d83-833c-e79d162781e9",
+            "image": null,
+            "name": "Pivot Modular Travel System",
+            "description": "The Evenflo Pivot Modular Travel System is a versatile stroller that includes an infant car seat which can be easily transformed into a frame stroller. Designed for convenience, it offers multiple modes of use and a variety of seating options to accommodate growing children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9b8851f6-96f8-4657-b6cd-e940938df58f",
+            "image": null,
+            "name": "Maxi-Cosi Pebble Plus",
+            "description": "The Maxi-Cosi Pebble Plus is a baby seat designed for infants from birth up to 12 months, providing optimal safety and comfort during car travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fa21342e-03e4-47ef-8f7a-181fba766008",
+            "image": null,
+            "name": "Turtle Wax Hybrid Solutions",
+            "description": "The Turtle Wax Hybrid Solutions series offers innovative car care products that combine advanced technology with ease of use to deliver superior cleaning, protecting, and shining solutions for automotive surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "a7c9d3c2-9d80-49b3-9904-a2fcfca21692",
+            "image": null,
+            "name": "Britax BEFIX M i-Size",
+            "description": "The Britax BEFIX M i-Size is a high-quality baby seat designed for safety and comfort, meeting the latest i-Size regulations for child car seats.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b03114b2-edcc-45df-93d4-32a735208473",
+            "image": null,
+            "name": "KTM 250 SX-F",
+            "description": "The KTM 250 SX-F is a high-performance motocross motorcycle designed for competitive racing, featuring a lightweight frame and powerful engine for superior handling and acceleration.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "b3566728-e5c7-4c2b-8978-1276ea6361ea",
+            "image": null,
+            "name": "Evenflo Pivot",
+            "description": "The Evenflo Pivot series offers versatile and stylish strollers designed to accommodate infants and toddlers, featuring multiple configurations for convenience during outings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "05d8bed9-7369-4cc1-9189-3004eaeb6a55",
+            "image": null,
+            "name": "Speed Trainer",
+            "description": "The Balenciaga Speed Trainer is a contemporary sneaker that combines a sock-like fit with a sleek, minimalist design, primarily intended for casual wear and fashion-forward outfits.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0d11a30a-acc3-4274-a0df-ef7af4fe879b",
+            "image": null,
+            "name": "City",
+            "description": "The Balenciaga City series is a range of stylish, compact bags designed for everyday use, characterized by their soft, versatile leather and distinctive motorcycle-inspired design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "10da41b9-eee1-4a07-a01f-70d40c0b1c6a",
+            "image": null,
+            "name": "Lava Iris",
+            "description": "The Lava Iris series consists of smartphones designed for basic communication and multimedia purposes, aimed at providing affordable mobile solutions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "2dfbd813-88e6-4f92-86e4-859f6078ddf7",
+            "image": null,
+            "name": "Britax Römer Kidfix III M",
+            "description": "The Britax Römer Kidfix III M is a high-back booster seat designed for children aged approximately 4 to 12 years, focusing on safety, comfort, and convenience in car travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3858ad70-6ccd-4601-af8d-cddbb06a1e74",
+            "image": null,
+            "name": "BILLY",
+            "description": "The BILLY series from IKEA features versatile wardrobes that provide ample storage space for clothing and accessories, designed to blend seamlessly into any room while maintaining a timeless aesthetic.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "421c65d0-7b48-4a34-a81c-687c2aeb297e",
+            "image": null,
+            "name": "BMW 7 Series (E65/E66)",
+            "description": "The BMW 7 Series (E65/E66) is a luxury full-size sedan known for its advanced technology, high-performance engines, and exceptional comfort, designed to offer a superior driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "47d5dd0b-345a-412d-9827-da4478570c61",
+            "image": null,
+            "name": "Nike Joyride Run Flyknit",
+            "description": "The Nike Joyride Run Flyknit is a series of running sneakers designed for comfort and cushioning, featuring a unique bead-filled midsole that adapts to the foot's shape for a personalized fit.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "517c2f73-3e02-405d-8b0f-c7155d2cf1dc",
+            "image": null,
+            "name": "Evenflo Gold Revolve 360",
+            "description": "The Evenflo Gold Revolve 360 is a versatile baby seat designed for safety and convenience, featuring a 360-degree rotating seat that allows for easy access to your child without having to uninstall the seat.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5c2f4999-c844-42eb-9c12-586339cc9e00",
+            "image": null,
+            "name": "Magnifica S",
+            "description": "The De'Longhi Magnifica S series represents a range of fully automatic coffee machines designed for home use, offering convenience and the ability to create a variety of coffee beverages with just the touch of a button.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6698ba69-6319-4af1-aaa4-96783e60ddb6",
+            "image": null,
+            "name": "De'Longhi La Specialista",
+            "description": "De'Longhi La Specialista is a premium line of coffee machines designed for espresso enthusiasts, offering precise temperature control, built-in grinders, and user-friendly features to enhance the coffee brewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e8e96c0d-2f95-4c0f-b9cd-d6886c10af67",
+            "image": null,
+            "name": "Lava Z4",
+            "description": "The Lava Z4 is a smartphone series released in 2021, designed to offer a balance of performance and affordability for everyday users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "67b29b2b-dd01-49f5-b3df-ad3eb043142c",
+            "image": null,
+            "name": "BMW X3 (E83)",
+            "description": "The BMW X3 (E83) is a luxury compact SUV that combines the versatility of an SUV with the performance of a BMW. It is designed for both on-road and off-road capabilities, offering comfort and innovative technology.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "7dd3f98f-2fd8-4aa7-afc7-36119cf311f2",
+            "image": null,
+            "name": "Dior Summer 2021 Sunglasses Collection",
+            "description": "The Dior Summer 2021 Sunglasses Collection features stylish eyewear designed to blend high fashion with functionality, offering UV protection while enhancing summer looks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f2ddc565-9846-4472-b1e2-03eefb285eae",
+            "image": null,
+            "name": "BMW M5 (E60)",
+            "description": "The BMW M5 (E60) is a high-performance version of the BMW 5 Series, introduced in 2002. Known for its powerful engine, precise handling, and luxurious interior, it blends sportiness with comfort for an exceptional driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "fadf2696-e5a2-417a-bd16-3ea7c40ba76e",
+            "image": null,
+            "name": "BMW 3 Series (E90, E91, E92, E93)",
+            "description": "The BMW 3 Series (E90, E91, E92, E93) is a compact executive car known for its balanced performance, dynamic handling, and premium quality. Released in 2008, it offers various body styles, including sedan, touring, coupe, and convertible.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "7f5d13c9-6dba-4719-a436-201d6b834ca1",
+            "image": null,
+            "name": "Whirlpool W Collection",
+            "description": "The Whirlpool W Collection coffee machines are designed to deliver a high-quality brewing experience, combining advanced technology with user-friendly features for coffee enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "811b5f36-9a0f-4cca-a0a2-c83bf0271759",
+            "image": null,
+            "name": "Lava Z2",
+            "description": "The Lava Z2 is a budget-friendly smartphone designed to offer essential features and reliable performance for everyday use, catering particularly to first-time smartphone users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        }
+    ]
+}

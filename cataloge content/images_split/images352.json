@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "244bd847-1305-4901-92bd-1904964aa8ce",
+            "image": null,
+            "name": "Xiaomi 11T Pro",
+            "description": "The Xiaomi 11T Pro is a flagship smartphone released in 2021, known for its powerful performance, high-quality camera system, and fast charging capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "ba93a37c-750d-46fd-830b-2e8644acdc68",
+            "image": null,
+            "name": "Buick Regal (2012 generation)",
+            "description": "The Buick Regal (2012 generation) is a mid-size sedan known for its elegant design, spacious interior, and a blend of performance and comfort. This model aims to appeal to drivers looking for a stylish yet practical vehicle.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "bd2162cb-4fc4-44cc-81ed-fd1e3aad5eae",
+            "image": null,
+            "name": "Jeep Commander",
+            "description": "The Jeep Commander is a mid-size SUV manufactured by Mopar starting in 2006. It is designed to provide off-road capability combined with spacious interior comfort for families and outdoor enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "47ce02d9-e0a7-4eac-a0eb-659eb49ba568",
+            "image": null,
+            "name": "Canon PowerShot G5 X Mark II",
+            "description": "The Canon PowerShot G5 X Mark II is a compact digital camera designed for photography enthusiasts, offering advanced features and high image quality in a portable format.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2386e61a-fcba-4cd0-a541-d212b5931b08",
+            "image": null,
+            "name": "Xiaomi Mi 10",
+            "description": "The Xiaomi Mi 10 series is a line of smartphones released in 2020, designed to deliver high-performance capabilities alongside advanced camera systems and sleek designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "377e5400-2957-4a89-89d8-c274d0a5d826",
+            "image": null,
+            "name": "Redmi Note 9 Pro Max",
+            "description": "The Xiaomi Redmi Note 9 Pro Max is a smartphone designed to deliver high performance and a versatile user experience, featuring a large display, powerful camera system, and long-lasting battery.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "9f851293-c01b-45ce-ab40-b04575725a2b",
+            "image": null,
+            "name": "Xiaomi Mi 10 Series (5G)",
+            "description": "The Xiaomi Mi 10 Series (5G) is a line of flagship smartphones launched in 2020, designed to deliver high performance with advanced camera capabilities and 5G connectivity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "057598fa-6c55-41f0-8d7e-6ab398c95a7a",
+            "image": null,
+            "name": "Xiaomi Mi 10 Pro",
+            "description": "The Xiaomi Mi 10 Pro is a flagship smartphone released in 2020, known for its advanced camera system, high-performance specifications, and premium design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "09821c18-30e2-49c0-90dc-c1863eaf2274",
+            "image": null,
+            "name": "Xiaomi 11T",
+            "description": "The Xiaomi 11T series features smartphones designed to deliver powerful performance and an enhanced multimedia experience, equipped with advanced camera systems and high-quality displays.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "6e420159-1d97-4e99-b480-1ba9050c9e72",
+            "image": null,
+            "name": "Buick Terraza",
+            "description": "The Buick Terraza is a minivan that was produced to provide spacious seating and family-oriented features, making it a practical choice for larger families and those in need of extra passenger and cargo space.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "e6878db7-8173-4762-802f-2fbd19d310f2",
+            "image": null,
+            "name": "Xiaomi Mi 11 Lite 5G",
+            "description": "The Xiaomi Mi 11 Lite 5G is a lightweight smartphone that offers 5G connectivity, a vibrant display, and a slim design, aimed at users seeking an affordable device without compromising on performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "67144a99-efa5-4c95-9e3e-02713dd85ffb",
+            "image": null,
+            "name": "Xiaomi Pad 5",
+            "description": "The Xiaomi Pad 5 is a tablet that combines productivity and entertainment, featuring a vibrant display and powerful performance aimed at both work and leisure activities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "ab077a4c-01d9-4752-a794-abaa94698051",
+            "image": null,
+            "name": "Xiaomi Mi Smart Band 7",
+            "description": "The Xiaomi Mi Smart Band 7 is a fitness tracker designed to monitor health and activity metrics, featuring a large display and multiple exercise modes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "71fd6ae6-48e4-4e16-9ae2-920a5d2cb8b6",
+            "image": null,
+            "name": "Allure",
+            "description": "The Buick Allure is a mid-size sedan known for its comfortable ride, spacious interior, and smooth handling, catering to drivers seeking a blend of luxury and practicality.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "a174f1b9-af60-4073-9e86-3e23b128addd",
+            "image": null,
+            "name": "Canon EOS M5",
+            "description": "The Canon EOS M5 is a mirrorless camera designed for photography enthusiasts, offering advanced features and excellent image quality in a compact body.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "944774cd-c1ac-4200-936f-b9fa076f0015",
+            "image": null,
+            "name": "Chrysler 300M",
+            "description": "The Chrysler 300M is a full-size luxury sedan produced by Mopar, known for its sleek design, spacious interior, and performance-oriented features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "30563a47-9f22-4c87-8360-e748938b6ffd",
+            "image": null,
+            "name": "Dodge Intrepid",
+            "description": "The Dodge Intrepid is a mid-size sedan produced by Mopar in the year 2000, known for its spacious interior, sleek design, and advanced features for its time.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "1933d7fa-c01c-4672-abe4-893db9a82a2d",
+            "image": null,
+            "name": "Dodge Stratus",
+            "description": "The 2000 Mopar Dodge Stratus is a mid-size car designed for comfortable daily driving, featuring a spacious interior and efficient engine options.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "7e986e2b-2ab5-4825-8a4d-efe7f920a067",
+            "image": null,
+            "name": "Jeep Grand Cherokee",
+            "description": "The Jeep Grand Cherokee, released by Mopar in 2000, is a mid-size luxury SUV known for its combination of off-road capability and everyday comfort, making it suitable for various terrains and driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "71ec7e21-12c5-47bb-a8a7-01573192aeea",
+            "image": null,
+            "name": "Jeep Wrangler",
+            "description": "The Jeep Wrangler is a compact SUV known for its off-road capabilities and rugged design, making it a popular choice among adventure enthusiasts since its release in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "723dc531-9065-4d66-a159-2b981f73e0d8",
+            "image": null,
+            "name": "Dodge Ram Pickup",
+            "description": "The Mopar Dodge Ram Pickup series, released in 2003, is known for its robust construction, powerful engine options, and versatility, serving as a reliable choice for both work and recreation.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "ccb1b76f-46f5-4679-a49b-d3afc314f299",
+            "image": null,
+            "name": "Chrysler 300C",
+            "description": "The Chrysler 300C is a full-size luxury sedan known for its bold design, spacious interior, and powerful engine options, offering a combination of comfort and performance for drivers.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "3b838ce2-edfb-466e-93e7-e33088bbb2f4",
+            "image": null,
+            "name": "Chrysler 300 (second generation)",
+            "description": "The Chrysler 300 (second generation), released in 2006, is a full-size sedan designed to provide a balance of luxury and performance, featuring a bold design and spacious interior.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "f6e1c4d9-5c80-467a-ad33-8cbc33812234",
+            "image": null,
+            "name": "Dodge Charger",
+            "description": "The Mopar Dodge Charger is a full-size sedan known for its powerful performance, distinctive styling, and rear-wheel-drive layout, making it a popular choice among muscle car enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "1e147194-20d9-49e8-8b7d-25b62e1d1be4",
+            "image": null,
+            "name": "Dodge Challenger",
+            "description": "The Dodge Challenger, part of the Mopar brand, is a muscle car known for its powerful performance and retro styling, offering a blend of modern technology and classic design elements since its relaunch in 2008.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "f1c24b4b-b0e7-4ce5-9b9d-f4f6b21d6d5e",
+            "image": null,
+            "name": "Chrysler 200",
+            "description": "The Chrysler 200 is a mid-size sedan that combines style with performance. It is designed for comfort and efficiency, catering to drivers who seek a refined driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "32bb6bef-2905-42e5-b67d-94da619c3644",
+            "image": null,
+            "name": "Canon EOS RP",
+            "description": "The Canon EOS RP is a full-frame mirrorless camera designed for both amateur and professional photographers, offering a compact design with advanced imaging capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bef428c0-a2aa-4121-8c5b-9e2939c84657",
+            "image": null,
+            "name": "Canon PowerShot G7 X Mark III",
+            "description": "The Canon PowerShot G7 X Mark III is a compact digital camera designed for vlogging and high-quality photography, featuring a 1-inch sensor and fast lens.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "99f583b9-b336-40c6-aa5b-665e7860834b",
+            "image": null,
+            "name": "Canon EOS 250D",
+            "description": "The Canon EOS 250D is a compact digital single-lens reflex (DSLR) camera designed for beginner photographers, featuring a user-friendly interface and advanced imaging capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a249a0b1-22dc-4c6d-b16a-31be121092ab",
+            "image": null,
+            "name": "Maruti Esteem",
+            "description": "The Maruti Esteem is a compact sedan launched in 2000 by Maruti Suzuki, known for its reliability and economical performance, catering to urban commuters looking for a practical vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        }
+    ]
+}

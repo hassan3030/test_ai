@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "701cced5-4ebd-4745-8c45-5383fd883af1",
+            "image": null,
+            "name": "Alfa Romeo Stelvio Quadrifoglio",
+            "description": "The Alfa Romeo Stelvio Quadrifoglio is a high-performance SUV that combines luxury and sportiness, featuring a powerful engine and agile handling for dynamic driving experiences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "8b79c81c-fb9a-4380-97db-02c738753718",
+            "image": null,
+            "name": "Alfa Romeo Giulia Quadrifoglio",
+            "description": "The Alfa Romeo Giulia Quadrifoglio is a high-performance sports sedan known for its powerful engine, sharp handling, and Italian design aesthetics, catering to driving enthusiasts seeking an exhilarating experience on both road and track.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "177ba7bc-7892-4ad1-82d4-e5de9e65b052",
+            "image": null,
+            "name": "Geely Englon SC7",
+            "description": "The Geely Englon SC7 is a compact sedan developed by the Chinese automaker Geely, primarily designed for the domestic market with a focus on affordability and practicality.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "24a84edd-32ca-457b-9f39-14186bb2eecf",
+            "image": null,
+            "name": "Geely Vision",
+            "description": "The Geely Vision is a series of compact cars designed for urban commuting, offering a balance of affordability and functionality since its introduction in 2002.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "b324e6e3-e292-4c36-8c11-36c1a1bcdba3",
+            "image": null,
+            "name": "Geely JL",
+            "description": "The Geely JL series, released in 2004, is a range of compact cars designed to provide affordable transportation options with a focus on efficiency and practicality.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "0f61d597-6a38-4b88-aee6-2d73176855b7",
+            "image": null,
+            "name": "Geely GE",
+            "description": "The Geely GE is a luxury sedan that was launched in 2007, designed to offer a blend of comfort, style, and advanced features for consumers seeking an affordable luxury vehicle.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "6e6bbaa0-7dec-4865-bd15-270d443050f0",
+            "image": null,
+            "name": "Geely GC9",
+            "description": "The Geely GC9 is a mid-sized sedan produced by the Chinese automaker Geely, known for its modern design, spacious interior, and a range of features aimed at providing a comfortable driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "ff02d393-4c6d-43c1-b861-c80d879361e1",
+            "image": null,
+            "name": "Emgrand X7",
+            "description": "The Geely Emgrand X7 is a compact SUV designed to provide a blend of comfort, performance, and style, making it suitable for urban and off-road driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "638e0563-8f12-4cae-9b70-bc6741ff2711",
+            "image": null,
+            "name": "Geely Emgrand GS",
+            "description": "The Geely Emgrand GS is a compact crossover SUV designed to offer an affordable option in the growing SUV market, combining modern styling with practical features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "2a3049dc-1786-4073-8d23-cc27ce052760",
+            "image": null,
+            "name": "Geely Emgrand 7 (EC7)",
+            "description": "The Geely Emgrand 7 (EC7) is a compact sedan produced by the Chinese automaker Geely, designed to offer affordable transportation with a focus on practicality and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "5758f7b2-678d-4a93-9161-ecb3cda4a5ff",
+            "image": null,
+            "name": "Geely Tugella",
+            "description": "The Geely Tugella is a mid-size SUV that combines contemporary design with advanced technology and a focus on delivering a comfortable driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "9b3075f3-df89-4c5c-9f7d-b6facc511aad",
+            "image": null,
+            "name": "Geely Emgrand L",
+            "description": "The Geely Emgrand L is a compact sedan designed to offer a balance of comfort, technology, and affordability for everyday urban driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "718c5d44-0c0b-4696-9074-88d52b22a78f",
+            "image": null,
+            "name": "Geometry A",
+            "description": "The Geely Geometry A is an all-electric sedan that emphasizes sustainability and modern design, featuring an advanced technological interface and a spacious interior.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "76e87155-e8b5-4148-92df-317a48cea005",
+            "image": null,
+            "name": "Geely Boyue X",
+            "description": "The Geely Boyue X is a mid-size SUV released in 2022, designed to offer a combination of practicality, comfort, and modern technology to meet the needs of urban drivers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "72f56ec6-246a-4092-9312-76b75647b957",
+            "image": null,
+            "name": "Maruti Suzuki Vitara",
+            "description": "The Maruti Suzuki Vitara is a compact SUV introduced in 2000, designed for urban and off-road driving with a focus on versatility and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "9427ba55-64ba-4aff-bf70-8dcb87a1a215",
+            "image": null,
+            "name": "SX4",
+            "description": "The Maruti Suzuki SX4 is a compact car produced since 2004, designed to provide a blend of practicality and comfort for urban commuting while offering ample interior space and a higher driving position.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "641e7b8b-f24c-4b5d-a12e-be5139b60639",
+            "image": null,
+            "name": "Maruti Suzuki Alto 800",
+            "description": "The Maruti Suzuki Alto 800 is a compact car designed for efficiency and urban mobility, known for its affordability and ease of maneuverability in city traffic.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "b505559c-8afd-4092-ba84-cfd95451762f",
+            "image": null,
+            "name": "Maruti Suzuki Swift Dzire",
+            "description": "The Maruti Suzuki Swift Dzire is a subcompact sedan that was first launched in 2008, known for its compact size, fuel efficiency, and practicality for urban commuting.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "afc9c9ba-cd17-461b-9e54-891b8d7fad72",
+            "image": null,
+            "name": "Maruti Suzuki Ertiga (Facelift)",
+            "description": "The Maruti Suzuki Ertiga (Facelift) is a compact MPV designed to provide a spacious interior and versatile seating arrangements, making it suitable for families and groups seeking comfort and functionality in urban environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "3b082be0-6ec7-489e-8877-36a0986e1216",
+            "image": null,
+            "name": "Maruti Suzuki Swift (Facelift)",
+            "description": "The Maruti Suzuki Swift (Facelift) is a compact hatchback known for its stylish design, efficient performance, and practicality. Released in 2013, it offers an updated look and various modern features to enhance the driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "a0576110-7790-4e38-b2b1-c7e140a8be24",
+            "image": null,
+            "name": "Maruti Suzuki S-Presso",
+            "description": "The Maruti Suzuki S-Presso is a compact car designed for urban mobility, featuring a distinctive SUV-inspired stance, spacious interior, and modern technology options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "96eab713-db1f-41be-a389-8cc6319f7001",
+            "image": null,
+            "name": "Rexton W",
+            "description": "The SsangYong Rexton W is a mid-size SUV known for its robust design and off-road capability, offering a spacious interior and advanced safety features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "dac7c563-1860-4dbd-8dbf-ea6974bca085",
+            "image": null,
+            "name": "Infinix Zero 8",
+            "description": "The Infinix Zero 8 is a smartphone series launched in 2020, known for its dual front cameras and high-performance specifications aimed at providing a balanced user experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "e5010a88-3351-4e1d-9be8-37cb350834f9",
+            "image": null,
+            "name": "Infinix Hot 10",
+            "description": "The Infinix Hot 10 is a budget smartphone released in 2020, designed to provide a reliable performance with a focus on large battery capacity and a vibrant display.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "1d4a94f3-bc0e-41e6-a431-6ac1c0d9a107",
+            "image": null,
+            "name": "Gionee A1 Plus",
+            "description": "The Gionee A1 Plus is a smartphone released in 2017, known for its dual-camera system and large battery capacity, aimed at providing enhanced photography and long usage times.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "588139c7-9e19-4e62-b1f6-34a2d456a5b8",
+            "image": null,
+            "name": "Micromax Evok Note",
+            "description": "The Micromax Evok Note is a smartphone series released in 2016, designed to offer a balance of performance and features at an affordable price point.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "ac4ae212-e800-4970-a1eb-3133838e3675",
+            "image": null,
+            "name": "Micromax Canvas Infinity",
+            "description": "The Micromax Canvas Infinity is a smartphone series launched in 2017, designed to offer a full-screen display experience and versatile photography features at an affordable price.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "60181806-82c5-4dd2-b716-12e07c756611",
+            "image": null,
+            "name": "Micromax Bharat 5 Pro",
+            "description": "The Micromax Bharat 5 Pro is a budget smartphone released in 2018, designed to provide essential features and strong battery life for everyday users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "81279ad6-9bf0-4933-9fd0-378e87b7d3d2",
+            "image": null,
+            "name": "Micromax In 1B",
+            "description": "The Micromax In 1B is a budget smartphone released in 2020, designed to provide essential smartphone features with a focus on affordability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "6bdf59fe-98c2-454a-8107-00539f1ecebd",
+            "image": null,
+            "name": "Intel Core 10th Generation",
+            "description": "The Intel Core 10th Generation series includes processors designed for high performance in both gaming and productivity tasks, featuring improved AI capabilities and enhanced graphics performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        }
+    ]
+}

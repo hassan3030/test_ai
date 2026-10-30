@@ -1,0 +1,374 @@
+{
+    "data": [
+        {
+            "id": "23e8dea0-526b-414a-9b3a-0d30400681d9",
+            "image": null,
+            "name": "Piaggio Beverly",
+            "description": "The Piaggio Beverly series is a line of scooters designed for urban mobility, offering a blend of style, comfort, and performance for daily commuting.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "2425d878-9295-4e0b-87c1-13ce36bb585e",
+            "image": null,
+            "name": "Maxi-Cosi 2wayPearl",
+            "description": "The Maxi-Cosi 2wayPearl is a versatile baby car seat designed for children from 9 months to 4 years, providing both rear and forward-facing options for enhanced safety and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "27ac4a70-ef4a-496c-8645-bdb6e6bf9d8f",
+            "image": null,
+            "name": "Smeg 50's Style Refrigerators",
+            "description": "The Smeg 50's Style Refrigerators combine retro aesthetic with modern refrigeration technology, designed to provide efficient cooling while enhancing kitchen décor.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "34cb486b-42de-4e45-9de7-311139f78c46",
+            "image": null,
+            "name": "Nike Sportswear Essentials",
+            "description": "The Nike Sportswear Essentials series features a range of men's clothing designed for comfort and style, ideal for both active and casual wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "436c1509-7bf0-453d-a1f2-f08a2d840590",
+            "image": null,
+            "name": "KTM 250 EXC",
+            "description": "The KTM 250 EXC is an off-road motorcycle designed for enduro riding, known for its lightweight construction and powerful engine, which provides excellent performance in challenging terrains.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "46a0c90f-381e-42e0-9206-22d7ad8732b2",
+            "image": null,
+            "name": "Dodo Juice Supernatural Wax",
+            "description": "Dodo Juice Supernatural Wax is a premium car wax designed to provide exceptional protection and a high gloss finish, enhancing the appearance of automotive paintwork.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "535b8d8e-7503-4a0c-803a-490c255f5979",
+            "image": null,
+            "name": "GE 24\" Built-In Dishwasher - Black Slate",
+            "description": "The GE 24\" Built-In Dishwasher - Black Slate is designed to provide efficient cleaning and drying performance, featuring a sleek black slate finish that complements modern kitchen aesthetics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "56d18d3a-9335-45df-90e6-a6907a95bdfd",
+            "image": null,
+            "name": "Maxi-Cosi Laika",
+            "description": "The Maxi-Cosi Laika series comprises lightweight and compact strollers designed for easy mobility and convenience for parents and their children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e973e912-c323-4a81-9349-fef83a17e1da",
+            "image": null,
+            "name": "Steelcase Gesture",
+            "description": "The Steelcase Gesture is an office chair designed to support a wide range of postures and movements, accommodating the diverse ways people work today.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6617c034-aa55-441c-8893-f49869f47c18",
+            "image": null,
+            "name": "Speed Triple 1050",
+            "description": "The Triumph Speed Triple 1050 is a performance-oriented naked motorcycle known for its powerful engine, agile handling, and distinctive styling, making it suitable for both urban commuting and sporty riding.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "7b8fa3ea-b9e1-4820-baa4-5378b76a3d73",
+            "image": null,
+            "name": "Smeg Steel Series",
+            "description": "The Smeg Steel Series features a range of stylish and high-performance refrigerators designed to blend contemporary aesthetics with advanced cooling technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ea7ab61d-4038-4925-9ce9-33506fb4d756",
+            "image": null,
+            "name": "Nintendo Switch OLED Model",
+            "description": "The Nintendo Switch OLED Model is an enhanced version of the original Nintendo Switch, featuring a larger, vibrant OLED screen for improved visuals and an adjustable stand for versatile tabletop play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ebd09673-0cc7-4627-a0e7-ba6e42c6a9a8",
+            "image": null,
+            "name": "Sprint GT",
+            "description": "The Triumph Sprint GT is a sport-touring motorcycle known for its balance of performance and comfort, making it suitable for long-distance riding as well as spirited rides.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "ed68f82d-0370-44a1-8daf-22a303dff415",
+            "image": null,
+            "name": "KTM 990 Super Duke",
+            "description": "The KTM 990 Super Duke is a street motorcycle known for its naked bike design, aggressive styling, and powerful V-twin engine, aimed at delivering a thrilling riding experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "8c44223e-f4f2-46b7-9306-9acbd95074b6",
+            "image": null,
+            "name": "Kawasaki VN1600 Vulcan Mean Streak",
+            "description": "The Kawasaki VN1600 Vulcan Mean Streak is a cruiser motorcycle known for its powerful V-twin engine, distinctive styling, and a balance of performance and comfort, catering to riders seeking a dynamic riding experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "a66d029a-9439-4703-a92e-d69a41f7b7ce",
+            "image": null,
+            "name": "Triumph Daytona 600",
+            "description": "The Triumph Daytona 600 is a sport motorcycle known for its agile handling and powerful performance, designed for riders looking for a thrilling riding experience on both the track and the road.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "f617773f-98a5-4d2a-ad85-dc11d47884da",
+            "image": null,
+            "name": "Nike Air Jordan 1 Retro High OG 2023",
+            "description": "The Nike Air Jordan 1 Retro High OG 2023 is a classic basketball sneaker known for its iconic silhouette, premium materials, and timeless style, making it suitable for both athletic performance and casual wear.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "af77136a-a36b-4c0a-bfc1-f445c91c0cb0",
+            "image": null,
+            "name": "Nike Dunks Low Retro 2023",
+            "description": "The Nike Dunks Low Retro 2023 is a sneaker designed for both casual and athletic use, featuring a low-top silhouette and classic style elements that pay homage to its heritage.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "ffb201af-8cf3-43f1-9075-0e0f13c4b84e",
+            "image": null,
+            "name": "Koenigsegg Jesko",
+            "description": "The Koenigsegg Jesko is a high-performance hypercar renowned for its cutting-edge engineering and design, aimed at delivering unprecedented speed and handling capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "9dd46407-923e-482c-8f64-b774f4a3d70f",
+            "image": null,
+            "name": "Luminox Navy SEAL Colormark Series",
+            "description": "The Luminox Navy SEAL Colormark Series is designed for reliability and visibility, featuring a durable build and self-powered illumination system, making it ideal for extreme conditions and underwater activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Luminox"
+            }
+        },
+        {
+            "id": "b43a695f-1104-45bf-8eaf-961d5d268d47",
+            "image": null,
+            "name": "Chevrolet Impala",
+            "description": "The Chevrolet Impala is a full-size sedan known for its spacious interior, comfortable ride, and reliability, making it a popular choice for families and individuals seeking a dependable vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "06b19327-1577-44d2-a017-62830871bee2",
+            "image": null,
+            "name": "Chevrolet Camaro (Fifth Generation)",
+            "description": "The Chevrolet Camaro (Fifth Generation) is a high-performance sports car known for its powerful engine options and aggressive styling, designed to provide an exhilarating driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "15827dd2-ac78-49e7-9cfd-a31e3efee585",
+            "image": null,
+            "name": "Dodo Juice Light Fantastic",
+            "description": "Dodo Juice Light Fantastic is a series of car care products designed to enhance and protect automotive surfaces, providing a high-gloss finish and improving cleanliness.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "1ce33d0f-5b69-4434-88d6-95917d2b2188",
+            "image": null,
+            "name": "Smeg Blender",
+            "description": "The Smeg Blender series features high-performance blenders designed to combine style and functionality, perfect for creating smoothies, soups, and sauces with ease.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3663fe43-cf48-45ab-8f1d-062496eb9d0a",
+            "image": null,
+            "name": "Xbox Wireless Controller (2020 Version)",
+            "description": "The Xbox Wireless Controller (2020 Version) is a versatile game controller designed for compatibility with Xbox consoles and Windows PCs, featuring enhanced ergonomics and a textured grip for improved comfort during long gaming sessions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "37ed9215-91dc-49c0-b4e2-8cc02f01bb05",
+            "image": null,
+            "name": "Chevrolet Silverado 1500 (New Generation)",
+            "description": "The Chevrolet Silverado 1500 (New Generation) is a full-size pickup truck designed for versatility, offering a combination of rugged performance and advanced technology, suitable for both work and daily driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "b4f97341-e37c-43e7-8b54-f6df5a8a38e9",
+            "image": null,
+            "name": "Maxi-Cosi AxissFix",
+            "description": "The Maxi-Cosi AxissFix is a versatile baby seat designed for safe and comfortable travel for children from 4 months to 4 years of age, featuring a 360-degree rotation for easy access and installation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bf8fc630-bbdf-4e0c-9732-0f5cb9e100ff",
+            "image": null,
+            "name": "MP3",
+            "description": "The Piaggio MP3 series, introduced in 2005, is a distinctive line of three-wheeled scooters designed to offer enhanced stability and safety along with a comfortable riding experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "c7615ea7-94da-4b7b-85c7-91cc7f18b28b",
+            "image": null,
+            "name": "Steelcase Series 1",
+            "description": "The Steelcase Series 1 is an ergonomic chair designed for versatility and comfort in office environments, featuring adjustable settings to support various body types and working styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5f6fd768-6041-4e29-9951-79fb4236dcac",
+            "image": null,
+            "name": "Chevrolet SS",
+            "description": "The Chevrolet SS is a full-sized performance sedan designed for power and handling, blending everyday usability with high-performance features.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        }
+    ]
+}

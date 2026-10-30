@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c1aa6072-8af4-424f-9e9e-0ec8ada26e11",
+            "image": null,
+            "name": "AirPods Pro",
+            "description": "Apple AirPods Pro are wireless in-ear headphones designed to deliver high-quality audio with active noise cancellation and transparency modes for an immersive listening experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "c44e5ff6-f59c-4cdb-ad5c-6d96cf1e699f",
+            "image": null,
+            "name": "Apple Watch Series 4",
+            "description": "The Apple Watch Series 4 is a smartwatch designed to help users track their health and fitness, featuring advanced health monitoring capabilities and a customizable interface.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "d647e7d4-9bd7-4176-a4bb-8edfabf485c8",
+            "image": null,
+            "name": "iPhone 8",
+            "description": "The Apple iPhone 8 is a smartphone that features a glass back, a Retina HD display, and improved camera capabilities. It is designed to deliver a powerful performance with Apple's A11 Bionic chip and supports wireless charging.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "ed8159a2-0d07-4d3d-af44-103e4c7dd30e",
+            "image": null,
+            "name": "iPhone 14 Pro",
+            "description": "The iPhone 14 Pro is a smartphone developed by Apple, released in 2022, known for its advanced camera system, powerful performance, and premium design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "f793c265-f903-4d47-a910-27259c523586",
+            "image": null,
+            "name": "Volkswagen Jetta (Sixth Generation)",
+            "description": "The Volkswagen Jetta (Sixth Generation) is a compact sedan known for its balance of performance, comfort, and practicality, making it a popular choice for urban commuting and family use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "6a3b5b46-23ca-4c2a-838d-fd0ffaeb289b",
+            "image": null,
+            "name": "MacBook Pro (13-inch, M2)",
+            "description": "The MacBook Pro (13-inch, M2) is a compact laptop designed for professionals and creatives, featuring Apple's M2 chip for enhanced performance and efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "767d8e8e-6184-450b-95f3-1d4aea23035b",
+            "image": null,
+            "name": "iPad Mini (6th generation)",
+            "description": "The Apple iPad Mini (6th generation) is a compact tablet designed for portability and versatility, featuring a powerful processor and a high-resolution display suited for various tasks including entertainment, reading, and productivity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "91b5ec72-89e6-4090-8a97-f7bd86b59114",
+            "image": null,
+            "name": "Ford Fusion",
+            "description": "The Ford Fusion is a mid-size car that combines style, comfort, and efficiency, catering to drivers looking for a reliable and versatile vehicle.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "9a356652-5701-4e00-9af1-a621efa0724b",
+            "image": null,
+            "name": "iPhone 15",
+            "description": "The Apple iPhone 15 series, released in 2023, features advanced technology aimed at enhancing user experience with improved performance and camera capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "9a5a542b-ce8a-4ca3-ae0a-8751844aed47",
+            "image": null,
+            "name": "AirPods (3rd generation)",
+            "description": "Apple AirPods (3rd generation) are wireless earbuds designed to deliver an immersive audio experience with features such as spatial audio, a customizable fit, and improved battery life.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "9a97dc00-632c-4bf2-acdc-ec62a7af694b",
+            "image": null,
+            "name": "HomePod mini",
+            "description": "The Apple HomePod mini is a compact smart speaker designed to deliver high-quality audio and smart home integration through voice control with Siri.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "b337494e-03b2-4fc7-a280-828a9f5ddbd3",
+            "image": null,
+            "name": "iPhone 12 Pro",
+            "description": "The iPhone 12 Pro is a smartphone designed by Apple, featuring a sophisticated design and advanced technology aimed at providing a high-quality user experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "bbc4c9c3-54c6-4826-8725-e04943912d63",
+            "image": null,
+            "name": "Apple Watch Series 5",
+            "description": "The Apple Watch Series 5 is a smartwatch designed to help users manage their health, fitness, and daily activities with features such as an always-on display and fitness tracking.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "cddf2127-aa73-49df-9bd5-a3ad8cd838fa",
+            "image": null,
+            "name": "iPad Air (4th generation)",
+            "description": "The iPad Air (4th generation) is a versatile tablet designed for productivity and creativity, featuring a large Retina display and powered by the A14 Bionic chip for enhanced performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "1ab7dc7c-6fd6-4c09-a52a-5c3f960a4976",
+            "image": null,
+            "name": "iPhone 15 Pro Max",
+            "description": "The iPhone 15 Pro Max is a premium smartphone designed by Apple, featuring advanced technology, a powerful processor, and high-quality camera capabilities, aimed at delivering a superior user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "1c618ede-261f-4b60-a481-50c0c762c24e",
+            "image": null,
+            "name": "iPhone 14 Plus",
+            "description": "The Apple iPhone 14 Plus is a smartphone that combines advanced technology with user-friendly features, offering improved battery life, a larger display, and enhanced camera capabilities compared to its predecessors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "21efa3cd-bef6-4e7e-a9c0-c63248162165",
+            "image": null,
+            "name": "AirPods Pro (2nd generation)",
+            "description": "The Apple AirPods Pro (2nd generation) are wireless earbuds that feature active noise cancellation, a customizable fit, and improved sound quality for an enhanced listening experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "31501072-f0e5-42c0-b0d4-29ce4336c9ee",
+            "image": null,
+            "name": "Apple Watch SE (2nd generation)",
+            "description": "The Apple Watch SE (2nd generation) is a versatile smartwatch designed for fitness tracking, health monitoring, and connectivity, offering a range of essential features at a more accessible price point.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "322e7c72-c10f-4ab2-bd4c-51932b3d22da",
+            "image": null,
+            "name": "iPhone 14 Pro Max",
+            "description": "The iPhone 14 Pro Max is a smartphone from Apple that combines advanced technology with a premium design, offering features such as a high-resolution display, powerful performance, and enhanced camera capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "3634c220-6e39-407e-93f9-e4c2879281ce",
+            "image": null,
+            "name": "iPhone 15 Pro",
+            "description": "The iPhone 15 Pro is a flagship smartphone from Apple, designed to offer advanced performance, a high-quality camera system, and a sleek, durable design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "50fc2a73-a9c2-4a18-89b9-3bd50e73fe1b",
+            "image": null,
+            "name": "iPad (9th generation)",
+            "description": "The Apple iPad (9th generation) is a versatile tablet designed for everyday tasks, entertainment, and productivity, featuring a powerful A13 Bionic chip and a 10.2-inch Retina display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "52296ede-049d-4b88-a22a-a73f9cacf17a",
+            "image": null,
+            "name": "Apple Watch Series 9",
+            "description": "The Apple Watch Series 9 is a smart watch designed for health tracking, fitness monitoring, and communication, featuring enhanced performance and new software capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "5f72b768-4d91-4d31-8ed3-fed9f8a5a56b",
+            "image": null,
+            "name": "Odyssey Neo G8",
+            "description": "The Samsung Odyssey Neo G8 is a high-performance gaming monitor designed to deliver immersive visuals and enhanced responsiveness for competitive gaming experiences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "e01e0da8-806b-4f97-a753-efe776596e70",
+            "image": null,
+            "name": "Galaxy Buds2",
+            "description": "The Samsung Galaxy Buds2 are true wireless earbuds that provide immersive sound quality and a comfortable fit, designed for an enhanced listening experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "6b8ca241-08ab-4641-a79e-599db0d8ec30",
+            "image": null,
+            "name": "Samsung Gear S2 Classic",
+            "description": "The Samsung Gear S2 Classic is a smart watch designed for fitness tracking and daily convenience, featuring a round design with a rotating bezel for easy navigation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "ecee7247-7237-49f6-b5b4-f33d48f8fc54",
+            "image": null,
+            "name": "Samsung Galaxy A Series",
+            "description": "The Samsung Galaxy A Series is a line of mid-range smartphones designed to offer a balance of performance, features, and affordability, catering to a wide range of users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "f8cb1ffa-0bb9-4085-8275-ef12a98e3973",
+            "image": null,
+            "name": "Samsung QLED 8K TV (2018)",
+            "description": "The Samsung QLED 8K TV (2018) series features cutting-edge Quantum Dot technology to deliver stunning 8K resolution, providing an immersive viewing experience with vibrant colors and exceptional detail.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "75863c32-c507-4de3-a1f0-495ebb3b6d9d",
+            "image": null,
+            "name": "Samsung The Frame 2020",
+            "description": "Samsung The Frame 2020 is a unique television designed to blend seamlessly into home decor, transforming into a piece of art when not in use. It features customizable frames and a gallery mode to showcase artwork and photographs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "8238ab78-13f8-4d3b-8316-94a246e50fad",
+            "image": null,
+            "name": "Galaxy J Series",
+            "description": "The Samsung Galaxy J Series consists of budget-friendly smartphones designed to offer essential features for everyday use, with an emphasis on functionality and reliability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "922ceb35-2a65-4760-a70f-19df19b643b5",
+            "image": null,
+            "name": "iPhone 14",
+            "description": "The Apple iPhone 14 is a smartphone released in 2022, known for its advanced camera capabilities, performance, and integration with the Apple ecosystem.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "edaae1f5-7cb3-4c59-a350-1406bb5d3f48",
+            "image": null,
+            "name": "Recaro Young Sport Hero",
+            "description": "The Recaro Young Sport Hero is a versatile baby seat designed for use from a toddler's first ride through approximately 12 years of age, combining safety, comfort, and ease of use for parents and children alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Recaro"
+            }
+        },
+        {
+            "id": "7413bd1e-3d38-45e9-b502-86c19a69ee28",
+            "image": null,
+            "name": "Haro Rival Series",
+            "description": "The Haro Rival Series is designed for riders seeking high-quality BMX performance with durable construction and responsive handling, suitable for both street and park environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "e4d9b39b-edee-40da-9b8f-849a61b6a3da",
+            "image": null,
+            "name": "Yamaha VMAX",
+            "description": "The Yamaha VMAX is a high-performance motorcycle renowned for its powerful V4 engine and distinctive styling. Designed for riders seeking exhilarating speed and a unique riding experience, it combines advanced engineering with a muscular aesthetic.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "ba7aec80-3987-43a2-8a4c-f0dc6d0f3af6",
+            "image": null,
+            "name": "Recaro Zero.1",
+            "description": "The Recaro Zero.1 is a versatile baby seat designed to provide safety and comfort for infants and toddlers, featuring a rotational base for easy installation and transitions between rearward and forward-facing positions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Recaro"
+            }
+        },
+        {
+            "id": "2a820457-71de-477d-b2ff-8d6c2a7b988e",
+            "image": null,
+            "name": "Kiddy Cruiserfix 3",
+            "description": "The Kiddy Cruiserfix 3 is a versatile child seat designed to ensure safety and comfort during travel for children aged approximately 3.5 to 12 years, featuring flexible adjustment options for both height and width.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "1f9635bc-2397-4de5-846e-db6fe53efe78",
+            "image": null,
+            "name": "Kiddy Evo-lunafix",
+            "description": "The Kiddy Evo-lunafix is a baby car seat designed for safety and comfort, featuring advanced protection systems and a user-friendly design for easy installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "492bed21-43cd-4907-8d1b-ea76b4f5db11",
+            "image": null,
+            "name": "Kiddy Phoenixfix 3",
+            "description": "The Kiddy Phoenixfix 3 is a toddler car seat designed to provide safety and comfort for children during car travel. It features innovative safety technologies and a lightweight design for easy installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "9eff90b7-b1af-4eba-b0df-25ca55b9c804",
+            "image": null,
+            "name": "Kiddy Guardianfix 3",
+            "description": "The Kiddy Guardianfix 3 is a versatile baby seat designed to provide safety and comfort for children during car travel. It features an innovative design that accommodates growing children from approximately 9 months to 12 years.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "f1366a9b-353b-48bf-9c0e-b2284a775593",
+            "image": null,
+            "name": "Kiddy City'n Move",
+            "description": "The Kiddy City'n Move series consists of lightweight strollers designed for urban mobility, providing convenience and comfort for parents and their children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "f042a529-931c-414e-b342-450ef4bda7a8",
+            "image": null,
+            "name": "Mima Xari",
+            "description": "The Mima Xari is a stylish and versatile stroller designed to accommodate infants and toddlers, featuring a unique modular design that allows for easy transitions between different seating configurations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mima"
+            }
+        },
+        {
+            "id": "c3bdbee9-f029-45b7-bfa9-d87dd0ed2f82",
+            "image": null,
+            "name": "Mima Kobi",
+            "description": "The Mima Kobi is a versatile stroller designed for growing families, offering the ability to accommodate one or two children with multiple seating configurations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mima"
+            }
+        },
+        {
+            "id": "fce9a383-3d2b-4c4e-832a-a257f5d7bc21",
+            "image": null,
+            "name": "Bumbo Multi Seat",
+            "description": "The Bumbo Multi Seat is a versatile baby seat designed to accommodate children from sitting up unassisted to approximately 36 months. It features adjustable straps, a removable bumper, and a soft foam cushion for comfort and safety.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Bumbo"
+            }
+        },
+        {
+            "id": "be419453-6bf3-4c83-b975-2e5ca4ae4d28",
+            "image": null,
+            "name": "Summer Infant 3Dlite Convenience Stroller",
+            "description": "The Summer Infant 3Dlite Convenience Stroller is a lightweight and portable stroller designed for easy maneuverability and convenience, making it ideal for on-the-go parents.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Summer Infant"
+            }
+        },
+        {
+            "id": "a69f68cc-30ad-4c8b-8333-59c796f131ed",
+            "image": null,
+            "name": "Summer Infant SwaddleMe Original Swaddle",
+            "description": "The Summer Infant SwaddleMe Original Swaddle is designed to help infants sleep better by providing a secure and comfortable swaddling experience, mimicking the feeling of being in the womb.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Summer Infant"
+            }
+        },
+        {
+            "id": "e632ed06-d507-4073-a4d7-dadda9591741",
+            "image": null,
+            "name": "Infantino Flip 4-in-1 Convertible Carrier",
+            "description": "The Infantino Flip 4-in-1 Convertible Carrier is a versatile baby carrier designed to safely transport infants and toddlers in multiple ways, providing comfort for both the wearer and the child.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "209fedf8-bba0-447d-b249-c485558e5423",
+            "image": null,
+            "name": "Infantino Balance. Baby™ Infant to Toddler Carrier",
+            "description": "Infantino Balance. Baby™ Infant to Toddler Carrier is designed to support infants and toddlers in a comfortable and ergonomic manner, promoting healthy hip development through various carrying positions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "6c4ddf1a-8dd7-49ea-bbd8-96c68c5e3fb0",
+            "image": null,
+            "name": "Graco Milestone 3-in-1 Car Seat",
+            "description": "The Graco Milestone 3-in-1 Car Seat is designed to provide safety and comfort for children from infancy through toddlerhood. It can be used in rear-facing, forward-facing, and booster seat modes, adapting to the needs of growing children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "5dc8a43f-b2ef-48c6-80a6-45e9f4757968",
+            "image": null,
+            "name": "Graco Modes 3 Lite DLX Travel System",
+            "description": "The Graco Modes 3 Lite DLX Travel System is a versatile stroller that combines a lightweight design with the convenience of a travel system, easily transitioning from stroller to car seat and back for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "e4a43906-d656-4c7f-bc1e-b6d2739440ff",
+            "image": null,
+            "name": "Graco 4Ever DLX 4-in-1 Car Seat",
+            "description": "The Graco 4Ever DLX 4-in-1 Car Seat is a versatile child safety seat designed to accommodate children from infancy through to the booster seat stage. It features four modes of use, ensuring longevity and adaptability as your child grows.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "05180168-12b8-48b9-85ae-8c4add60d771",
+            "image": null,
+            "name": "Graco Simply Safe Adjust Harness System",
+            "description": "The Graco Simply Safe Adjust Harness System is a series of baby seats designed to provide a secure and adjustable fit for children as they grow, ensuring safety and comfort during travel.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "13055014-8ae9-4fc5-8728-47d633a7994e",
+            "image": null,
+            "name": "OshKosh B’gosh Kids",
+            "description": "OshKosh B’gosh Kids offers durable and stylish clothing for children, designed to withstand everyday wear while providing comfort and flexibility for active play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "2ea682bd-d487-47df-bbdc-07095e44311d",
+            "image": null,
+            "name": "OshKosh B’gosh Fall/Winter 2018 Collection",
+            "description": "The OshKosh B’gosh Fall/Winter 2018 Collection features a variety of comfortable and stylish children's clothing designed for the cooler months, emphasizing durability and playful designs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "ee7bf08d-b8dc-4585-b486-3f1f80445762",
+            "image": null,
+            "name": "Kiddy Smartfix",
+            "description": "The Kiddy Smartfix is a baby seat designed to provide safety and comfort for infants and toddlers during travel. It features a unique installation system and advanced side protection technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "fb5eb4dd-fbe4-4cf6-8d0c-97485aeca832",
+            "image": null,
+            "name": "Infantino 4-in-1 Convertible Carrier",
+            "description": "The Infantino 4-in-1 Convertible Carrier is designed to provide parents with a versatile carrying solution that can be adjusted for multiple positions, ensuring comfort and support for both the caregiver and the child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "2caeee56-f50b-4c9f-a5b8-7a7efde96bff",
+            "image": null,
+            "name": "Infantino Go Forward 4-in-1 Evolved Ergonomic Carrier",
+            "description": "The Infantino Go Forward 4-in-1 Evolved Ergonomic Carrier is designed to provide parents with a comfortable and versatile option for carrying their babies. It can be used in four different carrying positions, promoting ergonomic support and bonding between parent and child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "44a02968-cccc-49f1-8ee5-96c88233227b",
+            "image": null,
+            "name": "Infantino Grow with Me Activity Gym",
+            "description": "The Infantino Grow with Me Activity Gym is a versatile play mat designed to engage and stimulate infants through interactive toys and textures, promoting sensory exploration and motor skills development.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "d921a505-b1b5-4342-a041-2b1f9a72359a",
+            "image": null,
+            "name": "Graco SnugRide SnugLock 30 Infant Car Seat",
+            "description": "The Graco SnugRide SnugLock 30 Infant Car Seat is designed to provide safety and comfort for infants during travel, featuring a unique SnugLock installation system for easy and secure setup in vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "da4e04e7-f102-48af-a470-2348e2a629d4",
+            "image": null,
+            "name": "Graco Affix Highback Booster Seat",
+            "description": "The Graco Affix Highback Booster Seat is designed to provide safety, comfort, and support for children transitioning from a car seat to a booster seat. Its adjustable features ensure a secure and comfortable fit as children grow.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "a50428d7-91da-4524-864c-eb6457738826",
+            "image": null,
+            "name": "Graco Simple Sway Swing",
+            "description": "The Graco Simple Sway Swing is designed to provide a soothing motion for infants, helping them relax and fall asleep. Its compact design makes it easy to move around the house.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "413232fe-6e4c-463f-91a7-783ba1e0e336",
+            "image": null,
+            "name": "Graco SlimFit3 LX",
+            "description": "The Graco SlimFit3 LX is a versatile baby seat designed to accommodate children from infancy through toddlerhood, offering multiple seating positions and adjustable features for safety and comfort.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        }
+    ]
+}

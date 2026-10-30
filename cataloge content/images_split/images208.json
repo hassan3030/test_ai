@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "49278b3b-429c-4964-8056-37b53625c19d",
+            "image": null,
+            "name": "Haba Little Friends",
+            "description": "Haba Little Friends is a charming toy series designed for creative play and imaginative storytelling, featuring a variety of adorable figure sets that promote social skills and fine motor development.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Haba"
+            }
+        },
+        {
+            "id": "ef282227-2bb9-4479-b9c1-b56cb773a1b1",
+            "image": null,
+            "name": "ReimaGO!",
+            "description": "ReimaGO! is a series designed to encourage active play among children by integrating smart technology with outdoor clothing, promoting mobility and physical activity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "ebd33b31-d6d6-4d3e-a9d6-4099a3606578",
+            "image": null,
+            "name": "Reima X",
+            "description": "Reima X is a collection of kids' clothing designed to provide protection and comfort in varying weather conditions, emphasizing superior durability and functionality for active play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "7e1c63cd-43dd-40d2-96eb-7a7801a3de0f",
+            "image": null,
+            "name": "Reima Reimatec",
+            "description": "The Reima Reimatec series offers high-quality, durable outerwear designed to keep children comfortable and protected in various weather conditions. These garments are suitable for active outdoor play, featuring waterproof and breathable materials.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "545614e7-2137-4b95-b253-e33996cd8065",
+            "image": null,
+            "name": "Reima XG",
+            "description": "Reima XG is a series of kids' clothing designed for active play, featuring durable materials and functional designs that support comfort and movement during outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "16d730b0-dd4d-4b5c-85d0-95b14c63bcee",
+            "image": null,
+            "name": "Reimatec",
+            "description": "Reimatec is a high-performance waterproof and breathable clothing series designed for active children, ensuring they stay dry and comfortable during outdoor activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "6d9a77f7-736f-49d6-976e-dd3a7bdac5b6",
+            "image": null,
+            "name": "Reima Spring/Summer 2021 Collection",
+            "description": "The Reima Spring/Summer 2021 Collection features a range of kids' clothing designed to provide comfort and protection during outdoor activities in warm weather, emphasizing breathability, durability, and playful designs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "56636ab3-fe30-4613-a64e-27fa8f1c2727",
+            "image": null,
+            "name": "Reima Autumn/Winter 2021 Collection",
+            "description": "The Reima Autumn/Winter 2021 Collection offers a range of functional and stylish clothing designed for children to keep them warm and comfortable during colder months.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "62609dd8-f526-4de2-8c77-02caac31a868",
+            "image": null,
+            "name": "Vertbaudet Summer Collection 2017",
+            "description": "The Vertbaudet Summer Collection 2017 features a range of stylish and comfortable kids' clothing designed for warm weather. This series prioritizes playful designs and breathable fabrics for active children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "c9349495-8785-4802-bc89-5d27117f750e",
+            "image": null,
+            "name": "Vertbaudet Winter Collection 2017",
+            "description": "The Vertbaudet Winter Collection 2017 features a range of kids' clothing designed for warmth and comfort during the colder months, combining practicality with playful designs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "6754a788-3228-4870-986d-6bab8cb03e54",
+            "image": null,
+            "name": "Kidizoom Smartwatch DX2",
+            "description": "The Kidizoom Smartwatch DX2 is a kids' smartwatch that combines fun and educational features, allowing children to explore digital experiences through games, cameras, and fitness tracking.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "772e3ad2-9cc4-49f8-9c91-bafb872278b6",
+            "image": null,
+            "name": "Kidizoom Action Cam",
+            "description": "The Kidizoom Action Cam is a kid-friendly digital action camera designed for children to capture and share their adventures and creativity through photos and videos.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "763b0b4e-a3a3-4119-8fb1-75f8ef1af22c",
+            "image": null,
+            "name": "Kidizoom Studio",
+            "description": "The Kidizoom Studio is a versatile toy series designed for children, offering a creative platform for photography, video recording, and editing to enhance their artistic expression.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "4df3d677-60a5-418e-849c-3b7f4ff56b33",
+            "image": null,
+            "name": "Kidizoom PrintCam",
+            "description": "The Kidizoom PrintCam is a children's camera designed to encourage creativity and exploration. It allows kids to take photos, apply fun effects, and print their images directly from the device.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "fbf369e1-322a-4bcb-96f3-9150e7288aa4",
+            "image": null,
+            "name": "Kidizoom Smartwatch DX3",
+            "description": "The Kidizoom Smartwatch DX3 is an interactive smartwatch designed for kids, featuring games, a camera, and educational content to encourage active learning and play.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "14ccc3ab-3bd2-4079-acb3-db96e7bd4423",
+            "image": null,
+            "name": "The Little Heroes Collection",
+            "description": "The Little Heroes Collection by Wonderbly features personalized children's books that celebrate bravery, kindness, and the imaginative spirit in young readers. Each story places children in the center of an exciting adventure, fostering a love for reading and self-identity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "63c5004c-ba86-4e00-a1ee-5a7ace5288ef",
+            "image": null,
+            "name": "The Personalized Adventure Series",
+            "description": "The Personalized Adventure Series by Wonderbly offers a unique, customizable reading experience for children, allowing them to become the hero of their own story.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "3eb567ed-e532-4374-b641-cde3b0989f9e",
+            "image": null,
+            "name": "Personalized Storybooks",
+            "description": "Wonderbly's Personalized Storybooks allow children to see themselves as the main character in their very own adventures, promoting literacy and creativity through personalized narratives.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "f5858f30-1af1-42d4-a730-af9230284dfd",
+            "image": null,
+            "name": "The Little Adventures of You",
+            "description": "The Little Adventures of You is a personalized children's book series by Wonderbly, which encourages imaginative storytelling by incorporating the child's name and likeness into enchanting tales and adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "a8a12735-54cd-426a-8201-e41ec2ab16ed",
+            "image": null,
+            "name": "The Wonderbly Book of You",
+            "description": "The Wonderbly Book of You is a personalized children's book that celebrates the individuality of each child by featuring their name and unique characteristics in a charming narrative.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "06bfa78e-8495-48b5-8028-cd39e58f8b33",
+            "image": null,
+            "name": "The Little Adventurer",
+            "description": "The Little Adventurer series by Wonderbly offers personalized children's books that encourage creativity and exploration through engaging stories tailored to the child's name and interests.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "fb607d64-3503-49df-90da-523e98de55e4",
+            "image": null,
+            "name": "Magnetic Animals",
+            "description": "Janod's Magnetic Animals series features colorful wooden animal figures that can be easily assembled and disassembled, fostering creativity and fine motor skills in children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Janod"
+            }
+        },
+        {
+            "id": "1e38b0c9-f0b5-4ce0-9689-067a72d109a5",
+            "image": null,
+            "name": "Pioneer DVD Receivers",
+            "description": "The Pioneer DVD Receivers series consists of car audio systems designed to provide high-quality audio and video playback capabilities, enhancing the in-car entertainment experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "7741dab9-d987-4896-ae01-e08a45e4acdb",
+            "image": null,
+            "name": "Chevrolet Silverado 2500HD",
+            "description": "The Chevrolet Silverado 2500HD is a heavy-duty pickup truck designed for superior towing capacity and robust performance, making it ideal for both work and recreational use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "87482bce-d15f-4655-b26d-1fd249a4b700",
+            "image": null,
+            "name": "Chevrolet Corvette Z06",
+            "description": "The Chevrolet Corvette Z06 is a high-performance sports car designed for speed and agility, featuring a powerful engine and advanced aerodynamic features for enhanced handling on the track.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "0df69eec-05af-46e4-ae8a-7a79c65026bf",
+            "image": null,
+            "name": "Gallardo Superleggera",
+            "description": "The Lamborghini Gallardo Superleggera is a lightweight variant of the Gallardo, designed for enhanced performance and agility, featuring a powerful V10 engine and a focus on aerodynamics.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "cdfb93f6-17a5-4b7b-8934-c8c8f215b11c",
+            "image": null,
+            "name": "Lamborghini Aventador S",
+            "description": "The Lamborghini Aventador S is a high-performance supercar known for its powerful V12 engine, advanced aerodynamics, and cutting-edge technology, designed to offer an exhilarating driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "61f19959-814d-4754-b429-0a35ec287fac",
+            "image": null,
+            "name": "Prime Series amplifiers",
+            "description": "The Rockford Fosgate Prime Series amplifiers are designed to provide reliable, high-performance amplification for car audio systems, ensuring powerful sound quality and durability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "2b2d3987-b0f3-4c67-b417-c2ce20eaee34",
+            "image": null,
+            "name": "Power T2",
+            "description": "The Rockford Fosgate Power T2 series includes high-performance car audio speakers and amplifiers designed to deliver maximum sound quality and powerful output for automotive audio systems.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "706ced2b-6f88-4ece-ab41-cb1fd1247dab",
+            "image": null,
+            "name": "Lamborghini Murciélago",
+            "description": "The Lamborghini Murciélago is a high-performance sports car that was first introduced in 2001, known for its striking design and powerful V12 engine, appealing to enthusiasts seeking speed and luxury.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        }
+    ]
+}

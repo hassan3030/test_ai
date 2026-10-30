@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "82a92a30-e5eb-4e9a-9011-b4ae60cb1134",
+            "image": null,
+            "name": "Lexus RX 330",
+            "description": "The Lexus RX 330 is a midsize luxury SUV that offers a combination of comfort, reliability, and advanced features, making it suitable for families and individuals seeking a refined driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "c3ad43d8-eb4d-4438-921b-33605a6093d1",
+            "image": null,
+            "name": "Hyundai Elantra GT",
+            "description": "The Hyundai Elantra GT is a compact five-door hatchback known for its balanced handling, spacious interior, and fuel efficiency, making it a practical choice for daily commuting and urban driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "23259bde-a399-414f-93db-776dc91f1e81",
+            "image": null,
+            "name": "Hyundai Sonata (2006 Model Year)",
+            "description": "The Hyundai Sonata (2006 Model Year) is a mid-size sedan known for its blend of comfort, technology, and value, aimed at consumers seeking a reliable and efficient vehicle.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "26fa86e8-8420-4e92-a0bb-37e5f4b2111f",
+            "image": null,
+            "name": "Hyundai Accent",
+            "description": "The Hyundai Accent is a subcompact car that aims to provide economical and reliable transportation for urban and suburban drivers. Known for its fuel efficiency and compact size, it is suitable for city driving while offering essential features for comfort and convenience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "2d4b36da-68f7-4f7b-ba99-210d876ba00e",
+            "image": null,
+            "name": "Hyundai Tiburon",
+            "description": "The Hyundai Tiburon is a compact sports coupe designed for drivers seeking a stylish, affordable vehicle with sporty performance and agility.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "5740c529-5bf4-4ff4-806d-c9e3d7b368b4",
+            "image": null,
+            "name": "Hyundai Elantra (2011 Model)",
+            "description": "The Hyundai Elantra (2011 Model) is a compact car designed for fuel efficiency and practicality, offering a comfortable ride with modern features and a spacious interior.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "5ca3e9d7-d8b9-4024-a8f8-aac00dbff844",
+            "image": null,
+            "name": "Hyundai Veracruz",
+            "description": "The Hyundai Veracruz is a mid-size SUV released in 2007, designed to provide a spacious interior, comfortable ride, and strong safety features, making it ideal for families and long-distance travel.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "5dd7445c-bcff-4d35-9052-02eb8db41c79",
+            "image": null,
+            "name": "Ford F-150 Lightning",
+            "description": "The Ford F-150 Lightning is an all-electric pickup truck designed to offer robust performance and functionality, making it suitable for both work and personal use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "5f4e4aac-212e-4589-a582-9487bb042a8a",
+            "image": null,
+            "name": "Hyundai Elantra Touring",
+            "description": "The Hyundai Elantra Touring is a compact wagon introduced in 2008, designed to offer versatile cargo space and comfort for daily commuting and family use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "c4361bc7-c31a-49e4-8c14-6368cc1efc62",
+            "image": null,
+            "name": "Ford Bronco Raptor",
+            "description": "The Ford Bronco Raptor is a high-performance SUV designed for off-road adventures, combining robust capability with modern technology and aggressive styling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "cfb49a50-e005-4531-b3b2-5ed1f0081ab7",
+            "image": null,
+            "name": "Hyundai Getz",
+            "description": "The Hyundai Getz is a compact car introduced in 2002, known for its practicality, affordability, and efficient use of space, making it suitable for urban driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "da98320a-681e-4dcf-9228-8718448c54ce",
+            "image": null,
+            "name": "KULLEN",
+            "description": "The KULLEN series from IKEA consists of functional and versatile wardrobes designed to provide ample storage space while maintaining a contemporary look.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "ed34ee24-ba25-4800-bda5-2c1f01436be6",
+            "image": null,
+            "name": "Kawasaki Z1000",
+            "description": "The Kawasaki Z1000 is a naked motorcycle designed for power and agility, first released in 2003, combining modern styling with sporty performance for urban riding.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "64d04310-7716-4841-850d-af89c675b4eb",
+            "image": null,
+            "name": "Hyundai Sonata (2020 Generation)",
+            "description": "The Hyundai Sonata (2020 Generation) is a midsize sedan designed for comfort, efficiency, and advanced technology, making it suitable for daily commuting and family use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "68006781-fff4-4fd6-afa3-26092dd54dd4",
+            "image": null,
+            "name": "Hyundai Nexo",
+            "description": "The Hyundai Nexo is a hydrogen fuel cell vehicle designed for environmentally conscious consumers seeking zero-emission driving solutions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "85f713e7-df0a-4621-ba26-6547587fabe0",
+            "image": null,
+            "name": "Yu-Gi-Oh! Duel Links",
+            "description": "Yu-Gi-Oh! Duel Links is a digital collectible card game developed by Konami, allowing players to duel against each other using a vast array of cards from the Yu-Gi-Oh! universe.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d3b00ffa-bd63-4050-b1e3-8f9b551e6283",
+            "image": null,
+            "name": "Norton V4 RR",
+            "description": "The Norton V4 RR is a high-performance motorcycle designed for enthusiasts seeking advanced engineering and cutting-edge technology, featuring a powerful V4 engine and a racing-inspired design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "f7a297ef-f5d0-4e1f-adfb-1a68921796c3",
+            "image": null,
+            "name": "Dodge Dart",
+            "description": "The Dodge Dart is a compact car that combines sporty design with practicality, aiming to provide an engaging driving experience and efficient fuel economy.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "f9805f33-7052-49ab-b75e-882800cadab6",
+            "image": null,
+            "name": "Simoniz 3-in-1 Wash & Wax",
+            "description": "Simoniz 3-in-1 Wash & Wax is a car care product designed to clean, shine, and protect vehicle surfaces in one easy step.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "7ff0565b-4cea-4ec3-9519-7da775b2c1c6",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-6R",
+            "description": "The Kawasaki Ninja ZX-6R is a sport motorcycle designed for performance, agility, and rider feedback, making it suitable for both track and street riding.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "07ba6d78-38ee-4201-8b43-85e66c5f8cf2",
+            "image": null,
+            "name": "Vespa Primavera 50",
+            "description": "The Vespa Primavera 50 is a lightweight scooter designed for urban commuting, characterized by its stylish design and agility, making it easy to navigate busy city streets.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "1111aa4e-45bd-415b-a085-21d64af3ecc1",
+            "image": null,
+            "name": "Bimota DB5",
+            "description": "The Bimota DB5 is a limited-production motorcycle known for its distinctive styling and performance-oriented design, embodying the combination of Italian craftsmanship and advanced engineering.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "15ad2de3-2007-4402-a1d0-2077e0842cbe",
+            "image": null,
+            "name": "Simoniz Liquid Wax",
+            "description": "Simoniz Liquid Wax is a high-performance car care product designed to provide a brilliant shine and long-lasting protection for your vehicle's paintwork.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "1e89bd38-5fcf-45a1-8def-5a221a9584d9",
+            "image": null,
+            "name": "Dior Accessories Spring 2021 Line",
+            "description": "The Dior Accessories Spring 2021 Line features a curated collection of luxury accessories designed to complement the Spring 2021 fashion collection, emphasizing elegance and sophistication.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "24bb753f-320a-4dc6-a98b-56893f120acb",
+            "image": null,
+            "name": "Cuisinart Precision Master 5.5-Quart Stand Mixer",
+            "description": "The Cuisinart Precision Master 5.5-Quart Stand Mixer is a versatile kitchen appliance designed for mixing, whipping, and kneading various ingredients with precision. Its powerful motor and multiple attachments make it an ideal choice for both home bakers and professional chefs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2605c566-13b9-4c1b-951d-cbb8e2f174dd",
+            "image": null,
+            "name": "Vespa 75th Anniversary Series",
+            "description": "The Vespa 75th Anniversary Series celebrates the iconic scooter brand's 75th anniversary with special edition models that feature unique design elements and heritage-inspired details.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "2cca8ab2-241f-479d-b6bf-cd068d6350c6",
+            "image": null,
+            "name": "Kawasaki VN1600 Vulcan Classic",
+            "description": "The Kawasaki VN1600 Vulcan Classic is a cruiser motorcycle known for its classic styling and comfortable ride, designed for long-distance cruising and leisurely travel.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "306a47f2-f9d9-4241-9130-29f6e439a9db",
+            "image": null,
+            "name": "Kawasaki Vulcan 900",
+            "description": "The Kawasaki Vulcan 900 is a cruiser motorcycle series designed for comfort and versatility, featuring a mid-size engine that balances performance and manageability for both new and experienced riders.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "30955b2b-17b1-4388-b814-188559d45092",
+            "image": null,
+            "name": "Vardagen",
+            "description": "The Vardagen series by IKEA includes a variety of tables designed to offer classic style and versatility. Ideal for dining or workspace solutions, these tables emphasize durability and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "441ef1a8-fd19-4164-afb7-e72be64a4eae",
+            "image": null,
+            "name": "Nike React",
+            "description": "The Nike React series features innovative sneakers designed for comfort and responsiveness, utilizing React foam technology to provide a smooth ride and adaptive cushioning for various activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        }
+    ]
+}

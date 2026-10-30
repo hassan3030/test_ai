@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "9d8ee096-0e63-4622-97cb-8ec95fc799b5",
+            "image": null,
+            "name": "Bajaj Pulsar N250",
+            "description": "The Bajaj Pulsar N250 is a modern motorcycle designed for urban commuting and styled for performance, featuring a powerful engine and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "6579ab48-5e36-4e57-8a3b-25418e3e0ece",
+            "image": null,
+            "name": "Givi Trekker 52",
+            "description": "The Givi Trekker 52 is a robust motorcycle top case designed for riders seeking ample storage capacity and durability for long journeys. Its distinctive design and weatherproof construction make it suitable for various adventure riding conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "18349615-539b-474a-a79b-82d6dfafd311",
+            "image": null,
+            "name": "Suzuki GSX-R",
+            "description": "The Suzuki GSX-R series is a line of high-performance sport motorcycles designed for speed, agility, and handling, catering to both track and street enthusiasts since its inception in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "93b7e8bc-9b38-455d-a4a5-dcdb661eafc0",
+            "image": null,
+            "name": "Gixxer",
+            "description": "The Suzuki Gixxer is a series of motorcycles known for their sporty design and performance, specifically aimed at the youth market seeking an agile and responsive riding experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "c9b565dd-2405-4fba-acd6-c77e58670138",
+            "image": null,
+            "name": "Gixxer SF",
+            "description": "The Suzuki Gixxer SF is a fully-faired motorcycle designed for sport performance and aesthetic appeal, catering to riders seeking a blend of style and functionality.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "016d7aa0-619c-475a-8878-de87065306eb",
+            "image": null,
+            "name": "Inazuma 250",
+            "description": "The Suzuki Inazuma 250 is a lightweight commuter motorcycle designed for urban riding with a focus on efficiency and comfort. It features a modern design and is aimed at beginner riders or those seeking a practical, everyday motorcycle.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki Motorcycle India"
+            }
+        },
+        {
+            "id": "9e050fba-c956-457c-a473-59824548eef7",
+            "image": null,
+            "name": "CB1000R",
+            "description": "The Honda CB1000R is a sport naked motorcycle known for its powerful engine, agile handling, and stylish design, aimed at enthusiasts seeking a blend of performance and everyday usability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "e50cad29-5a88-4fd1-b532-0dcb6b89731f",
+            "image": null,
+            "name": "Honda CBR250R",
+            "description": "The Honda CBR250R is a sport motorcycle designed for beginner and intermediate riders, offering a balance of performance, handling, and efficiency for everyday use and casual riding.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "40d32def-416f-4f6f-9b80-3c7825c8d76f",
+            "image": null,
+            "name": "Honda Dream Yuga",
+            "description": "The Honda Dream Yuga is a commuter motorcycle designed for efficiency and reliability, catering primarily to urban riders in India since its release in 2010.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "68245e50-efe5-4838-a30a-8b27b3a0e49f",
+            "image": null,
+            "name": "Honda CB500F",
+            "description": "The Honda CB500F is a versatile naked motorcycle designed for urban commuting and weekend rides, offering a balance of performance and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "2a2463bd-e877-4bf5-a9d0-59d253c8d62f",
+            "image": null,
+            "name": "Honda CB500X",
+            "description": "The Honda CB500X is a versatile motorcycle designed for adventure touring, featuring a blend of sporty performance and comfort for long-distance rides.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "d108f7e5-f899-4dc2-9d4e-bddf3c6ca8c2",
+            "image": null,
+            "name": "Honda CRF1000L Africa Twin",
+            "description": "The Honda CRF1000L Africa Twin is an adventure motorcycle known for its off-road capabilities and comfort on long journeys, featuring a balanced blend of ruggedness and versatility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "0e0d56c2-2866-4a47-9334-ec529c0449bf",
+            "image": null,
+            "name": "Honda CB350 Series",
+            "description": "The Honda CB350 Series is a line of motorcycles that combines classic styling with modern technology, aimed at offering a smooth riding experience for enthusiasts and commuters alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "b9e72146-7ccf-4408-913d-fa290318ca7d",
+            "image": null,
+            "name": "Honda Rebel 500",
+            "description": "The Honda Rebel 500 is a mid-sized cruiser motorcycle designed for both new and experienced riders, offering a blend of style, comfort, and easy handling.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "312d5ddb-3f96-4d38-a1e5-a297e65bcc69",
+            "image": null,
+            "name": "Honda CBR650R",
+            "description": "The Honda CBR650R is a sport motorcycle that combines performance with everyday usability, offering a powerful engine, sporty design, and advanced features for both new and experienced riders.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "cf731d80-2af8-47f6-938d-112c1c137f6b",
+            "image": null,
+            "name": "Joie flex 2",
+            "description": "The Joie flex 2 is a versatile stroller series designed for convenience and comfort, featuring multiple seating positions and easy maneuverability for parents on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cfafef9b-12fc-4ef9-8590-b03b3f5f3e96",
+            "image": null,
+            "name": "Bose Noise Cancelling Headphones 700",
+            "description": "The Bose Noise Cancelling Headphones 700 are over-ear headphones designed to provide exceptional sound quality and industry-leading noise cancellation. They feature a comfortable design and intuitive controls, making them suitable for both everyday use and travel.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d1ad25b8-3472-4dff-9f61-d15e41e175c5",
+            "image": null,
+            "name": "Turtle Wax Green Line",
+            "description": "The Turtle Wax Green Line series offers eco-friendly car care products designed to deliver effective cleaning and protection while minimizing environmental impact. Launched in 2012, these products combine biodegradable formulas with high-performance results.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "d1d1464a-7aa0-4e91-aab8-34960bc6ac3d",
+            "image": null,
+            "name": "Tuono V4 1100 RR",
+            "description": "The Aprilia Tuono V4 1100 RR is a high-performance naked motorcycle known for its powerful V4 engine and advanced electronic features, designed for both track and street performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "d2e860ed-7d9d-4249-9de0-92ec74436d87",
+            "image": null,
+            "name": "Dacia Sandero (Third Generation)",
+            "description": "The Dacia Sandero (Third Generation) is a compact car designed for practicality and affordability, aiming to provide a reliable and efficient mobility solution for urban drivers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "d377e4f3-b622-44f3-94ac-b1d24f14f922",
+            "image": null,
+            "name": "LEGO Technic 42100 Cat D11 Bulldozer",
+            "description": "The LEGO Technic 42100 Cat D11 Bulldozer is a detailed construction model that allows builders to experience the realistic mechanisms of a bulldozer, featuring advanced functions such as remote control operation and articulated elements.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "d480b0bb-b849-43da-87e3-67554def683b",
+            "image": null,
+            "name": "Geely Emgrand GT",
+            "description": "The Geely Emgrand GT is a luxury sedan that combines modern design with advanced technology, aimed at providing a comfortable driving experience for both the driver and passengers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "65c35cae-bd5b-472b-8c81-c31c99c003bc",
+            "image": null,
+            "name": "Škoda Citigo-e iV",
+            "description": "The Škoda Citigo-e iV is an all-electric city car designed for urban mobility, offering compact dimensions and efficient performance for everyday commuting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "59234641-a2a3-4231-8861-b9a896221e96",
+            "image": null,
+            "name": "Skoda Fabia",
+            "description": "The Skoda Fabia is a compact car designed for urban mobility, offering a blend of practicality, efficiency, and modern technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "708dccfa-0be1-4399-a791-a51e84f9403e",
+            "image": null,
+            "name": "Skoda Enyaq",
+            "description": "The Skoda Enyaq is an all-electric SUV introduced in 2022, designed to combine sustainable mobility with spaciousness, comfort, and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "d52e21cd-cebb-495a-aa16-534b285084a9",
+            "image": null,
+            "name": "Dodo Juice Purple Haze",
+            "description": "Dodo Juice Purple Haze is a premium car wax designed to enhance the depth and clarity of paintwork while providing durable protection against environmental elements. It is particularly suited for darker colored cars, delivering a glossy finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "d5934af3-29f8-44c7-bcfc-5cc82a293e05",
+            "image": null,
+            "name": "Pagani Zonda R",
+            "description": "The Pagani Zonda R is a track-focused supercar that exemplifies extreme performance and engineering excellence, designed for motorsport enthusiasts and collectors alike.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "d61586fc-1539-4a86-adad-d3172d2f3b4d",
+            "image": null,
+            "name": "Bajaj Discover 125 ST",
+            "description": "The Bajaj Discover 125 ST is a motorcycle designed for urban commuting, offering a balance of performance and fuel efficiency. With a sporty design and advanced features, it caters to riders seeking both style and practicality.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "f9e14687-4833-48f9-b9ab-a811fdbbad4d",
+            "image": null,
+            "name": "Renault Laguna II",
+            "description": "The Renault Laguna II is a mid-size car produced by Renault, launched in 2000, known for its comfortable ride and innovative features aimed at enhancing driver experience and safety.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "53eb82b3-2255-40cf-b0ac-2d9792c3d597",
+            "image": null,
+            "name": "Renault Thalia",
+            "description": "The Renault Thalia is a subcompact car that was launched in 2001, designed to provide a practical and economical solution for urban transportation.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        }
+    ]
+}

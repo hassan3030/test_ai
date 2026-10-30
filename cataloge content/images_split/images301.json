@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e01069d1-ce36-465a-9b8e-e11cf1afea51",
+            "image": null,
+            "name": "Hella ValueFit",
+            "description": "Hella ValueFit series offers high-quality car parts designed to deliver reliable performance at an affordable price. This series focuses on essential components that meet industry standards for durability and functionality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "2406abf2-4c9a-4805-abc1-39b5324fe722",
+            "image": null,
+            "name": "Honor Magic V",
+            "description": "The Honor Magic V is a foldable smartphone series released in 2022, designed to offer a versatile user experience with its innovative design and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "778f4c06-4112-4e06-9506-f3e34e23990a",
+            "image": null,
+            "name": "JBL Xtreme 3",
+            "description": "The JBL Xtreme 3 is a portable Bluetooth speaker designed for powerful sound and deep bass, making it suitable for outdoor activities and parties.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "5323a8cc-6e6f-42b7-9c6a-2087d0ce0471",
+            "image": null,
+            "name": "Soft99 Scratch Clear",
+            "description": "Soft99 Scratch Clear is a car care product series designed to effectively remove scratches and scuffs from vehicle surfaces, restoring them to their original appearance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "6591ab81-088d-462a-a196-ca2209d9a7a5",
+            "image": null,
+            "name": "Kidoozie Build-a-Buddy",
+            "description": "Kidoozie Build-a-Buddy is a creative construction toy series designed for young children, encouraging imaginative play and fine motor skill development through building and assembling colorful buddy characters.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidoozie"
+            }
+        },
+        {
+            "id": "93a0a9ac-3505-4ba1-a76a-c76546095908",
+            "image": null,
+            "name": "Chevrolet Equinox (2022)",
+            "description": "The Chevrolet Equinox (2022) is a compact SUV designed to offer a comfortable ride, advanced safety features, and efficient fuel economy, making it suitable for families and everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "77d34be5-0ce6-48d1-8f87-d5cfd6065bdb",
+            "image": null,
+            "name": "GMC Sierra Classic",
+            "description": "The GMC Sierra Classic is a full-size pickup truck that was designed for both work and recreational use, offering a balance of utility, comfort, and performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "e9cf088a-5e1d-47a3-9a43-d2d46a16fa32",
+            "image": null,
+            "name": "Soft99 Car Clear Coat",
+            "description": "Soft99 Car Clear Coat is a protective coating designed to enhance and preserve the appearance of automotive paint. Its key purpose is to provide a durable layer of protection against environmental contaminants, UV rays, and minor scratches.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "1b653ad3-ba2a-4a0e-b1cc-0c9b266c3a77",
+            "image": null,
+            "name": "Kidoozie Tumble Train",
+            "description": "The Kidoozie Tumble Train is an engaging toy designed to captivate young children with its colorful train that tumbles and rolls, promoting imaginative play and fine motor skills development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidoozie"
+            }
+        },
+        {
+            "id": "cde16fc8-76ec-424b-80bb-f37c2072dee8",
+            "image": null,
+            "name": "Infinix Hot 5",
+            "description": "The Infinix Hot 5 is a smartphone series launched in 2017, designed to provide an affordable mobile experience with key features such as a large display and ample battery life, catering primarily to budget-conscious consumers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "c75af010-cdfc-454a-bc8c-d97297ab58e0",
+            "image": null,
+            "name": "Soft99 Shine Boost",
+            "description": "Soft99 Shine Boost is a line of car care products designed to enhance and maintain the shine of your vehicle's exterior. These products are formulated for quick application and deliver a high-gloss finish while protecting paint surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "a59e5d21-7d81-47eb-9baf-a8ca2629c50b",
+            "image": null,
+            "name": "Santa Cruz VX",
+            "description": "The Santa Cruz VX series features skateboards designed for durability and performance, utilizing advanced materials for enhanced pop and responsiveness.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "53a49dc9-9786-4fbb-a901-6cb4dbdaacf3",
+            "image": null,
+            "name": "Techno XT",
+            "description": "The Maclaren Techno XT is a lightweight, multi-position stroller designed for infants and children up to 55 lbs, featuring a compact fold, extendable leg rest, and a robust sun canopy.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "7ab39fe8-cea1-475a-91ae-cc7326e3ee09",
+            "image": null,
+            "name": "Yakima Q Towers",
+            "description": "The Yakima Q Towers are roof rack towers designed to provide a secure and adjustable mounting solution for carrying various types of gear on vehicles without factory-installed roof rails.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "be90c20d-3f4a-4f71-aa96-546f3b5db8d3",
+            "image": null,
+            "name": "Insignia 12 Cup Coffee Maker",
+            "description": "The Insignia 12 Cup Coffee Maker is designed to brew up to 12 cups of coffee at once, making it ideal for households or small offices. Its user-friendly features include a programmable timer and a pause-and-serve function.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Insignia"
+            }
+        },
+        {
+            "id": "2dc2c62d-fb26-498d-8f21-62aebe7d34d4",
+            "image": null,
+            "name": "Uniqlo Kids Packable Jackets",
+            "description": "The Uniqlo Kids Packable Jackets are lightweight, portable outerwear designed for children, providing warmth and protection from the elements while being easily stowable when not in use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "f2c05af2-d9c9-405f-90aa-bd6dac497e26",
+            "image": null,
+            "name": "Lightweight Table",
+            "description": "The Snow Peak Lightweight Table series is designed for outdoor enthusiasts seeking portable and durable tables for camping and recreational use. Each table in this collection is lightweight, making it easy to carry while providing stable support for meals and other activities in nature.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "51c1c15a-afcf-4ffc-80f6-035e2f93a7ac",
+            "image": null,
+            "name": "Fusso",
+            "description": "Soft99 Fusso is a line of car care products known for its advanced polymer technology that provides long-lasting protection and shine for vehicle exteriors.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "2edfc136-2c0a-43f5-8960-c8391a7a320e",
+            "image": null,
+            "name": "Final Audio A8000",
+            "description": "The Final Audio A8000 is a high-end series of in-ear headphones released in 2023, designed to deliver exceptional audio quality and an immersive listening experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Final Audio"
+            }
+        },
+        {
+            "id": "142d9e0f-5e5f-4c5f-a0f4-8ae09fcd9218",
+            "image": null,
+            "name": "Hella LED Lighting",
+            "description": "Hella LED Lighting is a series of high-performance car lighting solutions introduced in 2014, designed to provide enhanced visibility and energy efficiency for various automotive applications.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "ae069283-d360-4e03-9da1-ab40fcbb2107",
+            "image": null,
+            "name": "Disney Tsum Tsum",
+            "description": "Disney Tsum Tsum is a series of collectible plush toys featuring popular Disney characters in a stacked, whimsical design. They are designed for both play and display, appealing to fans of all ages.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "6581a905-de8e-4ccb-8248-6a211d173da8",
+            "image": null,
+            "name": "Honor X40 GT",
+            "description": "The Honor X40 GT series consists of smartphones designed for performance and gaming enthusiasts, featuring high refresh rate displays and powerful processing capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "0d87ef48-684b-4397-b9db-99c3aeec828d",
+            "image": null,
+            "name": "Final Audio E5000",
+            "description": "The Final Audio E5000 is a pair of in-ear headphones designed for audiophiles seeking high-resolution sound and comfort. They feature a lightweight design and are built to deliver an expansive sound stage with detailed audio reproduction.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Final Audio"
+            }
+        },
+        {
+            "id": "a1dd7537-630a-4a44-8dcb-97ab01c73eed",
+            "image": null,
+            "name": "Disney Junior Mickey Mouse Funhouse",
+            "description": "The Disney Junior Mickey Mouse Funhouse series features fun, interactive toys aimed at preschoolers, encouraging imaginative play and skill development through beloved characters from the Mickey Mouse universe.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "bda7fea8-919f-424c-b053-43220fdf86c0",
+            "image": null,
+            "name": "Deep Gloss",
+            "description": "The Soft99 Deep Gloss series includes a range of car care products designed to enhance and protect the vehicle's exterior finish, providing a long-lasting glossy shine.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "2ff2481d-a54d-4233-b30f-ca1c72e74443",
+            "image": null,
+            "name": "Disney Baby",
+            "description": "The Disney Baby series includes a variety of comfortable and secure baby seats designed to provide safety and support for infants and toddlers, featuring playful Disney character designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "c228a587-f8b5-4031-8118-68a191cdd87b",
+            "image": null,
+            "name": "Soft99 Hydro Marble Coating",
+            "description": "Soft99 Hydro Marble Coating is a high-performance protective coating designed for automotive surfaces, providing durable protection and an attractive marble-like finish. This product enhances the gloss and hydrophobic properties of the vehicle's exterior.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "7bb63503-5376-4ae3-bcc8-2ec2b5106120",
+            "image": null,
+            "name": "Infinix Hot 4 Pro",
+            "description": "The Infinix Hot 4 Pro is an affordable smartphone that focuses on delivering enhanced multimedia experiences and long battery life for everyday users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "588b92b0-35a0-4863-bcce-d3a7d6505ecf",
+            "image": null,
+            "name": "Uniqlo Kids Summer Collection",
+            "description": "The Uniqlo Kids Summer Collection features lightweight and breathable clothing designed for comfort and style during the warmer months, catering to the active lifestyles of children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "c9c8fe14-f9fe-4756-bb06-37cd0efb3760",
+            "image": null,
+            "name": "Chevrolet Tahoe (2022)",
+            "description": "The Chevrolet Tahoe (2022) is a full-size SUV designed for families and adventurers, offering ample passenger space, advanced technology, and versatile cargo options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        }
+    ]
+}

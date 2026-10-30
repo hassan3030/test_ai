@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "14172b01-3a8a-4801-a134-ada06f85cf84",
+            "image": null,
+            "name": "Alcatel 3",
+            "description": "The Alcatel 3 is a series of smartphones released in 2018, designed to deliver a balanced performance with a focus on essential features for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "be12488f-8596-4e4f-9735-d4700f9e00de",
+            "image": null,
+            "name": "Alcatel 3X",
+            "description": "The Alcatel 3X is a smartphone series released in 2018, designed to offer a balance between performance and affordability with features suitable for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "4bfe6e1b-0c80-4bef-82f8-bbd6cd62f41f",
+            "image": null,
+            "name": "Alcatel 5",
+            "description": "The Alcatel 5 series is a line of smartphones designed for users seeking a combination of stylish design and functional performance, offering features that cater to everyday smartphone needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "01caef79-a632-41e9-b089-490bfc54a1f6",
+            "image": null,
+            "name": "Alcatel 1S",
+            "description": "The Alcatel 1S is a budget-friendly smartphone launched in 2019, designed to offer essential features and functionality for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "c01e36be-7a7a-4f56-b50e-8989f72ab150",
+            "image": null,
+            "name": "Alcatel 3L",
+            "description": "The Alcatel 3L series consists of budget-friendly smartphones designed to deliver essential features and functionalities while offering a stylish design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "bae26906-1928-4b89-9250-cb47d74ea3bf",
+            "image": null,
+            "name": "Alcatel 1V",
+            "description": "The Alcatel 1V is a budget-friendly smartphone designed for users seeking essential smartphone features and functionality. It offers a simple interface geared towards everyday tasks, making it ideal for first-time smartphone users or those looking for a reliable secondary device.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "5b91f8b1-7a2f-413b-a932-a789e9552070",
+            "image": null,
+            "name": "Alcatel 1B",
+            "description": "The Alcatel 1B is a budget-friendly smartphone designed for essential communication and basic functionality, catering to users seeking a simple mobile experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "2516cb7f-6240-4c5c-a9e6-9791afa1d587",
+            "image": null,
+            "name": "Alcatel 3X (2020)",
+            "description": "The Alcatel 3X (2020) is a budget-friendly smartphone designed to offer essential features, including a large display and a versatile camera system, catering to everyday users looking for reliability without high costs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "0eeffc65-8cc3-4df5-9659-5fd982a017a1",
+            "image": null,
+            "name": "Alcatel 3L (2020)",
+            "description": "The Alcatel 3L (2020) is a budget-friendly smartphone designed to offer essential features and a smooth user experience, catering to users looking for reliable performance at an accessible price point.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "6bf4f54f-77c0-488d-b578-30fadcee1e18",
+            "image": null,
+            "name": "Alcatel 5G",
+            "description": "The Alcatel 5G series is designed to provide high-speed connectivity and advanced smartphone features for users seeking enhanced performance in a mobile device.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "a9ebdfe3-a89d-4225-9895-50af88faacdf",
+            "image": null,
+            "name": "Alcatel 3 (2022)",
+            "description": "The Alcatel 3 (2022) is a budget-friendly smartphone series designed to deliver essential features and reliable performance for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "b1de14ae-a9fe-4d96-a447-8ab74cff6f29",
+            "image": null,
+            "name": "Cata",
+            "description": "The Cata series by Andreu World consists of versatile and contemporary chairs designed for both residential and commercial spaces, emphasizing comfort and a modern aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Andreu World"
+            }
+        },
+        {
+            "id": "31f5877c-63e3-438f-bb4b-bb3128dbd8c3",
+            "image": null,
+            "name": "Lito",
+            "description": "The Lito series by Andreu World features stylish and versatile chairs designed for both residential and commercial environments, emphasizing comfort, durability, and modern aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Andreu World"
+            }
+        },
+        {
+            "id": "b1a4b00f-334b-4be5-9c9a-87de1b4727cf",
+            "image": null,
+            "name": "Luna",
+            "description": "The Luna series by Andreu World is a collection of elegantly designed chairs that emphasize comfort and functionality, making them suitable for both residential and commercial spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Andreu World"
+            }
+        },
+        {
+            "id": "b86ff430-4201-4e95-bd8a-6eda6d7f73cd",
+            "image": null,
+            "name": "Bujan",
+            "description": "The Bujan series by Andreu World features modern chairs designed for both comfort and style, suitable for various interior settings and environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Andreu World"
+            }
+        },
+        {
+            "id": "a05dfed1-b286-405a-b306-24832e9bb24e",
+            "image": null,
+            "name": "Seagate Backup Plus",
+            "description": "The Seagate Backup Plus series features external hard drives designed for easy backup and storage of digital files. They offer a combination of portability and high-capacity storage, making them suitable for both personal and professional use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "2c0c2825-d0c5-4ba4-8ae7-3a7b88bef82a",
+            "image": null,
+            "name": "Seagate Innov8",
+            "description": "The Seagate Innov8 series consists of high-capacity external hard drives designed for backup and storage solutions, featuring a sleek design and USB 3.0 connectivity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "1d03d9fe-0934-4f3f-8768-2dc3d5bf9630",
+            "image": null,
+            "name": "Seagate Expansion",
+            "description": "The Seagate Expansion series offers portable external hard drives designed for quick file storage and backup, enabling users to easily expand their digital storage capacity wherever they go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "0419e546-d22e-4a2f-bd9d-6c2bf0b294bd",
+            "image": null,
+            "name": "Seagate IronWolf",
+            "description": "The Seagate IronWolf series consists of hard disks designed specifically for use in network-attached storage (NAS) systems, emphasizing reliability, performance, and large storage capacities suitable for multi-user environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "7b6d17c6-1ecb-4ced-a158-18e20e8543e1",
+            "image": null,
+            "name": "Seagate SkyHawk",
+            "description": "The Seagate SkyHawk series is designed for surveillance applications, providing robust storage solutions that support 24/7 operational environments with advanced features for data integrity and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "c4eafa46-6420-4892-a851-29d05be02304",
+            "image": null,
+            "name": "Seagate FireCuda",
+            "description": "The Seagate FireCuda series consists of hybrid hard drives designed to provide high-speed performance by combining traditional hard disk drive (HDD) storage with solid-state drive (SSD) caching technology, making them suitable for gaming and other applications requiring quick data access.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "ac130938-a2af-4087-a342-b05843f2315d",
+            "image": null,
+            "name": "Seagate Barracuda",
+            "description": "The Seagate Barracuda series is a line of internal hard disk drives primarily designed for PC and gaming storage, known for their reliability and performance in desktop and laptop environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "1e0933a3-d60b-4a4a-9ee3-079c44c19b23",
+            "image": null,
+            "name": "Seagate Barracuda SSD",
+            "description": "The Seagate Barracuda SSD series includes solid-state drives designed for PC components offering high performance and reliability for a variety of applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "1627e020-1833-4133-bf81-e5eee3ba54f5",
+            "image": null,
+            "name": "Seagate Barracuda 120 SSD",
+            "description": "The Seagate Barracuda 120 SSD is a solid-state drive designed to deliver high performance and reliability for PC systems, featuring fast read and write speeds for improved data access and storage efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "39c849f1-1d62-4278-8b51-7d574939fb59",
+            "image": null,
+            "name": "Seagate One Touch SSD",
+            "description": "The Seagate One Touch SSD is a portable solid-state drive designed for on-the-go storage, offering fast data transfer speeds and rugged durability for users to easily back up and store their files.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "b52dcd2d-5d77-41e8-9033-d3f4d1e63d89",
+            "image": null,
+            "name": "Seagate Exos 2nd Generation",
+            "description": "The Seagate Exos 2nd Generation series consists of high-capacity hard disks designed for enterprise-level storage solutions, offering enhanced performance and reliability for data-intensive applications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "49006e53-3293-43dd-bb82-534ecdf645dc",
+            "image": null,
+            "name": "Seagate Barracuda Fast SSD",
+            "description": "The Seagate Barracuda Fast SSD is a high-performance solid-state drive designed for gamers, content creators, and professionals seeking fast data transfer speeds and reliable storage solutions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "d3627d0c-05af-47c0-ba77-82f5e7025088",
+            "image": null,
+            "name": "Sabrent Rocket 4 Plus",
+            "description": "The Sabrent Rocket 4 Plus is a high-performance NVMe SSD designed for demanding applications and gaming, offering fast read and write speeds for enhanced data transfer.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Sabrent"
+            }
+        },
+        {
+            "id": "4b0e5f58-ca26-461c-91e1-b7bcd841c96e",
+            "image": null,
+            "name": "Lenovo Legion 5 Pro",
+            "description": "The Lenovo Legion 5 Pro is a high-performance gaming laptop designed for gamers seeking powerful graphics and processing capabilities, along with a robust thermal system for sustained performance during intense gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "341b35e8-d7ee-458f-a756-0ea3c4d912b8",
+            "image": null,
+            "name": "Lenovo Legion Tower 7i",
+            "description": "The Lenovo Legion Tower 7i is a high-performance gaming PC designed for gamers seeking powerful hardware and exceptional performance in demanding gaming environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        }
+    ]
+}

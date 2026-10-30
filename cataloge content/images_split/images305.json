@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "3e8d4417-4b70-488f-9895-0d25432366c0",
+            "image": null,
+            "name": "Usborne Illustrated Originals",
+            "description": "The Usborne Illustrated Originals series consists of classic tales reimagined with engaging illustrations, designed to captivate young readers and promote a love for literature.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "2097a8a8-9e35-4e3d-a3de-216a292f635c",
+            "image": null,
+            "name": "Spring 2019 Collection",
+            "description": "The Express Spring 2019 Collection features a variety of contemporary women's clothing designed to offer style and comfort for the season. It highlights fresh patterns, lightweight fabrics, and versatile pieces suitable for various occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Express"
+            }
+        },
+        {
+            "id": "cf38931b-3704-42dc-b5a2-675039b7765a",
+            "image": null,
+            "name": "Oppo R9 Plus",
+            "description": "The Oppo R9 Plus is a smartphone designed for users seeking a balance between performance and camera capabilities, featuring a large display and enhanced photography features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "1ff8051f-a4a0-4849-9e2e-5a1e3acfb870",
+            "image": null,
+            "name": "Winter 2019 Collection",
+            "description": "The Express Winter 2019 Collection for women features a variety of stylish and warm apparel designed for cold-weather wear, emphasizing comfort and contemporary fashion trends.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Express"
+            }
+        },
+        {
+            "id": "04b31e96-8ca9-41ed-84ca-38d77eff257d",
+            "image": null,
+            "name": "Lenovo Legion T530",
+            "description": "The Lenovo Legion T530 is a gaming PC designed for high-performance gaming and multitasking with customizable components for a personalized gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "1b04c555-cdb5-4f42-91b2-d05a99b8c0b9",
+            "image": null,
+            "name": "Aprilia RSV Mille",
+            "description": "The Aprilia RSV Mille is a sport motorcycle known for its powerful V-twin engine and agile handling, designed primarily for performance on both track and road.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "26dbac4c-640a-40c5-a82f-70e6cf190715",
+            "image": null,
+            "name": "Reima Autumn Winter 2023",
+            "description": "Reima Autumn Winter 2023 is a line of children's clothing designed to provide comfort and warmth during the colder seasons, featuring durable materials and functional designs that cater to the active lifestyles of kids.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "917c2aad-da4c-4290-aade-28948ef9f810",
+            "image": null,
+            "name": "Frugi Spring/Summer 2017 Collection",
+            "description": "The Frugi Spring/Summer 2017 Collection features a vibrant range of sustainable children’s clothing designed to be durable and comfortable, made from 100% organic cotton.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "605ed568-b291-4039-bcf3-0febdd86bb03",
+            "image": null,
+            "name": "Kenzo Kids Spring/Summer Collection 2021",
+            "description": "The Kenzo Kids Spring/Summer Collection 2021 features vibrant and playful clothing designed for children, embodying a fun spirit and comfortable fit perfect for warm weather.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "34a343e4-86ce-4ed2-8a50-87ac2daa89b6",
+            "image": null,
+            "name": "Frugi Summer Collection 2020",
+            "description": "The Frugi Summer Collection 2020 features vibrant and playful kids' clothing designed for comfort and fun during the warmer months, with sustainability as a core focus.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "f0f76148-57ed-4707-b99c-4ed81f5f3c88",
+            "image": null,
+            "name": "Playgro Puppy Play Gym",
+            "description": "The Playgro Puppy Play Gym is a colorful and interactive play mat designed for infants, featuring hanging toys and textures to stimulate sensory exploration and develop motor skills.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playgro"
+            }
+        },
+        {
+            "id": "941faa51-7b7a-4bf5-a49e-179698b55082",
+            "image": null,
+            "name": "GMC Yukon XL",
+            "description": "The GMC Yukon XL is a full-size SUV designed to offer ample interior space and passenger capacity while providing a powerful performance and advanced technology for a comfortable driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "bf090a01-008f-452b-8afb-1a91f18cbbce",
+            "image": null,
+            "name": "MagnaFlow Universal Mufflers",
+            "description": "MagnaFlow Universal Mufflers are designed to provide enhanced exhaust sound, performance, and efficiency for various vehicle applications. They aim to reduce backpressure while ensuring durability and ease of installation.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "2f0e40fd-c91d-40d9-9a6d-bbc107293b28",
+            "image": null,
+            "name": "Reima X-Reflect",
+            "description": "Reima X-Reflect is a collection of children's clothing designed to enhance visibility and safety during outdoor activities, especially in low-light conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "277fe85c-6b8d-4738-b42c-a098e6daa27f",
+            "image": null,
+            "name": "Usborne books for babies",
+            "description": "The Usborne Books for Babies series is designed to introduce very young children to the joy of reading through colorful illustrations and simple texts. The books aim to stimulate early language development and engage infants with interactive elements.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "df20cc38-6767-4488-9d42-a8742bccca2b",
+            "image": null,
+            "name": "Reima Mikkel",
+            "description": "The Reima Mikkel series offers durable and functional kids' clothing designed for outdoor play and active lifestyles, featuring weather-resistant materials and a comfortable fit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "255eb6dd-8e05-49b5-9dc0-682b6dcbc4f5",
+            "image": null,
+            "name": "Masters Maple Series",
+            "description": "The Pearl Masters Maple Series is a premium line of drum kits known for their exceptional sound quality and craftsmanship, designed for professional musicians seeking both aesthetic appeal and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "67a09d4e-aec6-4a0d-9705-332ed4df11fb",
+            "image": null,
+            "name": "Lenovo Legion Tower 5",
+            "description": "The Lenovo Legion Tower 5 is a gaming PC series designed for gamers seeking powerful performance and customizable configurations for an immersive gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "4f7d797a-82cf-41df-b654-8eb4b16a20fc",
+            "image": null,
+            "name": "Summer 2019 Collection",
+            "description": "The Express Summer 2019 Collection features a variety of women's clothing designed for comfort and style during the warm months, showcasing vibrant colors and lightweight fabrics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Express"
+            }
+        },
+        {
+            "id": "48ab87a5-b8a3-40e4-ba81-8ac0b31ba50d",
+            "image": null,
+            "name": "Fall 2019 Collection",
+            "description": "The Express Fall 2019 Collection features a range of women's clothing designed to combine style and comfort, offering versatile options suitable for both casual and professional settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Express"
+            }
+        },
+        {
+            "id": "f253a7e3-7299-439a-8e7b-bb607058021e",
+            "image": null,
+            "name": "Reima Rainwear",
+            "description": "Reima Rainwear is a durable line of waterproof clothing designed for children, providing protection against rain and wet conditions while maintaining comfort and breathability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "4a4e8574-db8b-4b3b-8c3d-ba203d6b53c5",
+            "image": null,
+            "name": "Pearl Decade Maple",
+            "description": "The Pearl Decade Maple series features a range of drum kits made from high-quality maple wood, designed for musicians seeking rich tones and enhanced sound projection.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "f84e736c-3d02-4198-a286-0d2c6e4bd1b1",
+            "image": null,
+            "name": "Olympus PEN-F",
+            "description": "The Olympus PEN-F is a mirrorless camera that combines advanced imaging technology with a retro design, catering to both enthusiasts and professionals seeking a compact yet powerful photographic tool.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "3618f12a-e6c9-4fad-9826-8584909150b5",
+            "image": null,
+            "name": "Oppo A83",
+            "description": "The Oppo A83 is a smartphone released in 2017, designed for users seeking a balance between performance and affordability, featuring a large display and facial recognition technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "c11e8132-aae3-409c-aa17-a1276a7c6b7f",
+            "image": null,
+            "name": "Tuono",
+            "description": "The Aprilia Tuono is a series of naked sports motorcycles known for their high-performance capabilities, agile handling, and distinctive styling. It is designed to deliver an exhilarating riding experience on both the road and track.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "6994d20d-2ee4-44a6-891a-bef971a2a00f",
+            "image": null,
+            "name": "Kenzo Kids Autumn/Winter Collection 2021",
+            "description": "The Kenzo Kids Autumn/Winter Collection 2021 features a vibrant range of children’s clothing designed for comfort and style, embodying the playful spirit of the Kenzo brand.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "15332255-3c89-4730-b206-e3a80da4105d",
+            "image": null,
+            "name": "Bear Grizzly Trucks",
+            "description": "The Bear Grizzly Trucks are a series of skateboard trucks designed for durability and performance, suitable for both street and park skating.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bear Trucks"
+            }
+        },
+        {
+            "id": "c575c4d2-6d2f-43dd-8d8d-9c71b7dcb430",
+            "image": null,
+            "name": "Turtle Wax Clear Coat Car Wash",
+            "description": "Turtle Wax Clear Coat Car Wash is designed to gently clean and protect automotive clear coat finishes, enhancing shine while removing dirt and grime without harming paint.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "3cee1a82-11b2-475e-b18a-5e513b83d7b5",
+            "image": null,
+            "name": "Whirlpool Smart French Door Refrigerator",
+            "description": "The Whirlpool Smart French Door Refrigerator is designed to enhance food storage with advanced smart features, including connectivity options that allow for convenient monitoring and management of food freshness.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "1a6309c0-e687-4543-bfe4-ead7b0bd1bdf",
+            "image": null,
+            "name": "Chaussettes Collection",
+            "description": "The Petit Bateau Chaussettes Collection features a range of high-quality socks designed for children, focusing on comfort and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "data": [
+        {
+            "id": "d795eea0-6938-445e-af67-008617362c23",
+            "image": null,
+            "name": "Fiat Panda (second generation)",
+            "description": "The Fiat Panda (second generation) is a compact city car designed for practicality and versatility, offering ample interior space and efficient fuel consumption.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "676f35a1-a445-45cf-9944-931c569af821",
+            "image": null,
+            "name": "Baby Jogger City Tour",
+            "description": "The Baby Jogger City Tour is a lightweight and compact stroller designed for urban parents seeking a portable and convenient solution for on-the-go travel with their child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "69e97a75-3cd8-4606-9b7c-43ee4e88954f",
+            "image": null,
+            "name": "Graco Slim Snacker High Chair",
+            "description": "The Graco Slim Snacker High Chair is designed for easy feeding with a compact fold for storage, offering comfort and convenience for parents and their little ones.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "71d794b5-9873-4cd8-863c-fd14c096b34c",
+            "image": null,
+            "name": "Benelli TreK 1130",
+            "description": "The Benelli TreK 1130 is a sport-touring motorcycle designed for both on-road and off-road riding, featuring a distinctive style and powerful performance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "743523cf-f4c3-4a44-b646-b5f4766aef77",
+            "image": null,
+            "name": "Gucci Ghost",
+            "description": "Gucci Ghost is a collection of accessories that features the distinctive graffiti-style artwork by artist Trevor Andrew, known as GucciGhost. Launched in 2017, the series blends urban aesthetics with the luxury craftsmanship synonymous with the Gucci brand.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ef697842-8dbe-4948-95cf-80f4913b25d6",
+            "image": null,
+            "name": "Renault Espace (5th Generation)",
+            "description": "The Renault Espace (5th Generation) is a multi-purpose vehicle known for its spacious interior, innovative design, and advanced safety features, catering to families and those seeking versatility in a car.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "7916120f-4b92-468d-b7af-5d1aba80dcd1",
+            "image": null,
+            "name": "Gucci Women's Fall/Winter Collection",
+            "description": "The Gucci Women's Fall/Winter Collection showcases a range of stylish and luxurious clothing designed for the modern woman, emphasizing elegance and sophistication for the colder months.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f6b5ea5d-a4f9-43e4-b719-52f4b3946012",
+            "image": null,
+            "name": "Renault Clio III",
+            "description": "The Renault Clio III is a compact hatchback car that was launched in 2005, designed to offer efficiency, style, and practicality for urban driving.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "f815c0e7-024c-4a91-9aa9-6fa5b2ac3284",
+            "image": null,
+            "name": "Renault Kiger",
+            "description": "The Renault Kiger is a compact SUV launched in 2021, designed to offer a blend of style, comfort, and functionality for urban driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "88d507f1-519b-44a8-a220-692697484b0f",
+            "image": null,
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch is a hybrid video game console released in 2016 that allows users to play games in handheld mode or docked to a television, providing versatility in gaming experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8ffe1247-d257-4ce6-9ee4-117ea2ff27e3",
+            "image": null,
+            "name": "GE Adora Series Refrigerators",
+            "description": "The GE Adora Series Refrigerators are designed to offer flexible storage solutions and modern features to enhance food preservation and accessibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "91109a38-07f3-410c-a4c4-04dbeca54ecb",
+            "image": null,
+            "name": "Audi S5",
+            "description": "The Audi S5 is a luxury performance coupe that combines powerful engine options with sophisticated styling and advanced technology, designed to deliver an exhilarating driving experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "adccee3f-1d46-46ef-a2e0-a54767b8a5c4",
+            "image": null,
+            "name": "Renault Captur (2nd Generation)",
+            "description": "The Renault Captur (2nd Generation) is a compact crossover SUV that combines a stylish design with versatility and practicality, aimed at urban drivers seeking a dynamic and efficient vehicle.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "b11c9d77-5ae2-4168-993b-2eef6104729d",
+            "image": null,
+            "name": "Xbox One S",
+            "description": "The Xbox One S is a home video game console developed by Microsoft, known for its 4K Ultra HD Blu-ray and gaming capabilities, as well as its compact design and improved performance over the original Xbox One.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "16de52c1-c1e9-4b40-8a15-47fac45ccf2d",
+            "image": null,
+            "name": "Miele W1 Washing Machines",
+            "description": "The Miele W1 Washing Machines series offers advanced laundry technology with a focus on efficiency and care, designed to provide exceptional cleaning results while being gentle on fabrics.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "205c209b-5c41-49e6-a413-4dee9e7a5882",
+            "image": null,
+            "name": "Renault Clio II Phase 2",
+            "description": "The Renault Clio II Phase 2 is a compact hatchback that was designed for urban driving and offers a balance of practicality, efficiency, and stylish design.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "26daecc2-e285-435b-88f1-978e45bdb85f",
+            "image": null,
+            "name": "Renault Mégane II",
+            "description": "The Renault Mégane II is a compact car produced by Renault, known for its practicality, comfort, and variety of body styles including hatchback, sedan, and convertible.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "2cff98a5-9415-4f50-9110-898e0b87c14b",
+            "image": null,
+            "name": "Graco DuetSoothe Swing and Rocker",
+            "description": "The Graco DuetSoothe Swing and Rocker is a versatile baby seat designed to provide soothing motions in both swinging and rocking modes, helping to calm and entertain infants.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "34c66973-1eac-49b6-b1cc-8d01c6056c38",
+            "image": null,
+            "name": "Gucci Diana",
+            "description": "The Gucci Diana is a collection of bags that embodies elegance and modernity, designed to be versatile for various occasions while showcasing the brand's signature style.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4c8b0cfc-03a7-4a89-b2fd-e43a34d3a84e",
+            "image": null,
+            "name": "Renault Laguna II",
+            "description": "The Renault Laguna II is a mid-size family car produced by Renault from 2000 to 2007, designed for comfort, space, and versatility in daily driving and long-distance travel.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "5f1efd51-baa7-4db6-ab2f-7b7a54acb220",
+            "image": null,
+            "name": "Gucci Watch Collection",
+            "description": "The Gucci Watch Collection, introduced in 2019, features a range of luxury timepieces that combine traditional craftsmanship with contemporary design, perfect for both casual and formal occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b26a5cf1-eae0-4e76-a2b5-ac73d5754d7c",
+            "image": null,
+            "name": "Baby Jogger Summit X3",
+            "description": "The Baby Jogger Summit X3 is an all-terrain stroller designed for active parents, providing a smooth ride on various surfaces with its three-wheel design and suspension system.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b40f8862-993c-415c-88cf-d479cdc03710",
+            "image": null,
+            "name": "Renault Modus",
+            "description": "The Renault Modus is a compact multi-purpose vehicle that offers practicality and versatility, designed primarily for urban environments.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "de6176a3-bc24-4dc6-a8aa-c244d7500955",
+            "image": null,
+            "name": "Renault Megane II",
+            "description": "The Renault Megane II is a compact car produced by Renault, known for its reliability, comfortable ride, and efficient use of space, catering to drivers looking for practicality and style in their everyday vehicles.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "f73e5c2e-5fad-45c7-8c3d-a748eefeb57e",
+            "image": null,
+            "name": "Renault Megane III",
+            "description": "The Renault Megane III is a compact car produced by Renault, known for its practicality, comfort, and a range of efficient engine options. It is designed to meet the needs of everyday drivers while delivering a balance of performance and fuel efficiency.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "f7c0e7cc-263c-458a-aab0-500cbb9be4de",
+            "image": null,
+            "name": "Renault Clio V",
+            "description": "The Renault Clio V is a compact hatchback introduced in 2018, known for its stylish design, efficient use of space, and advanced technology features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "a0e8b80d-8fe4-4f76-872e-e7b037d9f3d5",
+            "image": null,
+            "name": "Blackwire 3320",
+            "description": "The Plantronics Blackwire 3320 is a series of wired headphones designed for professional use, offering comfort and clarity for calls and collaboration.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Plantronics"
+            }
+        },
+        {
+            "id": "6c260d9f-4627-477a-a480-4572a1629290",
+            "image": null,
+            "name": "Renault Koleos (second generation)",
+            "description": "The Renault Koleos (second generation) is a mid-size SUV designed to offer a balance of comfort, versatility, and technology for urban and off-road driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "7704f5ba-9a14-4df4-ae00-8212fd57618a",
+            "image": null,
+            "name": "Renault Trezor",
+            "description": "The Renault Trezor is an electric concept car that showcases futuristic design and innovative technology, aimed at exploring the possibilities of sustainable mobility.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "8107ed11-47c6-47bd-b473-783c7d5fa3ba",
+            "image": null,
+            "name": "Renault Espace IV",
+            "description": "The Renault Espace IV is a multi-purpose vehicle (MPV) designed for families, offering ample space, comfort, and flexibility for both passengers and cargo.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        }
+    ]
+}

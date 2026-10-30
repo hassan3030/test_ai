@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "id": "fe6f818b-2ec1-4d96-b65a-a984496339b4",
+            "image": null,
+            "name": "Triumph Bonneville",
+            "description": "The Triumph Bonneville is a classic motorcycle series known for its retro design and reliable performance, embodying the spirit of British motorcycling heritage.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "8b763327-9314-4022-85a3-0be3f54a92be",
+            "image": null,
+            "name": "Chicco Pocket Snack Booster Seat",
+            "description": "The Chicco Pocket Snack Booster Seat is designed to provide a safe and convenient seating solution for toddlers, allowing them to participate at the dining table while being comfortably secured.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "8bf4b5f1-6342-4354-ac55-1893ed7e234d",
+            "image": null,
+            "name": "OnX6 Hybrid LED Light Bar",
+            "description": "The Baja Designs OnX6 Hybrid LED Light Bar is designed to provide superior lighting performance for off-road and automotive applications, combining spot and flood beam patterns for enhanced visibility.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "fef4b2c2-45f1-46e4-a744-4203859919ce",
+            "image": null,
+            "name": "Dior Addict",
+            "description": "Dior Addict is a collection of accessories inspired by the iconic Dior Addict fragrance, designed to reflect a bold and glamorous lifestyle.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ff353663-5334-4f1d-aefc-8648e7c02caf",
+            "image": null,
+            "name": "Dior Saddle",
+            "description": "The Dior Saddle series features a distinctive bag design characterized by its curved shape and saddle-like silhouette, combining modern aesthetics with timeless elegance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8c0fba38-099c-4251-80e3-6b61c90446b3",
+            "image": null,
+            "name": "Toyota Prius Prime",
+            "description": "The Toyota Prius Prime is a plug-in hybrid electric vehicle known for its fuel efficiency and advanced technology, designed to offer an eco-friendly driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "930f3c4e-f902-4134-82b4-9189b888150c",
+            "image": null,
+            "name": "Evenflo Pivot Modular Travel System",
+            "description": "The Evenflo Pivot Modular Travel System is a versatile travel solution designed to effortlessly transition from stroller to car seat, providing convenience for parents and comfort for infants.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b7e74111-6219-4413-882f-994a58f00c80",
+            "image": null,
+            "name": "Frigidaire Gallery Countertop Microwave",
+            "description": "The Frigidaire Gallery Countertop Microwave series is designed for efficiency and versatility, providing powerful cooking options in a compact form for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0dda84d1-9aae-4751-826d-91636740d0d5",
+            "image": null,
+            "name": "Frigidaire Professional",
+            "description": "The Frigidaire Professional series of refrigerators offers a blend of advanced cooling technology and professional-grade features designed for the home chef, ensuring food is stored at optimal temperatures with modern efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0ebd3422-d133-4d5b-ae30-4e623cfef8d9",
+            "image": null,
+            "name": "Smeg Dishwasher",
+            "description": "The Smeg Dishwasher series features high-performance, stylish dishwashers designed to efficiently clean and dry your dishes while enhancing your kitchen's aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "14a8cc40-5d4e-4ef2-a269-6616bb0f498b",
+            "image": null,
+            "name": "Street Triple",
+            "description": "The Triumph Street Triple is a naked motorcycle known for its agile handling, powerful engine, and minimalist design, catering to both urban riders and those seeking spirited performance on winding roads.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "255a4785-8911-460d-81cf-b66a57dc5b2a",
+            "image": null,
+            "name": "Frigidaire Gallery Refrigerators",
+            "description": "The Frigidaire Gallery Refrigerators series offers modern design and advanced features, enhancing food preservation and convenience in the kitchen.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2d64ddff-9e48-489a-927b-054d5b9d955e",
+            "image": null,
+            "name": "Maxi-Cosi Jade",
+            "description": "The Maxi-Cosi Jade is a versatile stroller designed for infants, featuring a unique 2-in-1 carry cot that allows for easy transitions from stroller to car seat. Its lightweight frame and compact design make it convenient for parents on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3ffa929e-dd69-4cdc-88c1-3e37cd04c89f",
+            "image": null,
+            "name": "GE Appliances 2020 Refrigerator Series",
+            "description": "The GE Appliances 2020 Refrigerator Series offers a variety of models that combine modern design with advanced refrigeration technology, ensuring optimal freshness and energy efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "57a0c4f1-a434-4a1c-9296-34a9e79afa57",
+            "image": null,
+            "name": "Triumph Speed Triple 1050",
+            "description": "The Triumph Speed Triple 1050 is a naked sports motorcycle that combines performance with aggressive styling, designed for both street riding and spirited performance on twisty roads.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "e32bab48-733c-4c87-bfe8-23452e84d20f",
+            "image": null,
+            "name": "Triumph Speed Triple",
+            "description": "The Triumph Speed Triple is a naked motorcycle known for its powerful inline-three engine, agile handling, and distinctive styling, catering to riders seeking both performance and urban versatility.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "ef2d6893-1a92-4790-8929-15ae10550457",
+            "image": null,
+            "name": "Tiger 1050",
+            "description": "The Triumph Tiger 1050 is a versatile sport-touring motorcycle designed for both on-road and light off-road riding, featuring a powerful engine and comfortable ergonomics.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "7d864f43-0a90-4f47-90c4-be96c8fe0c2d",
+            "image": null,
+            "name": "Chevrolet Avalanche",
+            "description": "The Chevrolet Avalanche is a versatile pickup truck that combines the utility of a pickup with the comfort of an SUV, characterized by its innovative midgate feature allowing for extended cargo space.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "fc20ca90-f9a5-4ba9-a9cb-4b183daab1e3",
+            "image": null,
+            "name": "Kawasaki KX450F",
+            "description": "The Kawasaki KX450F is a high-performance motocross motorcycle designed for competitive riders, featuring advanced suspension and powerful engine technology for optimal performance on rugged terrains.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "8c34c70d-6856-4448-8bfb-e3a2bab62377",
+            "image": null,
+            "name": "De'Longhi Dedica Style",
+            "description": "The De'Longhi Dedica Style series consists of compact espresso machines designed for home use, featuring a sleek design and user-friendly controls that allow for the preparation of high-quality espresso and café-style drinks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "930fc1ca-616c-46fe-8a49-53a47f66930c",
+            "image": null,
+            "name": "BMW 6 Series",
+            "description": "The BMW 6 Series is a line of luxury grand tourer vehicles that combines advanced engineering with high-performance capabilities, offering a blend of sporty aesthetics and comfort since its introduction in 2004.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "ff85f964-d5fa-4f65-b024-042dad0e5046",
+            "image": null,
+            "name": "M-Class (W164)",
+            "description": "The Mercedes-Benz M-Class (W164) is a luxury SUV that combines rugged versatility with the comfort and technology expected from the brand. Introduced in 2007, it aims to provide a smooth driving experience both on and off-road.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "99e98288-94d0-47ec-8a9f-71e9703f27e8",
+            "image": null,
+            "name": "Chevrolet HHR",
+            "description": "The Chevrolet HHR is a retro-styled compact car that combines elements of a station wagon and an SUV, designed for versatility and practicality while offering a stylish aesthetic.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "a4b19785-786e-4512-8889-e8a63968020e",
+            "image": null,
+            "name": "Smeg Aesthetic Line",
+            "description": "The Smeg Aesthetic Line coffee machines combine style and functionality, offering high-quality brewing options with a retro design aesthetic that enhances any kitchen decor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b14e67d6-9ea5-4d3a-b76f-45539bff1d33",
+            "image": null,
+            "name": "Mygo",
+            "description": "The Peg Perego Mygo series includes lightweight strollers designed for easy maneuverability and convenience, offering a comfortable and safe travel solution for parents and their children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ff929564-0c45-4753-a371-86111a752a63",
+            "image": null,
+            "name": "Soft99 Water Block",
+            "description": "Soft99 Water Block is a series of car care products designed to provide a protective layer that repels water and dirt from vehicle surfaces, enhancing durability and ease of cleaning.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "b60de63b-44f3-4ea0-9556-48e40984ea56",
+            "image": null,
+            "name": "Booklet 50",
+            "description": "The Peg Perego Booklet 50 is a lightweight and compact stroller designed for convenience and ease of use, featuring a one-handed folding mechanism and a comfortable seat suitable for infants and toddlers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ba715375-2fda-44be-abc9-e1373b26360d",
+            "image": null,
+            "name": "Beverly",
+            "description": "The Piaggio Beverly series is a line of scooters designed for urban commuting, offering a combination of style, comfort, and efficient performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "c3edb7c7-4f3a-4b73-8cf0-e46632ab2a04",
+            "image": null,
+            "name": "Aeron Chair",
+            "description": "The Herman Miller Aeron Chair is a highly ergonomic office chair designed for prolonged sitting comfort, featuring adjustable lumbar support and breathable mesh fabric.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c89d85ed-582d-44cb-9459-0eb04636a6b2",
+            "image": null,
+            "name": "Pliko P3",
+            "description": "The Peg Perego Pliko P3 is a lightweight and versatile stroller designed for convenience and ease of use, featuring a compact folding design ideal for parents on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        }
+    ]
+}

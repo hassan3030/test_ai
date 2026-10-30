@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "id": "74589be2-ce18-469e-85dc-1fc08529356b",
+            "image": null,
+            "name": "Frigidaire Gallery Series",
+            "description": "The Frigidaire Gallery Series refrigerators are designed to provide efficient cooling and modern features, combining style and practicality to meet the needs of contemporary kitchens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9c62bcb-2fa1-43cf-8d06-68de30945559",
+            "image": null,
+            "name": "Coleman Instant Cabin",
+            "description": "The Coleman Instant Cabin series features quick-setup cabin tents designed for easy camping experiences. With an emphasis on convenience and spacious interiors, these tents are ideal for family and group outings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "8fa04cc1-5a86-42f2-a71c-7724587388d9",
+            "image": null,
+            "name": "Smeg Espresso Machine",
+            "description": "The Smeg Espresso Machine series offers a blend of stylish design and advanced coffee-making technology, enabling users to brew authentic espresso and other coffee beverages at home.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "91a1a46e-b23d-4693-94ae-d9a39660726a",
+            "image": null,
+            "name": "Smeg 50's Retro Style",
+            "description": "The Smeg 50's Retro Style series of refrigerators combines classic mid-century design with modern technology, offering stylish and functional cooling solutions for contemporary kitchens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "941158fd-d4e8-40ae-bf3d-591675a66f41",
+            "image": null,
+            "name": "Graco Blossom 6 in 1 Seating System",
+            "description": "The Graco Blossom 6 in 1 Seating System is a versatile baby seat that allows for multiple configurations to accommodate a child's growth from infant to toddler, providing comfort and support at every stage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "a4c12129-f5a8-4151-b3e8-f2cd46fdc869",
+            "image": null,
+            "name": "Frigidaire 36\" Gallery",
+            "description": "The Frigidaire 36\" Gallery series of microwaves offers a blend of style and functionality, designed to complement modern kitchens with their sleek design and innovative features for efficient cooking.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a7fff0df-954b-474d-8882-9581d34d2084",
+            "image": null,
+            "name": "Frigidaire Retro Mini Fridge",
+            "description": "The Frigidaire Retro Mini Fridge is a compact refrigerator designed to provide efficient cooling for beverages and snacks while adding a vintage aesthetic to any room. Ideal for small spaces like dorms or offices, it combines functionality with a nostalgic design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2faabe53-6a42-47da-b616-1102d4f12ee3",
+            "image": null,
+            "name": "Smeg Stand Mixer",
+            "description": "The Smeg Stand Mixer is a versatile kitchen appliance designed for mixing, kneading, and whipping various ingredients, combining modern technology with a retro aesthetic.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3601bb71-92c5-4c9c-bc48-6868c392c950",
+            "image": null,
+            "name": "Smeg Linea",
+            "description": "The Smeg Linea series offers a range of built-in microwaves designed for modern kitchens, combining functionality with a sleek, minimalist aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "494015e6-1104-4be7-8ce2-99c5e00af98f",
+            "image": null,
+            "name": "Graco SnugRide 35 Lite DLX Infant Car Seat",
+            "description": "The Graco SnugRide 35 Lite DLX Infant Car Seat is designed to provide a safe and comfortable travel solution for infants, featuring a lightweight design and easy installation features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "51a03b98-bd74-4045-a9ee-2c6991a51b73",
+            "image": null,
+            "name": "Smeg FAB28",
+            "description": "The Smeg FAB28 series is a line of retro-style refrigerators designed to combine aesthetically pleasing design with practicality, providing effective food preservation and ample storage space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "57be61c5-160c-4571-9c14-5e7b6f7c48e4",
+            "image": null,
+            "name": "Graco SnugRide SnugLock 30/35 Infant Car Seat",
+            "description": "The Graco SnugRide SnugLock 30/35 Infant Car Seat is designed to provide safety and comfort for infants during travel. It features a unique SnugLock technology that ensures a secure installation in about one minute using either the vehicle seat belt or LATCH system.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "5e4dd603-c110-471c-b99d-4c57398fde70",
+            "image": null,
+            "name": "Frigidaire Professional Refrigerators",
+            "description": "Frigidaire Professional Refrigerators are designed to offer high-performance cooling solutions with advanced features, catering to both culinary professionals and home chefs seeking reliability and convenience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c0e40948-80c0-4c8f-b0cc-7dbbe13ec5a6",
+            "image": null,
+            "name": "Hyundai Santa Fe (DM)",
+            "description": "The Hyundai Santa Fe (DM) is a mid-size SUV designed to provide a combination of comfort, spaciousness, and advanced safety features, suitable for both families and individuals seeking versatility and reliability in their vehicle.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "ef58d461-5860-45f9-8bf4-65e882433d8a",
+            "image": null,
+            "name": "Fisher-Price Smart Connect Deluxe Rock 'n Play Sleeper",
+            "description": "The Fisher-Price Smart Connect Deluxe Rock 'n Play Sleeper is a versatile baby seat designed to provide a comfortable and soothing space for infants to rest and sleep. It features gentle rocking motion, calming vibrate settings, and a portable design for convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "683a25ac-d2f4-4e15-af75-2ccb7b52496b",
+            "image": null,
+            "name": "Joie Stages",
+            "description": "The Joie Stages series includes versatile baby seats designed to grow with your child, providing safety and comfort from birth to booster stage. The seats are equipped with multiple recline positions and adjustable harness systems to accommodate various stages of development.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "80bab277-40fd-4fa8-8520-0599f0f63f52",
+            "image": null,
+            "name": "Summit X3",
+            "description": "The Baby Jogger Summit X3 is a versatile all-terrain stroller designed for active parents. It features a patented quick-fold technology and a front wheel that can lock for jogging or swivel for easy maneuvering.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b8fb75a9-8d30-4c83-a411-f217aeb1d7cd",
+            "image": null,
+            "name": "Joie Versatrax",
+            "description": "The Joie Versatrax is a versatile stroller designed to adapt to the needs of growing families, providing comfort and convenience for both parents and children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "faed74c1-fa7d-441f-ac6f-67be3b970de9",
+            "image": null,
+            "name": "Joie i-Gemm 2",
+            "description": "The Joie i-Gemm 2 is an infant car seat designed to provide safety and comfort for children from birth up to approximately 12 months. It features a sturdy base and a lightweight design for easy transportation.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "15b6961c-d05e-46d8-9779-703c31080388",
+            "image": null,
+            "name": "FireCuda",
+            "description": "The Seagate FireCuda series consists of hybrid hard disk drives that combine traditional spinning disk storage with flash memory, designed to provide both high capacity and improved performance for gaming and creative applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "c22a6afe-7769-4b46-ae01-df2b9461c469",
+            "image": null,
+            "name": "Electrolux Professional Line",
+            "description": "The Electrolux Professional Line Coffee Machines are designed for high-performance coffee preparation in commercial settings, offering consistency and quality for professional baristas and cafes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "158601b9-f5f4-4007-8feb-9977230634e8",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Smart Stages Chair",
+            "description": "The Fisher-Price Laugh & Learn Smart Stages Chair is an interactive toy designed for infants and toddlers, featuring engaging songs, phrases, and activities that promote learning and development through play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "9129be15-346b-465f-a47e-532411de51b7",
+            "image": null,
+            "name": "Fisher-Price Smart Stages Phrases Puppy",
+            "description": "The Fisher-Price Smart Stages Phrases Puppy is an interactive toy designed to engage infants and toddlers with songs, phrases, and lights that adapt to the child's developmental stage, promoting sensory and language skills.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "4694ea6e-9a5c-4e40-94a4-717789229a5a",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Smart Stages Tablet",
+            "description": "The Fisher-Price Laugh & Learn Smart Stages Tablet is an interactive toy designed for infants and toddlers that introduces them to numbers, letters, shapes, and more through various songs, phrases, and activities tailored to their developmental stage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "98a588fb-b0af-43eb-b18f-9e643731371f",
+            "image": null,
+            "name": "Fisher-Price Little People Sit With Me School Bus",
+            "description": "The Fisher-Price Little People Sit With Me School Bus is an interactive toy designed to engage young children in imaginative play, featuring cute characters and a bus that encourages social interaction and role-play scenarios.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "b76570d5-5684-4990-b7aa-d408d075faf0",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Smart Stages Piggy Bank",
+            "description": "The Fisher-Price Laugh & Learn Smart Stages Piggy Bank is an educational toy designed to introduce infants and toddlers to counting, colors, and basic financial concepts through interactive play and engaging sounds.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "302cfa19-6d08-423f-b12a-b88daa528f0e",
+            "image": null,
+            "name": "Fisher-Price Little People Safari Friends",
+            "description": "The Fisher-Price Little People Safari Friends series features a collection of animal figures and playsets designed to encourage imaginative play and help young children learn about wildlife in a fun and engaging way.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "ee5beb94-507c-48a4-b328-1e54ee959a54",
+            "image": null,
+            "name": "Fisher-Price Chatter Phone",
+            "description": "The Fisher-Price Chatter Phone is a classic pull toy designed for toddlers that encourages interactive play and helps develop language skills. With its friendly face and ringing bell, it engages children in imaginative role-play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "ff00758b-d8d1-4960-ad71-4d85a7925fc9",
+            "image": null,
+            "name": "Linkimals",
+            "description": "Linkimals is a series of interactive toys by Fisher-Price designed to promote early learning through music and light. These engaging toys encourage babies and toddlers to learn numbers, shapes, and social skills through play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "1fecc250-7247-4309-ab84-bcffd93d3c14",
+            "image": null,
+            "name": "Fisher-Price Discover 'n Grow",
+            "description": "The Fisher-Price Discover 'n Grow series includes a variety of interactive toys designed to stimulate and engage infants and toddlers, promoting sensory exploration and developmental milestones.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        }
+    ]
+}

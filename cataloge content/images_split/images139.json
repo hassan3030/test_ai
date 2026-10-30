@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1428a178-1db3-47ae-921c-f0c1feb3c222",
+            "image": null,
+            "name": "Intel Xe Graphics",
+            "description": "The Intel Xe Graphics series is a line of integrated and discrete graphics solutions designed to provide high-quality visual performance for a range of applications, including gaming, content creation, and general productivity tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "b01faa98-b5c1-4c1b-8a44-d635ea25508b",
+            "image": null,
+            "name": "Intel Evo Platform",
+            "description": "The Intel Evo Platform is a specification that ensures laptops deliver a premium experience with characteristics such as fast performance, long battery life, and instant wake features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "580f1daa-23cc-45e4-9b7a-db1918b8c0a6",
+            "image": null,
+            "name": "12th Gen Intel Core",
+            "description": "The 12th Gen Intel Core series represents Intel's latest line of processors designed for desktops and laptops, featuring a hybrid architecture that combines performance and efficiency cores to enhance multitasking and overall performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "9b700050-ec9a-49ed-821c-cc87f1c4c5d3",
+            "image": null,
+            "name": "Skagen Falster 2",
+            "description": "The Skagen Falster 2 is a smartwatch released in 2017 that combines traditional Scandinavian design with modern technology, featuring fitness tracking, notifications, and customizable watch faces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "478fe48c-0269-47df-8212-4e300349419e",
+            "image": null,
+            "name": "Skagen Falster 3",
+            "description": "The Skagen Falster 3 is a smart watch designed to combine functionality and style, featuring health tracking, notifications, and customizable watch faces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "3c654660-f903-4021-94d8-e6cc5294d546",
+            "image": null,
+            "name": "Holst",
+            "description": "The Skagen Holst series of watches combines minimalist design with a contemporary aesthetic, offering timeless style for everyday wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "5e13c315-d5e6-4941-b549-ce02307dc019",
+            "image": null,
+            "name": "Anita",
+            "description": "The Skagen Anita series of watches features a minimalist design that embodies a blend of modern aesthetics and practicality. Designed for everyday wear, these timepieces prioritize simplicity and sophistication, making them suitable for a variety of occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "f3a6a058-4c45-47ea-9b3a-8cc14f5707db",
+            "image": null,
+            "name": "Skagen Holst",
+            "description": "The Skagen Holst series features minimalist watches with sleek designs, focusing on simplicity and functionality for everyday wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "46fed808-948e-474a-b555-3828c2ed8cbb",
+            "image": null,
+            "name": "Seiko 5 Sports",
+            "description": "The Seiko 5 Sports series is a collection of automatic watches known for their durability, reliability, and sporty design, suitable for everyday wear and various activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Seiko"
+            }
+        },
+        {
+            "id": "39d31e7a-c86b-4819-9f96-49a5080c2768",
+            "image": null,
+            "name": "Ring Stick Up Cam",
+            "description": "The Ring Stick Up Cam is a versatile indoor/outdoor security camera designed for easy installation and monitoring, providing live video feeds and motion alerts to help keep your home secure.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "a21932f0-788f-4a99-818a-42e09453a421",
+            "image": null,
+            "name": "Ring Video Doorbell",
+            "description": "The Ring Video Doorbell series offers smart doorbell solutions that allow users to see, hear, and speak to visitors from anywhere using a smartphone app. Key features include motion detection, HD video, and two-way audio.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "0f90037e-4117-48e1-9a1d-208b30e37596",
+            "image": null,
+            "name": "Dzire",
+            "description": "The Maruti Suzuki Dzire is a compact sedan that combines style, comfort, and efficiency, making it an ideal choice for everyday commuting and family use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "5b4bafc6-7326-46c4-ad9a-53f625d997e6",
+            "image": null,
+            "name": "SsangYong Rodius",
+            "description": "The SsangYong Rodius is a spacious multi-purpose vehicle known for its practicality and versatility, designed to accommodate larger families or groups with ample seating and cargo space.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "6cdf8e81-67d0-469c-8da1-b3eb181e4208",
+            "image": null,
+            "name": "Infinix Note 7",
+            "description": "The Infinix Note 7 is a smartphone series aimed at delivering a balanced performance combined with a large display and durable battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "77150f7b-e0cd-4b66-9aef-ec45560f4c01",
+            "image": null,
+            "name": "Infinix Note 10",
+            "description": "The Infinix Note 10 series comprises smartphones designed to deliver performance and multimedia capabilities, catering to users seeking a balanced experience in everyday tasks and entertainment.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "436d4352-d81a-44ab-a7d0-dd78002a31f9",
+            "image": null,
+            "name": "Infinix Zero X",
+            "description": "The Infinix Zero X series features smartphones designed to offer a blend of stylish design and advanced camera capabilities, catering to users who seek innovation and functionality in their mobile devices.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "c3ac2eda-1b44-43ae-bdbd-743068d96796",
+            "image": null,
+            "name": "Infinix Zero Ultra",
+            "description": "The Infinix Zero Ultra is a smartphone series released in 2023, designed to offer high performance and advanced features for a seamless user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "ce7b10e3-6fe6-4e34-ad5a-8f4c8c592a9d",
+            "image": null,
+            "name": "Avita Liber",
+            "description": "The Avita Liber series consists of lightweight and portable laptops designed for everyday use, offering a blend of performance and affordability for students and professionals.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Avita"
+            }
+        },
+        {
+            "id": "3df70378-637d-4551-a308-b4d71217f982",
+            "image": null,
+            "name": "Gionee A1",
+            "description": "The Gionee A1 is a smartphone series launched in 2017, designed to deliver a balanced performance with a focus on high-quality selfies and long battery life.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "4609367b-c5c6-46dc-b9ff-df55133f4a11",
+            "image": null,
+            "name": "Gionee S11",
+            "description": "The Gionee S11 is a smartphone series released in 2018, known for its dual-camera setup and large display, designed to offer a balance of performance and photography capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "7270cf56-2062-4a5e-96a5-46f7944aa8e8",
+            "image": null,
+            "name": "Gionee M12",
+            "description": "The Gionee M12 is a smartphone launched in 2020, focused on providing budget-friendly options with essential features and a reliable performance for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "b049c089-5466-4917-8a9a-0f335e66d34c",
+            "image": null,
+            "name": "Micromax Canvas 6 Pro",
+            "description": "The Micromax Canvas 6 Pro is a smartphone launched in 2016, designed to provide a balance of performance and features for everyday use, targeting budget-conscious consumers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "79b72e43-e377-479d-94de-580bacdb9726",
+            "image": null,
+            "name": "Micromax Bharat 2",
+            "description": "The Micromax Bharat 2 is an affordable smartphone released in 2017, designed to provide essential features and connectivity for first-time smartphone users in India.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "428739e1-458b-4185-aeb9-baafc2daa03a",
+            "image": null,
+            "name": "Micromax Canvas Infinity Pro",
+            "description": "The Micromax Canvas Infinity Pro is a smartphone series known for its bezel-less display and focus on providing an immersive viewing experience, aimed at budget-conscious consumers looking for modern design and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "0a8cc58f-fae0-48ce-9345-fcb3ae90f297",
+            "image": null,
+            "name": "Micromax Canvas 2 (2018)",
+            "description": "The Micromax Canvas 2 (2018) is a smartphone designed to offer an engaging multimedia experience with its display and camera capabilities, designed for users seeking a reliable device for everyday tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "1da62340-b1fe-4230-b798-573839a3b427",
+            "image": null,
+            "name": "Micromax IN Series",
+            "description": "The Micromax IN Series is a range of smartphones designed to offer competitive features at an affordable price, focusing on delivering a balanced user experience with features required by everyday users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "92ee9bd1-1422-419b-bcc3-a8dbd4135b32",
+            "image": null,
+            "name": "Micromax In Note 1",
+            "description": "The Micromax In Note 1 is a budget smartphone released in 2020, designed to offer essential features and performance for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "db19c96e-cb67-4a8c-a4a4-313048d72b68",
+            "image": null,
+            "name": "Micromax IN 2B",
+            "description": "The Micromax IN 2B is a budget smartphone released in 2021, designed to offer essential features and performance at an affordable price.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "6773a46e-ff4c-41ec-afff-3d1e4058da1e",
+            "image": null,
+            "name": "Tecno Camon C9",
+            "description": "The Tecno Camon C9 is a smartphone released in 2016, designed to deliver high-quality photography and performance at an affordable price point.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "98480a88-2f42-42ab-8228-c854c20eda67",
+            "image": null,
+            "name": "Tecno W4",
+            "description": "The Tecno W4 is a smartphone released in 2016, designed to offer essential smartphone features with a focus on affordability and user-friendly experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        }
+    ]
+}

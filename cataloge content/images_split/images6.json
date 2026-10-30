@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "id": "79a0aed4-7b7b-4cb9-bd27-5903bbb24069",
+            "image": null,
+            "name": "Hood Wax",
+            "description": "Soft99 Hood Wax is designed to provide a high-gloss finish while protecting the vehicle's surface from environmental contaminants. Its formulation helps to repel water and dirt, making maintenance easier and enhancing the overall appearance of the car.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "7d73e8cd-3d4f-4683-abb2-f01b7be70de8",
+            "image": null,
+            "name": "Aprilia Dorsoduro 750",
+            "description": "The Aprilia Dorsoduro 750 is a versatile motorcycle known for its agile handling and powerful performance, designed primarily for urban riding and light off-road use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "9ff5fc18-9cf9-43f8-8c5f-7e333df9e3c9",
+            "image": null,
+            "name": "Dodge SRT-4",
+            "description": "The Dodge SRT-4 is a high-performance compact car that combines sporty styling with powerful turbocharged performance, aiming to deliver an exhilarating driving experience for enthusiasts.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "a1049275-8cc4-44aa-bad8-2a7a873c6aa1",
+            "image": null,
+            "name": "Focal Kanta",
+            "description": "The Focal Kanta series includes high-fidelity speakers designed for discerning audio enthusiasts seeking excellent sound quality and elegant design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "a750f516-b5ed-4519-8846-79d38ec0ead6",
+            "image": null,
+            "name": "Vespa GTS 250ie",
+            "description": "The Vespa GTS 250ie is a stylish and efficient scooter designed for urban commuting, combining classic Vespa design with modern technology for a smooth riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "b220bbd4-adca-4ec0-8852-6effef8f525c",
+            "image": null,
+            "name": "Nike Women's Free RN 2016",
+            "description": "The Nike Women's Free RN 2016 is a lightweight running sneaker designed for natural movement and flexibility, making it ideal for runners seeking a minimalist feel and a barefoot-like experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "bb38c407-0c62-4d1d-b18d-7d392b3736e5",
+            "image": null,
+            "name": "Sega Genesis Mini",
+            "description": "The Sega Genesis Mini is a compact retro gaming console that emulates the classic Sega Genesis, pre-loaded with 42 games, featuring an authentic design and plug-and-play capability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "04e9ccae-0961-4a3d-8292-17916459cd22",
+            "image": null,
+            "name": "Fisher-Price Little People Collector",
+            "description": "Fisher-Price Little People Collector is a series of collectible figures designed for both play and display, featuring iconic characters from various themes that appeal to children and collectors alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "22f4c38a-89c3-4c11-973a-6015a0204171",
+            "image": null,
+            "name": "Aprilia Shiver 750",
+            "description": "The Aprilia Shiver 750 is a naked motorcycle known for its dynamic handling, strong performance, and sporty design, making it suitable for both urban commuting and spirited riding on twisting roads.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "24c9553b-7611-45a0-8333-0d3aa11d3344",
+            "image": null,
+            "name": "Nike Hypervenom III",
+            "description": "The Nike Hypervenom III is a soccer cleat designed for agility and speed, focusing on enhanced touch and control for attacking players.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "255e33cd-b0fc-4f1d-80ed-8e176e23089c",
+            "image": null,
+            "name": "Kawasaki Ninja 650",
+            "description": "The Kawasaki Ninja 650 is a middleweight motorcycle designed for both novice and experienced riders, offering a balance of performance, comfort, and agility that makes it suitable for everyday use and sport riding.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "2af4ac6b-ee6f-416b-b57a-646d0b2a0f10",
+            "image": null,
+            "name": "Final Fantasy VII Remake",
+            "description": "Final Fantasy VII Remake is a reimagination of the classic 1997 video game, combining action-based combat with a rich narrative and stunning graphics to immerse players in the world of Midgar. The series aims to provide both nostalgia for longtime fans and a captivating experience for new players.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2df958fc-829f-4155-93c5-8a996bb57f85",
+            "image": null,
+            "name": "Kawasaki ZX-6R",
+            "description": "The Kawasaki ZX-6R is a sport motorcycle designed for high performance on both the track and the street, known for its lightweight frame and agile handling.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "3bf76122-7c24-4e9f-9889-f4aa6eac234c",
+            "image": null,
+            "name": "Dodge Viper",
+            "description": "The Dodge Viper is a high-performance sports car known for its powerful V10 engine and distinctive design, delivering an exhilarating driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "5463a72c-f305-4d88-a5d0-4a6ede384f84",
+            "image": null,
+            "name": "Vespa S 125",
+            "description": "The Vespa S 125 is a stylish scooter designed for urban commuting, combining classic Vespa aesthetics with contemporary features to deliver a fun and agile riding experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "5da7e279-11c2-4168-84f1-5d6bdfaa2ca3",
+            "image": null,
+            "name": "Aprilia Tuono V4",
+            "description": "The Aprilia Tuono V4 is a high-performance naked motorcycle known for its powerful V4 engine, agile handling, and advanced electronics, designed for both street and track riding.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "6b7f486c-3967-4d37-93b8-dd09fab04f02",
+            "image": null,
+            "name": "Aprilia RSV4 R",
+            "description": "The Aprilia RSV4 R is a high-performance sport motorcycle designed for racing and spirited riding on the road. It features advanced technology, a powerful V4 engine, and a lightweight chassis that provide exceptional handling and acceleration.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "6c2be0cc-42a1-442f-9d90-f077ce433f92",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-12R",
+            "description": "The Kawasaki Ninja ZX-12R is a high-performance sport motorcycle introduced in 2002, known for its powerful engine and advanced aerodynamic design, aimed at delivering exceptional speed and agility.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "f37e8951-2c22-4cea-bd2e-e1b3fb380d36",
+            "image": null,
+            "name": "Vespa LX 50",
+            "description": "The Vespa LX 50 is a lightweight scooter designed for urban commuting, offering easy maneuverability, classic styling, and a fuel-efficient engine.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "707f29b0-1656-46a8-b86a-134a3dd8d832",
+            "image": null,
+            "name": "Final Fantasy XV: Pocket Edition",
+            "description": "Final Fantasy XV: Pocket Edition is a mobile adaptation of the popular RPG, allowing players to experience the storyline and characters of Final Fantasy XV in a compact, accessible format tailored for mobile devices.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7f2744ac-00fc-4875-9fac-78a6ec3f175b",
+            "image": null,
+            "name": "Norton V4 SS",
+            "description": "The Norton V4 SS is a high-performance motorcycle designed for both track and road use, featuring advanced engineering and elegant styling.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "f3c54ed3-cea5-46e0-9b61-60a3b9fd5f9d",
+            "image": null,
+            "name": "Fendi Kan I Bag",
+            "description": "The Fendi Kan I Bag is a luxury handbag introduced in 2017, characterized by its elegant design, versatility, and the signature FF logo. It is designed for both everyday use and special occasions, offering a blend of style and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f6b821b5-9be4-4bdc-b90e-d9756d717cf2",
+            "image": null,
+            "name": "Vredestein Wintrac Xtreme",
+            "description": "The Vredestein Wintrac Xtreme is a high-performance winter tire designed for enhanced grip and stability in harsh winter conditions, featuring advanced tread patterns and rubber compounds for optimal handling and safety.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "818624d2-3ab1-4bcc-becd-c5efe426c74f",
+            "image": null,
+            "name": "Cuisinart PurePrecision",
+            "description": "The Cuisinart PurePrecision series offers a range of advanced coffee machines designed to provide precise brewing temperatures and times, ensuring a perfect cup of coffee every time.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8bc2a6ed-32fa-41d2-a63f-611dc5fd7818",
+            "image": null,
+            "name": "Norton 961",
+            "description": "The Norton 961 is a modern classic motorcycle series that embodies the rich heritage of Norton Motorcycles, combining traditional design elements with contemporary technology for enhanced performance and rider engagement.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Norton Motorcycles"
+            }
+        },
+        {
+            "id": "3f60b725-be7b-4404-a410-b484c03b41b9",
+            "image": null,
+            "name": "Chef's Classic",
+            "description": "The Cuisinart Chef's Classic Blender series offers powerful performance for blending, pureeing, and mixing a variety of ingredients, making it an essential tool for any kitchen.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "411f71e8-51c2-48b7-9dd5-1484c45c18cc",
+            "image": null,
+            "name": "DSR/X",
+            "description": "The Zero Motorcycles DSR/X is an electric motorcycle designed for versatility and adventure riding, featuring advanced technology and a rugged build suited for on and off-road experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "41530f91-3827-454b-b3d6-7699bd77c1de",
+            "image": null,
+            "name": "Kingdom Hearts III",
+            "description": "Kingdom Hearts III is an action role-playing game developed by Square Enix that continues the story of Sora and his friends as they journey through various Disney and Pixar worlds to combat darkness and restore light.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4bad0a57-abd5-4982-ba95-bfc44d404614",
+            "image": null,
+            "name": "Aprilia Caponord 1200",
+            "description": "The Aprilia Caponord 1200 is an adventure touring motorcycle designed for both on-road and off-road riding, featuring advanced technology and comfort-oriented features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "5f3f8cd3-182e-4fb3-b5ac-1c9803155d5f",
+            "image": null,
+            "name": "Nike Air Max 97",
+            "description": "The Nike Air Max 97 is a popular sneaker known for its distinctive wavy design and full-length Air cushioning, providing comfort and style for athletic and casual wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        }
+    ]
+}

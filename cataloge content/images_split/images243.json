@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "0df65ffa-0fde-41ec-a9ec-a0131845937a",
+            "image": null,
+            "name": "Kånken Eco",
+            "description": "The Kånken Eco series by Fjällräven features durable and eco-friendly backpacks designed to promote sustainable living while providing quality and practicality for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "b48a3e41-125a-483d-9f68-0e1c6e0739fa",
+            "image": null,
+            "name": "Räven 20",
+            "description": "The Fjällräven Räven 20 is a versatile and lightweight daypack designed for everyday use and outdoor activities. It features a spacious main compartment and durable materials that provide practicality and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "3c6acf1c-caa0-48db-a0b8-69242c2bc5a6",
+            "image": null,
+            "name": "Pébéo Fantasy Prisme",
+            "description": "Pébéo Fantasy Prisme is a series of decorative paints known for their unique prismatic effects. They are primarily used for creating vibrant and textured designs on various surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "4da0b699-271f-40a8-a93a-a4f998c09132",
+            "image": null,
+            "name": "Family Hub Refrigerators",
+            "description": "Samsung's Family Hub Refrigerators are innovative kitchen appliances designed to streamline food management and family communication through a smart touchscreen interface and built-in connectivity features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "5968d0e3-04b6-4217-943f-2379e7661f18",
+            "image": null,
+            "name": "Mickey Thompson Classic II",
+            "description": "The Mickey Thompson Classic II series is a line of high-performance tires designed to provide superior traction and handling for off-road and street driving applications, blending classic aesthetics with modern technology.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "84b02726-17d6-4079-bf3c-8ad263b774fc",
+            "image": null,
+            "name": "Yamaha YZF-R series",
+            "description": "The Yamaha YZF-R series is a lineup of sport motorcycles designed for performance on both the road and racing tracks. Known for their advanced engineering, agility, and powerful engine options, these motorcycles cater to enthusiasts seeking high-speed thrills and superior handling.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "36b7d7dd-06f6-43da-b2a8-274b9864fa22",
+            "image": null,
+            "name": "Fisher & Paykel Series 7 and Series 9 Washing Machines",
+            "description": "The Fisher & Paykel Series 7 and Series 9 Washing Machines are designed to provide efficient cleaning with innovative technology and versatile wash options, catering to various laundry needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "0005dde5-cdd4-4910-8b0d-c689e6357f89",
+            "image": null,
+            "name": "Nord Electro 6D",
+            "description": "The Nord Electro 6D is a versatile stage piano designed for live performances, featuring a wide range of onboard sounds and virtual instruments, making it a favorite among musicians.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "0f30d7b8-225d-4e9d-b1d4-81d04d22be41",
+            "image": null,
+            "name": "Cuisinart Smart Stick Hand Blender",
+            "description": "The Cuisinart Smart Stick Hand Blender is a versatile kitchen appliance designed for blending, puréeing, and emulsifying ingredients directly in pots, bowls, or containers. Its lightweight and ergonomic design makes it easy to handle for various culinary tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "db2c8abe-ed53-42e9-b776-df2fb8abfa3d",
+            "image": null,
+            "name": "Triigger Series",
+            "description": "The Vertagear Triigger Series comprises high-performance gaming chairs designed for comfort and support during long gaming sessions. They feature adjustable elements to promote ergonomic seating and enhance the gaming experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "3ac4a1c1-861c-444d-b24d-0347e9fd0787",
+            "image": null,
+            "name": "Volkswagen Jetta VI",
+            "description": "The Volkswagen Jetta VI is a compact sedan that combines style, comfort, and practicality, making it a popular choice for those seeking reliability and efficiency in their daily commute.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "29936e41-c842-402e-8733-877ed6473e23",
+            "image": null,
+            "name": "KX Series",
+            "description": "The Kawasaki KX Series includes a range of off-road motorcycles designed for competitive motocross and trail riding, featuring advanced suspension and engine technology for optimal performance and durability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "130692bc-f6bd-49e0-9d78-51380b4480f3",
+            "image": null,
+            "name": "Conté Crayon",
+            "description": "The Conté Crayon series from Conté à Paris includes high-quality art crayons designed for drawing and sketching. These crayons are known for their rich pigments and smooth application on paper.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "f7c198ff-e634-4d9b-8afb-e4bc60509e76",
+            "image": null,
+            "name": "Goodyear Assurance ComforTred",
+            "description": "The Goodyear Assurance ComforTred is a line of tires designed to offer a smooth, comfortable ride with excellent traction and durability for everyday driving conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "f158ea9b-acfa-423e-927f-64a55f78875d",
+            "image": null,
+            "name": "Eagle F1 Asymmetric 2",
+            "description": "The Goodyear Eagle F1 Asymmetric 2 is a high-performance summer tire designed for sports cars and high-performance vehicles, featuring advanced tread design for improved grip and handling capabilities.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "cf3d5ec5-9e60-4f59-827b-5e87076482ee",
+            "image": null,
+            "name": "Eagle F1 Asymmetric 3",
+            "description": "The Goodyear Eagle F1 Asymmetric 3 is a high-performance tire designed for sports cars and high-end vehicles, offering enhanced handling, traction, and comfort on both wet and dry roads.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "32ca06a9-52ef-4765-9163-13330bc14672",
+            "image": null,
+            "name": "Kawasaki Z H2",
+            "description": "The Kawasaki Z H2 is a supercharged naked motorcycle known for its powerful performance, advanced technology, and agile handling, designed for riders who seek thrilling experiences on the road.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "16013ffe-8e19-472d-973c-3fb4cbdee0d5",
+            "image": null,
+            "name": "Kawasaki Ninja 1000SX",
+            "description": "The Kawasaki Ninja 1000SX is a sport-touring motorcycle designed for versatility and comfort, incorporating advanced technology and performance features for both city commuting and long-distance rides.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "0e26fecb-52d9-427f-b28e-aab212f24500",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-10R",
+            "description": "The Kawasaki Ninja ZX-10R is a high-performance sport motorcycle designed for both track and street use, featuring advanced aerodynamics and cutting-edge technology that enhance speed and handling.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "aced5f52-945e-4642-88b4-c2b2958bcca6",
+            "image": null,
+            "name": "Kawasaki Z900RS SE",
+            "description": "The Kawasaki Z900RS SE is a retro-styled motorcycle that combines modern performance with classic design elements. It is built for riders seeking a blend of power, handling, and nostalgia.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "b697bea5-8776-407a-a6e2-85464d2016a2",
+            "image": null,
+            "name": "Michelin Pilot Sport 2",
+            "description": "The Michelin Pilot Sport 2 is a performance tire designed for high-performance vehicles, offering excellent grip and handling characteristics on both wet and dry surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "fff7a7fd-a08e-44dd-9488-5cf3e17ca473",
+            "image": null,
+            "name": "Michelin Primacy HP",
+            "description": "The Michelin Primacy HP is a performance tire designed for passenger vehicles, offering enhanced handling, comfort, and durability. With a focus on low rolling resistance, it aims to improve fuel efficiency while providing reliable traction in various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "4e391e8a-8e52-45fc-b768-3e4a7a90315e",
+            "image": null,
+            "name": "Michelin Primacy 3",
+            "description": "The Michelin Primacy 3 is a premium tire series designed for passenger vehicles, offering enhanced safety and comfort through superior handling, wet grip, and longevity.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "c28be6de-3df1-458f-94dc-d7d4d99c38ed",
+            "image": null,
+            "name": "Michelin Defender",
+            "description": "The Michelin Defender series is a line of all-season tires designed for superior durability, exceptional wet and dry traction, and long-lasting performance, catering to various passenger vehicles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "ad7dabc7-b19f-4b9c-9c1b-0b32859c2c16",
+            "image": null,
+            "name": "Michelin LTX A/T 2",
+            "description": "The Michelin LTX A/T 2 is an all-terrain tire designed for a balanced performance across various terrains, providing durability and traction for both on-road and off-road driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "76240ea4-855d-4423-b596-6db9cff19b73",
+            "image": null,
+            "name": "Pilot Sport 4",
+            "description": "The Michelin Pilot Sport 4 is a high-performance tire designed for sports cars and high-end vehicles, offering superior grip, handling, and wet performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "66c0f283-625e-4d57-a425-8c4ec7dc9f05",
+            "image": null,
+            "name": "X-Ice Xi3",
+            "description": "The Michelin X-Ice Xi3 is a winter tire designed for enhanced traction and control on snowy and icy surfaces, ensuring safety and performance in cold weather conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "77a9bc29-2b15-4ac8-abbc-52fe98d276a2",
+            "image": null,
+            "name": "Michelin Pilot Sport 4S",
+            "description": "The Michelin Pilot Sport 4S is a high-performance summer tire designed for sports cars and high-performance vehicles, offering excellent grip, precise handling, and enhanced braking capabilities in both dry and wet conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "4930640e-4724-4077-8a02-043edc0aaf02",
+            "image": null,
+            "name": "Michelin Agilis 3",
+            "description": "The Michelin Agilis 3 is a commercial tire designed for light trucks and vans, focusing on improved durability, fuel efficiency, and grip in various weather conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "7bfe1f95-5bc6-422c-8d31-d74efa8eff79",
+            "image": null,
+            "name": "Pilot Sport 5",
+            "description": "The Michelin Pilot Sport 5 is a high-performance tire designed to provide exceptional grip and precise handling in dry and wet conditions, making it ideal for sports cars and driving enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        }
+    ]
+}

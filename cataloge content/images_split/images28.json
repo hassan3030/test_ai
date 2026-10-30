@@ -1,0 +1,350 @@
+{
+    "data": [
+        {
+            "id": "8b07783b-5804-43ef-80ed-660cd929c7a8",
+            "image": null,
+            "name": "Adizero",
+            "description": "The Adidas Adizero series is a line of lightweight sneakers designed for speed and performance, catering to runners and athletes who prioritize agility and responsiveness in their footwear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "20c99a38-6fbe-448b-b05f-2457097a5155",
+            "image": null,
+            "name": "Land Rover Range Rover Sport (2010 Model Year)",
+            "description": "The Land Rover Range Rover Sport (2010 Model Year) is a luxury sport utility vehicle known for its off-road capabilities combined with premium comfort and performance, making it suitable for both rugged terrain and city driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3a335f0f-a4b7-45b1-bc50-f23c22e5d81b",
+            "image": null,
+            "name": "Graco Modes 3 Lite DLX",
+            "description": "The Graco Modes 3 Lite DLX is a versatile stroller system designed for convenience and adaptability, offering multiple riding modes to accommodate the needs of both infants and toddlers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "56321975-d480-414f-a188-42f9ad1b0efe",
+            "image": null,
+            "name": "Prologis Logistics Centre",
+            "description": "Prologis Logistics Centre is a series of commercial spaces designed to support efficient logistics and distribution operations, catering to the needs of modern supply chains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Commercial Spaces"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5a6e4697-09fb-46e7-bed4-356f0ee5fe39",
+            "image": null,
+            "name": "Ultraboost",
+            "description": "The Adidas Ultraboost is a performance running shoe known for its energy return technology and comfortable fit, aimed at providing support and cushioning for runners and casual wearers alike.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "5b61a1c6-e38a-45ec-a763-ff484a6b12af",
+            "image": null,
+            "name": "Nuna PIPA series",
+            "description": "The Nuna PIPA series includes a range of high-quality infant car seats designed for safety and convenience, featuring an easy installation process and a lightweight design for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8d065a3a-21fc-4c90-943e-b653c1d965e4",
+            "image": null,
+            "name": "Tubular",
+            "description": "The Adidas Tubular series is a line of modern sneakers that combine athletic style with lifestyle aesthetics. Known for their unique tubular silhouette and comfortable fit, they are designed for both performance and casual wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "8ea44cd2-225b-42a5-b297-d10b89d0cfbb",
+            "image": null,
+            "name": "Vespa GTS 300",
+            "description": "The Vespa GTS 300 is a stylish and powerful scooter designed for urban commuting and leisure rides. Its advanced technology and elegant design make it a popular choice among riders seeking both comfort and performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "c5d29d64-fba8-4bed-9d11-197980b5e260",
+            "image": null,
+            "name": "Ultraboost 21",
+            "description": "The Adidas Ultraboost 21 is a high-performance running shoe designed for comfort and energy return, featuring a responsive Boost midsole and a Primeknit upper for a snug fit.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "c754f57d-38b9-4c79-83f5-1b3d45cacb13",
+            "image": null,
+            "name": "Graco FastAction Fold Click Connect Travel System",
+            "description": "The Graco FastAction Fold Click Connect Travel System is a versatile stroller and car seat combo designed to provide parents with convenience and ease of use during outings with infants. Its one-second fold feature allows for quick and simple storage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "c7694f1d-d120-471b-9457-e346dfa8ae44",
+            "image": null,
+            "name": "Louis Vuitton Monogram Eclipse Canvas",
+            "description": "The Louis Vuitton Monogram Eclipse Canvas series features bags crafted from a coated canvas material showcasing a dark monogram pattern, designed for modern elegance and durability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cb6f8b00-624e-4171-b2a1-3f57afd9f43a",
+            "image": null,
+            "name": "Gucci 1921",
+            "description": "The Gucci 1921 series is a collection of bags that embodies the brand's rich heritage and timeless craftsmanship. These bags are designed to offer both function and style, making them ideal for everyday use and special occasions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6ce2bf1-4b83-4b76-8e84-fbb011641170",
+            "image": null,
+            "name": "Porsche 911 (991)",
+            "description": "The Porsche 911 (991) is a high-performance sports car known for its iconic design and exceptional handling dynamics, serving as a benchmark for luxury and performance in the automotive industry.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "834db665-0cb2-4741-8fe9-9ace89b104dd",
+            "image": null,
+            "name": "Porsche 987",
+            "description": "The Porsche 987 is a sports car series produced by Porsche, which combines performance with the classic styling and engineering excellence associated with the brand. Launched in 2005, it is known for its agile handling, powerful engines, and the option of both coupe and convertible body styles.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ea4cb46b-5ad9-4321-83b3-24fb3b0c8ce4",
+            "image": null,
+            "name": "Porsche 911 (997.2)",
+            "description": "The Porsche 911 (997.2) is a high-performance sports car renowned for its sleek design, advanced engineering, and sporty handling, combining iconic styling with modern technology.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8a5ceb8b-a461-410f-a053-27a0099e175b",
+            "image": null,
+            "name": "Porsche Cayenne (second generation)",
+            "description": "The Porsche Cayenne (second generation) is a luxury SUV known for its blend of performance, comfort, and practicality, making it suitable for both urban and off-road environments.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec4e464c-55f9-4dca-821d-98872ef527bf",
+            "image": null,
+            "name": "Porsche Cayman",
+            "description": "The Porsche Cayman is a mid-engine sports car introduced in 2006, designed to deliver exceptional performance and handling while offering the hallmark luxury and style associated with the Porsche brand.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f58609c0-7421-4589-9140-9ec716f64eb4",
+            "image": null,
+            "name": "Porsche Boxster (987.1)",
+            "description": "The Porsche Boxster (987.1) is a compact, mid-engine sports car, designed to offer an engaging driving experience with responsive handling and a lightweight construction. Introduced in 2007, it combines sporty performance with the comfort of a convertible.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8f067f97-b585-4efe-a36d-5fb456f96142",
+            "image": null,
+            "name": "KTM 625 SMC",
+            "description": "The KTM 625 SMC is a lightweight supermoto motorcycle designed for both street and off-road performance, featuring nimble handling and powerful acceleration for urban riding and trail adventures.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "9abae317-5aae-4b2c-9a45-cc610a46a86b",
+            "image": null,
+            "name": "Land Rover Defender 110",
+            "description": "The Land Rover Defender 110 is a robust, versatile SUV designed for both off-road performance and on-road comfort, known for its durable construction and all-terrain capabilities.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9ed32306-5a51-4447-ae21-5daebf9173d6",
+            "image": null,
+            "name": "Porsche 996",
+            "description": "The Porsche 996 is the internal designation for the Porsche 911 model produced between 1997 and 2005, characterized by its distinctive rounded shapes and advanced performance features, particularly in the handling and power delivery of the rear-engine layout.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a3cdaf54-6ec7-4411-ab7d-89a931c09502",
+            "image": null,
+            "name": "Porsche 911 Turbo (997.1)",
+            "description": "The Porsche 911 Turbo (997.1) is a high-performance sports car that combines iconic design with advanced engineering, featuring all-wheel drive and a turbocharged engine for exceptional speed and handling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1ccdcc15-412c-4bbc-a32d-b44168ad4ed9",
+            "image": null,
+            "name": "Discovery Sport",
+            "description": "The Land Rover Discovery Sport is a compact luxury SUV designed for versatility and off-road capability, offering a balance of comfort and functionality for both urban and adventurous driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3160c26d-bb59-4436-8a42-37bfd8038838",
+            "image": null,
+            "name": "Porsche 918 Spyder",
+            "description": "The Porsche 918 Spyder is a plug-in hybrid supercar that combines high performance with innovative technology and efficiency. Its striking design and powerful engine make it a hallmark of engineering excellence.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "332a21e3-0b23-4e66-a0d3-5f22508b1c47",
+            "image": null,
+            "name": "Porsche 911 (Type 996)",
+            "description": "The Porsche 911 (Type 996) is a sports car renowned for its distinctive design and performance, embodying the classic Porsche driving experience while integrating modern technology.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "42568cef-ed67-4822-94c9-ccd129260027",
+            "image": null,
+            "name": "Porsche Boxster (987.2)",
+            "description": "The Porsche Boxster (987.2) is a mid-engine sports car known for its balanced handling and powerful performance. Released in 2008, it features improvements in styling and technology over its predecessor.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5a6ca5ca-071a-4dc8-b46a-89b469b31cab",
+            "image": null,
+            "name": "Porsche Cayenne (957)",
+            "description": "The Porsche Cayenne (957) is a luxury midsize SUV that combines sporty performance with off-road capability, offering a balance of comfort, practicality, and advanced technology.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a8148ee7-fad0-49ca-ac32-24a7e0df92f9",
+            "image": null,
+            "name": "Porsche Carrera GT",
+            "description": "The Porsche Carrera GT is a mid-engine sports car released in 2003, known for its combination of high performance and distinctive design. It is powered by a V10 engine and was developed as a limited production vehicle, emphasizing driving dynamics and engineering excellence.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9ce899f-80bc-473d-bec5-a4a63601684c",
+            "image": null,
+            "name": "Porsche Panamera (Second Generation)",
+            "description": "The Porsche Panamera (Second Generation) is a luxury four-door sedan that combines high performance with everyday practicality, offering advanced technology and a range of powerful engine options.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9d93ad7-46ba-44fb-8858-98664377e481",
+            "image": null,
+            "name": "Porsche 911 (997.1)",
+            "description": "The Porsche 911 (997.1) is a sports car introduced in 2007, known for its iconic design, rear-engine layout, and exceptional performance. It combines a luxurious driving experience with powerful engine options, catering to enthusiasts and casual drivers alike.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

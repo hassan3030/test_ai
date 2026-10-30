@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "id": "7db61fc7-751c-4560-a6f5-3be8a464b701",
+      "image": "https://www.tdbaltic.ee/images/products/DELONGHI/ECAM22.110.SB_1.jpg",
+      "name": "Magnifica",
+      "description": "The De'Longhi Magnifica series consists of compact coffee machines designed to deliver high-quality espresso and coffee drinks with ease, featuring customizable settings and user-friendly interfaces.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Coffee Machines"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "788ca649-f887-486c-b1ad-122d2c809c29",
+      "image": "https://assets.ajmadison.com/image/upload/c_pad,f_auto,fl_lossy.progressive,h_250,q_auto,w_250/v1/ajmadison/images/large_no_watermark/cl3650uspl625d921fc8ec06.79827571_7b00e.jpg",
+      "name": "Sub-Zero Refrigerators",
+      "description": "The Sub-Zero Refrigerators series offers advanced cooling technology and premium refrigeration solutions designed to preserve food freshness and quality. With a focus on customization and energy efficiency, these refrigerators cater to the needs of modern kitchens.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Refrigerators"
+      },
+      "brand_id": {
+        "name": "Sub-Zero"
+      }
+    },
+    {
+      "id": "f8a2c2ac-3504-43c9-a0dd-85dee1b65ba9",
+      "image": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/astro/en/products/a10-gen-2/pdp-gallery-a10-lilac-01-new.png",
+      "name": "ASTRO A10",
+      "description": "The ASTRO A10 is a wired gaming headset designed for comfort and durability, featuring high-quality audio for an immersive gaming experience.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Gaming Accessories"
+      },
+      "brand_id": {
+        "name": "Astro Gaming"
+      }
+    },
+    {
+      "id": "df7a1b7c-0214-4fb3-b558-23c9f72f595b",
+      "image": "https://klymit.com/cdn/shop/files/Klymaloft-Summit-RG-06KLGR03C-Front-1500x1500.webp",
+      "name": "Klymit Klymaloft",
+      "description": "The Klymit Klymaloft series features versatile sleeping pads designed for comfort and insulation, ideal for camping and outdoor adventures.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Camping Gear"
+      },
+      "brand_id": {
+        "name": "Klymit"
+      }
+    },
+    {
+      "id": "5e89890e-9418-464d-99a4-8f2a489fbb0c",
+      "image": "https://contents.mediadecathlon.com/m3827942/k$0ce406b232edf702a7d09a775caa507c/picture.jpg?format=auto&f=3000x0",
+      "name": "Hummel Authentic",
+      "description": "The Hummel Authentic series offers a range of men's clothing designed for comfort and performance, featuring stylish designs suitable for both athletic and casual wear.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Men's Clothing"
+      },
+      "brand_id": {
+        "name": "Hummel"
+      }
+    },
+    {
+      "id": "3318653e-44d9-4e2e-89aa-5b96074c4ec3",
+      "image": "https://img.brickowl.com/files/image_cache/small/duplo-medium-azure-turn-brick-2-x-2-10888-1688549.png",
+      "name": "DUPLO 10888",
+      "description": "DUPLO 10888 is a colorful building toy set designed for young children, encouraging creativity and fine motor skills through interactive play.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Toys"
+      },
+      "brand_id": {
+        "name": "DUPLO"
+      }
+    },
+    {
+      "id": "26793214-e35f-4a4f-b110-4fcfc204b0db",
+      "image": "https://media.kohlsimg.com/is/image/kohls/5193670?wid=1000&hei=1000&op_sharpen=1",
+      "name": "Cuisinart Classic Thermal Coffee Maker",
+      "description": "The Cuisinart Classic Thermal Coffee Maker is designed to brew coffee at optimal temperatures while keeping it hot in a double-walled stainless steel thermal carafe, ensuring a fresh taste for hours.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Coffee Machines"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "3da4a5a9-208f-44c8-a0ab-b2abc820b2d6",
+      "image": "https://www.townappliance.com/cdn/shop/files/frutpxiqmawi.png?v=1754655088",
+      "name": "Smart Oven+",
+      "description": "The Fisher & Paykel Smart Oven+ series provides versatile microwave functionality designed to enhance cooking efficiency and convenience in modern kitchens.",
+      "release_year": 2022,
+      "subcategory_id": {
+        "name": "Microwaves"
+      },
+      "brand_id": {
+        "name": "Fisher & Paykel"
+      }
+    },
+    {
+      "id": "4955b4e6-54d5-4e31-97e1-b9cc7ed93506",
+      "image": "https://admincms.carlhansen.com/globalassets/products/chairs/ch88p/s9000-n/ch88p-eg-olie-thor301-sort-stel-1.png",
+      "name": "CH88P Chair",
+      "description": "The CH88P Chair is a modern dining chair designed by Hans J. Wegner, featuring an elegant combination of wood and molded plywood that emphasizes comfort and aesthetics, released in 2017.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Chairs"
+      },
+      "brand_id": {
+        "name": "Carl Hansen & Søn"
+      }
+    },
+    {
+      "id": "34a3e523-6e80-4f96-8c4f-70625f172411",
+      "image": null,
+      "name": "Lloyd Flanders Riviera",
+      "description": "The Lloyd Flanders Riviera series offers elegant and durable outdoor furniture designed for comfort and style, making it ideal for patios and outdoor living spaces.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Outdoor Furniture"
+      },
+      "brand_id": {
+        "name": "Lloyd Flanders"
+      }
+    },
+    {
+      "id": "5a083a84-3944-48d5-a69b-e3e7f5096317",
+      "image": null,
+      "name": "Honor V9",
+      "description": "The Honor V9 is a smartphone released in 2017, designed to deliver high performance and innovative features at an accessible price point.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Phones"
+      },
+      "brand_id": {
+        "name": "Honor"
+      }
+    },
+    {
+      "id": "f38c0367-913c-4d7c-9b04-990607fa9fc2",
+      "image": null,
+      "name": "Zoe",
+      "description": "The Renault Zoe is a compact electric vehicle designed for urban driving, combining efficiency with modern technology to provide a sustainable mobility solution.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Renault"
+      }
+    },
+    {
+      "id": "f89fd5de-2906-4fdb-b468-eb2d65c6a797",
+      "image": null,
+      "name": "361° Kicks 3",
+      "description": "The 361° Kicks 3 is a lightweight sneaker designed for casual wear and performance, featuring breathable materials for comfort and a slip-resistant sole for traction.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Sneakers"
+      },
+      "brand_id": {
+        "name": "361 Degrees"
+      }
+    },
+    {
+      "id": "eeffedde-bbc0-45f4-a805-19f94f20bea1",
+      "image": null,
+      "name": "Volkswagen Scirocco III",
+      "description": "The Volkswagen Scirocco III is a compact coupe that combines sporty performance with everyday usability, first introduced in 2008. It is known for its distinctive design and is aimed at drivers looking for a dynamic driving experience.",
+      "release_year": 2008,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Volkswagen"
+      }
+    },
+    {
+      "id": "be25f412-9e40-4dc1-9959-547a45a6e5d8",
+      "image": null,
+      "name": "The Smart Oven Air",
+      "description": "The Smart Oven Air by Breville is a versatile countertop appliance that combines the functions of an air fryer, toaster oven, and dehydrator, allowing users to cook a variety of meals with precision and ease.",
+      "release_year": 2018,
+      "subcategory_id": {
+        "name": "Air Fryers"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "be3e1a65-de27-45f6-b814-e04e5325412d",
+      "image": null,
+      "name": "Beats Studio 3 Wireless",
+      "description": "The Beats Studio 3 Wireless headphones are over-ear headphones designed for immersive sound experiences, incorporating noise cancellation technology and wireless connectivity for convenience and comfort.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Headphones"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "bfa6418e-559a-4b88-a875-d0d240164344",
+      "image": null,
+      "name": "Razer Kraken Tournament Edition",
+      "description": "The Razer Kraken Tournament Edition is a gaming headset designed for immersive audio experiences and competitive gameplay, featuring customizable sound settings and a comfortable design for long gaming sessions.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Gaming Accessories"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "d5323ac6-71b3-4873-ab21-80553d7a8ff8",
+      "image": null,
+      "name": "Dodge Magnum",
+      "description": "The Dodge Magnum is a full-size station wagon that was produced from 2005 to 2008, known for its muscular design and powerful performance, serving as a versatile vehicle that combines the attributes of a sports car with the practicality of a family car.",
+      "release_year": 2005,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Dodge"
+      }
+    },
+    {
+      "id": "f15e02c8-c8d7-4c2e-8bfd-6a5fa245697b",
+      "image": null,
+      "name": "Aston Martin DB11",
+      "description": "The Aston Martin DB11 is a luxury grand tourer that combines high performance with elegant design. It features a twin-turbocharged V8 engine, offering a blend of power and refinement on the road.",
+      "release_year": 2016,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Aston Martin"
+      }
+    },
+    {
+      "id": "6182a54b-a7b9-482e-a752-4355387348c1",
+      "image": null,
+      "name": "Puma Fenty",
+      "description": "The Puma Fenty series, designed in collaboration with singer Rihanna, features stylish sneakers that blend streetwear aesthetics with performance elements, intended for both casual wear and athletic use.",
+      "release_year": 2016,
+      "subcategory_id": {
+        "name": "Sneakers"
+      },
+      "brand_id": {
+        "name": "Puma"
+      }
+    },
+    {
+      "id": "67d9b8a6-a04d-4c18-857e-fc61304c9a49",
+      "image": null,
+      "name": "Medusa Head",
+      "description": "The Medusa Head sunglasses by Versace are characterized by their bold design and luxury aesthetic, featuring the iconic Medusa logo synonymous with the brand. These sunglasses are designed to provide both style and UV protection.",
+      "release_year": 2018,
+      "subcategory_id": {
+        "name": "Sunglasses"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "7d3bb7c8-40df-4268-85c5-788478d04cd6",
+      "image": null,
+      "name": "Nike Air Zoom Structure 20",
+      "description": "The Nike Air Zoom Structure 20 is a performance-oriented sneaker designed for stability and support during running. It features responsive cushioning and a durable construction, making it suitable for both training and everyday wear.",
+      "release_year": 2016,
+      "subcategory_id": {
+        "name": "Sneakers"
+      },
+      "brand_id": {
+        "name": "Nike"
+      }
+    },
+    {
+      "id": "6d9c370f-453b-49cc-a5ac-1553c716896c",
+      "image": null,
+      "name": "Yamaha Tracer 9",
+      "description": "The Yamaha Tracer 9 is a sporty touring motorcycle designed for long-distance rides, combining agility with comfort and modern technology.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Motorcycles"
+      },
+      "brand_id": {
+        "name": "Yamaha"
+      }
+    },
+    {
+      "id": "7ee7334f-cd70-4b01-b08d-cdb85e1a4065",
+      "image": null,
+      "name": "Dodge Grand Caravan",
+      "description": "The Dodge Grand Caravan is a versatile minivan known for its spacious interior and family-friendly features, designed to provide comfort and convenience for everyday use.",
+      "release_year": 2000,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Dodge"
+      }
+    },
+    {
+      "id": "7f51c043-cf39-4efd-b3de-09af5d180814",
+      "image": null,
+      "name": "Lexus ES",
+      "description": "The Lexus ES is a midsize luxury sedan known for its elegant design, smooth performance, and emphasis on comfort and technology. It is designed to provide an enjoyable driving experience while delivering a high level of refinement and safety features.",
+      "release_year": 2018,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Lexus"
+      }
+    },
+    {
+      "id": "7fe5d350-a10a-4fd5-9811-f273303d7c45",
+      "image": null,
+      "name": "Great Wall Hover",
+      "description": "The Great Wall Hover is a series of SUVs manufactured by Great Wall Motors, first released in 2000. It is known for offering a balance of affordability and off-road capability.",
+      "release_year": 2000,
+      "subcategory_id": {
+        "name": "SUVs"
+      },
+      "brand_id": {
+        "name": "Great Wall Motors"
+      }
+    },
+    {
+      "id": "96aa0cbb-5947-4e74-9313-4d79cd610cf9",
+      "image": null,
+      "name": "Aprilia RSV 1000 Mille",
+      "description": "The Aprilia RSV 1000 Mille is a sport motorcycle designed for high performance, featuring a powerful V-twin engine and advanced handling capabilities, making it suitable for both track and road use.",
+      "release_year": 2002,
+      "subcategory_id": {
+        "name": "Motorcycles"
+      },
+      "brand_id": {
+        "name": "Aprilia"
+      }
+    },
+    {
+      "id": "a6c7d5d3-6831-433a-9251-444867f65f5d",
+      "image": null,
+      "name": "Powerbeats Pro",
+      "description": "Beats Powerbeats Pro are truly wireless in-ear headphones designed for active lifestyles, delivering powerful audio performance while ensuring a secure and comfortable fit during workouts.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Headphones"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "bf905906-c8fc-4a0c-baab-ebaf3c467dfd",
+      "image": null,
+      "name": "Fendi Strap You",
+      "description": "The Fendi Strap You series offers customizable straps designed to enhance and personalize Fendi bags. Launched in 2017, these detachable straps are available in various colors and materials, allowing for individual expression.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Bags"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "c520a895-f43e-411b-a7b9-11216bd54b18",
+      "image": null,
+      "name": "Fendi F IS FENDI",
+      "description": "The Fendi F IS FENDI series features a collection of luxury accessories characterized by contemporary designs and high-quality craftsmanship, aimed at elevating everyday style.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Accessories"
+      },
+      "brand_id": null
+    }
+  ]
+}

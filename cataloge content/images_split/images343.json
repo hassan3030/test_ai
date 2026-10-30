@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "eac49db4-4958-41b7-bcff-a110ece3ed18",
+            "image": null,
+            "name": "G-SHOCK GM-110",
+            "description": "The Casio G-SHOCK GM-110 series is a line of durable, shock-resistant watches designed for extreme conditions, featuring a stylish design and advanced timekeeping functionalities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "4961a080-ec16-4684-9ee1-5ebd03939afb",
+            "image": null,
+            "name": "Enkei Precision Series",
+            "description": "The Enkei Precision Series consists of high-quality rims designed for performance and visual appeal, catering to automotive enthusiasts seeking reliable wheel options.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "bc71a215-482c-41a5-9e24-8b77f2cb32bf",
+            "image": null,
+            "name": "G-SHOCK GA-2000 Series",
+            "description": "The Casio G-SHOCK GA-2000 Series is a collection of durable and stylish analog-digital watches, designed for active lifestyles while showcasing innovative materials and a modern aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "99eb37ef-10e3-41a7-b5b1-c7e798c737e1",
+            "image": null,
+            "name": "Enkei Performance Series",
+            "description": "The Enkei Performance Series includes a range of lightweight and durable wheels engineered for high-performance vehicles, enhancing both aesthetic appeal and driving dynamics.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "a724449e-6a57-4f37-aad8-137bac88bcf4",
+            "image": null,
+            "name": "Coleman 4-in-1 Camp Oven",
+            "description": "The Coleman 4-in-1 Camp Oven is a versatile camping accessory designed for cooking, baking, and food storage while enjoying the outdoors. Its innovative design features multiple functions, making it suitable for various cooking tasks at the campsite.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "a9e88756-2203-4c63-918b-66388e6702be",
+            "image": null,
+            "name": "TS10",
+            "description": "The Enkei TS10 series features lightweight alloy rims designed for performance and durability, making them suitable for both street and motorsport applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "ac333c94-8588-4771-ae8a-e719bae53394",
+            "image": null,
+            "name": "PRO TREK PRT-B50 Series",
+            "description": "The PRO TREK PRT-B50 Series by Casio is designed for outdoor enthusiasts, featuring advanced navigational capabilities, Bluetooth connectivity, and a built-in compass to aid in exploration and adventure.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "cd7dae50-c942-4b3c-a46a-f5456d9860d6",
+            "image": null,
+            "name": "Focal Grande Utopia EM",
+            "description": "The Focal Grande Utopia EM is a high-end speaker series designed for audiophiles, renowned for its exceptional sound quality and precise acoustic performance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "a8d5aafd-6cc6-454f-9adb-9a2c9d984a0e",
+            "image": null,
+            "name": "Coleman 4-Person Instant Cabin Tent",
+            "description": "The Coleman 4-Person Instant Cabin Tent is designed for easy setup and comfort, making it suitable for family camping trips and outdoor adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "f27ecfb5-9983-4236-a726-cbfba0ecfc28",
+            "image": null,
+            "name": "Focal Listen Wireless",
+            "description": "The Focal Listen Wireless series includes over-ear headphones designed for a premium audio experience with wireless convenience. They combine high-quality sound with comfort for extended listening sessions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "4ed2815d-4887-488b-ac87-395deddf4f68",
+            "image": null,
+            "name": "Lenovo Phab 2 Pro",
+            "description": "The Lenovo Phab 2 Pro is a smartphone designed to offer advanced augmented reality capabilities with its integrated Tango technology, featuring a large display and a focus on providing a rich multimedia experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "d2b2d4e0-51ed-4a41-b7b0-c0b8c364dd49",
+            "image": null,
+            "name": "Focal Eleva",
+            "description": "The Focal Eleva series features high-fidelity headphones designed for immersive audio experiences, combining superior sound quality with comfortable ergonomics for both casual listening and professional use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "adec25e8-ceb9-43fb-bfc3-89c27dd3b56f",
+            "image": null,
+            "name": "Blaupunkt Amsterdam",
+            "description": "The Blaupunkt Amsterdam series is a line of car audio products released in 2001, designed to enhance audio quality and provide various features for an improved in-vehicle listening experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "dcf0aef7-3bbd-4a21-bdd5-1c2064673d7b",
+            "image": null,
+            "name": "Lenovo Tab P10",
+            "description": "The Lenovo Tab P10 is a versatile Android tablet designed for entertainment and productivity, featuring a sleek design and multiple audio channels for an immersive experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "9d609f19-2289-4676-bc57-5e2cdf6db64d",
+            "image": null,
+            "name": "Dell Alienware M15 R6",
+            "description": "The Dell Alienware M15 R6 is a high-performance gaming laptop designed for immersive gaming experiences, featuring advanced cooling technology and customizable lighting.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "84668de5-4ab5-484f-814c-3bdd08249185",
+            "image": null,
+            "name": "Dell G15 Gaming Laptop",
+            "description": "The Dell G15 Gaming Laptop is designed for gamers seeking a powerful and immersive gaming experience with high-performance components and an efficient cooling system for extended play sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "790e0437-affb-4b19-805d-6c38cf258d17",
+            "image": null,
+            "name": "Dell Inspiron 16 2-in-1",
+            "description": "The Dell Inspiron 16 2-in-1 is a versatile laptop designed for both productivity and entertainment, featuring a flexible touchscreen display that can be used in various modes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c1869958-6114-4f83-ac45-168216cf65f1",
+            "image": null,
+            "name": "OshKosh B'gosh Summer Collection",
+            "description": "The OshKosh B'gosh Summer Collection features a range of stylish and comfortable clothing designed for kids, perfect for warm weather and outdoor activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "c085b87e-72ea-455b-82d0-acd7cb957b54",
+            "image": null,
+            "name": "Sub Utopia",
+            "description": "The Focal Sub Utopia series is a high-performance line of car audio subwoofers designed to deliver deep bass and clarity, enhancing the overall listening experience in vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "c6758f64-1bee-4ea8-9527-3e34bc2f3dd4",
+            "image": null,
+            "name": "RPF1",
+            "description": "The Enkei RPF1 is a lightweight, high-performance wheel designed for motorsport and enthusiasts, featuring a unique design that promotes strength and style.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "4b9790cd-9e5d-4adc-9f1d-4d723b255a6e",
+            "image": null,
+            "name": "Focal XS",
+            "description": "The Focal XS series encompasses high-quality headphones designed for audiophiles seeking exceptional sound fidelity and comfort. First released in 2005, these headphones feature a sleek design and are optimized for both home and portable use.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "0294dfcf-91a9-4d8d-9dd1-727860914c7f",
+            "image": null,
+            "name": "Evolution",
+            "description": "The Enkei Evolution series offers lightweight and high-performance wheels designed specifically for racing and motorsports. These rims feature advanced engineering for improved handling and responsiveness.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "53eb95bb-66e9-4aa9-b405-d0b2ac6d8b30",
+            "image": null,
+            "name": "Coleman Cabin Tent",
+            "description": "The Coleman Cabin Tent series is designed for family camping trips, offering spacious living areas and convenient features to enhance the outdoor experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "9cbb70f0-3ea5-4000-b1cd-14b887f27005",
+            "image": null,
+            "name": "Surface Book 2",
+            "description": "The Microsoft Surface Book 2 is a versatile laptop designed for both professionals and creatives, featuring a detachable touchscreen that allows it to function as both a laptop and a tablet.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "2ec2f404-d5a8-4589-ad90-12f72f8cec7b",
+            "image": null,
+            "name": "Sib",
+            "description": "The Focal Sib series consists of compact speakers designed for high-quality audio performance in home theater and music systems, known for their versatility and precise sound reproduction.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "c4592e22-c6cf-493d-8663-3979e3c3e8cb",
+            "image": null,
+            "name": "G-SHOCK GA-700",
+            "description": "The Casio G-SHOCK GA-700 series is known for its durability and toughness, making it suitable for rugged outdoor activities and extreme conditions. It features a bold design with an analog-digital display and offers functionalities such as stopwatch, countdown timer, and world time.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "a5ab5370-6952-4ece-9cc4-19f47bb1668b",
+            "image": null,
+            "name": "Coleman Trailhead II Sleeping Bag",
+            "description": "The Coleman Trailhead II Sleeping Bag is designed for comfort and warmth during camping trips, featuring a durable construction suitable for 3-season use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "39132106-e425-439f-ae3f-31a78a3d76f4",
+            "image": null,
+            "name": "Coleman Portable Propane Grill",
+            "description": "The Coleman Portable Propane Grill is designed for outdoor cooking convenience, making it a reliable choice for camping trips and other outdoor adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "bb532718-dbd6-41e9-b64a-55edcdf3d871",
+            "image": null,
+            "name": "Coleman 4-Person Instant Setup Tent",
+            "description": "The Coleman 4-Person Instant Setup Tent is designed for quick and easy assembly, making it a convenient choice for campers looking for reliable shelter during outdoor adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "dca6cefa-3ea4-4143-9856-9d7fae06312a",
+            "image": null,
+            "name": "Enkei Racing Series",
+            "description": "The Enkei Racing Series includes high-performance rims designed for motorsport applications, focusing on lightweight construction and enhanced durability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        }
+    ]
+}

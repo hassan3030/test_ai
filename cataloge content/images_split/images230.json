@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "99eccd15-1ae3-4ea5-be27-e5900b00e742",
+            "image": null,
+            "name": "ROG Claymore",
+            "description": "The Asus Republic of Gamers ROG Claymore is a premium gaming keyboard designed for gamers, featuring customizable mechanical switches and an innovative modular design for enhanced functionality and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "a504b9a3-588d-4def-aaac-a5e9eb87b1e0",
+            "image": null,
+            "name": "ROG Strix Scar",
+            "description": "The Asus Republic of Gamers (ROG) Strix Scar series consists of high-performance gaming PCs designed for gamers seeking powerful graphics, fast processors, and customizable RGB lighting to enhance their gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "10849a94-0047-42fa-9f1b-bbdda0e10b1d",
+            "image": null,
+            "name": "ROG Swift PG27VQ",
+            "description": "The Asus Republic of Gamers ROG Swift PG27VQ is a high-performance gaming monitor designed for competitive gamers, featuring a 27-inch display with a 144Hz refresh rate and G-SYNC technology for smooth visuals.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "ccaf18f9-551b-4204-8dff-b74a4e5f74ec",
+            "image": null,
+            "name": "ROG Flow Z13",
+            "description": "The Asus Republic of Gamers (ROG) Flow Z13 is a versatile gaming PC designed to provide high-performance gaming experiences in a compact form factor, suitable for gamers and creators alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "b4da9754-3bfc-453f-bbdc-fb8302427b2c",
+            "image": null,
+            "name": "ROG Ally",
+            "description": "The Asus Republic of Gamers (ROG) Ally series includes advanced gaming accessories designed to enhance the gaming experience with high performance and innovative features.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "b70b6aa3-6878-4f9f-9608-c02c31360b72",
+            "image": null,
+            "name": "Elite Pro 2",
+            "description": "The Turtle Beach Elite Pro 2 is a high-performance gaming headset designed specifically for Xbox, offering superior comfort, sound quality, and advanced communication features for gamers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "c4ca4316-a7c3-4020-a4b0-69271daf14dc",
+            "image": null,
+            "name": "Turtle Beach Stealth 600",
+            "description": "The Turtle Beach Stealth 600 is a wireless gaming headset designed for immersive audio experiences and comfort, featuring proprietary technologies that enhance gameplay and communication.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "9b40d224-7ae6-42b5-ba7b-0e417cb79c40",
+            "image": null,
+            "name": "Griot's Garage Complete Detailing Kit",
+            "description": "Griot's Garage Complete Detailing Kit is a comprehensive collection of car care products designed to provide everything needed for a thorough detailing process, ensuring a clean and polished finish for vehicles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "5e6420e6-d80b-4529-bfc5-f432890e45ff",
+            "image": null,
+            "name": "Griot's Garage Paint Sealant",
+            "description": "Griot's Garage Paint Sealant is a premium synthetic sealant designed to provide long-lasting protection to automotive paint surfaces while enhancing gloss and depth of color.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "44989877-fd27-48c7-b8fe-132471f49868",
+            "image": null,
+            "name": "Omen Gaming Hub",
+            "description": "The Omen Gaming Hub is a suite of gaming accessories designed to enhance the gaming experience, providing tools for performance optimization and device management.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "5ce6f48e-7055-49ed-9900-31335100c84c",
+            "image": null,
+            "name": "Omen 16",
+            "description": "The Omen 16 is a versatile gaming laptop designed for high-performance gaming and multitasking, featuring advanced graphics and processing capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "03b20c36-db71-4688-9d3c-1e24fd3484cf",
+            "image": null,
+            "name": "Omen Vector",
+            "description": "The Omen Vector series by HP is designed to enhance the gaming experience with high-performance gaming accessories that feature customizable RGB lighting and ergonomic designs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "c4274ca5-c367-40fa-a2c3-f8190792bdc4",
+            "image": null,
+            "name": "ROG Strix Scar II GL704",
+            "description": "The Asus Republic of Gamers (ROG) Strix Scar II GL704 is a high-performance gaming laptop designed for competitive gamers, featuring a powerful graphics card and advanced cooling technologies for enhanced gameplay.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "c7f9e6f5-2977-49fd-a23a-32a3953dd99a",
+            "image": null,
+            "name": "ROG Strix Scar III",
+            "description": "The Asus Republic of Gamers ROG Strix Scar III is a high-performance gaming laptop series designed for competitive gamers, featuring advanced cooling technologies, customizable lighting, and powerful hardware to deliver an immersive gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "e0d3731b-0dd1-4717-8286-ba440aaff2f3",
+            "image": null,
+            "name": "ROG Zephyrus S GX701",
+            "description": "The Asus Republic of Gamers ROG Zephyrus S GX701 is a high-performance gaming laptop designed for gamers seeking a powerful and portable solution, showcasing a sleek design and advanced cooling technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "24355b5e-6bf5-4e67-bb37-6b743c72cc40",
+            "image": null,
+            "name": "ROG Phone II",
+            "description": "The Asus Republic of Gamers ROG Phone II is a high-performance gaming smartphone designed to deliver an immersive gaming experience with enhanced graphics, superior cooling, and customizable gaming controls.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "88d81c40-8c05-4294-a636-233448b6b940",
+            "image": null,
+            "name": "ROG Thunderbolt 3 Dock",
+            "description": "The Asus Republic of Gamers ROG Thunderbolt 3 Dock is a high-performance docking station designed to enhance gaming and productivity, providing multiple connectivity options and support for various peripherals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "f02ea07e-4841-44e0-9548-1748b44ec954",
+            "image": null,
+            "name": "ROG Strix Scar 17",
+            "description": "The Asus Republic of Gamers ROG Strix Scar 17 is a high-performance gaming laptop designed for gamers seeking powerful hardware and advanced features for an immersive gaming experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "28c7d543-6360-4e12-a4ae-85a16671f913",
+            "image": null,
+            "name": "ROG Zephyrus G14",
+            "description": "The Asus Republic of Gamers Zephyrus G14 is a compact gaming laptop known for its performance and portability, targeted at gamers who require powerful hardware in a sleek design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "57d38c0a-591b-4c17-bf64-edccd20021c0",
+            "image": null,
+            "name": "ROG Zephyrus G15",
+            "description": "The Asus Republic of Gamers Zephyrus G15 is a high-performance gaming laptop designed for gamers seeking powerful performance in a portable format. It features advanced cooling technology and a sleek design, making it suitable for both gaming and everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "09f3c24c-29eb-405a-8757-22dd56b01811",
+            "image": null,
+            "name": "ROG Flow X13",
+            "description": "The Asus Republic of Gamers (ROG) Flow X13 is a versatile gaming laptop designed for high-performance gaming and portability, featuring a 360-degree hinge for use as a tablet or laptop.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "37b1f32e-d242-4cbf-b80b-2fda64fc416b",
+            "image": null,
+            "name": "ROG Zephyrus G14 (2022)",
+            "description": "The Asus Republic of Gamers (ROG) Zephyrus G14 (2022) is a high-performance gaming laptop designed for gamers and creators, featuring a compact form factor with powerful hardware and a high refresh rate display for an immersive experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "e662c692-464d-403f-aaeb-4c05bd869c70",
+            "image": null,
+            "name": "Chery QQ",
+            "description": "The Chery QQ is a compact city car produced by the Chinese automaker Chery, known for its affordability, practical design, and efficient use of space, making it ideal for urban driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "be2471c5-d093-44b0-be34-ada6c350b3aa",
+            "image": null,
+            "name": "Chery Tiggo",
+            "description": "The Chery Tiggo is a series of compact SUVs designed for urban driving and practicality, offering a balance of comfort and functionality since its introduction in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "edf6c9be-e538-4c2d-a7a5-6ae7d28d5579",
+            "image": null,
+            "name": "Chery A3",
+            "description": "The Chery A3 is a compact sedan produced by the Chinese automotive manufacturer Chery, designed to offer practicality and efficiency for everyday use.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "52380e47-0d3d-4c39-bbb3-4987275e79a6",
+            "image": null,
+            "name": "Chery A1",
+            "description": "The Chery A1 is a compact car produced by the Chinese automotive manufacturer Chery Automobile, aimed at delivering an affordable and fuel-efficient driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "09daaa8b-97ae-4861-b5bc-dd7bbe0811d3",
+            "image": null,
+            "name": "Chery A5",
+            "description": "The Chery A5 is a sedan produced by the Chinese automotive manufacturer Chery, first released in 2004. It is designed to provide a balance of affordability and modern features for consumers seeking a compact family car.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "dde00716-4992-49b2-8298-7bbf2ac5f91b",
+            "image": null,
+            "name": "Chery Kimo",
+            "description": "The Chery Kimo is a compact car produced by Chinese manufacturer Chery Automobile, designed for urban mobility with an emphasis on affordability and efficiency.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "ad2c4f9c-5de1-41f6-b94a-8e9805176669",
+            "image": null,
+            "name": "Chery E5",
+            "description": "The Chery E5 is a compact sedan that offers a blend of comfort and efficiency, designed for urban commuting and daily use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "b655241c-3187-477c-9026-d6faffc75250",
+            "image": null,
+            "name": "Chery Tiggo 5",
+            "description": "The Chery Tiggo 5 is a compact SUV introduced in 2010, designed to offer a balance of style, comfort, and functionality for urban and suburban driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        }
+    ]
+}

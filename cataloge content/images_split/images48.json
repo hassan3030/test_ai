@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "42c27065-7c12-4801-872c-89fcbd6f1c0b",
+            "image": null,
+            "name": "Mercedes-Benz GLS (X167)",
+            "description": "The Mercedes-Benz GLS (X167) is a luxury full-size SUV that combines spaciousness and advanced technology, designed to offer exceptional performance and comfort for families and long-distance travelers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "472b07d0-4bca-4826-9b9b-c75263939c20",
+            "image": null,
+            "name": "Mercedes-Benz C-Class (W206)",
+            "description": "The Mercedes-Benz C-Class (W206) is a luxury compact executive car known for its refined performance, advanced technology, and elegant design. Released in 2021, this series emphasizes comfort and innovative features for a premium driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "4c0dc7e6-3109-4d95-9ccb-a58d4b1638fb",
+            "image": null,
+            "name": "LG Stylo 6",
+            "description": "The LG Stylo 6 is a mid-range smartphone known for its large display and integrated stylus, designed for users who value productivity and creativity on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "5b34d453-845a-43ac-a41f-1234a09b9e3e",
+            "image": null,
+            "name": "Great Wall Voleex C30",
+            "description": "The Great Wall Voleex C30 is a compact sedan produced by Great Wall Motors, designed to offer affordable and reliable transportation with a focus on practicality and efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "bb61e17e-fea9-451d-9e03-6ada4342953c",
+            "image": null,
+            "name": "S2 Pro",
+            "description": "The Baja Designs S2 Pro is a compact yet powerful LED light designed for off-road vehicles, providing exceptional brightness and beam distance for enhanced visibility in challenging terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Baja Designs"
+            }
+        },
+        {
+            "id": "ce29e280-3f1d-4924-aa70-f35726710dc9",
+            "image": null,
+            "name": "Subaru Legacy (2004 Generation)",
+            "description": "The Subaru Legacy (2004 Generation) is a mid-size car known for its all-wheel drive capabilities, durability, and spacious interior, making it a reliable choice for both daily commuting and family use.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d9e7aa33-d600-40b2-b15a-ba0542649855",
+            "image": null,
+            "name": "Phoenix Gold RX",
+            "description": "The Phoenix Gold RX series is a line of car audio products known for their high-quality sound performance and durability, designed to enhance the in-car listening experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "64bfc8c0-b735-4015-8c3c-a03e7f2fc2b7",
+            "image": null,
+            "name": "Kappa Series",
+            "description": "The Kappa Series by Infinity is a line of high-performance car audio speakers designed to deliver exceptional sound quality and clarity for car audio enthusiasts.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Infinity"
+            }
+        },
+        {
+            "id": "f4f002a4-7c26-48fe-8e76-8881e20805f0",
+            "image": null,
+            "name": "Royal Enfield Bullet",
+            "description": "The Royal Enfield Bullet is a classic motorcycle series known for its vintage styling and robust construction, designed primarily for urban commuting and leisure riding.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "6611294f-8b12-4023-aa7d-067ee437f819",
+            "image": null,
+            "name": "Royal Enfield Bullet Electra",
+            "description": "The Royal Enfield Bullet Electra is a classic motorcycle that combines vintage design with modern technology, catering to riders who appreciate a blend of style and performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "2881ddfb-32db-4aa7-9d2e-9fe2ff73ab02",
+            "image": null,
+            "name": "TomTom Adventurer",
+            "description": "The TomTom Adventurer is a smartwatch designed for outdoor sports enthusiasts, featuring GPS tracking, heart rate monitoring, and rugged durability suitable for various adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "TomTom"
+            }
+        },
+        {
+            "id": "67048362-0b30-49d4-b631-bc89f8bef1de",
+            "image": null,
+            "name": "Phoenix Gold RSD",
+            "description": "The Phoenix Gold RSD series is a line of car audio components designed to deliver superior sound quality and performance for automotive audio systems.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "7059e966-a87f-4ceb-b855-85823abc061c",
+            "image": null,
+            "name": "Bullet 500",
+            "description": "The Royal Enfield Bullet 500 is a classic motorcycle known for its retro design and enduring performance, primarily aimed at riders seeking a blend of heritage and functionality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "8ab3a5c1-9ce6-4e0e-bb92-da0e065fabdc",
+            "image": null,
+            "name": "Thunderbird",
+            "description": "The Royal Enfield Thunderbird is a motorcycle designed for touring enthusiasts, characterized by its robust build, comfortable seating, and long-range capability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "a7cbfdca-91e2-4866-8c7f-de7dd8b3ab74",
+            "image": null,
+            "name": "Ti Series",
+            "description": "The Phoenix Gold Ti Series is a line of car audio products released in 2005, designed to deliver high-quality sound and exceptional performance for automobile audio systems.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "fc2bbe74-ebef-4247-97ba-e1029d859ab0",
+            "image": null,
+            "name": "Bajaj Caliber",
+            "description": "The Bajaj Caliber is a series of motorcycles introduced in 2002 by Bajaj Auto, designed to offer a combination of reliability, performance, and fuel efficiency for everyday commuting.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "b581d54c-3046-4cea-b06d-c7511d470330",
+            "image": null,
+            "name": "Thunderbird 350",
+            "description": "The Royal Enfield Thunderbird 350 is a classic motorcycle known for its rugged design and long-distance touring capabilities, featuring a comfortable riding position and reliable performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "c1f1d06d-7510-4994-8801-06a4b9cc2d72",
+            "image": null,
+            "name": "Phoenix Gold R-Series Amplifiers",
+            "description": "The Phoenix Gold R-Series Amplifiers are designed to deliver high-quality audio performance for car audio systems, featuring efficient power handling and versatile installation options.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "c925c148-c1aa-4a7c-8d01-e96f48d8aacb",
+            "image": null,
+            "name": "Phoenix Gold Tantrum",
+            "description": "The Phoenix Gold Tantrum series is designed for car audio enthusiasts, delivering high-quality sound reinforcement and performance with its amplifiers and speakers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "c9a3dc57-9ffb-4e27-ae37-a6a63f7cf6d5",
+            "image": null,
+            "name": "Phoenix Gold Octane-R",
+            "description": "The Phoenix Gold Octane-R series is designed to deliver high-quality car audio performance, emphasizing clarity and power for an enhanced listening experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "1668c6f4-cebe-47e5-aef6-aa2f51dfd94e",
+            "image": null,
+            "name": "Royal Enfield Bullet 500",
+            "description": "The Royal Enfield Bullet 500 is a classic motorcycle known for its vintage styling and robust build. Introduced in 2002, it caters to riders seeking a combination of timeless design and reliable performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "18081799-a8f1-4408-97a8-39f23c5515cb",
+            "image": null,
+            "name": "Phoenix Gold MAX Series",
+            "description": "The Phoenix Gold MAX Series is a line of high-performance car audio products designed to deliver superior sound quality and reliable performance, catering to car audio enthusiasts and professionals alike.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "1d3c4cae-b7c7-48cc-acc6-08499756c6df",
+            "image": null,
+            "name": "Phoenix Gold Titanium",
+            "description": "The Phoenix Gold Titanium series features high-performance car audio components designed to deliver superior sound quality and durability. Launched in 2001, this series is known for its reliability and premium materials.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "2dd6ce73-8f76-43d5-b2f7-9d8f057680dc",
+            "image": null,
+            "name": "Phoenix Gold Z-Series Amplifiers",
+            "description": "The Phoenix Gold Z-Series Amplifiers are designed to enhance car audio systems by delivering high power output and improved sound quality, making them ideal for car audio enthusiasts seeking premium performance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "33cfd5b8-54b0-459e-a6cc-0eae81c6dbb0",
+            "image": null,
+            "name": "Phoenix Gold R.S. Series",
+            "description": "The Phoenix Gold R.S. Series is a line of car audio products designed to deliver high-quality sound performance and durability for automotive applications.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "33ff80d5-b5fc-42e8-9065-bb9abd8d70fa",
+            "image": null,
+            "name": "Royal Enfield Bullet 350",
+            "description": "The Royal Enfield Bullet 350 is a classic motorcycle known for its vintage design, robust build, and single-cylinder engine, catering to motorcycle enthusiasts seeking a blend of heritage and performance.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "556b16ae-f806-49ca-bbe5-f1e2bd6b257b",
+            "image": null,
+            "name": "Tantrum",
+            "description": "The Phoenix Gold Tantrum series is designed for car audio enthusiasts seeking high-performance sound systems, known for their powerful amplification and reliability in delivering exceptional audio quality.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "5ba2b635-13ea-4b4b-97e7-d8dea38e2e23",
+            "image": null,
+            "name": "Riot",
+            "description": "The Phoenix Gold Riot series is a line of car audio products released in 2007, designed to provide powerful sound performance and user-friendly features for audiophiles and casual listeners alike.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "5dc4801d-6543-438c-a26a-add263fc18e8",
+            "image": null,
+            "name": "Phoenix Gold Z Series",
+            "description": "The Phoenix Gold Z Series is a line of car audio products released in 2004, designed to deliver high-quality sound performance and reliability for automotive audio systems.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "e4513f27-84bf-4626-a38c-26a1a4e4a4aa",
+            "image": null,
+            "name": "Surface Pro",
+            "description": "The Microsoft Surface Pro series is a line of 2-in-1 detachable laptops designed for versatility and portability, combining the functionality of a laptop with the convenience of a tablet.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        }
+    ]
+}

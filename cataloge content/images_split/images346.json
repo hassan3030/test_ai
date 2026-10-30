@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "45e3c2bd-5acb-4d0f-8893-dcce5534c146",
+            "image": null,
+            "name": "Lenovo Yoga 9i (Gen 7)",
+            "description": "The Lenovo Yoga 9i (Gen 7) is a convertible laptop designed for versatility and performance, featuring a high-quality display and robust audio capabilities, ideal for both productivity and entertainment.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "b5d0b309-31e1-483f-a2a2-a66ee876db27",
+            "image": null,
+            "name": "Ring Doorbell Pro 2",
+            "description": "The Ring Doorbell Pro 2 is a smart doorbell that offers high-definition video, two-way audio, and advanced motion detection to enhance home security and monitor visitors at the front door.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "cfb38e1a-1555-4d11-a47e-b10d1ff69bf5",
+            "image": null,
+            "name": "Lenovo Legion 5i Pro Gen 7",
+            "description": "The Lenovo Legion 5i Pro Gen 7 is a high-performance gaming laptop series designed for gamers seeking exceptional graphics and processing power, featuring advanced cooling systems and immersive display technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "f359e471-782c-4108-9f12-af95b1797acb",
+            "image": null,
+            "name": "LaFerrari",
+            "description": "The Ferrari LaFerrari is a hybrid sports car that combines cutting-edge technology with unparalleled performance, representing the pinnacle of Ferrari's engineering prowess.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "248321ba-bcbb-4ea3-a0ed-c662c2853e9e",
+            "image": null,
+            "name": "Ferrari 488 GTB",
+            "description": "The Ferrari 488 GTB is a mid-engine sports car designed for high performance and agility, featuring advanced aerodynamics and cutting-edge technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "a3c31261-8c7e-48fe-8b29-2a069ddfedc5",
+            "image": null,
+            "name": "Ring Stick Up Cam Elite",
+            "description": "The Ring Stick Up Cam Elite is a versatile smart home security camera designed for indoor and outdoor use, offering flexible installation options and advanced features such as1080p HD video, two-way talk, and customizable motion detection.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "54faeb05-c98c-4260-a532-3ef2d84f9f35",
+            "image": null,
+            "name": "Ferrari F8",
+            "description": "The Ferrari F8 is a high-performance sports car known for its stunning design, powerful engine, and track-oriented capabilities, offering an exhilarating driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "00d96514-a364-448f-97a8-c9212d31e97b",
+            "image": null,
+            "name": "Lenovo IdeaPad Slim 5i Gen 8",
+            "description": "The Lenovo IdeaPad Slim 5i Gen 8 is a lightweight laptop designed for everyday tasks, featuring a blend of performance and portability suitable for students and professionals alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "9e822e3d-c187-402b-b29b-935a48737e6e",
+            "image": null,
+            "name": "HP Pavilion x360",
+            "description": "The HP Pavilion x360 is a versatile 2-in-1 laptop designed for users seeking flexibility in functionality, allowing it to easily switch between laptop and tablet modes for both productivity and entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "85ec3868-7ecf-4e4f-93e7-dfba10651307",
+            "image": null,
+            "name": "Michelin Latitude Diamaris",
+            "description": "The Michelin Latitude Diamaris is a premium tire designed for luxury SUVs, providing exceptional road handling, comfort, and durability on both wet and dry surfaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "844a646f-ab63-41f6-95fa-96685dec6a22",
+            "image": null,
+            "name": "Pilot Sport PS2",
+            "description": "The Michelin Pilot Sport PS2 is a high-performance tire designed for sports cars, providing exceptional grip, handling, and stability in both dry and wet conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "b1f3abb9-489f-4436-bd3f-cbc40085e0fc",
+            "image": null,
+            "name": "Lenovo ThinkPad X1 Carbon Gen 10",
+            "description": "The Lenovo ThinkPad X1 Carbon Gen 10 is a premium business laptop known for its durability, performance, and lightweight design, ideally suited for professionals who require mobility without compromising on power.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "c2a6a75d-f583-4066-b3c7-290e5459f80a",
+            "image": null,
+            "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+            "description": "The Lenovo ThinkPad X1 Carbon Gen 11 is a premium business laptop designed for professionals who require a lightweight, durable, and high-performance device for productivity on the go. This series emphasizes mobility, advanced security features, and an exceptional display quality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "9b3c0f5a-6b87-4a14-a3a4-64ab4483d269",
+            "image": null,
+            "name": "Rocket",
+            "description": "The American Racing Rocket series includes a variety of high-performance rims designed for enhanced aesthetics and durability, making them suitable for both street and racing applications.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "b8e99853-820b-45c4-8fb2-0977b7575adf",
+            "image": null,
+            "name": "Ferrari F12tdf",
+            "description": "The Ferrari F12tdf is a high-performance sports car that combines exceptional aerodynamics and lightweight design, delivering an exhilarating driving experience on both the road and the track.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "652fe669-9cbf-4fa2-973f-e328f7f52fe8",
+            "image": null,
+            "name": "Lenovo Legion 7i (Gen 8)",
+            "description": "The Lenovo Legion 7i (Gen 8) is a high-performance gaming laptop designed for gamers seeking powerful graphics and advanced cooling technology for immersive gameplay and multitasking capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "e41ba46f-6455-448b-838b-9d4a10fc177e",
+            "image": null,
+            "name": "Ferrari 488 Pista",
+            "description": "The Ferrari 488 Pista is a high-performance sports car that exemplifies Ferrari's commitment to engineering excellence and track-ready performance. It features a lightweight design and enhanced aerodynamics for maximum speed and agility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "87f1863d-308c-4dcc-8441-525b93647fa7",
+            "image": null,
+            "name": "Ferrari Monza",
+            "description": "The Ferrari Monza is a limited-edition supercar series that encapsulates the essence of Ferrari's racing heritage, featuring a striking design and extraordinary performance capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "f4bf7deb-1381-44ba-ba58-9838a6d08de6",
+            "image": null,
+            "name": "Ferrari 488 Pista Spider",
+            "description": "The Ferrari 488 Pista Spider is a high-performance convertible sports car known for its powerful engine, agile handling, and aerodynamic design, designed for an exhilarating driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "56e8f3e5-84ac-4ce6-8311-33bd09490d19",
+            "image": null,
+            "name": "Ferrari SF90",
+            "description": "The Ferrari SF90 is a hybrid supercar that combines high-performance capabilities with advanced electric technology, offering an exhilarating driving experience and notable aerodynamics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "f2d86317-0cc4-4456-8de7-4809e2c944f0",
+            "image": null,
+            "name": "Torq Thrust",
+            "description": "The American Racing Torq Thrust series features iconic rims designed for performance and style, suitable for a wide range of classic and modern vehicles. Known for their lightweight construction and classic design, they enhance both the aesthetic and handling of vehicles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "68383f36-8bc1-4acb-b0d4-3265d8dd7a7a",
+            "image": null,
+            "name": "Falster 3",
+            "description": "The Skagen Falster 3 is a smartwatch designed for those who seek a stylish yet functional wearable. It offers features such as fitness tracking, customizable watch faces, and smartphone notifications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "605a2f69-d9be-40b8-8a24-09d883a00a00",
+            "image": null,
+            "name": "Fuchs Titan GT1 5W-30",
+            "description": "Fuchs Titan GT1 5W-30 is a premium engine oil designed for advanced engine technology, providing excellent engine cleanliness, wear protection, and fuel efficiency.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "6303a041-e483-4469-9680-58c686c811d2",
+            "image": null,
+            "name": "Primacy 4",
+            "description": "The Michelin Primacy 4 is a premium touring tire designed to provide exceptional safety, longevity, and comfort for drivers seeking a reliable performance in various conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "fecd4596-95a8-4df7-b231-c6a621e4d51a",
+            "image": null,
+            "name": "Primacy SUV",
+            "description": "The Michelin Primacy SUV is a tire series designed for luxury SUVs, prioritizing comfort, safety, and performance on both wet and dry surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "5d88fada-a6fa-4245-8e39-094d81e601a6",
+            "image": null,
+            "name": "Lenovo ThinkPad X1 Yoga Gen 8",
+            "description": "The Lenovo ThinkPad X1 Yoga Gen 8 is a versatile 2-in-1 laptop designed for professionals, featuring a high-quality display and enhanced performance to support productivity and creativity in various work environments.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "8c183ad7-c66c-4cfe-8c6c-fec96b51cdc6",
+            "image": null,
+            "name": "Ferrari 812 Competizione",
+            "description": "The Ferrari 812 Competizione is a high-performance sports car that represents the pinnacle of the 812 series, featuring an optimized V12 engine, precise handling, and advanced aerodynamics for an exhilarating driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "7ef5bddb-d9dd-45e6-a8e7-603b4cb4d147",
+            "image": null,
+            "name": "Ecobee SmartSensor",
+            "description": "The Ecobee SmartSensor series enhances your smart home experience by providing precise temperature and occupancy sensing, allowing for optimized heating and cooling in various rooms of your home.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ecobee"
+            }
+        },
+        {
+            "id": "2c9c41f7-1ceb-497c-bd47-b2b67089fc16",
+            "image": null,
+            "name": "Pilot Sport",
+            "description": "The Michelin Pilot Sport series includes high-performance tires designed for sporty and luxury vehicles, providing excellent grip and handling in both wet and dry conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "1b908aeb-3b77-4e17-98aa-bda243e92bb8",
+            "image": null,
+            "name": "Primacy",
+            "description": "The Michelin Primacy series includes high-performance tires designed for comfort, safety, and longevity, making them suitable for a range of vehicles, especially in the premium category.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        }
+    ]
+}

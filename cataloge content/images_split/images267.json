@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "ca247f53-6355-4336-88b8-65900835b0f8",
+            "image": null,
+            "name": "Graco Arboretum Travel System",
+            "description": "The Graco Arboretum Travel System is a versatile stroller and infant car seat combination designed for convenience and safety. It includes a lightweight stroller that easily folds for storage and a secure car seat for safe travel with your infant.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "62c1a35c-e41d-48d7-9c0d-fe8c9f49e448",
+            "image": null,
+            "name": "Gorenje Simplicity Series",
+            "description": "The Gorenje Simplicity Series features user-friendly washing machines designed for efficiency and functionality, making laundry tasks straightforward and effective.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "bf7cd486-cb5a-4e9e-b2e9-e18b963e4b5b",
+            "image": null,
+            "name": "Hyundai Sonata (2019)",
+            "description": "The Hyundai Sonata (2019) is a midsize sedan known for its stylish design, comfortable interior, and advanced safety features, aimed at providing a reliable and efficient driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f852af30-c15a-41f9-8de4-3326678cbee1",
+            "image": null,
+            "name": "Tucson Plug-in Hybrid",
+            "description": "The Hyundai Tucson Plug-in Hybrid is a versatile SUV that combines the benefits of hybrid efficiency with the capability of an SUV, designed for eco-conscious drivers who value both performance and environmental sustainability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "ea66f9cf-2e24-4f10-bf18-7593e6bb2742",
+            "image": null,
+            "name": "Hasselblad X2D 100C",
+            "description": "The Hasselblad X2D 100C is a medium format mirrorless camera designed for professional photographers, offering exceptional image quality and advanced features in a compact body.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Hasselblad"
+            }
+        },
+        {
+            "id": "58ba18d3-4392-4a72-9872-59d8e74df29f",
+            "image": null,
+            "name": "Gourmia 10-Quart Air Fryer Oven",
+            "description": "The Gourmia 10-Quart Air Fryer Oven is a versatile kitchen appliance designed for cooking healthier meals by using hot air circulation for frying, baking, and roasting with less oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "6ce20525-3065-4a7b-800b-075afc20dcea",
+            "image": null,
+            "name": "Shoei RF-1000",
+            "description": "The Shoei RF-1000 is a full-face motorcycle helmet designed for a balance of comfort, protection, and aerodynamics. It features a lightweight construction and advanced ventilation system, making it suitable for various riding conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "9d3e5111-7875-4630-a66d-507216acbe57",
+            "image": null,
+            "name": "Liquitex Acrylic Paint",
+            "description": "Liquitex Acrylic Paint is a professional-grade acrylic paint known for its high pigment concentration, vibrant colors, and versatility across various artistic mediums.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "b2d30f7c-5548-477e-ad84-761a16470261",
+            "image": null,
+            "name": "Safety 1st Elite 70",
+            "description": "The Safety 1st Elite 70 is a convertible car seat designed to provide safety and comfort for children during travel. It can be used in both rear-facing and forward-facing positions, accommodating children from infancy to toddlerhood.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "e3e96c78-31a5-419f-b3ef-75c1aa20319e",
+            "image": null,
+            "name": "Smeg 50s Retro Style Coffee Machines",
+            "description": "The Smeg 50s Retro Style Coffee Machines are designed to bring a vintage aesthetic and high-quality coffee brewing into the modern kitchen. They combine functionality with a distinctive retro design, perfect for coffee enthusiasts seeking style and performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a3939f02-bf2d-490d-8132-973cdd7d95a5",
+            "image": null,
+            "name": "Liquitex Professional Acrylic Gouache",
+            "description": "Liquitex Professional Acrylic Gouache is a versatile art medium that combines the properties of acrylic paint and gouache, allowing artists to achieve vibrant colors with a matte finish and excellent coverage.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "017561dd-08c6-4a96-8619-971aee683ed2",
+            "image": null,
+            "name": "Persol 3244S",
+            "description": "The Persol 3244S sunglasses are a stylish and functional eyewear option designed for optimal protection against UV rays while providing a comfortable fit and classic aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Persol"
+            }
+        },
+        {
+            "id": "af040834-eef6-4f33-8bfd-6e1a316982cb",
+            "image": null,
+            "name": "RadMini 4",
+            "description": "The RadMini 4 is a compact electric bike designed for versatility and convenience, featuring a folding frame for easy storage and transport, making it ideal for urban commuting and recreational riding.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Rad Power Bikes"
+            }
+        },
+        {
+            "id": "f536e818-08ea-4d36-85ef-efed5c3b7c24",
+            "image": null,
+            "name": "Vango Sky Canopy",
+            "description": "The Vango Sky Canopy series is designed to provide extra shelter and space for camping setups, enhancing outdoor comfort while protecting from the elements.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "39c5e4de-e356-4d5a-9e54-dcbecc5ae6f2",
+            "image": null,
+            "name": "Capture One 23",
+            "description": "Phase One Capture One 23 is a professional photo editing software designed for photographers, providing advanced tools for raw image processing, organization, and detailed adjustments, optimizing workflow and enhancing creativity.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Phase One"
+            }
+        },
+        {
+            "id": "ff542a78-0d78-42a1-a6d2-b346344679b0",
+            "image": null,
+            "name": "Infantino Grow with me 4-in-1 Walker",
+            "description": "The Infantino Grow with Me 4-in-1 Walker is a versatile toy designed to support infants' mobility and development through four stages of play. It can be used as a seated walker, a push walker, and more, promoting balance and coordination.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Infantino"
+            }
+        },
+        {
+            "id": "a6a657a2-c054-4050-84b5-2c10a928c13a",
+            "image": null,
+            "name": "Michael Kors Mercer",
+            "description": "The Michael Kors Mercer series features a range of stylish bags designed for everyday use, combining functionality with a sophisticated aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "260adbc2-27f8-45f5-8b37-a0201388e534",
+            "image": null,
+            "name": "Trek Kids' Bikes",
+            "description": "The Trek Kids' Bikes series offers a range of bicycles designed specifically for children, promoting safe and enjoyable riding experiences. These bikes feature child-friendly designs, lightweight materials, and various sizes to cater to different age groups.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "6b5622d8-d87b-42ce-ab63-28a162cf9793",
+            "image": null,
+            "name": "Ultimate Line",
+            "description": "Meguiar's Ultimate Line offers a comprehensive range of car care products designed to provide advanced protection, shine, and detailing for automotive surfaces.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "3e738e66-e85f-44e3-b68f-72ed8b4afc86",
+            "image": null,
+            "name": "Huayra Roadster BC",
+            "description": "The Pagani Huayra Roadster BC is a limited-edition supercar that combines cutting-edge technology with lightweight materials and a powerful performance, designed for an unforgettable driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "2081b5e2-f880-40a3-8471-63f3850b9ee9",
+            "image": null,
+            "name": "Art Spectrum Acrylics",
+            "description": "Art Spectrum Acrylics are a range of high-quality, versatile acrylic paints suitable for artists of all levels. Known for their vibrant colors and smooth application, these paints are ideal for various surfaces, making them a popular choice for both fine art and craft projects.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "911ff26a-725c-4db0-b3f7-9dbfda5dc83a",
+            "image": null,
+            "name": "Graco Grows4Me 4-in-1 Car Seat",
+            "description": "The Graco Grows4Me 4-in-1 Car Seat is designed to adapt to your child's growth from rear-facing infant to forward-facing toddler, and later as a high-back booster and backless booster, offering safety and comfort throughout different stages of development.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "761fdeec-3f20-4452-9412-77b65f78c7ea",
+            "image": null,
+            "name": "Pagani Huayra R",
+            "description": "The Pagani Huayra R is a high-performance hypercar released in 2021, designed primarily for track use, featuring advanced aerodynamics and a lightweight construction for optimal speed and handling.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "5dd14115-d8ae-4a76-bf83-882c341ca0da",
+            "image": null,
+            "name": "Graco Pack 'n Play On the Go Playard",
+            "description": "The Graco Pack 'n Play On the Go Playard is a portable playard designed for on-the-go parents, providing a safe and convenient space for infants and toddlers to play and rest.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "6f9223ef-08ab-4cfd-8252-b9cf19919292",
+            "image": null,
+            "name": "Canpol Babies Soft Toy",
+            "description": "The Canpol Babies Soft Toy series features a range of plush toys designed for infants and toddlers, promoting comfort and sensory exploration through soft textures and friendly designs.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Canpol Babies"
+            }
+        },
+        {
+            "id": "abb55093-3650-45f1-bb28-2ce276ef525c",
+            "image": null,
+            "name": "City Tour 2 Lite",
+            "description": "The Baby Jogger City Tour 2 Lite is a compact and lightweight stroller designed for families on the go, offering convenience and ease of use while ensuring comfort for the child.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "596c9e97-b0f0-49b8-9e44-37e4f2f8326a",
+            "image": null,
+            "name": "Klymit Static V2",
+            "description": "The Klymit Static V2 is a lightweight air sleeping pad designed for camping, providing comfort and insulation for outdoor enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "7ddc4c27-99e1-4fd0-9a7d-97f71122de29",
+            "image": null,
+            "name": "Smeg Coffee Machines",
+            "description": "The Smeg Coffee Machines series, released in 2022, offers a range of stylish appliances designed for brewing high-quality coffee at home, combining modern technology with retro aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4df08e2a-81db-49b3-9643-85f5a5653ca7",
+            "image": null,
+            "name": "Trek Roscoe",
+            "description": "The Trek Roscoe series is designed for fun and stability on the trails, featuring a wide tire and a durable frame suitable for aggressive riding.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "9dc7a66b-e17b-46de-90c1-cabe8e312ecd",
+            "image": null,
+            "name": "RadRover 6 Plus",
+            "description": "The RadRover 6 Plus is an electric fat bike designed for versatile, all-terrain riding, providing enhanced stability and comfort for riders. It features a powerful motor and a robust battery, making it suitable for both commuting and recreational adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Rad Power Bikes"
+            }
+        }
+    ]
+}

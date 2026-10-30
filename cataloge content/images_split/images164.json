@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "bd4c8ff6-4560-48f0-853a-04c769c2f7c5",
+            "image": null,
+            "name": "Husky WeatherBeater Floor Liners",
+            "description": "Husky WeatherBeater Floor Liners are designed to provide superior protection for vehicle interiors against dirt, mud, and spills, featuring a custom fit to ensure maximum coverage.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "8b51f0b8-891b-42d1-a994-855d4885b646",
+            "image": null,
+            "name": "Husky Classic Style Floor Liners",
+            "description": "The Husky Classic Style Floor Liners are designed to provide superior protection for your vehicle's interior, featuring a custom-fit design and durable materials that effectively trap dirt, mud, and moisture.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "2df4762a-cfbf-4b78-bc62-ac2090e07165",
+            "image": null,
+            "name": "Ford GT",
+            "description": "The Ford GT is a high-performance sports car that combines advanced aerodynamics, a lightweight body, and a powerful turbocharged V6 engine, emphasizing speed and precision on the track.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "0099751e-ca94-436b-a580-80db938a689c",
+            "image": null,
+            "name": "Hammer Strength Plate-Loaded Series",
+            "description": "The Hammer Strength Plate-Loaded Series features a range of equipment designed for strength training, utilizing plate-loaded mechanisms to provide a natural feel and accommodating a variety of exercises for muscle development.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Hammer Strength"
+            }
+        },
+        {
+            "id": "7f479b9a-1434-45e7-af51-889bc1d559d6",
+            "image": null,
+            "name": "Excite Live",
+            "description": "The Technogym Excite Live series includes a range of connected cardio equipment designed to enhance the fitness experience through engaging technology and personalized training programs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Technogym"
+            }
+        },
+        {
+            "id": "51d28df8-6fe7-4e5a-915c-553a3933b7db",
+            "image": null,
+            "name": "NordicTrack Commercial 2950",
+            "description": "The NordicTrack Commercial 2950 is a high-performance treadmill designed for home use, featuring advanced technology and interactive training options to enhance fitness routines.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "a25516bf-2171-41d4-b8db-a4d05a875b1d",
+            "image": null,
+            "name": "NordicTrack Commercial 1750",
+            "description": "The NordicTrack Commercial 1750 is a high-quality treadmill designed for home use, featuring advanced technology and a powerful motor to support various running workouts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "48720628-4f12-4dfd-81cb-9d148a44ee75",
+            "image": null,
+            "name": "NordicTrack T Series",
+            "description": "The NordicTrack T Series is a line of treadmill gym equipment designed for home use, featuring interactive workouts and adjustable incline settings for enhanced training experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "bf89efc0-b85c-45f4-a561-8c0a39776f38",
+            "image": null,
+            "name": "Elite Series",
+            "description": "The NordicTrack Elite Series is a range of gym equipment designed for home fitness enthusiasts, featuring advanced technology and durable construction for effective workouts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "b905bdcc-e6e8-4ed2-97cf-d49fb2b148de",
+            "image": null,
+            "name": "RW900 Rower",
+            "description": "The NordicTrack RW900 Rower is a rowing machine designed for effective cardiovascular workouts and strength training, featuring a 22-inch touchscreen and adjustable resistance settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "3ccbf5c4-a811-447a-b8c8-43a0490f1fc9",
+            "image": null,
+            "name": "NordicTrack Commercial 2950 Treadmill",
+            "description": "The NordicTrack Commercial 2950 Treadmill is a high-performance gym equipment designed for serious runners. It features advanced technology for an immersive workout experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "b593f61a-a3c2-4a5a-83b3-5e6d4bcfe50d",
+            "image": null,
+            "name": "NordicTrack Vault",
+            "description": "The NordicTrack Vault is an innovative gym equipment solution designed to provide an immersive and interactive workout experience at home. It features a sleek storage design while integrating a digital display to access a wide range of training classes and workouts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "321b374d-5d47-4098-93ed-40b924a87f1b",
+            "image": null,
+            "name": "S22i Studio Cycle",
+            "description": "The NordicTrack S22i Studio Cycle is an indoor cycling bike designed for interactive training sessions, featuring a substantial incline and decline capability along with a large HD touchscreen for immersive workouts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "893aa5a6-8639-4d82-bcbf-215e8cc0caf8",
+            "image": null,
+            "name": "Vault",
+            "description": "The NordicTrack Vault series is a home gym equipment line designed to provide versatile workout solutions with interactive coaching and sleek, space-saving designs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "NordicTrack"
+            }
+        },
+        {
+            "id": "71952b68-2a0d-47a8-8b60-3b28bb9125bc",
+            "image": null,
+            "name": "Impulse Fitness JX Series",
+            "description": "The Impulse Fitness JX Series is a range of commercial gym equipment designed for durability and performance, catering to a variety of fitness needs while ensuring user safety and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Impulse Fitness"
+            }
+        },
+        {
+            "id": "58b80834-f548-4a17-b6d0-755be0790898",
+            "image": null,
+            "name": "Impulse Fitness D Series",
+            "description": "The Impulse Fitness D Series is a comprehensive range of gym equipment designed for strength training, emphasizing durability and user-friendly features to enhance exercise efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Impulse Fitness"
+            }
+        },
+        {
+            "id": "d0a1a0dc-29ab-41d0-a747-c0efdd82d6e6",
+            "image": null,
+            "name": "Tonal",
+            "description": "Tonal is a smart home gym system that uses digital weights and personalized coaching to provide a comprehensive strength training experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Tonal"
+            }
+        },
+        {
+            "id": "67e1aae1-8702-4941-a1f8-32b559529785",
+            "image": null,
+            "name": "Tonal Strength Training System",
+            "description": "The Tonal Strength Training System is an advanced digital weightlifting machine designed to offer personalized strength training workouts in a compact format. It utilizes electromagnetism to create a wide range of resistance levels, making it suitable for users of all fitness levels.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Tonal"
+            }
+        },
+        {
+            "id": "42489cde-704a-4238-ab03-dd08738b72fc",
+            "image": null,
+            "name": "Tonal Smart Home Gym",
+            "description": "The Tonal Smart Home Gym is a compact, digital strength training system designed to provide a full-body workout using intelligent resistance and personalized coaching.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Tonal"
+            }
+        },
+        {
+            "id": "7dd03694-0255-4ddb-b130-6358f388254a",
+            "image": null,
+            "name": "Wattbike Atom",
+            "description": "The Wattbike Atom is a smart indoor bike designed for high-intensity training and performance analysis, featuring adjustable resistance and advanced metrics for users of all levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Wattbike"
+            }
+        },
+        {
+            "id": "d6a400b6-bfa8-438e-8ed7-7542e250c471",
+            "image": null,
+            "name": "Wattbike Pro",
+            "description": "The Wattbike Pro is a specialized indoor cycling bike designed for sports performance training, offering precise data tracking and a realistic riding experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Wattbike"
+            }
+        },
+        {
+            "id": "319be158-7362-4173-8975-20d63e93b822",
+            "image": null,
+            "name": "T40 Treadmill",
+            "description": "The Vision Fitness T40 Treadmill is designed for home fitness enthusiasts, providing a robust and versatile platform for walking, jogging, and running, equipped with user-friendly features and advanced technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Vision Fitness"
+            }
+        },
+        {
+            "id": "4fa7efb9-2365-4f62-9e10-46aa93d9602a",
+            "image": null,
+            "name": "T50 Treadmill",
+            "description": "The Vision Fitness T50 Treadmill is designed for home use, offering a reliable and effective solution for running and walking workouts. It features advanced technology and a sturdy frame to support various fitness levels.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Vision Fitness"
+            }
+        },
+        {
+            "id": "7acf8116-6854-4e20-86dd-ecec3e974b76",
+            "image": null,
+            "name": "Sole F85 Treadmill",
+            "description": "The Sole F85 Treadmill is a high-quality gym equipment designed for home use, featuring a powerful motor and a range of incline options to enhance your workout experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "9332c15d-af7a-42a8-b283-bb9166e94d69",
+            "image": null,
+            "name": "Sole E35 Elliptical",
+            "description": "The Sole E35 Elliptical is a versatile gym equipment designed for low-impact cardiovascular workouts that effectively targets multiple muscle groups, offering a smooth and natural stride.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "51b13c50-ca2b-4857-ab0d-8cb82a24ec59",
+            "image": null,
+            "name": "Sole SB700 Stationary Bike",
+            "description": "The Sole SB700 Stationary Bike is a high-quality piece of gym equipment designed for indoor cycling, featuring a sturdy frame and adjustable settings for a customizable workout experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "2cd9ccb0-6757-4a0c-8455-9e46db17ba94",
+            "image": null,
+            "name": "Sole F80 Folding Treadmill",
+            "description": "The Sole F80 Folding Treadmill is a versatile piece of gym equipment designed for home fitness enthusiasts, featuring a foldable design for easy storage and advanced features for an effective workout.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "902a6c37-341a-4471-813e-9e8ce5b11baf",
+            "image": null,
+            "name": "Sole E95 Elliptical",
+            "description": "The Sole E95 Elliptical is a high-quality fitness machine designed for effective cardiovascular workouts, featuring adjustable resistance levels and a range of incline options to enhance user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "8e084c40-2195-4a6e-b599-bf86c165dfbf",
+            "image": null,
+            "name": "Tony Hawk Signature Series",
+            "description": "The Tony Hawk Signature Series skateboards are designed for skateboarders looking to combine performance with the iconic style and heritage of skateboarding legend Tony Hawk. This series features durable materials and a variety of graphics that appeal to both beginners and experienced riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Tony Hawk"
+            }
+        },
+        {
+            "id": "fef68f73-8449-4473-930e-6ef354f126ce",
+            "image": null,
+            "name": "Tony Hawk's Birdhouse Skateboards",
+            "description": "Tony Hawk's Birdhouse Skateboards are a series of high-quality skateboards designed for both casual riders and serious skaters, featuring durable materials and unique graphics inspired by the iconic skateboarder Tony Hawk.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Tony Hawk"
+            }
+        }
+    ]
+}

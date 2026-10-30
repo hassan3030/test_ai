@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8f4adcc2-f7d6-4893-9fe8-505d4192c916",
+            "image": null,
+            "name": "Olympus Tough TG-6",
+            "description": "The Olympus Tough TG-6 is a compact digital camera designed for outdoor enthusiasts, featuring rugged construction for waterproof, shockproof, and freezeproof capabilities, making it ideal for capturing adventures in extreme environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "54123133-222f-4398-b930-82d513ab155a",
+            "image": null,
+            "name": "Olympus OM SYSTEM OM-1",
+            "description": "The Olympus OM SYSTEM OM-1 is a high-performance mirrorless camera designed for professional photographers, featuring advanced technologies for capturing high-quality images in various environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "4dc0038b-f901-4a80-80e7-1ccbd0df23a0",
+            "image": null,
+            "name": "DB11",
+            "description": "The Aston Martin DB11 is a luxury grand tourer that combines elegant design with high-performance engineering, aimed at delivering a refined driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "dccd887b-db6c-4ec5-9d28-f24c5ca5b3e7",
+            "image": null,
+            "name": "Anker Soundcore Liberty 3 Pro",
+            "description": "The Anker Soundcore Liberty 3 Pro are true wireless earbuds designed to deliver high-quality sound, active noise cancellation, and customizable fit, catering to audiophiles and casual listeners alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Anker"
+            }
+        },
+        {
+            "id": "4fa49789-d1a8-4a18-94ca-aef06ad73bd4",
+            "image": null,
+            "name": "Anker PowerConf C200",
+            "description": "The Anker PowerConf C200 is a compact webcam designed for high-quality video conferencing, featuring a wide field of view and flexible mounting options.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Anker"
+            }
+        },
+        {
+            "id": "22178de3-e009-489b-a27c-8766b2e257fc",
+            "image": null,
+            "name": "Harlow Dining Table",
+            "description": "The Harlow Dining Table by Rove Concepts is a modern and elegant piece designed to enhance dining experiences. Constructed with high-quality materials, it combines functionality and stylish design to serve as a central gathering place in any dining area.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Rove Concepts"
+            }
+        },
+        {
+            "id": "3dddc542-8dfa-4302-b905-d50a680f0cd0",
+            "image": null,
+            "name": "Harlow Chairs",
+            "description": "The Harlow Chairs from Rove Concepts feature a modern design that emphasizes comfort and sophistication, making them suitable for various interior settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Rove Concepts"
+            }
+        },
+        {
+            "id": "c5d16441-0956-49f0-aca7-4ed2184278df",
+            "image": null,
+            "name": "Sienna Sofa",
+            "description": "The Sienna Sofa series by Rove Concepts features a contemporary design with a focus on comfort and quality, making it suitable for modern living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Rove Concepts"
+            }
+        },
+        {
+            "id": "99e6a3db-2b0d-49a8-9001-c8a564d6d8cc",
+            "image": null,
+            "name": "Kinsley Bed",
+            "description": "The Kinsley Bed by Rove Concepts is a contemporary, upholstered bed designed for comfort and style, featuring a clean-lined headboard and a sturdy platform for support.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Rove Concepts"
+            }
+        },
+        {
+            "id": "c6a70663-c6d2-4ca1-bb92-068d159f934c",
+            "image": null,
+            "name": "Century 21 Real Estate Services",
+            "description": "Century 21 Real Estate Services offers a comprehensive range of real estate solutions focusing on the sale and management of villas and houses.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Villas & Houses"
+            },
+            "brand_id": {
+                "name": "Century 21"
+            }
+        },
+        {
+            "id": "21acc2ae-43c1-41b5-8d72-bcacf3711cda",
+            "image": null,
+            "name": "Ray-Ban Wayfarer Color Mix",
+            "description": "The Ray-Ban Wayfarer Color Mix sunglasses are a stylish accessory that combines iconic design with modern color variations, providing both UV protection and a bold fashion statement.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Ray-Ban"
+            }
+        },
+        {
+            "id": "9d1c091d-ad60-425c-b9bf-80e9a220d5b6",
+            "image": null,
+            "name": "Ray-Ban Justin",
+            "description": "The Ray-Ban Justin sunglasses are a contemporary take on the classic Wayfarer design, featuring a bold, oversized style that offers both fashion and function. Released in 2016, these sunglasses are designed to provide UV protection and comfort for everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Ray-Ban"
+            }
+        },
+        {
+            "id": "56faac3e-4627-44b2-b86b-21d5c6a9354b",
+            "image": null,
+            "name": "Ray-Ban Stories",
+            "description": "Ray-Ban Stories are smart sunglasses designed to integrate technology with everyday wear, allowing users to capture photos, record videos, and listen to music hands-free.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Ray-Ban"
+            }
+        },
+        {
+            "id": "5032ec05-106f-4ede-9017-be608fe58fda",
+            "image": null,
+            "name": "Ray-Ban x Justin Bieber",
+            "description": "The Ray-Ban x Justin Bieber sunglasses collection, released in 2022, features stylish eyewear designed in collaboration with the pop icon to enhance personal expression and elevate everyday fashion.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Ray-Ban"
+            }
+        },
+        {
+            "id": "923db2ff-11cc-479c-9c03-764acbede04a",
+            "image": null,
+            "name": "Coach Rogue",
+            "description": "The Coach Rogue series is a collection of bags recognized for its versatile designs and luxurious materials, catering to the needs of modern individuals seeking style and functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "ccecaa6f-052c-4568-8d8d-07a35c312de8",
+            "image": null,
+            "name": "Coach 1941",
+            "description": "The Coach 1941 series features a collection of bags that blends luxurious materials with timeless craftsmanship, reflecting the brand's heritage and commitment to modern design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "78eef0be-d0d0-4a32-8e14-eb8026fbd303",
+            "image": null,
+            "name": "Coach Court",
+            "description": "The Coach Court series features modern sneakers designed for versatility and comfort, combining classic styling with contemporary elements.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "01859a11-e690-4c48-945a-4df0cc19f718",
+            "image": null,
+            "name": "Coach Swagger",
+            "description": "The Coach Swagger is a versatile bag series known for its spacious design and modern aesthetic, making it suitable for both everyday use and special occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "cc527652-5c71-4978-91b4-fdc90ddedc69",
+            "image": null,
+            "name": "Coach Tabby",
+            "description": "The Coach Tabby series features a collection of versatile and stylish handbags designed for everyday use, emphasizing modern aesthetics and craftsmanship.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "a140e6c7-a06e-40b5-a654-810f2bcd15e4",
+            "image": null,
+            "name": "Coach x Disney",
+            "description": "The Coach x Disney series features a collection of bags that blends the iconic craftsmanship of Coach with beloved Disney characters, celebrating nostalgia and whimsy.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "1bbdc4da-1bd9-438e-a010-2b86733ff5da",
+            "image": null,
+            "name": "Coach Originals",
+            "description": "Coach Originals is a series of bags designed by Coach, characterized by timeless designs and high-quality materials, aimed at providing stylish and functional options for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "47b17e10-4e09-4c4f-afc3-0f8217411315",
+            "image": null,
+            "name": "Tabby Collection",
+            "description": "The Coach Tabby Collection features a range of stylish bags designed for versatility and modern aesthetics while maintaining Coach's signature craftsmanship.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "8dd989fa-8a3d-4a52-abb8-530218d2250b",
+            "image": null,
+            "name": "Coach x Joker Collection",
+            "description": "The Coach x Joker Collection features a unique collaboration that blends the iconic design of Coach bags with elements inspired by the Joker character, offering a playful and stylish option for fashion-forward consumers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "bc4a6662-a35d-4b9a-8f83-6a379db0d30a",
+            "image": null,
+            "name": "Rogue Echo Bar 2.0",
+            "description": "The Rogue Echo Bar 2.0 is a durable and versatile barbell designed for both weightlifting and strength training, offering excellent performance at an accessible price point.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "e5c5c2b5-349a-4970-a570-4629869f47e2",
+            "image": null,
+            "name": "Rogue Monster Lite Rack 2.0",
+            "description": "The Rogue Monster Lite Rack 2.0 is a versatile strength training rack designed for home and commercial gyms, featuring adjustable heights and a robust construction for various exercises.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "20c53df3-a3f0-4ff7-881d-31d25522a229",
+            "image": null,
+            "name": "Rogue Ohio Power Bar 2.0",
+            "description": "The Rogue Ohio Power Bar 2.0 is a high-quality, multipurpose powerlifting barbell designed for strength training. It features a stiff construction ideal for Olympic and powerlifting movements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "947874e9-88c2-4e0a-813e-850a187aed61",
+            "image": null,
+            "name": "Hauck Explore",
+            "description": "The Hauck Explore series features versatile strollers designed for easy use and maneuverability, accommodating the needs of parents and children on-the-go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "c11c93f4-1974-48af-9aec-49e92932e070",
+            "image": null,
+            "name": "Rogue Echo Bike",
+            "description": "The Rogue Echo Bike is a robust air bike designed to provide a full-body workout by combining upper and lower body engagement through a dual-action design. It is ideal for high-intensity interval training (HIIT) and efficient calorie burning.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "30048fa2-2f7d-4761-997e-c45c3934f9fc",
+            "image": null,
+            "name": "Rogue R-3 Power Rack",
+            "description": "The Rogue R-3 Power Rack is a heavy-duty strength training equipment designed for home and commercial gyms. Its modular design allows for customizable attachments and a compact footprint, making it suitable for various workout spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "64f38554-a211-4ba9-96f8-31f102aad3c3",
+            "image": null,
+            "name": "Aston Martin Vantage",
+            "description": "The Aston Martin Vantage is a luxury sports car known for its dynamic performance, distinctive design, and advanced technology, epitomizing the brand's commitment to quality and craftsmanship.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        }
+    ]
+}

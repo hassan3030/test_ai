@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": "0abda9bc-0bf8-4af9-b5f8-b937f90e7ab3",
+      "name": "Shipping Images",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "1b602259-7956-421c-81d8-96b9f92276c9",
+      "name": "User Avatars",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "2f1c36a0-8b55-460a-97cb-df3a42d8ba3c",
+      "name": "Business Verifications",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "3c52002b-106d-4426-a9f9-879dae8561db",
+      "name": "Reports & Trust Safety",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "3f7afc93-0354-452e-9408-b004932aee7b",
+      "name": "SEO",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "40a523eb-34c8-4c87-a0d5-0e1cf4579d4a",
+      "name": "Swap",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "44a84075-2e25-45b7-b50d-1fae0d329964",
+      "name": "Deprecated",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "45fcab26-c1ec-4a82-9d4a-4c9712239e35",
+      "name": "Stock",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "47ba0453-cba3-4384-9431-ce5fa50a44f7",
+      "name": "Orders",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "49e448e1-efc3-4fde-9e04-e78d0fa617f1",
+      "name": "Store Team",
+      "parent": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "type": "flows"
+    },
+    {
+      "id": "4cbc7d56-4105-472e-a099-7cc59540e82e",
+      "name": "Review Images",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "60c7c48b-47b1-4210-a50e-f604b2706169",
+      "name": "Chat Messages",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "733ae2d4-24b5-4f8d-a184-bf29b4c76884",
+      "name": "Shipping Verifications",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "74123b56-e05f-4ed1-a41b-29b10112b385",
+      "name": "Business",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "8114e713-88a3-47b1-b866-b0252f22455a",
+      "name": "Brand & Store Logos",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "8f7ab800-9322-40a4-829a-d00445af09fd",
+      "name": "Cron Jobs",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "92df24e2-2038-4661-92b9-0f9e9c06c2a9",
+      "name": "Reviews",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "a562871b-93e7-4b60-8c12-38a8d141fae3",
+      "name": "Models Reference Images",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "b35b2b74-5bcd-424b-a40a-af7202c776bf",
+      "name": "Shipping Confirmation",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "b644999d-16b6-49c8-a891-d46d5acf73ae",
+      "name": "Listings Images",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "c3397a2b-fc44-4763-aa7c-12266dabe41a",
+      "name": "Catalog Content",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "d3fa1a61-ced5-47db-bc93-79b378f7e06a",
+      "name": "Help Center",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "d9c669a3-4c0a-4964-9943-f54937cb9eb6",
+      "name": "swibba puplic",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "dfcb98bb-3685-4088-9be5-83c18dfe0474",
+      "name": "Notifications",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "e00b618c-8c02-46ab-b5bc-c77c5b22ff04",
+      "name": "Social",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "e05b30a2-10b4-454f-a5ec-045b5dfd7c5a",
+      "name": "Category & Subcategory Images",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "ecf294b5-35c2-4061-9a95-99f601531de3",
+      "name": "Support & Contact",
+      "parent": null,
+      "type": "files"
+    },
+    {
+      "id": "f2189aff-23c9-406d-a0e8-5423210a5993",
+      "name": "Helpers",
+      "parent": null,
+      "type": "flows"
+    },
+    {
+      "id": "f2db4f5e-6630-4308-bfd5-f0f0af6855bb",
+      "name": "Marketing Content",
+      "parent": null,
+      "type": "flows"
+    }
+  ]
+}

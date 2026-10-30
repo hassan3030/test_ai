@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "78c99b26-78a0-42cd-b5f6-99034c35ee18",
+            "image": null,
+            "name": "Autoglym Paint Renovator",
+            "description": "The Autoglym Paint Renovator is a car care product designed to restore and enhance the appearance of paintwork by removing minor scratches, oxidation, and blemishes.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "914d2296-50f7-4822-bb9b-e31812ea8105",
+            "image": null,
+            "name": "Autoglym Interior Shampoo",
+            "description": "Autoglym Interior Shampoo is a specialized cleaning product designed to effectively remove dirt and stains from interior surfaces of vehicles, including fabrics and plastics.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "bf703839-2dd0-443d-bccf-121105fa22b6",
+            "image": null,
+            "name": "Autoglym High Definition Range",
+            "description": "The Autoglym High Definition Range is a collection of premium car care products designed to deliver exceptional cleaning, protection, and shine for automotive surfaces. This range is characterized by its advanced formulations that help maintain the appearance and condition of vehicles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "b3fd4a50-bdd8-4b26-a73e-abf9538da744",
+            "image": null,
+            "name": "Britax Römer Kidfix II XP SICT",
+            "description": "The Britax Römer Kidfix II XP SICT is a child safety seat designed for children aged approximately 4 to 12 years, offering enhanced protection through advanced safety features and an adjustable design for comfort and security during car travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ff6b10d6-5b2e-45aa-a0bb-a3eddf487053",
+            "image": null,
+            "name": "Zymöl Natural Car Wax",
+            "description": "Zymöl Natural Car Wax is a premium car care product designed to enhance and protect the exterior surfaces of vehicles, delivering a deep, glossy finish and long-lasting protection from the elements.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "39f6365f-8e2c-4997-8af3-f72ff6d4dd37",
+            "image": null,
+            "name": "Fisher & Paykel Series 9 Refrigerators",
+            "description": "Fisher & Paykel Series 9 Refrigerators are designed to provide efficient cooling and thoughtful storage solutions, featuring advanced technology and a sleek design for modern kitchens.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "17ea3ca8-81a7-4899-9ba5-5245838233e9",
+            "image": null,
+            "name": "Rotiform Tüf",
+            "description": "The Rotiform Tüf series features high-quality wheels designed for performance and style, aimed at automotive enthusiasts looking to enhance their vehicle's aesthetic appeal and handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform Wheels"
+            }
+        },
+        {
+            "id": "6840ecbd-d6fe-4da5-9612-ec7cd1ce9506",
+            "image": null,
+            "name": "Škoda Octavia (Second Generation)",
+            "description": "The Škoda Octavia (Second Generation) is a compact car designed by Skoda Auto, known for its spacious interior, practical features, and reliability. Released in 2005, it aims to provide an economical yet comfortable driving experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "4b2d6ee5-bbe7-472e-b06c-af84c28deff8",
+            "image": null,
+            "name": "Škoda Fabia (Second Generation)",
+            "description": "The Škoda Fabia (Second Generation) is a practical and compact car designed for urban driving, offering a balance of comfort, efficiency, and value.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "9f914c9b-6c1d-410d-85bb-745c254e17ae",
+            "image": null,
+            "name": "Škoda Superb III",
+            "description": "The Škoda Superb III is a mid-size car produced by Škoda Auto, known for its spacious interior, advanced technology, and strong performance. It is designed to provide a comfortable and practical driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "92cc2147-feb5-4fc8-817e-d42f412c04dc",
+            "image": null,
+            "name": "Škoda Fabia III",
+            "description": "The Škoda Fabia III is a compact hatchback produced by Skoda Auto, designed to offer a balance of practicality and efficiency for urban driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "47d8a37f-ace0-4039-ba4f-436232b5176a",
+            "image": null,
+            "name": "Škoda Octavia III (Facelift)",
+            "description": "The Škoda Octavia III (Facelift) is a compact car produced by Škoda Auto, known for its spacious interior, practicality, and advanced technology features. This model, updated in 2015, continues to emphasize comfort and efficiency for everyday driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "2bdc98cb-d2d5-44b6-84c9-e2265aced5ab",
+            "image": null,
+            "name": "Škoda Octavia RS 245",
+            "description": "The Škoda Octavia RS 245 is a high-performance variant of the Octavia model, designed to deliver enhanced driving dynamics and sportier aesthetics, appealing to enthusiasts looking for a blend of practicality and performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "e78af760-acaf-4350-81b5-8793a73256d7",
+            "image": null,
+            "name": "Škoda Rapid Spaceback",
+            "description": "The Škoda Rapid Spaceback is a compact hatchback designed for urban mobility, offering a blend of style, practicality, and efficient use of space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "236dbec9-7b9d-4c67-95a3-7550ce786b56",
+            "image": null,
+            "name": "Škoda Enyaq Coupe iV",
+            "description": "The Škoda Enyaq Coupe iV is a fully electric SUV that combines a sleek coupe design with practicality and advanced technology, aiming to deliver an efficient and enjoyable driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "dee51a25-e561-4a0a-a229-7b8944bde4de",
+            "image": null,
+            "name": "Škoda Slavia",
+            "description": "The Škoda Slavia is a compact sedan released by Škoda Auto in 2023, designed to combine style, functionality, and efficiency for urban driving.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "276b4cc1-54c0-40a9-b414-50ee92e2cee5",
+            "image": null,
+            "name": "Zymöl Polish",
+            "description": "Zymöl Polish is a series of high-quality car care products designed to enhance the appearance and protection of automotive paint surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "2c013e46-1de3-4c7e-bd35-b015472e82a1",
+            "image": null,
+            "name": "KTM 125 Duke",
+            "description": "The KTM 125 Duke is a lightweight motorcycle designed for urban commuting and spirited rides, featuring agile handling and a modern design that appeals to young riders.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "aae81aa1-a018-443d-8518-e5b59a2374e5",
+            "image": null,
+            "name": "Atari Flashback 8 Gold",
+            "description": "The Atari Flashback 8 Gold is a plug-and-play console that enables users to enjoy a collection of classic Atari 2600 games. It features a built-in library of preloaded games and supports HD output for modern televisions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Atari"
+            }
+        },
+        {
+            "id": "63b104d3-f977-43fb-b54d-6bf1d3f88a3c",
+            "image": null,
+            "name": "Atari VCS",
+            "description": "The Atari VCS is a modern gaming console and PC hybrid, designed to integrate classic Atari gaming with new software and streaming capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Atari"
+            }
+        },
+        {
+            "id": "0ca188bf-786e-4510-906b-882d64bfae91",
+            "image": null,
+            "name": "Honda Gold Wing",
+            "description": "The Honda Gold Wing is a touring motorcycle known for its advanced technology, comfort, and long-distance capabilities, making it a preferred choice for long rides.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "e9a249da-7696-43d5-918a-d29c08cb75f5",
+            "image": null,
+            "name": "Mazda MPV",
+            "description": "The Mazda MPV is a minivan designed for family use, offering spacious seating and versatile cargo options for everyday travel.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "07e614b0-7430-4a67-87ec-1d6af8eb2eae",
+            "image": null,
+            "name": "Mazda3 (2021 Model)",
+            "description": "The Mazda3 (2021 Model) is a compact car known for its stylish design, engaging driving dynamics, and advanced safety features. It serves as a versatile option for drivers seeking a combination of performance and practicality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "e26f61ae-9231-44cc-82fa-7a562763bcc2",
+            "image": null,
+            "name": "Ninja H2",
+            "description": "The Kawasaki Ninja H2 is a supercharged sportbike known for its high performance and advanced technology, designed for both street and track use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "bb50e8af-94c0-41da-84e6-86a5a2706106",
+            "image": null,
+            "name": "Kawasaki Z900",
+            "description": "The Kawasaki Z900 is a versatile naked motorcycle that combines performance-oriented engineering with a stylish design. Known for its agile handling and powerful engine, it is well-suited for both urban riding and spirited outings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "ab113caf-725b-4260-9125-ce30c7ad06cf",
+            "image": null,
+            "name": "Kawasaki Ninja 650",
+            "description": "The Kawasaki Ninja 650 is a versatile sport motorcycle known for its balance of performance and comfort, making it suitable for both city commuting and spirited rides.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "2debd6f7-d3a7-4333-a912-eea7777af1a4",
+            "image": null,
+            "name": "Autoglym High Definition",
+            "description": "The Autoglym High Definition series offers advanced car care products designed for optimum surface protection and gloss. This range is tailored to enhance the appearance of vehicle paintwork and prolong the life of finishes.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "87b23f8f-04d7-4eee-bfd2-b94aded79256",
+            "image": null,
+            "name": "Renault Scénic II",
+            "description": "The Renault Scénic II is a compact multi-purpose vehicle (MPV) designed to offer spaciousness and versatility for families, featuring innovative seating configurations and a practical interior layout.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "523c65b5-e61b-4bfe-98ea-0e0417ebfd4f",
+            "image": null,
+            "name": "Citroën C5 (Second Generation)",
+            "description": "The Citroën C5 (Second Generation) is a mid-size sedans produced by the French automaker Citroën, known for its comfortable ride, innovative suspension system, and spacious interior, launched in 2005.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "a0331b09-2655-48e6-a763-0924a6d8ac5f",
+            "image": null,
+            "name": "Citroën Jumpy (Second Generation)",
+            "description": "The Citroën Jumpy (Second Generation) is a versatile light commercial vehicle designed for transporting goods and passengers, offering functionality and comfort since its release in 2005.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        }
+    ]
+}

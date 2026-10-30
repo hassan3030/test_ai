@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "a1b6f017-a02f-4fb2-8eb8-3d29dca00454",
+            "image": null,
+            "name": "Seagate Game Drive",
+            "description": "The Seagate Game Drive is an external hard disk designed specifically for gamers, providing additional storage for games and gaming content across various platforms.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "443834f7-57d5-4ab4-8e41-b3a98abdc09d",
+            "image": null,
+            "name": "Volkswagen Passat (8th generation)",
+            "description": "The Volkswagen Passat (8th generation) is a mid-size sedan designed for comfort and style, featuring advanced technology and a spacious interior to enhance the driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "77b1e642-fe0a-4634-aa7b-6abe6a242752",
+            "image": null,
+            "name": "LeapPad Academy",
+            "description": "The LeapPad Academy is an educational tablet designed for children aged 3-8, featuring interactive games and activities that promote learning in areas such as math, reading, and science.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "334186e7-7a59-41c8-b293-3524ad8012c1",
+            "image": null,
+            "name": "Valeo Slim",
+            "description": "The Valeo Slim series includes a range of car care products designed to enhance vehicle maintenance and aesthetics, offering streamlined, effective solutions for automotive cleaning and protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valeo"
+            }
+        },
+        {
+            "id": "44bc5785-6d4f-4399-b91d-8466538ff094",
+            "image": null,
+            "name": "Billabong x Ghostbusters Collection",
+            "description": "The Billabong x Ghostbusters Collection is a collaborative series of accessories inspired by the classic film franchise, combining surf culture with retro aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Billabong"
+            }
+        },
+        {
+            "id": "f28f8cea-9283-4d41-980b-0b1003c5813f",
+            "image": null,
+            "name": "AONIC 50",
+            "description": "The Shure AONIC 50 series headphones provide premium wireless sound quality featuring adaptive noise cancellation, designed for immersive listening experiences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Shure"
+            }
+        },
+        {
+            "id": "3eb28768-b7da-430a-a6ad-8ad7b37d3410",
+            "image": null,
+            "name": "Therm-a-Rest NeoAir Topo Luxe",
+            "description": "The Therm-a-Rest NeoAir Topo Luxe is an inflatable sleeping pad designed for camping, offering a combination of comfort and insulation for a restful night's sleep in the outdoors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Therm-a-Rest"
+            }
+        },
+        {
+            "id": "0e4ce084-400c-42cb-9d81-5153d5d55d28",
+            "image": null,
+            "name": "AONIC Series",
+            "description": "The Shure AONIC Series headphones are designed for professional audio performance, featuring high-quality sound isolation and a comfortable fit for extended listening sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Shure"
+            }
+        },
+        {
+            "id": "b8ff8f40-adc5-4af3-84bd-e732717249dd",
+            "image": null,
+            "name": "Omen X Desktop",
+            "description": "The Omen X Desktop series by HP is designed for gamers seeking high-performance and customizable gaming PCs, featuring advanced cooling systems and upgradeable components.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "a9cc9505-118b-427e-ba73-41edb8b7c093",
+            "image": null,
+            "name": "LeapFrog Epic Academy Edition",
+            "description": "The LeapFrog Epic Academy Edition is an educational tablet designed for preschoolers, featuring interactive content that fosters creativity, critical thinking, and problem-solving skills through games and activities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "b80aebbc-4156-44e7-b717-80bdd843fef0",
+            "image": null,
+            "name": "Roxy Women's Fall 2020 Collection",
+            "description": "The Roxy Women's Fall 2020 Collection features a diverse range of stylish and functional clothing designed for outdoor activities and casual wear, embodying both comfort and the spirit of adventure.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Roxy"
+            }
+        },
+        {
+            "id": "67dda21f-9360-47ba-88dd-fe2cb78d8f87",
+            "image": null,
+            "name": "Masterson Art Storage Solutions",
+            "description": "Masterson Art Storage Solutions provides a variety of products designed to organize and protect art supplies, ensuring artists have easy access to their materials while keeping them secure and in good condition.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "a7e9542c-578c-43f0-b2e8-71fb32f3c55c",
+            "image": null,
+            "name": "Omen by HP Desktop",
+            "description": "The Omen by HP Desktop series is designed specifically for gamers, featuring high-performance components and customizable options to enhance gameplay experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        },
+        {
+            "id": "e50198e9-8f6a-4053-b7af-05320de6b60e",
+            "image": null,
+            "name": "Kalenji Run Cushion 2",
+            "description": "The Kalenji Run Cushion 2 is a running shoe designed for comfort and cushioning, suitable for both beginners and experienced runners. It features enhanced shock absorption for a smoother running experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b639b049-a4a3-4770-bb0b-dc1e11fdf2ea",
+            "image": null,
+            "name": "Alcatel 1S (2020)",
+            "description": "The Alcatel 1S (2020) is a budget smartphone designed to provide essential features and functionality for everyday users, including a dual-camera system and a large display.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Alcatel"
+            }
+        },
+        {
+            "id": "ba98efe7-c683-41ec-8cc9-498fcce992e4",
+            "image": null,
+            "name": "Shure Aonic Series",
+            "description": "The Shure Aonic Series is a line of high-fidelity headphones designed for immersive sound experiences, integrating advanced audio technology and comfort for professional and personal use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Shure"
+            }
+        },
+        {
+            "id": "3737aacb-d4aa-461a-b863-ac49458dfdf1",
+            "image": null,
+            "name": "Mercedes-Benz C-Class (W205)",
+            "description": "The Mercedes-Benz C-Class (W205) is a luxury sedan that combines elegance and performance, aimed at those seeking a comfortable driving experience with advanced technology and safety features.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "75fbe651-b9e4-4f41-9b76-911a436680a0",
+            "image": null,
+            "name": "My Little Pony: Equestria Girls",
+            "description": "My Little Pony: Equestria Girls is a toy series featuring characters from the My Little Pony franchise, designed to encourage imaginative play and storytelling among children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "f61ba7f9-9fa5-4c3d-bf5e-e18e975f6e70",
+            "image": null,
+            "name": "Nokian WR G4",
+            "description": "The Nokian WR G4 is an all-weather tire designed for passenger cars, providing excellent grip and stability in various weather conditions, including wet, dry, and snowy roads.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "1492bb35-de1d-408b-bbbe-05c1522861a0",
+            "image": null,
+            "name": "Transformers: Studio Series",
+            "description": "Transformers: Studio Series is a line of collectible toys that features highly detailed figures of characters from the Transformers film franchise, designed to recreate iconic scenes and moments from the movies.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "23474b70-26d1-45c6-b7f0-1566e33b1650",
+            "image": null,
+            "name": "Savanna Chair",
+            "description": "The Helinox Savanna Chair is a portable and lightweight camping chair designed for comfort and convenience during outdoor activities. It features a sturdy frame and a spacious seat, making it ideal for relaxing in nature.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "9123262c-a814-46a7-a205-38744702b4e2",
+            "image": null,
+            "name": "Zymöl Éclat",
+            "description": "Zymöl Éclat is a premium car care product series designed to deliver exceptional paint protection and enhance the appearance of automotive surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "5c89eb10-e4a0-4722-af47-75496d13badf",
+            "image": null,
+            "name": "Nokian Tyres WR D4",
+            "description": "The Nokian Tyres WR D4 is a premium winter tire designed for superior performance in cold weather conditions, featuring exceptional grip on snow and wet surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "c62a6024-0bcd-464a-88e0-7cba8929a997",
+            "image": null,
+            "name": "Sola 2",
+            "description": "The Mamas & Papas Sola 2 is a versatile stroller designed for ease of use and adaptability, suitable for families seeking comfort and convenience during outings with their child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mamas & Papas"
+            }
+        },
+        {
+            "id": "bff362b4-8768-4970-a64f-b0d71fe2ba2d",
+            "image": null,
+            "name": "Zymöl Royale",
+            "description": "Zymöl Royale is a premium car care product series designed to enhance and protect the exterior finish of vehicles, providing a deep gloss and long-lasting durability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "927f29a7-e85e-40db-a9d8-cd5fb62fb366",
+            "image": null,
+            "name": "ES Series",
+            "description": "The Exide ES Series consists of reliable automotive batteries designed to meet the demands of various vehicles, ensuring optimal performance and longevity.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "611ea220-b0ae-4698-9bbf-8f213ad29727",
+            "image": null,
+            "name": "XSeries",
+            "description": "The Exide XSeries is a range of high-performance car batteries designed to provide reliable power and enhanced durability for various automotive applications.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "ddcbf3c6-6d99-4ae8-8c4c-85d43f5be49c",
+            "image": null,
+            "name": "ROG Strix GL503",
+            "description": "The Asus Republic of Gamers ROG Strix GL503 is a gaming laptop series designed for high-performance gaming with advanced cooling and graphics capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "ce5f8029-347f-42d5-9fe5-acf2bd4f2155",
+            "image": null,
+            "name": "Melitta BELLA CREMA",
+            "description": "The Melitta BELLA CREMA series includes a range of coffee machines designed for brewing high-quality coffee with ease. They are characterized by their user-friendly interface, compact design, and ability to deliver a rich coffee experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "81de939e-f66d-41b9-aa1f-47409a28bede",
+            "image": null,
+            "name": "Omen by HP Laptop",
+            "description": "The Omen by HP Laptop series is designed for gamers, offering powerful performance, advanced graphics capabilities, and customizable features to enhance the gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Omen by HP"
+            }
+        }
+    ]
+}

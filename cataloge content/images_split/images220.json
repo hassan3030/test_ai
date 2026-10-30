@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f9c70583-528c-466a-ae91-186fa925e2af",
+            "image": null,
+            "name": "GS3",
+            "description": "The La Marzocco GS3 is a high-end dual boiler espresso machine designed for both home and small commercial use, offering precision and consistency in espresso extraction.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "La Marzocco"
+            }
+        },
+        {
+            "id": "a9dc7b6a-580c-4588-9a0c-1e9057f78fac",
+            "image": null,
+            "name": "Linea Micra",
+            "description": "The La Marzocco Linea Micra is a compact espresso machine designed for home coffee enthusiasts, offering professional-grade performance in a smaller footprint.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "La Marzocco"
+            }
+        },
+        {
+            "id": "4d0f68f0-c9df-4463-95fe-1dcc13a9cc03",
+            "image": null,
+            "name": "Melitta Look IV",
+            "description": "The Melitta Look IV series consists of coffee machines designed for brewing high-quality coffee with user-friendly features and a contemporary design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "6132d81d-ffab-4d1e-8214-366c4ea03d3c",
+            "image": null,
+            "name": "Gorenje SmartFlex",
+            "description": "The Gorenje SmartFlex series includes washing machines designed for maximum flexibility and convenience, allowing users to efficiently manage laundry with smart features and tailored washing programs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "99b71732-d191-4f66-8b71-97799af131de",
+            "image": null,
+            "name": "Secretlab Titan 2017",
+            "description": "The Secretlab Titan 2017 is a premium gaming chair designed for long hours of comfortable gaming and work, featuring ergonomic support and a durable build.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "c8dd0cb2-945e-45f0-8181-5a58790937d2",
+            "image": null,
+            "name": "Secretlab Titan 2018 Series",
+            "description": "The Secretlab Titan 2018 Series is a line of premium gaming chairs designed for long hours of comfort and support during gaming and work sessions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "d0bb9038-cb40-44d5-b0f5-03982f637485",
+            "image": null,
+            "name": "Secretlab Omega 2019 Series",
+            "description": "The Secretlab Omega 2019 Series is a gaming chair designed for comfort and support during long gaming sessions, featuring adjustable components and high-quality materials to enhance user experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "7f593faa-383c-4e54-9010-4035af9dd0f2",
+            "image": null,
+            "name": "Thule Chariot Cross",
+            "description": "The Thule Chariot Cross is a versatile multi-sport stroller designed for active families. It can be used for jogging, cycling, and walking, providing a comfortable ride for children in various outdoor activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "fb5d8865-652d-452a-9e66-15af93921af4",
+            "image": null,
+            "name": "Zymol Concours",
+            "description": "Zymol Concours is a premium line of car care products designed to deliver exceptionally high levels of protection and shine to automotive finishes.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "ac340216-287c-45a9-b806-1d5702f841a3",
+            "image": null,
+            "name": "Zymol Natural",
+            "description": "Zymol Natural is a series of car care products designed specifically for safe and effective cleaning and protection of automotive surfaces using natural ingredients.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "1334d646-1da7-47cb-93ca-7b8f8d460278",
+            "image": null,
+            "name": "Zymol Products",
+            "description": "Zymol Products offers a range of car care products designed to enhance and protect automotive paint surfaces while providing ease of use and a professional finish.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "75a38da4-8cf9-4888-8709-b500df53e07a",
+            "image": null,
+            "name": "Zymol Wax",
+            "description": "Zymol Wax is a line of premium car care products designed to enhance and protect automotive finishes with natural wax formulations. Released in 2008, these products are known for their blend of carnauba wax and other natural ingredients for a deep, long-lasting shine.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "05d3374f-f4b1-4e85-aebd-91ee1fd8c4da",
+            "image": null,
+            "name": "Zymol Royale",
+            "description": "Zymol Royale is a premium car care product series designed for automotive enthusiasts. Its key purpose is to provide superior protection and shine to vehicle surfaces through high-quality wax and detailing solutions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "b470373d-5d5b-4bff-945d-4dfb19a74b08",
+            "image": null,
+            "name": "Zymol Glasur Wax",
+            "description": "Zymol Glasur Wax is a premium car wax designed to provide a durable shine and protection, enhancing the appearance of automotive paintwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "5cfd0ea7-2033-4c55-a582-3bc90b45496a",
+            "image": null,
+            "name": "Zymol Wax Collection",
+            "description": "The Zymol Wax Collection is designed to provide high-quality car care products that enhance and protect your vehicle's paintwork, ensuring a deep, long-lasting shine.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "5313b451-fa50-4c4c-8f74-0dd913965a84",
+            "image": null,
+            "name": "Toyota Land Cruiser (Updated Model)",
+            "description": "The Toyota Land Cruiser (Updated Model) is a full-size SUV known for its durability, off-road capability, and luxury features, making it a popular choice for both rugged terrain and urban settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "1f8c35bb-d0f4-4853-a350-2cffa46c7373",
+            "image": null,
+            "name": "Rancilio Silvia Pro",
+            "description": "The Rancilio Silvia Pro is a professional-grade espresso machine designed for both home and commercial use, known for its quality construction, precise temperature control, and dual boiler system which allows for simultaneous brewing and steaming.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Rancilio"
+            }
+        },
+        {
+            "id": "999c96ec-ffd6-4583-9f15-81777dad366c",
+            "image": null,
+            "name": "Linea Mini",
+            "description": "The La Marzocco Linea Mini is a compact espresso machine designed for home baristas, providing professional-grade performance and user-friendly operation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "La Marzocco"
+            }
+        },
+        {
+            "id": "dffd3f19-28b6-4173-8c04-52feb7e21e2c",
+            "image": null,
+            "name": "KB90",
+            "description": "The La Marzocco KB90 is a professional coffee machine designed to enhance the brewing experience with advanced technology and user-friendly features, aimed at delivering high-quality espresso consistently.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "La Marzocco"
+            }
+        },
+        {
+            "id": "62d57daa-c339-42bf-a2ab-7c0824d61a45",
+            "image": null,
+            "name": "Melitta EPOS Coffee Machines",
+            "description": "The Melitta EPOS Coffee Machines are designed for coffee aficionados, offering advanced brewing technology and a variety of options to deliver high-quality coffee experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "a5459cd7-1b5b-45c7-88c7-ad8d4ba47c34",
+            "image": null,
+            "name": "Melitta AromaFresh",
+            "description": "The Melitta AromaFresh series features coffee machines designed to deliver freshly brewed coffee with the convenience of adjustable grinding settings, ensuring optimal flavor extraction for a customized coffee experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "f6f0f151-2d6b-4f6e-aaca-0f462bf39ebb",
+            "image": null,
+            "name": "Caffeo Barista TS",
+            "description": "The Melitta Caffeo Barista TS is a fully automatic coffee machine designed for coffee enthusiasts who seek personalized brewing options and advanced features for a premium coffee experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "514d9e0d-31d0-4b84-b678-f716489b6d16",
+            "image": null,
+            "name": "Caffeo Solo & Perfect Milk",
+            "description": "The Melitta Caffeo Solo & Perfect Milk series consists of fully automatic coffee machines designed to brew a variety of coffee beverages with ease, featuring a built-in milk frother for lattes and cappuccinos.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "b702b090-13b9-4b41-a57e-4c78462fc87a",
+            "image": null,
+            "name": "Proctor Silex 49981",
+            "description": "The Proctor Silex 49981 is a coffee machine designed for home use, offering a simple and efficient way to brew coffee with ease.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "77211c60-a011-42dd-96b6-60a97d4b0bd0",
+            "image": null,
+            "name": "Proctor Silex 49980",
+            "description": "The Proctor Silex 49980 is a coffee machine designed for simplicity and convenience, allowing users to brew fresh coffee quickly and easily.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "346ebb11-3bdf-4ad4-84cb-0f819d89e068",
+            "image": null,
+            "name": "Proctor Silex Fresh Grind Coffee Grinder",
+            "description": "The Proctor Silex Fresh Grind Coffee Grinder is designed to efficiently grind coffee beans to your preferred consistency, enhancing the flavor and aroma of your coffee. Its compact design and simple operation make it ideal for both beginners and experienced coffee enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "ec52e61b-9ea1-4b57-baa0-1febf6fe4fc2",
+            "image": null,
+            "name": "Proctor Silex 48507 PS Toaster Oven",
+            "description": "The Proctor Silex 48507 PS Toaster Oven is a versatile kitchen appliance designed for toasting, baking, and heating with convenience and efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "19f94983-85d2-4ad0-aae6-a65c2496d22c",
+            "image": null,
+            "name": "Proctor Silex Easy Access Coffee Maker",
+            "description": "The Procter Silex Easy Access Coffee Maker is designed for convenience and usability, featuring an easy-access lid for quick refilling and a simple brew operation to enhance your coffee-making experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "60a53d5d-ffc6-4a5b-a249-31e3c901481a",
+            "image": null,
+            "name": "Procter Silex 43501 Coffee Maker",
+            "description": "The Procter Silex 43501 Coffee Maker is a standard coffee machine designed to brew fresh coffee efficiently, featuring a compact design suitable for home or office use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "ca24a50f-0cb9-48b6-9f29-2b9f2c3a5dc3",
+            "image": null,
+            "name": "Procter Silex 25603 Coffee Maker",
+            "description": "The Procter Silex 25603 Coffee Maker is designed for home brewing, offering efficient performance with a user-friendly interface for coffee enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        }
+    ]
+}

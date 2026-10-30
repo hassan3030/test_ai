@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "d6bac23c-d02f-441e-956e-09518c0347da",
+            "image": null,
+            "name": "Huawei Watch 2",
+            "description": "The Huawei Watch 2 is a smart watch released in 2016, designed for fitness tracking and smartwatch functionality, featuring a built-in GPS and heart rate monitor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "6601d0cf-fa8b-4441-9913-8f1352614bb1",
+            "image": null,
+            "name": "Huawei P50",
+            "description": "The Huawei P50 series is a line of smartphones released in 2021, known for its advanced camera capabilities, high-quality display, and sleek design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "6e238575-6889-4d0f-bc05-12ddef7b3694",
+            "image": null,
+            "name": "Xiaomi Mi 8",
+            "description": "The Xiaomi Mi 8 is a smartphone series released in 2018, known for its flagship performance, dual camera system, and advanced biometric security features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "7a69756f-a620-4476-a74f-2b956a445d83",
+            "image": null,
+            "name": "Xiaomi Mi A2",
+            "description": "The Xiaomi Mi A2 is a smartphone released in 2018 that features a dual-camera setup, a large display, and runs on a stock version of Android, aimed at providing a clean user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "7d691afa-1d96-410c-b5b7-2de29f1e15c2",
+            "image": null,
+            "name": "Xiaomi Mi Band 3",
+            "description": "The Xiaomi Mi Band 3 is a fitness tracker and smartwatch that monitors physical activity, heart rate, and sleep patterns while providing notifications and a user-friendly interface.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e0e215e9-2fb0-48ca-87f3-34b0b42c06e9",
+            "image": null,
+            "name": "Huawei Watch 3",
+            "description": "The Huawei Watch 3 is a premium smartwatch that combines advanced health monitoring features with a sleek design, enabling users to track fitness activities and manage notifications seamlessly.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "85d3c4ce-2ce8-4233-ab76-e9e453f95885",
+            "image": null,
+            "name": "Redmi K20",
+            "description": "The Xiaomi Redmi K20 series consists of mid-range smartphones known for their competitive specifications, stylish design, and affordable pricing. Key features include a pop-up selfie camera and AMOLED display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "87330831-d1e4-4324-8b69-af2a101c21fb",
+            "image": null,
+            "name": "Xiaomi Redmi Note 6 Pro",
+            "description": "The Xiaomi Redmi Note 6 Pro is a mid-range smartphone launched in 2018, featuring a dual-camera system and a large display aimed at providing a balance of performance and affordability for everyday users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e9d4f4f0-3ff0-48f9-ab43-4f8316023cf9",
+            "image": null,
+            "name": "Huawei P50 Series",
+            "description": "The Huawei P50 Series consists of smartphones released in 2022, characterized by their advanced camera capabilities, elegant design, and high-performance specifications aimed at delivering a premium user experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "95a5b07d-775c-4556-b944-27e1e5280d86",
+            "image": null,
+            "name": "Panel Wipe",
+            "description": "Gtechniq Panel Wipe is a car care product designed for removing residual oils, waxes, and other contaminants from surfaces before applying coatings or sealants, ensuring optimal bonding and finish.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "a59c5878-8c4b-40f4-9db6-9c19ffa4ab10",
+            "image": null,
+            "name": "Mi 9",
+            "description": "The Xiaomi Mi 9 is a smartphone series released in 2019, known for its advanced camera capabilities, high-performance hardware, and competitive pricing within the flagship category.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "ad60b99c-f2c1-49e5-9dde-653afb0b1ef9",
+            "image": null,
+            "name": "Xiaomi Redmi 6",
+            "description": "The Xiaomi Redmi 6 is a budget smartphone series released in 2018, designed to offer essential features and reliable performance at an affordable price.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "d5ec7a5b-25d8-4e8c-89fc-8df296cbcbf1",
+            "image": null,
+            "name": "Huawei P60",
+            "description": "The Huawei P60 series is a collection of smartphones released in 2023, designed to offer advanced camera capabilities, high-resolution displays, and robust performance for everyday tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "f9246a0b-98e3-45e1-b62b-65fb7cc61d29",
+            "image": null,
+            "name": "Xiaomi Mi Router 3",
+            "description": "The Xiaomi Mi Router 3 is a smart home device designed to provide reliable Wi-Fi coverage and features optimized for home use, including advanced security options and multiple device connections.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "0513b642-d8e6-4478-a6ea-468009b4a021",
+            "image": null,
+            "name": "Xiaomi Mi Max",
+            "description": "The Xiaomi Mi Max series is a line of smartphones designed to offer a large display and battery capacity, catering to users who prefer larger screens for multimedia consumption and productivity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "18596164-f633-4621-81e0-b1b01804a1ee",
+            "image": null,
+            "name": "Huawei Mate 30 Series",
+            "description": "The Huawei Mate 30 Series is a lineup of premium smartphones released in 2019, known for their advanced camera capabilities, high-performance processing power, and innovative design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "2567bacc-3af2-419b-abba-a9bb8711672e",
+            "image": null,
+            "name": "Huawei MateBook E",
+            "description": "The Huawei MateBook E is a versatile 2-in-1 laptop designed for both productivity and portability, featuring a sleek design and powerful performance capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "274d4719-8c01-4aa9-9e53-3d0c68b3425d",
+            "image": null,
+            "name": "Huawei Mate X3",
+            "description": "The Huawei Mate X3 is a premium foldable smartphone released in 2023, designed to offer versatility and advanced mobile features with a focus on high-performance specifications and innovative design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "29786638-dec9-4403-97d3-3563ce4cc463",
+            "image": null,
+            "name": "Xiaomi Mi 5",
+            "description": "The Xiaomi Mi 5 is a smartphone released in 2016, known for its high performance, sleek design, and affordable pricing, aimed at providing excellent multitasking and multimedia experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "32c83141-8ab4-42fb-9d95-615d3f14ccef",
+            "image": null,
+            "name": "Xiaomi Mi A1",
+            "description": "The Xiaomi Mi A1 is a smartphone launched in 2017, designed to provide a pure Android experience with a focus on performance and camera capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "4023ccbe-7775-481e-836f-3941b1bf552d",
+            "image": null,
+            "name": "Xiaomi Mi Mix",
+            "description": "The Xiaomi Mi Mix series is a line of smartphones that focuses on a near bezel-less display and innovative design, aiming to deliver a premium user experience with high-quality materials and advanced features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "43a41d57-1d76-4825-b941-cf8b7e8ca342",
+            "image": null,
+            "name": "Huawei MatePad 11",
+            "description": "The Huawei MatePad 11 is a versatile tablet designed for productivity and entertainment, featuring a high-resolution display and support for multi-window multitasking.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "58b8c0df-6308-4938-a8b4-a0cd4427e289",
+            "image": null,
+            "name": "Huawei Nova 4e",
+            "description": "The Huawei Nova 4e is a smartphone released in 2019, designed to offer a balance of performance and affordability with a focus on photography and multimedia features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "65c35332-effb-4bfa-bcaf-0b1b99d9a38e",
+            "image": null,
+            "name": "Speed Triple S",
+            "description": "The Triumph Speed Triple S is a modern naked motorcycle known for its agile handling, powerful engine, and distinctive styling, making it a popular choice among riding enthusiasts seeking both performance and comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "ee5541ee-442e-41c3-be88-b2abcf3ef5da",
+            "image": null,
+            "name": "Miele W1",
+            "description": "The Miele W1 series of washing machines, released in 2020, is designed for high efficiency and superior cleaning performance, featuring innovative technology and various wash programs to accommodate different fabric types.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f9b2adc8-e5d8-48e7-bc28-f0030dfd9696",
+            "image": null,
+            "name": "Triumph Trident",
+            "description": "The Triumph Trident is a modern roadster motorcycle known for its agile handling and comfortable riding experience, making it suitable for both city commuting and longer journeys.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "8a692352-50e7-41ec-aa6c-7b2cd8afe7c4",
+            "image": null,
+            "name": "Pinypon Happy",
+            "description": "Pinypon Happy is a playful toy series featuring modular characters and environments that encourage creativity and imaginative play among children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "66f917c9-74b1-4381-af86-62052b3b93ad",
+            "image": null,
+            "name": "City Tour",
+            "description": "The Baby Jogger City Tour series is a lightweight and compact stroller designed for parents on the go, offering convenience and portability without sacrificing comfort for the child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "76b24440-2afc-4f37-a0a7-efd7ce849bba",
+            "image": null,
+            "name": "City Select 2",
+            "description": "The Baby Jogger City Select 2 is a versatile stroller designed for families, allowing for multiple configurations to accommodate one or two children, with features that promote comfort and convenience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "77204b15-3996-441b-85f6-a82f4289e269",
+            "image": null,
+            "name": "Edifier X3",
+            "description": "The Edifier X3 series consists of true wireless earbuds designed for clear sound quality and comfortable fit. Launched in 2021, these earbuds aim to provide an immersive listening experience with convenient touch controls.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Edifier"
+            }
+        }
+    ]
+}

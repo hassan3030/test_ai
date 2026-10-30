@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "012bef44-0e4a-4d60-b2c3-ae3ef223c8f8",
+            "image": null,
+            "name": "Chevrolet Avalanche",
+            "description": "The Chevrolet Avalanche is a versatile pickup truck that combines the capabilities of a traditional truck with the comfort of an SUV, designed for both work and leisure purposes.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "b8c59f0b-d78b-45a2-941b-f3665c360ddb",
+            "image": null,
+            "name": "TeraFlex 4-inch Lift Kit for Jeep Wrangler JK",
+            "description": "The TeraFlex 4-inch Lift Kit for Jeep Wrangler JK is designed to enhance off-road performance and ground clearance, allowing for larger tires and improved articulation on rugged terrains.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "bf960203-5978-4b31-943a-4e7fdb650ded",
+            "image": null,
+            "name": "TeraFlex Alpine RT Suspension System for Jeep Wrangler JK",
+            "description": "The TeraFlex Alpine RT Suspension System is designed for Jeep Wrangler JK models to enhance off-road performance and provide improved stability and ride quality. With adjustable components, it offers drivers the ability to customize their suspension setup for various terrains.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "107b88b2-24de-4cb0-a32a-4c8fd6356957",
+            "image": null,
+            "name": "Rock Crawler",
+            "description": "The TeraFlex Rock Crawler series is designed to enhance off-road performance, providing superior traction and stability for vehicles in rugged terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "dde3f5b0-8440-4dfd-8865-2f13470d86f9",
+            "image": null,
+            "name": "Trek Émonda",
+            "description": "The Trek Émonda series is designed for performance-focused road cycling, prioritizing lightweight construction and exceptional handling. It caters to both competitive cyclists and enthusiasts who seek speed and efficiency on the road.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "12a086db-9a6b-4d69-b60e-ac22102c322f",
+            "image": null,
+            "name": "Piaggio BV",
+            "description": "The Piaggio BV series is a range of scooters designed for urban commuting, combining style, comfort, and performance for riders seeking a practical and efficient means of transportation.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "13dd1648-8c26-46b8-85d6-e4419b713749",
+            "image": null,
+            "name": "Toyota Corolla (11th Generation)",
+            "description": "The Toyota Corolla (11th Generation) is a compact car known for its reliability, fuel efficiency, and practicality, aimed at everyday drivers seeking a dependable vehicle.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "141ed961-acd5-4005-922a-67a2b51c12a8",
+            "image": null,
+            "name": "Winter i*cept EVO3",
+            "description": "The Hankook Winter i*cept EVO3 is a high-performance winter tire designed to provide enhanced traction and stability on snow and ice-covered roads, ensuring safety during winter driving conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "18dbf904-2a7d-4ba6-95e7-910bc3e545ed",
+            "image": null,
+            "name": "Vorsteiner V-FF 103",
+            "description": "The Vorsteiner V-FF 103 is a series of lightweight, flow-formed rims designed to enhance vehicle performance and aesthetics, offering a balance of strength and style for car enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "1b3aa8c5-e19a-4172-a6c0-319b24b9a364",
+            "image": null,
+            "name": "Mud Terrain MT",
+            "description": "The Pro Comp Mud Terrain MT series is designed for off-road performance, featuring rugged tread patterns that provide excellent traction in muddy and challenging terrains.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "2033781d-7a52-49c2-a796-4d6ac889d458",
+            "image": null,
+            "name": "Dodge Challenger (Last Call Edition)",
+            "description": "The Dodge Challenger Last Call Edition is a special variant of the iconic American muscle car, celebrating the legacy of the Challenger with unique styling and performance features while marking the end of the current generation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "b3e86667-cb6d-47b9-8fa7-7120ea1155c7",
+            "image": null,
+            "name": "RM 07-01",
+            "description": "The Richard Mille RM 07-01 is a luxury watch series known for its finely crafted design and innovative use of materials, tailored specifically for women who appreciate high-performance timepieces.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Richard Mille"
+            }
+        },
+        {
+            "id": "7770f952-827d-43d7-9b87-ae3aed3acbe8",
+            "image": null,
+            "name": "Concours",
+            "description": "The Kawasaki Concours is a sport-touring motorcycle known for its comfort and versatility, making it ideal for long-distance rides while offering performance and handling for dynamic touring experiences.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "7f93d7cc-a02a-426c-8dc9-5f2c1c578394",
+            "image": null,
+            "name": "Trek Rail",
+            "description": "The Trek Rail series consists of high-performance electric mountain bikes designed to enhance trail riding experiences with powerful motors and advanced suspension systems for improved control and comfort on varying terrains.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "37fa9037-f970-41ea-848e-1262f1c14f8f",
+            "image": null,
+            "name": "Bianchi Oltre XR4",
+            "description": "The Bianchi Oltre XR4 is a high-performance road bike designed for competitive cyclists, featuring advanced aerodynamics and a lightweight carbon frame to enhance speed and handling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "44233879-9d12-4299-8c55-9c8c609087a7",
+            "image": null,
+            "name": "Bianchi Intenso",
+            "description": "The Bianchi Intenso series features high-performance road bikes designed for endurance and comfort on long rides, combining advanced technology with a classic aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "88a61080-4538-4d07-9574-a1f35c10a867",
+            "image": null,
+            "name": "Bianchi Pista",
+            "description": "The Bianchi Pista series comprises track bikes designed for high-performance racing and urban riding, known for their lightweight frame and responsive handling.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "95fdc2c6-68a3-48f8-8ee2-e4a80b5192ef",
+            "image": null,
+            "name": "Bianchi Methanol",
+            "description": "The Bianchi Methanol series consists of high-performance mountain bikes designed for competitive riders, emphasizing lightweight construction and advanced technology for enhanced agility and speed on various terrains.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "db1236b6-9dc0-4be4-955a-05fdfd5d2022",
+            "image": null,
+            "name": "Bianchi XR4",
+            "description": "The Bianchi XR4 is a high-performance road bike designed for competitive cyclists, featuring advanced aerodynamics and a lightweight frame to enhance speed and agility.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "38441535-4e83-4eba-ae93-5461628fa5c3",
+            "image": null,
+            "name": "Bianchi Methanol CV",
+            "description": "The Bianchi Methanol CV is a high-performance cross-country mountain bike designed for competitive riders, featuring a lightweight carbon frame and advanced suspension technology for improved handling and efficiency on challenging terrains.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "90b78637-b9d7-4260-9448-6d272e13ea6a",
+            "image": null,
+            "name": "Caballero Series",
+            "description": "The Powell Peralta Caballero Series showcases classic skateboard designs inspired by legendary skateboarder Steve Caballero, focusing on high-quality construction suitable for both street and ramp skating.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "13ecd580-6d55-45cd-bbe2-d9c19788f9fd",
+            "image": null,
+            "name": "Ripper Series",
+            "description": "The Powell Peralta Ripper Series includes skateboards designed for durability and performance, featuring iconic graphics and construction quality synonymous with the brand.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "9f10b28f-6e15-46cd-ab1f-14ee64ae1196",
+            "image": null,
+            "name": "Ripper",
+            "description": "The Powell Peralta Ripper series features high-quality skateboards designed for durability and performance, showcasing iconic graphics for skateboard enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "6a9195b7-737a-4340-bb70-1d196a6c3781",
+            "image": null,
+            "name": "Bones Brigade",
+            "description": "The Powell Peralta Bones Brigade series includes a collection of high-quality skateboards designed for both performance and durability, catering to skilled skateboarders seeking iconic designs and superior functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "93ac6600-9c18-4e89-b1a3-4afd307deffc",
+            "image": null,
+            "name": "Powell Peralta Flight Deck",
+            "description": "The Powell Peralta Flight Deck series features lightweight skateboards designed for enhanced performance and durability, ideal for both street and skate park use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "4e7c9e97-625b-4349-9dbd-9ed867ed8ec7",
+            "image": null,
+            "name": "Screaming Hand",
+            "description": "The Powell Peralta Screaming Hand series features skateboards known for their iconic graphics and high-quality construction, designed to provide durability and performance for skateboard enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "2e2e79f1-4263-4683-812e-f694ca5e22ac",
+            "image": null,
+            "name": "Prang Watercolors",
+            "description": "Prang Watercolors are a set of vibrant and versatile water-based paints designed for artists of all levels, suitable for various creative projects and applicable on different surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "471432cc-a638-4d60-8ed4-b7da2277a365",
+            "image": null,
+            "name": "Prang Washable Markers",
+            "description": "Prang Washable Markers are vibrant, easy-to-use markers designed for young artists, offering a variety of colors that wash out easily from skin and most fabrics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "5f0c1dfa-93d4-4a20-89ee-ceb24b79d696",
+            "image": null,
+            "name": "Prang Art Markers",
+            "description": "Prang Art Markers are vibrant, washable markers designed for artists of all ages, featuring a range of colors suitable for various art projects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "7850c281-e3b0-4859-9861-5aa2d34f6708",
+            "image": null,
+            "name": "Prang Crayons",
+            "description": "Prang Crayons are a versatile art supply designed for young artists, featuring vibrant colors and a smooth application for easy blending and layering in creative projects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        }
+    ]
+}

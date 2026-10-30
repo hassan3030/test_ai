@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "1283e5e6-0e3d-4f9e-92f1-b377efd8a29b",
+            "image": null,
+            "name": "American Racing AR-883",
+            "description": "The American Racing AR-883 is a series of aluminum alloy rims designed to enhance the aesthetic appeal and performance of vehicles. Known for their robust design and lightweight construction, these rims cater to car enthusiasts looking for style and functionality.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "44e9a4a2-7564-42ad-965a-7341616523aa",
+            "image": null,
+            "name": "K&N 57 Series FIPK Air Intake System",
+            "description": "The K&N 57 Series FIPK Air Intake System is designed to improve engine performance and increase horsepower by allowing a higher volume of air flow to the engine while filtering out dust and debris.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "93c1329c-7201-4824-86dc-276326cba9e2",
+            "image": null,
+            "name": "American Racing VN Series",
+            "description": "The American Racing VN Series offers a diverse range of high-performance rims designed to enhance the look and performance of vehicles. Launched in 2006, this series is known for its durability and stylish designs, making it a popular choice among automotive enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "9a9ca87d-f2ee-4337-b28c-8ddc9bedd457",
+            "image": null,
+            "name": "American Racing AR Forged Wheel Series",
+            "description": "The American Racing AR Forged Wheel Series offers high-quality forged aluminum wheels designed for performance and style, suitable for various vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "9f1c8dbe-e939-4172-8d66-c371a317b939",
+            "image": null,
+            "name": "K&N AirCharger Performance Intake System",
+            "description": "The K&N AirCharger Performance Intake System is an aftermarket air intake system designed to improve engine performance by increasing airflow. This system enhances horsepower and acceleration while providing superior filtration.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "aa036749-0829-47e2-80f9-936744358233",
+            "image": null,
+            "name": "Husqvarna 701 Enduro",
+            "description": "The Husqvarna 701 Enduro is a powerful and versatile motorcycle designed for enduro riding, blending lightweight construction with high-performance features for both off-road and on-road capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "ad018852-afe5-4133-9822-99f63b32b3c1",
+            "image": null,
+            "name": "K&N Performance Gold Oil Filter",
+            "description": "The K&N Performance Gold Oil Filter is engineered to provide superior filtration and high-flow characteristics to enhance engine performance and longevity. Introduced in 2003, it features a heavy-duty construction for durability and is designed for easy installation.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "ad851bce-3034-4aa7-bb37-cd4b82efec3e",
+            "image": null,
+            "name": "K&N Performance Air Intake Systems",
+            "description": "K&N Performance Air Intake Systems are engineered to enhance engine performance by improving airflow and filtration efficiency, providing higher horsepower and acceleration.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "b025411b-d12a-4337-918c-8ecc1f69a894",
+            "image": null,
+            "name": "Rotiform Wheels Series",
+            "description": "The Rotiform Wheels Series is a line of custom alloy wheels designed for automotive enthusiasts, focusing on unique styles and superior performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform"
+            }
+        },
+        {
+            "id": "e0cdf5fb-7897-4c8b-a8dc-5920253d32ed",
+            "image": null,
+            "name": "Xtreme 200R",
+            "description": "The Hero MotoCorp Xtreme 200R is a lightweight motorcycle aimed at young riders, featuring a sporty design and a focus on performance and handling for urban commuting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "75410d97-a339-4715-992d-edfb32442b0c",
+            "image": null,
+            "name": "Opel Insignia",
+            "description": "The Opel Insignia is a mid-size car that was first released in 2007, designed to provide a balance of comfort, technology, and performance for both personal and professional use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "83a3c824-3c5b-48ab-bb67-18efdc058997",
+            "image": null,
+            "name": "Volkswagen Up!",
+            "description": "The Volkswagen Up! is a compact city car designed for urban driving with an emphasis on efficiency and low emissions. It features a spacious interior, modern technology, and nimble handling, making it ideal for navigating city streets.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "e417dd58-672a-4595-9b4f-4ddc95f3f369",
+            "image": null,
+            "name": "Clyde TV Stand",
+            "description": "The Walker Edison Clyde TV Stand is a versatile piece of furniture designed to support televisions while providing storage options for media devices and accessories.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "TV Stands"
+            },
+            "brand_id": {
+                "name": "Walker Edison"
+            }
+        },
+        {
+            "id": "198c78f2-b537-4eae-a670-e0f7060ffc40",
+            "image": null,
+            "name": "2016 Haro Downtown",
+            "description": "The 2016 Haro Downtown series is designed for urban riding and street BMX stunts, featuring a lightweight frame and durable components suited for both beginners and experienced riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "9bd76270-ed84-47ef-b54b-602841d18916",
+            "image": null,
+            "name": "BMW M4 (G82)",
+            "description": "The BMW M4 (G82) is a high-performance sports coupe that combines luxury and power, embodying BMW's commitment to delivering an exhilarating driving experience with cutting-edge technology and design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "9c102ee1-4e13-407b-b0d4-af0d72f4dff3",
+            "image": null,
+            "name": "Kettal Mesh",
+            "description": "Kettal Mesh is an outdoor furniture series designed for durability and comfort, featuring a modern aesthetic with breathable mesh materials that provide both style and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "a127800b-3613-4373-9b1b-a76501b8dddc",
+            "image": null,
+            "name": "Volkswagen Jetta Mk5",
+            "description": "The Volkswagen Jetta Mk5 is a compact sedan known for its blend of comfort, performance, and practicality, aimed at those seeking a reliable and stylish vehicle.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "aa2afdf1-3d92-4594-9f2d-f8240ec6217e",
+            "image": null,
+            "name": "Chevrolet Caprice PPV",
+            "description": "The Chevrolet Caprice PPV (Police Patrol Vehicle) is a full-size sedan designed for law enforcement use, offering durability, performance, and safety features tailored for police departments.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "aa319f34-6120-42ec-a13c-b9237aa51d0d",
+            "image": null,
+            "name": "Opel Zafira (A)",
+            "description": "The Opel Zafira (A) is a compact MPV designed to provide versatile seating and cargo solutions, aimed at families and individuals needing practicality and comfort.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "b1dd738e-94ee-4c86-9d9a-a399de04ee10",
+            "image": null,
+            "name": "K&N 57 Series FIPK Air Intake Systems",
+            "description": "The K&N 57 Series FIPK Air Intake Systems are designed to enhance vehicle performance by allowing increased airflow to the engine while providing greater filtration efficiency. These systems are engineered to improve acceleration and overall engine performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "b1f3ec7b-1dbf-4832-a0db-3bbdf71965b1",
+            "image": null,
+            "name": "Dell UltraSharp U2720Q",
+            "description": "The Dell UltraSharp U2720Q is a 27-inch 4K UHD monitor designed for professionals who require high color accuracy and advanced connectivity options for tasks such as graphic design and video editing.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "02c3f04e-7b25-4191-9265-c86d45da795f",
+            "image": null,
+            "name": "2023 Chevrolet Equinox",
+            "description": "The 2023 Chevrolet Equinox is a compact SUV designed for versatility and practicality, offering spacious seating, advanced technology, and efficient performance for daily commuting and family outings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "0c32e35e-b1c6-4ede-92e8-e8601a7e960b",
+            "image": null,
+            "name": "LG ThinQ Smart Refrigerator",
+            "description": "The LG ThinQ Smart Refrigerator is an innovative appliance designed to enhance food preservation and organization through smart connectivity and advanced cooling technologies.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "21a15fec-153c-43f5-a667-290de6d6ed11",
+            "image": null,
+            "name": "Ford F-Series (2004 Generation)",
+            "description": "The Ford F-Series (2004 Generation) is a line of full-size pickup trucks known for their durability, capability, and versatility, serving a wide range of consumer and commercial needs.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "34ee35d9-855f-4eb5-b470-cad058f99c34",
+            "image": null,
+            "name": "Clyde Coffee Table",
+            "description": "The Walker Edison Clyde Coffee Table is a stylish and functional piece designed to complement various living spaces, providing a surface for drinks, books, and decorative items.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Walker Edison"
+            }
+        },
+        {
+            "id": "3a2fdf89-105b-47ea-a009-d7891721fc63",
+            "image": null,
+            "name": "Volkswagen Passat B6",
+            "description": "The Volkswagen Passat B6 is a mid-size car known for its spacious interior, advanced safety features, and comfortable ride, designed to meet the needs of families and professionals alike.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "432f35c2-f047-404e-9566-b7e90a5ecb0c",
+            "image": null,
+            "name": "Reflect Table",
+            "description": "The Reflect Table by Muuto is a versatile, minimalist table designed for both dining and working environments, featuring a sleek surface and a harmonious balance of functionality and aesthetics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "52bbd8d4-30de-4730-ab37-08a530a3af1d",
+            "image": null,
+            "name": "Volvo V90 Recharge",
+            "description": "The Volvo V90 Recharge is a luxury plug-in hybrid estate that combines a spacious interior with advanced safety features and sustainable performance, catering to environmentally conscious drivers without compromising on comfort or style.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5c993d89-c8ae-4b12-b2af-6b6720b2ea7f",
+            "image": null,
+            "name": "Volkswagen Jetta (A5)",
+            "description": "The Volkswagen Jetta (A5) is a compact car known for its balance of performance, comfort, and practicality, appealing to drivers seeking a reliable and economical sedan.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "b9cf2bd1-eb15-41f4-9d98-3aa0908f3faf",
+            "image": null,
+            "name": "Dell XPS 13 (9300)",
+            "description": "The Dell XPS 13 (9300) is a premium ultrabook designed for professional and everyday use, featuring a sleek design, high-resolution display, and powerful performance in a compact form factor.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        }
+    ]
+}

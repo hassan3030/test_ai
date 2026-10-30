@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "0888cbbc-48c7-4d45-849b-dd36a38d3c36",
+            "image": null,
+            "name": "Nintendo Switch Lite",
+            "description": "The Nintendo Switch Lite is a handheld gaming console designed specifically for portable play. It features a compact design and is compatible with most Nintendo Switch games that support handheld mode.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "088cdc99-d1ec-4751-a69a-36cea4d82dd5",
+            "image": null,
+            "name": "Acer Aspire 5 A515-56",
+            "description": "The Acer Aspire 5 A515-56 is a versatile laptop series designed for everyday computing tasks, offering a balance of performance and portability suitable for students and professionals alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "0891d1f2-8c84-4a43-be27-bb2c669f11c7",
+            "image": null,
+            "name": "Alfa Romeo Giulia",
+            "description": "The Alfa Romeo Giulia is a compact executive car that embodies Italian design and performance, offering a blend of sporty handling and luxury features.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "0b374b89-41c9-4243-95cc-ecc2167dd15d",
+            "image": null,
+            "name": "Geely CK",
+            "description": "The Geely CK is a compact car introduced by Geely in 2000, designed primarily for urban commuting and efficiency.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "0e746967-7a73-4843-8808-6776a34ae0e7",
+            "image": null,
+            "name": "KitchenAid K400 Series",
+            "description": "The KitchenAid K400 Series is designed for versatile blending tasks, featuring a robust motor and a unique asymmetric blade that effortlessly blends a variety of ingredients for smoothies, soups, and more.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0e842f34-0a6e-4774-b65a-0e0f359e2b86",
+            "image": null,
+            "name": "Joie i-Spin",
+            "description": "The Joie i-Spin series features child car seats designed to provide safety and comfort for infants and toddlers, with a focus on rotational capabilities for easy access.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0e9f8583-3a17-46bb-b121-581aa3d6bc20",
+            "image": null,
+            "name": "BabyBjörn Baby Carrier Harmony",
+            "description": "The BabyBjörn Baby Carrier Harmony is designed to provide safe, comfortable, and ergonomic support for both the baby and the wearer, accommodating different carrying positions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "0ef46849-16ce-4c6f-b61d-828b64972763",
+            "image": null,
+            "name": "Louis Vuitton Archlight",
+            "description": "The Louis Vuitton Archlight sneakers are a stylish and contemporary footwear line first released in 2018, known for their distinctive combination of sporty and luxury elements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0f789c6d-4080-4215-aeb0-d76c8001fe57",
+            "image": null,
+            "name": "RSD Series",
+            "description": "The Phoenix Gold RSD Series is designed for high-quality car audio performance, focusing on delivering powerful sound with enhanced clarity and rich bass response.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "124b180d-1feb-47d1-98a7-eb0832578729",
+            "image": null,
+            "name": "Mont Marte Watercolour Paint Marker",
+            "description": "The Mont Marte Watercolour Paint Marker series features versatile water-based markers designed for blending and layering, ideal for artists looking to create vibrant watercolour effects with ease.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "021093bd-c286-4706-9e29-39e627c04c68",
+            "image": null,
+            "name": "Mont Marte Oil Paint Marker",
+            "description": "Mont Marte Oil Paint Markers are versatile art supplies designed for both beginners and professionals, allowing users to create vibrant, long-lasting artwork on various surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "dd75dc16-9565-4448-9ac7-99eb5c2b9cda",
+            "image": null,
+            "name": "Mont Marte Watercolour Paints",
+            "description": "Mont Marte Watercolour Paints are high-quality, vibrant watercolors designed for artists of all levels. They provide smooth application and excellent blending capabilities, making them ideal for both detailed work and large washes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "971810e8-a378-45dc-98ee-9082e9064c5c",
+            "image": null,
+            "name": "Mont Marte Sketch Pads",
+            "description": "The Mont Marte Sketch Pads are designed for artists and students, offering high-quality paper suitable for sketching and drawing with various mediums.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "62c92b31-3e34-434a-83fa-d6951bbc3663",
+            "image": null,
+            "name": "Mont Marte Studio Oil Paints",
+            "description": "Mont Marte Studio Oil Paints are high-quality oil paints designed for professional artists and hobbyists alike, offering a smooth and buttery consistency for blending and layering. They provide rich pigmentation and excellent lightfastness, ensuring vibrant and durable artwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "230cac56-5345-41c5-a475-f4e317b226a9",
+            "image": null,
+            "name": "Mont Marte Essentials",
+            "description": "Mont Marte Essentials is a comprehensive series of art supplies designed for artists of all levels, providing essential tools for drawing, painting, and crafting.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "14f206af-46d9-4e41-9746-75657c8c172f",
+            "image": null,
+            "name": "Mont Marte Premium",
+            "description": "Mont Marte Premium is a high-quality line of art supplies designed for artists of all skill levels, offering a variety of materials that ensure exceptional performance and vibrant results in various artistic endeavors.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "e094215b-49ed-438c-b4b9-c5536edadfe5",
+            "image": null,
+            "name": "Winsor & Newton Professional Watercolour",
+            "description": "Winsor & Newton Professional Watercolour is a premium range of watercolour paints known for their high pigment concentration and excellent lightfastness, ideal for professional artists seeking vibrant and consistent results.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "c32c5a60-41ba-47e5-b65d-d8f9c2966eba",
+            "image": null,
+            "name": "Ferrari 458",
+            "description": "The Ferrari 458 is a high-performance sports car produced by the Italian manufacturer Ferrari, known for its exceptional handling, sleek design, and powerful V8 engine.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "f88ae9f5-18d6-4661-b745-e49ee3ca77ae",
+            "image": null,
+            "name": "Ferrari F12berlinetta",
+            "description": "The Ferrari F12berlinetta is a luxury sports car known for its powerful V12 engine, exceptional performance, and aerodynamic design, representing a blend of cutting-edge technology and classic Ferrari craftsmanship.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "a0cf021d-5a65-42dd-ab17-cd425454891c",
+            "image": null,
+            "name": "Husky Liners Classic Style",
+            "description": "Husky Liners Classic Style offers durable, high-quality floor liners designed to protect vehicle interiors from dirt, mud, and spills. These liners are custom fit to provide maximum coverage and easy cleanup.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "d93cf9e9-c67d-4a7d-9fb0-a6a737a5d5e5",
+            "image": null,
+            "name": "WeatherBeater Floor Liners",
+            "description": "Husky Liners WeatherBeater Floor Liners are designed to provide maximum protection for your vehicle's interior by guarding against dirt, mud, and spills, ensuring a clean and comfortable environment.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "9ed44977-65b8-4522-9985-87269f7a8b12",
+            "image": null,
+            "name": "Cobra XRS 9930",
+            "description": "The Cobra XRS 9930 is a radar/laser detector released in 2004, designed to help drivers avoid speeding tickets by detecting radar signals from law enforcement agencies.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "0fbbcaf3-07d5-407d-a09c-0552178ace09",
+            "image": null,
+            "name": "Cobra XRS 9370",
+            "description": "The Cobra XRS 9370 is a radar detector designed to provide drivers with advanced warning of speed enforcement devices. Its key features include multiple band detection, customizable alerts, and a user-friendly interface.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "42126d16-44e5-4086-af73-a75b3939ec2f",
+            "image": null,
+            "name": "Cobra 20WXSTII",
+            "description": "The Cobra 20WXSTII is a compact mobile CB radio designed for clear communication on the go, equipped with features for enhanced reception and transmission.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "bf5ad40b-f9b9-4f73-85fb-ca12cd573cb4",
+            "image": null,
+            "name": "Cobra iRadar",
+            "description": "The Cobra iRadar series consists of radar detectors designed to provide drivers with alerts about nearby speed traps and law enforcement monitoring, enhancing overall road safety and awareness.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "009a0afd-841f-48ad-9800-86f5b670340e",
+            "image": null,
+            "name": "American Racing AR-172",
+            "description": "The American Racing AR-172 is a series of stylish and durable rims designed for performance and aesthetic appeal in a variety of vehicles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "00a337d2-ce32-4c59-a870-da57b13a571c",
+            "image": null,
+            "name": "Moto Guzzi Griso 8V SE",
+            "description": "The Moto Guzzi Griso 8V SE is a stylish and powerful motorcycle known for its distinctive design and advanced engineering, aimed at providing a unique riding experience with a sporty character.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "00b73392-1ae8-4058-afde-46d0bf6aa691",
+            "image": null,
+            "name": "Yeezy Boost 350 V2",
+            "description": "The Adidas Yeezy Boost 350 V2 is a sneaker known for its distinctive design and comfortable fit, primarily aimed at casual wear and fashionable street style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "00bcc959-4b54-4a54-b968-0060623e01e5",
+            "image": null,
+            "name": "Aprilia Tuono",
+            "description": "The Aprilia Tuono is a naked motorcycle series launched in 2001, known for its powerful performance, aggressive styling, and advanced technology, designed for both spirited riding and everyday use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "060de028-6520-4c06-9a29-15a50ca52b70",
+            "image": null,
+            "name": "Auditor",
+            "description": "The Focal Auditor series is a range of car audio speakers designed to provide high-quality sound reproduction and enhance the listening experience in vehicles, offering clarity and deep bass.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        }
+    ]
+}

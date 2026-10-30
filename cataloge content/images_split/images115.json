@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "dc10636b-4544-4961-be29-351cd8a18821",
+            "image": null,
+            "name": "Piaggio X8",
+            "description": "The Piaggio X8 is a versatile scooter designed for urban commuting, featuring a comfortable ride and practical storage solutions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "611ded0e-2bd8-4b92-83cc-24d948488c97",
+            "image": null,
+            "name": "Gas Gas EC",
+            "description": "The Gas Gas EC series consists of off-road motorcycles designed for enduro and competitive riding, known for their lightweight construction, agility, and advanced suspension systems.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "e57a55b8-9cce-499b-a98d-43bdde6302f9",
+            "image": null,
+            "name": "Vespa S 150",
+            "description": "The Vespa S 150 is a modern scooter designed for urban mobility, combining classic Vespa styling with contemporary features for a stylish and practical ride.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "f4fe7ea5-0ce4-4801-8f5d-3709f108f345",
+            "image": null,
+            "name": "TnT",
+            "description": "The Benelli TnT series includes a range of high-performance motorcycles designed for street and sport riding, characterized by their distinctive styling and powerful engines.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "691606b6-e610-48ea-bc76-41d249092a54",
+            "image": null,
+            "name": "Vespa LX 125/150",
+            "description": "The Vespa LX 125/150 is a stylish and iconic scooter series designed for urban commuting, combining classic design with modern features for an enjoyable riding experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "9c718974-6935-41c4-83ad-ba86442da329",
+            "image": null,
+            "name": "Dawlance 9190 D",
+            "description": "The Dawlance 9190 D is a modern refrigerator designed for efficient cooling and optimal food preservation, featuring innovative technology for energy efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "6986f787-443a-455c-b81a-0b2ef41b0b50",
+            "image": null,
+            "name": "Vespa Primavera 125",
+            "description": "The Vespa Primavera 125 is a popular lightweight scooter known for its stylish design and maneuverability, ideal for urban commuting and leisurely rides.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "69e6ee6d-5e8e-4f2c-aa3b-91dfc71e94e2",
+            "image": null,
+            "name": "Dodo Juice Rainforest Rub",
+            "description": "Dodo Juice Rainforest Rub is a natural car wax designed to provide protection and enhance the gloss of automotive paint. It combines high-quality carnauba wax with essential oils for a durable finish and a tropical fragrance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "76dbb026-50d8-489e-81bd-9510d840beb7",
+            "image": null,
+            "name": "Vespa S 50/125",
+            "description": "The Vespa S 50/125 is a stylish scooter that embodies the classic Vespa design while offering modern functionality. It is primarily designed for urban commuting, providing a blend of performance and maneuverability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "41be1905-1b92-486f-9ab9-73b6618e99c8",
+            "image": null,
+            "name": "Vespa Sprint",
+            "description": "The Vespa Sprint is a modern scooter that blends classic design with contemporary performance. Known for its agility and stylish aesthetics, it is aimed at urban riders seeking a practical and efficient mode of transportation.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "5459d526-bb40-4d31-b6a7-79f946c308a5",
+            "image": null,
+            "name": "Dodo Juice Limited Edition Series",
+            "description": "The Dodo Juice Limited Edition Series is a collection of high-quality car care products designed to enhance the appearance and protection of vehicles. Each product is formulated with special ingredients to deliver exceptional performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "567d09f5-9f95-4a4b-91fc-da0a3c1f1917",
+            "image": null,
+            "name": "Gas Gas TXT Pro",
+            "description": "The Gas Gas TXT Pro series is a line of trials motorcycles designed for competitive and recreational use, featuring lightweight construction and advanced suspension systems to enhance maneuverability and performance in challenging terrains.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "8c45ffb7-1c03-49e2-8b8f-7bd7b73a0e71",
+            "image": null,
+            "name": "KX 65",
+            "description": "The Kawasaki KX 65 is a mini motocross bike designed specifically for young riders, featuring a lightweight frame and powerful engine to provide an optimal introduction to dirt bike racing.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "99595c2f-8ad5-46da-bf50-b9afe7d0dbfe",
+            "image": null,
+            "name": "Dodo Juice Banana Wax",
+            "description": "Dodo Juice Banana Wax is a car wax designed to provide a deep shine and protection for automotive paint. Its banana scent is a unique feature that sets it apart from other car care products.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "9f4c31d4-fc17-4815-abce-08cc01763649",
+            "image": null,
+            "name": "Tornado",
+            "description": "The Benelli Tornado series consists of motorcycles designed for performance and agility, featuring a distinctive aerodynamic design and advanced engineering for a thrilling riding experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "b01e819e-943e-4315-a048-5f9a73acb76e",
+            "image": null,
+            "name": "Dodge Charger (Last Call Edition)",
+            "description": "The Dodge Charger (Last Call Edition) is a special edition of the iconic American muscle car, released in 2023, highlighting the heritage and performance of the Charger with unique design elements and enhanced features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "b3de1e70-7576-47e5-aa61-2b29c55f6c60",
+            "image": null,
+            "name": "Piaggio Vespa Primavera",
+            "description": "The Piaggio Vespa Primavera is a modern scooter known for its stylish design, agility, and ease of use, making it ideal for urban commuting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "bc5677ce-b0e3-44a5-8e7c-99da94067637",
+            "image": null,
+            "name": "Gas Gas TXT Racing 250",
+            "description": "The Gas Gas TXT Racing 250 is a lightweight, high-performance trial motorcycle designed for competitive off-road riding, featuring advanced suspension and a powerful engine for superior maneuverability and control.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "c5e38cf0-d710-4606-91c1-13ea9085e265",
+            "image": null,
+            "name": "Gas Gas TXT Racing 300",
+            "description": "The Gas Gas TXT Racing 300 is a premium trial motorcycle designed for competitive and recreational riders. Known for its lightweight construction and precision handling, it excels in technical terrains.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "cec197b4-89dd-4141-84d9-b318027a0ea8",
+            "image": null,
+            "name": "GP",
+            "description": "The Gas Gas GP series represents a line of high-performance motorcycles designed for competitive use, featuring advanced technology and lightweight construction to enhance agility and control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "cfef239f-031f-4cae-a03f-406840bb99ff",
+            "image": null,
+            "name": "Vespa S",
+            "description": "The Piaggio Vespa S is a scooter known for its classic design and modern features, offering a blend of style, efficiency, and urban versatility since its release in 2009.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "61b326c8-d3da-4ba1-a64a-9615ebcb5c3c",
+            "image": null,
+            "name": "Ninja ZX-10R",
+            "description": "The Kawasaki Ninja ZX-10R is a high-performance sports motorcycle designed for racing enthusiasts, featuring advanced technology and a powerful engine for superior speed and handling.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "dd942d80-b03d-419a-80d2-70bf5c09fe0d",
+            "image": null,
+            "name": "Kawasaki Vulcan 900 Custom",
+            "description": "The Kawasaki Vulcan 900 Custom is a cruiser motorcycle known for its stylish design, comfortable ride, and smooth performance, making it suitable for both city commuting and longer rides.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "df70f438-f69e-4038-bec5-d2ef2d8255c3",
+            "image": null,
+            "name": "Ninja",
+            "description": "The Kawasaki Ninja series of motorcycles is known for its high-performance capabilities, sleek design, and advanced technology aimed at both sport and touring riders. This series emphasizes speed, agility, and rider engagement, making it a popular choice among motorcycle enthusiasts.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "fa158ec3-9a4d-45cb-a739-3419c635a742",
+            "image": null,
+            "name": "Kawasaki ZX-12R",
+            "description": "The Kawasaki ZX-12R is a sport motorcycle known for its high performance and powerful engine, designed primarily for speed and handling on both the street and track.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "fa933bc8-79a9-4b3e-9883-b6f777ee052b",
+            "image": null,
+            "name": "Kawasaki Ninja 300",
+            "description": "The Kawasaki Ninja 300 is a sport motorcycle designed for riders seeking a blend of performance and practicality, featuring a lightweight chassis and an agile handling profile ideal for both new and experienced riders.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "a89069ec-a718-439d-9443-c20e9a4ca815",
+            "image": null,
+            "name": "Schmincke Horadam Aquarell",
+            "description": "Schmincke Horadam Aquarell is a premium line of watercolors known for their high pigment concentration, excellent lightfastness, and smooth application. They are designed for artists seeking vibrant colors and versatility in their watercolor painting.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "649c0fe9-0049-42f5-8554-b76c5b69d21e",
+            "image": null,
+            "name": "Kawasaki Ninja 250",
+            "description": "The Kawasaki Ninja 250 is a lightweight sport motorcycle known for its nimble handling and beginner-friendly characteristics, making it a popular choice for new riders.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "64e9ed3c-1699-48aa-9373-e0b90ac46935",
+            "image": null,
+            "name": "Kawasaki KX250X",
+            "description": "The Kawasaki KX250X is a high-performance off-road motorcycle designed for competitive trail riding and enduro racing, featuring advanced suspension and a powerful engine.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "665023af-5d86-476a-ab08-c4d406915564",
+            "image": null,
+            "name": "Kawasaki KX250F",
+            "description": "The Kawasaki KX250F is a motocross motorcycle designed for competitive racing, featuring advanced suspension technology and a lightweight frame for optimal performance on dirt tracks.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        }
+    ]
+}

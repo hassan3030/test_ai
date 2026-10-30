@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "947bfc95-c17b-42e6-93e9-9bd151b179c6",
+            "image": null,
+            "name": "Griot's Garage Complete Compound",
+            "description": "Griot's Garage Complete Compound is a car care product designed for effective paint correction and surface restoration, helping to remove imperfections such as scratches and swirl marks.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "3376112c-986c-4de0-bdde-c94b9b2d487b",
+            "image": null,
+            "name": "Complete Machine Polish",
+            "description": "Griot's Garage Complete Machine Polish series consists of high-quality polishing products designed to remove imperfections and enhance the shine of automotive finishes, making it easier for users to achieve a professional-looking finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "0bcfcff9-7183-407d-9105-fcd9e5b8b3ea",
+            "image": null,
+            "name": "Griot's Garage Ceramic 3-in-1 Wax",
+            "description": "Griot's Garage Ceramic 3-in-1 Wax is a multifunctional car care product designed to provide advanced protection, enhance gloss, and make cleaning easier, all in one application.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "0fbadf3e-7a3a-4f7c-b676-13fe79052f62",
+            "image": null,
+            "name": "Griot's Garage Spray-On Ceramic Wax",
+            "description": "Griot's Garage Spray-On Ceramic Wax is a car care product designed to provide a durable protective layer while enhancing the shine of your vehicle's exterior. Its easy spray-on application creates a hydrophobic surface that repels water and contaminants.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "7e07673e-7956-4418-8f8e-ff45a8b2ee36",
+            "image": null,
+            "name": "JÄTTELIK",
+            "description": "The JÄTTELIK series from IKEA features durable outdoor furniture designed for comfortable seating and dining experiences in outdoor settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "843d362c-cc09-4317-b755-ea28276ffc79",
+            "image": null,
+            "name": "Renault Mégane III",
+            "description": "The Renault Mégane III is a compact car that was first released in 2008, known for its distinctive design, comfortable interior, and various engine options catering to a wide range of drivers.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "ee723f89-f9d2-4628-aaff-d4c5abc2b3dc",
+            "image": null,
+            "name": "Yamaha FZ6",
+            "description": "The Yamaha FZ6 is a versatile motorcycle designed for both beginner and experienced riders, offering a balance of performance and comfort suitable for daily commuting and weekend rides.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "b3547daf-e65f-4693-8123-f387f48fc48a",
+            "image": null,
+            "name": "Maui Jim Sunglasses",
+            "description": "Maui Jim Sunglasses are designed to provide superior UV protection while offering exceptional clarity and vibrant colors through advanced lens technology, making them ideal for outdoor activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "95154896-0312-42b7-b34a-ea2e23718984",
+            "image": null,
+            "name": "Zymöl Glasur",
+            "description": "Zymöl Glasur is a premium car care product series launched in 2014, designed to provide exceptional protection and shine to automotive paint finishes.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "ab605072-b394-4071-a652-e67ad898fb19",
+            "image": null,
+            "name": "Lamborghini Huracán",
+            "description": "The Lamborghini Huracán is a high-performance sports car known for its striking design and powerful V10 engine, offering a blend of speed, precision, and luxury.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "bf3f3cfd-d3c4-47c1-bbd4-3af7a9c0a2cc",
+            "image": null,
+            "name": "Louis Vuitton Keepall Bandoulière 50",
+            "description": "The Louis Vuitton Keepall Bandoulière 50 is a luxury travel bag designed for versatility and style, featuring a spacious interior and comfortable, adjustable shoulder strap.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "06ec9c34-b444-47ab-9c71-1bfef08740a3",
+            "image": null,
+            "name": "Škoda Superb",
+            "description": "The Škoda Superb is a premium mid-size car known for its spacious interior, advanced technology, and comfortable ride, making it suitable for both family and professional use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "1bffd4aa-17c0-4164-80a0-1ed802ef2b3c",
+            "image": null,
+            "name": "TÄRENDÖ",
+            "description": "The TÄRENDÖ series by IKEA offers versatile bed solutions designed for small spaces, focusing on compactness and functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "29118d4d-e5ab-42f6-a16c-2b34f425403d",
+            "image": null,
+            "name": "Lättdal",
+            "description": "The IKEA Lättdal series features a range of sofas designed to provide comfort and versatility in modern living spaces, combining practical features with a sleek aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "2d1cd39f-d230-4b2e-babd-d3ef5ee8b8ad",
+            "image": null,
+            "name": "FÄRLÖV",
+            "description": "The FÄRLÖV series from IKEA features sofas that blend classic design with modern comfort, offering a sophisticated seating option for living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "3570e774-5209-4179-b9a9-d76ad627c5ba",
+            "image": null,
+            "name": "Proton Prevé",
+            "description": "The Proton Prevé is a compact sedan designed to offer a blend of style, comfort, and practicality, serving as an accessible choice for urban commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "41f48daa-77be-4bb7-89cc-11cb8c1ae34a",
+            "image": null,
+            "name": "Söderhamn",
+            "description": "The Söderhamn series offers a modern and modular sofa design, emphasizing versatility and comfort, making it suitable for various living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Söderhamn"
+            }
+        },
+        {
+            "id": "58548b5b-60cc-4156-b2d7-30d304141ac8",
+            "image": null,
+            "name": "Roccat Kone Pro Air",
+            "description": "The Roccat Kone Pro Air is a high-performance gaming mouse designed for serious gamers, featuring advanced wireless technology and customizable features for enhanced gameplay.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "6f363921-bc5a-4194-b49b-79ab2f81fff0",
+            "image": null,
+            "name": "Oculus Go",
+            "description": "The Oculus Go is standalone virtual reality headset designed for immersive experiences without the need for external hardware or a PC. It offers users easy access to a variety of VR content including games, apps, and films.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "cbcf3a10-ff80-4707-b303-de1643db9320",
+            "image": null,
+            "name": "Stealth 600",
+            "description": "The Turtle Beach Stealth 600 is a wireless gaming headset designed for immersive audio experiences and comfort during extended gaming sessions. It features a lightweight design and is compatible with various gaming platforms.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "ce24f4ea-7546-4c33-b2f3-2aab95299e63",
+            "image": null,
+            "name": "Stealth 700",
+            "description": "The Turtle Beach Stealth 700 is a wireless gaming headset designed for immersive audio experiences, featuring high-quality sound and comfort for long gaming sessions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "575ff625-1592-448c-b641-07271639f2b3",
+            "image": null,
+            "name": "MagnaFlow Off-Road Pro Series Exhaust Systems",
+            "description": "The MagnaFlow Off-Road Pro Series Exhaust Systems are designed to enhance the performance and sound of off-road vehicles by improving exhaust flow and reducing back pressure.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "0fd1573f-c737-42a1-b2e1-0e6747ce4d55",
+            "image": null,
+            "name": "MagnaFlow Diesel Series",
+            "description": "The MagnaFlow Diesel Series is designed to enhance the performance and sound of diesel vehicles, offering superior quality and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "99c72b1d-e43b-44dd-b2bf-08a43adfa130",
+            "image": null,
+            "name": "MagnaFlow Installer Series",
+            "description": "The MagnaFlow Installer Series is designed to offer high-quality exhaust solutions for a variety of vehicles, enhancing performance while ensuring easy installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "782876bf-e729-4dc4-853d-a63fa27dc621",
+            "image": null,
+            "name": "Zymöl Kreem",
+            "description": "Zymöl Kreem is a premium car care product series designed for paint protection and enhancement, providing a high-gloss finish while nourishing the car's surface.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "7afa052e-ac47-4124-a1d4-f4a420d368bf",
+            "image": null,
+            "name": "Britax Römer Dualfix i-Size",
+            "description": "The Britax Römer Dualfix i-Size is a versatile baby car seat designed to accommodate infants from birth to approximately 18 kg, offering a 360-degree rotation for easy access and a secure installation. This seat meets the latest safety standards and features multiple recline positions for optimal comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e0c73a52-311f-47ee-a803-d018b68a6ab3",
+            "image": null,
+            "name": "Britax Römer Discovery SL",
+            "description": "The Britax Römer Discovery SL is a group 2/3 car seat designed for children aged 4 to 12 years, emphasizing safety and comfort with advanced side impact protection and an adjustable seat belt guide.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fa85757c-2e01-4f08-950f-4c66b318b1bf",
+            "image": null,
+            "name": "Gamblin Artists Colors Mediums",
+            "description": "Gamblin Artists Colors Mediums are a selection of high-quality mediums designed to enhance the performance and versatility of oil paints, allowing artists to modify texture, drying time, and finish.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "824a5433-2fe7-4210-86d8-f2ab8c29389e",
+            "image": null,
+            "name": "Zymöl Wax",
+            "description": "Zymöl Wax is a premium car care product designed to provide exceptional shine and protection for automotive surfaces, emphasizing the use of natural ingredients for a high-quality finish.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "98bdbcd3-bf7b-4c2e-9924-8d94a450d876",
+            "image": null,
+            "name": "Zymöl Carbon",
+            "description": "Zymöl Carbon is a premium car care product series designed to provide comprehensive protection and enhancement for automotive finishes through advanced wax formulations.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        }
+    ]
+}

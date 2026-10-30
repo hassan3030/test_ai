@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "3c2a2e03-a7ef-48b0-8ffe-8ed5f9271475",
+            "image": null,
+            "name": "SsangYong Korando",
+            "description": "The SsangYong Korando is a compact SUV that combines versatility and practicality, designed for both urban driving and outdoor adventures.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "3fdfef43-083d-4f1a-b9e6-ceaaf34dc382",
+            "image": null,
+            "name": "Noble M12",
+            "description": "The Noble M12 is a lightweight sports car designed for high performance and agile handling, focused on providing an exhilarating driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Noble Automotive"
+            }
+        },
+        {
+            "id": "44731d12-9ccb-4ce7-8f6c-979b5e5cdde2",
+            "image": null,
+            "name": "SsangYong Actyon",
+            "description": "The SsangYong Actyon is a compact SUV known for its rugged design and versatility, catering to urban and off-road driving needs since its introduction in 2007.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "4d468b88-948f-4975-9f24-722f69a78df1",
+            "image": null,
+            "name": "SsangYong Torres",
+            "description": "The SsangYong Torres is a modern SUV that combines robust performance with practical features, designed to meet the needs of both urban and adventurous driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "4ff36d57-7201-4501-9911-5f405ba607a0",
+            "image": null,
+            "name": "Korando C",
+            "description": "The SsangYong Korando C is a compact SUV that was released in 2009, designed to offer a combination of utility, comfort, and modern styling.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "5990a53f-defd-4f49-9a27-aa734c22a6fe",
+            "image": null,
+            "name": "Noble M400",
+            "description": "The Noble M400 is a lightweight, high-performance sports car designed for driving enthusiasts, emphasizing agility and speed on both track and road.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Noble Automotive"
+            }
+        },
+        {
+            "id": "f8f9d50b-fb3e-49ad-8cd1-0116c5ebc870",
+            "image": null,
+            "name": "Pagani Huayra",
+            "description": "The Pagani Huayra is a luxury hypercar produced by Italian manufacturer Pagani, known for its exceptional engineering, aerodynamic design, and high performance. It embodies the pinnacle of automotive craftsmanship and innovative technology.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "607bfed7-85a9-4efc-8f28-b3198847360e",
+            "image": null,
+            "name": "Rheem Performance Water Heater Series",
+            "description": "The Rheem Performance Water Heater Series offers reliable and efficient hot water solutions for residential needs, emphasizing durability and performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Rheem"
+            }
+        },
+        {
+            "id": "61b5ef3e-6330-4b58-94b3-9492b416ccd6",
+            "image": null,
+            "name": "Caterham 7",
+            "description": "The Caterham 7 is a lightweight, open-top sports car known for its exceptional handling and performance, embodying the principles of minimalist engineering and driving pleasure.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "7ad67486-a37b-4600-a313-583ec96882f2",
+            "image": null,
+            "name": "Agera RS",
+            "description": "The Koenigsegg Agera RS is a high-performance supercar known for its exceptional speed, cutting-edge technology, and lightweight construction, aimed at providing an unparalleled driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "8240ff5f-5504-452a-8687-f353b6326564",
+            "image": null,
+            "name": "Koenigsegg Agera",
+            "description": "The Koenigsegg Agera is a high-performance sports car series known for its innovative engineering, lightweight construction, and extreme speed capabilities. Released in 2009, it reflects the brand's commitment to pushing the boundaries of automotive performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "82e79452-52eb-42ab-ae28-d76e2e1cf697",
+            "image": null,
+            "name": "Koenigsegg Agera RS",
+            "description": "The Koenigsegg Agera RS is a high-performance sports car known for its exceptional speed, advanced aerodynamics, and cutting-edge engineering, offering a unique blend of power and luxury.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "8beef452-7e84-4b6e-b714-e70ae374a996",
+            "image": null,
+            "name": "Caterham Seven",
+            "description": "The Caterham Seven is a lightweight sports car known for its minimalist design and exceptional agility, providing an engaging driving experience on both road and track.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "9285d23c-a3a8-4eeb-9f1f-1931b8d1b07f",
+            "image": null,
+            "name": "Caterham Seven 500 Series",
+            "description": "The Caterham Seven 500 Series is a lightweight sports car known for its minimalist design and engaging driving experience, emphasizing performance and handling over luxury.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "97bad869-093a-42e5-9d8f-38e6e0faa3d8",
+            "image": null,
+            "name": "Huayra Roadster",
+            "description": "The Pagani Huayra Roadster is a luxury hypercar known for its lightweight design, exceptional performance, and innovative engineering. Released in 2017, it exemplifies Pagani's dedication to craftsmanship and automotive excellence.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "a1d090ac-f2cf-4597-9ab9-da594bf1735a",
+            "image": null,
+            "name": "Bajaj Discover",
+            "description": "The Bajaj Discover series is a line of motorcycles launched in 2002, designed for both urban commuting and long-distance travel, known for their fuel efficiency and comfortable riding experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "b2a12bba-4850-4039-ab7f-5a389b642c83",
+            "image": null,
+            "name": "Caterham Seven 160",
+            "description": "The Caterham Seven 160 is a lightweight sports car that embodies the essence of driving enjoyment and simplicity, designed for enthusiasts who appreciate a pure, engaging driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "b4200948-6f15-4d75-a4d0-876a8435902b",
+            "image": null,
+            "name": "BluEarth-A AE-50",
+            "description": "The Yokohama BluEarth-A AE-50 is a high-performance tire designed for all-season use, combining fuel efficiency with enhanced wet and dry traction for a comfortable and safe driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "0a7e1f35-4665-440c-b88b-c6bf46aa815a",
+            "image": null,
+            "name": "Regera",
+            "description": "The Koenigsegg Regera is a luxury hypercar that combines hybrid technology with exceptional performance and advanced aerodynamics, designed for a seamless driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "16487242-2d78-4f8c-9ac3-f9c7cf90036d",
+            "image": null,
+            "name": "Gemera",
+            "description": "The Koenigsegg Gemera is a hybrid supercar that combines remarkable performance with four-seat capacity, showcasing a blend of luxury and cutting-edge technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "18e98132-89e7-43db-abd8-2dc5ba873740",
+            "image": null,
+            "name": "Agera",
+            "description": "The Koenigsegg Agera is a high-performance sports car known for its cutting-edge engineering and exceptional speed, designed to push the limits of automotive performance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "1a166167-1e85-4b76-996f-5c2ca3a69271",
+            "image": null,
+            "name": "Koenigsegg CCR",
+            "description": "The Koenigsegg CCR is a high-performance sports car known for its lightweight construction, powerful engine, and advanced aerodynamics, making it one of the fastest production cars of its time.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "1dc83b27-706b-43e4-90eb-aee1a2f5e695",
+            "image": null,
+            "name": "Bajaj Discover Series",
+            "description": "The Bajaj Discover Series is a line of motorcycles introduced by Bajaj Auto in 2004, designed to offer affordability and efficiency for daily commuting.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "1e0d2af7-aa6f-448c-8eb2-6b450a0eb61d",
+            "image": null,
+            "name": "Bajaj Pulsar Series",
+            "description": "The Bajaj Pulsar Series is a popular line of motorcycles known for their sporty design, performance, and affordability, aimed primarily at the youth market.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "1ec53d0f-f404-437b-be5b-6c1730a80c93",
+            "image": null,
+            "name": "Koenigsegg CCXR Trevita",
+            "description": "The Koenigsegg CCXR Trevita is a high-performance hypercar known for its exceptional speed and distinctive design. Launched in 2008, it features a carbon fiber body and is recognized for its limited production and advanced engineering.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "25cef6d8-ae1d-4359-bb56-64ec1c163ea5",
+            "image": null,
+            "name": "Koenigsegg CCX",
+            "description": "The Koenigsegg CCX is a high-performance sports car designed for advanced automotive technology and exceptional speed, showcasing the brand's commitment to engineering excellence and innovation since its introduction in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "2f82cf6a-7ca0-40ae-8abb-ef67f7a5515e",
+            "image": null,
+            "name": "Jesko",
+            "description": "The Koenigsegg Jesko is a hypercar designed for high performance, featuring advanced aerodynamics and cutting-edge technology to achieve exceptional speed and handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "3d8137fe-d403-426b-8f51-bee6ba0c830f",
+            "image": null,
+            "name": "Caterham Seven 450",
+            "description": "The Caterham Seven 450 is a lightweight sports car known for its minimalist design and exceptional handling, aimed at providing a pure driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "4ae2471d-1923-46c8-ae9f-0eceadfdfe65",
+            "image": null,
+            "name": "Bajaj Pulsar",
+            "description": "The Bajaj Pulsar series is a popular line of motorcycles introduced by Bajaj Auto in 2000, known for their sporty design, performance, and affordability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "6794b62f-fc5b-4332-b7d1-8f5d27618691",
+            "image": null,
+            "name": "Dell Inspiron 16 (2023)",
+            "description": "The Dell Inspiron 16 (2023) is a versatile laptop series designed for everyday usage, offering a blend of performance and portability suitable for both personal and professional tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        }
+    ]
+}

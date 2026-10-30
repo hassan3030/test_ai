@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "5d5c882a-389d-487f-9e0d-5f0a304d6e07",
+            "image": null,
+            "name": "KTM 500 EXC",
+            "description": "The KTM 500 EXC is a high-performance off-road motorcycle designed for competitive enduro racing and recreational trail riding. It features a lightweight chassis and powerful engine, providing excellent handling and adaptability on various terrains.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "a3e2ba92-f14a-4100-b1c0-0c70fdcbf89d",
+            "image": null,
+            "name": "Dorsoduro 900",
+            "description": "The Aprilia Dorsoduro 900 is a versatile motorcycle designed for both urban commuting and spirited rides, featuring a powerful engine and agile handling suited for various riding conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "b8b142c5-c014-442b-bedf-d139edd7bfa4",
+            "image": null,
+            "name": "Dodge Challenger SRT Demon",
+            "description": "The Dodge Challenger SRT Demon is a high-performance muscle car designed for drag racing, featuring a supercharged V8 engine and advanced performance technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "bb258af3-b183-498b-9959-dc20ec4c2e90",
+            "image": null,
+            "name": "KTM 450 SMR",
+            "description": "The KTM 450 SMR is a high-performance motorcycle designed for competitive racing and supermoto riding, combining powerful engine performance with agility and maneuverability for optimal track performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "c9973585-f034-47d7-aa34-e140a4db67f3",
+            "image": null,
+            "name": "Huawei Nova 3",
+            "description": "The Huawei Nova 3 is a smartphone series released in 2018, known for its dual-camera setup and emphasis on photography, making it suitable for users seeking high-quality images and a stylish design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "d2f61821-8f95-4a39-9bac-f88cfd03b78e",
+            "image": null,
+            "name": "KTM Super Duke",
+            "description": "The KTM Super Duke series is a line of naked motorcycles known for their powerful engines and aggressive styling, designed for performance-oriented riders seeking both street and track capabilities.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "e50f9822-9b4a-4ffb-8a21-6055fa0804c0",
+            "image": null,
+            "name": "Dodge Challenger (2023 Model Year)",
+            "description": "The Dodge Challenger (2023 Model Year) is a classic American muscle car known for its powerful engine options and retro styling, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "441006dd-1ab7-4a02-9d16-218a0d799c0e",
+            "image": null,
+            "name": "Hero Honda Karizma ZMR",
+            "description": "The Hero Honda Karizma ZMR is a sporty motorcycle known for its reliable performance and stylish design, designed for both city commuting and longer rides.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "f23fe099-c749-4c95-b45b-a3e9ee31a829",
+            "image": null,
+            "name": "Fire TV Stick 4K Max",
+            "description": "The Amazon Fire TV Stick 4K Max is a streaming media player that allows users to access a wide range of content from various streaming services in 4K resolution, enhancing their viewing experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "dc948f62-abfe-4e51-bba5-d00b3e6dc49e",
+            "image": null,
+            "name": "Penny Nickel 27",
+            "description": "The Penny Nickel 27 is a compact skateboard designed for smooth cruising and easy portability, featuring a wider deck for enhanced stability and balance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "839afb3f-a050-44f4-8793-10d91d6e67d4",
+            "image": null,
+            "name": "Penny Nickel Board",
+            "description": "The Penny Nickel Board is a versatile skateboard designed for cruising and casual riding. Its larger deck offers more stability and comfort for riders of all skill levels.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "be704c04-c41b-4d7d-a822-1f037c30bca4",
+            "image": null,
+            "name": "Penny Classic Series",
+            "description": "The Penny Classic Series consists of compact, lightweight skateboards known for their durable materials and vibrant designs, making them ideal for riders of all ages seeking portability and style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "1cf75c53-d467-467e-a411-3e162b5ef06f",
+            "image": null,
+            "name": "Penny Original",
+            "description": "The Penny Original series represents a line of durable and lightweight skateboards designed for cruising and street skating. Known for their vibrant colors and high-quality construction, these skateboards blend style and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "2fd69587-78c1-407b-8d0c-caefcdc59538",
+            "image": null,
+            "name": "Chuwi HiBook",
+            "description": "The Chuwi HiBook series is a line of versatile tablets designed for productivity and entertainment, featuring dual-boot capabilities for Windows and Android systems.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "10e9fea9-4d67-4145-a1ab-628ee8de9119",
+            "image": null,
+            "name": "Chuwi LapBook",
+            "description": "The Chuwi LapBook series consists of budget-friendly laptops designed for everyday use, offering a balance of performance and portability for students and casual users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "0d7735b0-f423-4352-8b5d-fa3f858b0f9f",
+            "image": null,
+            "name": "Chuwi HeroBook Pro",
+            "description": "The Chuwi HeroBook Pro is a budget-friendly laptop designed for everyday tasks such as web browsing, office applications, and multimedia consumption, offering portability and efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "99da66c4-130d-47d7-8626-086e42a852e0",
+            "image": null,
+            "name": "Chuwi P12 Pro",
+            "description": "The Chuwi P12 Pro is a versatile tablet designed for productivity and entertainment, featuring a high-resolution display and efficient performance for a seamless user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "c8db75e5-f61e-434f-85c7-2c2aabca8df1",
+            "image": null,
+            "name": "Chuwi LarkBox Pro",
+            "description": "The Chuwi LarkBox Pro is a compact, mini PC designed for versatility and portability, making it suitable for a variety of tasks including office work, entertainment, and home computing.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "afc94b8e-6e49-43c4-b996-00336b912e8f",
+            "image": null,
+            "name": "Chuwi CoreBook X Pro",
+            "description": "The Chuwi CoreBook X Pro is a powerful laptop designed for productivity and multitasking, equipped with advanced features to enhance user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "14a35130-93d1-4557-ba6f-800b5c61ad08",
+            "image": null,
+            "name": "Chuwi HiPad Plus",
+            "description": "The Chuwi HiPad Plus is a versatile tablet designed for everyday use, offering a balanced performance ideal for browsing, streaming, and productivity tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "4f0b9b87-6b56-49a8-ada7-4de6db28a59d",
+            "image": null,
+            "name": "Omen X",
+            "description": "Omen X laptops are high-performance gaming devices designed to deliver exceptional graphics and processing power for immersive gameplay.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "2ea81575-2297-4bc5-80df-80842a51eecc",
+            "image": null,
+            "name": "Moto G6",
+            "description": "The Moto G6 is a mid-range smartphone designed for users seeking a balance of performance and affordability, featuring a sleek design and a focus on delivering essential smartphone functionalities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "ec32f164-d506-43d0-b395-f90c149c211e",
+            "image": null,
+            "name": "Moto G6 Play",
+            "description": "The Motorola Moto G6 Play is a budget-friendly smartphone released in 2018, designed to offer essential features with a focus on performance and battery life for everyday users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "58e710e0-e570-40cd-ab07-1a92e124d79a",
+            "image": null,
+            "name": "Moto Z3 Play",
+            "description": "The Motorola Moto Z3 Play is an Android smartphone known for its modular capabilities, allowing users to enhance functionality with Moto Mods. Released in 2018, it features a sleek design and aims to provide a solid balance of performance and usability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "fd1d8398-5e81-46f9-92fc-a6631d3ee975",
+            "image": null,
+            "name": "Moto G Power",
+            "description": "The Motorola Moto G Power is a smartphone series released in 2020, known for its long-lasting battery life and reliable performance at an affordable price.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "5b136df5-c45e-45fc-a1e5-ca1efdf73a32",
+            "image": null,
+            "name": "Moto G Stylus",
+            "description": "The Motorola Moto G Stylus is a smartphone designed for users who prioritize creative expression and productivity, featuring a built-in stylus for note-taking and drawing.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "71162173-f851-4e9b-9762-5f977416ce1c",
+            "image": null,
+            "name": "motorola edge 20",
+            "description": "The Motorola Edge 20 is a series of smartphones released in 2021, known for its high-resolution display, advanced camera capabilities, and sleek design, aimed at providing a premium mobile experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "46581206-4f0f-4820-be12-7d28d1f13dd6",
+            "image": null,
+            "name": "motorola g60",
+            "description": "The Motorola G60 is a smartphone released in 2021, designed to deliver a balanced performance with a focus on camera capabilities and battery life.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "9a32dc85-54fd-44d8-8790-87fe0b077372",
+            "image": null,
+            "name": "Fitbit Charge 5",
+            "description": "The Fitbit Charge 5 is a fitness tracker designed to monitor health metrics and activity levels, featuring advanced sensors for heart rate and stress management.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "36a82457-e666-4a8a-9f3f-230761e3e8b4",
+            "image": null,
+            "name": "Benelli Tre 1130 K",
+            "description": "The Benelli Tre 1130 K is a sport motorcycle known for its unique design and powerful 1130cc engine, offering a blend of performance and comfort for enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        }
+    ]
+}

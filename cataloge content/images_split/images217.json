@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "35f19587-934a-498d-a5aa-7ba9bcb96c51",
+            "image": null,
+            "name": "Nespresso Vertuo Plus",
+            "description": "The Nespresso Vertuo Plus is a coffee machine designed to brew a variety of coffee styles using Nespresso's innovative capsule technology, allowing users to enjoy a convenient and customizable coffee experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "e5da69d5-b519-4dc5-8a7b-bc4e37bb7bb1",
+            "image": null,
+            "name": "Gorenje Superior",
+            "description": "The Gorenje Superior series is designed to provide efficient refrigeration solutions, combining advanced technology with stylish design for modern kitchens.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "6465341f-6bdf-4253-be13-656029c34d15",
+            "image": null,
+            "name": "Thule Pack 'n Pedal",
+            "description": "Thule Pack 'n Pedal is a series of bike accessories designed for easy attachment and detachment to various bike models, enhancing transportation efficiency and storage capabilities.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "e7307fda-cde3-4cba-8397-8792732af3f0",
+            "image": null,
+            "name": "Thule XT",
+            "description": "The Thule XT series consists of various car accessories designed to enhance vehicle functionality and cargo management, providing practical solutions for transportation needs.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "849011f7-fd8a-428b-b8e5-5ee36e37b15a",
+            "image": null,
+            "name": "Thule Vea",
+            "description": "The Thule Vea series features versatile and functional bags designed for urban use, offering multiple compartments for organization and a modern aesthetic suitable for everyday activities.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "00947110-4e80-4992-802c-d76167456af0",
+            "image": null,
+            "name": "Thule Yepp Nexxt",
+            "description": "The Thule Yepp Nexxt series consists of child bike seats designed for safe and comfortable transport of young children while cycling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "c9f58c1a-e669-4f7f-b263-f5969db14922",
+            "image": null,
+            "name": "Thule EasyFold XT 2",
+            "description": "The Thule EasyFold XT 2 is a premium bike rack designed for easy transportation and storage of two bicycles. It features a compact, foldable design and is compatible with various bike types, including e-bikes.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "896e6a0f-ca69-4c62-99d2-fae9df09a65f",
+            "image": null,
+            "name": "Thule Tepui Ayer 2",
+            "description": "The Thule Tepui Ayer 2 is a rooftop tent designed for two people, ideal for vehicle-based camping. It offers easy setup, durable materials, and weather resistance for outdoor adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "fac74a83-47ae-443e-b557-020ecaac0a66",
+            "image": null,
+            "name": "Thule Sapling Mini",
+            "description": "The Thule Sapling Mini is a compact child carrier designed for active parents, providing a safe and comfortable way to carry little ones during outdoor adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "0bed3e41-6485-4e41-91f5-f65900caea1e",
+            "image": null,
+            "name": "HitchSki",
+            "description": "The Yakima HitchSki series is designed to securely transport skis and snowboards using a vehicle's hitch receiver, ensuring convenient access and safe travel to winter sports destinations.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "0a158eaa-3e05-47f1-a7e4-a39449576a71",
+            "image": null,
+            "name": "MagnaFlow Performance Exhaust",
+            "description": "MagnaFlow Performance Exhaust systems are designed to enhance vehicle performance by improving exhaust flow, resulting in increased horsepower and torque. These systems are engineered for durability and are built with high-quality materials to withstand harsh conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "852b62a9-92a0-4188-9ffe-98902157b369",
+            "image": null,
+            "name": "MagnaFlow Performance Series",
+            "description": "The MagnaFlow Performance Series offers high-performance exhaust systems designed to enhance engine efficiency and sound for various car makes and models. Launched in 2006, these exhaust systems are well-regarded for their durability and improved exhaust flow.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "3c6f6ce8-39ec-4d77-8b85-9822b819121d",
+            "image": null,
+            "name": "MagnaFlow Heavy Duty Series",
+            "description": "The MagnaFlow Heavy Duty Series offers a selection of performance exhaust systems designed to enhance engine efficiency and improve sound output in heavy-duty vehicles. Known for their durable construction and reliable performance, these systems are ideal for those seeking to upgrade their vehicle's exhaust system.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "abcfa06f-43dc-4389-a18d-f4da87049b44",
+            "image": null,
+            "name": "MagnaFlow Street Series",
+            "description": "The MagnaFlow Street Series offers high-performance exhaust systems designed to enhance the sound and efficiency of vehicles, providing a deep, aggressive tone while improving exhaust flow.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "b820e25d-7fcf-4fd4-a8ce-d8c3023314b8",
+            "image": null,
+            "name": "CARPRO CQUARTZ UK 3.0",
+            "description": "CARPRO CQUARTZ UK 3.0 is a high-performance ceramic coating designed for automotive surfaces, offering durable protection and enhanced gloss for vehicle paintwork.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "888fba1b-fb88-4b95-9513-db79a66cae1d",
+            "image": null,
+            "name": "CARPRO ECH2O",
+            "description": "CARPRO ECH2O is a versatile waterless wash and quick detailer designed to cleanse and enhance the appearance of vehicle surfaces while providing hydrophobic protection.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "7f680532-3f4e-4913-8bcc-542f0a7be7fc",
+            "image": null,
+            "name": "Russell Hobbs Luna",
+            "description": "The Russell Hobbs Luna series consists of coffee machines designed to simplify the brewing process while delivering a rich flavor experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "631580d3-e301-495a-ad46-418a773b226a",
+            "image": null,
+            "name": "Russell Hobbs Classics",
+            "description": "The Russell Hobbs Classics series comprises a range of blenders designed for efficient blending and food preparation, combining user-friendly features with classic design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "b5693a15-47f1-43cd-b440-0cfa5506a5d3",
+            "image": null,
+            "name": "Russell Hobbs Retro Coffee Machine",
+            "description": "The Russell Hobbs Retro Coffee Machine combines vintage aesthetics with modern functionality, designed to brew delicious coffee efficiently while adding a stylish touch to your kitchen.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "48cbf720-cc57-4bc0-b0b5-67b37553c961",
+            "image": null,
+            "name": "Russell Hobbs Air Fryer Series",
+            "description": "The Russell Hobbs Air Fryer Series features versatile kitchen appliances designed to provide healthier cooking options by using hot air circulation to fry food with minimal oil.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "3e8360dc-d4ef-45a2-bb16-617e031d0db9",
+            "image": null,
+            "name": "Russell Hobbs Retro Series",
+            "description": "The Russell Hobbs Retro Series Coffee Machines combine vintage-inspired design with modern functionality, offering an efficient way to brew coffee while adding a stylish touch to your kitchen.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "1b6768c3-df15-4fc1-91a3-d1830b064210",
+            "image": null,
+            "name": "Klarstein Skycook",
+            "description": "The Klarstein Skycook series includes air fryers designed to provide a healthier alternative to traditional frying by using rapid air circulation technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "93216ea5-734a-401e-8136-449dd86cbfb6",
+            "image": null,
+            "name": "Klarstein Canti",
+            "description": "The Klarstein Canti series consists of air fryers designed to provide healthier cooking options by using hot air circulation for frying, baking, and grilling, reducing the need for oil.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "6ca10569-355c-4ba5-8b13-1d36dabbe14b",
+            "image": null,
+            "name": "Klarstein VariCook",
+            "description": "The Klarstein VariCook series consists of versatile air fryers designed to provide healthier cooking options by using minimal oil while delivering crispy results.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "4f9d2a40-79a7-4d10-a4e6-bf33943c2927",
+            "image": null,
+            "name": "Klarstein AeroVital Turbo",
+            "description": "The Klarstein AeroVital Turbo is an air fryer designed to cook food with rapid hot air circulation, making it a healthier option for frying, grilling, and baking while maintaining flavors and textures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "ae960fc5-8801-46f3-bcce-07f63c176b10",
+            "image": null,
+            "name": "Klarstein Bella",
+            "description": "The Klarstein Bella series includes a range of blenders designed to effortlessly mix, blend, and puree a variety of ingredients, offering a powerful and efficient solution for food preparation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "affb06bf-c8ea-4e3a-8c19-43b2f528cb2c",
+            "image": null,
+            "name": "Dreo Air Fryer",
+            "description": "The Dreo Air Fryer is designed to provide a healthier cooking method by using hot air circulation to fry food with minimal oil, resulting in crispy textures and reduced calories.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Dreo"
+            }
+        },
+        {
+            "id": "ae23bfed-ff75-42d2-be9e-5dcc6aafed14",
+            "image": null,
+            "name": "Anova Precision Oven",
+            "description": "The Anova Precision Oven is a versatile cooking appliance designed for precision cooking, combining the functions of a steam oven and an air fryer, allowing users to achieve professional-quality results at home.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Anova"
+            }
+        },
+        {
+            "id": "9313d46c-1677-4cbd-949d-2e567e95e0c2",
+            "image": null,
+            "name": "Gourmia Air Fryers",
+            "description": "Gourmia Air Fryers are kitchen appliances designed to cook food using hot air circulation, providing a healthier alternative to traditional frying by reducing oil usage while maintaining flavor and texture.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "76200b2c-e977-428b-910d-ce4631fe262e",
+            "image": null,
+            "name": "Gourmia GAF Series",
+            "description": "The Gourmia GAF Series consists of air fryers designed to provide a healthier alternative to traditional frying by using hot air circulation for cooking foods with less oil.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        }
+    ]
+}

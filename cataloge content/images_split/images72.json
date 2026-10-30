@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "41bd732b-9c23-4caa-8342-2da4a5e2c61f",
+            "image": null,
+            "name": "Isuzu Rodeo",
+            "description": "The Isuzu Rodeo is a mid-size SUV that offers a blend of off-road capability and on-road comfort, making it suitable for both urban and outdoor adventures.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "5ea334f3-2239-45ba-9b5b-c29963483420",
+            "image": null,
+            "name": "Blaupunkt Porto",
+            "description": "The Blaupunkt Porto series is designed to enhance car audio experiences with high-quality sound reproduction and user-friendly features, making it easier to enjoy music on the go.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "b92650c0-25f0-43c8-8865-061d5f006b4c",
+            "image": null,
+            "name": "Blaupunkt Hamburg",
+            "description": "The Blaupunkt Hamburg series is a range of car audio systems designed for high-quality sound reproduction and enhanced user experience in vehicles, featuring advanced radio and media playback capabilities.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "d34d336c-ca1a-4386-90ac-b203cdf1c021",
+            "image": null,
+            "name": "Rockville RV12.2A",
+            "description": "The Rockville RV12.2A is a car audio system designed to deliver high-quality sound and powerful performance for an enhanced in-vehicle listening experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockville"
+            }
+        },
+        {
+            "id": "daa45180-2782-445c-8dc2-be19a5fdda64",
+            "image": null,
+            "name": "Ford Focus (Second Generation)",
+            "description": "The Ford Focus (Second Generation) is a compact car designed for efficiency, comfort, and versatility, known for its responsive handling and wide range of body styles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "6eb78729-46f6-4a60-98bf-7dbd8f3ff420",
+            "image": null,
+            "name": "Mickey Thompson Street Comp",
+            "description": "The Mickey Thompson Street Comp series is designed for high-performance street vehicles, offering enhanced traction and stability while maintaining a focus on durability and longevity.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "e494a241-8002-4f36-bc88-234f3268222b",
+            "image": null,
+            "name": "Hero Splendor iSmart",
+            "description": "The Hero Splendor iSmart is a motorcycle known for its fuel efficiency, reliability, and practicality, aimed at urban commuters looking for a cost-effective and efficient mode of transportation.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "7c7b4776-ffba-413c-8e98-cac0933fa00a",
+            "image": null,
+            "name": "Mickey Thompson MTZ",
+            "description": "The Mickey Thompson MTZ is an all-terrain tire designed for superior off-road performance and traction. It features a robust tread pattern that provides excellent grip in various driving conditions, making it suitable for both on-road and off-road adventures.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "8417bdcf-c453-401a-95cc-27299be8641b",
+            "image": null,
+            "name": "Ford Escape (Second Generation)",
+            "description": "The Ford Escape (Second Generation) is a compact SUV known for its versatility, fuel efficiency, and spacious interior, making it suitable for both urban and off-road environments.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "eec844b7-43fc-4061-b2c5-ce072dfc4540",
+            "image": null,
+            "name": "Mokka",
+            "description": "The Opel Mokka is a subcompact SUV designed for urban commuting and light off-road capability, offering a balance of efficiency and practicality.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "6b59f9dc-829c-4634-86ae-fc5a66546b17",
+            "image": null,
+            "name": "Rudy Project Cutline",
+            "description": "The Rudy Project Cutline series offers high-performance sunglasses designed for athletes, featuring a lightweight frame and interchangeable lenses for optimal visibility in various conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Rudy Project"
+            }
+        },
+        {
+            "id": "8ed97382-8459-4307-968b-b5438f2facdf",
+            "image": null,
+            "name": "Opel Insignia Grand Sport",
+            "description": "The Opel Insignia Grand Sport is a mid-size car that focuses on delivering a blend of comfort, technology, and efficiency, making it suitable for both city commuting and longer journeys.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "5f5a6283-52a3-4ab5-9970-811296ac6ae1",
+            "image": null,
+            "name": "Grado Series RS1x",
+            "description": "The Grado Series RS1x headphones are designed to deliver high-fidelity sound with a vintage aesthetic, offering an immersive listening experience for audiophiles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "8ff772ba-2cde-42f8-8a5d-ffaef4f2a5b9",
+            "image": null,
+            "name": "Opel Crossland X",
+            "description": "The Opel Crossland X is a compact SUV that combines practicality and comfort, designed for urban driving with a spacious interior and advanced safety features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "9fcca0d7-95ff-4707-ab95-102b80652678",
+            "image": null,
+            "name": "Astra",
+            "description": "The Opel Astra is a compact car designed for efficiency and comfort, featuring modern technology and a stylish design suitable for both urban and suburban driving.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "a86eb2cc-0b92-4b55-93f8-d62e0dd5ffff",
+            "image": null,
+            "name": "Volkswagen Phaeton",
+            "description": "The Volkswagen Phaeton is a full-size luxury sedan produced by Volkswagen, known for its high-quality materials, advanced technology, and exceptional comfort.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "0bee2c58-aeb5-4cdf-90a6-0b485422cc6c",
+            "image": null,
+            "name": "Roda",
+            "description": "The Kettal Roda series offers a versatile range of outdoor furniture designed for comfort and style, featuring durable materials and a modern aesthetic suited for various outdoor settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "13cc91e2-eb15-4f6f-beae-fdeea4b97071",
+            "image": null,
+            "name": "Opel Insignia B",
+            "description": "The Opel Insignia B is a mid-size family car that offers a balance of comfort, technology, and performance, making it suitable for both everyday driving and long journeys.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "1f5c38fb-001a-4041-9a5b-b6f9c998253c",
+            "image": null,
+            "name": "Fiber Chair",
+            "description": "The Fiber Chair by Muuto is a modern and versatile seating solution made from a blend of recycled plastics and natural fibers. Its minimalist design and ergonomic shape provide comfort and style for both residential and commercial spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Muuto"
+            }
+        },
+        {
+            "id": "46d10276-9dd5-4e04-9595-d91d0a33cdc5",
+            "image": null,
+            "name": "Baja MTZ P3",
+            "description": "The Mickey Thompson Baja MTZ P3 is a high-performance tire designed for off-road enthusiasts, offering excellent traction and durability in rugged terrains.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "55d91b3e-c344-420e-850a-948bc507d051",
+            "image": null,
+            "name": "Pro Comp Mud Terrain",
+            "description": "Pro Comp Mud Terrain tires are designed for off-road performance, providing enhanced traction and durability in muddy and challenging conditions.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "5e9d662c-145e-4ca2-9a72-2c1fb678dcdf",
+            "image": null,
+            "name": "Mickey Thompson Baja STZ",
+            "description": "The Mickey Thompson Baja STZ is an all-terrain tire designed for exceptional performance on rocky and uneven surfaces, providing a combination of durability, traction, and off-road capability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "b17da00b-1050-4e10-a493-3f262c8a9f44",
+            "image": null,
+            "name": "Opel Astra (J model)",
+            "description": "The Opel Astra (J model) is a compact car produced by the German automaker Opel, designed for comfort and practicality, featuring efficient performance and modern technology for daily driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "b7d51d7b-fc14-4c4b-89ac-e391ff030d61",
+            "image": null,
+            "name": "Volkswagen Touran",
+            "description": "The Volkswagen Touran is a compact MPV introduced in 2003, designed to provide spacious interior comfort and versatile seating arrangements, making it suitable for families and urban driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "bd13ad98-9f7b-4bb0-aad0-10ac717160e7",
+            "image": null,
+            "name": "Opel Corsa D",
+            "description": "The Opel Corsa D is a subcompact car produced by Opel, primarily designed for urban driving with a focus on efficiency and practicality.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "d562de27-e56d-4644-9130-e761246d651c",
+            "image": null,
+            "name": "BMW M3 (G80)",
+            "description": "The BMW M3 (G80) is a high-performance sports sedan that combines thrilling driving dynamics with everyday usability. Launched in 2021, it features a powerful engine and advanced technology, designed for drivers seeking both speed and luxury.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "794971b2-e7c8-4b19-83a3-21c85401a3da",
+            "image": null,
+            "name": "Lexus TX",
+            "description": "The Lexus TX is a luxury SUV introduced in 2023, designed to offer comfort, advanced technology, and a spacious interior for families and travelers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "5fb0d327-d42a-4c13-b7aa-de1896e5e90b",
+            "image": null,
+            "name": "Pro Comp All Terrain Tacoma",
+            "description": "The Pro Comp All Terrain Tacoma series is designed for all-terrain use, providing a balance ofOn-road comfort and off-road capability. These tires are optimized for various driving conditions, making them suitable for Tacoma owners seeking versatility.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "61043321-5391-4e39-bf1b-73e4f9ad6ab0",
+            "image": null,
+            "name": "Mickey Thompson STZ",
+            "description": "The Mickey Thompson STZ series offers an aggressive all-terrain tire design, providing enhanced traction and durability for both on-road and off-road driving applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "19ddf742-e08c-40f3-9f5a-7eb12567c710",
+            "image": null,
+            "name": "Smeg Fab Series",
+            "description": "The Smeg Fab Series features vintage-inspired refrigerators that combine style with functionality, offering a colorful and retro aesthetic along with modern refrigeration technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        }
+    ]
+}

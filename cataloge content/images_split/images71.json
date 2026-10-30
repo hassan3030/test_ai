@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "c92ca7ce-2671-40f7-b5af-a3c85afee309",
+            "image": null,
+            "name": "Ford Thunderbird (Eleventh Generation)",
+            "description": "The Ford Thunderbird (Eleventh Generation) is a personal luxury car known for its distinctive retro styling and powerful performance, designed to provide a comfortable and stylish driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "c99c20e5-7e33-49ab-ba0f-1d43f8baca9d",
+            "image": null,
+            "name": "Volvo V60 Polestar Engineered",
+            "description": "The Volvo V60 Polestar Engineered is a high-performance variant of the V60 wagon, designed to combine everyday practicality with sporty dynamics and advanced technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cbf00d33-cbd8-4024-afb5-c3a2265bbe68",
+            "image": null,
+            "name": "Opel Antara",
+            "description": "The Opel Antara is a compact SUV designed for versatility and comfort, featuring a spacious interior and a range of efficient engines tailored for both urban and off-road driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "072ed84a-11fd-46c8-b2db-5b2efc75a253",
+            "image": null,
+            "name": "LEGO Star Wars",
+            "description": "LEGO Star Wars is a series of construction toys that combines the iconic LEGO building system with the beloved characters, vehicles, and settings from the Star Wars universe, allowing fans of all ages to recreate scenes and build their own adventures.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "07500ef7-555f-44ed-b379-2f6902b39c63",
+            "image": null,
+            "name": "Volkswagen Jetta",
+            "description": "The Volkswagen Jetta is a compact sedan designed for practicality and comfort, known for its reliable performance and spacious interior.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "0aa57649-3476-4b9f-93c7-1cdee60dfca7",
+            "image": null,
+            "name": "LG Smart Refrigerator",
+            "description": "The LG Smart Refrigerator series, launched in 2016, combines innovative smart technology with efficient cooling solutions to enhance food preservation and user convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "0cc05cf4-037d-4894-8b73-8f4945d56f27",
+            "image": null,
+            "name": "Opel Meriva",
+            "description": "The Opel Meriva is a compact MPV (Multi-Purpose Vehicle) known for its flexible interior and practicality, making it suitable for families and urban driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "2f841b59-b98e-48f0-92ac-b09ded92a5cd",
+            "image": null,
+            "name": "Hero Passion Xpro",
+            "description": "The Hero Passion Xpro is a motorcycle designed for everyday commuting, combining style and performance with fuel efficiency and comfort.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "53ab48f5-d13a-423a-87c4-192d01af6d57",
+            "image": null,
+            "name": "BMW 4 Series (G22)",
+            "description": "The BMW 4 Series (G22), launched in 2021, is a luxury sports coupe known for its dynamic design, powerful engine options, and advanced technology features, aimed at providing an engaging driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "55a28879-8afa-47b8-ba36-2613153d4c09",
+            "image": null,
+            "name": "Husqvarna FX 450",
+            "description": "The Husqvarna FX 450 is a high-performance off-road motorcycle designed for competitive motocross and enduro racing, featuring a lightweight chassis and powerful engine for enhanced agility and control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "55b5e0a6-d0c6-4f52-a82e-62466da91f73",
+            "image": null,
+            "name": "Hero Xtreme 200S",
+            "description": "The Hero Xtreme 200S is a lightweight motorcycle designed for urban commuting, featuring a sporty design and efficient performance for riders seeking a balance of style and functionality.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "63fd84e1-fdb1-4688-8957-893fb21014cc",
+            "image": null,
+            "name": "Baja Claw",
+            "description": "The Baja Claw series by Mickey Thompson Tires is designed for off-road driving, featuring aggressive tread patterns for enhanced traction and durability on rugged terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "6dd8eb46-38cc-48bd-8f64-c4890dad8f72",
+            "image": null,
+            "name": "Blaupunkt San Jose",
+            "description": "The Blaupunkt San Jose series consists of car audio systems designed to deliver high-quality sound and enhance the in-car listening experience. Released in 2000, these audio systems are known for their user-friendly interfaces and reliable performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "de253291-283e-4bdc-93af-054ae2e4b204",
+            "image": null,
+            "name": "Blaupunkt Frankfurt",
+            "description": "The Blaupunkt Frankfurt is a car audio series known for its high-quality sound reproduction and user-friendly features, designed to enhance the in-car listening experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "dfb7a4db-e33a-41f5-b3e1-fe79aa9da52c",
+            "image": null,
+            "name": "Rockville RWB65B",
+            "description": "The Rockville RWB65B is a series of high-performance car audio speakers designed to enhance sound quality and provide a powerful listening experience. With robust construction and superior audio technology, these speakers are suitable for any car audio setup.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockville"
+            }
+        },
+        {
+            "id": "6ef739e5-f1d2-4b13-bce2-01be2211c373",
+            "image": null,
+            "name": "Isuzu MU-7",
+            "description": "The Isuzu MU-7 is a mid-size SUV designed for both on-road comfort and off-road capability, offering spacious seating and practicality for families and outdoor enthusiasts.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "e118a642-3e15-43e1-a526-92f8379a8863",
+            "image": null,
+            "name": "MU-X",
+            "description": "The Isuzu MU-X is a versatile SUV designed for off-road capability and family-friendly features, offering a blend of comfort and utility for diverse driving experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "f3aa7ec7-af65-45f8-ae28-b187ff4080d5",
+            "image": null,
+            "name": "Isuzu Trooper",
+            "description": "The Isuzu Trooper is a mid-size SUV known for its rugged durability and off-road capability, making it suitable for both on-road and off-road adventures.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "fb43018b-c48a-4368-b5e2-b3722966b3cc",
+            "image": null,
+            "name": "Blaupunkt Melbourne",
+            "description": "The Blaupunkt Melbourne series consists of car audio systems designed to enhance the in-car listening experience, offering features like Bluetooth connectivity and USB ports for versatile music playback.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "eddac37f-11ef-41c3-b9e8-053a9f148de4",
+            "image": null,
+            "name": "Bajaj Pulsar 220",
+            "description": "The Bajaj Pulsar 220 is a powerful motorcycle known for its performance and sporty design. Launched in 2009, it is designed for both commuting and recreational riding.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "7d869592-45bb-462d-abad-430406b40f6e",
+            "image": null,
+            "name": "Mickey Thompson Sportsman",
+            "description": "The Mickey Thompson Sportsman series is designed for high-performance street and racing applications, offering excellent grip and stability for both muscle cars and classic vehicles.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "a595ee90-ab28-4478-ae65-273c57f1a9fc",
+            "image": null,
+            "name": "D-Max",
+            "description": "The Isuzu D-Max is a robust and versatile pickup truck designed for both work and leisure, offering a balance of performance, durability, and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "a71b01e7-25f0-4413-863a-0c1e49634da8",
+            "image": null,
+            "name": "NORDEN 901",
+            "description": "The Husqvarna Motorcycles Norden 901 is an adventure touring motorcycle designed for versatility and comfort both on and off road, featuring a distinctive style and a powerful engine.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b2d5e5f9-1d26-4c3f-8d93-f464858b01b6",
+            "image": null,
+            "name": "TC 125",
+            "description": "The Husqvarna TC 125 is a lightweight off-road motorcycle designed for youth and novice riders, offering nimble handling and an agile riding experience on diverse terrains.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b8b567e1-9a33-42f9-8c81-4bbfa836480e",
+            "image": null,
+            "name": "Mickey Thompson Baja Claw",
+            "description": "The Mickey Thompson Baja Claw is an all-terrain tire designed for off-road performance, characterized by its aggressive tread design and durability on rugged terrains, making it ideal for both on-road and off-road adventures.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "1664f3db-f573-48b6-b646-375efb3f3b1c",
+            "image": null,
+            "name": "DS 6",
+            "description": "The DS 6 is a luxury crossover SUV designed to blend elegance and comfort with advanced technology and a dynamic driving experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "2b9103c3-3e33-491d-b5f6-80153fee4432",
+            "image": null,
+            "name": "Mickey Thompson Baja ATZ",
+            "description": "The Mickey Thompson Baja ATZ series is designed for all-terrain performance and off-road capability, offering a robust tread pattern for enhanced traction on various surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "3007e3a2-1b70-469e-aa16-b4a395d04adc",
+            "image": null,
+            "name": "Blaupunkt Toronto",
+            "description": "Blaupunkt Toronto is a series of car audio systems designed to enhance in-vehicle entertainment with high-quality sound and user-friendly interfaces, released in 2007.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Blaupunkt"
+            }
+        },
+        {
+            "id": "32d34694-116e-4394-9fc6-29299fb25f3b",
+            "image": null,
+            "name": "Husqvarna FX 350",
+            "description": "The Husqvarna FX 350 is a off-road motorcycle designed for enduro racing, known for its lightweight chassis, agile handling, and powerful engine performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "3c620dcc-f90f-45f7-a0ab-ace72ed277e3",
+            "image": null,
+            "name": "Husqvarna TC 85",
+            "description": "The Husqvarna TC 85 is a high-performance motocross bike designed for youth riders, combining lightweight construction with advanced technology for agility, speed, and control on the track.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        }
+    ]
+}

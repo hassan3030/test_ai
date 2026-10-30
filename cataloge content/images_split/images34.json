@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "982afe70-08f4-4764-9a44-43d6af22e7af",
+            "image": null,
+            "name": "Cougar Revenger",
+            "description": "The Cougar Revenger series consists of high-performance gaming accessories designed for precision and comfort, catering to gamers seeking a competitive edge.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "ecef0ac6-edc3-4e0f-ab2e-63317b069faa",
+            "image": null,
+            "name": "Génération 2020",
+            "description": "The Sifas Génération 2020 series offers a range of outdoor furniture designed to enhance outdoor living spaces with modern aesthetics and durable materials.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Sifas"
+            }
+        },
+        {
+            "id": "a7235411-2ad6-45ac-8f3c-5f69aed16dcd",
+            "image": null,
+            "name": "Samsung QLED TV",
+            "description": "The Samsung QLED TV series features quantum dot technology to deliver vibrant colors and enhanced contrast, making it ideal for immersive viewing experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "ad3156d2-4738-4214-94ea-3c0d418253da",
+            "image": null,
+            "name": "Galaxy Watch5 Pro",
+            "description": "The Samsung Galaxy Watch5 Pro is a high-end smartwatch designed for fitness enthusiasts, featuring advanced health tracking capabilities and durable construction for outdoor activities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "b6c1afae-1628-4e4c-ae9c-23e69bce6f0f",
+            "image": null,
+            "name": "Samsung Galaxy Buds+",
+            "description": "Samsung Galaxy Buds+ are true wireless earbuds designed to provide high-quality audio and call experience with enhanced battery life and comfort for daily use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "c13210dc-a9a5-4d08-97e0-c1c325639a30",
+            "image": null,
+            "name": "Samsung Galaxy A Series 2020",
+            "description": "The Samsung Galaxy A Series 2020 features a range of smartphones designed to provide affordable options with solid performance, vibrant displays, and a variety of camera capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "09f318dc-83de-40f7-b564-283288cbd56e",
+            "image": null,
+            "name": "Galaxy Tab S6",
+            "description": "The Samsung Galaxy Tab S6 is a premium Android tablet designed for productivity and entertainment, featuring a sleek design, an S Pen for note-taking and creativity, and a high-resolution display for immersive media consumption.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "125f48fa-3c65-48d9-916f-a7424f853f82",
+            "image": null,
+            "name": "iPad (10th generation)",
+            "description": "The Apple iPad (10th generation) is a versatile tablet designed for everyday tasks such as browsing, streaming, and productivity, combining performance with a user-friendly interface.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "184afbd9-ea14-4bc3-b79b-660e05ddfc6a",
+            "image": null,
+            "name": "Samsung 850 EVO SSD series",
+            "description": "The Samsung 850 EVO SSD series is a line of solid-state drives known for their high performance, reliability, and enhanced energy efficiency, aimed primarily at personal computing and professional environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "20db52fd-b96c-427e-ad15-fc1f775fa30a",
+            "image": null,
+            "name": "Galaxy Fold",
+            "description": "The Samsung Galaxy Fold is a foldable smartphone that combines the functionality of a tablet and a phone, designed for users who seek a versatile mobile experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "21662a76-ea86-4603-8b72-faad09d5cdf8",
+            "image": null,
+            "name": "Galaxy Watch4",
+            "description": "The Samsung Galaxy Watch4 is a smart wearable device designed to help users track their fitness, monitor health metrics, and stay connected with notifications, all while offering customizable styles and features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "29df4adf-c9be-43ce-bfc7-80e44c5595c7",
+            "image": null,
+            "name": "Galaxy Tab S8",
+            "description": "The Samsung Galaxy Tab S8 series is a line of high-performance tablets designed for both productivity and entertainment, featuring a sleek design and powerful hardware.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "2f0117d3-bf10-4adb-bb95-dc0180c6d560",
+            "image": null,
+            "name": "Samsung The Serif 2020",
+            "description": "The Samsung The Serif 2020 series is a collection of lifestyle monitors designed to blend seamlessly with home decor while providing high-quality picture and versatile functionality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "3f265a52-bbce-4c4e-85be-557968e3bdb0",
+            "image": null,
+            "name": "Galaxy Z Flip3",
+            "description": "The Samsung Galaxy Z Flip3 is a foldable smartphone designed for versatility and portability, featuring a compact design that unfolds to provide a full-size display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "f2d2d8f9-b22b-4419-be37-6f2ee9f712e3",
+            "image": null,
+            "name": "Sony Xperia 5 IV",
+            "description": "The Sony Xperia 5 IV is a premium smartphone released in 2022, known for its advanced camera capabilities, vibrant display, and high-quality audio features, catering to photography and multimedia enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "65dfae6d-7349-4bbe-860c-0d1449c2b66b",
+            "image": null,
+            "name": "Sony Xperia XZ Premium",
+            "description": "The Sony Xperia XZ Premium is a flagship smartphone known for its high-resolution display, advanced camera capabilities, and robust build quality, catering to users seeking a premium mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "68adbb9e-4066-42ea-8806-875658fb948d",
+            "image": null,
+            "name": "Sony Xperia 1 II",
+            "description": "The Sony Xperia 1 II is a high-end smartphone released in 2020, designed for multimedia enthusiasts with its advanced camera capabilities, 4K OLED display, and robust audio features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "708b199f-bdb4-4b66-9f1e-c9cfb3d878bd",
+            "image": null,
+            "name": "Sony Xperia 1 V",
+            "description": "The Sony Xperia 1 V is a premium smartphone designed for multimedia enthusiasts, featuring advanced camera capabilities and a vibrant 4K HDR OLED display.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "7901c78d-e73b-4273-a626-59022e5fc602",
+            "image": null,
+            "name": "Sony WH-1000XM2",
+            "description": "The Sony WH-1000XM2 is a premium over-ear noise-canceling headphone series designed for high-quality sound and exceptional comfort during extended listening sessions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "7b4faa63-0de4-4a27-b604-9ca7d1450d1d",
+            "image": null,
+            "name": "LG G6",
+            "description": "The LG G6 is a smartphone released in 2017, notable for its 18:9 aspect ratio display and dual-camera system designed for wide-angle photography.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "880ce8c7-948c-4abd-a417-cf545fc2b97c",
+            "image": null,
+            "name": "LG G5",
+            "description": "The LG G5 is a modular smartphone that allows users to enhance their mobile experience through interchangeable components, featuring a 5.3-inch display and a dual-camera setup for versatile photography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "8b001aff-445e-44de-9ff0-10eaf571e0d5",
+            "image": null,
+            "name": "Sony FX3",
+            "description": "The Sony FX3 is a professional full-frame cinema camera designed for filmmakers and content creators, offering advanced video capabilities in a compact and lightweight body.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "92a4b96a-c9a1-4726-b951-8b7d4fb0c282",
+            "image": null,
+            "name": "Chrysler 300M",
+            "description": "The Chrysler 300M is a full-size luxury sedan that was designed to provide a comfortable driving experience with a focus on performance and style. First introduced in 1999, it features a spacious interior, advanced technology for its time, and a distinctive design.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chrysler"
+            }
+        },
+        {
+            "id": "af50e5a9-1276-49d2-972a-a8970d96fbe1",
+            "image": null,
+            "name": "Sony A6300",
+            "description": "The Sony A6300 is a compact mirrorless camera designed for advanced photography, featuring a 24.2 MP sensor and fast autofocus capabilities, making it ideal for capturing high-quality images in various conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "150de825-c111-4c35-aec4-3b4be1d5c380",
+            "image": null,
+            "name": "Sony ZV-1",
+            "description": "The Sony ZV-1 is a compact digital camera designed for content creators and vloggers, featuring advanced video capabilities and user-friendly functions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "1cb4fd63-90ea-4b17-9dd1-e538d6186596",
+            "image": null,
+            "name": "Sony WH-1000XM3",
+            "description": "The Sony WH-1000XM3 are over-ear noise-canceling headphones designed for high-quality sound and comfort, featuring advanced noise cancellation technology, touch controls, and long battery life.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "2779cb9e-50ea-4b5f-9ab9-91e30ff0ecd0",
+            "image": null,
+            "name": "Sony A7R IV",
+            "description": "The Sony A7R IV is a full-frame mirrorless camera that features a 61-megapixel sensor, designed for high-resolution photography and advanced image quality, making it suitable for professional photographers and enthusiasts alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "3c0dd828-3136-4415-b6a0-5e06bc50f979",
+            "image": null,
+            "name": "Sony A7 III",
+            "description": "The Sony A7 III is a full-frame mirrorless camera designed for both professional and enthusiast photographers, offering advanced image quality and versatility for various shooting situations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "3dd1e6a1-c7cf-4441-a2ff-a3bb2b88931a",
+            "image": null,
+            "name": "Quantum",
+            "description": "The Arai Quantum series is designed for motorcycle enthusiasts, offering advanced safety features and a focus on comfort for long rides.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "517704bf-038c-4233-88eb-635ac13fef0d",
+            "image": null,
+            "name": "Sony Alpha a9",
+            "description": "The Sony Alpha a9 series consists of professional full-frame mirrorless cameras known for their high-speed performance and advanced autofocus capabilities, making them ideal for sports and action photography.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "id": "a1e4030a-19cf-4deb-9d5b-f544c052c3bf",
+            "image": null,
+            "name": "2016 Haro SD V2",
+            "description": "The 2016 Haro SD V2 is a BMX bike designed for performance and durability, suitable for both racing and freestyle riding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "5fbd3c1d-2d4a-4a01-b8ff-c06fb513256a",
+            "image": null,
+            "name": "NGK V-Power",
+            "description": "The NGK V-Power series is designed to enhance engine performance with its fine wire center electrode and unique design that improves ignitability and reduces fouling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "64856ad2-76f0-4833-a7d2-f132fd472483",
+            "image": null,
+            "name": "Opel Insignia (facelift)",
+            "description": "The Opel Insignia (facelift) is a mid-size car designed for comfort and performance, featuring updated styling and advanced technology options to enhance the driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "72f2c866-b55e-4a9e-8c26-bc5d15bb1426",
+            "image": null,
+            "name": "NGK Laser Platinum",
+            "description": "The NGK Laser Platinum series is a line of spark plugs designed to enhance engine performance and fuel efficiency. Featuring a platinum center electrode, these plugs offer durability and improved ignition over standard plugs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "72f71ab7-2cd4-4d76-8ec3-6f026f996e44",
+            "image": null,
+            "name": "Fiat Panda Cross",
+            "description": "The Fiat Panda Cross is a compact SUV known for its off-road capabilities and practicality, making it suitable for diverse driving conditions and urban environments.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "8629906d-8f0d-40ab-a89a-862a35028644",
+            "image": null,
+            "name": "NGK Iridium",
+            "description": "The NGK Iridium series includes high-performance spark plugs designed to improve fuel efficiency, engine performance, and longevity thanks to their iridium construction which provides superior conductivity and durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "8bcb775f-852e-4618-97b1-9ccb3218ca46",
+            "image": null,
+            "name": "KTM 790 Duke",
+            "description": "The KTM 790 Duke is a performance-oriented motorcycle designed for agile handling and spirited riding, featuring a lightweight chassis and a powerful twin-cylinder engine.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "8e16857d-ea77-4335-94e8-b6b3809907cc",
+            "image": null,
+            "name": "Land Rover Freelander",
+            "description": "The Land Rover Freelander is a compact SUV that was designed for both on-road and off-road adventures, offering a blend of versatility, comfort, and rugged capability.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "074af345-65ff-4fd0-9069-15af3311ea9e",
+            "image": null,
+            "name": "Sava Intensa HP",
+            "description": "The Sava Intensa HP is a high-performance tire series designed for sport and premium vehicles, offering enhanced grip, stability, and comfort in both dry and wet conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "09d0b2a1-4cc7-4ca2-be06-09d1a7dd1053",
+            "image": null,
+            "name": "Range Rover Sport (L494)",
+            "description": "The Land Rover Range Rover Sport (L494) is a luxury SUV known for its distinctive design, exceptional off-road capabilities, and advanced technology features, making it a versatile choice for both urban and outdoor driving experiences.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3b8a4934-2f60-4b60-8977-44ab63468456",
+            "image": null,
+            "name": "Isuzu MU-7",
+            "description": "The Isuzu MU-7 is a mid-size SUV designed for both on-road comfort and off-road capability, offering spacious interiors and robust performance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Isuzu Motors India"
+            }
+        },
+        {
+            "id": "459279d9-7ffc-46d8-ba8d-c1fd7c21bf02",
+            "image": null,
+            "name": "Fiat Ulysse",
+            "description": "The Fiat Ulysse is a multi-purpose vehicle designed primarily for family transport and leisure use, offering spacious interiors and versatile seating configurations.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "4bb98f93-0780-43af-a805-eafab4c87a4c",
+            "image": null,
+            "name": "Nissan Rogue (2021 Model)",
+            "description": "The Nissan Rogue (2021 Model) is a compact SUV designed for versatility and practicality, offering a spacious interior and advanced safety features for an enhanced driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "5878f777-c353-4ebe-8ec2-29dfe118b513",
+            "image": null,
+            "name": "Porsche Cayenne (facelift)",
+            "description": "The Porsche Cayenne (facelift) is a luxury midsize SUV that combines performance, comfort, and advanced technology, aimed at providing an engaging driving experience both on and off the road.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9b34657f-b425-479d-a77b-2a03f44bbbf7",
+            "image": null,
+            "name": "Hyundai Santa Fe (Second Generation)",
+            "description": "The Hyundai Santa Fe (Second Generation) is a mid-size SUV known for its spacious interior, safety features, and comfortable ride, making it a practical choice for families and outdoor enthusiasts alike.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "a489bda9-3bf1-47ac-a2a3-7d0b97294707",
+            "image": null,
+            "name": "Opel Karl",
+            "description": "The Opel Karl is a compact city car that debuted in 2015, designed for urban driving with an emphasis on efficiency and maneuverability.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "a7facecc-160f-4dd7-af4c-4dbd89275a5b",
+            "image": null,
+            "name": "KTM RC 390",
+            "description": "The KTM RC 390 is a lightweight sport motorcycle designed for agility and performance on both the track and the street. It features a sharp design and advanced technology aimed at providing an exhilarating riding experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "ac764b01-0433-4098-a4c8-218739365163",
+            "image": null,
+            "name": "Porsche 911 R",
+            "description": "The Porsche 911 R is a high-performance sports car that combines classic design elements with modern engineering, focusing on driving purity and lightweight construction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b93f3fb4-582e-47cb-bd1d-f841d89ba6de",
+            "image": null,
+            "name": "Jaguar XF (2011 Facelift)",
+            "description": "The Jaguar XF (2011 Facelift) is a luxury midsize sedan that combines sleek design, advanced technology, and a focus on performance, aimed at delivering a refined driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9b10eaa-2ab4-4c41-ae28-3fd38058121c",
+            "image": null,
+            "name": "Porsche Boxster",
+            "description": "The Porsche Boxster is a two-seat roadster that was first introduced in 2000, known for its mid-engine layout, engaging driving dynamics, and ideal balance between performance and luxury.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c256bafa-ab67-4c45-a0be-472fe51d36ef",
+            "image": null,
+            "name": "CLK-Class (C209/A209)",
+            "description": "The Mercedes-Benz CLK-Class (C209/A209) is a mid-size luxury coupe and convertible produced from 2000 to 2009, designed to combine elegant styling with sporty performance and advanced technology.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "62b84859-4114-474a-b52d-2503349b7691",
+            "image": null,
+            "name": "Pro-Flo Air Intake Systems",
+            "description": "The Edelbrock Pro-Flo Air Intake Systems are designed to optimize engine performance by improving airflow and enhancing throttle response. These systems are engineered to provide better fuel efficiency and power output for various vehicle applications.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "de6499c0-a3a9-4a61-9f72-fdb4effcea19",
+            "image": null,
+            "name": "Hengst Oil Filter Series",
+            "description": "The Hengst Oil Filter Series is designed to ensure effective filtration of engine oil, contributing to optimal engine performance and longevity. These filters are engineered for high durability and reliability in various automotive applications.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hengst"
+            }
+        },
+        {
+            "id": "69d56239-a3ea-4a9c-83c0-410f82b1f478",
+            "image": null,
+            "name": "Dodge Durango",
+            "description": "The Mopar Dodge Durango is a full-size SUV that first debuted in 2001, designed for families seeking spacious interiors, versatile cargo capacity, and off-road capability.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "75fb1623-b0e6-43ce-a1b9-950dfb7da7dc",
+            "image": null,
+            "name": "Hengst Air Filter Series",
+            "description": "The Hengst Air Filter Series is designed to maintain optimal air quality in vehicle engines by filtering out contaminants, thus enhancing performance and prolonging engine life.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hengst"
+            }
+        },
+        {
+            "id": "e82a8dd0-d79c-42a2-96fa-43d3c4856e9a",
+            "image": null,
+            "name": "Mopar Accessories",
+            "description": "The Mopar Accessories series includes a variety of car accessories designed to enhance the functionality and aesthetics of vehicles. Launched in 2003, these accessories are tailored specifically for compatibility with Mopar vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "ee1528b7-ef76-49d8-a225-a38fe6692fe6",
+            "image": null,
+            "name": "Pro-Flo Air Intake System",
+            "description": "The Edelbrock Pro-Flo Air Intake System is designed to improve an engine's air intake efficiency, enhancing performance by providing better airflow and increased horsepower.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "f00e5f4d-8451-437c-8681-3b4dc9d54f03",
+            "image": null,
+            "name": "NGK Laser iridium",
+            "description": "The NGK Laser Iridium series offers advanced performance and longer life for modern gasoline engines, utilizing fine wire iridium electrodes for enhanced ignition efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "fb6c520e-42f2-4045-bf7e-16c8ee2145ba",
+            "image": null,
+            "name": "Victor Jr. Intake Manifold",
+            "description": "The Edelbrock Victor Jr. Intake Manifold is designed for racing applications, providing high airflow and enhanced performance. It is suitable for use with small block Chevrolet engines, aimed at maximizing horsepower and efficiency.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "76b00b0b-19ed-478d-b666-abf99878f772",
+            "image": null,
+            "name": "Edelbrock E-Force Supercharger",
+            "description": "The Edelbrock E-Force Supercharger is a performance enhancement product designed for select automotive engines to significantly increase horsepower and torque by delivering a compressive boost of air. It features an innovative design for improved airflow and engine responsiveness.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        }
+    ]
+}

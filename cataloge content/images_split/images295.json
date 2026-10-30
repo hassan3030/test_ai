@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "b437dd9e-1652-4d86-a91c-2337b98ff1c4",
+            "image": null,
+            "name": "KTM 660 LC4",
+            "description": "The KTM 660 LC4 is a powerful and versatile motorcycle designed for both on-road and off-road use, known for its reliability and performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "86badfda-5079-4697-b234-294e036f0c82",
+            "image": null,
+            "name": "Chery Tiggo 3",
+            "description": "The Chery Tiggo 3 is a compact SUV that combines practicality and affordability, designed for urban driving and offering ample interior space.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "3888266b-0da9-47c7-a230-9a03bc082f13",
+            "image": null,
+            "name": "KTM 525 SX",
+            "description": "The KTM 525 SX is a high-performance off-road motorcycle designed primarily for motocross racing, featuring a powerful engine and lightweight chassis for enhanced agility and control.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "be992f3a-2a91-4923-97a4-14ce40d4be75",
+            "image": null,
+            "name": "Chevrolet Silverado (2001 Model Year)",
+            "description": "The Chevrolet Silverado (2001 Model Year) is a full-size pickup truck designed for work and utility, offering a balance of performance and comfort for both commercial and personal use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "dbb8b0b9-a6a2-448c-88c4-17a80281f449",
+            "image": null,
+            "name": "Copic Marker",
+            "description": "Copic Markers are high-quality, alcohol-based ink markers designed for professional artists and illustrators. They are known for their versatility, vibrant colors, and a wide range of nib options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "2be036a2-4671-485f-bf73-2623ee1b3b4b",
+            "image": null,
+            "name": "JBL Xtreme Portable Bluetooth Speaker",
+            "description": "The JBL Xtreme Portable Bluetooth Speaker is designed for powerful sound and portability, making it ideal for outdoor use and gatherings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "35bc6cac-2f4a-4bbe-b2b3-1a5f1cdbbfbe",
+            "image": null,
+            "name": "JBL Reflect Mini 2 Wireless Sports Headphones",
+            "description": "The JBL Reflect Mini 2 Wireless Sports Headphones are designed for active use, offering a lightweight and wireless experience with a secure fit for workouts or outdoor activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "ce64957d-12a5-4cc1-8d09-6a4f4f5d33f9",
+            "image": null,
+            "name": "XT Strings",
+            "description": "D'Addario XT Strings are a series of high-performance guitar strings designed for enhanced durability, playability, and tonal quality. Released in 2021, these strings are ideal for musicians seeking a reliable and long-lasting option for their instruments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "af513925-6142-4282-8725-a4cdc4d2ee6b",
+            "image": null,
+            "name": "KTM 450 Rally",
+            "description": "The KTM 450 Rally is a high-performance off-road motorcycle designed for rally racing. Known for its agility and durability, it is engineered to handle tough terrains and extreme conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "6b53cd71-93df-46fe-b608-7e77c1b1b1c8",
+            "image": null,
+            "name": "Uniqlo Kids Fall/Winter Collection 2016",
+            "description": "The Uniqlo Kids Fall/Winter Collection 2016 features a range of stylish and comfortable clothing designed for children, perfect for keeping warm during the colder months.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "58b9d2f2-b999-499f-979b-2bc996142f2b",
+            "image": null,
+            "name": "Geely Boyue L",
+            "description": "The Geely Boyue L is a mid-size SUV designed for comfort and functionality, featuring a modern design and a range of advanced technology to enhance the driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "d8f95469-e482-4ae2-8a4d-68719254c87e",
+            "image": null,
+            "name": "Smoby Baby Balancier",
+            "description": "Smoby Baby Balancier is a series of balancing toys designed for infants to support their motor skills development and physical coordination through safe, playful interaction.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Smoby"
+            }
+        },
+        {
+            "id": "771a6a9d-b476-4d5c-bfc7-d799500ff3e5",
+            "image": null,
+            "name": "Formula 1 2020 Collection",
+            "description": "The Tag Heuer Formula 1 2020 Collection represents a blend of bold design and high-performance functionality, tailored for motorsport enthusiasts and watch collectors alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Tag Heuer"
+            }
+        },
+        {
+            "id": "ba461343-ea4d-43ef-8e51-05c856888626",
+            "image": null,
+            "name": "Monaco Collection",
+            "description": "The Tag Heuer Monaco Collection is a line of luxury watches that embodies the spirit of motorsport, featuring a distinctive square case and bold design elements aimed at both performance and style.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Tag Heuer"
+            }
+        },
+        {
+            "id": "d93e2701-4ea1-4a55-b66b-42ec0eb1f2fb",
+            "image": null,
+            "name": "Audi R8 (Second Generation)",
+            "description": "The Audi R8 (Second Generation) is a high-performance sports car known for its powerful engine options and lightweight construction, designed for agility and precision on both the road and the track.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1fc77152-f401-4cc4-af00-2409ab732f8b",
+            "image": null,
+            "name": "KTM 950 Super Enduro",
+            "description": "The KTM 950 Super Enduro is a dual-sport motorcycle designed for both on-road and off-road riding, characterized by its lightweight frame, powerful engine, and exceptional suspension system.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "2540a030-5296-41c2-be11-af302ad74bdd",
+            "image": null,
+            "name": "Copic Ciao Markers",
+            "description": "Copic Ciao Markers are versatile art supplies designed for illustration, manga, and craft applications. They feature a dual brush and chisel tip, non-toxic ink, and are refillable for long-lasting use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Copic"
+            }
+        },
+        {
+            "id": "2bdd4f4a-1083-4d65-92f4-d7a246cc0f75",
+            "image": null,
+            "name": "Penny Pro",
+            "description": "The Penny Pro series features high-quality, compact skateboards designed for both casual riding and technical tricks, offering a smooth ride with enhanced performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "3e82ed09-0bb3-440a-be4f-7cbee60fc435",
+            "image": null,
+            "name": "Rancilio Classe 7",
+            "description": "The Rancilio Classe 7 series represents a range of professional coffee machines designed primarily for high-volume environments, combining advanced technology with traditional espresso-making methods.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Rancilio"
+            }
+        },
+        {
+            "id": "ece9bcb7-2629-46f7-b83e-5cc88f7202c6",
+            "image": null,
+            "name": "JBL Xtreme 2",
+            "description": "The JBL Xtreme 2 is a portable Bluetooth speaker designed for outdoor and travel use, delivering powerful sound and long battery life in a rugged, splashproof design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "634b40a4-e611-49e5-b65b-f4ca95670944",
+            "image": null,
+            "name": "Audi S5 (Second Generation)",
+            "description": "The Audi S5 (Second Generation) is a luxury sports coupe designed for drivers who seek a combination of performance and sophistication, featuring a powerful engine and advanced technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "00463ff2-e26a-4727-9746-4fa835bf5ae7",
+            "image": null,
+            "name": "AORUS 9",
+            "description": "The Gigabyte AORUS 9 series comprises high-performance gaming PCs designed to deliver exceptional gaming experiences with powerful hardware and advanced cooling solutions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "31bf22b3-2c1a-4dd6-930a-2a383be718e3",
+            "image": null,
+            "name": "AORUS B650E Motherboards",
+            "description": "The AORUS B650E motherboards by Gigabyte are designed for high-performance gaming and content creation, featuring advanced connectivity and thermal solutions to enhance system stability and efficiency.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "a18ade85-6483-4639-8408-2ff268d7b03b",
+            "image": null,
+            "name": "BenQ TH685i",
+            "description": "The BenQ TH685i is a full HD home entertainment projector designed to deliver high-quality images with vibrant colors, making it suitable for gaming and movie viewing.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "7644eebf-0462-4ac1-a5c5-d5dda1ca27c5",
+            "image": null,
+            "name": "Procter Silex 40300 Series Coffee Maker",
+            "description": "The Procter Silex 40300 Series Coffee Maker is designed to brew fresh coffee quickly and easily, featuring a user-friendly interface and a compact design suitable for any kitchen space.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Procter Silex"
+            }
+        },
+        {
+            "id": "29c013af-0ad8-4ebd-ae4a-9815ed21d917",
+            "image": null,
+            "name": "XS Acoustic Strings",
+            "description": "D'Addario XS Acoustic Strings are premium acoustic guitar strings designed for enhanced performance and longevity, featuring a treated surface for reduced corrosion and a balanced tone.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "e6a5c0e8-8eb5-4ca4-8980-dbaab88615ad",
+            "image": null,
+            "name": "Škoda Superb III (facelift)",
+            "description": "The Škoda Superb III (facelift) is a mid-size car produced by Skoda Auto, known for its spacious interior, advanced technology, and refined driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "d6ec2c6c-8b40-4f01-ad51-ffde6b37d6be",
+            "image": null,
+            "name": "Eureka",
+            "description": "The Rancilio Eureka series comprises high-quality coffee machines designed for professional and home baristas, focusing on precision grinding and customizable settings for optimal coffee extraction.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Rancilio"
+            }
+        },
+        {
+            "id": "e4de37c3-322e-4597-acfb-109e429e3407",
+            "image": null,
+            "name": "Rancilio Egro ONE",
+            "description": "The Rancilio Egro ONE series consists of high-quality coffee machines designed for professional use, offering various brewing options and advanced features to ensure optimal coffee preparation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Rancilio"
+            }
+        },
+        {
+            "id": "1475a545-688e-4665-ba75-fae5697090c8",
+            "image": null,
+            "name": "Zutano Flat Front Pants",
+            "description": "Zutano Flat Front Pants are designed for children, offering a comfortable fit and durable fabric suitable for everyday wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zutano"
+            }
+        }
+    ]
+}

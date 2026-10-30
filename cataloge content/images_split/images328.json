@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "286cb660-7660-4b69-b7f6-3b7f5180a50b",
+            "image": null,
+            "name": "Graduate Acrylics",
+            "description": "Daler Rowney Graduate Acrylics are versatile acrylic paints designed for students and beginners, offering good quality at an affordable price and suitable for a variety of surfaces and techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "9c801e7f-7e81-4855-9477-a9204542caa6",
+            "image": null,
+            "name": "Sceptre C248W-1920RN",
+            "description": "The Sceptre C248W-1920RN is a 24-inch LED monitor designed to deliver vibrant visuals and enhanced productivity for everyday computing tasks. Its lightweight design and adjustable stand make it suitable for various work environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "0309c7db-fbf6-4589-b452-acb971f9e2de",
+            "image": null,
+            "name": "Simply Acrylic",
+            "description": "Daler Rowney Simply Acrylic is a series of artist-quality acrylic paints designed for both beginners and experienced artists. The paints offer vibrant colors, quick drying times, and strong opacity, making them suitable for a variety of techniques and surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "f50bffbb-df77-4689-abe8-44dd3ca83d1d",
+            "image": null,
+            "name": "Thruxton 900",
+            "description": "The Triumph Thruxton 900 is a modern classic motorcycle that combines heritage design with contemporary performance. It is characterized by its café racer styling and is aimed at riders looking for an engaging and stylish riding experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "869d810e-1e4b-4f80-8785-aca90551c364",
+            "image": null,
+            "name": "Ducati Monster 821",
+            "description": "The Ducati Monster 821 is a standard motorcycle known for its naked styling, agility, and performance, making it suitable for both new and experienced riders seeking a versatile bike for city commuting and weekend rides.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "3f2bdb9c-090c-4890-b6c0-f99b43011382",
+            "image": null,
+            "name": "Vic Firth Signature",
+            "description": "The Vic Firth Signature series features drumsticks designed in collaboration with professional drummers, offering specific weight, balance, and feel tailored to individual playing styles and preferences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "8622129b-f1a7-4853-971c-d4fc92e479bc",
+            "image": null,
+            "name": "Langton Watercolour Blocks",
+            "description": "Daler Rowney Langton Watercolour Blocks are high-quality watercolour paper pads designed for artists. They feature a textured surface suitable for both wet and dry techniques, providing excellent water retention and durability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "6919d4c5-7e21-473e-a693-44369d0a9b76",
+            "image": null,
+            "name": "Sceptre E248W-1920",
+            "description": "The Sceptre E248W-1920 is a high-definition monitor designed for general use, offering vibrant visuals and a sleek design suitable for both home and office environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "29b4734f-a76b-4734-bbb2-53236f0dd859",
+            "image": null,
+            "name": "Sceptre E325BV-FMQR",
+            "description": "The Sceptre E325BV-FMQR is a 32-inch LED television that combines a vibrant display with multiple connectivity options to provide an engaging viewing experience for both entertainment and gaming.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "0dc546e3-f424-4852-a197-4b941dd7e5af",
+            "image": null,
+            "name": "Cloud Up 2",
+            "description": "The Naturehike Cloud Up 2 is a lightweight and durable two-person tent designed for camping enthusiasts seeking a reliable shelter in various weather conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Naturehike"
+            }
+        },
+        {
+            "id": "344a3af8-a6b5-4609-96bd-1a6ccd696158",
+            "image": null,
+            "name": "Poco M1",
+            "description": "The Poco M1 is a smartphone that offers a balance of performance and affordability, designed to meet essential daily communication and entertainment needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "429036f2-1d4d-4016-8200-5402307019d4",
+            "image": null,
+            "name": "Sennelier Extra Fine Oil Pastels",
+            "description": "Sennelier Extra Fine Oil Pastels are high-quality, soft pastels designed for artists seeking vibrant color and excellent blendability, suitable for various artistic techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "567f759d-61de-4c34-a5f3-94121c520945",
+            "image": null,
+            "name": "Thinline Series",
+            "description": "The Takamine Thinline Series features a slim body design for enhanced comfort and playability, making these acoustic guitars suitable for a variety of musical styles and performance settings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Takamine"
+            }
+        },
+        {
+            "id": "0d1bb30c-6f97-41f3-a1f3-d0ef089322b3",
+            "image": null,
+            "name": "Renault Laguna",
+            "description": "The Renault Laguna is a mid-size car produced by the French manufacturer Renault, designed for comfort, style, and practicality in everyday driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "df1c3f7c-32a3-40a6-89a4-577910e22888",
+            "image": null,
+            "name": "Sofà",
+            "description": "The Pedrali Sofà series is a collection of modern sofas designed for both comfort and style, suitable for various living spaces and public environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "3367177e-9332-49ee-a3ec-ed19b34a301f",
+            "image": null,
+            "name": "Little Tikes Bright 'n Bold Toy Chest",
+            "description": "The Little Tikes Bright 'n Bold Toy Chest is a colorful storage solution designed to keep toys organized and easily accessible for children, encouraging play and tidiness.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "f48c1eea-e999-45a0-97c7-ffced369ad78",
+            "image": null,
+            "name": "Bustin Boards Yoface",
+            "description": "The Bustin Boards Yoface series features high-quality skateboards designed for urban commuting and tricks, offering a balanced ride and a lightweight construction suitable for both beginners and advanced riders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "14244bf1-cb9b-466f-a7b1-1f021bd5e625",
+            "image": null,
+            "name": "Renault Kaptur",
+            "description": "The Renault Kaptur is a compact SUV designed to offer a blend of style, comfort, and versatility, making it suitable for urban and off-road driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "4d4cfdfe-feeb-416d-a777-1cc0e65c9dfb",
+            "image": null,
+            "name": "Tecno Spark 7",
+            "description": "The Tecno Spark 7 is a budget-friendly smartphone series released in 2021, designed to offer essential features and reliable performance for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "b976ef84-0b7d-48f9-a47d-8e71a97bd453",
+            "image": null,
+            "name": "Tecno Phantom X",
+            "description": "The Tecno Phantom X is a flagship smartphone series released in 2021, designed to offer high-end features such as a premium camera system and an immersive display for enhanced user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "62d375ad-8240-4afa-a1d4-c2a8e0e74773",
+            "image": null,
+            "name": "Tecno Spark 10",
+            "description": "The Tecno Spark 10 series consists of budget-friendly smartphones designed to provide essential features and reliable performance for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "726cd72e-8ac4-42fd-abb3-81d1622e69b8",
+            "image": null,
+            "name": "Renault Megane E-Tech Electric",
+            "description": "The Renault Megane E-Tech Electric is a fully electric compact car launched by Renault in 2023, designed to offer a sustainable driving experience with modern technology and practicality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "efdeb036-243d-4584-8efb-f8317aa71be0",
+            "image": null,
+            "name": "Eagle Ultra Grip",
+            "description": "The Goodyear Eagle Ultra Grip series is designed for winter performance, providing enhanced traction and stability on snow and icy surfaces for improved vehicle control under adverse weather conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "cd231baa-d0c8-4988-b3c7-58a50d29a974",
+            "image": null,
+            "name": "MacBook Pro (2016)",
+            "description": "The MacBook Pro (2016) is a high-performance laptop designed for professionals and creative users, featuring a Retina display, enhanced graphics, and a sleek design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "dbb95aee-5168-4d29-95f6-28e361770c03",
+            "image": null,
+            "name": "K Series",
+            "description": "The K Series by Zildjian is a collection of high-quality cymbals designed for professional drummers, known for their warm tones and rich overtones.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "38900bd3-f752-4f25-923d-2e74eb53e112",
+            "image": null,
+            "name": "Yokohama Geolandar A/T",
+            "description": "The Yokohama Geolandar A/T is an all-terrain tire designed for SUVs and light trucks, offering balanced performance both on and off road. It features a rugged tread design for enhanced traction in varying conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "05a51ebe-451d-4a22-afb9-959fccfd533f",
+            "image": null,
+            "name": "Fossil Q Explorist",
+            "description": "The Fossil Q Explorist is a line of smartwatches designed to combine traditional watch aesthetics with modern technology, enabling users to receive notifications, track fitness, and personalize their watch experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil"
+            }
+        },
+        {
+            "id": "cca67aa7-1fc2-47a4-9986-c906ef36e630",
+            "image": null,
+            "name": "Mann-Filter HU 701/2",
+            "description": "Mann-Filter HU 701/2 is an engine oil filter designed to ensure optimal filtration of engine oil, helping to maintain clean oil for better engine performance and longevity.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "371940a7-9649-4704-8e1d-0667b1677aea",
+            "image": null,
+            "name": "Rocket III",
+            "description": "The Triumph Rocket III is a powerful cruiser motorcycle known for its impressive torque and unique three-cylinder engine. Launched in 2005, it is designed for both long-distance touring and spirited riding.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "bfc9e630-e498-4acc-99c3-2eedcc0d452f",
+            "image": null,
+            "name": "Vic Firth Signature Series",
+            "description": "The Vic Firth Signature Series includes a variety of drumsticks designed in collaboration with professional drummers, offering unique balances and weights to suit various playing styles and preferences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        }
+    ]
+}

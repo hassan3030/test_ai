@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "id": "9dfa0811-08f3-4e3b-8a49-9978611da7a1",
+            "image": null,
+            "name": "GIGABYTE B550 Motherboard Series",
+            "description": "The GIGABYTE B550 Motherboard Series offers a robust platform for AMD Ryzen processors, featuring advanced connectivity options and support for PCIe 4.0 to enhance gaming and productivity performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "ea688a8f-8841-48c1-9616-99015736a566",
+            "image": null,
+            "name": "AORUS GeForce RTX 40 Series",
+            "description": "The AORUS GeForce RTX 40 Series by Gigabyte is a line of high-performance graphics cards designed for gamers and creators, featuring advanced cooling solutions and ray tracing capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "aee30996-bfb5-4171-8923-01d5f5982937",
+            "image": null,
+            "name": "Pixel Tablet",
+            "description": "The Google Pixel Tablet is a versatile and powerful tablet launched in 2023, designed to enhance productivity and deliver a seamless multimedia experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "b1643850-ac45-435b-afa7-7294d4c03180",
+            "image": null,
+            "name": "Moto G4",
+            "description": "The Motorola Moto G4 is a mid-range smartphone released in 2016, known for its balance of performance and affordability, featuring a large display and a solid camera for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "093a54ec-366c-495f-9f8b-4ecd08af710e",
+            "image": null,
+            "name": "Moto G5 Plus",
+            "description": "The Motorola Moto G5 Plus is a mid-range smartphone released in 2017, known for its solid performance, good camera quality, and value for money.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "819f6a97-41cf-4411-800a-4e5ad961517f",
+            "image": null,
+            "name": "Moto Z4",
+            "description": "The Motorola Moto Z4 is a smartphone designed for versatility and modularity, featuring compatibility with Moto Mods that enhance its functionality and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "ad630e0c-6e83-48e0-b0dc-2216eb7c6eee",
+            "image": null,
+            "name": "Formovie Smart Projector",
+            "description": "The Formovie Smart Projector series features advanced projection technology designed for home entertainment, offering high-quality visuals and smart functionalities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "5cd60714-fff7-4ce3-955f-d86e6c1e25e9",
+            "image": null,
+            "name": "Formovie Infinity",
+            "description": "The Formovie Infinity series consists of advanced projectors designed for high-quality home cinema experiences, offering enhanced image clarity and immersive viewing capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "a796db75-3f93-47d3-bff3-533b7550953a",
+            "image": null,
+            "name": "Nebula Capsule",
+            "description": "The Nebula Capsule series consists of compact, portable projectors designed for easy entertainment on the go, offering a built-in speaker and various connectivity options for convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "1764bcc1-5690-4a70-8575-e08e34ffc52c",
+            "image": null,
+            "name": "Nebula Capsule III",
+            "description": "The Nebula Capsule III is a portable mini projector designed for on-the-go entertainment, featuring compact design and versatile streaming capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "71580368-0d06-45dc-a0eb-6ca27480d795",
+            "image": null,
+            "name": "Nebula Mars II Pro",
+            "description": "The Nebula Mars II Pro is a portable smart projector designed for versatile viewing experiences, allowing users to enjoy high-quality video and audio in various settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "c5b936dc-8c74-4362-a222-b2ce891b9ffd",
+            "image": null,
+            "name": "Nebula Capsule 3",
+            "description": "The Nebula Capsule 3 is a portable projector designed for streaming and projecting video content with enhanced portability and convenience, featuring a compact design and wireless connectivity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "4b926829-2e1d-438b-abf7-790f86c53f32",
+            "image": null,
+            "name": "Nebula Cosmos 4K",
+            "description": "The Nebula Cosmos 4K is a compact projector designed to deliver high-resolution 4K visuals, making it suitable for both home entertainment and professional presentations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "38b41ac3-4998-464a-8d88-a38b62b9dbdb",
+            "image": null,
+            "name": "Fitbit Alta",
+            "description": "The Fitbit Alta is a slim, stylish fitness tracker that helps users monitor their daily activity, track sleep patterns, and set personal fitness goals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "b257a7ec-a129-4488-ba4c-1c9a6ea38fc1",
+            "image": null,
+            "name": "Fitbit Blaze",
+            "description": "The Fitbit Blaze is a smart fitness watch designed to track various health metrics, including heart rate, sleep patterns, and physical activities, while providing smart features such as notifications and music control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "e8f5d232-d5a1-474b-9c12-faf073be0d38",
+            "image": null,
+            "name": "Fitbit Versa",
+            "description": "The Fitbit Versa is a line of smartwatches designed to help users track their health and fitness metrics while providing smartwatch functionalities such as notifications and apps.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "661c7d2e-443c-4e86-80ef-db7684de1356",
+            "image": null,
+            "name": "Colmi P8 Pro",
+            "description": "Colmi P8 Pro is a smart watch designed for fitness tracking and everyday notifications, featuring a sleek design and multiple health monitoring functions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Colmi"
+            }
+        },
+        {
+            "id": "007f07dc-2303-474b-a30c-4698b0dc8df8",
+            "image": null,
+            "name": "Fossil Q",
+            "description": "The Fossil Q series includes a range of smart watches designed to blend traditional watch aesthetics with modern technology, featuring fitness tracking, notifications, and customizable watch faces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "2070e03d-a80e-430d-a63e-8e4d144c1b51",
+            "image": null,
+            "name": "Fossil Hybrid HR",
+            "description": "The Fossil Hybrid HR is a series of smartwatches that combines traditional analog design with modern smartwatch features, allowing users to track fitness, monitor health metrics, and receive notifications while maintaining a classic look.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fossil Group Inc."
+            }
+        },
+        {
+            "id": "53c696f1-c455-48ac-b502-fabca6455d14",
+            "image": null,
+            "name": "Citi",
+            "description": "The Maxi-Cosi Citi series of strollers is designed to offer comfort and safety for infants while providing convenience for parents. It features a lightweight design, making it easy to maneuver and transport.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b3f063b3-91ee-46f2-8693-6f06ce522669",
+            "image": null,
+            "name": "MAXI-COSI RodiFlex",
+            "description": "The Maxi-Cosi RodiFlex is a versatile baby seat designed to provide safety and comfort for children as they grow. It features a unique flexible design that adapts to accommodate the child's development over time.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b5a255ad-5975-4708-b983-51d653ebaca8",
+            "image": null,
+            "name": "Maxi-Cosi Lila",
+            "description": "The Maxi-Cosi Lila series offers a versatile stroller designed to accommodate infants and toddlers, featuring an adjustable seat and ample storage space for convenience and comfort during outings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "991b4b1a-d791-4257-81ba-6f7d373f8188",
+            "image": null,
+            "name": "Maxi-Cosi Zelia2",
+            "description": "The Maxi-Cosi Zelia2 is a versatile stroller designed for ease of use and comfort for both parents and children. It combines functionality with a stylish design, ensuring a smooth ride for everyday outings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "46f008d1-f2d5-4fe3-8b1f-77b7b726d369",
+            "image": null,
+            "name": "Booklet",
+            "description": "The Peg Perego Booklet series is a versatile stroller designed for ease of use and convenience, featuring a compact fold and lightweight design for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "de6f7970-e33f-4c1a-aaaf-76aee055f53e",
+            "image": null,
+            "name": "Pioneer",
+            "description": "The Peg Perego Pioneer series is a collection of high-quality ride-on toys designed for children, featuring realistic designs and durable construction for safe outdoor play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cb7c7da0-9921-46ac-8225-aaa492ce4835",
+            "image": null,
+            "name": "Nuna Mixx",
+            "description": "The Nuna Mixx is a versatile stroller designed for ease of use and comfort, featuring a high-quality build and a sleek, modern design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a7aff5cf-ab85-4023-82dd-1a8194476631",
+            "image": null,
+            "name": "UA HOVR Phantom 2",
+            "description": "The Under Armour UA HOVR Phantom 2 is a performance sneaker designed for gym workouts and training, featuring UA HOVR™ cushioning technology that provides a 'zero gravity' feel to maintain energy return while reducing impact.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "35793968-93ec-4d3a-af61-ef956b56c104",
+            "image": null,
+            "name": "GIGABYTE GeForce RTX 30 Series",
+            "description": "The GIGABYTE GeForce RTX 30 Series is a line of high-performance graphics cards designed for gamers and content creators, offering advanced features such as real-time ray tracing and AI-enhanced graphics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "9eb67151-6f85-47f4-b5f2-5afc31f8375b",
+            "image": null,
+            "name": "Fibaro Home Center 3",
+            "description": "The Fibaro Home Center 3 is a smart home hub designed to manage various smart devices and automate home settings for improved convenience and efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Fibaro"
+            }
+        },
+        {
+            "id": "02d45ef2-7c54-476f-81ef-40bf9eb96472",
+            "image": null,
+            "name": "Penny Nickel",
+            "description": "The Penny Nickel series is a range of compact skateboards known for their sturdy plastic construction and enhanced stability, making them ideal for cruising and trick riding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        }
+    ]
+}

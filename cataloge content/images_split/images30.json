@@ -1,0 +1,376 @@
+{
+    "data": [
+        {
+            "id": "8d41eeb8-38a0-40a9-be5d-11165c523f2c",
+            "image": null,
+            "name": "Pureboost",
+            "description": "The Adidas Pureboost series consists of lightweight sneakers designed for running and casual wear, featuring a flexible knit upper and responsive cushioning for optimal comfort and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "8fb85adc-9975-4297-95fc-3ee5dddba4a1",
+            "image": null,
+            "name": "Pipa",
+            "description": "The Nuna Pipa series consists of infant car seats designed to provide safety and comfort for babies during travel. Featuring a lightweight design and a base with an innovative installation system, these seats are renowned for their ease of use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a205f491-77c2-4f59-b506-68cacab4aa5f",
+            "image": null,
+            "name": "PlayStation Classic",
+            "description": "The PlayStation Classic is a miniaturized version of the original PlayStation console, featuring 20 pre-installed classic games. It aims to provide a nostalgic gaming experience while making it easier to enjoy timeless titles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": {
+                "name": "PlayStation"
+            }
+        },
+        {
+            "id": "b7c88251-c6bd-4b61-b701-9fda2f7d071b",
+            "image": null,
+            "name": "AlphaBounce",
+            "description": "The Adidas AlphaBounce is a line of sneakers designed for running and training, offering a comfortable and adaptive fit with its distinctive Bounce cushioning technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        },
+        {
+            "id": "cfdbf6d0-7bde-49d1-b301-1460fbdfc5a6",
+            "image": null,
+            "name": "Porsche 911 (992) Turbo S",
+            "description": "The Porsche 911 (992) Turbo S is a high-performance sports car that combines powerful turbocharged engines with advanced engineering and iconic design, delivering exceptional speed and driving dynamics.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "245c8568-97ac-49b2-8afb-e49d315fb8a0",
+            "image": null,
+            "name": "Hisense 2022 Front Load Washing Machine Series",
+            "description": "The Hisense 2022 Front Load Washing Machine Series is designed for efficient laundry washing, featuring advanced technology to optimize performance and energy consumption.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2723fdfd-57ff-4130-beeb-38af7b4b1c23",
+            "image": null,
+            "name": "PlayStation 4 Pro",
+            "description": "The PlayStation 4 Pro is a high-performance video game console released by Sony in 2016, designed to deliver enhanced graphics and performance for an immersive gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": {
+                "name": "PlayStation"
+            }
+        },
+        {
+            "id": "35374617-2994-4373-913d-3aa0592743b7",
+            "image": null,
+            "name": "Gucci Eyewear Collection",
+            "description": "The Gucci Eyewear Collection offers a range of luxury sunglasses characterized by bold designs and high-quality craftsmanship, blending style and functionality for refined protection against the sun.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3c585438-5f02-4228-a485-c51574e804a8",
+            "image": null,
+            "name": "Miele G7000 Dishwashers",
+            "description": "The Miele G7000 Dishwashers series is designed to offer advanced cleaning and drying capabilities while ensuring energy efficiency and quiet operation. These dishwashers are equipped with innovative features tailored for optimal usability and cleanliness.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "40fc0245-a26c-438a-9cf6-2acfc6c659cd",
+            "image": null,
+            "name": "Porsche Macan (2021)",
+            "description": "The Porsche Macan (2021) is a compact luxury SUV that combines sporty performance with everyday practicality, featuring a range of powerful engines and advanced technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4e3e2836-b68a-45de-b7e4-df78995fc459",
+            "image": null,
+            "name": "TCL Refrigerators",
+            "description": "The TCL Refrigerators series offers a range of reliable and energy-efficient refrigeration solutions designed to meet diverse storage needs while maintaining optimal freshness for food and beverages.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d48d1d5e-f857-41bb-a4e7-0b9dd91198dc",
+            "image": null,
+            "name": "Hisense 2022 Side-by-Side Refrigerator Series",
+            "description": "The Hisense 2022 Side-by-Side Refrigerator Series offers spacious storage solutions and modern cooling technology, designed to enhance food preservation and convenience in the kitchen.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "61b2911b-1801-426d-9d51-b1c103b5e5e7",
+            "image": null,
+            "name": "Fiat 500 Electric",
+            "description": "The Fiat 500 Electric is a fully electric city car designed for efficient urban mobility, featuring a compact and stylish design that embodies modern Italian aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "e85540dd-7159-425c-b946-7d0c123dab8c",
+            "image": null,
+            "name": "Fiat Punto",
+            "description": "The Fiat Punto is a small car that was first released in 2000, designed primarily for urban commuting and practical use with a focus on efficiency and compactness.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "6421d19a-fec7-406a-bac0-2f4141cfcc8c",
+            "image": null,
+            "name": "Fiat Fiorino",
+            "description": "The Fiat Fiorino is a compact commercial vehicle designed for urban transport and delivery services, offering practicality and efficiency for businesses. Its compact size and versatile cargo space make it ideal for navigating city streets.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "f1563b3c-dae5-4e43-b95f-7f91f9f43a15",
+            "image": null,
+            "name": "Fiat Ducato",
+            "description": "The Fiat Ducato is a versatile commercial van known for its spacious interior, practicality, and efficiency, making it ideal for both transport and conversion into campervans.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "f2c919e4-3d52-44a1-bccd-32a6788a6743",
+            "image": null,
+            "name": "Fiat Panda Hybrid",
+            "description": "The Fiat Panda Hybrid is a compact car designed to offer efficiency and versatility, featuring a hybrid powertrain that combines a petrol engine with an electric motor for reduced emissions and better fuel economy.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "67511f36-f352-4379-9a15-30acba6903ec",
+            "image": null,
+            "name": "Fiat 124 Spider",
+            "description": "The Fiat 124 Spider is a two-door convertible sports car that combines classic Italian styling with modern performance, targeting enthusiasts who appreciate open-top driving and agile handling.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "6c99a7e9-bc7a-4aa1-849f-7aa4e7721759",
+            "image": null,
+            "name": "Fiat Croma",
+            "description": "The Fiat Croma is a mid-size car produced by Fiat, known for its spacious interior and versatility, suitable for both family use and long-distance travel.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "70f671b6-fa7f-412f-bdf3-a849cf867ff9",
+            "image": null,
+            "name": "Fiat Multipla (second generation)",
+            "description": "The Fiat Multipla (second generation), released in 2001, is a compact multi-purpose vehicle designed to offer flexibility and space for families and groups, featuring a unique, distinctive design.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "7d861dd3-ad06-4898-bc6d-a74ae9e3d954",
+            "image": null,
+            "name": "Fiat Linea",
+            "description": "The Fiat Linea is a compact sedan that was produced by the Italian manufacturer Fiat, designed primarily for comfortable urban commuting with efficient fuel consumption and a spacious interior.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "22becec2-7805-4e0d-8c54-8fd5727dc196",
+            "image": null,
+            "name": "Fiat Bravo",
+            "description": "The Fiat Bravo is a compact car designed for urban driving, combining style and practicality in a hatchback format.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "5b6e1efe-7e91-46f5-b7b7-121ec0e903b6",
+            "image": null,
+            "name": "Fiat 500L Trekking",
+            "description": "The Fiat 500L Trekking is a versatile compact MPV (multi-purpose vehicle) designed for urban environments, blending practicality with a robust aesthetic and enhanced off-road capability.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "8815e747-e24c-4b74-8a45-43ee29d7e04a",
+            "image": null,
+            "name": "Fiat Panda (Third Generation)",
+            "description": "The Fiat Panda (Third Generation) is a compact city car launched in 2012, known for its practicality, versatility, and efficient use of space, making it ideal for urban environments.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "8fc0eae3-b8fc-4044-9965-9ba3d1f70b6a",
+            "image": null,
+            "name": "Porsche 911 GT3 (997.1)",
+            "description": "The Porsche 911 GT3 (997.1) is a high-performance sports car known for its precision engineering and track-oriented design, aimed at delivering an exhilarating driving experience on both the road and the racetrack.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9a3a395f-10f4-433e-b41c-fcdb9af540ea",
+            "image": null,
+            "name": "Fiat Doblo",
+            "description": "The Fiat Doblo is a versatile multi-purpose vehicle (MPV) designed for both families and commercial use, offering practicality and spaciousness with modern features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "ad1537f1-22b1-47ed-a4f8-a08330208df2",
+            "image": null,
+            "name": "Fiat 500C",
+            "description": "The Fiat 500C is a compact convertible car that combines iconic retro styling with modern features, designed for urban driving and a playful driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "b3351939-fd81-48ee-88ed-ad41bf4eda91",
+            "image": null,
+            "name": "Fiat Multipla",
+            "description": "The Fiat Multipla is a compact multi-purpose vehicle designed to accommodate up to six passengers, known for its distinctive design and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "b8eeff1d-7a54-4058-a195-5360a58fd5a9",
+            "image": null,
+            "name": "Fiat Stilo",
+            "description": "The Fiat Stilo is a compact car produced by Fiat from 2001 to 2007, known for its practical design, spacious interior, and a range of engine options catering to various driving preferences.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "ce2830aa-8d62-4e60-aa63-d1e12bbd5ac7",
+            "image": null,
+            "name": "Fiat Punto Evo",
+            "description": "The Fiat Punto Evo is a compact hatchback that combines practicality with style, offering efficient performance for urban driving.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "6ad742a7-d115-4270-9152-dfd32528d9c3",
+            "image": null,
+            "name": "Bulgari Octo",
+            "description": "The Bulgari Octo series is a collection of luxury watches that exemplify Italian design craftsmanship, combining geometric beauty with high-end functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Bulgari"
+            }
+        },
+        {
+            "id": "0e02241f-9403-44b0-88c2-41e0ece82292",
+            "image": null,
+            "name": "Bulgari Diva's Dream",
+            "description": "Bulgari Diva's Dream is a collection of luxury jewelry and accessories that embodies the elegance and sophistication of the modern woman, characterized by intricate designs inspired by the beauty of nature and the iconic Roman heritage.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Bulgari"
+            }
+        },
+        {
+            "id": "727b9ae5-82f6-4664-9b9e-256d1352a246",
+            "image": null,
+            "name": "Loewe x Studio Ghibli Collection",
+            "description": "The Loewe x Studio Ghibli Collection is a collaboration between Loewe and the iconic Japanese animation studio Studio Ghibli, featuring a range of bags inspired by beloved characters and films from the Ghibli universe.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Loewe"
+            }
+        },
+        {
+            "id": "44d2da36-6486-4eec-8cd3-2dbb66ad4424",
+            "image": null,
+            "name": "Jack & Jones Core",
+            "description": "The Jack & Jones Core series offers a range of essential and versatile men's clothing designed for everyday wear, focusing on quality and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Jack & Jones"
+            }
+        },
+        {
+            "id": "b859e9be-c6ab-4849-aab8-7270927f0ee1",
+            "image": null,
+            "name": "Royal Oak Offshore",
+            "description": "The Audemars Piguet Royal Oak Offshore series represents a bold interpretation of the iconic Royal Oak design, featuring sporty aesthetics and robust construction, catering to both luxury watch enthusiasts and athletes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Audemars Piguet"
+            }
+        },
+        {
+            "id": "952cfb9d-8839-4b4e-88b0-bba1e8e6b321",
+            "image": null,
+            "name": "Code 11.59",
+            "description": "The Audemars Piguet Code 11.59 series is a collection of luxurious Swiss watches that combines traditional craftsmanship with modern aesthetics, designed for versatility and sophistication.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Audemars Piguet"
+            }
+        },
+        {
+            "id": "2437e923-a24a-4320-8a55-ef8bb00a31b4",
+            "image": null,
+            "name": "Heritage Chrono",
+            "description": "The Tudor Heritage Chrono is a collection of watches that pays homage to Tudor's iconic chronographs, blending vintage aesthetics with modern functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Tudor"
+            }
+        },
+        {
+            "id": "f931833e-86a1-4a82-a07a-fb79c9d8218d",
+            "image": null,
+            "name": "Tudor Black Bay Fifty-Eight",
+            "description": "The Tudor Black Bay Fifty-Eight is a popular dive watch known for its vintage-inspired design and robust craftsmanship. Released in 2021, it combines functionality with a classic aesthetic, making it suitable for both professional diving and everyday wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Tudor"
+            }
+        },
+        {
+            "id": "8d38f5d7-092b-49bf-945d-86ace510a954",
+            "image": null,
+            "name": "Tudor Heritage Chrono",
+            "description": "The Tudor Heritage Chrono is a collection of timepieces that blend the brand's rich history with modern aesthetics, designed for both watch enthusiasts and everyday wear. Key traits include a chronograph function, sporty design, and high-quality craftsmanship.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Tudor"
+            }
+        },
+        {
+            "id": "812fab2f-ba75-4819-a79c-0cd5579e17dd",
+            "image": null,
+            "name": "Clarks Originals",
+            "description": "Clarks Originals is a collection of classic sneakers that blend heritage with modern comfort, designed to provide durable wear and timeless style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Clarks"
+            }
+        },
+        {
+            "id": "c2eb0e93-36ca-4db5-9ce4-b7d816ed03cd",
+            "image": null,
+            "name": "Clarks Cloudsteppers",
+            "description": "Clarks Cloudsteppers are lightweight sneakers designed for ultimate comfort and support, featuring advanced cushioned technology suitable for everyday wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Clarks"
+            }
+        },
+        {
+            "id": "3d3d165e-770d-4a7f-ad24-1f9b267eb3b0",
+            "image": null,
+            "name": "Clarks x Telfar",
+            "description": "The Clarks x Telfar series features a unique collaboration between Clarks and fashion designer Telfar Clemens, showcasing stylish and comfortable sneakers that blend high fashion with everyday wearability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Clarks"
+            }
+        },
+        {
+            "id": "953328b6-4391-41cd-b824-8a52b1c389eb",
+            "image": null,
+            "name": "1460 Pascal Velvet",
+            "description": "The Dr. Martens 1460 Pascal Velvet is a classic 8-eye boot featuring a luxurious velvet upper, designed for both style and comfort. It retains the signature Dr. Martens AirWair sole for durability and traction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "786ce20d-88af-4b62-b0b5-9b44e3e9c85e",
+            "image": null,
+            "name": "1461 Pascal Velvet",
+            "description": "The Dr. Martens 1461 Pascal Velvet is a classic low-heeled shoe that combines traditional styling with a luxurious velvet finish, designed for both comfort and durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "158ef142-3a49-49bc-9d93-85d0d67a3713",
+            "image": null,
+            "name": "1461 Mono",
+            "description": "The Dr. Martens 1461 Mono is a classic low-shoe silhouette that combines traditional leather craftsmanship with a sleek, monochromatic design, ideal for versatile styling and comfortable wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "e3740ccf-79d5-4e9b-a7b7-4015e8f7357a",
+            "image": null,
+            "name": "2976 Pascal",
+            "description": "The Dr. Martens 2976 Pascal is a classic Chelsea boot designed for comfort and durability, featuring a slip-on style and the brand's signature Goodyear welt construction.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "8f51a9ee-b0d6-4d69-bf76-8443bcd51b18",
+            "image": null,
+            "name": "1460 Pascal Velvet Boots",
+            "description": "The Dr. Martens 1460 Pascal Velvet Boots are a stylish and durable footwear option, featuring a soft velvet upper and the iconic air-cushioned sole. Designed for comfort and long-lasting wear, these boots combine classic design with contemporary materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "9654f9a1-98de-4090-9e51-efca3a1e5af1",
+            "image": null,
+            "name": "Vegan 1460",
+            "description": "The Dr. Martens Vegan 1460 is a line of iconic lace-up boots made from synthetic materials that provide a cruelty-free alternative to traditional leather. It retains the classic 1460 silhouette, featuring the signature AirWair sole for comfort and durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        },
+        {
+            "id": "f6575f86-5662-40c0-9d56-cdaf0c4d6540",
+            "image": null,
+            "name": "Santa Cruz Classic",
+            "description": "The Santa Cruz Classic series of skateboards features iconic designs and shapes that prioritize durability and performance for skateboarders of all skill levels. Launched in 2016, this series pays homage to the brand's rich history while catering to contemporary skateboarding needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "37600e55-6363-48e8-ae2d-d990856f7247",
+            "image": null,
+            "name": "Santa Cruz Pro Model",
+            "description": "The Santa Cruz Pro Model series features high-quality skateboards designed for professional and advanced riders, emphasizing durability and performance for street and park skating.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "268d0d17-131f-4010-9903-0a1f5baf91b9",
+            "image": null,
+            "name": "Santa Cruz Street Series",
+            "description": "The Santa Cruz Street Series skateboards are designed for street skating, emphasizing durability and performance while showcasing vibrant graphics. This series is well-suited for both beginners and experienced skaters looking to navigate urban environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "a50f6b33-11b6-462c-bfe2-f70d16a7e1d6",
+            "image": null,
+            "name": "Santa Cruz Pro Model Series",
+            "description": "The Santa Cruz Pro Model Series features skateboards designed in collaboration with professional riders, combining durability and performance to meet the demands of serious skateboarders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "53a81aa5-ddbb-44b8-8f9e-ed46ade4236f",
+            "image": null,
+            "name": "Santa Cruz Classic Reissue Series",
+            "description": "The Santa Cruz Classic Reissue Series features iconic skateboard designs from the brand's history, reintroduced to offer skaters and collectors a piece of nostalgic heritage with premium construction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "de1686b1-c28f-4774-9de9-aa0fe9c1413a",
+            "image": null,
+            "name": "Santa Cruz VX Decks",
+            "description": "The Santa Cruz VX Decks are designed for durability and performance, featuring a unique composite material that increases strength while reducing weight, making them suitable for a variety of skateboarding styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "46da8a0a-6f94-4e2d-92b8-7569370fc054",
+            "image": null,
+            "name": "Santa Cruz OG Dot Series",
+            "description": "The Santa Cruz OG Dot Series features a classic skateboard design that embodies the brand's iconic style and commitment to quality, aimed at both casual riders and serious skaters.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "87806b28-8f20-44ac-8c1c-06efad024393",
+            "image": null,
+            "name": "Bustin Boards Hybrid",
+            "description": "The Bustin Boards Hybrid series offers versatile skateboards designed for both street and park skating, combining durability with agility for various riding styles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "96feecc1-8422-4cf2-8b05-1d8898ff9f61",
+            "image": null,
+            "name": "Santa Cruz Land Shark",
+            "description": "The Santa Cruz Land Shark series features a unique skateboard design inspired by surfing culture, designed for street and park skating.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "4275791f-def0-4e20-8437-994ddc5a46bd",
+            "image": null,
+            "name": "Santa Cruz Classic Series",
+            "description": "The Santa Cruz Classic Series skateboards are designed for both casual riders and serious skaters, featuring iconic artwork and durable construction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "3d6b17ce-27c7-49de-a1dd-132c7ba16f9e",
+            "image": null,
+            "name": "Santa Cruz Artist Series",
+            "description": "The Santa Cruz Artist Series features skateboards that showcase unique artwork from various artists, combining functionality with creative expression for skaters looking to make a statement.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "361b6bb0-92e0-46ee-aa9b-06038ee55145",
+            "image": null,
+            "name": "Santa Cruz X Anti-Hero Collaboration",
+            "description": "The Santa Cruz X Anti-Hero Collaboration series features skateboards that blend the iconic designs of both brands, aimed at providing high-performance skating experiences for enthusiasts and collectors alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        }
+    ]
+}

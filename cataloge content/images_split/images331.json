@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "dc28bac8-16f8-44bf-a64a-b94b74131e67",
+            "image": null,
+            "name": "Vespa GTS Touring",
+            "description": "The Vespa GTS Touring is a stylish and versatile scooter designed for urban commuting and leisure rides, featuring ample storage space and comfortable seating for extended travel.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "6d43a227-e633-43b2-a58b-cc9783ed7e6f",
+            "image": null,
+            "name": "iPad Pro (3rd generation)",
+            "description": "The iPad Pro (3rd generation) is a high-performance tablet designed for professionals and creators, featuring advanced technology that supports multitasking and graphics-intensive applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "0f16b7bd-0d1a-4e93-be78-4973c697886e",
+            "image": null,
+            "name": "Goodyear Eagle F1 Asymmetric",
+            "description": "The Goodyear Eagle F1 Asymmetric is a high-performance tire designed for sports cars and premium vehicles, emphasizing superior grip, handling, and tread life.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "d520966a-c373-4baf-a744-583994ef0237",
+            "image": null,
+            "name": "iPad (7th generation)",
+            "description": "The Apple iPad (7th generation) is a versatile tablet designed for productivity, entertainment, and educational purposes, featuring a larger display and compatibility with the Apple Pencil and Smart Keyboard.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "8b76721f-ed78-449f-925c-193e6b72ec31",
+            "image": null,
+            "name": "Mungyo Chalk Pastel",
+            "description": "Mungyo Chalk Pastel is a series of art supplies designed for smooth blending and vibrant colors, ideal for artists of all levels looking to create beautiful pastel art.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "20f53a6f-b57f-4054-a390-571a13b3d769",
+            "image": null,
+            "name": "Tecno Camon 16",
+            "description": "The Tecno Camon 16 is a smartphone series released in 2020, designed to provide high-quality photography and a smooth user experience, making it ideal for social media enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "452b5fec-7b7f-4eca-acfb-327efd52740b",
+            "image": null,
+            "name": "Bustin Boards Mini Series",
+            "description": "The Bustin Boards Mini Series is designed for urban commuting and tricks, offering a compact and lightweight design for versatile maneuverability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bustin Boards"
+            }
+        },
+        {
+            "id": "d80f5695-c858-4171-843e-a6d5678af78c",
+            "image": null,
+            "name": "Little Tikes Cozy Coupe® 30th Anniversary Edition",
+            "description": "The Little Tikes Cozy Coupe® 30th Anniversary Edition is a classic ride-on toy designed for toddlers, featuring a stylish design and a sturdy construction that encourages imaginative play and physical activity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "cc6ad837-1ebf-47b0-a3f3-5b69a6a8abd8",
+            "image": null,
+            "name": "Little Tikes Cozy Coupe 30th Anniversary",
+            "description": "The Little Tikes Cozy Coupe 30th Anniversary is a classic ride-on toy designed for toddlers, featuring a cozy interior and a durable design for outdoor play. It encourages imaginative play and physical activity in young children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "72bd9243-8f03-40cc-beb3-680119fd847a",
+            "image": null,
+            "name": "Strathmore 400 Series Mixed Media",
+            "description": "The Strathmore 400 Series Mixed Media paper is designed for use with a variety of media, offering versatility for both dry and wet techniques. It features a fine texture that enhances the performance of pencils, inks, and paints.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "489514bd-aa91-4b2a-b2a3-b815fa42c3c8",
+            "image": null,
+            "name": "Little Tikes Jump 'n Slide Dry Bouncer",
+            "description": "The Little Tikes Jump 'n Slide Dry Bouncer is an inflatable bounce house designed for young children, providing a safe and fun environment for jumping and sliding activities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "1f60a427-79d1-4eb6-adab-f00064c288f8",
+            "image": null,
+            "name": "Vespa PX",
+            "description": "The Vespa PX series is a classic line of scooters known for its durability, stylish design, and ease of use, aimed at urban commuting and leisure riding.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "4fa3d4a0-1b4e-4aab-92d8-bf4f1d3f1de9",
+            "image": null,
+            "name": "L.I.F.E. Chairs",
+            "description": "The Haworth L.I.F.E. Chairs are designed to support dynamic movement and adaptability in various work environments, promoting user comfort and productivity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Haworth"
+            }
+        },
+        {
+            "id": "cb93e5be-01b9-4ef4-a892-004e276ac26d",
+            "image": null,
+            "name": "Strathmore 500 Series Watercolor",
+            "description": "Strathmore 500 Series Watercolor paper is designed for professional watercolor artists, featuring exceptional durability and absorbency. Its textured surface supports a variety of watercolor techniques and ensures vibrant color application.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "bdc96b51-61e2-4c4d-9133-588545e42bc9",
+            "image": null,
+            "name": "Little Tikes Princess Cozy Coupe",
+            "description": "The Little Tikes Princess Cozy Coupe is a classic ride-on toy designed for young children, featuring a whimsical princess theme that enhances imaginative play and encourages outdoor activity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "c2487c8a-6eec-4ce6-beb2-5e6ccf108d1d",
+            "image": null,
+            "name": "Tecno Pova 5",
+            "description": "The Tecno Pova 5 is a smartphone series designed to provide a balanced combination of performance and battery life, catering to users who seek an efficient device for everyday tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "549f2c1f-684f-4f76-994f-1e6224e59ddc",
+            "image": null,
+            "name": "Ventus S1 Noble Sport",
+            "description": "The Hankook Ventus S1 Noble Sport is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip and handling in both wet and dry conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "fcda5f78-938f-4b67-a1ad-45f6a408e2e0",
+            "image": null,
+            "name": "Cleverdesk",
+            "description": "The Cleverdesk series by Kokuyo encompasses a range of functional and modern tables designed for efficient workspace organization and flexibility in various environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Kokuyo"
+            }
+        },
+        {
+            "id": "6772466b-d51e-4487-8f1b-2c3531fecac1",
+            "image": null,
+            "name": "Vespa S",
+            "description": "The Vespa S series is a compact scooter designed for urban commuting, combining classic Vespa styling with modern performance and functionality.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "9a36c812-7dc6-45d1-aeb4-4bf8085e08fe",
+            "image": null,
+            "name": "Doro 8031",
+            "description": "The Doro 8031 is a user-friendly smartphone designed primarily for seniors, featuring simplified menus and functions to enhance usability and promote connectivity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "bd2959de-8a47-432d-ac6d-c99426f7c59f",
+            "image": null,
+            "name": "Vespa LXV",
+            "description": "The Vespa LXV is a classic scooter model, designed for urban commuting and leisure riding, featuring a timeless design and efficient performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "29fae613-a2da-4700-adb5-e045e71d5571",
+            "image": null,
+            "name": "Doro 5516",
+            "description": "The Doro 5516 is a senior-friendly mobile phone designed to simplify communication for older adults, featuring large buttons, an easy-to-read screen, and hearing aid compatibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "1a1e90a6-21fd-4375-9965-10f37d72ea26",
+            "image": null,
+            "name": "Kinergy Ace",
+            "description": "The Hankook Kinergy Ace is a tire series designed for enhanced performance and safety in various driving conditions, focusing on providing a comfortable ride and reliable handling.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "80984b04-ccf2-43bb-adf3-60a2a9159109",
+            "image": null,
+            "name": "Doro 6520",
+            "description": "The Doro 6520 is a senior-friendly mobile phone known for its simplicity and ease of use, featuring large buttons and a user-friendly interface designed to meet the needs of older users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "88633e31-b6c4-4a0e-8b3f-39613fd9fb3e",
+            "image": null,
+            "name": "Dual Media Pastels",
+            "description": "Mungyo Dual Media Pastels are versatile art supplies designed for use on various surfaces, allowing artists to create vibrant and dynamic artwork with both dry and wet techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "8b23aa4f-fb6d-4ac2-a5a5-0369c0d1797d",
+            "image": null,
+            "name": "Assurance TripleTred",
+            "description": "The Goodyear Assurance TripleTred is a tire series designed for all-season performance, featuring three distinct tread zones for enhanced traction in wet, dry, and snowy conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "ab12617e-3392-477d-80ff-6e21524f2c5a",
+            "image": null,
+            "name": "Fern",
+            "description": "The Haworth Fern series offers ergonomic office chairs designed for optimal comfort and support during long hours of sitting, featuring a flexible backrest and adjustable features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Haworth"
+            }
+        },
+        {
+            "id": "5b3c051a-5bbf-43cf-a1e6-1b69204955df",
+            "image": null,
+            "name": "Vespa GTV 300",
+            "description": "The Vespa GTV 300 is a stylish scooter that combines classic design with modern technology, offering a comfortable and agile ride for urban commuting and leisure.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Vespa"
+            }
+        },
+        {
+            "id": "549fd711-4dde-404b-88d1-a5462c38512e",
+            "image": null,
+            "name": "DynaPro AT2 (RF11)",
+            "description": "The Hankook DynaPro AT2 (RF11) is an all-terrain tire designed for light trucks and SUVs, offering a balance of on-road comfort and off-road capabilities. Its tread pattern enhances traction on various surfaces, making it suitable for both urban and rugged environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "93aa9803-ed52-4472-b02c-47187d5b1a26",
+            "image": null,
+            "name": "Little Tikes First Slide with Safety Grip",
+            "description": "The Little Tikes First Slide with Safety Grip is a beginner-friendly slide designed for young children, featuring safety grips to ensure secure climbing and sliding.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        }
+    ]
+}

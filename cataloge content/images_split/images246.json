@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f45f5b28-d29b-47c5-83d4-57ebf9a69dce",
+            "image": null,
+            "name": "Sonax Ceramic Coating",
+            "description": "Sonax Ceramic Coating is a car care product designed to provide long-lasting protection and shine to vehicle surfaces through a durable ceramic layer that resists environmental contaminants.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        },
+        {
+            "id": "8eae3d58-9cad-4e26-9cc3-1508d95ac93a",
+            "image": null,
+            "name": "Mitsubishi Outlander PHEV (2017 Facelift)",
+            "description": "The Mitsubishi Outlander PHEV (2017 Facelift) is a plug-in hybrid SUV designed to offer efficient fuel consumption and versatility for families, featuring advanced technology and a spacious interior.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "1cbed6a0-27ac-4763-b0ce-a5eb0486603f",
+            "image": null,
+            "name": "Lexus IS",
+            "description": "The Lexus IS is a series of luxury compact sedans known for their blend of performance, comfort, and advanced technology. First introduced in 2001, it aims to provide a dynamic driving experience while maintaining high standards of quality and refinement.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "54ba5f64-4edd-4db0-b541-3557aa92a46b",
+            "image": null,
+            "name": "Lexus SC",
+            "description": "The Lexus SC is a luxury coupe that combines elegant design with performance, offering a comfortable driving experience tailored for enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "c5fcd225-a64d-427f-9419-229723e92f7f",
+            "image": null,
+            "name": "Lexus GS",
+            "description": "The Lexus GS is a line of luxury mid-size cars known for their performance, comfort, and advanced technology, catering to drivers seeking a combination of sophistication and driving excitement.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "ab0e2e54-9c20-417a-8f32-14f001bac29c",
+            "image": null,
+            "name": "Lexus LS 460",
+            "description": "The Lexus LS 460 is a full-size luxury sedan known for its advanced technology, refined comfort, and smooth performance. It aims to provide a premium driving experience with emphasis on elegance and reliability.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "21cece54-115e-47a6-bdf0-e97baa4b1cc6",
+            "image": null,
+            "name": "Lexus GS 450h",
+            "description": "The Lexus GS 450h is a luxury hybrid sedan that combines performance with eco-friendliness, featuring a sophisticated drive system and refined interior.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "bc80782b-7f61-4b0f-897b-8d4c68d561f5",
+            "image": null,
+            "name": "Lexus IS 250",
+            "description": "The Lexus IS 250 is a luxury compact car that emphasizes a balance of performance and comfort, featuring a refined interior and advanced technology aimed at enhancing the driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "976aff9b-4109-4f57-98f0-10e06efcdb04",
+            "image": null,
+            "name": "Lexus IS 350",
+            "description": "The Lexus IS 350 is a luxury sedan that combines performance and comfort, featuring a powerful V6 engine and a distinctive design. It is part of Lexus's IS lineup, aimed at providing a sporty driving experience while maintaining high levels of refinement and technology.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "55407ee8-f5d1-48ee-8a8d-8e7a9a59aca5",
+            "image": null,
+            "name": "Lexus ES 350",
+            "description": "The Lexus ES 350 is a mid-size luxury sedan known for its comfortable ride, spacious interior, and reputation for reliability. Launched in 2007, it embodies the Lexus commitment to quality and refinement.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "07833748-12ea-4008-93eb-bfe8ad09fc05",
+            "image": null,
+            "name": "Lexus RX 350",
+            "description": "The Lexus RX 350 is a luxury midsize SUV, known for its comfort, reliability, and advanced safety features, designed to provide a premium driving experience for families and individuals.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "5cf1d9c5-e37c-4fec-90fc-338cffdd8b36",
+            "image": null,
+            "name": "Lexus HS",
+            "description": "The Lexus HS is a premium hybrid sedan that was first released in 2009, designed to provide a balance of luxury, efficiency, and environmentally-conscious driving.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "44600ef4-f87a-402e-a4f0-2a0a9bdcfd8a",
+            "image": null,
+            "name": "Lexus RC",
+            "description": "The Lexus RC is a luxury coupe that combines performance with refined design, aimed at providing an exhilarating driving experience along with high levels of comfort and technology.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "fcfa7f9e-99b8-41e5-bcdb-b7e9bf39540e",
+            "image": null,
+            "name": "Lexus GS F",
+            "description": "The Lexus GS F is a high-performance luxury sedan designed to deliver a blend of sportiness and elegance, featuring a powerful V8 engine and performance-oriented technologies.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "6f5e5f6b-a51d-468b-947c-e147d92da3d9",
+            "image": null,
+            "name": "Lexus LC",
+            "description": "The Lexus LC is a luxury grand tourer first introduced in 2016, known for its striking design, high-quality interior, and powerful performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "5a805042-a17f-48bd-a9db-31a6227f9d3b",
+            "image": null,
+            "name": "Michelin Primacy",
+            "description": "The Michelin Primacy is a line of premium tires designed for superior comfort, improved fuel efficiency, and excellent handling for passenger vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "568911c9-907a-4a3a-a8e1-b1dc0f70968c",
+            "image": null,
+            "name": "Michelin Pilot Sport",
+            "description": "The Michelin Pilot Sport series is designed for high-performance vehicles, offering enhanced grip, precision handling, and responsiveness for sporty driving experiences.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "fee00004-6599-405f-94bd-3feba546896f",
+            "image": null,
+            "name": "Michelin Energy Saver",
+            "description": "The Michelin Energy Saver is a line of tires designed to enhance fuel efficiency and provide a balance of longevity and comfort, making it suitable for everyday driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "2d961f94-8f0d-4498-aefc-691c55a62927",
+            "image": null,
+            "name": "Autoglym Ultra High Definition",
+            "description": "The Autoglym Ultra High Definition series consists of advanced car care products designed to provide exceptional cleaning, protection, and finish for automotive paintwork.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "b50e749a-74bb-43bf-956a-e10885c85a46",
+            "image": null,
+            "name": "Autoglym Polar Series",
+            "description": "The Autoglym Polar Series is a range of car care products designed for efficient wash and detailing, emphasizing quick and effective cleaning with minimal effort and maximum water repellence.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "2b0623f0-67f0-4d4f-90d2-c77361a7a7cd",
+            "image": null,
+            "name": "Autoglym Rapid Ceramic Spray",
+            "description": "Autoglym Rapid Ceramic Spray is a car care product designed to provide a durable ceramic protection layer while enhancing the vehicle's shine. This easy-to-use spray is formulated to deliver strong hydrophobic properties and long-lasting protection against environmental contaminants.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "573877e6-c50d-4f88-ae02-26bb0f600e90",
+            "image": null,
+            "name": "Britax Römer ADVANSAFIX III SICT",
+            "description": "The Britax Römer ADVANSAFIX III SICT is a versatile car seat designed for children from approximately 9 months to 12 years, featuring advanced safety technologies and multiple positioning options for optimal comfort and protection during travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "829d1358-f612-46f7-8b58-8304e768bb27",
+            "image": null,
+            "name": "Britax Römer KIDFIX III S",
+            "description": "The Britax Römer KIDFIX III S is a highback booster seat designed for children aged 4 to 12 years, prioritizing safety and comfort during car travel with features such as a SecureGuard for enhanced safety and a comfortable reclining seat.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "3456396d-ca6b-48ad-a18f-eb5f9243a631",
+            "image": null,
+            "name": "Britax Römer MAX-WAY PLUS",
+            "description": "The Britax Römer MAX-WAY PLUS is a convertible car seat designed for children transitioning from rear-facing to forward-facing positions, offering advanced safety features and improved comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "83bd9f63-5c0e-4b8c-9878-9a98b4430f10",
+            "image": null,
+            "name": "Britax Römer DUALFIX i-SIZE",
+            "description": "The Britax Römer DUALFIX i-SIZE is a versatile baby car seat designed for safety and comfort, suitable for use from birth up to approximately 4 years of age with a 360-degree rotation feature for easy access and installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "879cbb0e-7b0c-4777-9aec-5f3f43be5bb6",
+            "image": null,
+            "name": "Britax Römer Dualfix iSENSE",
+            "description": "The Britax Römer Dualfix iSENSE is a versatile baby seat designed for safety and comfort, featuring a 360-degree rotation for easy access and installation. It is suitable for use from birth to approximately 4 years of age.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "fb4b252a-0216-46ee-816e-b775b6c7e002",
+            "image": null,
+            "name": "Britax Römer Kidfix i-Size",
+            "description": "The Britax Römer Kidfix i-Size is a high-back booster seat designed to provide secure and comfortable travel for children as they grow, meeting the latest i-Size safety standards.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "cf7029ff-d718-4a4e-98d8-5c9bacceeaf2",
+            "image": null,
+            "name": "Britax Römer Advansafix i-Size",
+            "description": "The Britax Römer Advansafix i-Size is a versatile car seat designed to accommodate children from approximately 15 months to 12 years, providing safety and comfort as they grow. It features advanced safety technology and is designed for easy installation in vehicles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "3af0e856-6b75-43d4-979e-9b54e4ab531c",
+            "image": null,
+            "name": "Britax Römer BELUGA 2",
+            "description": "The Britax Römer BELUGA 2 is a versatile baby seat designed to provide safety and comfort for infants and toddlers, featuring a modular system for easy installation and adjustment as your child grows.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "a55295c3-945a-46c2-bc96-39b35b20f586",
+            "image": null,
+            "name": "Britax Römer Baby-Safe 3 i-Size",
+            "description": "The Britax Römer Baby-Safe 3 i-Size is an infant car seat designed to provide safety and comfort for infants during travel. It meets the latest safety standards and features a base that allows for easy installation and adjustment.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        }
+    ]
+}

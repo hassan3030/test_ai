@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "540f3e78-8471-4c34-8e97-4556391d33b0",
+            "image": null,
+            "name": "Sony Xperia 5 III",
+            "description": "The Sony Xperia 5 III is a premium smartphone designed for photography enthusiasts and multimedia consumption, featuring advanced camera technology and a high-quality display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "6b7c2124-a60c-4d4f-8cd6-a21721e86b4c",
+            "image": null,
+            "name": "Renault Captur",
+            "description": "The Renault Captur is a compact SUV that combines style, comfort, and practicality, designed for urban driving while providing versatility for adventurous outings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "eb2d058f-6e32-4acf-afa4-8d015db9bbe3",
+            "image": null,
+            "name": "Volvo XC70",
+            "description": "The Volvo XC70 is a versatile SUV that blends the features of a station wagon with off-road capabilities, offering spaciousness and safety, making it suitable for both urban and rural environments.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "756d55e3-e430-4e36-b44d-eb7fcff2371d",
+            "image": null,
+            "name": "Volkswagen Passat CC",
+            "description": "The Volkswagen Passat CC is a four-door coupe that combines the practicality of a sedan with the sleek design of a coupe, offering a stylish yet comfortable driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "f26f2d6c-6a00-4166-8ccc-ee4ea42a150d",
+            "image": null,
+            "name": "Lenovo Yoga 9i",
+            "description": "The Lenovo Yoga 9i is a premium 2-in-1 laptop designed for versatility and performance, featuring a touchscreen display and a flexible hinge for multiple usage modes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "7a84dbd0-126f-4ca1-8387-190eee666aa4",
+            "image": null,
+            "name": "Sony ZV-E10",
+            "description": "The Sony ZV-E10 is a mirrorless camera designed for vlogging and content creation, featuring a compact design and user-friendly features tailored for video creators.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "91c4bbb9-2cbe-4939-981a-c272f67884b7",
+            "image": null,
+            "name": "Yoga 7i Gen 7",
+            "description": "The Lenovo Yoga 7i Gen 7 is a versatile 2-in-1 laptop designed for productivity and entertainment, featuring a flexible hinge that allows for multiple usage modes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "9794f169-0ec6-4f11-bf15-5649933e8021",
+            "image": null,
+            "name": "Citroën C2",
+            "description": "The Citroën C2 is a compact car that was produced to offer a combination of style, agility, and practicality for urban driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "f632b7f5-f9e6-4cef-8b55-6d912a957262",
+            "image": null,
+            "name": "Lumix GX9",
+            "description": "The Panasonic Lumix GX9 is a compact mirrorless camera designed for photography enthusiasts, offering versatile shooting options and high-quality image capture with a user-friendly interface.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "a8879735-339c-4478-8c7a-44353e041fa7",
+            "image": null,
+            "name": "Bosch Brake Systems",
+            "description": "Bosch Brake Systems are designed to enhance vehicle safety and control by providing reliable and high-performance braking components.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "f8d97803-8afc-4353-9b60-e709352d9815",
+            "image": null,
+            "name": "MG4 Electric",
+            "description": "The MG4 Electric is a compact electric vehicle released by MG Motors in 2023, designed for efficiency and performance in urban transportation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "94fe9ee7-03b4-4015-9ed8-20bef1071ad4",
+            "image": null,
+            "name": "Bajaj Discover 125",
+            "description": "The Bajaj Discover 125 is a commuter motorcycle that combines fuel efficiency and performance, targeting urban riders seeking a reliable mode of transportation since its launch in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "b02c5529-90c7-43e7-a81a-e07ce81e2b22",
+            "image": null,
+            "name": "Dell XPS 13 (9380)",
+            "description": "The Dell XPS 13 (9380) is a premium ultrabook designed for portability and performance, featuring a compact design with high-performance hardware to cater to professionals and everyday users alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c1cf4db0-fc8f-4e73-a63e-01982a5b8639",
+            "image": null,
+            "name": "MacBook Pro (M1, 2020)",
+            "description": "The Apple MacBook Pro (M1, 2020) is a high-performance laptop designed for professionals and creators, featuring the Apple M1 chip for enhanced processing power and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "c47ab480-2a32-482f-aa78-ca8767fba68d",
+            "image": null,
+            "name": "BMW 6 Series (G32)",
+            "description": "The BMW 6 Series (G32) is a luxury grand tourer that combines sporty performance with refined comfort and advanced technology, aimed at providing an exceptional driving experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "d10bec4f-509c-445f-a662-687750797f7e",
+            "image": null,
+            "name": "LUMIX G Series",
+            "description": "The Panasonic LUMIX G Series is a line of mirrorless cameras designed for photographers seeking high-quality imaging performance in a compact form, ideal for both enthusiasts and professional use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "14bb47ea-806e-4c6f-b68c-5d31e3231fde",
+            "image": null,
+            "name": "Lenovo Legion Y720",
+            "description": "The Lenovo Legion Y720 is a gaming laptop series released in 2017, designed to deliver high-performance computing with immersive graphics and sound for an enhanced gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "2dd13695-dc6b-4ec8-a33d-af75696a7384",
+            "image": null,
+            "name": "Geolandar A/T-S",
+            "description": "The Yokohama Geolandar A/T-S is an all-terrain tire designed for light trucks and SUVs, offering a balanced performance for both on-road comfort and off-road capability.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "47effa46-97a3-4cdf-9a2e-bfa854f22eac",
+            "image": null,
+            "name": "Alienware m15",
+            "description": "The Dell Alienware m15 is a high-performance gaming laptop designed to deliver immersive gaming experiences with advanced graphics and intuitive cooling technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "496963e0-bf17-4c01-bccb-ebec8c60d33c",
+            "image": null,
+            "name": "Chevrolet Aveo (2004 Generation)",
+            "description": "The Chevrolet Aveo (2004 Generation) is a subcompact car designed to offer practicality and efficiency, catering primarily to budget-conscious consumers seeking reliable and fuel-efficient transportation.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "4eaab619-2d80-48bd-8856-3b64772fe811",
+            "image": null,
+            "name": "Renault Kiger",
+            "description": "The Renault Kiger is a compact SUV designed for urban mobility, combining modern styling with practicality and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "4f15f9be-7a05-4137-8964-ced7bcb5718e",
+            "image": null,
+            "name": "Hero Karizma",
+            "description": "The Hero Karizma is a series of motorcycles launched by Hero MotoCorp in 2001, known for its sporty design and reliable performance, making it a popular choice among enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "55c2a48b-8110-4867-aa29-2701f2093722",
+            "image": null,
+            "name": "ThinkPad X390",
+            "description": "The Lenovo ThinkPad X390 is a business-oriented laptop designed for professionals who need portability, durability, and performance in a lightweight form factor.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "5e8da214-a476-421a-a009-f612c5ba41aa",
+            "image": null,
+            "name": "LEGO Super Mario",
+            "description": "LEGO Super Mario is an interactive building toy series that combines physical LEGO sets with digital gameplay, allowing users to create their own Mario levels and experience adventures with the iconic character.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "d6d0d420-594c-482f-ba7e-40d6488fc311",
+            "image": null,
+            "name": "LEGO Creator 3in1",
+            "description": "The LEGO Creator 3in1 series allows builders to create three different models from a single set, encouraging creativity and imaginative play through versatile construction options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "be8460a2-b4cd-42c9-8493-fc3509fd3ed8",
+            "image": null,
+            "name": "Kite",
+            "description": "The Magis Kite series features a collection of chairs characterized by their whimsical design and lightweight construction, making them suitable for both indoor and outdoor use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Magis"
+            }
+        },
+        {
+            "id": "19ad9306-8558-43d2-8e4a-1e2e019589b8",
+            "image": null,
+            "name": "Thule EnRoute",
+            "description": "The Thule EnRoute series is designed for versatile, everyday use, combining functionality and comfort in a range of bags suitable for both commuting and travel.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "60a76c69-1a32-4695-addd-1eb8af2e313b",
+            "image": null,
+            "name": "Avid ENVigor",
+            "description": "The Yokohama Avid ENVigor is an all-season tire designed to provide a balance of performance, comfort, and durability for passenger vehicles. It features a specialized tread pattern for enhanced traction and stability in various weather conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "7c9a783d-2906-4d37-b89a-62382d7eef30",
+            "image": null,
+            "name": "Ventus",
+            "description": "The Hankook Ventus series is designed for high-performance tires that provide excellent grip and handling in various driving conditions, prioritizing safety and driving comfort.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "7d09eead-5972-4201-ad01-6fca47c17e15",
+            "image": null,
+            "name": "Yokohama BluEarth AE-01",
+            "description": "The Yokohama BluEarth AE-01 is a tire series designed for fuel efficiency and reduced environmental impact, providing a balance of performance and sustainability for everyday driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        }
+    ]
+}

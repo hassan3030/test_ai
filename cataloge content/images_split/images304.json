@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8e9534d9-63bf-42de-9f97-16f32eaeeb3b",
+            "image": null,
+            "name": "Simoniz Shield",
+            "description": "Simoniz Shield is a series of car care products designed to protect and maintain the vehicle's exterior. Its key features include protective coatings and cleaning solutions that enhance the durability and appearance of automotive surfaces.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "610d34e3-d038-4bed-a02f-81bc8b055fa6",
+            "image": null,
+            "name": "Simoniz Shine Shield",
+            "description": "The Simoniz Shine Shield series includes a range of car care products designed to protect and enhance the appearance of your vehicle's paintwork. Its key traits include durability, ease of application, and a high-gloss finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "ec84758a-4182-4d11-a740-c6858639194a",
+            "image": null,
+            "name": "Tom Ford RTW Spring/Summer 2016 Collection",
+            "description": "The Tom Ford RTW Spring/Summer 2016 Collection features a selection of luxurious women's clothing that emphasizes elegance and contemporary style, showcasing Tom Ford's signature design aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "541eb4f0-ba81-4730-a379-4af1487fa3e9",
+            "image": null,
+            "name": "Seal",
+            "description": "The BYD Seal is an electric vehicle series designed to offer a balance of performance, efficiency, and advanced technology. It aims to provide a sustainable transportation solution without compromising on driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "9a6b7d9d-6a33-4de4-84f7-009e11169f12",
+            "image": null,
+            "name": "TeraStation",
+            "description": "The Buffalo TeraStation series offers reliable and scalable network storage solutions aimed at small to medium-sized businesses, providing data protection and secure backup capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Buffalo"
+            }
+        },
+        {
+            "id": "70836e66-3bd1-4f50-9116-8735cb29d9f5",
+            "image": null,
+            "name": "Oppo F1 Plus",
+            "description": "The Oppo F1 Plus is a smartphone designed for enhanced photography, featuring a 16 MP front camera and a sleek design. It was released in 2016 and is part of Oppo's F series, which focuses on camera capabilities and stylish aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "6e56a387-f503-40ee-be73-da279d6f6fa8",
+            "image": null,
+            "name": "Oppo F5",
+            "description": "The Oppo F5 is a smartphone released in 2017, known for its focus on selfies with a 20MP front camera and its Full HD display, aimed at the mid-range market segment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "f13a7318-5f62-42ad-a3b0-5535c3001be2",
+            "image": null,
+            "name": "Frugi Spring/Summer 2018 Collection",
+            "description": "The Frugi Spring/Summer 2018 Collection offers a range of colorful and playful kids clothes designed for comfort and durability, featuring organic cotton fabrics and whimsical prints.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "9a55490d-d27a-497f-a9dc-fdd91f04f851",
+            "image": null,
+            "name": "Oppo A95",
+            "description": "The Oppo A95 is a smartphone focused on delivering a balance of performance and stylish design, catering to users seeking reliable everyday functionality and a modern aesthetic.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "2e9f24a2-8a39-4bc1-85f0-96e39df5f0b9",
+            "image": null,
+            "name": "Whirlpool WMC20005YB",
+            "description": "The Whirlpool WMC20005YB is a compact countertop microwave designed for efficient cooking and reheating with a sleek design that fits easily into smaller spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "bcab6e77-499f-4196-952b-2c8c3442b933",
+            "image": null,
+            "name": "Sector 9 Lookout",
+            "description": "The Sector 9 Lookout series is designed for cruising and carving, featuring a drop-through deck design that provides stability and ease of use for riders of all skill levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "88ca4a87-087b-4ec1-831a-adf1c856829b",
+            "image": null,
+            "name": "Petit Bateau Fall/Winter 2020 Collection",
+            "description": "The Petit Bateau Fall/Winter 2020 Collection features a range of comfortable and stylish kids' clothing designed for the colder months, emphasizing quality materials and classic designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "6bad56ab-82d3-44eb-a4a4-604273bcf732",
+            "image": null,
+            "name": "Turtle Wax Wax & Dry",
+            "description": "Turtle Wax Wax & Dry is a series of car care products designed to provide an easy way to wax and dry vehicles in one step, enhancing shine and protection.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "7c51e3bd-7a9e-4d1f-a349-8a8791697598",
+            "image": null,
+            "name": "Bissell SpinWave",
+            "description": "The Bissell SpinWave series features innovative floor cleaning solutions designed to clean and scrub hard floors effectively. It combines vacuuming and mopping capabilities to simplify the cleaning process.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "c289f2f5-e2c9-4f7a-b468-710fcf08c08b",
+            "image": null,
+            "name": "Häcker Küchen SYSTEMAT",
+            "description": "Häcker Küchen SYSTEMAT is a range of modern kitchen tables designed to offer both functionality and aesthetic appeal, catering to a variety of dining and cooking spaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Häcker Küchen"
+            }
+        },
+        {
+            "id": "c8e286a4-76c7-4973-a14c-f9f82f965bab",
+            "image": null,
+            "name": "Penguin Young Readers",
+            "description": "Penguin Young Readers is a series published by Puffin Books that offers engaging, leveled reading materials designed to promote literacy and a love of reading in young children, helping to build foundational reading skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Puffin Books"
+            }
+        },
+        {
+            "id": "28a2b3bc-e3b6-49ba-ab36-d8d64f445675",
+            "image": null,
+            "name": "FurReal Friends Big Wags",
+            "description": "FurReal Friends Big Wags is a series of interactive pet toys designed for children, featuring lifelike movements and sounds that encourage imaginative play and companionship.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "9cb518da-1c2b-4561-8120-d443983c60d4",
+            "image": null,
+            "name": "Mothers Speed Polish",
+            "description": "Mothers Speed Polish is a car care product designed to provide a quick and effective way to enhance the shine of automotive paint while also offering minor scratch and swirl mark removal.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "a43869b9-4b83-4b2e-a864-964d77bbdbdd",
+            "image": null,
+            "name": "FurReal Friends GoGo My Walkin' Pup",
+            "description": "FurReal Friends GoGo My Walkin' Pup is an interactive toy that simulates a dog that walks and responds to commands, designed to provide a playful and engaging companionship experience for children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "6e461ecd-d531-4f53-b1be-5803f62846f9",
+            "image": null,
+            "name": "Raleigh Motus",
+            "description": "The Raleigh Motus series consists of electric bikes designed for comfortable urban commuting and recreational riding. Known for their sturdy construction and reliable electric assistance, they cater to a range of riders seeking a versatile cycling experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Raleigh Bikes"
+            }
+        },
+        {
+            "id": "34f8ae34-6f77-427c-b842-be48d70ef6bf",
+            "image": null,
+            "name": "Infinix Hot 30",
+            "description": "The Infinix Hot 30 series is a range of budget-friendly smartphones released in 2023, designed to provide essential features and reliable performance for everyday users.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "28156be1-d4cb-4f16-82b7-39af3b643f9b",
+            "image": null,
+            "name": "Reference Pure",
+            "description": "The Pearl Reference Pure series is designed for professional drummers seeking exceptional sound quality and advanced tuning capabilities, featuring a blend of premium materials and innovative construction techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "71cb9475-acf9-4212-a4e3-e04df3ccd77d",
+            "image": null,
+            "name": "Mirror Glaze",
+            "description": "Meguiar's Mirror Glaze series offers professional-grade car care products designed to enhance the appearance of vehicles while providing protection and long-lasting shine.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "b0aa8a77-355a-470c-828c-612d347c7a98",
+            "image": null,
+            "name": "Santa Cruz 2023 Complete Skateboards",
+            "description": "The Santa Cruz 2023 Complete Skateboards series features high-quality complete skateboards designed for skaters of all levels, offering a blend of performance, stability, and style.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "cd101660-8453-498c-bec3-5601a573f058",
+            "image": null,
+            "name": "Tom Ford FT0494",
+            "description": "The Tom Ford FT0494 sunglasses are a luxurious eyewear option designed to provide protection and style. Known for their sophisticated design, they feature a combination of high-quality materials and craftsmanship.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "1d9a2f90-e4b9-4673-b316-606768899f67",
+            "image": null,
+            "name": "Han EV",
+            "description": "The BYD Han EV is a premium electric sedan designed for luxury and performance, showcasing advanced technology and sustainability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "6b27c10b-e247-4b4c-b4e4-d16f87bdb4e2",
+            "image": null,
+            "name": "Song Pro",
+            "description": "The BYD Song Pro is a compact SUV known for its modern design and advanced technology features, primarily aimed at providing a comfortable and efficient driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "d6c6bafa-f596-4107-86d1-a51f86fe61f0",
+            "image": null,
+            "name": "Decade Maple",
+            "description": "The Pearl Decade Maple series is a collection of musical instruments designed for drummers, featuring maple shells that offer a warm and focused tone, making them suitable for a variety of music styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "3f6bf594-bcfd-4360-955d-5b9f3c67705e",
+            "image": null,
+            "name": "Dirt Devil Power Express",
+            "description": "The Dirt Devil Power Express is a lightweight and compact vacuum cleaner series designed for convenient cleaning of both carpets and hard floors, featuring powerful suction capabilities for effective debris removal.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "a53b3eb2-52f2-4041-a6ea-5e47a7187c27",
+            "image": null,
+            "name": "MagnaFlow Stainless Steel Exhaust Systems",
+            "description": "The MagnaFlow Stainless Steel Exhaust Systems are designed to enhance the performance and sound of your vehicle, providing higher exhaust flow and improved engine efficiency using durable stainless steel construction.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        }
+    ]
+}

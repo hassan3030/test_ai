@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "74270911-dc09-4f7c-ac48-30e9a4263682",
+            "image": null,
+            "name": "Sportster S",
+            "description": "The Harley-Davidson Sportster S is a modern cruiser motorcycle that blends classic styling with cutting-edge technology and performance, developed for riders seeking both comfort and agility.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "d5cddfed-ab5f-434d-8de0-077c8d0ac7a7",
+            "image": null,
+            "name": "Harley-Davidson Pan America 1250",
+            "description": "The Harley-Davidson Pan America 1250 is an adventure touring motorcycle designed for versatility and comfort on various terrains, offering a powerful engine and advanced technology for both on and off-road riding.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "897a8c16-6fc9-4d5c-981a-c988931ec1cb",
+            "image": null,
+            "name": "Nightster",
+            "description": "The Harley-Davidson Nightster is a motorcycle series known for its modern design elements blended with classic Harley styling, offering agile handling and a powerful performance for riders seeking a versatile and expressive riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "6336470f-2bb0-4623-a66f-3bec2905334f",
+            "image": null,
+            "name": "Low Rider ST",
+            "description": "The Harley-Davidson Low Rider ST is a stylish cruiser motorcycle designed for long-distance rides, featuring a comfortable riding position and modern technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "139db4bd-c115-44ff-8b6f-35d6a7b5900a",
+            "image": null,
+            "name": "CVO Road Glide",
+            "description": "The Harley-Davidson CVO Road Glide is a premium touring motorcycle known for its powerful performance, advanced technology, and luxurious features, designed for long-distance rides and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "3dcd40ad-a948-4615-9201-675ad0026e55",
+            "image": null,
+            "name": "CVO Road Glide 2023",
+            "description": "The Harley-Davidson CVO Road Glide 2023 is a premium touring motorcycle known for its advanced technology, powerful engine, and distinctive style, designed for long-distance riding comfort and performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "444d4484-8fb2-457d-a2e3-426f70cff8ac",
+            "image": null,
+            "name": "Cocoon",
+            "description": "The Cocoon series by Ligne Roset is a collection of contemporary sofas designed with a focus on comfort and soft, enveloping forms that enhance relaxation in living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "e080bea8-2309-4b75-91d2-fad5c60feb6e",
+            "image": null,
+            "name": "Noe",
+            "description": "The Noe series by Ligne Roset features a modern sofa design characterized by elegant lines and a versatile aesthetic, aiming to provide comfort and style for contemporary living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "92584637-1f2d-4187-9031-055f7f90c8e2",
+            "image": null,
+            "name": "Yamaha YZF-R6",
+            "description": "The Yamaha YZF-R6 is a high-performance supersport motorcycle designed for agile handling and powerful acceleration, optimized for track and street use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "9b2f0c60-51d1-4ce0-9144-539ad74b8e77",
+            "image": null,
+            "name": "Milo",
+            "description": "The Milo series by Ligne Roset features contemporary sofas designed for comfort and style, emphasizing clean lines and adaptability to various living spaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "7327ffff-06d7-448d-a2eb-18dac0bb5ca3",
+            "image": null,
+            "name": "Cassina I Maestri",
+            "description": "The Cassina I Maestri series offers a range of iconic sofas designed to blend traditional craftsmanship with modern aesthetics, highlighting the work of celebrated designers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        },
+        {
+            "id": "c735521a-0c22-41d2-87be-beefcfeebef1",
+            "image": null,
+            "name": "Superleggera",
+            "description": "The Cassina Superleggera series offers a lightweight yet sturdy chair design, showcasing innovative craftsmanship and timeless aesthetics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        },
+        {
+            "id": "b7f3710d-14dc-4e3e-8488-b11a30c93db4",
+            "image": null,
+            "name": "Maralunga",
+            "description": "The Cassina Maralunga series is a collection of sofas designed for comfort and flexibility, featuring a distinctive adjustable backrest that caters to various lounging positions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        },
+        {
+            "id": "f1854e05-f6e9-40f9-b5a9-718472d9d139",
+            "image": null,
+            "name": "Fjords Kubo",
+            "description": "The Fjords Kubo series is a collection of ergonomic chairs designed for comfort and relaxation, featuring contemporary aesthetics and adjustable elements to cater to individual preferences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fjords"
+            }
+        },
+        {
+            "id": "ca5cbc7e-2ba4-4d06-b39d-5388ba3d3573",
+            "image": null,
+            "name": "Fjords New Nordic",
+            "description": "The Fjords New Nordic series offers modern chairs designed for comfort and support, blending contemporary aesthetics with ergonomic functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fjords"
+            }
+        },
+        {
+            "id": "fccfeb63-601e-4a34-b1f4-97401a333690",
+            "image": null,
+            "name": "The Little Friend Table",
+            "description": "The Little Friend Table by Fritz Hansen is a versatile side table that features a compact design, making it suitable for various spaces. Its minimalist aesthetic combines functionality with a playful touch, serving as a perfect companion for modern living rooms or bedrooms.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "5bb668aa-91d0-44de-89e3-2ae1184c656a",
+            "image": null,
+            "name": "Fritz Hansen J39 Chair",
+            "description": "The Fritz Hansen J39 Chair is a classic wooden chair designed for both comfort and utility, embodying a harmonious blend of simplicity and functionality since its release in 2020.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "39389a1a-add4-47c5-bfd7-a60f455c9846",
+            "image": null,
+            "name": "Fritz Hansen N01 Chair",
+            "description": "The Fritz Hansen N01 Chair is a modern seating solution designed for versatility and comfort, featuring a minimalist aesthetic that complements various interior styles. Launched in 2020, it embodies craftsmanship and innovative design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "47ffa7d6-466a-4c36-9887-4c85f26b50c4",
+            "image": null,
+            "name": "Seagate Backup Plus Slim",
+            "description": "The Seagate Backup Plus Slim series consists of portable external hard disks designed for easy file storage and backup, offering a compact design and high-capacity storage options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "183136f0-ed23-41f9-8dd5-ddf26933a15e",
+            "image": null,
+            "name": "Seagate Backup Plus Ultra Slim",
+            "description": "The Seagate Backup Plus Ultra Slim is a portable external hard drive designed for data backup and storage, featuring a sleek and lightweight design for easy transport.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "09bfd48b-e997-4e83-80af-fe10d03a7144",
+            "image": null,
+            "name": "Seagate Expansion Desktop",
+            "description": "The Seagate Expansion Desktop series provides reliable external storage solutions designed for easy file management and backup with high capacity options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "18c3c0ce-20d2-44fa-950d-23280ea10b3a",
+            "image": null,
+            "name": "Seagate Barracuda",
+            "description": "The Seagate Barracuda series consists of traditional hard disk drives designed for consumer and business use, offering reliable storage with a range of capacities suitable for various applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "9af6761f-a9d5-4089-b923-e9a36b71c047",
+            "image": null,
+            "name": "Seagate Backup Plus",
+            "description": "The Seagate Backup Plus series consists of external hard drives that provide portable storage solutions for backing up data and sharing files easily.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "5e9b4141-f65b-4367-8a99-4728e0924b1f",
+            "image": null,
+            "name": "Seagate BarraCuda Fast SSD",
+            "description": "The Seagate BarraCuda Fast SSD is a portable solid-state drive designed for high-speed data transfer and reliable storage, offering users a compact and efficient solution for their storage needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "9084d0fa-d8bf-47a0-9eec-778edaf63b20",
+            "image": null,
+            "name": "Seagate IronWolf 12TB",
+            "description": "The Seagate IronWolf 12TB is a high-capacity hard disk drive designed for NAS (Network Attached Storage) systems, providing reliable performance and data redundancy for small to medium businesses.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "e8b44153-7474-486a-ac3b-3948c60631cb",
+            "image": null,
+            "name": "SkyHawk",
+            "description": "The Seagate SkyHawk series consists of hard disks designed specifically for surveillance applications, offering durable performance and optimized storage capabilities to support high workloads and continuous recording.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "f8346100-e662-4fae-94ee-03fb22963598",
+            "image": null,
+            "name": "Aston Martin V8 Vantage",
+            "description": "The Aston Martin V8 Vantage is a luxury sports car that combines high performance with elegant design, embodying the brand's commitment to craftsmanship and driving pleasure.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "6afb3622-5556-4742-9a04-7132527041eb",
+            "image": null,
+            "name": "Aston Martin DBS",
+            "description": "The Aston Martin DBS is a luxury grand tourer produced by Aston Martin, known for its sleek design and powerful performance. Launched in 2006, it combines style with advanced engineering to provide an exceptional driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "7e04a9d2-f14e-46da-ae9e-c166f62bb9f1",
+            "image": null,
+            "name": "Autoglym Clean Wheels",
+            "description": "Autoglym Clean Wheels is a series of car care products specifically designed to effectively clean and protect wheels from brake dust and road grime.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "c7c1f011-80f1-431f-92e5-3c8ef7e8a81d",
+            "image": null,
+            "name": "Autoglym UltraHigh Definition Range",
+            "description": "The Autoglym Ultra High Definition Range is a collection of advanced car care products designed to enhance and protect automotive finishes while providing long-lasting results.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        }
+    ]
+}

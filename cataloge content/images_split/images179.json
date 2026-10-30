@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "b8a2c09f-491e-43da-ad71-46f708afe614",
+            "image": null,
+            "name": "Land & Sea Collection",
+            "description": "The Snow Peak Land & Sea Collection features versatile camping gear designed for outdoor enthusiasts, emphasizing durability and functionality in a variety of environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "2414aca1-4703-4a90-afec-cae0542605db",
+            "image": null,
+            "name": "Snow Peak Takibi Fire and Grill",
+            "description": "The Snow Peak Takibi Fire and Grill series is designed for outdoor cooking and gatherings, combining a fire pit and grill functionality for versatile use in camping settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "2ba32e87-d647-4094-b705-968249dac617",
+            "image": null,
+            "name": "Field Barista Set",
+            "description": "The Snow Peak Field Barista Set is designed for coffee enthusiasts who enjoy brewing quality coffee in outdoor settings. This portable set includes essential tools for making espresso and coffee on camping trips.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "bbf33aa2-8c82-44e4-b3d4-dd79e1f4b84c",
+            "image": null,
+            "name": "Living Lodge",
+            "description": "The Snow Peak Living Lodge series offers high-quality camping gear designed to enhance outdoor living experiences through durable and functional design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "274a19ab-3ed7-4ed2-a868-5f61404b2a7c",
+            "image": null,
+            "name": "Snow Peak 2022 Collection",
+            "description": "The Snow Peak 2022 Collection focuses on high-quality camping gear designed to enhance outdoor experiences through durability and functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "e46fd015-c32d-4817-8975-ce5df5c553ee",
+            "image": null,
+            "name": "Woodwind",
+            "description": "The Camp Chef Woodwind series is designed for outdoor cooking enthusiasts, offering a versatile combination of wood pellet and gas grilling with options for smoking, baking, and more.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "ef56db4c-2936-4a0c-adbd-f0253ce2a08d",
+            "image": null,
+            "name": "Camp Chef Pioneer",
+            "description": "The Camp Chef Pioneer series offers a range of camping gear designed for outdoor cooking and activities, emphasizing durability and practicality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "dea04b66-d971-4d8c-9e86-ef75ba317e0a",
+            "image": null,
+            "name": "Smoke Pro SE",
+            "description": "The Camp Chef Smoke Pro SE series is designed for outdoor cooking enthusiasts, featuring high-quality pellet grills that facilitate versatile smoking and grilling experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "c94b58c3-1d5b-4d30-b383-fe2f823a50fc",
+            "image": null,
+            "name": "Outdoor Oven",
+            "description": "The Camp Chef Outdoor Oven is a portable cooking appliance designed for camping and outdoor activities, allowing users to bake, roast, and cook meals conveniently in nature with ease.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "4eccfd2d-1262-41ad-a9ef-a5295dd2f6d8",
+            "image": null,
+            "name": "Sierra Designs High Route",
+            "description": "The Sierra Designs High Route series offers lightweight and versatile camping gear, ideal for backpacking and outdoor adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Sierra"
+            }
+        },
+        {
+            "id": "b001d92b-15f8-4844-baef-8f701e52e30d",
+            "image": null,
+            "name": "Chair One",
+            "description": "The Helinox Chair One is a portable camping chair designed for lightweight and compact travel, providing comfort and support for outdoor enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "ce26cdda-6ead-4b52-810b-6f5234364afe",
+            "image": null,
+            "name": "Table One",
+            "description": "The Helinox Table One is a lightweight and compact camping table designed for outdoor use, providing a stable surface for meals and activities in various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "f3629427-512f-473a-aade-3b4da93f5495",
+            "image": null,
+            "name": "Helinox Table One Hard Top",
+            "description": "The Helinox Table One Hard Top is a lightweight and portable camping table designed for outdoor use. Its hard-top surface provides a stable area for meals, games, or other activities while camping or adventuring.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "c7a99e11-0c3c-4f90-82f8-2df85d505976",
+            "image": null,
+            "name": "Helinox Table One",
+            "description": "The Helinox Table One is a lightweight portable camping table designed for convenience and durability, making outdoor dining experiences more comfortable and enjoyable.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "883b5890-833d-4b20-8f02-361166b3c129",
+            "image": null,
+            "name": "Helinox Lite Cot",
+            "description": "The Helinox Lite Cot is a lightweight and portable camping cot designed for comfort and support during outdoor adventures. Its easy setup and durable materials make it an ideal choice for campers seeking a good night's sleep in the wilderness.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "0aa9236c-f244-4963-acdf-7c08163747ba",
+            "image": null,
+            "name": "Helinox Cot Max",
+            "description": "The Helinox Cot Max is a lightweight and portable camping cot designed for comfortable sleeping while outdoors. It is built with durable materials and provides a generous sleeping surface ideal for campers seeking a restful night’s sleep.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Helinox"
+            }
+        },
+        {
+            "id": "ae057a68-0e1f-4f1f-b8b2-5f63dcbf751e",
+            "image": null,
+            "name": "GO:KEYS",
+            "description": "The Roland GO:KEYS series is a line of portable synthesizers designed for musicians seeking a versatile and intuitive instrument for music creation, featuring a wide range of sounds and loop mixing capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "69d4d1f7-0b06-4b0d-a8d5-4158fb8d0221",
+            "image": null,
+            "name": "Mitsubishi Mirage",
+            "description": "The Mitsubishi Mirage is a subcompact car designed for fuel efficiency and urban mobility, offering a lightweight chassis and practicality for everyday driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "7a29d319-e92e-408e-8596-0bcf1ab89c4a",
+            "image": null,
+            "name": "Outlander PHEV",
+            "description": "The Mitsubishi Outlander PHEV is a plug-in hybrid SUV that combines electric and gasoline power for improved fuel efficiency and reduced emissions, catering to environmentally conscious drivers seeking versatility and space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "4f778a84-4992-4d26-a3f4-6a48ddb10ffc",
+            "image": null,
+            "name": "Eclipse Cross",
+            "description": "The Mitsubishi Eclipse Cross is a compact crossover SUV designed for urban and adventurous driving, offering a balance of performance, style, and advanced technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "b7175a95-d90c-42d7-9371-28e3801b874b",
+            "image": null,
+            "name": "Chevrolet Suburban",
+            "description": "The Chevrolet Suburban is a full-size SUV known for its spacious interior, advanced technology, and strong towing capacity, making it ideal for families and transport needs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "52fe1713-2bd1-4b48-a294-5d11e3473851",
+            "image": null,
+            "name": "Nokian Tyres Nokian One",
+            "description": "The Nokian Tyres Nokian One is an all-season tire designed for passenger cars, offering a balanced performance and safety in various weather conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "93096af3-3bae-4520-8585-bb558fd483e4",
+            "image": null,
+            "name": "Nokian Tyres One",
+            "description": "Nokian Tyres One is a tire series designed to provide excellent performance in various driving conditions, focusing on durability and safety.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "0993a7db-1764-4dba-9736-b5a333a8951a",
+            "image": null,
+            "name": "K&N 63 Series AirCharger High-Flow Air Intake System",
+            "description": "The K&N 63 Series AirCharger High-Flow Air Intake System is designed to increase horsepower and improve acceleration by allowing more air to flow into the engine, optimizing its performance.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "e3e985bf-155e-427f-8561-3a0b666ba972",
+            "image": null,
+            "name": "Secretlab TITAN Evo 2022",
+            "description": "The Secretlab TITAN Evo 2022 is a premium gaming chair designed for comfort and support during prolonged gaming sessions, featuring adjustable armrests, a multi-tilt mechanism, and high-quality materials.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "802c311b-8c2a-43e7-b419-83ef2dd7bdd5",
+            "image": null,
+            "name": "RM 27-01 Rafael Nadal",
+            "description": "The Richard Mille RM 27-01 Rafael Nadal is a limited-edition watch developed in collaboration with the professional tennis player, known for its lightweight design and exceptional shock resistance, making it suitable for high-performance sports.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Richard Mille"
+            }
+        },
+        {
+            "id": "de5dab9f-254f-4692-a5d9-e064431880f7",
+            "image": null,
+            "name": "Hisense 2020 Series Refrigerators",
+            "description": "The Hisense 2020 Series Refrigerators offer reliable cooling solutions with a focus on energy efficiency and modern design, making them suitable for a variety of kitchen styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "51e18152-ed1d-471a-a41b-e93e3627b792",
+            "image": null,
+            "name": "Mirai",
+            "description": "The Toyota Mirai is a hydrogen fuel cell electric vehicle designed to produce zero emissions by converting hydrogen into electricity, making it a pioneer in eco-friendly driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "96f4574a-bfd3-4313-9c92-29a4d4d3167b",
+            "image": null,
+            "name": "Kenmore 700 Series",
+            "description": "The Kenmore 700 Series Refrigerators offer reliable food preservation with a variety of features designed to enhance organization and energy efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1fb90bae-40e3-4987-b7d5-3be95b272bbf",
+            "image": null,
+            "name": "Haro Shredder Series",
+            "description": "The Haro Shredder Series is designed for young riders, providing a durable and versatile bike suitable for BMX and freestyle riding in skate parks and on trails.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        }
+    ]
+}

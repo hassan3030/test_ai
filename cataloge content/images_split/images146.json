@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "08e90478-9bd0-4798-9ad9-dba3cd9870c4",
+            "image": null,
+            "name": "Dome",
+            "description": "The Dome series by Pedrali features a modern chair design characterized by its elegant lines and comfortable seating, suitable for both residential and commercial spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "1fca3e1b-a13b-43cc-a8d8-9a432a8e3709",
+            "image": null,
+            "name": "Pasha",
+            "description": "The Pedrali Pasha series features a collection of elegantly designed chairs that blend modern aesthetics with comfort. Released in 2016, these chairs are ideal for both residential and commercial spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "9811e130-72fb-4ee7-99ab-5952914e98da",
+            "image": null,
+            "name": "Zody",
+            "description": "The Haworth Zody series is a collection of ergonomic office chairs designed to support the natural posture of users while providing comfort and versatility for various workspace settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Haworth"
+            }
+        },
+        {
+            "id": "054f312e-52fb-4cfd-80e8-0940a38076f5",
+            "image": null,
+            "name": "Canvas",
+            "description": "Haworth's Canvas series offers versatile office furniture designed to support various work styles and enhance collaboration in modern workspaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": {
+                "name": "Haworth"
+            }
+        },
+        {
+            "id": "f1aa5f57-024c-4330-9e6b-08205e337b91",
+            "image": null,
+            "name": "E7 Series",
+            "description": "The Flexispot E7 Series consists of height-adjustable desks designed to enhance ergonomics and promote healthier working habits with customizable settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Flexispot"
+            }
+        },
+        {
+            "id": "254b7f7a-8e09-4573-bb63-2008b6f30dc6",
+            "image": null,
+            "name": "Office Furniture Collection",
+            "description": "The Bush Business Furniture Office Furniture Collection offers a range of functional and stylish office furniture solutions designed to support productivity and organization in any workspace.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": {
+                "name": "Bush Business Furniture"
+            }
+        },
+        {
+            "id": "bc865839-c818-4f04-af19-df85bc209a95",
+            "image": null,
+            "name": "Aro",
+            "description": "The Actiu Aro series consists of versatile chairs designed to provide comfort and support in various environments. With a focus on ergonomic design and functionality, these chairs are suitable for both work and leisure settings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Actiu"
+            }
+        },
+        {
+            "id": "d8245690-5c94-4372-8505-1a6f0d95c846",
+            "image": null,
+            "name": "Crest",
+            "description": "The Actiu Crest series includes versatile chairs designed for collaborative and dynamic work environments, emphasizing comfort and adaptability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Actiu"
+            }
+        },
+        {
+            "id": "24f0ea88-e2ec-4636-8a1a-151ec857c7f1",
+            "image": null,
+            "name": "Dott",
+            "description": "The Actiu Dott series features versatile chairs designed for collaborative and dynamic workspaces, emphasizing comfort and adaptability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Actiu"
+            }
+        },
+        {
+            "id": "58c4a9f2-7f6f-4a1f-950e-af3d4fa18847",
+            "image": null,
+            "name": "Play",
+            "description": "The Actiu Play series is designed to create collaborative working environments that encourage interaction and creativity, featuring versatile and modular office furniture solutions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": {
+                "name": "Actiu"
+            }
+        },
+        {
+            "id": "20989e3f-4014-4e9f-bb8f-bdc4b7a3f365",
+            "image": null,
+            "name": "Hero Honda Achiever",
+            "description": "The Hero Honda Achiever is a motorcycle series launched in 2002, designed for reliable performance and fuel efficiency, catering to both daily commuters and casual riders.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "3ab24578-cbe6-4fa3-b3fb-2fcd13830c7d",
+            "image": null,
+            "name": "Hero Honda Passion",
+            "description": "The Hero Honda Passion is a popular motorcycle series launched in 2003, known for its fuel efficiency, reliability, and comfortable riding experience, catering primarily to daily commuters.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "d401539b-8280-45a7-af4a-98f755e72d12",
+            "image": null,
+            "name": "Hero CD Dawn",
+            "description": "The Hero CD Dawn is a commuter motorcycle introduced by Hero MotoCorp in 2005, designed for reliability and fuel efficiency, catering to everyday transportation needs.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "60630653-e5cc-4967-acc2-9d4799d7abe9",
+            "image": null,
+            "name": "Hero Honda Hunk",
+            "description": "The Hero Honda Hunk is a motorcycle produced by Hero MotoCorp, known for its muscular styling and performance-oriented features, aimed at young riders seeking an attractive and powerful commuting option.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "79df2ea5-f36e-4365-8d74-1b1687f90d99",
+            "image": null,
+            "name": "Hero Achiever",
+            "description": "The Hero Achiever is a motorcycle series designed for daily commuting, featuring a blend of style and performance ideal for urban riding.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "32f4513f-bf2e-472e-99a4-df875b9b29dc",
+            "image": null,
+            "name": "Dauphin D1",
+            "description": "The Dauphin D1 series of chairs, released in 2017, combines modern design with ergonomic support, making them suitable for both office and home environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Dauphin"
+            }
+        },
+        {
+            "id": "f6c8418e-c022-4335-8124-97d100b31ae8",
+            "image": null,
+            "name": "Sven Graphite Sofa",
+            "description": "The Sven Graphite Sofa by Gus* Modern is a contemporary seating option that combines comfort and clean lines, making it suitable for various living spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "2e8b890a-e33c-4ab6-b98f-047b5e7701bc",
+            "image": null,
+            "name": "Sven Navy Sofa",
+            "description": "The Sven Navy Sofa by Gus* Modern is designed to offer contemporary style and comfort, featuring a streamlined silhouette and plush seating.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "94a49b84-e3a2-4c0f-b50c-1749fbe0e627",
+            "image": null,
+            "name": "Gateway All-in-One PCs",
+            "description": "The Gateway All-in-One PCs combine the functionality of a desktop and the convenience of a minimalist design, making them suitable for both home and office use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "739b5f0d-43f1-4232-8575-6298efcd51bb",
+            "image": null,
+            "name": "Lenovo Legion Y720",
+            "description": "The Lenovo Legion Y720 is a gaming laptop designed for immersive gaming experiences, featuring powerful hardware and a sleek design to cater to both gamers and creative professionals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "e62b2c8c-c1da-4193-8e99-8fc9d3b8096c",
+            "image": null,
+            "name": "Lenovo Legion Tower 5i",
+            "description": "The Lenovo Legion Tower 5i is a high-performance gaming PC designed for immersive gameplay and versatile multitasking, featuring powerful hardware and advanced thermal management.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "b43045ad-0303-4fea-98d5-fc45fba5b169",
+            "image": null,
+            "name": "Lenovo Legion 5i",
+            "description": "The Lenovo Legion 5i is a gaming laptop designed for high performance and immersive gameplay, featuring advanced graphics and processing capabilities suitable for gaming enthusiasts and professionals alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "5bb4c67f-ccc8-458d-beb5-0db687dd4d53",
+            "image": null,
+            "name": "Sceptre E248W-19203R",
+            "description": "The Sceptre E248W-19203R is a 24-inch LED monitor designed for everyday use, offering a Full HD resolution and a slender profile well-suited for home or office environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "f1433260-b7ae-4666-b196-3fc307485ec2",
+            "image": null,
+            "name": "Tecno Pova 3",
+            "description": "The Tecno Pova 3 is a smartphone designed to deliver a balanced performance with a focus on gaming, showcasing a robust battery life and an immersive display experience for users seeking a reliable mobile device.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "ab7739ce-7604-4f08-9cb4-caa60e7aab43",
+            "image": null,
+            "name": "Tecno Spark 9",
+            "description": "The Tecno Spark 9 series features affordable smartphones designed to deliver essential functionalities and user-friendly experiences, making it suitable for various everyday tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "bbc15097-5248-4ad4-9fcc-0c658dd2cea2",
+            "image": null,
+            "name": "Zanco Tiny C1",
+            "description": "The Zanco Tiny C1 is a compact mobile phone designed for basic communication needs. Its small size makes it highly portable, and it is particularly suited for users seeking a straightforward, easy-to-use device.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Zanco"
+            }
+        },
+        {
+            "id": "7af55638-4034-4eeb-8e27-4818feff1a06",
+            "image": null,
+            "name": "Doro 8040",
+            "description": "The Doro 8040 is a user-friendly smartphone designed for seniors, featuring a simplified interface and essential functions to enhance communication and accessibility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "49e1fd5d-c7dc-4c7d-8495-f0bbd5fc8578",
+            "image": null,
+            "name": "Doro 8035",
+            "description": "The Doro 8035 is a smartphone designed primarily for seniors, featuring a user-friendly interface and essential functions to facilitate communication and accessibility.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "7b860452-af36-41bc-aa4f-5ea825197a52",
+            "image": null,
+            "name": "Doro 7030",
+            "description": "The Doro 7030 is a feature phone designed specifically for seniors, offering essential functions with a user-friendly interface and an easy-to-read display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Doro"
+            }
+        },
+        {
+            "id": "7afd9fd6-b802-4894-bdd3-48599d8d9fd4",
+            "image": null,
+            "name": "Schmincke Horadam UNIVERSAL",
+            "description": "Schmincke Horadam UNIVERSAL is a range of high-quality watercolor paints known for their excellent lightfastness and vibrant colors, making them suitable for both amateur and professional artists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "5b0f6f79-d74f-483f-84df-2d4b35bdab03",
+            "image": null,
+            "name": "Chery Tiggo 2",
+            "description": "The Chery Tiggo 2 is a compact SUV designed to provide a balance of comfort and usability, making it suitable for urban and off-road driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "d6a8ac66-fe5d-48c0-8378-6908b2ca6277",
+            "image": null,
+            "name": "Mi Game Controller",
+            "description": "The Mi Game Controller from Xiaomi Gaming Accessories is designed for enhancing gaming experiences on various devices, providing users with ergonomic controls and responsive feedback for a more immersive gameplay.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Xiaomi Gaming Accessories"
+            }
+        },
+        {
+            "id": "27f3449a-b053-47b9-b192-ef1535e61e7b",
+            "image": null,
+            "name": "ASTRO A40 TR",
+            "description": "The ASTRO A40 TR is a versatile gaming headset designed for competitive gaming. It features customizable speaker tags and a USB MixAmp for audio mixing and voice communication.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "dbac6acb-efaa-4210-b1e5-052a9a7bfd86",
+            "image": null,
+            "name": "GuliKit Kingpin",
+            "description": "The GuliKit Kingpin series consists of versatile controllers designed for enhancing the gaming experience across multiple platforms. Known for their ergonomic design and responsiveness, these controllers cater to both casual and professional gamers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "cb8688c9-a99e-4676-876c-5a1c4da2710e",
+            "image": null,
+            "name": "Meta Quest 3",
+            "description": "The Meta Quest 3 is a virtual reality headset released by Oculus in 2023, designed to provide immersive experiences for gaming, social interaction, and various applications in augmented and virtual reality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "0426daa9-5cfe-4e70-852a-5b359ac53f59",
+            "image": null,
+            "name": "Griot's Garage 3-in-1 Polish",
+            "description": "Griot's Garage 3-in-1 Polish is a versatile car care product designed to clean, polish, and protect your vehicle's paint in one step.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "328fb050-e243-407e-b7d7-be86dd549a42",
+            "image": null,
+            "name": "Griot's Garage Car Care Collection",
+            "description": "Griot's Garage Car Care Collection consists of premium products designed to clean, protect, and enhance the appearance of vehicles. Known for their quality and effectiveness, these products aim to provide professional-grade results for car enthusiasts and everyday users alike.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "ac933fd7-d5e8-4f79-b45f-b791f0a8903b",
+            "image": null,
+            "name": "Griot's Garage 3-in-1 Polish & Wax",
+            "description": "Griot's Garage 3-in-1 Polish & Wax is a versatile car care product designed to clean, polish, and protect your vehicle's paint in a single application.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "9aa0bc58-28c4-4f71-bdc8-55be26c72358",
+            "image": null,
+            "name": "Zymöl Cleanse",
+            "description": "Zymöl Cleanse is a series of car care products designed to effectively clean and prepare surfaces for subsequent detailing or protection treatments. Its key purpose is to remove contaminants while being gentle on surfaces.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "31bf3c0c-ac10-4d9b-93fe-bb7807c7f47f",
+            "image": null,
+            "name": "Honda CB600F",
+            "description": "The Honda CB600F is a versatile motorcycle known for its balance of performance and comfort. Released in 2008, it is designed for both daily commuting and spirited riding.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "1417be86-17d7-4f9c-99f1-d56b72bb9ff9",
+            "image": null,
+            "name": "Outlander Sport",
+            "description": "The Mitsubishi Outlander Sport is a compact SUV designed for urban and suburban driving, offering a combination of practicality, efficiency, and versatility for everyday use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "40c66ffa-4829-4122-8489-81f878ea2111",
+            "image": null,
+            "name": "Gamblin Artist Colors Oil Paints",
+            "description": "Gamblin Artist Colors Oil Paints are high-quality oil paints designed for professional artists, known for their rich pigmentation, excellent handling, and permanence.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin Artists Colors"
+            }
+        },
+        {
+            "id": "0213d41f-7fad-43a5-8c4b-e390afbe6804",
+            "image": null,
+            "name": "Zymöl Carbon Wax",
+            "description": "Zymöl Carbon Wax is a premium car care product designed to provide enhanced protection and a deep, glossy finish for automotive paint surfaces. Launched in 2005, this wax combines natural ingredients and advanced technology to enhance the aesthetic appeal of vehicles.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "250ed31e-35ca-4a81-b625-a0eac759ef2a",
+            "image": null,
+            "name": "Zymöl Glasur Wax",
+            "description": "Zymöl Glasur Wax is a premium car care product designed to provide a high-gloss finish and protect automotive paintwork. It is formulated to enhance the depth of color while providing a durable layer of protection against environmental contaminants.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "28dbb1a6-d4da-4768-b3b0-19e33c9be43b",
+            "image": null,
+            "name": "Zymöl Vintage Glaze",
+            "description": "Zymöl Vintage Glaze is a premium car care product launched in 2006, designed to provide a protective shine and enhance the appearance of vintage and classic vehicles.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "474037cf-1bb1-4ba1-bc25-28e5bec3df43",
+            "image": null,
+            "name": "Apple Watch Series 2",
+            "description": "The Apple Watch Series 2 is a smartwatch designed to help users track their fitness, monitor health metrics, and stay connected through notifications and apps. It features a built-in GPS for accurate location tracking during outdoor activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "47406ec8-6ee2-45a7-abf5-9ac95c0d8846",
+            "image": null,
+            "name": "Litetrax",
+            "description": "The Joie Litetrax series features lightweight and compact strollers designed for easy handling and portability, making them ideal for parents on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4f4ffdd7-6814-42b2-ab5f-071f423838d2",
+            "image": null,
+            "name": "GE Appliances Smart Dispenser Washing Machine",
+            "description": "The GE Appliances Smart Dispenser Washing Machine is designed to automate laundry tasks by incorporating a smart dispenser that automatically dispenses the right amount of detergent based on load size and soil level, enhancing convenience and efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "52ece5df-7a3b-47c4-a715-041c3286a2b4",
+            "image": null,
+            "name": "Geely Gleagle GX2",
+            "description": "The Geely Gleagle GX2 is a compact SUV that was launched in 2011, designed to provide a practical and economical option for urban driving and everyday use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "15413a2b-abbb-420d-add4-835df19dfa1f",
+            "image": null,
+            "name": "Movado Connect 2.0",
+            "description": "The Movado Connect 2.0 is a smartwatch series that combines classic Movado design with modern technology, offering customizable watch faces and fitness tracking capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Movado Group"
+            }
+        },
+        {
+            "id": "cf207f81-e9bd-4b51-ac5d-90c76add68e2",
+            "image": null,
+            "name": "Fisher & Paykel ActiveSmart Refrigerators",
+            "description": "The Fisher & Paykel ActiveSmart Refrigerators are designed to maintain optimal food freshness by intelligently adapting to storage needs, ensuring a seamless kitchen experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "0f1b4845-df20-41c1-91e1-3cc424ddd49c",
+            "image": null,
+            "name": "Solis 5 Stars Coffee Grinder",
+            "description": "The Solis 5 Stars Coffee Grinder is designed for coffee enthusiasts who value precision and quality in their grinding process, offering a range of grind settings for various brewing methods.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Solis"
+            }
+        },
+        {
+            "id": "d79c1daa-03fd-48d4-a84b-4d47f7bc2209",
+            "image": null,
+            "name": "Fisher & Paykel 12 Series",
+            "description": "The Fisher & Paykel 12 Series refrigerators are designed to provide optimal food preservation with advanced technology, offering convenience and efficiency in a sleek design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "a84384dc-aa81-49c7-96da-363c1b3d59cc",
+            "image": null,
+            "name": "ASTRO A50",
+            "description": "The ASTRO A50 is a wireless gaming headset designed to deliver high-quality audio and comfort for extended gaming sessions. It features advanced audio technology and customizable equalization to enhance the gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "52e40a5c-3351-476a-9838-98b81915b713",
+            "image": null,
+            "name": "GuliKit King Kong Pro",
+            "description": "The GuliKit King Kong Pro is a wireless game controller designed for compatibility with multiple platforms, offering customizable features and ergonomic design for enhanced gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "1f7dca8e-db42-4842-903d-23a04d27a258",
+            "image": null,
+            "name": "GuliKit Route Plus",
+            "description": "The GuliKit Route Plus is a gaming accessory designed to enhance connectivity and performance for gaming consoles, primarily focusing on wireless connections and extended battery life.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "ee954d28-4d3c-4ffb-9da1-075cde6a0b40",
+            "image": null,
+            "name": "GuliKit King Kong Pro 2",
+            "description": "The GuliKit King Kong Pro 2 is a versatile wireless controller designed for gaming compatibility across multiple platforms, enhancing user experience with its ergonomic design and advanced features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "a0bee2d0-481c-4b61-999e-7728cf0c6e6b",
+            "image": null,
+            "name": "Snakebyte Game:Pad",
+            "description": "The Snakebyte Game:Pad is a versatile gaming controller designed for enhanced gameplay on various platforms, offering reliable performance and ergonomic design for a comfortable gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Snakebyte"
+            }
+        },
+        {
+            "id": "cfccbd21-9177-4ea6-b481-854aabd665d4",
+            "image": null,
+            "name": "Snakebyte Head:Set",
+            "description": "The Snakebyte Head:Set is a series of gaming headsets designed to enhance the auditory experience during gameplay, featuring sound isolation and comfortable ear padding for prolonged use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Snakebyte"
+            }
+        },
+        {
+            "id": "d157637f-f3ba-4481-9988-811b0a7f2fbc",
+            "image": null,
+            "name": "Vive Pro",
+            "description": "The Vive Pro series consists of high-end virtual reality headsets designed for immersive gaming and professional applications, offering enhanced resolution and audio performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Vive"
+            }
+        }
+    ]
+}

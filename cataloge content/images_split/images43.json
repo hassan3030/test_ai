@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "id": "e5d4d963-7e6e-47a2-bcb7-c4a8b9e9388b",
+            "image": null,
+            "name": "Chanel Fall/Winter 2021 Ready-to-Wear",
+            "description": "The Chanel Fall/Winter 2021 Ready-to-Wear collection features a blend of sophisticated elegance and modern style, showcasing the brand's iconic aesthetic and craftsmanship for women's clothing.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec25af9a-b4b6-448e-b313-7bdbb15372b4",
+            "image": null,
+            "name": "Hisense Microwave Oven",
+            "description": "The Hisense Microwave Oven series offers versatile cooking solutions for convenient meal preparation, featuring various cooking modes and user-friendly controls to enhance cooking efficiency.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ecab8ffd-1c47-4467-928c-aad57a89b1f2",
+            "image": null,
+            "name": "Triumph Scrambler 1200",
+            "description": "The Triumph Scrambler 1200 is a versatile motorcycle designed for both on-road and off-road riding, featuring a powerful engine, advanced technology, and rugged styling that invokes classic scrambler aesthetics.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "ef655785-c6d3-4e40-806e-68a609c95c24",
+            "image": null,
+            "name": "Triumph Street Triple 765",
+            "description": "The Triumph Street Triple 765 is a modern naked motorcycle known for its agile handling, powerful engine, and versatile design, making it suitable for both city commuting and spirited rides on winding roads.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "774d781a-1e78-4eed-9de1-1ec4e9c6e085",
+            "image": null,
+            "name": "Nikon KeyMission 360",
+            "description": "The Nikon KeyMission 360 is an action camera series designed to capture immersive 360-degree videos and photos, enabling users to document their adventures from a unique perspective.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f816e455-d1ae-464b-ba87-3715d8714dc9",
+            "image": null,
+            "name": "Bonneville T120",
+            "description": "The Triumph Bonneville T120 is a classic British motorcycle known for its retro styling and modern engineering, designed to offer a blend of performance and comfort for both city rides and long-distance journeys.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "8b61ab51-3b56-4b1a-9eb1-0fa098194b36",
+            "image": null,
+            "name": "Juva",
+            "description": "The Joie Juva series of strollers is designed to provide a convenient and comfortable transportation solution for infants. Featuring a lightweight design, the strollers prioritize ease of use and maneuverability for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8ea7e259-179e-44dd-8753-bcba1a3172ca",
+            "image": null,
+            "name": "Gas Gas TXT 200",
+            "description": "The Gas Gas TXT 200 is a trials motorcycle designed for use in competitive and recreational trials riding. It features lightweight construction and exceptional maneuverability, focusing on technical performance in challenging terrain.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "ff790ebe-a32a-4d9c-a171-29e8fe335b02",
+            "image": null,
+            "name": "Electrolux Inspire",
+            "description": "The Electrolux Inspire series of refrigerators offers reliable cooling solutions designed for efficient food preservation, featuring user-friendly designs and practical storage options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "513c062f-dd6a-414b-8c90-90abe50d71af",
+            "image": null,
+            "name": "Electrolux Inspire Microwave",
+            "description": "The Electrolux Inspire Microwave series offers a convenient cooking solution with a focus on simplicity and efficiency, ideal for reheating and defrosting food quickly.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "961c8f90-6927-4567-86d2-4441f172f5a0",
+            "image": null,
+            "name": "Nikon D7500",
+            "description": "The Nikon D7500 is a digital single-lens reflex (DSLR) camera designed for enthusiasts, featuring a 20.9 MP sensor and advanced imaging capabilities, suitable for both photography and videography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2fa41fe5-7e4a-4049-840b-3c495efcd2c5",
+            "image": null,
+            "name": "Hisense Front Load Washing Machine",
+            "description": "The Hisense Front Load Washing Machine offers efficient washing solutions with advanced features designed to provide superior cleaning performance and energy savings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "31af3295-41ef-4116-a09a-ca5b6d52baa7",
+            "image": null,
+            "name": "Chanel 19",
+            "description": "The Chanel 19 is a contemporary bag series designed by Chanel, known for its distinctive quilted texture, mix of materials, and a modern silhouette that pays tribute to the brand's heritage. Designed for versatility, the bags can be worn in multiple ways and are crafted to blend elegance with practicality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3994374c-a747-4e5b-8771-0efa10600e1b",
+            "image": null,
+            "name": "Nikon D500",
+            "description": "The Nikon D500 is a professional-grade digital SLR camera designed for high-speed shooting and advanced autofocus capabilities, making it ideal for wildlife and sports photography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4dc6ea3c-8e8f-454d-9ed6-192a7fa05a86",
+            "image": null,
+            "name": "Canon PowerShot SX730 HS",
+            "description": "The Canon PowerShot SX730 HS is a compact digital camera designed for capturing high-quality images and videos in various settings, featuring a powerful zoom lens and user-friendly interface.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "55c1c93f-85ae-4b17-9973-6b3ea63cec9b",
+            "image": null,
+            "name": "Haier HD Series Water Heaters",
+            "description": "The Haier HD Series Water Heaters are designed to provide consistent hot water supply with energy efficiency and advanced safety features, making them a reliable choice for residential use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "974ba07b-80bc-4315-a664-c52a15253950",
+            "image": null,
+            "name": "Husqvarna 450 WR",
+            "description": "The Husqvarna 450 WR is a robust motocross motorcycle designed for off-road performance and racing, featuring a powerful engine and a lightweight frame for enhanced maneuverability.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "acda4b5a-1e29-4d48-8d4b-ee30aa33d321",
+            "image": null,
+            "name": "Razer Lancehead",
+            "description": "The Razer Lancehead series includes high-performance gaming mice designed for precision and responsiveness, ideal for gamers seeking enhanced control and comfort during gameplay.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cc40f8ea-67b6-486d-82e2-d14ff2e4591e",
+            "image": null,
+            "name": "Canon EOS R8",
+            "description": "The Canon EOS R8 is a mirrorless camera designed for both amateur and professional photographers, offering advanced imaging capabilities and versatile features for capturing high-quality photos and videos.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "69b39c21-565f-4ad4-bc43-938b0096621d",
+            "image": null,
+            "name": "Honda Pilot (1st Generation)",
+            "description": "The Honda Pilot (1st Generation) is a midsize SUV that debuted in 2001, designed to provide a spacious, family-friendly interior and versatility for both everyday use and outdoor adventures.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d8f21cc6-6c3d-47eb-a224-6fc1c50a644c",
+            "image": null,
+            "name": "Renault Kwid",
+            "description": "The Renault Kwid is a compact hatchback designed for urban driving with a focus on fuel efficiency and affordability, offering a modern design and advanced features.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "db5fd3b7-4aeb-4954-a078-6fc2d1c5446f",
+            "image": null,
+            "name": "Duster",
+            "description": "The Renault Duster is a compact SUV launched in India in 2016, known for its rugged design, spacious interior, and off-road capability, making it suitable for both urban and rural driving conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "7c28d751-d7b8-458c-92e1-3c08fc1ade6f",
+            "image": null,
+            "name": "Bully Dog Triple Dog",
+            "description": "The Bully Dog Triple Dog is a performance tuner designed to optimize fuel efficiency and improve horsepower and torque in various vehicles. It offers customizable settings and user-friendly interface for enhanced vehicle performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "7f76619a-ccd9-4691-90f7-6b9713b7505f",
+            "image": null,
+            "name": "MANN-FILTER W 911/20",
+            "description": "The MANN-FILTER W 911/20 is an oil filter designed for various automobile models, ensuring optimal engine performance by effectively removing contaminants from engine oil.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "9797e36f-1b85-4b1f-a666-976bc4bac874",
+            "image": null,
+            "name": "Xiaomi Mi Mix 2",
+            "description": "The Xiaomi Mi Mix 2 is a high-end smartphone launched in 2017, known for its innovative design featuring a nearly bezel-less display and premium build quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "a4804b6b-7dbe-4236-8ff2-6c688ebe64ba",
+            "image": null,
+            "name": "Shinko 805 Series",
+            "description": "The Shinko 805 Series is designed for adventure touring and dual-sport motorcycles, offering enhanced traction and stability on both on-road and off-road conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "c4e151e4-81a6-43e8-ad11-e40fa80497dc",
+            "image": null,
+            "name": "Škoda Rapid (facelift)",
+            "description": "The Škoda Rapid (facelift) is a compact car produced by Skoda Auto, known for its practicality, spacious interior, and efficient design, aimed at providing a reliable option for daily commuting and family needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "c7813c28-86f4-4fb4-89d0-95fd764ca1e0",
+            "image": null,
+            "name": "MANN-FILTER C 15 200",
+            "description": "MANN-FILTER C 15 200 is a high-quality air filter designed to ensure optimal engine performance by providing clean air intake, thus improving fuel efficiency and reducing emissions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "c9584fe1-8d2e-4937-8069-c80573ef993b",
+            "image": null,
+            "name": "Great Wall Wingle",
+            "description": "The Great Wall Wingle is a series of pickup trucks produced by Great Wall Motors, designed primarily for utility and off-road capabilities.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "cf0ac17d-773d-42b3-b674-772f1468bb69",
+            "image": null,
+            "name": "Haval",
+            "description": "The Haval series by Great Wall Motors is a line of SUVs designed for versatile performance and spacious interiors, aimed at providing both comfort and practicality for diverse driving conditions.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        }
+    ]
+}

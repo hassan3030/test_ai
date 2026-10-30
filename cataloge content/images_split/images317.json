@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "d0b14474-9e7c-44a4-a3e1-3e6db7baecc5",
+            "image": null,
+            "name": "Lava A97",
+            "description": "The Lava A97 is a smartphone designed to deliver essential features for everyday use, including a user-friendly interface and basic multimedia capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "7bfdf5ff-e1bb-4c12-aba5-67a4c32076f1",
+            "image": null,
+            "name": "Whirlpool Ultimate Care Washing Machine",
+            "description": "The Whirlpool Ultimate Care Washing Machine series is designed to provide efficient and effective washing, ensuring excellent cleaning performance with tailored wash cycles for various fabric types.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "e3ece2a4-6d86-43f6-9d2c-255270906ff0",
+            "image": null,
+            "name": "Realme 3 Pro",
+            "description": "The Realme 3 Pro is a mid-range smartphone released in 2019, designed to deliver powerful performance and impressive camera capabilities for everyday users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "cdbe6b0a-6c54-48e4-ac4f-c0f26f82fb28",
+            "image": null,
+            "name": "Mont Marte Canvas Boards",
+            "description": "Mont Marte Canvas Boards are versatile art supplies designed for artists of all levels, providing a sturdy surface for painting and mixed media applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "0c9a7715-9eb3-43f3-b461-05f47924db79",
+            "image": null,
+            "name": "Kidizoom Action Cam 180",
+            "description": "The Kidizoom Action Cam 180 is a versatile children's action camera designed for capturing fun and adventurous moments in 180-degree video and photos, encouraging creativity and outdoor play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "39922ccc-8e90-4803-b40a-12e383c98a23",
+            "image": null,
+            "name": "Venti",
+            "description": "The Audison Venti series is designed to deliver high-quality car audio experiences with exceptional clarity and power, catering to enthusiasts seeking advanced sound performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "266e1f46-7941-4e52-9273-c26ea1e7c326",
+            "image": null,
+            "name": "Menzerna Performance Series",
+            "description": "The Menzerna Performance Series is a collection of high-quality car care products designed to enhance and protect automotive finishes. This series aims to provide exceptional polishing and correction capabilities for professional and enthusiast applications.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "7bc4d346-6f69-4a98-a35f-0d6c4fc5b88c",
+            "image": null,
+            "name": "Realme Watch 2",
+            "description": "The Realme Watch 2 is a smartwatch designed to provide users with fitness tracking, heart rate monitoring, and various smart features to enhance daily activities and health management.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "ffc23693-530c-42e6-a6a0-6cf5d85ac95d",
+            "image": null,
+            "name": "Menzerna Professional Series",
+            "description": "Menzerna Professional Series is a range of high-quality car care products designed for automotive detailing and restoration. The series is known for its effective polishing compounds and finishing products, which aim to enhance the appearance and longevity of vehicle surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "221c17a2-8e5a-4a58-914e-5a5c23818e88",
+            "image": null,
+            "name": "Realme GT 2",
+            "description": "The Realme GT 2 series is a lineup of smartphones designed to deliver high performance and innovative features, targeted at tech-savvy users.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "59bac470-0d59-475f-a180-4e9a08fee0c0",
+            "image": null,
+            "name": "Whirlpool 3D Fresh",
+            "description": "The Whirlpool 3D Fresh series of refrigerators is designed to enhance food preservation by utilizing advanced cooling technology that ensures optimal freshness and minimizes spoilage.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "f2f9f365-d97f-4d82-81f6-537c349d6dc8",
+            "image": null,
+            "name": "Cort B Series",
+            "description": "The Cort B Series is a line of electric bass guitars designed to meet the needs of modern bassists, offering a combination of quality craftsmanship and affordability, suitable for a variety of musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "9a1fda28-2e9d-4a9b-9085-c8c2aefa6b25",
+            "image": null,
+            "name": "Griot's Garage Perfecting Cream",
+            "description": "Griot's Garage Perfecting Cream is a high-quality car polish designed to enhance the paint finish and deliver a deep, reflective shine while effectively removing light swirl marks and scratches.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "34538ea1-72e1-4d4f-ba33-ceb5bb7125e1",
+            "image": null,
+            "name": "Camp Chef  Pellet Grill",
+            "description": "The Camp Chef Pellet Grill series is designed for outdoor cooking enthusiasts, offering precision temperature control and versatile grilling, smoking, and baking capabilities. This series enhances the camping experience with durable construction and user-friendly features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "179253a9-e07b-4071-98e3-52b7e5095fbf",
+            "image": null,
+            "name": "Nokia C32",
+            "description": "The Nokia C32 is an entry-level smartphone designed to provide reliable performance with essential features for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "1b157151-8cce-47f6-838f-d367981a0671",
+            "image": null,
+            "name": "Griot's Garage Speed Shine",
+            "description": "Griot's Garage Speed Shine is a quick detailer designed to provide a streak-free shine while removing dust, fingerprints, and light contaminants from your vehicle's surface.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "002ad9c6-60f2-49e0-ba48-7eab957ed22b",
+            "image": null,
+            "name": "Griot's Garage Paint Prep",
+            "description": "Griot's Garage Paint Prep is a series of car care products designed to effectively prepare automotive surfaces for painting by removing contaminants and ensuring optimal adhesion of paint.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "6e098ff9-3606-45e8-a5f2-064ae0a19179",
+            "image": null,
+            "name": "Subaru S209",
+            "description": "The Subaru S209 is a limited-edition performance car that features enhanced handling and power, inspired by motorsport innovations and designed for driving enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aadfcb44-3c9b-4b0e-8f87-8618b3da5396",
+            "image": null,
+            "name": "Hoover WindTunnel 3",
+            "description": "The Hoover WindTunnel 3 series is a collection of vacuum cleaners designed for powerful suction and multi-surface cleaning, utilizing WindTunnel technology to capture dirt and debris effectively.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Hoover"
+            }
+        },
+        {
+            "id": "86d29a0b-0dc3-4288-bc8c-88bf60e3d822",
+            "image": null,
+            "name": "Winsor & Newton Oil Colour",
+            "description": "Winsor & Newton Oil Colour is a range of high-quality oil paints crafted for artists seeking vibrant colors and excellent consistency, allowing for versatile application and exceptional finish.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "add7a7c7-c11a-4384-8bb0-179d9d32ec6c",
+            "image": null,
+            "name": "Turtle Wax Wet'N Black",
+            "description": "Turtle Wax Wet'N Black is a range of car care products specifically designed to enhance and maintain the appearance of tires and trim, providing a long-lasting, deep-black finish while protecting against environmental elements.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "75e0d6dd-0236-4590-8f49-4d04450a4c7a",
+            "image": null,
+            "name": "The Little Adventures Collection",
+            "description": "The Little Adventures Collection by Wonderbly offers personalized children's books designed to inspire creativity and imagination in young readers through engaging stories featuring their names.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "0d20e855-2774-4ca1-b842-b7a521b59496",
+            "image": null,
+            "name": "Lava Iris 503E",
+            "description": "The Lava Iris 503E is a smartphone designed to provide essential features and reliable performance, suitable for users looking for affordability without compromising on basic functionality.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "fda9b8e8-baf3-481d-8752-b58b3bba02a6",
+            "image": null,
+            "name": "My Magical Adventures",
+            "description": "My Magical Adventures series by Wonderbly offers personalized children's books that engage young readers by placing them as the main character in fantastical stories, promoting imagination and a love for reading.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "8cdb4d42-9247-49eb-ab1d-46aca26c1e35",
+            "image": null,
+            "name": "Moto E (2020)",
+            "description": "The Motorola Moto E (2020) is an entry-level smartphone designed to offer essential features at an affordable price, catering to users who seek basic functionality without high-end specifications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "88d09ffc-b1a7-4850-b4a0-571ad2a4b5f1",
+            "image": null,
+            "name": "Whirlpool 6th Sense Range",
+            "description": "The Whirlpool 6th Sense Range of refrigerators is designed to deliver optimal cooling performance while preserving food freshness and minimizing energy consumption.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "1da7415a-88ed-4337-9cf5-97e445504039",
+            "image": null,
+            "name": "Motorola Moto G Stylus (2021)",
+            "description": "The Motorola Moto G Stylus (2021) is a mid-range smartphone designed for users who appreciate functionality and creativity, featuring a built-in stylus for precise control and note-taking.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "e6682dd6-0f7f-4f44-867d-65fd3cf6b46b",
+            "image": null,
+            "name": "Kettal Club",
+            "description": "Kettal Club is an outdoor furniture series designed for comfort and style, featuring modular components that allow for versatile arrangements in outdoor spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "325b0ef0-641e-4ce3-83ec-c10d5d9aef72",
+            "image": null,
+            "name": "The Extraordinary Gift",
+            "description": "The Extraordinary Gift by Wonderbly is a personalized children's book series that allows kids to see themselves as the main character, helping to boost their self-esteem and encourage a love for reading.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "9c51e0bc-cb22-4611-8295-55954891c49e",
+            "image": null,
+            "name": "Kettal Varia",
+            "description": "Kettal Varia is a modern outdoor furniture series released in 2023, designed for versatility and comfort, ideal for enhancing outdoor living spaces.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        }
+    ]
+}

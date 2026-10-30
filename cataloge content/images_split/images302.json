@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b94d0b11-0f98-4b1e-85f1-ebe598720ac8",
+            "image": null,
+            "name": "JBL Flip 6",
+            "description": "The JBL Flip 6 is a portable Bluetooth speaker designed for outdoor use, featuring powerful sound and a durable waterproof design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "46916a0e-f93f-43bc-a4b7-e95ff22fee89",
+            "image": null,
+            "name": "Soft99 Hydrophobic Coat",
+            "description": "The Soft99 Hydrophobic Coat series is designed to provide a durable protective layer for automotive surfaces, enhancing water beading and repelling dirt and grime. Its hydrophobic properties help maintain the appearance of the vehicle while simplifying cleaning.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "f85f4f4a-1cd4-49c2-9633-1685f18e4192",
+            "image": null,
+            "name": "Insignia 2.4 Cu. Ft. Countertop Microwave",
+            "description": "The Insignia 2.4 Cu. Ft. Countertop Microwave is a compact and efficient kitchen appliance designed to heat and cook food quickly with its versatile cooking options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Insignia"
+            }
+        },
+        {
+            "id": "aa676582-7565-48c1-a514-389bbff61935",
+            "image": null,
+            "name": "Kidoozie My First RC",
+            "description": "Kidoozie My First RC is a series of remote-controlled toys designed specifically for young children to introduce them to the world of RC play. These toys feature simple controls and durable designs to ensure safe and engaging playtime.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidoozie"
+            }
+        },
+        {
+            "id": "f1b5a1bb-358a-4404-b6e9-39da8d3d5014",
+            "image": null,
+            "name": "JBL Authentics Series",
+            "description": "The JBL Authentics Series is a line of premium speakers designed to deliver high-fidelity audio with a focus on an authentic listening experience, combining modern aesthetics with advanced sound technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "5fe2ce96-06a4-41d7-b62a-716fddb479c6",
+            "image": null,
+            "name": "Volo",
+            "description": "The Maclaren Volo is a lightweight and compact stroller designed for parents seeking a portable option for their children. It features a simple fold mechanism and is suitable for children from six months and up.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "bc892339-09eb-43b9-b31b-686273fdce55",
+            "image": null,
+            "name": "Globetrotter",
+            "description": "The Maclaren Globetrotter is a lightweight, compact stroller designed for urban families who require convenience and mobility without compromising on safety and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "7400c130-c0b6-49c5-aa4c-123a0ece56ec",
+            "image": null,
+            "name": "Soft99 Urban Gloss",
+            "description": "Soft99 Urban Gloss is a series of car care products designed to provide a high-gloss finish and protection to urban vehicles against dirt and pollutants, enhancing their appearance while also simplifying maintenance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "bf4e151b-c51e-4a60-8a84-98b91391397d",
+            "image": null,
+            "name": "Meguiar's Professional Line",
+            "description": "The Meguiar's Professional Line is a series of specialized car care products designed for automotive enthusiasts and professionals, focusing on delivering superior results in the cleaning, polishing, and protection of vehicle surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "6556c273-f8d2-4bdd-b9c9-5781867a2e14",
+            "image": null,
+            "name": "Infinix Hot 6",
+            "description": "The Infinix Hot 6 is a budget-friendly smartphone series known for its large display, decent performance, and dual camera capabilities, aimed at providing an affordable mobile experience for everyday users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "15c8a314-4b59-4f37-8127-8504822d869b",
+            "image": null,
+            "name": "Yakima Load Warrior",
+            "description": "The Yakima Load Warrior is a versatile cargo basket designed to maximize your vehicle's carrying capacity for outdoor gear and equipment. It features a robust construction suitable for various travels and adventures.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "52dcaea9-c6ff-40d7-b4b1-f365375dcc3a",
+            "image": null,
+            "name": "Santa Cruz Skateboards - Salba Pro Model",
+            "description": "The Santa Cruz Skateboards - Salba Pro Model is a high-performance skateboard designed for professional skaters and enthusiasts, featuring a distinct graphic and a shape optimized for street and park skating.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "b7f80d56-eb74-4a17-ba0a-3c2733739b54",
+            "image": null,
+            "name": "Ultimate Compound",
+            "description": "Meguiar's Ultimate Compound is a car care product designed to restore the finish of automotive paint by removing oxidation, scratches, and blemishes, resulting in a high-gloss shine.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "8bb5a7ce-b6ad-459a-b442-475cfd32a07b",
+            "image": null,
+            "name": "Infinix Note 6",
+            "description": "The Infinix Note 6 is a smartphone released in 2019, designed for users seeking a powerful performance and enhanced camera capabilities, especially with its AI-based features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "1ed623ba-4e47-435b-971b-bb89e0bca255",
+            "image": null,
+            "name": "Santa Cruz Skateboards - Taylor Bingaman Pro Model",
+            "description": "The Taylor Bingaman Pro Model by Santa Cruz Skateboards is designed for professional skateboarding, offering high performance and durability tailored for advanced riders.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "7d87ed27-79de-48b9-9285-1d6e6373ebcd",
+            "image": null,
+            "name": "Boden Kids",
+            "description": "Boden Kids offers a range of stylish and comfortable clothing designed specifically for children, focusing on high-quality materials and playful designs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Boden"
+            }
+        },
+        {
+            "id": "813f14be-7731-4606-be84-40b699d2e7ce",
+            "image": null,
+            "name": "Tower System",
+            "description": "The Yakima Tower System is designed for vehicle rack systems, facilitating the secure transport of various gear and equipment such as bikes, kayaks, and cargo boxes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "d945877f-aecc-403f-ae80-3fe9fea5ff64",
+            "image": null,
+            "name": "LuvLap Galaxy Stroller",
+            "description": "The LuvLap Galaxy Stroller is designed to provide comfort and safety for infants while offering convenience for parents. Its lightweight frame and easy-fold mechanism make it suitable for daily use and travel.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "cf1fd347-5fe0-4562-9133-85fdf470e151",
+            "image": null,
+            "name": "Santa Cruz x Disney",
+            "description": "The Santa Cruz x Disney series features skateboards that combine the iconic art styles of Santa Cruz Skateboards with beloved Disney characters, providing a vibrant and colorful experience for skaters and collectors alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "4d6dd1a0-b22c-4317-9790-4911159b1765",
+            "image": null,
+            "name": "LockNLoad",
+            "description": "Yakima's LockNLoad series offers a versatile platform for mounting various accessories and equipment on vehicles, designed for durability and ease of installation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "872c1990-4b31-4e51-8e9f-04c0a56c5a13",
+            "image": null,
+            "name": "HitchLock",
+            "description": "The Yakima HitchLock series provides secure locking solutions for hitch-mounted accessories, ensuring that items like bike racks and cargo carriers remain safe and protected while on the road.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Yakima"
+            }
+        },
+        {
+            "id": "23071292-768f-41a5-b7d8-38d337c204f3",
+            "image": null,
+            "name": "LuvLap Smart Walker",
+            "description": "The LuvLap Smart Walker is designed to assist infants in developing their walking skills while providing entertainment and engagement through interactive features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "990c8ff0-7e53-4112-bf29-36499da86254",
+            "image": null,
+            "name": "BYD F6",
+            "description": "The BYD F6 is a mid-size sedan introduced in 2009, designed to offer a blend of comfort, efficiency, and practicality for everyday transportation needs.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "085824a7-2e3c-48d8-b258-5572f1a47592",
+            "image": null,
+            "name": "Simoniz Car Wash",
+            "description": "The Simoniz Car Wash series offers a range of products designed to clean and protect vehicles, ensuring a spotless finish and a shine that lasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "c6f73299-2bfa-4c6f-a6b3-2aa25a208f83",
+            "image": null,
+            "name": "Raleigh Jazzi",
+            "description": "The Raleigh Jazzi series features stylish and functional bikes designed for urban commuting and casual riding, emphasizing comfort and maneuverability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Raleigh Bikes"
+            }
+        },
+        {
+            "id": "95d03d3c-a379-46e8-be2a-3a0abcc52471",
+            "image": null,
+            "name": "Santa Cruz 30th Anniversary Series",
+            "description": "The Santa Cruz 30th Anniversary Series commemorates three decades of skateboard culture and innovation, featuring classic deck designs that combine durability and performance for skaters of all levels.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "b2513b09-8d10-4cbb-b5a7-703e80861ef7",
+            "image": null,
+            "name": "The Usborne Big Book of Why",
+            "description": "The Usborne Big Book of Why is an educational series designed to answer children's curious questions about the world around them. It features engaging illustrations and simple explanations to foster learning and exploration.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "58490525-e118-4900-9604-ed1614e7b192",
+            "image": null,
+            "name": "Tom Ford FT0500",
+            "description": "The Tom Ford FT0500 sunglasses are a stylish eyewear option that combines elegance with high-quality materials, designed to provide optimal protection against UV rays while enhancing the wearer's fashion appeal.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "4dfab250-5929-418b-accb-1978c3d9d93a",
+            "image": null,
+            "name": "HyperX Alloy FPS Mechanical Gaming Keyboard",
+            "description": "The HyperX Alloy FPS Mechanical Gaming Keyboard is designed for competitive gamers, featuring a compact design, responsive mechanical switches, and a durable steel frame for reliability during intense gaming sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Kingston Technology"
+            }
+        },
+        {
+            "id": "023e2100-c897-41a1-9997-cc230bb3cfd6",
+            "image": null,
+            "name": "Infinix Zero 6",
+            "description": "The Infinix Zero 6 is a smartphone series released in 2018, designed to provide users with advanced mobile technology and a comprehensive multimedia experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "772ce3e9-69e9-4605-a0ce-b818cc315152",
+            "image": null,
+            "name": "Ninja DualBrew Pro Coffee Maker",
+            "description": "The Ninja DualBrew Pro Coffee Maker is a versatile coffee machine that allows users to brew both ground coffee and coffee pods, offering multiple brewing sizes and styles to cater to individual preferences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "ebf85ed6-3264-4384-be2a-3789071779c3",
+            "image": null,
+            "name": "Paul Smith Sunglasses",
+            "description": "The Paul Smith Sunglasses series is a collection of stylish eyewear designed with a blend of contemporary and classic elements, offering both protection and fashion. Each pair features unique designs that reflect the brand's commitment to quality and creativity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "b0d8cf9d-ad4a-42ed-abdb-6337c5d33751",
+            "image": null,
+            "name": "Husqvarna FC 2020",
+            "description": "The Husqvarna FC 2020 is a high-performance off-road motorcycle designed for competitive motocross racing, featuring lightweight construction and advanced technology to enhance handling and performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "41008201-c3c1-4cec-a8fb-253ebce92bef",
+            "image": null,
+            "name": "FolkArt Extreme Glitter",
+            "description": "FolkArt Extreme Glitter is a premium acrylic paint designed to add a high level of sparkle to various surfaces, ideal for crafting and decorative projects.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "65e74202-4676-4efb-995a-bed0066a9715",
+            "image": null,
+            "name": "Play-Doh 6-Pack",
+            "description": "The Play-Doh 6-Pack is a set of colorful modeling compounds designed for children to unleash their creativity and imagination while developing fine motor skills through play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "02b677df-73ad-4627-896d-79fb04b0f060",
+            "image": null,
+            "name": "Pinypon Playsets",
+            "description": "Pinypon Playsets are interactive toy sets that allow children to create imaginative scenarios with interchangeable characters and accessories, promoting creativity and role play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "87ddd43a-9c45-48b2-879d-1cf3813e5c16",
+            "image": null,
+            "name": "Baby Shark Sing and Swim Shark 3-in-1",
+            "description": "The Fisher-Price Baby Shark Sing and Swim Shark 3-in-1 is a versatile toy designed to engage young children with singing and playful interactions, promoting imaginative play and early learning skills.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "a92c658a-e81b-44cb-a590-cdac0415080d",
+            "image": null,
+            "name": "BMW 1 Series (F20/F21)",
+            "description": "The BMW 1 Series (F20/F21) is a premium compact car that offers a combination of dynamic driving performance, advanced technology, and a spacious interior tailored for urban mobility and comfort.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "90a54ed8-2c12-4813-97be-ca5bca050c71",
+            "image": null,
+            "name": "Bridgestone Ecopia",
+            "description": "The Bridgestone Ecopia series features eco-friendly tires designed to enhance fuel efficiency while providing reliable performance and safety for everyday driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "6dadffe5-7802-45d0-a212-6c0127099579",
+            "image": null,
+            "name": "Husqvarna FE 2020",
+            "description": "The Husqvarna FE 2020 is a high-performance off-road motorcycle designed for exceptional agility and handling in diverse terrains. It features advanced technology and lightweight materials, making it suitable for competitive enduro riding.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "393d8d87-c767-4791-af3f-8995fd6e13ea",
+            "image": null,
+            "name": "Husqvarna TE 2020",
+            "description": "The Husqvarna TE 2020 series consists of enduro motorcycles designed for off-road performance, featuring advanced technology and lightweight construction for enhanced agility and control.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "7dc61706-c534-4e13-a884-ac8e7c6b2b2c",
+            "image": null,
+            "name": "Benelli Tre 1130",
+            "description": "The Benelli Tre 1130 is a sport motorcycle that features a distinctive triple-cylinder engine, designed for both performance and handling in a lightweight chassis.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "3145170f-c6f6-4980-ae2f-390586870865",
+            "image": null,
+            "name": "FolkArt Home Decor Chalk",
+            "description": "FolkArt Home Decor Chalk is a paint series designed for furniture and home decor projects, offering a matte finish and easy application for a vintage look.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "82bf4906-38f6-4fd8-9f19-ac2d1169105d",
+            "image": null,
+            "name": "Sonax Cleaning Products",
+            "description": "Sonax Cleaning Products is a series of car care products designed to effectively clean, protect, and maintain vehicles' exterior and interior surfaces. Launched in 2012, these products are known for their high performance and quality.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        },
+        {
+            "id": "de641183-1a7f-4f9b-a37d-93c84014db2c",
+            "image": null,
+            "name": "Play-Doh Sesame Street",
+            "description": "The Play-Doh Sesame Street series features colorful modeling compounds and themed playsets designed to inspire creativity and imaginative play among young children, encouraging hands-on learning through the beloved characters of Sesame Street.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "48bfbd24-8c2a-47fe-ab81-fb5c15470d19",
+            "image": null,
+            "name": "Play-Doh Sweet Shoppe",
+            "description": "The Play-Doh Sweet Shoppe series offers creative play opportunities for children through modeling compound that can be shaped into various desserts and treats, encouraging imaginative play and fine motor skills development.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "6dba37bc-3900-45ae-96c5-5d789929f8a9",
+            "image": null,
+            "name": "Husqvarna TE 300i",
+            "description": "The Husqvarna TE 300i is a high-performance off-road motorcycle designed for enduro riding, featuring a lightweight chassis and advanced fuel-injection technology for optimal power delivery and efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4a797aca-cbc3-4422-ab46-f36b7e144044",
+            "image": null,
+            "name": "Tamron 70-210mm F/4 Di VC USD",
+            "description": "The Tamron 70-210mm F/4 Di VC USD is a versatile telephoto zoom lens designed for DSLR cameras, offering a constant aperture of f/4 throughout its zoom range and featuring vibration compensation for stability in handheld shooting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        },
+        {
+            "id": "55c29d4a-a24a-44c4-902a-1fd21439d9f6",
+            "image": null,
+            "name": "Husqvarna FE 2023",
+            "description": "The Husqvarna FE 2023 series consists of high-performance off-road motorcycles designed for enduro enthusiasts, featuring advanced technology and lightweight construction for optimal handling and agility.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "3acd945d-7ab8-4c04-a1c3-6fad61ad3499",
+            "image": null,
+            "name": "Thule Pulse",
+            "description": "The Thule Pulse series is a lineup of durable rooftop cargo boxes designed to enhance vehicle storage capacity and protect belongings during travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "a1405861-4cf5-4ca1-8743-d598faf2ae51",
+            "image": null,
+            "name": "Paul Smith Accessories",
+            "description": "The Paul Smith Accessories series is a collection of high-quality fashion accessories that embody the brand's signature style and attention to detail. This series is designed to enhance the everyday wardrobe with unique, playful designs and premium materials.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "e1a43c77-9ce6-4e16-bafb-8202daa7fb98",
+            "image": null,
+            "name": "Ninja Foodi SMART XL Grill AG301",
+            "description": "The Ninja Foodi SMART XL Grill AG301 is an innovative kitchen appliance that combines grilling, air frying, and other cooking functions for versatile meal preparation. Designed for large meals, it features smart technology for precise temperature control and cooking performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "0734099b-2ac6-4886-9263-a0c27cf82925",
+            "image": null,
+            "name": "Pinypon Movie",
+            "description": "The Pinypon Movie series features a variety of characters and playsets inspired by the Pinypon universe, allowing children to create their own adventures and stories through imaginative play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "dd71d5a8-9272-495f-8859-faaf31b285c1",
+            "image": null,
+            "name": "Fisher-Price 2-in-1 Flip & Fun Activity Book",
+            "description": "The Fisher-Price 2-in-1 Flip & Fun Activity Book is an engaging children's book designed to promote early literacy and sensory exploration through colorful illustrations and interactive elements.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "0a8cc91c-a61d-454c-910e-79f3443e6732",
+            "image": null,
+            "name": "Bridgestone Potenza RE-71RS",
+            "description": "The Bridgestone Potenza RE-71RS is a high-performance summer tire designed for maximum grip and handling on both wet and dry surfaces, making it ideal for sports cars and performance driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "bfd46e3a-0813-463f-a7c1-e80b3d7c5ec5",
+            "image": null,
+            "name": "Opel Ampera",
+            "description": "The Opel Ampera is a plug-in hybrid electric vehicle designed to offer an eco-friendly driving experience with the flexibility of using both electric power and a gasoline engine for extended range.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "96fd7289-5816-46f0-92b1-343c46c6904e",
+            "image": null,
+            "name": "Edifier TWS NB",
+            "description": "The Edifier TWS NB series features true wireless noise-cancelling headphones designed to provide immersive sound quality and clear calls for a convenient audio experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Edifier"
+            }
+        },
+        {
+            "id": "67e71ede-c90d-4708-920b-c3b251e50572",
+            "image": null,
+            "name": "Bridgestone Potenza",
+            "description": "The Bridgestone Potenza series is designed for high-performance vehicles, offering exceptional grip and handling characteristics, particularly in wet and dry conditions. These tires prioritize responsive steering and stability at high speeds for an enhanced driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "de2af7ac-2f10-477d-b0eb-56a20169bdda",
+            "image": null,
+            "name": "Paul Smith Women's Clothing",
+            "description": "Paul Smith Women's Clothing series features a collection of contemporary and stylish apparel designed specifically for women, combining classic tailoring with modern fabrics and prints.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "02858169-11c5-40f1-8806-17f51ef2ce06",
+            "image": null,
+            "name": "Snakebyte Audio:pro",
+            "description": "The Snakebyte Audio:pro series offers a range of gaming accessories designed to enhance audio experience for gamers, providing high-quality sound and comfort during extended play sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Snakebyte"
+            }
+        }
+    ]
+}

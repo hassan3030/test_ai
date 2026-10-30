@@ -1,0 +1,376 @@
+{
+    "data": [
+        {
+            "id": "e37bc54d-c0c6-452b-ad31-0be5383c995f",
+            "image": null,
+            "name": "Toyota Prius c",
+            "description": "The Toyota Prius c is a compact hybrid vehicle designed for efficiency and urban commuting, offering a smaller footprint and lower fuel consumption compared to traditional vehicles.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "65a1fff6-ccf9-44d9-9219-dcce54785530",
+            "image": null,
+            "name": "Toyota Highlander (Second Generation)",
+            "description": "The Toyota Highlander (Second Generation) is a mid-size SUV introduced in 2003, designed to provide a versatile and comfortable driving experience for families and individuals seeking both practicality and performance.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "706dde3b-dc3e-4992-8a54-db1f0597158a",
+            "image": null,
+            "name": "Fendi Bag Bugs",
+            "description": "The Fendi Bag Bugs series features playful and whimsical bags adorned with unique eye designs, embodying the brand's luxury craftsmanship while adding a touch of fun to any outfit.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "80197268-1514-4128-b48f-17dab1f23d02",
+            "image": null,
+            "name": "Focal Utopia",
+            "description": "The Focal Utopia series is designed for high-performance car audio systems, delivering exceptional sound quality and clarity for audiophiles. Launched in 2001, this series is known for its innovative technologies and premium materials, ensuring an immersive listening experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        },
+        {
+            "id": "822790d1-ba48-44cc-becd-2f81f6a75035",
+            "image": null,
+            "name": "Speed Trainers",
+            "description": "The Balenciaga Speed Trainers are a line of sock-style sneakers known for their sleek silhouette and innovative design, combining comfort with a futuristic aesthetic.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "83b8adc0-b30d-4a74-8c73-42929c2c81e1",
+            "image": null,
+            "name": "Toyota Sequoia (Second Generation)",
+            "description": "The Toyota Sequoia (Second Generation) is a full-size SUV designed for family transport with a focus on comfort, spaciousness, and off-road capability. Released in 2003, it features a robust design suitable for both urban driving and outdoor adventures.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "855118b3-f836-428f-8c3d-f2b8ed4343ba",
+            "image": null,
+            "name": "Aprilia Tuono 1000",
+            "description": "The Aprilia Tuono 1000 is a high-performance naked motorcycle known for its powerful engine, agile handling, and aggressive styling, designed for both street and track use.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "8906874c-689f-47fa-9c50-3062328cd7c1",
+            "image": null,
+            "name": "Dodge Viper SRT-10",
+            "description": "The Dodge Viper SRT-10 is a high-performance sports car known for its powerful V10 engine, aggressive styling, and focused driving experience, aimed at enthusiasts who seek thrilling performance and an iconic design.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "928bc1a2-7ade-4588-90f7-7a7bfcd2a538",
+            "image": null,
+            "name": "Soft99 Fusso",
+            "description": "Soft99 Fusso is a series of advanced car care products designed to provide long-lasting protection and shine to vehicle surfaces, primarily through a unique polymer formula that repels water and dirt.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "aceb632e-5fbb-44c1-973a-55c349d41854",
+            "image": null,
+            "name": "Toyota Avalon",
+            "description": "The Toyota Avalon is a full-size sedan known for its spacious interior, comfortable ride, and advanced technology features, catering to consumers seeking a dependable vehicle for both everyday use and long-distance travel.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "b1686675-e106-4ec6-8bfd-b14ea13267d4",
+            "image": null,
+            "name": "Razer Edge",
+            "description": "The Razer Edge is a portable gaming hand-held device that combines powerful performance with a sleek design, catering to gamers seeking high-quality gaming experiences on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1912d704-f497-4964-9fb8-91fd3ff9f35b",
+            "image": null,
+            "name": "Toyota FJ Cruiser",
+            "description": "The Toyota FJ Cruiser is a mid-size SUV designed for off-road capability and rugged performance, combining retro styling with modern technology.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "1c3e1e60-73eb-4527-be1a-853c4e89a6b7",
+            "image": null,
+            "name": "Dior Stellar Sunglasses",
+            "description": "Dior Stellar Sunglasses are a stylish eyewear collection launched in 2018, characterized by their bold shapes and luxurious materials, designed to provide both protection from the sun and a fashion statement.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2a6be20d-8928-4b5d-9dde-e1e9b727a3e2",
+            "image": null,
+            "name": "Razer Barracuda",
+            "description": "The Razer Barracuda series includes high-quality gaming accessories designed for immersive audio experiences and superior gaming performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "39b3e5a8-18e5-4630-a91a-4b3eb5475b43",
+            "image": null,
+            "name": "Dodge Ram",
+            "description": "The Dodge Ram is a series of full-size pickup trucks known for their rugged performance, versatility, and capability, primarily designed for both work and recreational use.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "3e223775-dddb-4a46-80ee-e304d8bd5596",
+            "image": null,
+            "name": "Beats Solo Pro",
+            "description": "Beats Solo Pro are over-ear headphones designed to provide high-quality audio performance with active noise cancellation, ideal for music lovers who seek immersive sound experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "54048233-ff5f-46c7-87c0-a128bb73d308",
+            "image": null,
+            "name": "Puma Clyde Court",
+            "description": "The Puma Clyde Court is a basketball sneaker designed for on-court performance, offering a blend of style and technical features for athletes and sneaker enthusiasts alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "5a6f73aa-2735-43aa-94f5-56cd6e118d1d",
+            "image": null,
+            "name": "Power Wheels Dune Racer",
+            "description": "The Fisher-Price Power Wheels Dune Racer is a battery-powered ride-on toy designed for outdoor use, featuring sturdy construction and a fun, adventurous design for children to enjoy driving over various terrains.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "5aaa2f42-b071-4876-ad0d-3d5545e17e4e",
+            "image": null,
+            "name": "Breville the Smart Oven Air Fryer Pro",
+            "description": "The Breville the Smart Oven Air Fryer Pro is a versatile countertop appliance that combines air frying with convection oven capabilities, allowing for efficient cooking with less oil while preserving flavor and texture.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ce7ca52a-4f83-44a8-b52f-bd9e6280b513",
+            "image": null,
+            "name": "Beats Studio Buds",
+            "description": "Beats Studio Buds are true wireless earbuds designed to provide high-quality audio performance with active noise cancellation and a comfortable fit for extended listening.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "691f8091-d1c4-4224-9f69-4546f3ca9f61",
+            "image": null,
+            "name": "Volkswagen Golf IV",
+            "description": "The Volkswagen Golf IV is a compact car that was introduced in 2000, known for its practical design, reliable performance, and comfortable interior, making it a popular choice among driving enthusiasts and everyday users alike.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "da7225fb-47e4-4ffd-92d1-99f15532861d",
+            "image": null,
+            "name": "Highlander",
+            "description": "The Toyota Highlander is a mid-size SUV known for its spacious interior, versatile seating configurations, and a strong emphasis on family-friendly features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "dd9836f7-2429-4302-8440-42d6d9a8cec6",
+            "image": null,
+            "name": "Toyota RAV4 (Fourth Generation)",
+            "description": "The Toyota RAV4 (Fourth Generation) is a compact SUV that offers a blend of practicality, reliability, and efficiency, making it suitable for urban commuting and light off-road adventures.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "f24e42af-d450-4d17-94a6-635e71edcb0f",
+            "image": null,
+            "name": "TeraFlex Falcon Shocks",
+            "description": "The TeraFlex Falcon Shocks are designed to enhance off-road performance by providing superior damping and improved vehicle stability under various terrain conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "ff0df3e4-2d1a-4941-96e5-97034321d2cb",
+            "image": null,
+            "name": "Volkswagen Golf VI",
+            "description": "The Volkswagen Golf VI is a compact car known for its practicality, comfort, and efficient performance, aimed at providing an enjoyable driving experience for a wide range of consumers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "7dbef0eb-7022-43cf-aa1a-093f00669f68",
+            "image": null,
+            "name": "Volkswagen New Beetle",
+            "description": "The Volkswagen New Beetle is a compact car produced by Volkswagen, known for its distinctive rounded shape and retro styling, aimed at appealing to a broad audience seeking a fun and practical vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "808fa33f-72e1-4ce8-9cac-57f25bd6048b",
+            "image": null,
+            "name": "Razer Firefly",
+            "description": "The Razer Firefly is a customizable RGB mouse mat designed to enhance gaming performance and aesthetics, featuring a micro-textured surface for precision tracking.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e87bf7d-76bc-47c0-b390-284f14ba35fc",
+            "image": null,
+            "name": "Toyota Land Cruiser (300 Series)",
+            "description": "The Toyota Land Cruiser (300 Series) is a full-size SUV known for its off-road capabilities, robust construction, and luxurious interior, making it suitable for both rugged adventures and urban settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "926ac422-3692-4a37-a71d-7a98c80196b7",
+            "image": null,
+            "name": "Volkswagen Passat B5",
+            "description": "The Volkswagen Passat B5 is a mid-size sedan produced by Volkswagen, known for its combination of comfort, practicality, and refined handling, making it suitable for family use and everyday commuting.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "9566a4c7-553c-4572-9a99-881d4a058482",
+            "image": null,
+            "name": "Volkswagen Phaeton",
+            "description": "The Volkswagen Phaeton is a luxury sedan that was first introduced in 2003, designed to deliver high comfort, advanced technology, and a refined driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        }
+    ]
+}

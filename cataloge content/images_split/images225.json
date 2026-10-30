@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "d67323d5-a5e1-4537-882b-c9fe0151ef06",
+            "image": null,
+            "name": "Cougar IMPACT",
+            "description": "The Cougar IMPACT series consists of gaming chairs designed to provide comfort and support during extended gaming sessions, featuring ergonomic designs and adjustable components.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "86f9643e-e0ad-4648-90e1-2b9a30a4fec1",
+            "image": null,
+            "name": "Eurotech Cumulus",
+            "description": "The Eurotech Cumulus is a line of gaming chairs designed to provide comfort and support during long gaming sessions, featuring ergonomic design and adjustable features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Eurotech"
+            }
+        },
+        {
+            "id": "22fa8de5-24f8-4b27-9e00-b37dc98457cb",
+            "image": null,
+            "name": "SL Series",
+            "description": "The Vertagear SL Series consists of gaming chairs designed for comfort and ergonomic support during extended gaming sessions, emphasizing adjustable features and durable materials.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "a00804a3-ad80-46b9-b2d4-aac26b7511b7",
+            "image": null,
+            "name": "PL Series",
+            "description": "The Vertagear PL Series gaming chairs are designed to provide ergonomic support and comfort for extended periods of gaming or computer use, combining functionality with a modern aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "09ae7335-2861-412b-b4f7-ee73de9fcb01",
+            "image": null,
+            "name": "Triigger 275",
+            "description": "The Vertagear Triigger 275 is a gaming chair designed for optimal comfort and support during long gaming sessions, featuring adjustable components and an ergonomic design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "25133313-3bcb-4481-9f21-a2738333eb56",
+            "image": null,
+            "name": "PL6000 Series",
+            "description": "The Vertagear PL6000 Series is a line of ergonomic gaming chairs designed to provide comfort and support during long gaming sessions, featuring adjustable components and a sleek design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "e4e4828f-52a4-4817-a49e-ff738a66e04a",
+            "image": null,
+            "name": "SL4000 Series",
+            "description": "The Vertagear SL4000 Series is a line of gaming chairs designed for comfort and ergonomic support, catering to the needs of gamers by providing adjustable seating options and high-quality materials.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "ef86400d-bf31-4dbc-8602-44c729b086f0",
+            "image": null,
+            "name": "PL4800",
+            "description": "The Vertagear PL4800 series offers ergonomic gaming chairs designed for comfort during long gaming sessions, featuring adjustable components and durable materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "988c1b13-636e-4058-8fff-1fca14e9102d",
+            "image": null,
+            "name": "Platinum Series",
+            "description": "The Vertagear Platinum Series consists of premium gaming chairs designed for comfort and ergonomic support during long gaming sessions, featuring adjustable components and high-quality materials.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "443dc2ef-bf4e-4063-ae76-1b15c7d79789",
+            "image": null,
+            "name": "Trust GXT 860",
+            "description": "The Trust GXT 860 series includes a range of gaming accessories designed to enhance the gaming experience with reliable performance and ergonomic features tailored for gamers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Trust Gaming"
+            }
+        },
+        {
+            "id": "9ef30863-5d3e-45a1-8099-2dc6c5928ff6",
+            "image": null,
+            "name": "HERMES P1",
+            "description": "The GAMDIAS HERMES P1 is a gaming keyboard series designed to enhance the gaming experience with its mechanical keys and customizable RGB lighting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "6d23770d-c217-4c5c-b230-e85c6c33723d",
+            "image": null,
+            "name": "HERMES E1",
+            "description": "The GAMDIAS HERMES E1 series is a line of gaming keyboards designed to enhance the gaming experience with responsive keys and customizable features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "438192f0-e7eb-454e-9752-504a737fee95",
+            "image": null,
+            "name": "HERA M1",
+            "description": "The GAMDIAS HERA M1 series features gaming accessories designed to enhance performance and comfort during intense gaming sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "1b23c8a5-d8df-438a-8121-9418657c031c",
+            "image": null,
+            "name": "HERA S1",
+            "description": "The GAMDIAS HERA S1 is a series of gaming accessories designed to enhance the gaming experience through ergonomic design and customizable features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "078f4b43-5b28-4299-aeab-bfad2c95e061",
+            "image": null,
+            "name": "HEBES G1",
+            "description": "The GAMDIAS HEBES G1 series includes a range of gaming accessories designed to enhance the gaming experience with ergonomic design and customizable features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "GAMDIAS"
+            }
+        },
+        {
+            "id": "0561b7c8-f5af-4fe1-bab3-0bd627c910c3",
+            "image": null,
+            "name": "Roccat Suora",
+            "description": "The Roccat Suora is a mechanical gaming keyboard designed for gamers seeking a compact and versatile option. Known for its customizable features and durable construction, it aims to enhance gaming performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "1813866b-3e45-499c-9613-0eea9c1c78cc",
+            "image": null,
+            "name": "Roccat Kova 2016",
+            "description": "The Roccat Kova 2016 is a versatile gaming mouse designed for both right and left-handed users, featuring customizable buttons and precise optical tracking for enhanced performance in gaming.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "43bd4ad3-5a0d-4e89-ba07-f56df1bc541e",
+            "image": null,
+            "name": "Roccat Sova",
+            "description": "The Roccat Sova is a gaming accessory designed to enhance the gaming experience from the comfort of your couch, featuring a wireless design and customizable controls.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "b84f87d6-ac20-405d-8088-3d385e7198b0",
+            "image": null,
+            "name": "Roccat Leadr",
+            "description": "The Roccat Leadr is a wireless gaming mouse designed for high-performance gaming with precision tracking and customizable features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "dd3b0a91-c627-453e-81b0-af2d81197979",
+            "image": null,
+            "name": "Roccat Kone Aimo",
+            "description": "The Roccat Kone Aimo is a high-performance gaming mouse designed for precision and comfort, featuring customizable RGB lighting and an ergonomic design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "7d0972cc-3602-4c64-a69a-017d19d9c002",
+            "image": null,
+            "name": "Roccat Horde Aimo",
+            "description": "The Roccat Horde Aimo is a versatile gaming keyboard designed to enhance the gaming experience with customizable RGB lighting and responsive membrane keys.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "95372d2c-e677-4c9b-a4aa-f882269a580e",
+            "image": null,
+            "name": "Roccat Syn Pro Air",
+            "description": "The Roccat Syn Pro Air series is a line of wireless gaming headsets designed to provide high-quality audio and long-lasting comfort for gamers during extended play sessions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "599ef4b6-a3ee-429f-8c4a-2ed6bf40a007",
+            "image": null,
+            "name": "Roccat Vulcan 120 AIMO",
+            "description": "The Roccat Vulcan 120 AIMO is a high-performance gaming keyboard known for its tactile key switches and customizable AIMO RGB lighting, designed to enhance the gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "62153830-0b71-49af-8f3c-610707e9636e",
+            "image": null,
+            "name": "Roccat Kain 200 AIMO",
+            "description": "The Roccat Kain 200 AIMO is a high-precision gaming mouse designed for gamers seeking responsiveness and comfort during extended play sessions. It features customizable settings and advanced optical sensor technology for enhanced gaming performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "1db7e1cc-c166-4d80-8cd5-3c0ef4573f02",
+            "image": null,
+            "name": "Roccat Kone Pro",
+            "description": "The Roccat Kone Pro is a high-performance gaming mouse designed to enhance precision and comfort during gaming sessions. It features an ergonomic design, customizable RGB lighting, and a lightweight build for optimal maneuverability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "d8ccd45f-7f58-4e3b-8515-5a0cc6a0717b",
+            "image": null,
+            "name": "Roccat Burst Pro",
+            "description": "The Roccat Burst Pro is a lightweight gaming mouse designed for precision and comfort, featuring advanced optical sensor technology and customizable RGB lighting.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "f91a1e42-a862-471e-9e82-96ffe38a0471",
+            "image": null,
+            "name": "Kone Pro Air",
+            "description": "The Roccat Kone Pro Air is a high-performance gaming mouse designed for serious gamers, featuring wireless capability, customizable RGB lighting, and an ergonomic design for comfort during extended gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "37a7409e-08ba-4ffd-9e14-76b39e1c592f",
+            "image": null,
+            "name": "Secretlab OMEGA 2023",
+            "description": "The Secretlab OMEGA 2023 is a premium gaming chair designed for comfort and support during long gaming sessions, featuring ergonomic design and quality materials.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "99def19f-fa23-413d-a5f4-39bce10b378e",
+            "image": null,
+            "name": "MagnaFlow Street Series Exhaust Systems",
+            "description": "The MagnaFlow Street Series Exhaust Systems are designed to enhance performance and sound for street vehicles, providing a smooth and aggressive tone while ensuring legal compliance with emissions regulations.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "7ad52917-ef1f-49b0-8a61-0718cb799263",
+            "image": null,
+            "name": "MagnaFlow OEM Grade Exhaust",
+            "description": "The MagnaFlow OEM Grade Exhaust series offers high-quality replacement exhaust components designed to match the specifications of original equipment manufacturer (OEM) parts, ensuring optimal performance and fit for various vehicles.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ac809401-ec78-40c5-9679-15059f6a30ec",
+            "image": null,
+            "name": "Detailers Pro Series",
+            "description": "Detailers Pro Series offers a range of high-quality car care products designed to meet the needs of automotive enthusiasts and detailing professionals, providing effective cleaning, polishing, and protection solutions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Detailers Pro Series"
+            }
+        },
+        {
+            "id": "b397a204-dbb1-480b-b0ea-bf470ba70a0b",
+            "image": null,
+            "name": "Luxe Wheel Cleaner",
+            "description": "Luxe Wheel Cleaner is a specialized car care product designed to effectively remove brake dust, dirt, and grime from wheels, ensuring a superior shine and protection.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Luxe Detailing"
+            }
+        },
+        {
+            "id": "047f217f-c8d9-4083-91e1-33d140e63821",
+            "image": null,
+            "name": "Mothers Reflections Advanced Car Wax",
+            "description": "Mothers Reflections Advanced Car Wax is a high-performance car care product designed to provide durable protection and a deep, reflective shine on automotive surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "0af27298-8423-4be2-bfef-53954a76145d",
+            "image": null,
+            "name": "Nerf Zombie Strike",
+            "description": "The Nerf Zombie Strike series offers a variety of toy blasters designed to provide fun and engaging play experiences through themed zombie challenges and missions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "0b592c6d-e5d7-4bd1-b5ea-7a4d0dc98c8e",
+            "image": null,
+            "name": "Mothers California Gold Synthetic Wax",
+            "description": "Mothers California Gold Synthetic Wax is a premium synthetic wax designed to provide exceptional protection and a brilliant shine for automotive finishes.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "280478ee-325a-4b99-addc-825d2717ac79",
+            "image": null,
+            "name": "California",
+            "description": "The Moto Guzzi California series is a line of motorcycles known for their classic styling and cruiser characteristics, combining comfort and performance for long-distance touring.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "4fea2554-0f31-444c-9875-c91608085777",
+            "image": null,
+            "name": "Luxe Interior Cleaner",
+            "description": "Luxe Interior Cleaner is a car care product designed to effectively clean and maintain the interior surfaces of vehicles, ensuring a fresh and pristine environment.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Luxe Detailing"
+            }
+        },
+        {
+            "id": "510660df-613a-4c7c-942d-0f78a8d79667",
+            "image": null,
+            "name": "Gtechniq G1 ClearVision Smart Glass",
+            "description": "Gtechniq G1 ClearVision Smart Glass is a high-performance glass treatment that enhances visibility during wet weather conditions by repelling water and improving clarity.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "b901b115-83e4-4392-ab45-7f9f62c5a9a8",
+            "image": null,
+            "name": "Gtechniq EXO Durable Hybrid Coating",
+            "description": "Gtechniq EXO Durable Hybrid Coating is a high-performance protective coating engineered to enhance the gloss and durability of vehicle surfaces while providing excellent resistance to contaminants and UV damage.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "bd86b134-44e5-4556-ada1-5701fe4e5b8d",
+            "image": null,
+            "name": "Mothers Speed Glow",
+            "description": "Mothers Speed Glow is a car care product series designed to enhance the shine and protection of automotive surfaces. It features a blend of cleaning agents and wax to deliver a streak-free finish.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "cccbb82f-283a-4d5e-ab7f-c2c2eaaf93c4",
+            "image": null,
+            "name": "Nerf Elite 2.0",
+            "description": "Nerf Elite 2.0 is a series of toy blasters designed for competitive play and creativity, featuring customizable components and enhanced performance for active playtime.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "cda1f90c-eafe-44ec-a4c7-da2a06ba1e27",
+            "image": null,
+            "name": "Bimota SB8S",
+            "description": "The Bimota SB8S is a high-performance motorcycle that combines advanced engineering with Italian craftsmanship to deliver a unique riding experience. Its lightweight design and powerful engine make it suitable for both track and street use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "96ab31c5-8392-4642-ac7c-a0b9ca70633f",
+            "image": null,
+            "name": "Changan Hunter",
+            "description": "The Changan Hunter is a versatile pickup truck designed for both work and leisure, offering durability and practicality for various terrains and load capacities.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "96f48c27-d47a-4637-8f49-1318ccb6841c",
+            "image": null,
+            "name": "Tata Altroz iTurbo",
+            "description": "The Tata Altroz iTurbo is a hatchback car introduced by Tata Motors in 2021, featuring a turbocharged engine that enhances performance and fuel efficiency while offering modern design and advanced technology features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "97be19e2-6042-4712-9bbf-2d63fa9d719d",
+            "image": null,
+            "name": "Proxes R1",
+            "description": "The Toyo Proxes R1 is a high-performance tire designed for competitive racing, offering exceptional dry grip and responsive handling for improved lap times.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "e0effccd-a5fb-40c5-9a2c-b3a4bd67eb6f",
+            "image": null,
+            "name": "Changan Eado DT",
+            "description": "The Changan Eado DT is a compact sedan, designed to provide a balance of style, efficiency, and technology, catering to the needs of urban drivers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "b0dbe4db-d929-492a-a4b9-ef5cbce053d0",
+            "image": null,
+            "name": "Hino 500 Series",
+            "description": "The Hino 500 Series is a range of robust pickup trucks designed for reliable performance in a variety of commercial applications, offering durability and efficiency for businesses.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino Motors"
+            }
+        },
+        {
+            "id": "fe7fdaf5-e91b-4789-9a0c-50796edde05c",
+            "image": null,
+            "name": "Hino 700 Series",
+            "description": "The Hino 700 Series is a range of heavy-duty trucks designed for commercial use, offering reliability and enhanced performance for transporting goods over long distances.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino Motors"
+            }
+        },
+        {
+            "id": "b575c715-3b0e-48fd-ba29-403c0ddba81e",
+            "image": null,
+            "name": "SL Series Amplifiers",
+            "description": "The SL Series Amplifiers by SSL (Sound Storm Labs) are designed to enhance car audio systems by providing powerful amplification and clear sound quality for music enthusiasts and drivers alike.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "SSL (Sound Storm Labs)"
+            }
+        },
+        {
+            "id": "971b12f3-89ac-4976-9b6a-a97540411588",
+            "image": null,
+            "name": "Melling",
+            "description": "The Melling series by Federal-Mogul includes high-quality car parts designed to improve engine performance and reliability for a wide range of vehicles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Federal-Mogul"
+            }
+        },
+        {
+            "id": "b64921f0-bda7-4336-9c86-06206c9e6f36",
+            "image": null,
+            "name": "Changan Ben Ben",
+            "description": "The Changan Ben Ben is a compact car series launched by Changan Automobile in 2005, designed to provide economical transportation solutions for urban driving environments.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "c730838a-f4a5-428a-8f66-989569cce424",
+            "image": null,
+            "name": "Proxes T1R",
+            "description": "The Toyo Proxes T1R is a performance tire designed for spirited driving with enhanced traction and handling on both wet and dry surfaces. It features an asymmetric tread pattern that provides stability and responsiveness.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "4a4c51c1-a9ee-43e0-8faf-ad7161157128",
+            "image": null,
+            "name": "Hino Dutro",
+            "description": "The Hino Dutro is a versatile series of pickup trucks, designed primarily for light commercial use. Known for its reliability and ease of use, it is well-suited for urban logistics and delivery tasks.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino"
+            }
+        },
+        {
+            "id": "278f438c-3f00-4a22-bf7e-158b73682421",
+            "image": null,
+            "name": "International DuraStar",
+            "description": "The International DuraStar series is designed for medium-duty applications, offering durability and versatility for various commercial transportation needs since its introduction in 2004.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "International Trucks"
+            }
+        },
+        {
+            "id": "67445906-89c0-47f1-88ac-57989a262ff8",
+            "image": null,
+            "name": "ContiSportContact",
+            "description": "The Continental ContiSportContact series is designed for high-performance vehicles, providing exceptional grip and handling on both wet and dry surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "12d35264-ac6d-47f3-a0f4-29d58b288263",
+            "image": null,
+            "name": "ContiEcoContact",
+            "description": "The Continental ContiEcoContact series is designed to provide excellent fuel efficiency and lower rolling resistance while ensuring safety and reliable performance on both wet and dry surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "442a5395-2cf7-4cab-a280-e81205f83189",
+            "image": null,
+            "name": "ContiPremiumContact",
+            "description": "The Continental ContiPremiumContact is a tire series designed for high-performance vehicles, offering superior grip, handling, and braking performance in both wet and dry conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "89f5ec3d-0fd8-4dbe-ab59-2ec0e918ffba",
+            "image": null,
+            "name": "ContiCrossContact LX2",
+            "description": "The Continental ContiCrossContact LX2 is an all-season tire designed for SUVs and light trucks, offering enhanced on-road performance and comfort while maintaining off-road capability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "a732941c-0284-4be0-ab1d-aab15083e6b5",
+            "image": null,
+            "name": "ContiSeal",
+            "description": "The Continental ContiSeal series features tires designed with an integrated sealing technology that automatically seals punctures up to 5mm, providing enhanced safety and convenience during drives.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "103d7b87-0d4b-4b35-a94e-2a5bb4ee508b",
+            "image": null,
+            "name": "California Touring 1400",
+            "description": "The Moto Guzzi California Touring 1400 is a cruiser motorcycle designed for long-distance travel, combining comfort and style with a powerful engine and classic Italian design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        }
+    ]
+}

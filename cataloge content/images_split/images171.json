@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "19c6306b-4aac-42bc-b032-46b496765f90",
+            "image": null,
+            "name": "Mungyo Oil Pastel",
+            "description": "Mungyo Oil Pastels are vibrant, high-quality art supplies designed for smooth application and blending, suitable for artists of all skill levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "3dd38bf4-9003-4af1-96f7-d226c4ba64d7",
+            "image": null,
+            "name": "Mungyo Sketch Pencils",
+            "description": "Mungyo Sketch Pencils are premium graphite pencils designed for artists and students, offering a range of hardness levels for versatile sketching and drawing applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "fab5a8da-796f-4ca5-a23b-42a7524c5f9a",
+            "image": null,
+            "name": "Mungyo Oil Pastels",
+            "description": "Mungyo Oil Pastels are versatile art supplies designed for artists and enthusiasts, known for their smooth application, vibrant colors, and ease of blending.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "5962a06a-0a1b-4460-bc4a-58c7466556c4",
+            "image": null,
+            "name": "Mungyo Soft Pastels",
+            "description": "Mungyo Soft Pastels are high-quality art supplies known for their rich pigmentation and smooth application, making them ideal for artists and hobbyists alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "d02957af-708a-4dd6-8d27-c746129f098e",
+            "image": null,
+            "name": "Mungyo Pastel Chalks",
+            "description": "Mungyo Pastel Chalks are high-quality art supplies designed for vibrant color application on various surfaces, ideal for both artists and students.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "ed26af10-510f-4135-8495-e22f9fd07adb",
+            "image": null,
+            "name": "Mungyo Soft Pastel",
+            "description": "Mungyo Soft Pastel series is a range of high-quality, creamy pastels designed for artists seeking vibrant colors and smooth application on various surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "924af489-375f-438e-bea0-47a316f5a1de",
+            "image": null,
+            "name": "Mungyo Water-Soluble Oil Pastel",
+            "description": "Mungyo Water-Soluble Oil Pastels are versatile art supplies designed to blend easily with water for watercolor effects, offering vibrant colors and smooth application on various surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mungyo"
+            }
+        },
+        {
+            "id": "1bf995a6-1005-4d36-85ce-7e5fe6f9e6b5",
+            "image": null,
+            "name": "Horadam Aquarell",
+            "description": "Schmincke Horadam Aquarell is a premium range of watercolor paints known for their high lightfastness and excellent pigment dispersion, making them ideal for artists seeking vibrant and durable colors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "5fdf03fe-4706-4394-8a95-a9558012c4dc",
+            "image": null,
+            "name": "Aero Colour Professional",
+            "description": "Schmincke Aero Colour Professional is a premium acrylic ink line specifically designed for airbrush and mixed media applications. Its highly pigmented formula ensures excellent coverage and versatility for artists.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "fcd717d0-1388-4502-bde7-04fbf1b8cca4",
+            "image": null,
+            "name": "Horadam Aquarell 2017",
+            "description": "Schmincke Horadam Aquarell watercolors are high-quality, professional-grade watercolor paints known for their excellent lightfastness, purity of color, and outstanding transparency, suitable for artists and illustrators.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "ee46012d-30af-40a4-bcee-83f4b2f2e361",
+            "image": null,
+            "name": "Aquarell Wasserfarben",
+            "description": "The Schmincke Aquarell Wasserfarben series is a collection of high-quality watercolor paints known for their excellent pigment dispersion and transparency, ideal for both professional and amateur artists.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "ac256159-0d07-488e-ac42-a956167a6483",
+            "image": null,
+            "name": "Academy Oil Colours",
+            "description": "Schmincke Academy Oil Colours are high-quality oil paints designed for artists of all levels, featuring a balanced range of colors with excellent lightfastness and strong pigmentation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "29108e95-5c4d-4a12-9b67-367740243088",
+            "image": null,
+            "name": "AERO Color Professional Transparent",
+            "description": "Schmincke AERO Color Professional Transparent is a range of acrylic-based airbrush colors designed for artists, offering high transparency, excellent pigment quality, and smooth flow.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "974d6441-a9a8-4e59-9445-7a54fab2e5ad",
+            "image": null,
+            "name": "Aqua Brushes",
+            "description": "Schmincke Aqua Brushes are high-quality watercolor brushes designed for artists seeking precision and control while painting with watercolors. Their ergonomic design and durable bristles ensure a smooth and enjoyable painting experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke"
+            }
+        },
+        {
+            "id": "7fba9c20-84b7-481a-818d-7a4c1325fda7",
+            "image": null,
+            "name": "Blick Studio Watercolor",
+            "description": "Blick Studio Watercolor is a series of professional-quality watercolor paints designed for artists of all levels, offering vibrant pigmentation and smooth application for various techniques in watercolor painting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "3d1df444-01a6-46f7-a4dd-01e7f390172c",
+            "image": null,
+            "name": "System3 Acrylics",
+            "description": "Daler Rowney System3 Acrylics are versatile acrylic paints that offer vibrant color and quick-drying properties, ideal for artists and hobbyists alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "edffed2b-e7fe-4e9f-8b36-b0b8981f54a0",
+            "image": null,
+            "name": "Cryla Acrylics",
+            "description": "Daler Rowney Cryla Acrylics are high-quality acrylic paints designed for artists seeking vibrant colors and excellent lightfastness. They are ideal for use on various surfaces and provide a smooth, consistent finish.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "ee7836ce-610f-49ad-9949-b6d82df2eb3e",
+            "image": null,
+            "name": "Georgian",
+            "description": "Daler Rowney's Georgian series offers high-quality artists' oil and acrylic paints known for their rich pigmentation and smooth consistency, making them suitable for both beginners and experienced artists.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "b00a1714-e849-41ea-8036-dea994a9f168",
+            "image": null,
+            "name": "Creation Line",
+            "description": "The Daler Rowney Creation Line is a collection of art supplies designed for artists of all skill levels, focusing on versatility and quality to facilitate creative expression.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "4dd08ba7-c28a-4329-9233-d042f4d129c2",
+            "image": null,
+            "name": "Suzuki Jimny (new generation)",
+            "description": "The Suzuki Jimny (new generation) is a compact SUV designed for off-road driving, known for its rugged capabilities and lightweight construction, making it suitable for both urban and wilderness environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "496f6438-15b4-4fc4-9574-22cdaf9b5a77",
+            "image": null,
+            "name": "Mitsubishi Lancer (8th Generation)",
+            "description": "The Mitsubishi Lancer (8th Generation) is a compact car known for its reliability, efficient performance, and versatility, often favored for both everyday commuting and sporty driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "b39d3c2c-0f7f-4a10-90ea-243cf5c2d1a8",
+            "image": null,
+            "name": "Mitsubishi Lancer Evolution VIII",
+            "description": "The Mitsubishi Lancer Evolution VIII is a high-performance sports car known for its all-wheel-drive system and turbocharged engine, designed for rally competition and street performance enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "5faf70fa-d88e-48b3-b153-4bdf502606e5",
+            "image": null,
+            "name": "Mitsubishi Eclipse",
+            "description": "The Mitsubishi Eclipse is a compact car known for its sporty design and performance-oriented features, appealing to enthusiasts and everyday drivers alike since its introduction in the early 1990s.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "3d456be8-aa0d-456c-af21-c66afd20cd53",
+            "image": null,
+            "name": "Sparco Evo",
+            "description": "The Sparco Evo is a series of high-performance racing seats designed to provide safety, comfort, and support during motorsport activities. Launched in 2003, these seats are known for their ergonomic design and lightweight construction, making them suitable for both professional and amateur racers.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Sparco"
+            }
+        },
+        {
+            "id": "4a18b190-c042-4bd3-90ce-342bdc6d41aa",
+            "image": null,
+            "name": "Nokian Z",
+            "description": "The Nokian Z is a high-performance summer tire designed for excellent handling and grip on both wet and dry surfaces, ensuring a safe and responsive driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "a3879374-f53a-47c6-af64-42e2c9f2b616",
+            "image": null,
+            "name": "Nokian Hakkapeliitta 5",
+            "description": "The Nokian Hakkapeliitta 5 is a winter tire designed for superior traction and safety in severe winter conditions, featuring advanced studded technology for optimal grip on ice and snow.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "213c7603-c596-4bdf-838d-18dc9096ef26",
+            "image": null,
+            "name": "Nokian WR G2",
+            "description": "The Nokian WR G2 is a winter tire designed for optimal performance in cold and snowy conditions, featuring advanced tread design for enhanced grip and stability.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "cf892305-a9d0-4c9a-bda4-fbc9fde98a43",
+            "image": null,
+            "name": "Hakka 7",
+            "description": "The Nokian Hakka 7 is a studded winter tire designed for superior grip and performance on icy and snowy roads, ensuring safe driving in harsh winter conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "42fa6087-0543-4709-89a1-03d03c705f0e",
+            "image": null,
+            "name": "Nokian WR A4",
+            "description": "The Nokian WR A4 is an all-season tire designed for superior performance in varying weather conditions, offering reliable handling, excellent grip, and reduced rolling resistance for enhanced fuel efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "06bb0bd1-8f7e-43cb-af8f-634b0dc710d4",
+            "image": null,
+            "name": "Infiniti FX50",
+            "description": "The Infiniti FX50 is a luxury midsize SUV, known for its blend of sporty performance and advanced technology, catering to drivers seeking both comfort and dynamism.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        }
+    ]
+}

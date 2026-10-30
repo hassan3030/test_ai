@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "8040a807-6f6f-4a5f-afab-9abc89217b34",
+            "image": null,
+            "name": "Turtle Wax Express Shine",
+            "description": "Turtle Wax Express Shine is a car care product designed for quick application, providing a high-gloss finish and protection to automotive surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "4059eab8-ae79-4828-ac8e-ffa5bd30c3df",
+            "image": null,
+            "name": "Turtle Wax Pro",
+            "description": "Turtle Wax Pro is a comprehensive line of car care products designed for professional quality cleaning, protection, and detailing. This series emphasizes enhanced performance and durability to meet the demands of automotive professionals.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "2f3facc7-e286-44f2-894c-d09e4c0e1f1d",
+            "image": null,
+            "name": "Turtle Wax Rinse-Free Wash & Wax",
+            "description": "Turtle Wax Rinse-Free Wash & Wax is a convenient car care solution designed to clean and shine vehicles without the need for rinsing with water. It effectively removes dirt and grime while leaving a protective wax finish.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "9b855968-d091-487b-b2db-a6b46abde61e",
+            "image": null,
+            "name": "Lamborghini Huracán Sterrato",
+            "description": "The Lamborghini Huracán Sterrato is an off-road sports car designed for dynamic performance on both paved and unpaved surfaces, featuring enhanced ground clearance and all-terrain capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "4e656e53-3e08-415c-81ae-e154adfbbbe3",
+            "image": null,
+            "name": "City Tour 2",
+            "description": "The Baby Jogger City Tour 2 is a compact and lightweight stroller designed for families on the go. Its features include a one-hand fold mechanism, an adjustable calf support, and a large storage basket, making it ideal for urban living and travel.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "afea5947-3d8c-458f-8b94-1303c3cdfe0c",
+            "image": null,
+            "name": "CB Trigger",
+            "description": "The Honda CB Trigger is a motorcycle designed for everyday commuting and casual riding, known for its stylish design and efficient performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "005a0b66-2cc9-4829-a9ea-d13e0ea5c245",
+            "image": null,
+            "name": "Conté à Paris Pastels",
+            "description": "Conté à Paris Pastels are high-quality art supplies designed for professional artists and enthusiasts, known for their rich color pigments and smooth application.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "3185efd0-16b1-42cb-8350-008928f6ad77",
+            "image": null,
+            "name": "Volkswagen Scirocco Mk3",
+            "description": "The Volkswagen Scirocco Mk3 is a compact sports coupe that combines sporty design with everyday practicality, designed to appeal to enthusiasts seeking a dynamic driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "19b647df-4f23-449c-afa1-9d60c8b5ef89",
+            "image": null,
+            "name": "Cuisinart AirFryer",
+            "description": "The Cuisinart AirFryer series includes appliances designed to fry food using hot air circulation, providing a healthier alternative to traditional deep frying by significantly reducing the amount of oil needed.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "db511ace-9242-41d7-b399-b96cb15f9e20",
+            "image": null,
+            "name": "Shadows",
+            "description": "The Maui Jim Shadows series offers high-performance sunglasses designed to enhance visual clarity and reduce glare, making them ideal for outdoor activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "ba9f8889-10ab-442d-8042-743f9239060c",
+            "image": null,
+            "name": "Volkswagen Passat (NMS)",
+            "description": "The Volkswagen Passat (NMS) is a mid-size sedan designed for comfort and efficiency. It features a spacious interior and a range of engine options, appealing to consumers seeking a balance of practicality and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "75b0fbae-946e-4ba6-8143-e3428bbbdbba",
+            "image": null,
+            "name": "Seagate IronWolf",
+            "description": "The Seagate IronWolf series consists of high-performance hard disks designed for NAS (Network Attached Storage) applications, offering reliability, durability, and enhanced data management capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "60210209-41c6-43ca-881c-2cc9d2999101",
+            "image": null,
+            "name": "Seagate SkyHawk",
+            "description": "The Seagate SkyHawk series is designed specifically for surveillance applications, providing reliable performance and enhanced storage capacity for video and image data recording. It offers features tailored to the demands of CCTV and IP video systems.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "de6becb4-a3ef-4386-bad1-4066bc2dec25",
+            "image": null,
+            "name": "Seagate FireCuda 510 SSD",
+            "description": "The Seagate FireCuda 510 SSD is a high-performance solid-state drive designed for gaming and creative applications, offering fast load times and reliable storage solutions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "135534f2-d6da-4443-b319-bd9f37bb5d87",
+            "image": null,
+            "name": "IronWolf",
+            "description": "The Seagate IronWolf series includes hard disks designed specifically for NAS (Network Attached Storage) applications, offering enhanced data management and reliability for home and small business servers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "b9e5a024-ac89-4b8a-9f31-5515b52c1def",
+            "image": null,
+            "name": "Exos",
+            "description": "Seagate Exos hard disks are designed for large-scale enterprise environments, providing high capacity and reliability for data storage solutions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "74d6f776-7d06-4abd-9163-f57779d89163",
+            "image": null,
+            "name": "Seagate FireCuda 530",
+            "description": "The Seagate FireCuda 530 is a high-performance solid-state drive designed for gaming and creative applications, offering fast read and write speeds along with high durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "1fd79489-75ba-4f53-80fc-cadf60a74ad6",
+            "image": null,
+            "name": "Seagate Expansion SSD",
+            "description": "The Seagate Expansion SSD is a portable solid-state drive designed for fast data storage and transfer, providing users with a reliable and compact solution for their storage needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "57405541-b7c5-47ef-88f6-84291429a6b2",
+            "image": null,
+            "name": "IronWolf Pro",
+            "description": "The Seagate IronWolf Pro series consists of high-performance hard disks designed for NAS (Network Attached Storage) systems, providing robust data storage solutions with enhanced reliability and optimized for multi-user environments.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "2a0cc5ad-e3dc-4ef5-aef2-4dd01b89e6f1",
+            "image": null,
+            "name": "Logitech G Pro",
+            "description": "The Logitech G Pro series consists of high-performance gaming accessories designed for esports professionals and competitive gamers, emphasizing precision, durability, and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "51cfea64-7fc4-4858-96ab-d66665d6ec21",
+            "image": null,
+            "name": "Logitech G403",
+            "description": "The Logitech G403 is a gaming mouse designed for precision and comfort, featuring customizable RGB lighting and advanced sensor technology to enhance gaming performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "7df4793e-117d-46ca-bffa-949c58350aea",
+            "image": null,
+            "name": "Logitech G513",
+            "description": "The Logitech G513 is a high-performance mechanical gaming keyboard designed to enhance gaming experiences with customizable RGB lighting, advanced features, and a precision-crafted design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "3cac225d-b06b-40c7-a42d-691b2dd5eccb",
+            "image": null,
+            "name": "Logitech G Pro X",
+            "description": "The Logitech G Pro X series is a collection of professional-grade gaming accessories designed to deliver high performance and customization for esports athletes and enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "17693cac-abcf-4da1-b842-2bdc7f2674dc",
+            "image": null,
+            "name": "Logitech G703 LIGHTSPEED Wireless Gaming Mouse",
+            "description": "The Logitech G703 LIGHTSPEED Wireless Gaming Mouse is designed for gamers seeking high-performance precision, featuring advanced LIGHTSPEED wireless technology for a lag-free experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "a59ed58d-158a-42cd-b135-f9dc14d1db79",
+            "image": null,
+            "name": "Logitech G923 Racing Wheel",
+            "description": "The Logitech G923 Racing Wheel is a high-performance gaming accessory designed for racing enthusiasts, offering realistic force feedback and responsive controls for an immersive driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "6fc8807e-ee9f-4ae7-8cab-4278bbc14bdb",
+            "image": null,
+            "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+            "description": "The Logitech G Pro X Mechanical Gaming Keyboard is designed for competitive gamers, featuring customizable RGB lighting, swappable switches, and a compact tenkeyless design for portability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "fd5d80dd-798b-4d86-9552-b56fd1c3d651",
+            "image": null,
+            "name": "Logitech G Pro Wireless Gaming Mouse",
+            "description": "The Logitech G Pro Wireless Gaming Mouse is a high-performance gaming accessory designed for esports professionals, featuring advanced wireless technology, a lightweight design, and customizable settings for optimal gameplay.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "571ae724-2d53-42e8-a968-1aa7270e761b",
+            "image": null,
+            "name": "Logitech G560 LIGHTSYNC Gaming Speakers",
+            "description": "The Logitech G560 LIGHTSYNC Gaming Speakers are designed for immersive gaming experiences, featuring customizable RGB lighting that syncs with in-game actions for dynamic audio-visual interaction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "9369dd43-2702-45d0-afd1-01fc0fcd496c",
+            "image": null,
+            "name": "Logitech G335",
+            "description": "The Logitech G335 series is a line of lightweight gaming headsets designed for comfort and immersive audio performance during gameplay.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "1182a9bc-bb8f-4b19-8ab4-851f1f9dd56a",
+            "image": null,
+            "name": "Logitech G733",
+            "description": "The Logitech G733 is a wireless gaming headset designed for immersive audio experiences and comfort during long gaming sessions, featuring customizable RGB lighting and a lightweight design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "71c5e636-af28-436c-b33a-17cd2808c56f",
+            "image": null,
+            "name": "Maytag® Commercial Washer",
+            "description": "The Maytag® Commercial Washer series is designed for heavy-duty performance in commercial laundry environments, featuring robust construction and efficient operation to handle high volumes of laundry with ease.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "6514dc1b-56d5-4bdd-b806-bdb615eec8b4",
+            "image": null,
+            "name": "S-Series Multi-Channel Amplifiers",
+            "description": "The Pioneer S-Series Multi-Channel Amplifiers are designed to enhance the audio experience in vehicles by providing powerful and clear amplification for multiple speakers.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "c4b0ed1d-745b-4533-a475-f14a9001c3bd",
+            "image": null,
+            "name": "Lamborghini Gallardo",
+            "description": "The Lamborghini Gallardo is a luxury sports car series produced by Lamborghini from 2002 to 2013, known for its striking design, powerful performance, and advanced technology.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "9b046099-c599-4ba5-8f21-63c5e96ba7a9",
+            "image": null,
+            "name": "Fire HD 10 (13th Generation)",
+            "description": "The Amazon Fire HD 10 (13th Generation) is a versatile tablet designed for entertainment, productivity, and accessibility, featuring a vibrant display and seamless integration with Amazon services.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "ca5c9dab-837c-4dc0-9b4a-26ab8632dccf",
+            "image": null,
+            "name": "Lamborghini Gallardo LP 570-4 Spyder Performante",
+            "description": "The Lamborghini Gallardo LP 570-4 Spyder Performante is a high-performance sports car known for its lightweight construction, powerful V10 engine, and advanced aerodynamics, designed for exhilarating driving experiences.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "5ba95359-832d-47de-bc28-73f1c9b813d7",
+            "image": null,
+            "name": "Lamborghini Aventador",
+            "description": "The Lamborghini Aventador is a high-performance sports car known for its striking design and powerful V12 engine, embodying the brand's legacy of luxury and speed since its release in 2011.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "53d81bfd-0899-4daf-9dd5-ab470a318966",
+            "image": null,
+            "name": "Lamborghini Aventador LP 750-4 Superveloce",
+            "description": "The Lamborghini Aventador LP 750-4 Superveloce is a high-performance sports car that combines exceptional engineering with an aggressive design, targeted at enthusiasts seeking an exhilarating driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "88962877-cb74-49fa-b583-fb18e9fe6eea",
+            "image": null,
+            "name": "Lamborghini Centenario",
+            "description": "The Lamborghini Centenario is a limited-edition supercar that commemorates the 100th birthday of founder Ferruccio Lamborghini. Built for high performance and unique design, it exemplifies Lamborghini's commitment to luxury and cutting-edge technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "14a6ff6a-cfb2-4bda-b238-a285ad19d16b",
+            "image": null,
+            "name": "Seagate IronWolf Pro 20TB",
+            "description": "The Seagate IronWolf Pro 20TB hard disk is designed for high-performance storage in multi-user NAS environments, offering reliability and efficiency for business and creative applications.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "f5e7c373-0f98-4824-a631-547bb2503486",
+            "image": null,
+            "name": "Yamaha FJR1300",
+            "description": "The Yamaha FJR1300 is a sport-touring motorcycle designed for long-distance comfort and performance, featuring advanced engineering and technology for a smooth riding experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "dd65163d-4281-485d-b020-391bf66df3b4",
+            "image": null,
+            "name": "Nord Electro 5 HP",
+            "description": "The Nord Electro 5 HP is a portable stage piano and organ designed for live performances, featuring a lightweight design, powerful sound engine, and extensive selection of classic organ and piano sounds.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "22cafaf2-f637-42bf-920c-ee4ce89a3138",
+            "image": null,
+            "name": "Fisher & Paykel Series 7 Refrigerators",
+            "description": "The Fisher & Paykel Series 7 Refrigerators are designed to provide exceptional storage solutions and fresh food preservation, combining advanced technology with a sleek, modern aesthetic.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "41c81e91-84dd-4c02-9aab-62ea2bb91b86",
+            "image": null,
+            "name": "Integrated Column Refrigeration",
+            "description": "The Fisher & Paykel Integrated Column Refrigeration series offers a sleek and modern design for seamless integration into your kitchen. This series focuses on maximizing storage space while maintaining optimal food freshness and consistent temperature control.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "47da9ae9-c413-4f34-abe3-afeaa5b3b45a",
+            "image": null,
+            "name": "Maytag Commercial Laundry",
+            "description": "The Maytag Commercial Laundry series consists of robust washing machines designed for heavy usage in commercial environments, emphasizing durability and efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "62bdabed-1851-4703-be59-c73320fbe39d",
+            "image": null,
+            "name": "Maytag® Commercial Technology",
+            "description": "The Maytag® Commercial Technology series offers durable and efficient washing machines designed for heavy use in commercial environments, providing reliable performance and advanced features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Maytag"
+            }
+        },
+        {
+            "id": "e7704849-9cd2-4032-944b-baeab6969395",
+            "image": null,
+            "name": "Dometic CFF Series",
+            "description": "The Dometic CFF Series consists of portable refrigerators designed for efficient cooling and convenience during outdoor activities and travel.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dometic"
+            }
+        },
+        {
+            "id": "16bd6e05-e696-4cc3-b2d4-d869be87d7ff",
+            "image": null,
+            "name": "Dometic CoolFreeze Series",
+            "description": "The Dometic CoolFreeze Series offers portable refrigeration solutions designed for mobile use, providing efficient cooling and freezing capabilities for outdoor activities and travel.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dometic"
+            }
+        },
+        {
+            "id": "0cbf8dcb-f4fa-48ef-b4c6-a29dab0588a2",
+            "image": null,
+            "name": "Dometic H-Series Refrigerators",
+            "description": "The Dometic H-Series Refrigerators are designed for efficient cooling in various environments, providing reliable refrigeration solutions for RVs and outdoor use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dometic"
+            }
+        },
+        {
+            "id": "ed9c08da-b0d4-47c6-b5f8-672dc64622e4",
+            "image": null,
+            "name": "DuraPact Series",
+            "description": "The DuraPact Series by Bradford White is designed to provide durable and efficient water heating solutions, offering reliability for residential and commercial applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Bradford White"
+            }
+        },
+        {
+            "id": "5b88c34b-9eda-491a-8106-9651afc6efc0",
+            "image": null,
+            "name": "Cloudsteppers",
+            "description": "The Clarks Cloudsteppers series offers lightweight and comfortable sneakers designed for all-day wear, featuring advanced cushioning and flexible materials for enhanced mobility.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Clarks"
+            }
+        },
+        {
+            "id": "f58edf18-ff44-48d0-aae0-aaf42d7304e2",
+            "image": null,
+            "name": "Seagate Barracuda 8TB",
+            "description": "The Seagate Barracuda 8TB is a high-capacity hard disk drive designed for storage-intensive applications, offering reliability and speed for both personal and professional use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "c95b2f3e-c0b7-47a3-b1bb-6c0ee22dfa6c",
+            "image": null,
+            "name": "Aqua",
+            "description": "The Ariston Thermo Aqua series consists of water heaters designed to provide efficient and reliable hot water solutions for residential and commercial use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Ariston Thermo"
+            }
+        },
+        {
+            "id": "c9522473-1d17-402f-8680-3299ce74e9b5",
+            "image": null,
+            "name": "Class 5",
+            "description": "The Ariston Thermo Class 5 series consists of high-efficiency water heaters designed to provide reliable hot water solutions for residential and commercial applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Ariston Thermo"
+            }
+        },
+        {
+            "id": "1c62c034-7b34-4054-bfe3-50d6deebd072",
+            "image": null,
+            "name": "Aures",
+            "description": "The Ariston Aures series of water heaters is designed for efficient and instantaneous water heating, providing a reliable solution for domestic hot water needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Ariston Thermo"
+            }
+        },
+        {
+            "id": "7030d877-376d-4613-bbef-80c1363986ab",
+            "image": null,
+            "name": "Genius",
+            "description": "The Ariston Thermo Genius series features advanced water heaters designed for efficient and reliable hot water supply, ensuring comfort and energy savings in residential and commercial settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Ariston Thermo"
+            }
+        },
+        {
+            "id": "ca830a10-2264-4df3-b700-20ec007ee529",
+            "image": null,
+            "name": "N Series",
+            "description": "Noritz's N Series is a line of highly efficient tankless water heaters designed for residential and commercial applications, providing continuous hot water without the need for a storage tank.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Noritz"
+            }
+        },
+        {
+            "id": "8de22627-4402-4c4c-bfee-f16f12a51178",
+            "image": null,
+            "name": "EZ Series",
+            "description": "The Noritz EZ Series is a line of water heaters designed for efficient and reliable heating solutions, providing instant hot water while minimizing energy consumption.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Noritz"
+            }
+        },
+        {
+            "id": "18ae8985-9853-4e21-8e99-9bc502ed180d",
+            "image": null,
+            "name": "Noritz NRC Series",
+            "description": "The Noritz NRC Series is a line of high-efficiency tankless water heaters designed to provide continuous hot water while minimizing energy consumption.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Noritz"
+            }
+        },
+        {
+            "id": "bb2956fc-e108-482f-99e6-1c2d1729a5b2",
+            "image": null,
+            "name": "Noritz NRC661 Condensing Tankless Water Heater",
+            "description": "The Noritz NRC661 Condensing Tankless Water Heater is an energy-efficient system designed to provide endless hot water on demand, utilizing advanced condensing technology for improved efficiency and reduced energy costs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Noritz"
+            }
+        },
+        {
+            "id": "ad039495-a37d-472e-80bd-c840defcdc4f",
+            "image": null,
+            "name": "Noritz NPN, NC, and N-067M Series",
+            "description": "The Noritz NPN, NC, and N-067M Series are energy-efficient tankless water heaters designed to provide continuous hot water for residential and commercial applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Noritz"
+            }
+        }
+    ]
+}

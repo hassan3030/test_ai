@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8536eacd-8381-4364-95b2-0c73398cfa85",
+            "image": null,
+            "name": "Chery QQ3",
+            "description": "The Chery QQ3 is a compact city car designed for urban mobility, known for its affordability and fuel efficiency.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "2319672d-0602-4f65-83c1-a3bbd5cab8e6",
+            "image": null,
+            "name": "Chery Arrizo 7",
+            "description": "The Chery Arrizo 7 is a compact sedan produced by Chery Automobile, designed to offer a balance of comfort, style, and advanced technology at an accessible price point.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "0d621c95-90ec-4ab8-91e4-299202d5e21f",
+            "image": null,
+            "name": "Chery Arrizo 5",
+            "description": "The Chery Arrizo 5 is a compact sedan that combines modern design with practicality, designed for everyday driving needs and efficient fuel economy.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "17fe0af8-4210-4185-8975-dee1e25b264b",
+            "image": null,
+            "name": "Chery Exeed TX",
+            "description": "The Chery Exeed TX is a midsize SUV released in 2018, designed to offer a blend of comfort, style, and advanced technology features for family and leisure use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "52ea1775-ff99-4d13-9b02-37ebccd12ef3",
+            "image": null,
+            "name": "Tiggo 7",
+            "description": "The Chery Tiggo 7 is a compact SUV designed to provide a blend of modern features, comfort, and practicality for urban driving and family use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "672af896-7e5f-409e-a0e0-30476b08fb05",
+            "image": null,
+            "name": "Chery Arrizo 5 Plus",
+            "description": "The Chery Arrizo 5 Plus is a compact sedan that combines modern design with efficient performance, aimed at providing a comfortable driving experience for urban commuters.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery"
+            }
+        },
+        {
+            "id": "5652c729-8478-4eb6-bfa5-bbc1b3d0cd27",
+            "image": null,
+            "name": "Disney Princess",
+            "description": "The Disney Princess series features a range of toys inspired by Disney's iconic princess characters, designed to encourage imaginative play and storytelling for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "82a35c6e-f7f5-46d6-9013-f0a5d548ccc0",
+            "image": null,
+            "name": "Tsum Tsum",
+            "description": "The Disney Tsum Tsum series features plush toys designed in a stackable format, inspired by popular Disney characters. They are designed for imaginative play and collection, making them a favorite among fans of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "ff16a00d-00b1-472e-be60-75616ebe8eb4",
+            "image": null,
+            "name": "Finding Dory",
+            "description": "The Finding Dory toy series features a variety of playful and interactive figures based on characters from the animated film 'Finding Dory,' aimed at encouraging imaginative play and helping children develop emotional and social skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "06c90322-9d4e-4a28-b2fc-2a64ebf40d58",
+            "image": null,
+            "name": "Frozen II",
+            "description": "Disney Frozen II toys are inspired by the popular animated film, offering children a chance to recreate scenes and stories from the movie while encouraging imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "62fda5b1-59f3-4fe2-b8d5-5681dc4b432c",
+            "image": null,
+            "name": "Toy Story 4",
+            "description": "The Toy Story 4 series by Disney features a collection of action figures and playsets based on the beloved animated film, designed to inspire imaginative play among children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "4e768662-8be7-45e7-a5d9-cc7356f7ebf5",
+            "image": null,
+            "name": "Disney Princess Toys",
+            "description": "The Disney Princess Toys series features a range of playsets and figures inspired by beloved Disney Princess characters, encouraging imaginative play and storytelling for children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "9e5ea613-260e-47a7-b7d4-d29ec6394e1a",
+            "image": null,
+            "name": "Disney Frozen 2 Toys",
+            "description": "The Disney Frozen 2 Toys series features figurines and playsets inspired by the animated film, allowing children to recreate their favorite scenes and create new adventures with beloved characters like Elsa and Anna.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "b3e0ad0d-9452-4e24-9297-80f5230ad6e9",
+            "image": null,
+            "name": "Disney Baby Clothes",
+            "description": "Disney Baby Clothes is a collection of delightful and stylish clothing designed for young children, featuring beloved Disney characters and themes. The collection aims to provide comfort and joy to little ones, while also celebrating the magic of Disney.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "69937b5e-d1ab-4946-b126-077adc0c1222",
+            "image": null,
+            "name": "BYD F3",
+            "description": "The BYD F3 is a compact sedan developed by BYD, known for its affordability and fuel efficiency, aimed primarily at the Chinese domestic market.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "23cfe5c1-4f93-41f7-b04e-ad8c89f61b9f",
+            "image": null,
+            "name": "BYD G3",
+            "description": "The BYD G3 is a compact sedan produced by BYD Auto, mainly aimed at providing a balance of comfort and affordability in the small car market.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "e3d14cb5-83f0-42a9-a1cc-826309126900",
+            "image": null,
+            "name": "BYD S6",
+            "description": "The BYD S6 is a midsize SUV designed to provide a balance of comfort and performance, targeting consumers seeking a versatile vehicle for family and everyday use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "4b653375-b98e-4d4f-b8d9-ab9d50a81823",
+            "image": null,
+            "name": "BYD E6",
+            "description": "The BYD E6 is a compact MPV designed primarily for urban use, offering practicality and efficiency with its electric powertrain.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "2ed25e82-3f3a-4b7d-904f-0d1e4296a637",
+            "image": null,
+            "name": "BYD F0",
+            "description": "The BYD F0 is a compact city car designed for urban mobility, offering a practical and economical solution for daily transportation needs.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "f782e9fd-f8e1-4dcf-ba62-26c92f1966a8",
+            "image": null,
+            "name": "BYD G6",
+            "description": "The BYD G6 is a mid-size sedan that focuses on providing a balance between comfort, performance, and fuel efficiency, making it a practical choice for everyday drivers.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "f5c8ebba-6bcc-4060-9a08-8f20a6aa7b48",
+            "image": null,
+            "name": "BYD Qin",
+            "description": "The BYD Qin is a series of hybrid and electric vehicles designed to provide eco-friendly transportation solutions without compromising performance and comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "38ac75f7-5508-49c9-9bef-e3ad8b599571",
+            "image": null,
+            "name": "BYD Song",
+            "description": "The BYD Song is a series of compact SUVs designed to provide a versatile and comfortable driving experience, combining practicality with modern features.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "93b2d49b-5b79-4397-b465-1e421edca1ea",
+            "image": null,
+            "name": "BYD Song Pro",
+            "description": "The BYD Song Pro is a compact SUV designed to deliver versatility, modern aesthetics, and advanced technology, making it a favored choice for urban and family use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "3c9daeda-7db7-49e4-baac-727129069a58",
+            "image": null,
+            "name": "Song PLUS",
+            "description": "The BYD Song PLUS is a modern electric vehicle designed to provide a blend of performance, comfort, and advanced technology, making it suitable for urban commuting and family travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "4c334d72-2d37-409b-bf3d-41dd08292bcb",
+            "image": null,
+            "name": "LC Waikiki Women's Spring/Summer Collection 2023",
+            "description": "The LC Waikiki Women's Spring/Summer Collection 2023 presents a range of stylish and comfortable clothing designed for the warm seasons, focusing on quality fabrics and contemporary trends.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "LC Waikiki"
+            }
+        },
+        {
+            "id": "15495fb7-976f-42ab-886e-01e37b5c4637",
+            "image": null,
+            "name": "LC Waikiki Men's Spring/Summer Collection 2023",
+            "description": "LC Waikiki Men's Spring/Summer Collection 2023 features a diverse range of stylish and comfortable clothing designed for the warmer months, focusing on practicality and contemporary fashion trends.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "LC Waikiki"
+            }
+        },
+        {
+            "id": "e7d1e436-2546-4a73-934d-095a8be297c6",
+            "image": null,
+            "name": "Mothercare My 1st Years",
+            "description": "Mothercare My 1st Years is a collection of kids' clothing designed for infants and toddlers, focusing on comfort and style for their early years.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mothercare"
+            }
+        },
+        {
+            "id": "1f4b7142-a2bc-4182-beaf-9cc17e14b310",
+            "image": null,
+            "name": "Mothercare Snap & Go",
+            "description": "The Mothercare Snap & Go series features lightweight and portable strollers designed for ease of use, allowing parents to quickly transition from car to pushchair.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mothercare"
+            }
+        },
+        {
+            "id": "d0b18bc1-2472-4339-920f-7ddd68aef5aa",
+            "image": null,
+            "name": "Mothercare Mylo 2",
+            "description": "The Mothercare Mylo 2 is a versatile stroller designed for comfort and ease of use, suitable for babies from birth to toddler age. It features a lightweight frame and multiple seating positions for adaptability during various stages of a child's growth.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mothercare"
+            }
+        },
+        {
+            "id": "6b9aa05c-ed7a-4236-b8e1-c3d40f8d65db",
+            "image": null,
+            "name": "Mothercare Nanu Stroller",
+            "description": "The Mothercare Nanu Stroller is designed for effortless maneuverability and comfort, making it a practical choice for parents on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Mothercare"
+            }
+        }
+    ]
+}

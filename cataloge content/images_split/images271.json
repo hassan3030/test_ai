@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "5f5b1aed-18c6-4fcb-b324-68b851847d8a",
+            "image": null,
+            "name": "Earthquake",
+            "description": "The Phoenix Gold Earthquake series is a line of car audio products designed to deliver high-performance sound, with an emphasis on powerful bass and audio clarity for an enhanced listening experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "751591b9-2db0-4960-8267-982cfc1db12c",
+            "image": null,
+            "name": "Ninja Foodi Deluxe XL",
+            "description": "The Ninja Foodi Deluxe XL is an innovative air fryer that combines multiple cooking functions, allowing users to air fry, bake, roast, and more with ease and versatility.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "9ae8274e-dda8-4ef5-ac52-71c43153f19d",
+            "image": null,
+            "name": "Bridgestone Turanza T005",
+            "description": "The Bridgestone Turanza T005 is a touring tire designed for premium performance and comfort, featuring enhanced grip and reduced rolling resistance for a smooth ride.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "3a49e472-58a0-4ef8-99bc-7b7ecfdd601f",
+            "image": null,
+            "name": "Thule GoPack",
+            "description": "The Thule GoPack series includes durable and versatile bags designed for outdoor adventures and travel, providing efficient organization and easy access to gear.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "0e5a3813-6a4c-418b-ac07-ff66984c6b62",
+            "image": null,
+            "name": "Paul Smith Men's Clothing",
+            "description": "Paul Smith Men's Clothing is a collection that showcases a blend of classic tailoring and contemporary design, offering stylish options for modern men.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "57abfe65-eb01-4feb-9c3f-118aacea10a5",
+            "image": null,
+            "name": "Klymit Static V Luxe Sleeping Pad",
+            "description": "The Klymit Static V Luxe Sleeping Pad is designed for comfort and convenience during camping trips, featuring a spacious design and an advanced V-chamber construction that minimizes movement and enhances insulation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "9cd6f06f-ef0a-4406-b1ab-8d3e767573de",
+            "image": null,
+            "name": "Joie Every Stage",
+            "description": "The Joie Every Stage series offers versatile baby seats designed to accommodate children from birth through to their teenage years, providing safety and comfort across multiple stages of growth.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "07b6eae3-a8db-47e6-99d1-8e3e267cf234",
+            "image": null,
+            "name": "Klymit Insulated Static V Lite Sleeping Pad",
+            "description": "The Klymit Insulated Static V Lite Sleeping Pad is designed for backpackers seeking a lightweight, insulated sleeping solution that provides comfort and warmth in varying temperatures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "dc456dcb-3d7c-420b-b2c0-c0425236af87",
+            "image": null,
+            "name": "Husqvarna MX and WR Models",
+            "description": "The Husqvarna MX and WR Models are a series of off-road motorcycles designed for motocross and enduro riding, known for their lightweight construction and superior handling on rugged terrain.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a0b7fe63-3b08-4c3b-a09a-0b86e374368a",
+            "image": null,
+            "name": "Husqvarna FC",
+            "description": "The Husqvarna FC series is a line of high-performance motocross motorcycles designed for competitive riding, featuring agile handling and lightweight construction.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "1cc7c088-c850-4f43-a60d-5f9d7bb67abf",
+            "image": null,
+            "name": "Veja V-Lock",
+            "description": "The Veja V-Lock is a sustainable sneaker series designed with ecological materials and a focus on fair trade practices, blending style and environmental responsibility.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "0abf62de-cc49-466f-aa50-2acad75c3a86",
+            "image": null,
+            "name": "TicWatch Pro 3 Plus GPS",
+            "description": "The TicWatch Pro 3 Plus GPS is a smartwatch designed to provide advanced health and fitness tracking features, alongside traditional smartwatch capabilities, ensuring users stay connected and monitor their wellness effectively.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "TicWatch"
+            }
+        },
+        {
+            "id": "18e0dd0a-1e47-4a23-8c39-6683eda7f356",
+            "image": null,
+            "name": "Le Pliage Neo",
+            "description": "Le Pliage Neo is a collection of lightweight, foldable bags from Longchamp known for their practicality and modern design, introducing a contemporary twist to the classic Le Pliage line.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Longchamp"
+            }
+        },
+        {
+            "id": "9cec36eb-e553-43ee-a560-6e3618358486",
+            "image": null,
+            "name": "Hybrid Ceramic Wax",
+            "description": "Meguiar's Hybrid Ceramic Wax is a car care product released in 2020 that combines the protection of traditional wax with the durability of ceramic technology, providing long-lasting shine and enhanced hydrophobic properties.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "a915040b-39ac-4a6c-a237-9a10f825a4aa",
+            "image": null,
+            "name": "Amsterdam",
+            "description": "Royal Talens Amsterdam is a series of high-quality art supplies designed for professional artists and enthusiasts alike, emphasizing vivid colors, excellent lightfastness, and versatility for various applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "8038e035-51fd-4794-90dd-b33875cc7b3a",
+            "image": null,
+            "name": "Russell Hobbs 24620",
+            "description": "The Russell Hobbs 24620 Air Fryer is designed to offer a healthier alternative to frying by using hot air circulation to cook food with little or no oil, resulting in crispy textures and less fat content.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "0b0e93e5-3409-4c9a-bc25-b885ed3ecce1",
+            "image": null,
+            "name": "Lamborghini Veneno",
+            "description": "The Lamborghini Veneno is a limited-production supercar known for its extreme aerodynamic design and high-performance capabilities, epitomizing Lamborghini's innovation in automotive engineering.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "8e740c61-4253-4465-9501-157dc04f91ce",
+            "image": null,
+            "name": "Hori Joy-Con Grip",
+            "description": "The Hori Joy-Con Grip is an accessory designed for the Nintendo Switch that enhances comfort and control during gameplay by providing a more ergonomic grip for the Joy-Con controllers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "a384aee4-61e9-4401-ae43-5d17181d561a",
+            "image": null,
+            "name": "Husqvarna TXC 2011",
+            "description": "The Husqvarna TXC 2011 is a versatile off-road motorcycle designed for competitive racing and recreational riding, featuring advanced engineering for enhanced durability and performance in challenging terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "9884c76a-fc59-48de-9f4a-9c0d7260c847",
+            "image": null,
+            "name": "Aquabeads Jewel Bead Studio",
+            "description": "Aquabeads Jewel Bead Studio is a creative set that allows children to design and create colorful bead creations using jewel-shaped beads and water. It encourages fine motor skills and imaginative play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "4b922273-e443-4be4-bc94-f3fd1505ed33",
+            "image": null,
+            "name": "Calvin Klein Essentials",
+            "description": "Calvin Klein Essentials is a collection of women's clothing designed to provide timeless, versatile staples that can be easily mixed and matched for various occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Calvin Klein"
+            }
+        },
+        {
+            "id": "e6e7b9d4-938a-4117-b7b7-7a64b765be4c",
+            "image": null,
+            "name": "Little People",
+            "description": "The Fisher-Price Little People series features a variety of playful figures and environments designed for young children to explore and engage in imaginative play. These toys aim to encourage creativity, social skills, and motor development through interactive play experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "497ca371-33c2-4699-9150-9e9ebadfe16c",
+            "image": null,
+            "name": "Lamborghini Sián FKP 37",
+            "description": "The Lamborghini Sián FKP 37 is a hybrid supercar that combines cutting-edge technology and extreme performance, representing Lamborghini's commitment to innovation and sustainability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "9fb619d4-1cea-49b9-95e5-caad7a60dac7",
+            "image": null,
+            "name": "Nuwave Bravo XL Smart Oven",
+            "description": "The Nuwave Bravo XL Smart Oven is a versatile kitchen appliance designed to function as an air fryer, toaster oven, and more, allowing users to prepare a wide variety of meals with ease and efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "34168079-97a3-4764-874b-c047e389b59f",
+            "image": null,
+            "name": "Treetop",
+            "description": "The Outwell Treetop series is designed for outdoor enthusiasts, offering a range of camping gear that combines functionality, comfort, and durability for a reliable camping experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "d388f054-7450-42f4-aab2-fab4a2c9ab39",
+            "image": null,
+            "name": "Fisher-Price Imaginext DC Super Friends Batbot Xtreme",
+            "description": "The Fisher-Price Imaginext DC Super Friends Batbot Xtreme is an action-packed toy that combines imaginative play with iconic superhero characters, allowing children to create their own superhero adventures with the Batbot and included figures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "537fef31-6618-45f7-a30d-2fac81080470",
+            "image": null,
+            "name": "Potenza S007",
+            "description": "The Bridgestone Potenza S007 is a high-performance tire designed for sports cars and performance vehicles, offering enhanced grip, responsive handling, and improved stability at high speeds.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "87c2b825-bec5-4363-9887-946628620d54",
+            "image": null,
+            "name": "X-Spirit II",
+            "description": "The Shoei X-Spirit II is a premium full-face motorcycle helmet designed for high performance and comfort, featuring advanced aerodynamics and ventilation to enhance the riding experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "404458b8-ee98-4c0c-89eb-1ce6f553b6cf",
+            "image": null,
+            "name": "Veja Esplar",
+            "description": "The Veja Esplar is a sustainable sneaker series known for its eco-friendly materials and ethical production practices, designed for casual wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "65cff1d9-9b2f-4b31-92a4-1a68b112cf27",
+            "image": null,
+            "name": "Meguiar's G19132 Ultimate Detailing Spray",
+            "description": "Meguiar's G19132 Ultimate Detailing Spray is a versatile car care product designed to provide a high-gloss finish while cleaning and protecting surfaces. It is suitable for use on all exterior surfaces and offers advanced polymer chemistry for improved performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        }
+    ]
+}

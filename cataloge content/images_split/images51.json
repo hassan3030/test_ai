@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "134a0ebf-38fe-441a-b474-ebc59d94890f",
+            "image": null,
+            "name": "Outlander",
+            "description": "The Can-Am Outlander series is a lineup of all-terrain vehicles designed for outdoor enthusiasts, known for their robust performance, versatility, and durability in various conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "4ad67523-f4bf-4df9-97ec-44a01e13b0e2",
+            "image": null,
+            "name": "Wingle 5",
+            "description": "The Great Wall Motors Wingle 5 is a versatile pickup truck designed for both work and leisure, offering durability and practicality for various driving conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "50f9d392-363b-49cb-afd9-7a40ab8b8174",
+            "image": null,
+            "name": "Wingle 6",
+            "description": "The Great Wall Motors Wingle 6 is a pickup truck designed for utility and versatility, offering a balance of performance and comfort for everyday use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "5288d76e-56df-48cf-8f50-cc680f66a30d",
+            "image": null,
+            "name": "Mann-Filter C 24 108",
+            "description": "The Mann-Filter C 24 108 is an air filter designed to ensure optimal engine performance by providing clean air to the engine while preventing the entry of dirt and debris.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "56a6a0e9-3162-4fc6-922f-70aa02c0fedb",
+            "image": null,
+            "name": "Subaru WRX STI",
+            "description": "The Subaru WRX STI is a high-performance sports sedan known for its rally-inspired design, all-wheel drive capabilities, and turbocharged engine, targeting driving enthusiasts who seek an adrenaline-fueled experience on and off the road.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "580cd848-7203-454a-bdb5-5327ba21e26a",
+            "image": null,
+            "name": "Mercedes-EQ EQB",
+            "description": "The Mercedes-EQ EQB is an all-electric compact SUV designed to provide versatility and advanced technology while promoting a sustainable driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "6d5b0b7a-4d39-4bb8-b6c6-6a019606a090",
+            "image": null,
+            "name": "Meteor 350",
+            "description": "The Royal Enfield Meteor 350 is a modern cruiser motorcycle designed for comfortable long rides, featuring a classic styling and a smooth riding experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "d9ef6b8b-5ffe-4d1b-9fba-2c673d2a3a85",
+            "image": null,
+            "name": "Classic 350",
+            "description": "The Royal Enfield Classic 350 is a retro-styled motorcycle known for its timeless design and reliable performance, catering to riders who appreciate classic aesthetics and a comfortable ride.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "ef2f0f5d-fff0-454b-b88c-41a929f6b70e",
+            "image": null,
+            "name": "Classic 500",
+            "description": "The Royal Enfield Classic 500 is a retro-styled motorcycle known for its classic design and strong performance. It embodies the heritage of the Royal Enfield brand, offering a blend of nostalgic aesthetics and modern engineering.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "77789712-aac7-4bff-85fb-3648b815f2ad",
+            "image": null,
+            "name": "Audison LRx",
+            "description": "The Audison LRx series is a range of high-performance car audio amplifiers designed to deliver exceptional sound quality and power for automotive audio systems.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "f8b6d3e7-bd55-400f-b5cc-dc8f905a8c3e",
+            "image": null,
+            "name": "Morel Hybrid",
+            "description": "The Morel Hybrid series is a line of premium car audio speakers designed to deliver exceptional sound quality and performance, featuring advanced materials for enhanced clarity and durability.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "27ca95d2-bf72-4ee2-a215-35de1fc1c5ce",
+            "image": null,
+            "name": "Grado GS1000e",
+            "description": "The Grado GS1000e headphones are open-back dynamic audiophile headphones designed for high-fidelity sound reproduction, offering a rich, immersive soundstage and enhanced tonal balance for critical listening.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "21ec6904-bd46-4043-a919-094cac2735aa",
+            "image": null,
+            "name": "Lexus LFA",
+            "description": "The Lexus LFA is a limited-production supercar introduced in 2011, known for its high-performance V10 engine and advanced engineering, embodying Lexus's commitment to luxury and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "7efe50b3-5a06-47c4-96ad-7bf46ef4fca0",
+            "image": null,
+            "name": "Interceptor 650",
+            "description": "The Royal Enfield Interceptor 650 is a classic motorcycle that combines vintage styling with modern engineering, designed for comfortable long-distance rides and daily commuting.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "816f6821-c965-4d5a-90e8-9366ab855734",
+            "image": null,
+            "name": "Super Tweeter",
+            "description": "The Morel Super Tweeter series is designed for car audio systems, providing high-frequency sound reproduction to enhance overall audio clarity and detail.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "8bff9e9c-b667-42f0-b2ce-16e223e98911",
+            "image": null,
+            "name": "Royal Enfield Interceptor 650",
+            "description": "The Royal Enfield Interceptor 650 is a modern classic motorcycle designed for versatile urban and highway riding, combining timeless aesthetics with contemporary performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "8f9a460e-a041-4baa-8d90-5ce131a3a79d",
+            "image": null,
+            "name": "Maximo Series",
+            "description": "The Morel Maximo Series is a line of car audio speakers designed to provide high-fidelity sound reproduction with enhanced clarity and dynamics, making it suitable for audiophiles who seek quality sound in their vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "26724f15-337a-4efd-9468-b80729f67593",
+            "image": null,
+            "name": "Jensen VM Series",
+            "description": "The Jensen VM Series is designed for automotive audio solutions, offering a range of multimedia features for enhanced in-car entertainment since 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Jensen"
+            }
+        },
+        {
+            "id": "46cb79c4-e774-4bc3-be6a-7a729379a4b4",
+            "image": null,
+            "name": "Super Meteor 650",
+            "description": "The Royal Enfield Super Meteor 650 is a cruiser motorcycle designed for comfortable long-distance rides with a blend of classic aesthetics and modern technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "566e1053-b0dc-4b0e-af5b-dab3b09fdc74",
+            "image": null,
+            "name": "Royal Enfield Classic 350",
+            "description": "The Royal Enfield Classic 350 is a retro-styled motorcycle designed for leisurely rides and urban commuting. It combines classic aesthetics with modern engineering, offering riders a blend of tradition and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "56d162d7-c5d5-4455-9d94-e7867fb10389",
+            "image": null,
+            "name": "Tempo",
+            "description": "The Morel Tempo series offers high-quality car audio speakers designed to deliver superior sound performance. Engineered for clarity and fidelity, these speakers enhance the listening experience in vehicles.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "59d5e161-6ce5-4c2b-baf4-091b34f62aef",
+            "image": null,
+            "name": "Royal Enfield Continental GT 650",
+            "description": "The Royal Enfield Continental GT 650 is a modern classic motorcycle, featuring a retro design combined with contemporary engineering, aimed at riders seeking both style and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "a75a83f8-11a0-4258-9468-6176f1f2cf07",
+            "image": null,
+            "name": "Hunter 350",
+            "description": "The Royal Enfield Hunter 350 is a modern motorcycle designed for urban commuting and leisure riding, featuring a classic aesthetic combined with contemporary performance and handling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "a989e16e-fb47-4bfd-b9f1-2413b90fa34c",
+            "image": null,
+            "name": "Morel Elate",
+            "description": "The Morel Elate series is designed for high-fidelity car audio applications, focusing on delivering exceptional sound quality and accurate reproduction across a wide frequency range.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "b665e8e1-8a65-4ecb-b201-6b25e0b922f9",
+            "image": null,
+            "name": "Virtus",
+            "description": "The Morel Virtus series is a line of premium car audio speakers designed to deliver high-fidelity sound and exceptional performance for an enhanced auditory experience while driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "b888be51-ebfa-4855-98bf-8888107f78c0",
+            "image": null,
+            "name": "Morel Tempo",
+            "description": "The Morel Tempo series consists of high-quality car audio speakers designed to deliver exceptional sound performance and clarity, enhancing the overall in-vehicle listening experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "c15ea97f-5860-4de2-b4ad-30302dd35258",
+            "image": null,
+            "name": "Tempo Series",
+            "description": "The Morel Tempo Series is a line of car audio products designed to deliver high-quality sound and performance for music enthusiasts. With a focus on clarity and richness of audio, these speakers aim to enhance the in-car listening experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "c77c9cf7-d350-4781-9809-4db0c70250d5",
+            "image": null,
+            "name": "Morel Supremo",
+            "description": "The Morel Supremo series consists of high-performance car audio speakers designed to deliver exceptional sound quality and clarity, making them ideal for audiophiles and music enthusiasts who prioritize audio fidelity.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "d1751311-2701-4a36-a7f9-abd124138ef8",
+            "image": null,
+            "name": "Himalayan 450",
+            "description": "The Royal Enfield Himalayan 450 is a versatile motorcycle designed for both on-road and off-road adventures, combining rugged capability with modern features for an enhanced riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "edb8d07f-e5dc-4a87-8891-2ba15a6cd4ec",
+            "image": null,
+            "name": "P-Series",
+            "description": "The P-Series by Great Wall Motors is a line of pickup trucks designed for versatility and durability, suitable for both work and recreational use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "d6d2364a-13aa-4143-8f63-6f11dda166ac",
+            "image": null,
+            "name": "Suzuki Ignis",
+            "description": "The Suzuki Ignis is a compact car known for its versatility, efficient space utilization, and distinctive design, making it a practical choice for urban driving and everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "7933d2fe-45f0-48ee-83fb-1f9215c89a1e",
+            "image": null,
+            "name": "53 Series",
+            "description": "The K&N 53 Series is a collection of high-performance air intake systems designed to increase horsepower and acceleration while providing enhanced filtration efficiency for various car models.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "42bab8d1-7cab-4494-b217-d0d6931b0803",
+            "image": null,
+            "name": "Suzuki Swift (2nd generation)",
+            "description": "The Suzuki Swift (2nd generation) is a compact car known for its agile handling, fuel efficiency, and practical design, aimed at consumers seeking a reliable urban vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "ef591c3d-c9fd-4b2b-b398-cb262eef27cf",
+            "image": null,
+            "name": "K&N 77 Series",
+            "description": "The K&N 77 Series is a line of high-performance air intake systems designed to enhance engine efficiency and increase horsepower by providing improved airflow to the engine. These systems are engineered for easy installation and are often reusable, offering a long-term solution for automotive performance enhancement.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "2d5b11a1-ed6e-474f-8b8e-3ecf484becc5",
+            "image": null,
+            "name": "K&N 57 Series Cold Air Intake System",
+            "description": "The K&N 57 Series Cold Air Intake System is designed to improve engine performance by increasing airflow to the engine while also providing better filtration compared to standard air intake systems. This system is engineered for easy installation and typically enhances horsepower and acceleration in vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "a680ba66-3fbc-4e61-a33d-ab67d4386aeb",
+            "image": null,
+            "name": "K&N 57 Series FIPK Intake System",
+            "description": "The K&N 57 Series FIPK Intake System is designed to enhance engine performance by improving airflow and filtration. It replaces the factory air intake system with a high-flow air filter and a custom air intake tube, resulting in increased horsepower and acceleration.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "71f6d6ba-80e4-496f-a4c5-16b710202cab",
+            "image": null,
+            "name": "K&N 63 Series AirCharger High-Flow Intake Systems",
+            "description": "The K&N 63 Series AirCharger High-Flow Intake Systems are designed to improve engine performance by increasing airflow and filtration efficiency. These systems replace factory air intake systems to provide a higher volume of air to the engine, enhancing power and acceleration.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "0ea3eaa7-2e98-4bf8-a77f-d92882bc887b",
+            "image": null,
+            "name": "Suzuki GSR600",
+            "description": "The Suzuki GSR600 is a versatile street motorcycle designed for urban commuting and spirited riding. It features a lightweight chassis and a powerful engine, making it suitable for both novice and experienced riders.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "f58aee27-60e5-4801-a2d4-06511fae4a27",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Air Intakes",
+            "description": "The K&N 77 Series High-Flow Air Intakes are performance air intake systems designed to increase horsepower and acceleration by providing your engine with improved airflow and filtration.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "0084e8a6-f4db-4875-bb47-4aa567ea18ae",
+            "image": null,
+            "name": "HP Omen 16",
+            "description": "The HP Omen 16 is a gaming laptop series designed for high-performance gaming, featuring powerful hardware and an immersive display for a premium gaming experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "7304f01b-623c-4dd9-9faa-6256388ca025",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Performance Air Intake Systems",
+            "description": "The K&N 77 Series High-Flow Performance Air Intake Systems are designed to increase horsepower and acceleration by improving airflow to the engine. These intake systems utilize high-flow air filters and performance tubing to enhance vehicle performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "9ffdfc14-98dc-4cd3-98be-c2b49be8a897",
+            "image": null,
+            "name": "HP Dragonfly G3",
+            "description": "The HP Dragonfly G3 is a premium 2-in-1 convertible laptop designed for business professionals, featuring a sleek design and enhanced productivity tools.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "627927ab-477f-499f-b3b4-a0e8020484c2",
+            "image": null,
+            "name": "Suzuki Boulevard C50T",
+            "description": "The Suzuki Boulevard C50T is a cruiser motorcycle that combines classic styling with modern technology, designed for comfortable long-distance riding.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "715fd291-aa04-451e-9e77-dcae1401b069",
+            "image": null,
+            "name": "Suzuki Swift (New Generation)",
+            "description": "The Suzuki Swift (New Generation) is a compact car known for its agility, fuel efficiency, and practicality, catering to urban drivers seeking a reliable and stylish vehicle.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "bc4ea31a-9658-4b6e-ac10-02872ea493d4",
+            "image": null,
+            "name": "Suzuki Equator",
+            "description": "The Suzuki Equator is a midsize pickup truck characterized by its rugged design and versatility for both work and leisure. Released in 2008, it offers a range of configurations to suit various customer needs.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "59024a12-ecea-486f-8517-b114df3259f2",
+            "image": null,
+            "name": "K&N 63 Series AirCharger Air Intakes",
+            "description": "The K&N 63 Series AirCharger Air Intakes are designed to boost engine performance by increasing airflow and improving filtration efficiency over stock intake systems. Made for ease of installation, these intakes come with all necessary hardware and instructions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "cd49a596-a02e-4bd4-81f5-54ebec90da00",
+            "image": null,
+            "name": "Typhoon Air Intake System",
+            "description": "The K&N Typhoon Air Intake System is designed to increase engine performance by improving airflow, providing an enhanced throttle response and increased horsepower. This system is engineered to be easy to install, making it a popular choice for car enthusiasts seeking performance upgrades.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "d1340280-d0ce-4be4-a304-eccc3d396c11",
+            "image": null,
+            "name": "K&N Oil Filters",
+            "description": "K&N Oil Filters are designed to provide superior filtration and longevity for automobile engines, ensuring optimal performance and extended engine life.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "e8f20134-647f-4791-9d7f-0e0bc8812db8",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Air Intake",
+            "description": "The K&N 77 Series High-Flow Air Intake is designed to improve engine performance by allowing for greater airflow, contributing to increased horsepower and acceleration. This intake system is washable and reusable, promoting long-term use and efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "f1f6b4e7-6644-4baa-ad5e-f0e4f5a368d4",
+            "image": null,
+            "name": "Suzuki Vitara 4th Generation Facelift",
+            "description": "The Suzuki Vitara 4th Generation Facelift is a compact SUV known for its stylish design, practical interior, and versatile performance, making it suitable for both urban driving and off-road adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "671475d3-6673-4b51-b61e-bfe0cc427b19",
+            "image": null,
+            "name": "Panasonic Lumix GH5",
+            "description": "The Panasonic Lumix GH5 is a digital mirrorless camera designed for both professional photographers and videographers, featuring advanced video capabilities and high-quality imaging with a Micro Four Thirds sensor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "57b08c31-6bf6-41d0-9bf2-ccf77306386e",
+            "image": null,
+            "name": "MasterBox Q500L",
+            "description": "The Cooler Master MasterBox Q500L is a compact ATX case designed for gaming PCs, featuring a versatile layout, excellent airflow, and a minimalist aesthetic. It is aimed at gamers and PC builders looking for a space-efficient solution without compromising on functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Cooler Master"
+            }
+        },
+        {
+            "id": "d5af3de2-33a4-4ff3-a402-f66c358d2c40",
+            "image": null,
+            "name": "Panasonic Toughbook CF-20",
+            "description": "The Panasonic Toughbook CF-20 is a rugged laptop designed for use in challenging environments, featuring a detachable design that allows it to function as both a laptop and a tablet.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "2107a0b6-2fe8-4a97-b59c-62e0a7f27ecc",
+            "image": null,
+            "name": "MasterBox Q300L",
+            "description": "The Cooler Master MasterBox Q300L is a compact micro-ATX casing designed for gamers and PC builders seeking an efficient cooling solution and customizable interior layout.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Cooler Master"
+            }
+        },
+        {
+            "id": "cda39317-817e-4f3b-aaba-650887101742",
+            "image": null,
+            "name": "Panasonic 4K OLED TV (TX-65EZ1000)",
+            "description": "The Panasonic 4K OLED TV (TX-65EZ1000) is a high-definition television designed to deliver exceptional picture quality with deep blacks and vibrant colors, making it ideal for cinematic viewing experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "6de690d7-9c87-41d0-8660-e38325f5844a",
+            "image": null,
+            "name": "Panasonic HC-WXF991",
+            "description": "The Panasonic HC-WXF991 is a 4K ultra HD camcorder designed for both amateur and professional videographers, featuring advanced image stabilization and a dual camera feature for unique shooting angles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "b9393bb2-c955-4530-b5fd-43067572c3be",
+            "image": null,
+            "name": "Panasonic OLED TV (EZ1000)",
+            "description": "The Panasonic OLED TV (EZ1000) series offers superior picture quality with deep blacks and vibrant colors, aiming to deliver an immersive viewing experience optimized for home entertainment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "b7741df6-8d39-4835-b959-58996c9fef18",
+            "image": null,
+            "name": "Panasonic SC-GA10",
+            "description": "The Panasonic SC-GA10 is a smart speaker that integrates voice assistant capabilities, allowing users to play music, control smart home devices, and access information hands-free.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "34a1e000-d82b-4a57-8efd-4578dc0fe15e",
+            "image": null,
+            "name": "Toyota Tacoma (2005 Model Year)",
+            "description": "The Toyota Tacoma (2005 Model Year) is a compact pickup truck designed for both off-road and on-road performance. It combines durability, versatility, and efficiency, making it a popular choice among those who need a reliable vehicle for work and recreational activities.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota Racing"
+            }
+        },
+        {
+            "id": "2b438180-fcfa-4e43-8a16-02d44e8d4fb5",
+            "image": null,
+            "name": "SR Series Refrigerators",
+            "description": "The Panasonic SR Series Refrigerators are designed to provide efficient cooling and ample storage space, catering to the needs of modern households while ensuring energy savings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        }
+    ]
+}

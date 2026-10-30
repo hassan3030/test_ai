@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "9976468b-22e5-4836-ad2b-729373880fed",
+            "image": null,
+            "name": "Play-Doh Ice Cream Truck",
+            "description": "The Play-Doh Ice Cream Truck series allows children to engage in imaginative play by creating their own ice cream creations using colorful Play-Doh. It encourages sensory exploration and fine motor skills development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "5c8bcbb8-8b72-4d7d-956f-3d262eac2225",
+            "image": null,
+            "name": "Play-Doh Fashion Factory",
+            "description": "The Play-Doh Fashion Factory series allows children to create colorful, imaginative fashion items using Play-Doh modeling compound. It encourages creativity and fine motor skills through various tools and molds.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "c210a4c6-7753-4a77-a989-ffabdf34bb68",
+            "image": null,
+            "name": "Brio Smart Tech",
+            "description": "The Brio Smart Tech series features interactive toys that engage children in imaginative play while encouraging learning through technology. Each product is designed to promote creativity and critical thinking skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Brio"
+            }
+        },
+        {
+            "id": "ea3c807f-5b43-49ea-aa3a-360c80427d84",
+            "image": null,
+            "name": "Brio Classic",
+            "description": "The Brio Classic series features high-quality wooden toys designed to inspire imaginative play in children. Each piece is crafted with a focus on safety, durability, and educational value.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Brio"
+            }
+        },
+        {
+            "id": "e084d9c8-3611-48ad-984a-2b813e654812",
+            "image": null,
+            "name": "Paw Patrol: Marshall's Fire Fightin' Truck",
+            "description": "Paw Patrol: Marshall's Fire Fightin' Truck is a toy vehicle based on the popular animated series Paw Patrol, designed to inspire imaginative play and rescue missions for young children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "4e797e23-cedd-44bc-8d56-6f39b10a9caf",
+            "image": null,
+            "name": "Paw Patrol: Skye's High Flyin' Copter",
+            "description": "The Paw Patrol: Skye's High Flyin' Copter is a toy inspired by the popular animated series Paw Patrol, featuring Skye, a daring helicopter pilot. Children can role-play adventurous rescue missions with this interactive copter toy, encouraging imaginative play and problem-solving skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "816fc9ce-7e01-4ead-a193-18d4dbda4651",
+            "image": null,
+            "name": "Paw Patrol: Rubble on the Double Construction Vehicle",
+            "description": "Paw Patrol: Rubble on the Double Construction Vehicle is a toy set featuring Rubble, a construction-themed character from the popular children's series Paw Patrol. The purpose of this toy is to inspire imaginative play and encourage problem-solving through adventure-themed scenarios.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "7de73ee0-44cf-4fc0-a761-5ca24dadb633",
+            "image": null,
+            "name": "Paw Patrol: Ultimate Rescue",
+            "description": "Paw Patrol: Ultimate Rescue is a toy series based on the popular animated TV show, where children can engage in imaginative play by joining their favorite rescue pups on daring missions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "f2295933-0d8f-430d-ba69-67148beda529",
+            "image": null,
+            "name": "Paw Patrol: Mighty Pups",
+            "description": "Paw Patrol: Mighty Pups is a toy series based on the popular animated show, where the heroic pups gain superpowers to tackle missions and protect their community. These toys aim to inspire creativity and imaginative play among children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "f7fe23dc-3b7f-4a98-b3be-585023e68497",
+            "image": null,
+            "name": "Paw Patrol: Dino Rescue",
+            "description": "Paw Patrol: Dino Rescue is a toy series that features the beloved characters from the Paw Patrol team as they embark on adventurous missions to save dinosaurs in peril. The toys are designed to encourage imaginative play and teamwork among young children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "1982d781-4af8-46ff-9e8a-f31836f61944",
+            "image": null,
+            "name": "Paw Patrol: Ready, Race, Rescue",
+            "description": "Paw Patrol: Ready, Race, Rescue is a toy series inspired by the popular children's animated show, where themes of teamwork and problem-solving are emphasized through fun racing adventures with beloved characters.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "dafde049-8ee9-4fdb-addb-cba827dc9889",
+            "image": null,
+            "name": "Paw Patrol: The Movie",
+            "description": "Paw Patrol: The Movie toys bring the beloved characters from the animated film to life, allowing children to recreate adventures with heroic pups while promoting imaginative play and teamwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Paw Patrol"
+            }
+        },
+        {
+            "id": "13b79229-d251-4da8-b823-c1807c55be67",
+            "image": null,
+            "name": "Baby Einstein",
+            "description": "The Baby Einstein series by Kids II features a variety of interactive toys designed to stimulate a baby's senses and promote cognitive development through play. These toys combine music, lights, and textures to engage young minds.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kids II"
+            }
+        },
+        {
+            "id": "2e0c6a07-6460-4b20-9a5e-b9211a4c775c",
+            "image": null,
+            "name": "Bright Starts",
+            "description": "The Bright Starts series by Kids II offers a variety of engaging toys designed to stimulate sensory development and foster play for infants and toddlers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kids II"
+            }
+        },
+        {
+            "id": "d5c5fbf5-e408-4965-a741-387b36cb8d3e",
+            "image": null,
+            "name": "Qixels Fusion",
+            "description": "Qixels Fusion is a toy series that allows children to create 3D pixel art using colored cubes that fuse together with water, fostering creativity and fine motor skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Qixels"
+            }
+        },
+        {
+            "id": "acc7491b-03c3-4c95-948b-a93a79d36f8e",
+            "image": null,
+            "name": "Qixels 3D",
+            "description": "Qixels 3D is a creative toy series that allows children to design and build 3D pixel art models using colorful cubes and a simple water activation process.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Qixels"
+            }
+        },
+        {
+            "id": "05f64f47-cb6a-4ea2-81fc-b9c81815a956",
+            "image": null,
+            "name": "Aquabeads Deluxe Studio",
+            "description": "The Aquabeads Deluxe Studio is a creative arts and crafts toy set that allows children to create colorful designs using beads that fuse together with water. This set encourages creativity and fine motor skills through fun and imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "3b6548d2-534f-429f-8c89-2e83d3f4cdeb",
+            "image": null,
+            "name": "Aquabeads Disney Princess",
+            "description": "Aquabeads Disney Princess is a creative toy series that allows children to make colorful bead creations inspired by Disney Princess characters by arranging beads and using water to fuse them together.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "a43fd307-7b55-4eeb-9f6f-d4111cc113e4",
+            "image": null,
+            "name": "Aquabeads Super Mario",
+            "description": "Aquabeads Super Mario allows children to create 3D characters and designs using colorful beads that stick together when wet, enhancing creativity and fine motor skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "e2625ca2-7107-42f6-bd67-47e339c22752",
+            "image": null,
+            "name": "Aquabeads Character Set",
+            "description": "The Aquabeads Character Set allows children to creatively build various characters using colorful beads that fuse together when sprayed with water, enhancing fine motor skills and imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "5afc3fc8-cc3d-4d14-b5ad-e2d2429e3458",
+            "image": null,
+            "name": "Aquabeads Basic Pack",
+            "description": "Aquabeads Basic Pack is a creative craft kit that allows children to create colorful bead designs by arranging and fusing beads with water. The pack encourages creativity, fine motor skills, and imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "26c6cfb0-6ae2-40a2-a37e-a51fe36b7c67",
+            "image": null,
+            "name": "Aquabeads Jewel Bead Set",
+            "description": "Aquabeads Jewel Bead Set is a craft toy that allows children to create colorful bead designs using water to fuse the beads together, promoting creativity and fine motor skills.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "235a3f4e-225b-4597-add9-47607a54ca93",
+            "image": null,
+            "name": "Aquabeads Disney Princess Collection",
+            "description": "The Aquabeads Disney Princess Collection allows children to create colorful bead designs featuring their favorite Disney Princess characters, promoting creativity and fine motor skills through play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "a791126f-5d11-4270-996b-d54cf85f7d40",
+            "image": null,
+            "name": "Aquabeads Star Wars Collection",
+            "description": "The Aquabeads Star Wars Collection allows fans to create colorful 3D designs inspired by the iconic characters and elements from the Star Wars universe using water-activated beads. This craft activity encourages creativity and fine motor skills in children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "84d3bbdd-f941-40f9-af0a-2217a2059d06",
+            "image": null,
+            "name": "Aquabeads Jewelry Set",
+            "description": "The Aquabeads Jewelry Set allows children to create colorful beaded jewelry using water to fuse the beads together, promoting creativity and fine motor skills.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "b394e107-4d07-499d-ab7b-4125303da7e7",
+            "image": null,
+            "name": "Aquabeads Studio",
+            "description": "Aquabeads Studio is a creative toy series that allows children to create colorful bead designs by arranging beads on a tray and using water to fuse them together. It promotes imaginative play and fine motor skills.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "f0ba45a5-bef8-4532-a6db-d1e062ebc8e6",
+            "image": null,
+            "name": "Aquabeads Bead Set",
+            "description": "Aquabeads Bead Set allows children to create colorful bead designs using water, helping to develop fine motor skills and creativity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "a3b6f6be-f060-4b4e-a87f-1ceec5eeed3b",
+            "image": null,
+            "name": "Aquabeads Ultimate Studio",
+            "description": "The Aquabeads Ultimate Studio allows children to create colorful designs by arranging beads that fuse together when sprayed with water. This creative craft activity encourages imaginative play and fine motor skills development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "00845154-d0a1-4201-807b-e8603755fb4f",
+            "image": null,
+            "name": "Skip Hop Zoo",
+            "description": "The Skip Hop Zoo series features a variety of playful and engaging toys designed for young children, encouraging developmental skills and imaginative play through fun animal designs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Skip Hop"
+            }
+        },
+        {
+            "id": "13a0fc97-9a32-4954-85cb-b966c93e600d",
+            "image": null,
+            "name": "PlaySpot Foam Play Mat",
+            "description": "The Skip Hop PlaySpot Foam Play Mat is designed to provide a safe, cushioned surface for children to play on while encouraging development through sensory experiences. The mat features a stylish design that complements home decor and is easy to clean.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Skip Hop"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "8c5b6706-4cf0-44b0-8968-f95602f72ab5",
+            "image": null,
+            "name": "Finesse Watercolour",
+            "description": "Daler Rowney Finesse Watercolour series offers a range of high-quality watercolour paints designed for artists seeking vibrant, transparent colors with excellent flow and consistency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "6c441cfa-c8ca-4a07-9c05-d56cc322485a",
+            "image": null,
+            "name": "Nuova 500e",
+            "description": "The Fiat Nuova 500e is an all-electric city car that embodies retro styling while providing modern technology and efficient performance, designed for urban mobility with zero emissions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "63dd83ff-9d85-4b5e-b8ef-47b0d9445f3a",
+            "image": null,
+            "name": "Triumph Tiger Explorer",
+            "description": "The Triumph Tiger Explorer is a versatile adventure motorcycle designed for long-distance touring and off-road capability, featuring advanced technology and comfort for both on-road and off-road experiences.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "8b7be00c-ef12-48aa-aca3-73af8c0508cf",
+            "image": null,
+            "name": "Sennelier Watercolor Mediums",
+            "description": "Sennelier Watercolor Mediums are a collection of specialized products designed to enhance watercolor painting techniques, allowing artists to manipulate the transparency, texture, and flow of watercolors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "2d36908c-94bd-49d9-bd09-e4f279e03cb4",
+            "image": null,
+            "name": "Ducati Streetfighter V4",
+            "description": "The Ducati Streetfighter V4 is a naked sport motorcycle that combines the high-performance features of the Panigale V4 with a street-friendly ergonomics, designed for an exhilarating riding experience on both roads and racetracks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "9b2e932c-ebce-4b29-bd6a-dd2a02d2fc31",
+            "image": null,
+            "name": "Tecno Camon CX",
+            "description": "The Tecno Camon CX is a smartphone that was launched in 2016, primarily designed for capturing high-quality selfies and offering an enhanced photography experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "1cd2536e-431e-4e90-868f-833e329328aa",
+            "image": null,
+            "name": "Renault Clio II",
+            "description": "The Renault Clio II is a compact hatchback known for its practicality, efficiency, and user-friendly design. Released in 2001, it aimed to provide an economical and comfortable driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "8f68e35c-d619-455a-bc7c-a84c44c20ee1",
+            "image": null,
+            "name": "Tecno Pouvoir 2",
+            "description": "The Tecno Pouvoir 2 is a smartphone series known for its long battery life and efficient performance, designed to cater to users looking for reliability and functionality in their mobile devices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "4bace508-6fc3-48a0-bf30-d207449f6529",
+            "image": null,
+            "name": "Lola",
+            "description": "The Pedrali Lola series encompasses a collection of chairs designed with a blend of modern aesthetics and ergonomic comfort, suitable for both residential and commercial environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "05b298d9-4b1f-44cf-af1d-3c980a976550",
+            "image": null,
+            "name": "Bonnie T120",
+            "description": "The Triumph Bonnie T120 is a modern classic motorcycle that combines timeless styling with contemporary performance, designed for riders seeking a blend of heritage and advanced riding technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "83b73b78-4298-497c-8627-9c547e986c40",
+            "image": null,
+            "name": "Séries Vitrail",
+            "description": "Pebeo Séries Vitrail is a range of glass paints designed for creating vibrant, translucent effects on glass and similar surfaces. These paints are characterized by their high pigmentation and excellent lightfastness.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "15184d93-3d43-49f5-9fa6-506271fa3dc2",
+            "image": null,
+            "name": "Porsche 911 (996)",
+            "description": "The Porsche 911 (996) is a sports car that marks the entry of the iconic 911 model into the water-cooled era, featuring a distinctive design and performance focused on driving pleasure.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "eda3a3f6-01b5-4fd6-8f02-22f9a041da51",
+            "image": null,
+            "name": "Tata Vista",
+            "description": "The Tata Vista is a compact hatchback car launched by Tata Motors in 2007, designed for urban commuting with a focus on affordability and practicality.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "1ce810ba-49ce-4358-a30a-f9f8bd92244f",
+            "image": null,
+            "name": "Miu Miu Bags 2022",
+            "description": "The Miu Miu Bags 2022 series features a collection of stylish and contemporary bags designed to enhance everyday looks with a touch of sophistication. Known for their unique silhouettes and innovative materials, these bags cater to a modern aesthetic while providing functional storage solutions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Miu Miu"
+            }
+        },
+        {
+            "id": "d6d33ef3-e3cd-4626-b2fe-33dbdecd9e5b",
+            "image": null,
+            "name": "Dodge Ram 2500 (2012)",
+            "description": "The Dodge Ram 2500 (2012) is a heavy-duty pickup truck designed for both work and recreational use, offering robust capabilities and a spacious interior.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "5fbb730f-6e4f-40a4-b6ce-187af3be0951",
+            "image": null,
+            "name": "Prisma",
+            "description": "Pebeo Prisma is a series of high-quality art supplies designed for artists and hobbyists, characterized by their vibrant colors and excellent blending properties. These products are particularly suitable for creating stunning visual effects on various surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "db42e884-c57a-46b5-aa9d-88ad8feb9ce7",
+            "image": null,
+            "name": "Pebeo Setasilk",
+            "description": "Pebeo Setasilk is a series of high-quality silk painting dyes designed for use on silk and other fabrics. These water-based dyes are known for their vibrant colors and suitability for both artists and hobbyists.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "e805b3b5-aa58-4839-ab15-67e13981ecf4",
+            "image": null,
+            "name": "Gitzo Mountaineer Series",
+            "description": "The Gitzo Mountaineer Series consists of lightweight and rigid tripods designed for professional photographers and videographers, offering stability and versatility in challenging environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Gitzo"
+            }
+        },
+        {
+            "id": "00e93b0d-9bb0-4152-af24-67606060bae4",
+            "image": null,
+            "name": "Ducati Monster S4",
+            "description": "The Ducati Monster S4 is a naked motorcycle that combines sporty performance with a minimalist design, featuring a liquid-cooled engine and an agile chassis for urban riding and spirited adventures.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "fbcf4077-9e45-4db8-9ff2-b81a3643a9c2",
+            "image": null,
+            "name": "Vox VX50AG",
+            "description": "The Vox VX50AG is a compact and versatile acoustic guitar amplifier, designed for musicians seeking portability and quality sound. It features a lightweight design, built-in effects, and a range of connectivity options to enhance performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "c742e48d-b332-42a5-ae23-d43e160feb53",
+            "image": null,
+            "name": "Gateway 2-in-1",
+            "description": "The Gateway 2-in-1 series features versatile tablets designed for both productivity and entertainment, allowing users to switch between tablet and laptop modes seamlessly.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "a5809b73-5904-4b50-a567-57f48bf4c3b9",
+            "image": null,
+            "name": "Gateway Intel 11th Gen Laptops",
+            "description": "The Gateway Intel 11th Gen Laptops series features a range of portable computing devices equipped with Intel's 11th generation processors, designed to provide enhanced performance, improved graphics, and efficient power consumption for everyday tasks and multimedia applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "c540a776-9f96-4565-a2e4-b141f5f2ca31",
+            "image": null,
+            "name": "Ducati Monster 695",
+            "description": "The Ducati Monster 695 is a naked sports motorcycle known for its lightweight frame, agile handling, and iconic design, aimed at both new and experienced riders seeking a blend of performance and style.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "5962014e-71e8-45b1-8cc7-01464e400887",
+            "image": null,
+            "name": "Krooked Gonz 8.25",
+            "description": "The Krooked Gonz 8.25 is a skateboard designed for street and park skating, featuring a durable construction suitable for various tricks and maneuvers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "20ab95cd-a408-4585-896c-735179592476",
+            "image": null,
+            "name": "Sierra Designs Mobile Mummy Sleeping Bag Series",
+            "description": "The Sierra Designs Mobile Mummy Sleeping Bag Series is designed for comfort and versatility, featuring a unique mummy shape that maximizes warmth while allowing for easy movement, making it ideal for camping and outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Sierra"
+            }
+        },
+        {
+            "id": "a2502fe7-36fa-41f8-ab69-94ad09da0896",
+            "image": null,
+            "name": "Ducati Panigale",
+            "description": "The Ducati Panigale is a high-performance motorcycle series renowned for its advanced design, race-inspired engineering, and agility, making it suitable for both street and track use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "a92a2c59-f3e9-4563-83ac-891d5b5d125a",
+            "image": null,
+            "name": "Aquafine",
+            "description": "Daler Rowney Aquafine is a series of water-based paints designed for artists seeking vibrant colors and excellent blending properties. These paints are ideal for watercolor techniques and can be used on a variety of surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "090e4076-ff83-4d95-a46b-4e98d23adcac",
+            "image": null,
+            "name": "Fiat Panda (2002)",
+            "description": "The Fiat Panda (2002) is a versatile and compact city car known for its practicality and efficient use of space, making it suitable for urban driving and everyday use.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "5dde91f8-d4db-451b-96bc-34ec4206d64f",
+            "image": null,
+            "name": "Fiat Qubo",
+            "description": "The Fiat Qubo is a compact multi-purpose vehicle designed for urban flexibility and practicality, offering ample interior space and versatile seating arrangements.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        },
+        {
+            "id": "25b323a6-f1d8-4d5e-852a-cfbdec133486",
+            "image": null,
+            "name": "Panda",
+            "description": "The Fiat Panda is a compact city car designed for urban driving, known for its practicality, versatility, and efficient use of space.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Fiat"
+            }
+        }
+    ]
+}

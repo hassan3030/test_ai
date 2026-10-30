@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "2d3bdb2a-5450-4f51-947d-97f5f414d009",
+            "image": null,
+            "name": "T0 Series",
+            "description": "The T0 Series by Rockford Fosgate is a high-performance line of car audio products designed to deliver superior sound quality and powerful bass for automotive audio systems.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "59ce3f40-a142-4d74-8d00-ac9d5ef5353c",
+            "image": null,
+            "name": "Transformers: The Last Knight",
+            "description": "Transformers: The Last Knight is a toy line based on the 2017 film, featuring characters that can transform between vehicles and robotic forms, aimed at children and collectors who enjoy imaginative play and buildable action.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "0678752c-fa54-4f84-83f0-fd6dfcfaef6f",
+            "image": null,
+            "name": "Monopoly: Animal Crossing",
+            "description": "Monopoly: Animal Crossing is a family board game that combines the traditional Monopoly gameplay with the beloved characters and settings of the Animal Crossing video game series, allowing players to buy, sell, and trade properties inspired by the game.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "c01f4daf-eb6c-4017-a737-d99d142a406a",
+            "image": null,
+            "name": "Barbie Fashionistas",
+            "description": "The Barbie Fashionistas series features a diverse range of dolls with different body types, skin tones, and styles, promoting inclusivity and self-expression in fashion.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "283a5495-b1f3-4fcb-9a88-dc6dee340edc",
+            "image": null,
+            "name": "Hot Wheels 50th Anniversary Collection",
+            "description": "The Hot Wheels 50th Anniversary Collection celebrates the iconic toy car brand's five decades of innovation and excitement in the world of die-cast vehicles, featuring a selection of classic and contemporary models commemorating its legacy.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "dcb94ff8-aafd-4044-8f87-d329df714b48",
+            "image": null,
+            "name": "Fisher-Price Imaginext",
+            "description": "Fisher-Price Imaginext is a series of toys designed to encourage imaginative play among young children through interactive figures and environments that stimulate creativity and storytelling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "af01ad29-cea1-4c9a-962f-0fac51416f32",
+            "image": null,
+            "name": "Barbie Dreamhouse",
+            "description": "The Barbie Dreamhouse series from Mattel features customizable dollhouses that encourage imaginative play and creativity in children, allowing them to create their own stories with Barbie and her friends.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "1190d00b-41d1-4cf3-bea1-23f238d64326",
+            "image": null,
+            "name": "Hot Wheels City",
+            "description": "Hot Wheels City is a toy series from Mattel that features a vast array of track sets and vehicles, designed to stimulate creative play and storytelling for children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "cbebcdd5-3a0f-4f8c-8d17-baac9bb30e84",
+            "image": null,
+            "name": "Hot Wheels ID",
+            "description": "Hot Wheels ID is an innovative digital racing and collectible system that blends physical and digital play by allowing users to track their cars' speeds, races, and achievements through a mobile app.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "54c3faf0-26a6-49f5-a9bf-c117e073a01b",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn",
+            "description": "The Fisher-Price Laugh & Learn series offers interactive toys designed to engage infants and toddlers through play while teaching them essential skills like numbers, letters, and social interactions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "e8b22a42-d68d-42cc-971b-e08110baa2bd",
+            "image": null,
+            "name": "Monster High",
+            "description": "Monster High is a series of fashion dolls and playsets created by Mattel, featuring characters inspired by monster and horror themes aimed at children and collectors alike. The series promotes themes of individuality, acceptance, and friendship.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "1be29b17-05d2-4304-8de3-50ae6fb92955",
+            "image": null,
+            "name": "Hot Wheels",
+            "description": "The Hot Wheels series by Mattel features small-scale die-cast vehicles that are designed for racing and collecting. Known for their vibrant designs and variety, these toys encourage imaginative play and can be used with a range of tracks and accessories.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "673776ae-e3c0-4898-9c9c-cf563d70aad7",
+            "image": null,
+            "name": "Barbie Fashionista",
+            "description": "The Barbie Fashionista series features diverse dolls that celebrate individuality and style, allowing children to express themselves through fashion play.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "e0d83dae-2fa2-46d7-bad9-84b53094c7a6",
+            "image": null,
+            "name": "Hot Wheels 2020 Mainline",
+            "description": "The Hot Wheels 2020 Mainline series features a diverse selection of toy cars designed for collectors and kids alike, emphasizing speed, style, and creativity in play.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "dd93914a-bc4b-41a8-bbef-38ba4dc2cfd8",
+            "image": null,
+            "name": "Fisher-Price Little People",
+            "description": "The Fisher-Price Little People series features small, colorful figures and playsets designed for toddlers, promoting imaginative play and fine motor skills development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "e35a2aaa-15de-49bc-ad0e-3d7d979c3219",
+            "image": null,
+            "name": "Hot Wheels Premium",
+            "description": "Hot Wheels Premium is a high-quality collectible toy car series designed for enthusiasts, featuring detailed designs and exclusive models that enhance the joy of collecting and racing.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "c3c3dc7e-011c-4d74-81bf-ee529950541a",
+            "image": null,
+            "name": "Hot Wheels NFT Garage",
+            "description": "The Hot Wheels NFT Garage series from Mattel combines the excitement of collectible die-cast cars with the world of non-fungible tokens (NFTs), creating a unique experience for both toy collectors and digital enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "3b0361d7-6f4d-48ef-baf4-25ddb5f41df4",
+            "image": null,
+            "name": "Robo Fish",
+            "description": "Robo Fish are robotic fish toys that swim realistically in water. They are designed to provide interactive play and educational experiences for children, demonstrating basic principles of robotics and aquatic life.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "d38e9d47-758b-4de7-81fd-de4153b248b7",
+            "image": null,
+            "name": "Bakugan Battle Planet",
+            "description": "Bakugan Battle Planet is a collectible toy series that combines elements of strategic gameplay with battling characters, where players can roll Bakugan balls that transform into creatures for battles and competitions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "5a27d487-22ee-4886-b066-8d7a97ee9c12",
+            "image": null,
+            "name": "Paw Patrol: Ultimate Rescue",
+            "description": "Paw Patrol: Ultimate Rescue is a toy series by Spin Master designed to encourage imaginative play based on the popular animated television series. The series features collectible action figures, vehicles, and playsets that allow children to recreate their favorite rescue missions with characters like Ryder and the Paw Patrol pups.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "49c6ad93-7c8b-47fb-9233-b96b79e3e09b",
+            "image": null,
+            "name": "Paw Patrol Pups & Vehicles",
+            "description": "The Paw Patrol Pups & Vehicles series by Spin Master features collectible toy figures of the popular characters from the children's animated series, along with their matching vehicles. This series encourages imaginative play and problem-solving skills in young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "9eee66f9-ca3d-4457-8423-7b7b73c84713",
+            "image": null,
+            "name": "Hatchimals Pixies",
+            "description": "Hatchimals Pixies are a series of collectible toys, featuring small, colorful pixie characters that come with their own sparkly wings. They engage children in imaginative play and encourage the joy of discovery through surprise unboxing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "54304700-ea2e-4131-b279-3ead40a49f70",
+            "image": null,
+            "name": "Paw Patrol: Mighty Pups",
+            "description": "The Paw Patrol: Mighty Pups series from Spin Master features action figures and playsets inspired by the popular children's animated series. The toys encourage imaginative play as children can recreate adventurous missions with their favorite characters.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "df17aea9-2e29-49bf-92c0-c7b636cb7532",
+            "image": null,
+            "name": "Paw Patrol: Dino Rescue",
+            "description": "Paw Patrol: Dino Rescue is a toy series by Spin Master that features beloved characters from the Paw Patrol team as they embark on adventurous missions in a prehistoric-themed setting, promoting imaginative play and problem-solving skills for children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "529a1d68-5f06-4a48-98cb-bf6ea9a111e4",
+            "image": null,
+            "name": "Bakugan Geogan Rising",
+            "description": "Bakugan Geogan Rising is a toys series from Spin Master that features collectible battling creatures known as Bakugan and introduces new characters called Geogan, enhancing the strategy and gameplay experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Spin Master"
+            }
+        },
+        {
+            "id": "cf434358-aa0c-4f57-b53a-899b1a6cdacf",
+            "image": null,
+            "name": "Green Toys Dump Truck",
+            "description": "The Green Toys Dump Truck is a durable toy vehicle designed for imaginative play. Made from recycled materials, it promotes eco-friendly practices while providing endless fun for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "0918912a-24c6-4364-b938-97ecdc61f2a8",
+            "image": null,
+            "name": "Green Toys Submarine",
+            "description": "The Green Toys Submarine is an environmentally friendly toy designed for imaginative underwater adventures, made from 100% recycled plastic and free from harmful chemicals.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "7a0fb52c-a166-4518-b3c1-0b80621f2d0c",
+            "image": null,
+            "name": "LeapFrog Epic Academy: Learning Tablets",
+            "description": "The LeapFrog Epic Academy Learning Tablets are designed to enhance children's learning through interactive apps and educational games, promoting early literacy, math skills, and creative problem-solving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "LeapFrog"
+            }
+        },
+        {
+            "id": "3986ff12-9941-4699-83c1-b3deb59fdc45",
+            "image": null,
+            "name": "KidKraft Princess Mansion Dollhouse",
+            "description": "The KidKraft Princess Mansion Dollhouse is a spacious and beautifully designed dollhouse that encourages imaginative play through its detailed rooms and accessories, making it suitable for children to create their own stories and scenarios.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "4773b230-ea63-4801-a200-56934261e72f",
+            "image": null,
+            "name": "Chevrolet Volt (1st Generation)",
+            "description": "The Chevrolet Volt (1st Generation) is a plug-in hybrid electric vehicle known for its innovative powertrain combining an electric motor and an internal combustion engine, aimed at reducing fuel consumption and emissions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        }
+    ]
+}

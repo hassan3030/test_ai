@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a47d591e-ef8d-4fb2-bd33-75fc1fd64b9a",
+            "image": null,
+            "name": "Chery Karry",
+            "description": "The Chery Karry is a series of compact vehicles produced by Chery Automobile, designed primarily for urban transport and practical use, emphasizing affordability and functionality.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "0bca69b6-ee22-4bfa-bfbd-b1312289140e",
+            "image": null,
+            "name": "Chery QQ 3",
+            "description": "The Chery QQ 3 is a compact city car designed for urban commuting, offering practical features and efficient fuel consumption.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "aed6a799-0d78-434e-9902-0c919e429786",
+            "image": null,
+            "name": "Chery Tiggo 2 Pro",
+            "description": "The Chery Tiggo 2 Pro is a compact SUV designed to offer a blend of style, comfort, and practicality for urban and adventurous driving.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "db989464-433e-41b3-875b-f28c7d6188fa",
+            "image": null,
+            "name": "Mahindra Scorpio (New Generation)",
+            "description": "The Mahindra Scorpio (New Generation) is a compact SUV designed for rugged terrain and comfortable urban driving, offering versatility and durability for a variety of conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "63506dae-7ef7-42ac-a1db-855a6e544d3c",
+            "image": null,
+            "name": "Alfa Romeo GTV",
+            "description": "The Alfa Romeo GTV is a two-door sports coupe known for its elegant design and sporty performance, embodying the brand's commitment to Italian automotive excellence.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "bfc229dc-aea1-4f3a-8e36-2419e9f3e059",
+            "image": null,
+            "name": "Infinix Zero 4",
+            "description": "The Infinix Zero 4 is a smartphone designed to deliver a balanced performance, featuring a focus on camera quality and user experience while maintaining an affordable price point.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "77a63188-f59c-43f5-852f-72aa1e93467f",
+            "image": null,
+            "name": "Infinix Smart 3 Plus",
+            "description": "The Infinix Smart 3 Plus is a budget-friendly smartphone released in 2019, designed to offer essential features for everyday use, including a large display and multiple camera capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "282d65d3-446b-430d-830d-f7b8953ceba5",
+            "image": null,
+            "name": "Gionee F205",
+            "description": "The Gionee F205 is a smartphone designed for budget-conscious consumers, offering essential features and a compact design for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "d76a930e-9d7f-461a-bf95-b6ea1a0e9e37",
+            "image": null,
+            "name": "Gionee S10 Lite",
+            "description": "The Gionee S10 Lite is a smartphone that combines stylish design with essential features for everyday use, catering primarily to budget-conscious consumers seeking reliable performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "c8ceb49f-e2cc-4988-bba3-4c319da78536",
+            "image": null,
+            "name": "Gionee M15",
+            "description": "The Gionee M15 is a smartphone designed to offer a balanced combination of performance and functionality for everyday use. It features an appealing design and is equipped with a capable battery to support extended usage.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "11b67a1f-fe47-419e-890c-44ee151c43da",
+            "image": null,
+            "name": "Gionee S12",
+            "description": "The Gionee S12 is a smartphone series designed to deliver a balance of performance and affordability, suitable for everyday use in communication, entertainment, and photography.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "5ace0fb9-431d-4468-8f3c-8e239803cb8b",
+            "image": null,
+            "name": "Micromax Canvas 6",
+            "description": "The Micromax Canvas 6 is a smartphone series launched in 2016, designed to provide a balance of performance and affordability for everyday users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "1c01db3c-94be-4dd1-9e01-70e4131597b7",
+            "image": null,
+            "name": "Micromax Evok Dual Note",
+            "description": "The Micromax Evok Dual Note is a smartphone series released in 2017, designed to offer dual-camera capabilities and a focus on budget-friendly performance for users seeking a reliable mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "62faa776-6ef4-410d-b26d-8f740c9e55e8",
+            "image": null,
+            "name": "Intel Optane Memory",
+            "description": "Intel Optane Memory is a high-speed storage solution designed to enhance system responsiveness and performance by accelerating data access and improving load times for applications and files.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "e46873ce-d634-4be6-a68d-26c7f449a9a7",
+            "image": null,
+            "name": "Intel Core Ultra",
+            "description": "The Intel Core Ultra series is a lineup of high-performance processors aimed at delivering advanced computing capabilities for both gamers and professionals, featuring enhanced artificial intelligence and multi-threading capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "f8f1ce49-7cea-48ca-9a4d-dcf9169c55aa",
+            "image": null,
+            "name": "Intel Arc",
+            "description": "The Intel Arc series consists of graphics cards aimed at providing enhanced gaming performance and support for advanced visual technologies.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "0808cd16-408b-4bb7-874d-35cbeb41022e",
+            "image": null,
+            "name": "Falster 2",
+            "description": "The Skagen Falster 2 is a smart watch designed to seamlessly integrate technology into daily life while maintaining a stylish aesthetic. It offers fitness tracking, customizable watch faces, and smartphone notifications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "8393ad62-5193-41a2-af42-209e4bad5fdb",
+            "image": null,
+            "name": "Frey",
+            "description": "The Skagen Frey series offers a minimalist design with a focus on clean lines and a modern aesthetic, making it suitable for both casual and formal occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "4bf8b50a-dbab-436c-861e-0a60d5506301",
+            "image": null,
+            "name": "Skagen Falster Gen 6",
+            "description": "The Skagen Falster Gen 6 is a series of smartwatches designed for a modern lifestyle, offering health tracking, customizable watch faces, and smartphone notifications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Skagen"
+            }
+        },
+        {
+            "id": "bfa05e6a-dbf7-4cde-8644-bed8fbb37674",
+            "image": null,
+            "name": "Seiko Prospex",
+            "description": "The Seiko Prospex series is a collection of professional-grade watches designed for diving and adventure, featuring durability and reliability in various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Seiko"
+            }
+        },
+        {
+            "id": "5d28a3f7-d907-4c89-a7a6-179074a9331a",
+            "image": null,
+            "name": "Ring Floodlight Cam",
+            "description": "The Ring Floodlight Cam is a smart home security device that combines a motion-activated floodlight with a high-definition camera, designed to provide enhanced visibility and real-time monitoring of outdoor areas.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "02ea6612-8243-41e1-a86c-51a917a1a4c3",
+            "image": null,
+            "name": "Maui Jim 2021 Sunglasses Collection",
+            "description": "The Maui Jim 2021 Sunglasses Collection features a range of high-quality sunglasses designed to provide superior UV protection and enhance visual clarity, ideal for outdoor activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "8ffc074f-7689-415b-96ca-46851850d767",
+            "image": null,
+            "name": "Margaux",
+            "description": "The Kate Spade Margaux series features a collection of versatile bags designed for everyday use, characterized by their sophisticated style and functional design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "3e9935b3-1f4d-4320-bb30-52bac5cc691d",
+            "image": null,
+            "name": "Daewoo Damas",
+            "description": "The Daewoo Damas is a compact utility vehicle designed for urban transport and commercial use, known for its practicality and efficiency.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "ea9285a7-ece5-44b2-9e64-1245f9131ae2",
+            "image": null,
+            "name": "Chery Eastar",
+            "description": "The Chery Eastar is a mid-size car produced by Chery Automobile, first released in 2004, designed to offer a balance of comfort and functionality for everyday use.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "b05deed5-e0ca-4204-98e7-754a90f2179a",
+            "image": null,
+            "name": "Chery M11",
+            "description": "The Chery M11 is a compact sedan produced by Chery Automobile, designed to provide a balance of comfort, efficiency, and affordability for everyday use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "d182966a-09fb-439e-b2dd-6a377b7cf184",
+            "image": null,
+            "name": "Mahindra Quanto",
+            "description": "The Mahindra Quanto is a compact SUV designed for urban mobility and versatility, offering a blend of comfort and practicality for families and individual users.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "0ba5449e-ed09-47ac-8921-0e59a8b2781f",
+            "image": null,
+            "name": "Mahindra NuvoSport",
+            "description": "The Mahindra NuvoSport is a compact SUV designed for urban and off-road driving, blending functionality with style to cater to a diverse audience seeking versatility in performance and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "55b21836-c545-4eeb-8d71-b932f20f9fb2",
+            "image": null,
+            "name": "LaCrosse",
+            "description": "The Buick LaCrosse is a full-size luxury sedan designed to provide a comfortable ride with a focus on spaciousness and advanced technology features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "df9facdd-5b83-43e2-a4ad-3410222076ca",
+            "image": null,
+            "name": "Encore",
+            "description": "The Buick Encore is a compact luxury SUV designed for urban and suburban driving, offering a balance of style, comfort, and efficiency.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        }
+    ]
+}

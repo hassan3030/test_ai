@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "793e25e9-3d35-4001-b692-480454d78a28",
+            "image": null,
+            "name": "JBL Flip 5",
+            "description": "The JBL Flip 5 is a portable Bluetooth speaker designed for outdoor use, offering powerful sound and a durable, waterproof design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "2c363be2-bdb4-474d-aa40-502aa515800c",
+            "image": null,
+            "name": "JBL Charge 4",
+            "description": "The JBL Charge 4 is a portable Bluetooth speaker designed to deliver powerful sound and deep bass while providing a long battery life and the ability to charge external devices.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "4af95035-0e8b-4045-9288-c6c7d96be362",
+            "image": null,
+            "name": "JBL Charge 5",
+            "description": "The JBL Charge 5 is a portable Bluetooth speaker known for its robust sound quality, long-lasting battery life, and water-resistant design, making it ideal for outdoor use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "33a81615-cd04-422b-8181-b8fb37aab612",
+            "image": null,
+            "name": "JBL Tour One",
+            "description": "The JBL Tour One headphones provide a premium listening experience with adaptive noise cancellation, high-fidelity sound, and a comfortable over-ear design, ideal for both travel and everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "9ba971a7-b4bb-4566-901b-d57100b2ce36",
+            "image": null,
+            "name": "JBL Bar 9.1",
+            "description": "The JBL Bar 9.1 is a premium soundbar system designed to deliver immersive audio for home entertainment, featuring Dolby Atmos support and detachable wireless surround speakers for enhanced sound performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "7b14b192-8d86-467e-a3a3-581b223b59d3",
+            "image": null,
+            "name": "JBL Live Pro 2",
+            "description": "The JBL Live Pro 2 headphones are designed for immersive sound and comfort, featuring active noise cancellation and customizable audio settings to enhance the listening experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "0494a4b9-ae71-4424-9e29-a24edc9a2e57",
+            "image": null,
+            "name": "JBL TUNE 230NC",
+            "description": "The JBL TUNE 230NC headphones are designed for active users seeking wireless convenience combined with noise-canceling technology, offering quality sound and a comfortable fit.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "6b478fb4-45f0-4ba8-99f8-8cbfa6de346e",
+            "image": null,
+            "name": "JBL Tour Pro 2",
+            "description": "The JBL Tour Pro 2 headphones are a premium audio accessory designed for exceptional sound quality and comfort during extended wear, featuring advanced wireless technology and customizable sound profiles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "ebf70c25-1103-47dc-8e17-81a3e7893172",
+            "image": null,
+            "name": "JBL Quantum Stream",
+            "description": "The JBL Quantum Stream is a series of advanced headphones designed for immersive audio experiences, particularly optimized for gaming environments with an emphasis on clarity and positioning in sound.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "71c276e4-050d-420c-8840-7b6fe709607b",
+            "image": null,
+            "name": "Dell EMC Unity",
+            "description": "Dell EMC Unity is a family of hybrid and all-flash storage solutions designed to provide high performance and efficiency for data management in enterprises. It integrates advanced data services and simplifies storage operations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Dell EMC"
+            }
+        },
+        {
+            "id": "4ee2b722-995b-4df4-aba4-05a25e148d87",
+            "image": null,
+            "name": "Dell EMC Isilon",
+            "description": "Dell EMC Isilon is a scale-out NAS (Network Attached Storage) solution designed for demanding workloads, providing high performance, reliability, and scalability for unstructured data.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Dell EMC"
+            }
+        },
+        {
+            "id": "ca948319-4a70-4902-8815-bc5533dcb210",
+            "image": null,
+            "name": "Dell EMC VxRail",
+            "description": "The Dell EMC VxRail is a hyper-converged infrastructure appliance that integrates compute, storage, and networking resources in a single system, designed for scalability and simplified management in data center environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Dell EMC"
+            }
+        },
+        {
+            "id": "9cade884-a796-4886-9e17-13adb541acb6",
+            "image": null,
+            "name": "Dell EMC PowerStore",
+            "description": "The Dell EMC PowerStore series is a family of next-generation storage solutions that provide built-in intelligence, performance, and scalability for modern data centers, designed to support various workloads and enhance operational efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Dell EMC"
+            }
+        },
+        {
+            "id": "d3151efd-b0de-4bc3-9f84-fe4d4d581225",
+            "image": null,
+            "name": "BenQ EX3203R",
+            "description": "The BenQ EX3203R is a 32-inch curved gaming monitor designed to deliver immersive visuals and a smooth gaming experience, featuring 144Hz refresh rate and FreeSync technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "6d9c3338-dc4e-4f25-8071-889f6398d5bf",
+            "image": null,
+            "name": "BenQ ZOWIE XL Series",
+            "description": "The BenQ ZOWIE XL Series is a line of gaming monitors designed for competitive gaming with features that enhance visibility and reduce eye strain, providing gamers with an immersive experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "29ecbbed-32f2-4991-975f-9af7ff5eed0a",
+            "image": null,
+            "name": "BenQ SW Series",
+            "description": "The BenQ SW Series is a collection of professional monitors designed for photographers, graphic designers, and video editors, providing exceptional color accuracy and a wide color gamut to ensure precision in visual work.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "6fff29de-36de-43da-be73-2467d25c4350",
+            "image": null,
+            "name": "BenQ TH Series",
+            "description": "The BenQ TH Series consists of DLP projectors designed for home entertainment, offering high brightness and vivid color performance for an immersive viewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "7517cc1d-8a13-49ed-9ffb-7aaf957f04a5",
+            "image": null,
+            "name": "BenQ GS Series",
+            "description": "The BenQ GS Series features portable projectors designed for easy setup and high-quality projection, making them suitable for both home entertainment and business presentations.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "b2a0e218-7f2d-4119-b45e-f32611469236",
+            "image": null,
+            "name": "BenQ EX2780Q",
+            "description": "The BenQ EX2780Q is a 27-inch 1440p monitor designed for both gaming and multimedia consumption, featuring HDR support and built-in audio for an enhanced visual and auditory experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "6757df84-044e-4e18-ac0a-b0e318345003",
+            "image": null,
+            "name": "BenQ SW321C",
+            "description": "The BenQ SW321C is a professional 32-inch 4K monitor designed for photographers and content creators, featuring advanced color accuracy and HDR support to enhance visual editing and viewing experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "5b67d5dd-5077-4e26-b911-057d47768008",
+            "image": null,
+            "name": "BenQ PD3220U",
+            "description": "The BenQ PD3220U is a professional 32-inch 4K UHD monitor designed for creative professionals, offering accurate color reproduction and comprehensive connectivity options to enhance productivity and workflow efficiency.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "96289342-e0d3-456d-8a1f-48d56271e3ba",
+            "image": null,
+            "name": "BenQ ZOWIE EC-CW",
+            "description": "The BenQ ZOWIE EC-CW series consists of gaming mice designed for competitive gamers, featuring ergonomic designs and wireless functionality for enhanced performance during gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "b290c2b9-4399-4e8c-9c64-e353408536f6",
+            "image": null,
+            "name": "BenQ PD Series",
+            "description": "The BenQ PD Series comprises high-quality monitors designed for creative professionals, offering accurate color reproduction and advanced ergonomics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "ae3db5af-8ba6-4034-9065-d4492c11824f",
+            "image": null,
+            "name": "BenQ MOBIUZ EX Series",
+            "description": "The BenQ MOBIUZ EX Series features high-performance monitors designed for immersive gaming experiences, offering vibrant visuals and advanced technologies tailored for gamers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "BenQ"
+            }
+        },
+        {
+            "id": "7bf518a9-2133-4238-bb55-a58d83efabbd",
+            "image": null,
+            "name": "Tough TG-5",
+            "description": "The Olympus Tough TG-5 is a rugged compact camera designed for outdoor enthusiasts and adventurers. It offers durable features such as waterproofing, shock resistance, and freeze proofing, making it suitable for extreme environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "15631dda-fb8b-427f-ab7e-db385b7a2f98",
+            "image": null,
+            "name": "Olympus OM-D E-M10 Mark III",
+            "description": "The Olympus OM-D E-M10 Mark III is a compact mirrorless camera designed for both enthusiasts and beginners, offering a range of advanced features in a portable form. It combines high-quality imaging capabilities with user-friendly controls, making it ideal for capturing stunning photographs and videos in various shooting conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "1ea87996-bee6-4808-bbad-70a4f1b15aab",
+            "image": null,
+            "name": "Olympus Tough TG-5",
+            "description": "The Olympus Tough TG-5 is a rugged compact camera designed for outdoor enthusiasts. It features a durable build that is waterproof, shockproof, and freezeproof, making it suitable for challenging environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "d9a68d95-b8ac-44a5-97b2-708bfc7538de",
+            "image": null,
+            "name": "Olympus OM-D E-M1 Mark II",
+            "description": "The Olympus OM-D E-M1 Mark II is a mirrorless interchangeable lens camera designed for professional photographers and enthusiasts, offering advanced features and high-quality performance in a compact body.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "3fce05fd-394d-433a-90a7-880f7e2bc632",
+            "image": null,
+            "name": "Olympus PEN E-PL9",
+            "description": "The Olympus PEN E-PL9 is a compact mirrorless camera designed for photography enthusiasts who seek portability without sacrificing image quality. It features a variety of advanced options, making it suitable for both casual users and more experienced photographers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        },
+        {
+            "id": "4874aab0-1f4d-40aa-8a66-a095ce55bc41",
+            "image": null,
+            "name": "Olympus OM-D E-M1 Mark III",
+            "description": "The Olympus OM-D E-M1 Mark III is a mirrorless camera designed for professional photographers, featuring advanced image stabilization and a compact, weather-sealed body for versatile shooting in various conditions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus"
+            }
+        }
+    ]
+}

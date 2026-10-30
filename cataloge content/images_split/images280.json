@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "fff8192e-8061-434e-927e-e0f39ba7f21a",
+            "image": null,
+            "name": "OM System M.Zuiko Digital ED 12-40mm f/2.8 PRO II",
+            "description": "The OM System M.Zuiko Digital ED 12-40mm f/2.8 PRO II is a versatile zoom lens designed for Micro Four Thirds cameras, featuring a constant f/2.8 aperture and a robust build quality suitable for professional photography.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Olympus (OM SYSTEM)"
+            }
+        },
+        {
+            "id": "150dab16-a1d4-4ae0-baad-80ab0d7c79d6",
+            "image": null,
+            "name": "Ecoline Watercolor Markers",
+            "description": "Ecoline Watercolor Markers are vibrant, highly pigmented markers designed for artists and crafters, allowing for seamless blending and fluid watercolor application.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "56979a71-fa01-4905-81dd-6e701a692bd9",
+            "image": null,
+            "name": "Tamron 20-40mm F/2.8 Di III VXD",
+            "description": "The Tamron 20-40mm F/2.8 Di III VXD is a compact and versatile wide-angle zoom lens designed for full-frame mirrorless cameras, offering a constant aperture of F/2.8 throughout its zoom range, making it suitable for a variety of photography styles, including landscapes and portraits.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Tamron"
+            }
+        },
+        {
+            "id": "08726fff-87a3-47e2-8ccc-c21fd848db09",
+            "image": null,
+            "name": "Hamilton Beach Microwaves",
+            "description": "The Hamilton Beach Microwaves series offers a variety of countertop microwave ovens designed for quick and efficient cooking and reheating. These appliances feature convenient presets and user-friendly interfaces, making them suitable for everyday kitchen tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "bb2caedc-3e23-455e-a2fe-3d4ad2fb37cf",
+            "image": null,
+            "name": "TeraFlex Control Arms",
+            "description": "The TeraFlex Control Arms are designed to enhance the suspension of SUVs, offering improved articulation and stability for off-road performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "ff36dc5b-b021-494c-8194-bb9b1041bcf2",
+            "image": null,
+            "name": "FolkArt Outdoor Variety",
+            "description": "FolkArt Outdoor Variety is a collection of durable, weather-resistant art supplies designed for outdoor crafting and projects. The series features a range of vibrant colors suitable for a variety of surfaces and weather conditions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "899f4ff7-a6e8-40c2-9f3e-69a7abe848d8",
+            "image": null,
+            "name": "Hamilton Beach Stay or Go",
+            "description": "The Hamilton Beach Stay or Go series includes coffee machines designed for convenience and portability, allowing users to brew coffee at home or take it on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "0d5fefa4-5d8e-46ce-8daa-8ba8b54392a1",
+            "image": null,
+            "name": "Hamilton Beach Professional Pro Blender",
+            "description": "The Hamilton Beach Professional Pro Blender is designed for high-performance blending and food preparation. It features powerful blending capabilities suitable for creating smoothies, soups, and sauces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "3df9a4a9-dec4-48f9-b8aa-704f9a808b75",
+            "image": null,
+            "name": "Valvoline MaxLife Motor Oil",
+            "description": "Valvoline MaxLife Motor Oil is designed for vehicles with over 75,000 miles, providing superior wear protection and enhanced engine longevity. It features unique additives that help prevent leaks and reduce engine deposits, ensuring optimal performance.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "7a42e97c-1ccf-4348-a20b-da3fab760c30",
+            "image": null,
+            "name": "Autoglym High Definition Cleanser",
+            "description": "Autoglym High Definition Cleanser is a specialized car care product designed to provide a thorough cleaning of painted surfaces while enhancing gloss and clarity. Launched in 2002, it is known for its ability to effectively remove contaminants, leaving a smooth finish.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "f9e371f5-9ca3-4d51-b5e0-962c48f7cb1f",
+            "image": null,
+            "name": "BabyBjörn Baby Carrier One Koi",
+            "description": "The BabyBjörn Baby Carrier One Koi is designed for parents who want a comfortable and ergonomic way to carry their baby. It supports various carrying positions and is suitable for infants to toddlers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "df50bb81-a0a5-4fce-beb5-1a1f4887c384",
+            "image": null,
+            "name": "Marmot Limestone 2P",
+            "description": "The Marmot Limestone 2P is a lightweight, two-person tent designed for camping, featuring durable materials and effective weather protection to enhance outdoor experiences.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Marmot"
+            }
+        },
+        {
+            "id": "648b760d-f7a1-47a7-aff3-acdcb18287b4",
+            "image": null,
+            "name": "Alvar 2P Tent",
+            "description": "The Marmot Alvar 2P Tent is a lightweight and durable camping tent designed for two people, offering easy setup and reliable weather protection for outdoor adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Marmot"
+            }
+        },
+        {
+            "id": "f8834848-8a28-4b9f-b4ed-460ed94778c1",
+            "image": null,
+            "name": "TeraFlex Jeep JK Long Range Fuel Tank System",
+            "description": "The TeraFlex Jeep JK Long Range Fuel Tank System is designed to extend the fuel capacity of Jeep JK models, providing off-road enthusiasts with enhanced range for long excursions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "92fea78c-812c-48e0-bf57-7f9f972fc6c1",
+            "image": null,
+            "name": "Men's Minimalist Jacket",
+            "description": "The Marmot Men's Minimalist Jacket is designed for lightweight protection against the elements, making it an ideal choice for outdoor enthusiasts who need a packable and versatile waterproof jacket.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Marmot"
+            }
+        },
+        {
+            "id": "10cf0500-3d09-4073-9569-18cbbb5a10a4",
+            "image": null,
+            "name": "Pirelli P Zero (New Generation)",
+            "description": "The Pirelli P Zero (New Generation) is a high-performance tire series designed to deliver superior traction, handling, and stability for sport and luxury vehicles. This tire line is known for its advanced technology and innovative tread design, providing optimal performance in various driving conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "67ba8e3a-ee84-41c0-80d8-01b0e5bab49f",
+            "image": null,
+            "name": "Crunch Series",
+            "description": "The Crunch Series is a line of car audio products launched in 2004, designed to deliver high-quality sound performance and enhance the listening experience in vehicles.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Crunch"
+            }
+        },
+        {
+            "id": "72315e6b-bc74-4752-8700-14fb5eff2a2d",
+            "image": null,
+            "name": "DUPLO 10874 Number Train",
+            "description": "The DUPLO 10874 Number Train is an educational toy designed for young children, featuring numbered train cars that help kids learn counting and number recognition through play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "2a986075-3b4c-4d49-b962-e7eaeb09802b",
+            "image": null,
+            "name": "iZi Flex FIX i-Size",
+            "description": "The Be Safe iZi Flex FIX i-Size is a child car seat designed to provide enhanced safety and comfort for children aged 4 to 12 years, constructed to conform to the i-Size safety regulations.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Be Safe"
+            }
+        },
+        {
+            "id": "23d02a60-219b-4bf2-81e3-dece9f7f2100",
+            "image": null,
+            "name": "TeraFlex 4 inch Suspension System",
+            "description": "The TeraFlex 4 inch Suspension System is designed to enhance off-road performance and improve vehicle stability, offering lift and added ground clearance for an improved driving experience on rugged terrains.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "ff6c42a6-0d69-4d1e-ba17-e35bcc045b67",
+            "image": null,
+            "name": "L.12.12",
+            "description": "The Lacoste L.12.12 series represents a range of classic, lightweight polo shirts designed for comfort and style, often associated with the brand's signature sporty aesthetic.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Lacoste"
+            }
+        },
+        {
+            "id": "4a738b11-13b9-43f0-8726-5049b1420fdc",
+            "image": null,
+            "name": "BabyBjörn Baby Carrier Mini Koi",
+            "description": "The BabyBjörn Baby Carrier Mini Koi is a compact and versatile baby carrier designed for carrying infants from newborn up to a weight of 12 kg (26 lbs). It offers ergonomic support for both the baby and the wearer, allowing for close bonding and easy mobility.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "f880ffe7-61cf-4127-b479-c17796540b63",
+            "image": null,
+            "name": "Glass Polish",
+            "description": "Autoglym Glass Polish is a specialized car care product designed to clean, polish, and protect glass surfaces, providing clarity and resistance to water marks.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "14c8a031-f878-4884-8c81-c19fd4464de1",
+            "image": null,
+            "name": "Benelli 502C",
+            "description": "The Benelli 502C is a modern cruiser motorcycle designed for urban riding, characterized by its striking design and balanced performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "994c7646-8f2f-459d-bdec-af9dae43d26b",
+            "image": null,
+            "name": "Cosori Pro Air Fryer",
+            "description": "The Cosori Pro Air Fryer is designed to provide a healthier way to enjoy crispy, fried foods with its innovative air circulation technology, allowing for cooking with minimal oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Cosori"
+            }
+        },
+        {
+            "id": "b5569969-acb9-4f04-b812-fe4609a4f9f5",
+            "image": null,
+            "name": "Pillow Q",
+            "description": "The Big Agnes Pillow Q series offers comfort and support for restful sleep while camping. These inflatable pillows are designed to be lightweight and packable, making them ideal for backpacking and outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "9fdfc34a-c4a4-4158-afb9-464148e04b82",
+            "image": null,
+            "name": "Osann Kiddy Jet",
+            "description": "The Osann Kiddy Jet is a series of baby seats designed to provide safety and comfort for infants and toddlers during car travel, featuring a lightweight design and practical functionalities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "98c23d4b-626c-462c-a608-2388fd7f27d4",
+            "image": null,
+            "name": "Dreamscape VR Experiences",
+            "description": "Dreamscape VR Experiences offer immersive virtual reality experiences designed to transport users to different worlds, enhancing entertainment and exploration through cutting-edge VR headset technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Dreamscape Immersive"
+            }
+        },
+        {
+            "id": "348b2016-534a-4d6a-8cde-268cb8e138df",
+            "image": null,
+            "name": "Evenflo Pivot Modular",
+            "description": "The Evenflo Pivot Modular is a versatile stroller that features a 3-in-1 design, making it suitable for infants and toddlers. Its key purpose is to provide convenience and flexibility for parents on the go, with features like a reversible seat and a large storage basket.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "21c9161e-4db8-46bf-9e12-1cf32da90ec7",
+            "image": null,
+            "name": "High Definition Clean",
+            "description": "Autoglym High Definition Clean is a premium car care product series designed to deliver exceptional cleaning results and enhance the paintwork of vehicles. It is known for its advanced formulation aimed at providing a deep clean and protecting the finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "4c938b94-4eb6-4222-a7da-53544e1b8668",
+            "image": null,
+            "name": "Skullcandy Venue 2",
+            "description": "Skullcandy Venue 2 headphones are designed to provide high-quality audio performance with active noise cancellation and a comfortable fit, making them ideal for immersive listening experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "1c3f2c48-b83b-4376-aa6d-07528c4b29ef",
+            "image": null,
+            "name": "Outwell Dreamer",
+            "description": "The Outwell Dreamer series is designed for comfort during camping, offering a range of inflatable and self-inflating sleeping pads that provide a restful experience outdoors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "13031abb-3e7c-4a0c-b237-e4b7e506ddc4",
+            "image": null,
+            "name": "Ridgeline",
+            "description": "The Honda Ridgeline is a midsize pickup truck designed for versatility and comfort, featuring an innovative bed layout and advanced safety features suitable for both everyday driving and work tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0c922b7d-7388-462d-bbb9-c484822449e5",
+            "image": null,
+            "name": "Aquabeads Beginner Studio",
+            "description": "Aquabeads Beginner Studio is a creative craft set designed for children to create unique bead designs using colorful beads that stick together when sprayed with water. It encourages creativity and fine motor skills through artful play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "68338e19-e074-48fe-8bb2-e36268283698",
+            "image": null,
+            "name": "Nuwave Brio 10qt Air Fryer",
+            "description": "The Nuwave Brio 10qt Air Fryer is a countertop cooking appliance designed for frying, baking, roasting, and grilling with little to no oil. It features a large capacity, making it suitable for preparing meals for families or gatherings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "d4229ada-a29e-4bbb-bd4e-8b07596527ec",
+            "image": null,
+            "name": "Phoenix Series",
+            "description": "The Phoenix Series by Phoenix Gold is a line of car audio products designed to enhance sound quality and performance. Released in 2000, this series features innovative technology aimed at delivering superior audio experiences in vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "789de35a-43f1-4328-bce0-e187254c830d",
+            "image": null,
+            "name": "Little People Caring for Animals Farm",
+            "description": "The Fisher-Price Little People Caring for Animals Farm is a playset that encourages imaginative play while teaching children about animal care and farm life. It features a variety of animals and farm figures, allowing kids to engage in nurturing and role-playing scenarios.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "087e38b7-fdbd-4786-a3ad-2869f4cd878c",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Controlling the Car",
+            "description": "The Fisher-Price Laugh & Learn Controlling the Car series is an interactive toy designed for infants and toddlers, encouraging early learning through role-play and engagement with fun sounds and phrases.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "b275cdfb-2f09-446e-9c94-2d31fdf4dda5",
+            "image": null,
+            "name": "Ninja Personal Blender",
+            "description": "The Ninja Personal Blender is designed for quick, convenient blending of smoothies, shakes, and other beverages, featuring a compact design that is ideal for single servings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "4fb6101b-ad8b-46f7-80ea-e7a0c9c9cc65",
+            "image": null,
+            "name": "Thule Roof Railing System",
+            "description": "The Thule Roof Railing System is designed to enhance vehicle storage and versatility, allowing for the secure attachment of various roof-mounted accessories.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "cb2f1143-6e12-4b3b-a80a-8238cc20a3dd",
+            "image": null,
+            "name": "Edifier W860NB",
+            "description": "The Edifier W860NB is a series of over-ear headphones designed for active noise cancelation and high-fidelity sound, aimed at providing a superior listening experience for music lovers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Edifier"
+            }
+        },
+        {
+            "id": "530062a5-ba49-421e-b573-a27d893eded4",
+            "image": null,
+            "name": "Phoenix Gold RX Series",
+            "description": "The Phoenix Gold RX Series is a collection of high-performance car audio equipment designed to deliver superior sound quality and enhance the in-vehicle audio experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "a5a56ca5-630f-476a-9fd0-70858a36f00e",
+            "image": null,
+            "name": "Maruti Suzuki Grand Vitara",
+            "description": "The Maruti Suzuki Grand Vitara is a compact SUV designed to offer a blend of style, comfort, and performance, suitable for urban and off-road driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "b5d4aa62-6ce1-4d87-8d25-8a9bd67d874d",
+            "image": null,
+            "name": "Husqvarna FE 250",
+            "description": "The Husqvarna FE 250 is an off-road motorcycle designed for performance and agility on various terrains. It features a lightweight construction, advanced suspension, and a powerful engine, catering to both amateur and professional riders.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "ec38211c-969a-4c25-b6b3-5af29067e67e",
+            "image": null,
+            "name": "Hori Nintendo Switch Joy-Con Grip",
+            "description": "The Hori Nintendo Switch Joy-Con Grip is a controller accessory designed to enhance the gaming experience on the Nintendo Switch by providing a comfortable grip for extended play sessions. It is compatible with Joy-Con controllers and allows for a more ergonomic hold.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "301f93dc-c75a-4fc1-9bc0-323dbb39bfc7",
+            "image": null,
+            "name": "Aquabeads 2016 Series",
+            "description": "Aquabeads 2016 Series is a creative craft set that allows children to design and create colorful beaded characters and shapes using water-activated beads that fuse together when sprayed with water.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "bf92e3d4-3ca0-46c9-ab2b-6c8f8d7bc401",
+            "image": null,
+            "name": "MONO Eraser",
+            "description": "The Tombow MONO Eraser series offers high-quality erasers designed to remove pencil marks cleanly without damaging paper. They are ideal for artists and students seeking precision in their work.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "36206877-616e-4ff6-907b-5a1a81868502",
+            "image": null,
+            "name": "SX4 S-Cross",
+            "description": "The Maruti Suzuki SX4 S-Cross is a compact SUV designed for versatility and comfort, combining robust performance with a spacious interior suitable for urban and off-road adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "74576107-37d4-489b-97ed-16a2e7e6adac",
+            "image": null,
+            "name": "Aquabeads Disney Princess Craft Sets",
+            "description": "Aquabeads Disney Princess Craft Sets are creative craft kits that allow children to design and create colorful bead art featuring beloved Disney Princess characters. The sets promote creativity, fine motor skills, and imaginative play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "128cff52-f2e3-41b7-974d-3b312839c50d",
+            "image": null,
+            "name": "Push Active",
+            "description": "Skullcandy Push Active headphones are designed for active lifestyles, offering wireless connectivity and a secure fit for workouts and outdoor activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "032027e1-50f7-4bec-85fa-4abf40ea8627",
+            "image": null,
+            "name": "Skullcandy Dime 2",
+            "description": "The Skullcandy Dime 2 is a compact and lightweight pair of true wireless earbuds designed for everyday use, featuring a comfortable fit and up to 12 hours of total battery life.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "1e33df69-4fc8-478c-9c47-88de88836c16",
+            "image": null,
+            "name": "Nuwave Oven",
+            "description": "The Nuwave Oven is an innovative air fryer designed to provide fast, efficient cooking while retaining flavor and moisture in food. Its unique design uses a combination of convection, conduction, and infrared heating technology to achieve crispy results with less oil.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Nuwave"
+            }
+        },
+        {
+            "id": "2264c088-43dd-478c-9ecc-6888af1a5e43",
+            "image": null,
+            "name": "Aquabeads Magical Beads",
+            "description": "Aquabeads Magical Beads allows children to create colorful bead designs that magically stick together when misted with water, promoting creativity and fine motor skill development.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "3bafe225-45f1-499d-aeaa-d1893264f567",
+            "image": null,
+            "name": "Diono Radian 3RX",
+            "description": "The Diono Radian 3RX is a convertible car seat designed to accommodate children from birth through booster age, offering safety, versatility, and comfort with a compact design suitable for smaller vehicles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "f0f427ae-fc20-4852-b4ce-db3564af85ce",
+            "image": null,
+            "name": "Fisher-Price Little People Big Helpers Appliances",
+            "description": "The Fisher-Price Little People Big Helpers Appliances series features interactive toy appliances designed to encourage imaginative play and everyday role-playing scenarios for young children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "2f29bdff-a7b3-4ff1-a420-a8bf2f0cde3a",
+            "image": null,
+            "name": "Fisher-Price Power Wheels Dune Racer",
+            "description": "The Fisher-Price Power Wheels Dune Racer is an electric ride-on toy designed for outdoor use, featuring durable construction and a sporty design for young kids to enjoy driving adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "dad69339-a749-4715-a658-875332899243",
+            "image": null,
+            "name": "1 Series",
+            "description": "The BMW 1 Series is a compact car designed to offer agility, performance, and premium features, suitable for urban driving and everyday use.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "ac488fcc-1fa3-4386-8ace-4aced610a0f9",
+            "image": null,
+            "name": "Fisher-Price 3-in-1 On-the-Go Mobile",
+            "description": "The Fisher-Price 3-in-1 On-the-Go Mobile is a versatile toy designed to entertain and soothe infants during travel. It can be used as a crib mobile, a travel mobile, or a handheld toy, providing auditory and visual stimulation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "52aa6983-8c72-4018-adf8-97c1197efdb6",
+            "image": null,
+            "name": "Opel Corsa E",
+            "description": "The Opel Corsa E is a small hatchback car known for its practicality and efficiency, designed to cater to urban drivers with a focus on convenience and maneuverability.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "43fd1c70-a0c4-4733-9808-f982a75b7f54",
+            "image": null,
+            "name": "Ninja Max XL Air Fryer",
+            "description": "The Ninja Max XL Air Fryer is a kitchen appliance designed for frying, baking, roasting, and reheating food using little to no oil, promoting healthier cooking options while delivering crispy results.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        }
+    ]
+}

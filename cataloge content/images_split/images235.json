@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "8de965ae-f927-4823-87ab-85b4a97ed079",
+            "image": null,
+            "name": "Nokia X10",
+            "description": "The Nokia X10 is a smartphone released in 2021, designed to deliver reliable performance and a solid camera experience while supporting 5G connectivity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "a6caf871-1da0-4966-a0ec-f5e39441f164",
+            "image": null,
+            "name": "Nokia X20",
+            "description": "The Nokia X20 is a smartphone designed for everyday users, offering features like a large display, a versatile camera system, and robust performance, all while emphasizing sustainability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "c06412ff-3ead-43fd-bc2e-baf893179e2c",
+            "image": null,
+            "name": "Nokia G11",
+            "description": "The Nokia G11 is a series of smartphones released in 2023, designed to provide affordable, reliable performance with essential features for everyday use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "1f2c6628-971f-408a-8047-b7442dd8000f",
+            "image": null,
+            "name": "Vivo Y100 Series",
+            "description": "The Vivo Y100 Series consists of smartphones designed to offer a balance of performance and affordability, catering to users looking for reliable mobile technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "e3e5bf36-8272-4a36-845e-7bed6faf75da",
+            "image": null,
+            "name": "Realme 1",
+            "description": "The Realme 1 is a smartphone introduced in 2018, designed to offer a blend of performance and affordability, targeting budget-conscious consumers with its competitive features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "08851319-c640-41fe-9b73-302ad96094e9",
+            "image": null,
+            "name": "Realme X",
+            "description": "The Realme X series consists of smartphones that focus on providing a high-quality experience with innovative features at an affordable price point, appealing to tech-savvy consumers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "fb86ff51-75ad-4fa7-94da-1b5c073ab6b9",
+            "image": null,
+            "name": "Realme X2",
+            "description": "The Realme X2 is a smartphone series launched in 2019, designed to deliver a balance of performance and camera capabilities within a mid-range price segment.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "2f542c00-50a0-4c22-8431-1f682011d20d",
+            "image": null,
+            "name": "Realme X2 Pro",
+            "description": "The Realme X2 Pro is a smartphone released in 2019, designed to deliver high performance with a focus on gaming and photography capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "c5debeb3-ed7d-496d-b0c9-4a46446f35d9",
+            "image": null,
+            "name": "Kawasaki ZZR Series",
+            "description": "The Kawasaki ZZR Series is a line of sports touring motorcycles designed for high performance and comfort, featuring advanced engineering and aerodynamic design for dynamic riding experiences.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "f6a50ad6-6f82-402b-8ce7-39694445f69b",
+            "image": null,
+            "name": "Ninja",
+            "description": "The Kawasaki Ninja series consists of high-performance sport motorcycles known for their speed, agility, and innovative engineering. Launched in 2003, these motorcycles cater to both novice and experienced riders who seek thrilling riding experiences.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "1f21499e-1c34-4329-b726-2f2328b59a96",
+            "image": null,
+            "name": "Kawasaki Ninja 250R",
+            "description": "The Kawasaki Ninja 250R is a lightweight sport motorcycle designed for beginner and intermediate riders, offering a blend of agility, performance, and stylish design since its introduction in 2004.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "ea3fdfda-917b-4c11-8bdd-d2e7ae6880e7",
+            "image": null,
+            "name": "Kawasaki KLR 650",
+            "description": "The Kawasaki KLR 650 is a versatile dual-sport motorcycle, known for its rugged capabilities and reliability for both on-road and off-road adventures.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "2804450b-d5a1-4ab8-ab33-79bb57582974",
+            "image": null,
+            "name": "Kawasaki Z1000",
+            "description": "The Kawasaki Z1000 is a naked motorcycle known for its aggressive styling, strong performance, and versatility, making it suitable for both urban commuting and spirited riding.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "b44170d0-4e60-43b5-9a76-223ff8a95072",
+            "image": null,
+            "name": "Kawasaki Ninja 650R",
+            "description": "The Kawasaki Ninja 650R is a sport motorcycle known for its balance of performance and comfort, making it suitable for both beginner and experienced riders. It features a lightweight frame and an aggressive styling that appeals to a wide range of enthusiasts.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "6d085f5d-e5a9-4941-9fc9-3853ea229645",
+            "image": null,
+            "name": "Valeo Smart Technology",
+            "description": "Valeo Smart Technology is a series of automotive components designed to enhance vehicle safety and efficiency, integrating advanced sensor technology for improved performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valeo"
+            }
+        },
+        {
+            "id": "e0103fb0-750f-44d8-a94e-db7e85dbcce7",
+            "image": null,
+            "name": "Škoda Fabia II",
+            "description": "The Škoda Fabia II is a compact car produced by Skoda Auto, known for its practicality, efficiency, and versatile design. Launched in 2007, it serves as a popular choice for urban driving and everyday use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "f58c58f6-14b1-4d5d-b30c-d288146dc06d",
+            "image": null,
+            "name": "Škoda Superb (Facelift)",
+            "description": "The Škoda Superb (Facelift) is a mid-size car designed to offer spacious interiors, advanced technology, and a blend of comfort and performance, making it an ideal choice for both family and business use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "090ea778-0bc9-4ea7-8e3b-ab1a39a29ebb",
+            "image": null,
+            "name": "Pébéo Vitrea 160",
+            "description": "Pébéo Vitrea 160 is a line of glass and porcelain paints known for their high-quality finish and versatility, suitable for use on various surfaces including glass, ceramics, and metals.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "702eb17d-edb8-41d8-af2b-c27a2ab9c0a9",
+            "image": null,
+            "name": "Conté Sketching Pencils",
+            "description": "The Conté Sketching Pencils are designed for artists seeking precision and versatility in their sketches, offering a range of grades for various techniques and styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "0eaf45c7-f674-400e-839a-8f46934d18f6",
+            "image": null,
+            "name": "Conté Pastels",
+            "description": "Conté Pastels are high-quality art supplies designed for artists, offering rich pigmentation and smooth application, ideal for both professional and amateur use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "d73c165b-d3e6-4729-ad05-9552317afaf8",
+            "image": null,
+            "name": "Conté Pastel",
+            "description": "Conté Pastel is a series of high-quality pastel sticks designed for artists seeking a rich, vibrant color experience. These pastels are known for their smooth application and blendability, making them ideal for both drawing and painting.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "5912c590-39c7-44db-bf45-e532f0edbecb",
+            "image": null,
+            "name": "Škoda Yeti",
+            "description": "The Škoda Yeti is a compact SUV produced by Škoda Auto, designed for versatility and practical use in various driving conditions. It combines robust off-road capabilities with a comfortable interior, making it suitable for both urban and outdoor adventures.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "3da5cd07-f30d-4828-a663-620436019df4",
+            "image": null,
+            "name": "GR86",
+            "description": "The Toyota GR86 is a compact sports car designed for those seeking an exhilarating driving experience, combining agile handling and a lightweight chassis for optimal performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "80def94a-617d-402a-87a3-7b0173abda5c",
+            "image": null,
+            "name": "Nokia G21",
+            "description": "The Nokia G21 is a smartphone series released in 2023, known for its durability, long battery life, and user-friendly interface, aimed at providing a reliable mobile experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "a2da0100-e627-4692-94c2-2e25944c70ed",
+            "image": null,
+            "name": "Nokia C12",
+            "description": "The Nokia C12 is an entry-level smartphone designed to provide essential features and reliable performance for everyday usage. It focuses on durability, ease of use, and a long-lasting battery.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "70757e6c-c497-4de5-b4bc-51ac451de929",
+            "image": null,
+            "name": "Vivo V23 Series",
+            "description": "The Vivo V23 Series is a lineup of smartphones released in 2022, characterized by their innovative design and focus on photography capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "b8f63ca4-c345-49a8-8619-adbbdc3ce91a",
+            "image": null,
+            "name": "Realme 2",
+            "description": "The Realme 2 series is a budget smartphone lineup released in 2018, known for its stylish design and solid performance aimed at consumers seeking value for money.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "ee0794ad-7392-459c-a79b-ee00f71c1bb9",
+            "image": null,
+            "name": "Realme 2 Pro",
+            "description": "The Realme 2 Pro is a mid-range smartphone launched in 2018, known for its large display, capable performance, and dual-camera system, designed for users seeking value and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "7ac6db72-32d3-40b2-9886-aee79cace0a0",
+            "image": null,
+            "name": "Realme C1",
+            "description": "The Realme C1 is an entry-level smartphone released in 2018, designed to offer essential features and good performance at an affordable price.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "b926265e-9459-4798-b000-fca3495c8a88",
+            "image": null,
+            "name": "Realme U1",
+            "description": "The Realme U1 is a smartphone designed to provide exceptional camera performance and a stylish design, targeting users who prioritize photography and aesthetics on a budget.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        }
+    ]
+}

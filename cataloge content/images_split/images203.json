@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "1283ffdf-44d2-4cdb-b273-3812ce6850b4",
+            "image": null,
+            "name": "Little Tikes 2-in-1 Castle Climber",
+            "description": "The Little Tikes 2-in-1 Castle Climber is an outdoor play structure designed for young children to encourage physical activity through climbing and sliding. It features a castle theme that stimulates imaginative play while promoting motor skills.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Little Tikes"
+            }
+        },
+        {
+            "id": "0cb385fe-e140-44c9-9b3d-4e731edc2fed",
+            "image": null,
+            "name": "Strider 14x Sport Balance Bike",
+            "description": "The Strider 14x Sport Balance Bike is designed to help children aged 18 months to five years develop balance and coordination while riding. It features a lightweight frame and adjustable seat for a customizable fit.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "a09dd035-eb1f-44bc-abe7-eb510b9eb196",
+            "image": null,
+            "name": "Strider 12 Sport",
+            "description": "The Strider 12 Sport is a lightweight balance bike designed for young children to develop their balance and coordination skills while having fun. It features an adjustable seat and handlebars to grow with the child, making it a versatile choice for early riders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "ef7c61ed-2ec7-4a5b-b947-c95127f9540c",
+            "image": null,
+            "name": "Strider 14X",
+            "description": "The Strider 14X is a balance bike designed for children aged 3 to 7 years, promoting the development of core balance skills while providing a low-to-the-ground experience for added safety and confidence.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "0a176e4c-df71-439e-bec8-32438f5fdda9",
+            "image": null,
+            "name": "Strider 12 Classic",
+            "description": "The Strider 12 Classic is a balance bike designed for toddlers and young children to develop their balance and coordination skills while riding. Its lightweight frame and adjustable components make it ideal for beginner riders.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "ee71a9ed-0b89-4a2a-bea9-db58380d10d8",
+            "image": null,
+            "name": "Pioneer DEH-P8400MP",
+            "description": "The Pioneer DEH-P8400MP is a car audio receiver designed to deliver high-quality sound and multimedia playback, featuring various connectivity options and an easy-to-navigate interface.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "f47f9c46-e838-494e-bfcc-76ce6b9857bb",
+            "image": null,
+            "name": "Pioneer DEH-Headunit Series",
+            "description": "The Pioneer DEH-Headunit Series is a line of car audio receivers designed to enhance the in-vehicle listening experience with features such as CD playback, radio tuning, and compatibility with various audio formats.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "0369f96b-1c31-4e53-89ab-d05aeae1595d",
+            "image": null,
+            "name": "Chevrolet Sonic",
+            "description": "The Chevrolet Sonic is a subcompact car designed for efficient urban commuting and offers a blend of style, technology, and performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "64449234-6459-4759-a420-422d9e22d7d4",
+            "image": null,
+            "name": "Chevrolet Volt",
+            "description": "The Chevrolet Volt is a plug-in hybrid car designed to offer an all-electric driving range combined with the flexibility of a gasoline engine. Its key traits include energy efficiency and innovative technology for environmentally conscious drivers.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "dde7562c-b1a8-437c-985f-6bc5720a23df",
+            "image": null,
+            "name": "Chevrolet Colorado (New Generation)",
+            "description": "The Chevrolet Colorado (New Generation) is a compact pickup truck designed for both functionality and versatility, catering to the needs of drivers seeking a reliable vehicle for work or recreation.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "19c8bc90-04c5-4f60-b504-0d045741bd3d",
+            "image": null,
+            "name": "Chevrolet Spark",
+            "description": "The Chevrolet Spark is a subcompact car designed for city driving, known for its fuel efficiency and compact size.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "c4c221bd-d89e-4ce7-b3ec-b6ac4ac09ab0",
+            "image": null,
+            "name": "Chevrolet Camaro ZL1",
+            "description": "The Chevrolet Camaro ZL1 is a high-performance sports car known for its powerful engine, sharp handling, and aggressive styling, designed to deliver an exhilarating driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "d930dd27-cf22-42cc-9405-c70c420227ad",
+            "image": null,
+            "name": "Chevrolet Malibu Eco",
+            "description": "The Chevrolet Malibu Eco is a midsize sedan designed to provide a balance of efficiency and comfort, featuring a hybrid powertrain for improved fuel economy.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "0a3dda96-2f95-43af-9e20-7d5f38bf0d6d",
+            "image": null,
+            "name": "Chevrolet Camaro",
+            "description": "The Chevrolet Camaro is a classic American muscle car known for its sleek design, powerful performance, and dynamic handling, appealing to car enthusiasts and those seeking an exhilarating driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "1417aa9a-6b47-4320-8d7f-f590a0fba9c8",
+            "image": null,
+            "name": "Chevrolet Corvette",
+            "description": "The 2018 Chevrolet Corvette is a high-performance sports car known for its sleek design, powerful engine options, and exceptional handling capabilities, making it an iconic American vehicle for driving enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "836e790c-2816-4c4c-bd59-954efa47017c",
+            "image": null,
+            "name": "Chevrolet Silverado HD",
+            "description": "The Chevrolet Silverado HD is a heavy-duty pickup truck designed for superior towing and hauling capabilities, featuring a robust engine lineup and advanced technology to support both work and recreational needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "2d5a5dfe-b312-4609-b905-552a7345f963",
+            "image": null,
+            "name": "Chevrolet Corvette E-Ray",
+            "description": "The Chevrolet Corvette E-Ray is a hybrid sports car that combines electric power with a traditional V8 engine, offering enhanced performance and efficiency while maintaining the iconic characteristics of the Corvette lineage.",
+            "release_year": 2025,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "92f8bd19-ddf1-4585-9fee-1911f7d9e0d8",
+            "image": null,
+            "name": "Aquabeads Bead Packs",
+            "description": "Aquabeads Bead Packs allow children to create colorful, bead-based designs by arranging beads and using water to fuse them together, promoting creativity and fine motor skills.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Aquabeads"
+            }
+        },
+        {
+            "id": "d0e15079-dba4-49b9-9cd3-78d24d750837",
+            "image": null,
+            "name": "DUPLO My First Number Train",
+            "description": "DUPLO My First Number Train is an educational toy designed to introduce young children to counting and numbers through play. The series features colorful building blocks that can be combined to create a train while encouraging fine motor skills and imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "a7265a05-fe6d-483c-b7cc-3913c1305ad0",
+            "image": null,
+            "name": "DUPLO Town Pizza Drive Thru",
+            "description": "The DUPLO Town Pizza Drive Thru set allows young children to engage in imaginative play while learning about ordering food and serving customers, enhancing their fine motor skills and social interaction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "1df30a14-042d-4f6a-87a6-ba015669b1fa",
+            "image": null,
+            "name": "DUPLO Town Truck & Tracked Excavator",
+            "description": "DUPLO Town Truck & Tracked Excavator is a construction-themed playset designed for toddlers, encouraging imaginative play and developing fine motor skills while introducing them to the world of construction vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "9181fb7a-8eb5-46e8-bd50-063bbddeed93",
+            "image": null,
+            "name": "DUPLO Creative Picnic",
+            "description": "The DUPLO Creative Picnic series encourages imaginative play and social interaction through its various picnic-themed building elements and figures designed for young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "40f5d07d-aa31-482a-9d02-e98c3ce6c360",
+            "image": null,
+            "name": "DUPLO Town",
+            "description": "DUPLO Town is a series of toys designed for young children to encourage imaginative play and fine motor skills development through building and role-playing activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "7fede5ab-fa38-48ea-a49e-165a9e2af812",
+            "image": null,
+            "name": "DUPLO Disney",
+            "description": "DUPLO Disney is a line of building toys designed for young children, featuring characters and themes from popular Disney movies, encouraging imaginative play and fine motor skill development.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "63b0f4d2-b527-4806-9ea8-62cfc7adbc9c",
+            "image": null,
+            "name": "DUPLO Classic",
+            "description": "DUPLO Classic is a series of colorful building toys designed for young children, promoting creativity and fine motor skills through imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "4819244d-3503-4f06-af28-7875ab1f7c4b",
+            "image": null,
+            "name": "DUPLO Animal Adventure",
+            "description": "DUPLO Animal Adventure is a series of interactive toys designed for young children to explore and learn about different animals through imaginative play, helping to develop fine motor skills and creativity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "98db81ea-edd2-4925-94d2-293fb2d4dfca",
+            "image": null,
+            "name": "DUPLO My First",
+            "description": "DUPLO My First is a series of educational toys designed for young children, promoting early learning, creativity, and motor skills through safe and easy-to-handle building blocks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "abb12f4e-23b1-4456-9a72-32fe18649c95",
+            "image": null,
+            "name": "DUPLO Farm",
+            "description": "DUPLO Farm is a series of educational toys designed for young children, encouraging imaginative play while promoting fine motor skills and early learning concepts through engaging farm-themed scenarios.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "e11148c3-5b96-439e-aa06-0dae612b161b",
+            "image": null,
+            "name": "DUPLO My First Building Blocks",
+            "description": "DUPLO My First Building Blocks are brightly colored, large-sized building blocks designed for young children to encourage creative play, motor skills development, and early construction abilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "f7566607-c4f8-41e7-b325-e979c703a4c1",
+            "image": null,
+            "name": "DUPLO Wild Animals of the World",
+            "description": "The DUPLO Wild Animals of the World series is designed for young children to explore and learn about various animal species from around the globe. These colorful, durable building blocks encourage imaginative play and help develop fine motor skills.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        }
+    ]
+}

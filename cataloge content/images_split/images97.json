@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "2baeb4e9-4445-4af5-8742-8f86c25e3306",
+            "image": null,
+            "name": "Huawei P10 Lite",
+            "description": "The Huawei P10 Lite is a mid-range smartphone released in 2017, known for its sleek design, efficient performance, and good camera capabilities, making it a popular choice for users seeking a balance between quality and affordability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "2eaf6e69-c7de-4d1a-9a85-127b3e5ba16c",
+            "image": null,
+            "name": "Acer Aspire 5 (2022)",
+            "description": "The Acer Aspire 5 (2022) is a versatile laptop series designed for everyday computing needs, combining performance and portability. It features a sleek design and is suitable for students, professionals, and general users looking for an affordable yet efficient device.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "3fc88c7c-9064-4505-9158-7f86a211fb43",
+            "image": null,
+            "name": "Acer Chromebook 514",
+            "description": "Acer Chromebook 514 is a sleek and portable laptop designed for productivity on the go, featuring a long battery life and support for Android applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "405b9e93-c791-447d-b691-39c68eea6e0c",
+            "image": null,
+            "name": "Acer Predator Helios 16",
+            "description": "The Acer Predator Helios 16 is a gaming laptop series launched in 2023, designed for high-performance gaming with advanced graphics capabilities and efficient thermal management.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "7482080f-c354-4fe3-a578-245b605435bc",
+            "image": null,
+            "name": "Redmi Note 10",
+            "description": "The Xiaomi Redmi Note 10 series consists of smartphones designed to offer a balance of performance, camera quality, and battery life at an affordable price point.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e3981996-b231-45a8-9852-d8435087aab7",
+            "image": null,
+            "name": "Poco F2 Pro",
+            "description": "The Poco F2 Pro is a flagship smartphone from Xiaomi's Poco series, known for its high-performance specifications and competitive pricing aimed at providing great value for users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e4014a65-c2ad-4af2-8ef6-1eff35ea2827",
+            "image": null,
+            "name": "Xiaomi Mi A2 Lite",
+            "description": "The Xiaomi Mi A2 Lite is a smartphone released in 2018 that features a stock Android experience and robust hardware at an affordable price, catering to users looking for a balance between performance and value.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "f06f703e-ad08-441e-a66b-4b1509de8ab0",
+            "image": null,
+            "name": "Redmi K40",
+            "description": "The Xiaomi Redmi K40 series is a line of smartphones designed to deliver high performance and value, featuring a sleek design and competitive specifications for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "f1007f8d-96d7-441c-a387-e6fe8c6b9e78",
+            "image": null,
+            "name": "Xiaomi Mi 8 Lite",
+            "description": "The Xiaomi Mi 8 Lite is a mid-range smartphone released in 2018, designed to provide a balance of performance and aesthetics with its sleek design and robust features suitable for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "76bf6a05-f4ca-4790-8321-e9333cb3df46",
+            "image": null,
+            "name": "Nikon Zfc",
+            "description": "The Nikon Zfc is a mirrorless camera series released in 2021, designed for photography enthusiasts seeking a compact, vintage-style camera with modern features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f39c2217-48db-4563-9a4a-d84136aff1ce",
+            "image": null,
+            "name": "MiMix 2",
+            "description": "The Xiaomi MiMix 2 is a flagship smartphone known for its bezel-less design and advanced camera capabilities, aiming to provide a premium user experience in a compact form.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "895fd218-fb56-4e41-bc1c-848c95e59e07",
+            "image": null,
+            "name": "Huawei MatePad Pro",
+            "description": "The Huawei MatePad Pro is a high-performance tablet designed for productivity and creativity, featuring a sleek design, powerful processing capabilities, and support for stylus input.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "fa2201ea-7249-430d-8b50-b1b5aeccb704",
+            "image": null,
+            "name": "Dawlance 9000 Series Washing Machines",
+            "description": "The Dawlance 9000 Series Washing Machines are designed for efficient laundry care, featuring advanced technology for effective washing and energy savings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "912cee4e-a488-4796-a8a0-43f7b4fd6593",
+            "image": null,
+            "name": "Mi A1",
+            "description": "The Xiaomi Mi A1 is an Android smartphone released in 2017, designed to offer a clean user experience with stock Android while providing solid mid-range features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "9b2b523e-4027-4056-a565-34ba367f993c",
+            "image": null,
+            "name": "Nikon Coolpix W300",
+            "description": "The Nikon Coolpix W300 is a compact digital camera designed for outdoor enthusiasts. It is water-resistant, shockproof, and built to capture high-quality images in challenging conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aad5fd84-e1a0-480a-97fc-f13289c70cae",
+            "image": null,
+            "name": "Huawei MateBook X Pro (2020)",
+            "description": "The Huawei MateBook X Pro (2020) is a premium ultrabook designed for productivity and portability, featuring a high-resolution display and strong performance capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "acdfd9fd-02d8-40f8-ad2a-3e28934c99f9",
+            "image": null,
+            "name": "Xiaomi 12 Lite",
+            "description": "The Xiaomi 12 Lite is a smartphone that combines sleek design with advanced camera technology and efficient performance, aimed at providing a premium user experience at a competitive price.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b31f0175-59a8-42d4-b17f-913c78fb6ef4",
+            "image": null,
+            "name": "Xiaomi Redmi Go",
+            "description": "The Xiaomi Redmi Go is an entry-level smartphone designed to provide essential smartphone features at an affordable price, catering especially to users seeking a budget-friendly mobile experience without compromising on usability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "167fd701-550f-43bb-9285-1ebbcf939952",
+            "image": null,
+            "name": "Canon EOS R3",
+            "description": "The Canon EOS R3 is a professional mirrorless camera designed for advanced photography and videography, offering high-speed performance and advanced autofocus capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "269c6ec3-a644-4957-8201-2bb1e8086a31",
+            "image": null,
+            "name": "Redmi 5",
+            "description": "The Xiaomi Redmi 5 is a budget-friendly smartphone released in 2017, featuring a sleek design and essential performance capabilities aimed at providing a good user experience without high costs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "327e8409-58cf-4007-95eb-ca3f752ed553",
+            "image": null,
+            "name": "Xiaomi Mi MIX 3",
+            "description": "The Xiaomi Mi MIX 3 is a flagship smartphone released in 2018, known for its innovative full-screen design and sliding camera mechanism, offering an immersive viewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "3d0595c3-1f06-424d-af50-130a66164738",
+            "image": null,
+            "name": "Redmi 3S",
+            "description": "The Xiaomi Redmi 3S is a budget smartphone that offers a good balance of performance and affordability, designed for users seeking essential smartphone features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "4e6515d9-4627-4a25-8513-1adf77dab85a",
+            "image": null,
+            "name": "Redmi Note 11 Pro",
+            "description": "The Redmi Note 11 Pro by Xiaomi is a mid-range smartphone series known for its balance of performance and affordability, featuring advanced camera capabilities and a large display for a smooth user experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "59949789-d828-42b9-bb3c-c5aa1891439e",
+            "image": null,
+            "name": "Mi 10 Ultra",
+            "description": "The Xiaomi Mi 10 Ultra is a premium smartphone known for its advanced camera system, fast charging capabilities, and high-performance hardware, aimed at users seeking cutting-edge technology and exceptional photography.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "b7f5ac22-d725-4ae7-93ee-a72411dde3eb",
+            "image": null,
+            "name": "Porsche 911 (992) GT3",
+            "description": "The Porsche 911 (992) GT3 is a high-performance sports car known for its exceptional driving dynamics, precision engineering, and track-focused performance, officially released in 2022.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c17c0708-288f-4527-9b53-c5109da79772",
+            "image": null,
+            "name": "Huawei P40 Series",
+            "description": "The Huawei P40 Series is a line of premium smartphones that focuses on advanced camera technology, high-performance hardware, and innovative features to enhance the user experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "c9a9ac66-faa7-4ac5-99a8-43bcfdd6f603",
+            "image": null,
+            "name": "Mi Max",
+            "description": "The Xiaomi Mi Max series consists of large-screen smartphones designed for media consumption and productivity, offering a balance between performance and display size.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e04c3f1f-05fd-426f-a7f9-09e1a618bb87",
+            "image": null,
+            "name": "Nike Air Force 1 React",
+            "description": "The Nike Air Force 1 React is a modern iteration of the classic Air Force 1 sneaker, featuring React foam technology for enhanced cushioning and comfort. It is designed for everyday wear with a focus on style and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "6997649a-deb7-487a-9033-7623c8825df2",
+            "image": null,
+            "name": "Nike Air Huarache",
+            "description": "The Nike Air Huarache is a sneaker series known for its unique design and comfortable fit, originally released as a performance running shoe that has since become popular for lifestyle wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "700599e1-ee25-4433-b182-5eede381e881",
+            "image": null,
+            "name": "Nike Phantom Vision 2 Academy",
+            "description": "The Nike Phantom Vision 2 Academy is a football (soccer) sneaker designed to provide comfort and support during play, featuring a snug fit and a textured surface for enhanced ball control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        }
+    ]
+}

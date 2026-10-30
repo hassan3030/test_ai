@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "e7ef395a-ab4b-4338-9b01-906138e530b3",
+            "image": null,
+            "name": "The Incredible Intergalactic Journey Home",
+            "description": "The Incredible Intergalactic Journey Home is a personalized children's book that takes young readers on a cosmic adventure, featuring their name and choices throughout the story to foster engagement and imagination.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Wonderbly"
+            }
+        },
+        {
+            "id": "962a658c-4002-4947-a8d8-3b74f61b2839",
+            "image": null,
+            "name": "ProMarkers",
+            "description": "Winsor & Newton ProMarkers are high-quality, alcohol-based markers designed for artists and illustrators. They offer smooth, vibrant color application and a wide range of shades to create detailed artwork.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "666835e0-2d7d-48cd-b3ac-59ae50e91ce8",
+            "image": null,
+            "name": "Lava Xolo",
+            "description": "The Lava Xolo series consists of smartphones that were designed to provide an affordable yet competitive mobile experience, catering to a growing segment of consumers in emerging markets.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "a0d79772-8d1f-4c13-ac3b-416fddc829d6",
+            "image": null,
+            "name": "Vivo S1",
+            "description": "The Vivo S1 is a smartphone series released in 2019, known for its stylish design and focus on photography capabilities, particularly with its AI-enhanced camera features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Vivo"
+            }
+        },
+        {
+            "id": "8a81b117-1099-4850-8030-fdf58cb16eed",
+            "image": null,
+            "name": "Subaru Forester (fifth generation)",
+            "description": "The Subaru Forester (fifth generation) is a compact SUV known for its spacious interior, standard all-wheel drive, and strong safety ratings, making it ideal for both urban and outdoor adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b0cbfa06-45cd-432e-a6f2-1c4069d31958",
+            "image": null,
+            "name": "Motorola Moto E6",
+            "description": "The Motorola Moto E6 is an entry-level smartphone released in 2019, designed to provide essential smartphone features at an affordable price.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "8d6c3ac4-c8f2-416c-9b45-5eb7c1ce2fc0",
+            "image": null,
+            "name": "Lava A1",
+            "description": "The Lava A1 is an entry-level mobile phone designed to provide basic communication features with essential functionality for everyday use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "e3746e64-5d1a-4c20-9b62-f541eb312935",
+            "image": null,
+            "name": "Kettal Vimini",
+            "description": "Kettal Vimini is a series of outdoor furniture characterized by its elegant aesthetic, robust build, and versatility, designed to enhance outdoor living spaces since its release in 2016.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "07b6fb65-1da8-49fb-b008-8a515e2e0ff9",
+            "image": null,
+            "name": "Realme Narzo 20",
+            "description": "The Realme Narzo 20 series is a line of smartphones released in 2020, aimed at providing powerful performance and a long-lasting battery for budget-conscious consumers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "8e44af4b-97f1-4d41-bad8-9a959271b2eb",
+            "image": null,
+            "name": "Kidizoom Camera Connect",
+            "description": "The Kidizoom Camera Connect is an interactive digital camera designed for children, featuring a range of fun photo effects and games that encourage creativity and exploration.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "d2cfa761-e121-4221-a195-8c0483dddbb0",
+            "image": null,
+            "name": "Whirlpool All-in-One Washer Dryer",
+            "description": "The Whirlpool All-in-One Washer Dryer is a versatile laundry solution that combines washing and drying functions in a single unit, designed for efficient and convenient use in smaller living spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "339c8c6e-c7f8-4270-b1b1-79543b30721a",
+            "image": null,
+            "name": "Star Classic Maple",
+            "description": "The Tama Star Classic Maple series is designed for drummers seeking high-quality sound and versatile performance, featuring shells made from premium maple for a warm tone and excellent projection.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "2a567f6c-7fb9-4181-ae63-99cf38f138ec",
+            "image": null,
+            "name": "Motorola G Stylus (2023)",
+            "description": "The Motorola G Stylus (2023) is designed for users seeking a versatile mobile experience with an integrated stylus for note-taking and creative tasks.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "9b1a7432-72e3-4533-a310-5d5add751527",
+            "image": null,
+            "name": "Realme Buds Q2",
+            "description": "Realme Buds Q2 are true wireless earbuds designed for enhanced audio experiences, featuring active noise cancellation and a comfortable fit for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "342c9dad-f337-49aa-acec-47fd21cdcb7c",
+            "image": null,
+            "name": "Mistral",
+            "description": "The Mistral series from Royal Botania offers a sophisticated range of outdoor furniture designed for both comfort and style, making it ideal for creating elegant outdoor living spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Royal Botania"
+            }
+        },
+        {
+            "id": "14bad909-7459-4cce-a23c-53e5a51c65ca",
+            "image": null,
+            "name": "Realme GT 2 Explorer Master",
+            "description": "The Realme GT 2 Explorer Master series features high-performance smartphones designed for tech enthusiasts, providing powerful processing capabilities and an immersive user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "3d5936cf-57a8-437a-a0df-b16443865ca2",
+            "image": null,
+            "name": "Menzerna Medium Cut Polish 2500",
+            "description": "Menzerna Medium Cut Polish 2500 is a car care product designed for medium cutting and polishing. It effectively removes imperfections from automotive paint while leaving a smooth finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "13cacec7-b27b-4770-a3b2-c59dbdf78fad",
+            "image": null,
+            "name": "Usborne Beginners",
+            "description": "Usborne Beginners is a series of non-fiction books designed for young children that introduces them to a wide variety of topics in an engaging and accessible way.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "bce571e4-e54a-4286-b1f2-34277de4fd97",
+            "image": null,
+            "name": "Menzerna Final Polish 3000",
+            "description": "Menzerna Final Polish 3000 is a high-performance finishing polish designed to refine paint surfaces and eliminate fine scratches, delivering a high-gloss finish for automotive surfaces.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "5b520781-1409-4ddd-bb0f-6cb1af975ea9",
+            "image": null,
+            "name": "Jaguar XF (facelift)",
+            "description": "The Jaguar XF (facelift) is a luxury sports sedan that combines performance, style, and advanced technology, offering a refined driving experience and a range of efficient engines.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "68f80949-bc11-4985-a721-ac48351f73e4",
+            "image": null,
+            "name": "Woodwind  Smoke Pro",
+            "description": "The Camp Chef Woodwind Smoke Pro is a versatile pellet grill designed for outdoor cooking enthusiasts, offering a combination of smoking, grilling, and baking capabilities for a variety of culinary experiences.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Camp Chef"
+            }
+        },
+        {
+            "id": "165d1a78-0ba8-4b6e-a7e2-b703d0ef24d0",
+            "image": null,
+            "name": "Hoover React",
+            "description": "The Hoover React series consists of versatile vacuum cleaners designed for efficient cleaning on multiple surfaces. They feature advanced technology for optimal performance and user convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Hoover"
+            }
+        },
+        {
+            "id": "c5e15740-c70f-4f86-bd97-2fdbe257d57d",
+            "image": null,
+            "name": "Martin D-18 Modern Deluxe",
+            "description": "The Martin D-18 Modern Deluxe is a premium acoustic guitar that combines traditional craftsmanship with modern enhancements, offering superior sound quality and playability for both professional musicians and enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Martin"
+            }
+        },
+        {
+            "id": "7837c0df-b9e5-46c1-b2e2-d721ce6c9dda",
+            "image": null,
+            "name": "Lava A10",
+            "description": "The Lava A10 is a budget smartphone designed to provide essential features for everyday use, including basic connectivity and a user-friendly interface.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "2c1900ff-fbed-4e32-9f36-9fcedeec5291",
+            "image": null,
+            "name": "Whirlpool Intellifresh DO INVERTER",
+            "description": "The Whirlpool Intellifresh DO INVERTER series includes advanced refrigerators that feature innovative technology to maintain optimal freshness and energy efficiency, catering to the diverse needs of modern households.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "37a681f7-bf2c-4919-b6e5-240d546be87d",
+            "image": null,
+            "name": "Lava Iris 350",
+            "description": "The Lava Iris 350 is an entry-level smartphone released in 2015, designed to provide essential smartphone functionality at an affordable price.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "fc80f4c1-db9b-4292-80ac-c95702d86e83",
+            "image": null,
+            "name": "Motorola Moto G Power (2021)",
+            "description": "The Motorola Moto G Power (2021) is a budget-friendly smartphone designed to provide an extended battery life, impressive performance, and a large display, making it suitable for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "7fc9bcda-1bc1-4489-9110-27511e256b4e",
+            "image": null,
+            "name": "Realme 3",
+            "description": "The Realme 3 is a smartphone designed to provide users with a balanced performance, focusing on a smooth user experience, good camera quality, and stylish design, catering to budget-conscious consumers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "adc69c3e-61fb-41c1-8cf0-5fd0593547c3",
+            "image": null,
+            "name": "Motorola Moto G Play (2021)",
+            "description": "The Motorola Moto G Play (2021) is an entry-level smartphone designed for users seeking essential features and functionality at an affordable price. It offers a large display, a decent battery life, and a user-friendly interface.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "6108c89e-7e5e-46f2-8955-d7490988e39d",
+            "image": null,
+            "name": "Mont Marte Oil Paints",
+            "description": "Mont Marte Oil Paints are high-quality, richly pigmented oil paints designed for artists seeking vibrant colors and smooth application. Ideal for various painting techniques, they offer excellent lightfastness and consistency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        }
+    ]
+}

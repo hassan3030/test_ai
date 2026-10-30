@@ -1,0 +1,362 @@
+{
+    "data": [
+        {
+            "id": "4cbc13be-f31d-44ef-9d97-9f6a0f407b6c",
+            "image": null,
+            "name": "Cinematic Series",
+            "description": "The Optoma Cinematic Series consists of high-performance projectors designed to provide exceptional image quality and immersive theater experiences at home.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Optoma"
+            }
+        },
+        {
+            "id": "47249daa-9700-425e-8e05-8337fe73df32",
+            "image": null,
+            "name": "Kospet Tank T1",
+            "description": "The Kospet Tank T1 is a rugged smart watch designed for outdoor enthusiasts, featuring durability, health monitoring, and versatile connectivity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "d6156471-37c5-4d95-a2d4-d720684c9029",
+            "image": null,
+            "name": "August Wi-Fi Smart Lock",
+            "description": "The August Wi-Fi Smart Lock is a smart home device designed to enhance home security by allowing users to control access to their doors remotely via a smartphone app.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "cb811b35-3f3a-4fee-b255-60b35250a369",
+            "image": null,
+            "name": "August Smart Lock (4th Generation)",
+            "description": "The August Smart Lock (4th Generation) is a keyless smart lock that allows users to control access to their doors remotely via a smartphone app, offering enhanced security and convenience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "0fa02c4c-b238-49ef-b750-8048091a8473",
+            "image": null,
+            "name": "Wemo Mini Smart Plug",
+            "description": "The Wemo Mini Smart Plug allows users to remotely control appliances and devices from their smartphones, enabling home automation through scheduling and usage monitoring.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "bd4b32a2-52df-42c1-8ff0-dbfd60f2389f",
+            "image": null,
+            "name": "Jack & Jones Vintage",
+            "description": "Jack & Jones Vintage is a collection of men's clothing characterized by its retro style and timeless designs, focusing on high-quality materials and a relaxed fit ideal for casual wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Jack & Jones"
+            }
+        },
+        {
+            "id": "1db92157-4f19-475c-ac15-9ec717fb5a45",
+            "image": null,
+            "name": "Roxy Beach Collection",
+            "description": "The Roxy Beach Collection is a 2023 series of women's clothing designed for beachgoers, combining style with functionality for comfort during coastal activities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Roxy"
+            }
+        },
+        {
+            "id": "0b0af0c3-1548-464a-9ed8-d55826f0724c",
+            "image": null,
+            "name": "Timex Expedition North",
+            "description": "The Timex Expedition North series features rugged watches designed for outdoor adventures, combining durability, functionality, and style suitable for various environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "cc36939a-d3e2-4859-a96a-4329e5538739",
+            "image": null,
+            "name": "Timex T80",
+            "description": "The Timex T80 series features a classic digital design that combines retro aesthetics with modern functionality, making it a versatile choice for everyday wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "759a5ae8-b606-41fe-9449-63c1c6226092",
+            "image": null,
+            "name": "Timex Navi XL",
+            "description": "The Timex Navi XL series is designed for adventurous individuals, featuring durable construction and an easy-to-read dial for outdoor exploration.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "604f1860-fee3-4534-8894-8c50ad3bae2e",
+            "image": null,
+            "name": "Bremont Endurance",
+            "description": "The Bremont Endurance series is designed for extreme conditions, featuring durable construction and advanced timekeeping technology, appealing to adventurers and enthusiasts alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Bremont"
+            }
+        },
+        {
+            "id": "b342b65e-64d0-4127-b645-17f9bd843899",
+            "image": null,
+            "name": "Millenary",
+            "description": "The Audemars Piguet Millenary series showcases a unique oval case design and intricate movements, blending traditional watchmaking with modern aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Audemars Piguet"
+            }
+        },
+        {
+            "id": "25c7abfd-2d83-44d2-8131-c53b8e385a10",
+            "image": null,
+            "name": "Twist",
+            "description": "The Louis Vuitton Twist series features a modern design characterized by a distinctive LV twist-lock closure, offering a blend of elegance and functionality. Launched in 2018, these bags are crafted with high-quality materials and designed for everyday use, making them both stylish and practical.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "68f252c6-1002-4320-aa56-765fc7ea7463",
+            "image": null,
+            "name": "Gucci Garden Collection",
+            "description": "The Gucci Garden Collection consists of a range of accessories that embody the brand's rich heritage and luxurious style, blending artistic elements with contemporary design for a distinctive aesthetic.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7f353149-00ca-4b54-a6b3-046b3af41f7d",
+            "image": null,
+            "name": "Tuileries Collection",
+            "description": "The Tuileries Collection by Louis Vuitton, released in 2020, features a range of elegant accessories inspired by the architecture and beauty of the Tuileries Gardens in Paris, designed to enhance personal style with luxury and sophistication.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "dc28f55c-921f-4dc0-9eab-a6b51fb83563",
+            "image": null,
+            "name": "LV Archlight Sneakers",
+            "description": "The LV Archlight Sneakers are a contemporary footwear line by Louis Vuitton, known for their bold design, distinctive oversized sole, and luxurious materials, combining high fashion with comfort for casual wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8ffb7a9a-2697-4e77-bdd0-69670138b243",
+            "image": null,
+            "name": "Gucci Blooms",
+            "description": "Gucci Blooms is a women’s clothing collection launched in 2017, characterized by its vibrant floral prints and contemporary designs that celebrate femininity and elegance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "37af6893-2c5d-483f-b8c9-dc1bd05ab83e",
+            "image": null,
+            "name": "202 Series",
+            "description": "The Haro Bikes 202 Series is designed for entry-level BMX riders, offering a reliable and durable bike that provides a solid introduction to the sport with features aimed at enhancing performance and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "a37697f4-65a8-4abd-b3ea-7fe636bf82b0",
+            "image": null,
+            "name": "Gucci Ophidia",
+            "description": "The Gucci Ophidia series features a collection of bags that blend vintage styling with modern functionality, incorporating the brand's signature GG logo and green-red-green web stripe.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aedbf4a9-0a65-4ae3-946e-8419ad6b2c2c",
+            "image": null,
+            "name": "Pochette Accessoires",
+            "description": "The Louis Vuitton Pochette Accessoires is a versatile bag designed for everyday use, featuring a compact shape and a decorative signature monogram canvas.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b9ca2459-6404-48e3-8d1a-6beb3ccf325d",
+            "image": null,
+            "name": "Sumitomo Toyo Open Country A/T II",
+            "description": "The Sumitomo Toyo Open Country A/T II is an all-terrain tire designed for versatility and durability in various driving conditions, providing a balance of off-road capability and on-road comfort.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "c763be09-a4c5-4df6-8b06-45832d6274bb",
+            "image": null,
+            "name": "Louis Vuitton x Nike Air Force 1",
+            "description": "The Louis Vuitton x Nike Air Force 1 series is a collaboration that merges iconic fashion with streetwear, showcasing a unique design that embodies luxury and athleticism.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d30da885-e1e4-44e7-b6e6-a3c16687131f",
+            "image": null,
+            "name": "Gucci GG Marmont",
+            "description": "The Gucci GG Marmont series consists of luxurious bags characterized by their distinctive GG logo and soft, quilted leather, offering a blend of elegance and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d4bf3b37-9e45-4359-aa5d-393f61f0a638",
+            "image": null,
+            "name": "Gucci Eyeweb",
+            "description": "Gucci Eyeweb is a series of sunglasses introduced by Gucci in 2018, characterized by its distinctive web detailing and bold designs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0babab28-cbe8-4322-96f2-85dc1527d390",
+            "image": null,
+            "name": "Taiga",
+            "description": "The Louis Vuitton Taiga series features a range of bags crafted from a durable and lightweight leather, designed for both functionality and elegance, catering to everyday use and special occasions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "190d6e02-def4-4bed-96bd-276449f354a7",
+            "image": null,
+            "name": "Gucci Sunglasses Collection",
+            "description": "The Gucci Sunglasses Collection features a range of stylish eyewear designed to provide sun protection while enhancing personal style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1a1f4639-c7d1-4e7f-a614-b45ee625719b",
+            "image": null,
+            "name": "Gucci Dionysus",
+            "description": "The Gucci Dionysus is a luxury handbag collection introduced in 2017, known for its distinctive design featuring a metallic tiger head closure, crafted in a variety of materials and styles. This series embodies a blend of elegance and modernity, suitable for both casual and formal occasions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "25f98a06-62d8-494b-bb29-56740f7cc3e0",
+            "image": null,
+            "name": "New Wave Chain Bag",
+            "description": "The Louis Vuitton New Wave Chain Bag, released in 2020, features a distinctive wave-like design and a stylish chain strap, making it a modern accessory ideal for both everyday use and special occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "265bfedf-7dda-44c2-af88-9d0597894dbe",
+            "image": null,
+            "name": "Capucines",
+            "description": "The Louis Vuitton Capucines series features sophisticated bags that combine classic elegance with contemporary design. Launched in 2013, these handbags are characterized by their exceptional craftsmanship and timeless appeal.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "28bf85d8-2007-4903-a458-ceb16a94ffaa",
+            "image": null,
+            "name": "Gucci Flashtrek Sneakers",
+            "description": "The Gucci Flashtrek Sneakers are a unique blend of high fashion and outdoor aesthetics, designed for comfort and versatility in both urban and adventurous settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        }
+    ]
+}

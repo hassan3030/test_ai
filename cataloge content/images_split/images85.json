@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "6260091c-c446-4ffb-877b-89ce5248a6b8",
+            "image": null,
+            "name": "Buick Wildcat EV",
+            "description": "The Buick Wildcat EV is an electric vehicle introduced in 2023, designed to embody advanced technology, sleek design, and sustainability in the automotive market.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "ee259037-204d-46e1-a570-b9c7f082170e",
+            "image": null,
+            "name": "Buick LeSabre",
+            "description": "The Buick LeSabre is a full-size car produced by Buick, known for its comfort, spacious interior, and reputation for reliability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "73e2f893-7529-4b87-a9fe-6e1eefccb928",
+            "image": null,
+            "name": "Buick Rendezvous",
+            "description": "The Buick Rendezvous is a mid-size SUV that was produced by General Motors from 2000 to 2007, known for its spacious interior and ability to comfortably accommodate both passengers and cargo.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "f7ae1d1b-6e3d-405b-b4e5-49a07824eb36",
+            "image": null,
+            "name": "Buick LaCrosse",
+            "description": "The Buick LaCrosse is a full-size sedan that was first introduced in 2003, designed to deliver a comfortable and spacious driving experience with a focus on style and advanced technology.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "fd929cf3-f3b0-4306-9687-2d1f76f63229",
+            "image": null,
+            "name": "Mahindra Alturas G4",
+            "description": "The Mahindra Alturas G4 is a premium SUV designed to offer a sophisticated driving experience with a strong emphasis on comfort and advanced features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "b955671f-96a3-4a37-87c1-4339030e7473",
+            "image": null,
+            "name": "Honda CBR250RR",
+            "description": "The Honda CBR250RR is a lightweight sport motorcycle designed for both new and experienced riders, featuring a high-revving engine and agile handling for optimal performance on roads and tracks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "75b27d26-78c3-47c5-97be-d43e70bd9b3b",
+            "image": null,
+            "name": "Buick Allure",
+            "description": "The Buick Allure is a mid-size sedan known for its comfortable ride and refined interior, aimed at providing an upscale experience for everyday driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "815f0805-336d-4e71-856a-0b0279b0a86f",
+            "image": null,
+            "name": "Buick Cascada",
+            "description": "The Buick Cascada is a compact convertible that offers a blend of luxury and casual driving enjoyment, ideal for those seeking a stylish and comfortable open-air experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "8a1d7669-3ea6-4d06-83bd-b97e5c6c2329",
+            "image": null,
+            "name": "Mahindra Bolero Pik-Up",
+            "description": "The Mahindra Bolero Pik-Up is a versatile pickup truck known for its rugged design and robust performance, primarily used for commercial purposes and utility tasks.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "35e31d49-4a24-4947-b5e1-b359d1cc7aa6",
+            "image": null,
+            "name": "Buick Park Avenue",
+            "description": "The Buick Park Avenue is a full-size luxury sedan known for its spacious interior, comfortable ride, and blend of performance and sophistication. It aims to provide a smooth driving experience with an emphasis on comfort and style.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "56acf7d2-a878-4a6a-afcb-eb10ed271042",
+            "image": null,
+            "name": "Mahindra Xylo",
+            "description": "The Mahindra Xylo is a multi-purpose utility vehicle known for its spacious interior, practicality, and versatility, making it suitable for both family use and commercial applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "5d588f46-a32d-419f-9fb3-96b06d060130",
+            "image": null,
+            "name": "Buick Verano",
+            "description": "The Buick Verano is a compact luxury sedan that offers a balance of comfort, style, and performance, designed to cater to customers seeking an upscale driving experience in a smaller vehicle.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "95abd743-d37a-4b97-bdc3-0c344f4a170f",
+            "image": null,
+            "name": "Buick Lucerne",
+            "description": "The Buick Lucerne is a full-size sedan that offers a spacious interior and a comfortable ride, aimed at providing luxury and performance to drivers.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "9ae728e7-3e5b-4d2e-939c-755ea87300ea",
+            "image": null,
+            "name": "Buick Century",
+            "description": "The Buick Century is a mid-size car produced by Buick, known for its reliability and comfort, making it suitable for family transportation and everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "9cc32fbd-eb3c-4001-a8e7-b0573b26b599",
+            "image": null,
+            "name": "Mahindra TUV300",
+            "description": "The Mahindra TUV300 is a compact SUV designed for urban environments while providing robust off-road capabilities, characterized by its boxy design and spacious interior.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "a2b568be-babb-49d9-9994-7210d60b1d77",
+            "image": null,
+            "name": "Mahindra XUV500",
+            "description": "The Mahindra XUV500 is a compact SUV designed to offer a blend of style, comfort, and performance, making it suitable for both urban and off-road driving experiences. Launched in 2009, it is known for its spacious interior and advanced features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "ab8d282d-84d9-4d81-a1c9-7b34b1778dd1",
+            "image": null,
+            "name": "Buick Regal Sportback",
+            "description": "The Buick Regal Sportback is a mid-size luxury car known for its sleek design, spacious interior, and advanced technology. It combines sporty performance with comfort and practicality for everyday driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "af61b761-9da5-40ef-bf35-49cc758450f4",
+            "image": null,
+            "name": "Mahindra Verito",
+            "description": "The Mahindra Verito is a compact sedan that was launched in 2011, designed primarily for affordable family transportation with a focus on spacious interiors and reliability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "b4554317-cb8d-4a27-aa6c-442c2caf49b3",
+            "image": null,
+            "name": "Buick Rainier",
+            "description": "The Buick Rainier is a luxury midsize SUV that combines comfort with utility, designed to provide a smooth ride and ample cargo space.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "c6f38512-a99c-4e1f-8834-46ca337ae25b",
+            "image": null,
+            "name": "Buick Encore GX",
+            "description": "The Buick Encore GX is a compact SUV that offers a combination of luxury, advanced technology, and spacious interior, designed to meet the needs of drivers who seek versatility and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "cb8b1496-2a27-47d8-a444-2f219808cf6a",
+            "image": null,
+            "name": "Buick Regal GS",
+            "description": "The Buick Regal GS is a high-performance version of the mid-size Regal sedan, known for its sport-tuned suspension, powerful engine, and advanced technology features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Buick"
+            }
+        },
+        {
+            "id": "d056741f-875a-4fbb-a43a-fb7a1f6770f1",
+            "image": null,
+            "name": "Omoda 5",
+            "description": "The Chery Omoda 5 is a compact crossover SUV released in 2023, designed to offer modern styling, advanced technology, and practical features for urban mobility.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "d249328d-5fa1-4fa0-9eb4-dcbd2798bd4f",
+            "image": null,
+            "name": "Mahindra Bolero",
+            "description": "The Mahindra Bolero is a utility vehicle introduced in 2000, known for its ruggedness and practicality, making it suitable for both urban and rural environments.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "df661327-3281-4994-92fa-690cb9403a75",
+            "image": null,
+            "name": "Geely GC6",
+            "description": "The Geely GC6 is a compact sedan designed for economical urban commuting, offering a combination of practical features and a comfortable ride.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "f45dde44-b89e-420b-ac46-fd02e7a96c62",
+            "image": null,
+            "name": "Geely Emgrand EC7",
+            "description": "The Geely Emgrand EC7 is a compact sedan produced by the Chinese automaker Geely, known for its practicality and affordability in the budget-friendly car segment.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "60da07cf-0d0e-4332-8fda-ef7e3825746f",
+            "image": null,
+            "name": "Alfa Romeo 147",
+            "description": "The Alfa Romeo 147 is a compact hatchback introduced in 2000, known for its stylish design and sporty performance, aimed at providing an engaging driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "77664e69-828f-4970-b532-8722a4186025",
+            "image": null,
+            "name": "Alfa Romeo GT",
+            "description": "The Alfa Romeo GT is a compact sports coupe introduced in 2001, known for its distinctive Italian styling and engaging driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "88377013-3f83-4c57-b1f7-89cd18501e77",
+            "image": null,
+            "name": "Geely GC",
+            "description": "The Geely GC is a series of compact cars produced by Geely since 2005, designed to offer practical and affordable transportation options for urban drivers.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "f76b3ce3-cb85-4e6d-bd44-e31b14936b9a",
+            "image": null,
+            "name": "Alfa Romeo 156",
+            "description": "The Alfa Romeo 156 is a compact executive car produced by the Italian automaker Alfa Romeo from 1997 to 2006, known for its stylish design, sporty performance, and responsive handling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "9dc84875-8ba4-434f-881e-bcae54bddd26",
+            "image": null,
+            "name": "Alfa Romeo Stelvio",
+            "description": "The Alfa Romeo Stelvio is a luxury compact SUV designed for sporty performance and dynamic handling, offering a blend of style, technology, and Italian craftsmanship.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        }
+    ]
+}

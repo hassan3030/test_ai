@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "59dca91d-76eb-40dc-8ac0-923c7fd8f3da",
+            "image": null,
+            "name": "Jeep Grand Cherokee (WK2)",
+            "description": "The Jeep Grand Cherokee (WK2) is a mid-size SUV known for its blend of rugged off-road capability and refined on-road performance, catering to both adventurous and everyday driving needs.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "5d1f186f-206e-4bb8-8947-4abb66f9066d",
+            "image": null,
+            "name": "K&N Series 77 AirCharger",
+            "description": "The K&N Series 77 AirCharger is a high-performance air intake system designed to improve engine efficiency and power by enhancing airflow and filtration. This system is engineered for easy installation and features an oversized conical filter for superior air intake performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "9bc5f62d-a7e9-440b-8ed3-a5f8f4d926fe",
+            "image": null,
+            "name": "Jeep Rubicon",
+            "description": "The Jeep Rubicon is a series of SUVs known for their exceptional off-road capabilities and rugged design, originally released in 2002 as a more capable version of the Jeep Wrangler.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "a28f04cd-674e-4f2c-bd5d-4d47e6344cc5",
+            "image": null,
+            "name": "Jeep Grand Cherokee (WJ)",
+            "description": "The Jeep Grand Cherokee (WJ) is a mid-size SUV known for its off-road capabilities and spacious interior, providing a blend of ruggedness and comfort.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "abd10bac-0539-4cff-8754-fc97dc8020bc",
+            "image": null,
+            "name": "Hero Xtreme 160R",
+            "description": "The Hero Xtreme 160R is a motorcycle designed for urban commuting and daily rides, offering a blend of performance, style, and comfort. It features a modern design and a robust engine aimed at young riders seeking agility and efficiency.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "c0f1c6ee-0af9-422e-83ac-d5000255d866",
+            "image": null,
+            "name": "Jeep Compass (MK)",
+            "description": "The Jeep Compass (MK) is a compact SUV designed for versatility and off-road capability, combining style with practicality for urban and outdoor adventures.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "d3ad52f2-6007-49f4-b385-be671c5c6138",
+            "image": null,
+            "name": "Acura TSX",
+            "description": "The Acura TSX is a compact executive car that was introduced in 2003, designed to offer a blend of performance, luxury, and practicality for the discerning driver.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "70f205ec-f2d1-41ba-9774-074a39d4ffbd",
+            "image": null,
+            "name": "Volkswagen Virtus",
+            "description": "The Volkswagen Virtus is a compact sedan designed for modern urban mobility, offering a blend of style, performance, and advanced technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "e9856f4f-8491-482e-8b89-4db447b95157",
+            "image": null,
+            "name": "T-Cross",
+            "description": "The Volkswagen T-Cross is a subcompact SUV designed to offer a combination of practicality, comfort, and advanced technology for urban driving and adventures.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "7dd5f2cd-e235-4e53-ac4a-5a4e05dc89bb",
+            "image": null,
+            "name": "Opel Zafira Tourer",
+            "description": "The Opel Zafira Tourer is a versatile compact MPV designed to accommodate families and groups, offering flexible seating and ample storage space for everyday use and longer journeys.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "a1a91fbd-e514-49dc-a38c-ce0a8c16f9fc",
+            "image": null,
+            "name": "Jeep Cherokee",
+            "description": "The Jeep Cherokee is a mid-size SUV known for its off-road capability, rugged design, and comfortable interior, making it suitable for both urban and adventurous driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "fa1a3c9a-b863-4386-b5c6-a319c9997e6f",
+            "image": null,
+            "name": "Nissan GT-R (R35) Update",
+            "description": "The Nissan GT-R (R35) is a high-performance sports car that debuted in 2009, known for its advanced technology, exceptional handling, and powerful twin-turbocharged V6 engine.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "a3125a27-a28e-4030-8556-531b6a5285f7",
+            "image": null,
+            "name": "LG V40 ThinQ",
+            "description": "The LG V40 ThinQ is a flagship smartphone released in 2018, known for its advanced camera system featuring five lenses and a vibrant OLED display, providing an enhanced multimedia experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "a4ce4a64-2e86-4827-972e-e96a27de846e",
+            "image": null,
+            "name": "Ford Focus Mk2",
+            "description": "The Ford Focus Mk2 is a compact car designed for efficiency and comfort, offering a blend of modern styling and advanced technology for everyday driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "fe5c5bbc-dc76-492b-8d75-6ce15f98686a",
+            "image": null,
+            "name": "LG OLED TV (2018 Series)",
+            "description": "The LG OLED TV (2018 Series) features self-lighting OLED technology, delivering exceptional contrast and true-to-life colors, making it ideal for high-definition viewing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "3880ff7a-1463-444e-a70c-e26ec368c27e",
+            "image": null,
+            "name": "Cuisinart Precision Brewer",
+            "description": "The Cuisinart Precision Brewer is a versatile coffee machine designed to brew coffee of various styles and strengths with precision and ease, making it suitable for coffee enthusiasts and casual drinkers alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aca4d308-892e-4556-a985-62fcc0b4e8a4",
+            "image": null,
+            "name": "MacBook Pro (14-inch, 2021)",
+            "description": "The MacBook Pro (14-inch, 2021) is a high-performance laptop designed for professionals and creatives, featuring Apple's M1 Pro and M1 Max chips for enhanced processing power and efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "b0e0553a-0a80-40ce-9bb6-ceedc21c213c",
+            "image": null,
+            "name": "Hyundai XG",
+            "description": "The Hyundai XG is a mid-size luxury sedan that was introduced in the year 2000, characterized by its emphasis on comfort, spaciousness, and advanced features for its time.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "b6047cd8-0673-46e3-bec3-1eb6db509d7c",
+            "image": null,
+            "name": "iPhone SE (3rd generation)",
+            "description": "The iPhone SE (3rd generation) is a compact smartphone that combines powerful performance with a classic design, making it an accessible option for users who prefer a smaller device without sacrificing features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "be791575-8674-40a8-a43a-ec26ce84521c",
+            "image": null,
+            "name": "Dell S3219D",
+            "description": "The Dell S3219D is a 32-inch QHD monitor designed to deliver immersive visuals with vibrant colors and sharp details, making it suitable for both entertainment and productivity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "d32974d3-a438-4977-808a-030a791d2572",
+            "image": null,
+            "name": "Clyde Console Table",
+            "description": "The Walker Edison Clyde Console Table is a versatile furniture piece that combines modern design with functional utility, ideal for use in living rooms or entryways.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Walker Edison"
+            }
+        },
+        {
+            "id": "07a14dd0-ca31-40ab-9bee-d3694033c35d",
+            "image": null,
+            "name": "Nissan Fairlady Z (Z33)",
+            "description": "The Nissan Fairlady Z (Z33) is a sports car produced by Nissan, known for its sleek design, performance-focused engineering, and engaging driving experience. Launched in 2003, it is part of the Z-car lineage and emphasizes a balance of power and agility on the road.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "0be2e4b8-936d-4658-be26-cac15d5e9456",
+            "image": null,
+            "name": "Model X Plaid",
+            "description": "The Tesla Model X Plaid is an all-electric luxury SUV known for its high performance, innovative technology, and distinctive falcon-wing doors.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0d44b465-0d44-4092-9a90-aada1455c556",
+            "image": null,
+            "name": "Samsung QLED TV (2017 models)",
+            "description": "The Samsung QLED TV (2017 models) series features Quantum Dot technology, offering enhanced brightness and color accuracy for a superior viewing experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "1270a47f-4d79-4a27-be73-2311412e5441",
+            "image": null,
+            "name": "Nissan Cube",
+            "description": "The Nissan Cube is a compact car known for its unique boxy design and spacious interior, aimed at providing a practical and versatile driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "17e97a7a-7ff6-43e3-960b-3f8d581a6641",
+            "image": null,
+            "name": "Jeep Grand Cherokee",
+            "description": "The Jeep Grand Cherokee is a mid-size SUV known for its off-road capability, versatile performance, and luxurious features, providing an ideal balance between ruggedness and comfort for a variety of driving conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "19b1a085-8193-4b92-9f32-4caf8a0bc625",
+            "image": null,
+            "name": "Jaguar XJR (X350)",
+            "description": "The Jaguar XJR (X350) is a luxury sports sedan that combines refined styling with powerful performance, featuring a supercharged engine and an emphasis on comfort and advanced technology.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "28bcff1d-9bf3-44bd-a3cc-7bdf86c413d7",
+            "image": null,
+            "name": "Volkswagen Tiguan (facelift)",
+            "description": "The Volkswagen Tiguan (facelift) is a compact SUV that combines practicality with a sporty design, offering versatility for urban environments and outdoor adventures.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "3184905c-8083-482f-8590-ae45bd251f5b",
+            "image": null,
+            "name": "Volkswagen Polo (facelift)",
+            "description": "The Volkswagen Polo (facelift) is a compact car known for its blend of comfort, style, and technology. It is designed to offer an enjoyable driving experience with efficient performance and modern features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "4d91d329-827f-45e5-8e8e-cfa86b55eee7",
+            "image": null,
+            "name": "Hero Destini 125",
+            "description": "The Hero Destini 125 is a scooter designed for urban commuting, featuring a stylish design and efficient performance, making it suitable for daily rides.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        }
+    ]
+}

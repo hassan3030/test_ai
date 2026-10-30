@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "6df2f51f-7a84-46c7-b424-435ecb7616d0",
+            "image": null,
+            "name": "DUPLO 10887 My First Alphabet Truck",
+            "description": "The DUPLO 10887 My First Alphabet Truck is an educational toy designed for young children to learn letters and improve their fine motor skills through play. It features colorful bricks and a truck that encourages imaginative building and creativity.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "1a034281-e1e5-4ecb-8d32-2cd598de7428",
+            "image": null,
+            "name": "Maxi-Cosi Laika 2",
+            "description": "The Maxi-Cosi Laika 2 is a compact stroller designed for urban mobility, offering convenience and comfort for both the caregiver and the child.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "24f19f3c-cdb7-4443-9e73-c27a6aa10cda",
+            "image": null,
+            "name": "Keron 4 GT",
+            "description": "The Hilleberg Keron 4 GT is a robust, four-person tunnel tent designed for challenging weather conditions, providing a balance of durability and livable space for extended camping trips.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Hilleberg"
+            }
+        },
+        {
+            "id": "0fd8a3c8-c3fe-4fea-a31f-2b7fcce5dd52",
+            "image": null,
+            "name": "Roccat Elo 7.1 Air",
+            "description": "The Roccat Elo 7.1 Air is a wireless gaming headset designed for immersive audio experiences with surround sound capabilities, catering to gamers seeking comfort and high-quality sound during extended gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "8cf0eca4-3ae2-41b6-a545-a57654fc36e2",
+            "image": null,
+            "name": "TeraFlex 2.5 inch Lift Kit",
+            "description": "The TeraFlex 2.5 inch Lift Kit is designed to improve the off-road capabilities of your vehicle by providing additional ground clearance and accommodating larger tires, enhancing both performance and aesthetics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "9ddd449a-47db-468d-9483-c39c441de794",
+            "image": null,
+            "name": "Lacoste x A.P.C.",
+            "description": "The Lacoste x A.P.C. series features a collaborative collection that merges Lacoste's iconic sportswear with A.P.C.'s minimalist aesthetic, focusing on modern silhouettes and high-quality materials.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": {
+                "name": "Lacoste"
+            }
+        },
+        {
+            "id": "b4ae66d3-40b5-4441-8dbb-44cf38f721b8",
+            "image": null,
+            "name": "Koss Striva Wireless",
+            "description": "The Koss Striva Wireless is a series of wireless headphones designed for music enthusiasts who seek high-quality sound and convenience. Featuring advanced wireless technology, these headphones allow users to enjoy their favorite tunes without the hassle of cords.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Koss"
+            }
+        },
+        {
+            "id": "114d8d6c-faa6-4ca8-922b-59fae6de1823",
+            "image": null,
+            "name": "Dunlop Direzza",
+            "description": "The Dunlop Direzza series is designed primarily for high-performance tires, offering enhanced grip and responsiveness for competitive driving conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Dunlop"
+            }
+        },
+        {
+            "id": "d8fdfab4-6e44-4932-a364-a8bd50abe4cf",
+            "image": null,
+            "name": "C3 Aircross",
+            "description": "The Citroën C3 Aircross is a compact SUV designed for urban mobility, offering versatility and a high driving position for enhanced visibility. Its spacious interior and customizable features make it suitable for both city dwellers and families.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "bdfe313c-87b2-4ffd-9586-0b82f07ee3fd",
+            "image": null,
+            "name": "Aston Martin Rapide",
+            "description": "The Aston Martin Rapide is a luxury four-door sports car that combines high performance with elegant design, embodying the spirit of a grand tourer.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "37c7d7e3-010a-4a1a-90c1-81cce8e37df3",
+            "image": null,
+            "name": "SonicGear Blazar",
+            "description": "The SonicGear Blazar series features a range of headphones designed to deliver clear sound quality and comfort for extended listening sessions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sonic Gear"
+            }
+        },
+        {
+            "id": "81ee8b1d-bac5-4c13-ab3e-302461451a45",
+            "image": null,
+            "name": "DUPLO 10870 Creative Birthday Picnic",
+            "description": "The DUPLO 10870 Creative Birthday Picnic is a colorful playset designed for young children, featuring an array of pieces that encourage imaginative role-play around a birthday picnic theme.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "ee5dcf2d-4f89-4e3b-8a0f-412301870046",
+            "image": null,
+            "name": "Logitech G903",
+            "description": "The Logitech G903 is a high-performance gaming mouse designed for competitive gamers, featuring customizable buttons and advanced sensor technology for precise tracking.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "2fa59f40-993d-4c82-962b-a021aa794ca0",
+            "image": null,
+            "name": "Aston Martin V8 Vantage (2014 Model Year)",
+            "description": "The Aston Martin V8 Vantage (2014 Model Year) is a luxury sports car known for its powerful V8 engine, exceptional handling, and distinctive design, offering an engaging driving experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "e39383e4-a6db-434a-9e31-8fd0c4c4f2e5",
+            "image": null,
+            "name": "Roccat Burst Pro Air",
+            "description": "The Roccat Burst Pro Air is a lightweight wireless gaming mouse designed for precision and performance, featuring advanced optical sensors and customizable RGB lighting.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "8281e015-c1a2-4f6d-8da1-efd62b292962",
+            "image": null,
+            "name": "TeraFlex JK 2.5\" Suspension Lift Kit",
+            "description": "The TeraFlex JK 2.5\" Suspension Lift Kit is designed to enhance the off-road capability and performance of Jeep JK models by providing additional ground clearance and improved suspension travel.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "c1112afa-c24c-4424-b967-07fb19abb127",
+            "image": null,
+            "name": "Roccat Vulcan II Max",
+            "description": "The Roccat Vulcan II Max is a premium mechanical gaming keyboard designed for gamers seeking high performance and customization options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Roccat"
+            }
+        },
+        {
+            "id": "6a15740d-f71d-4684-ae59-4735ccf2fa6b",
+            "image": null,
+            "name": "Green Toys Rescue Boat",
+            "description": "The Green Toys Rescue Boat is an eco-friendly play set designed for imaginative water play. Made from recycled materials, this toy promotes both fun and environmental responsibility.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "54c0e6cb-5323-46ef-905c-0b3209fe384e",
+            "image": null,
+            "name": "Hamilton Beach Digital Coffee Maker",
+            "description": "The Hamilton Beach Digital Coffee Maker is designed for convenient brewing of coffee, featuring programmable settings and an easy-to-read digital display for optimal user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "7821791a-a985-4fb3-ad36-17e8b36db19f",
+            "image": null,
+            "name": "Valvoline Modern Engine",
+            "description": "Valvoline Modern Engine is a series of car care products designed to enhance engine performance and longevity, specifically formulated for modern engines using advanced technology.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "43bc5d66-6adc-4a16-bc28-02df252350e2",
+            "image": null,
+            "name": "TeraFlex JL 2.5\" Suspension Lift Kit",
+            "description": "The TeraFlex JL 2.5\" Suspension Lift Kit is designed to enhance the off-road capability of Jeep Wrangler JL vehicles by providing increased ground clearance and improved suspension performance. It facilitates larger tire fitment and optimized drivability on rugged terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "7db764e4-b2eb-4102-b5d4-c4d27a406e61",
+            "image": null,
+            "name": "Marmot Tungsten Ultralight 2P",
+            "description": "The Marmot Tungsten Ultralight 2P is a lightweight, two-person backpacking tent designed for ease of setup and portability, making it ideal for ultralight camping enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Marmot"
+            }
+        },
+        {
+            "id": "ab5b88f1-6d99-4496-8cf1-1843917c8189",
+            "image": null,
+            "name": "Green Toys Watering Can",
+            "description": "The Green Toys Watering Can is an eco-friendly toy designed for kids to nurture their gardening skills while promoting imaginative play and outdoor activity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Green Toys"
+            }
+        },
+        {
+            "id": "f357ea5f-8eee-460a-85d9-e51e622fce14",
+            "image": null,
+            "name": "GuliKit Kingkong 2 Pro",
+            "description": "The GuliKit Kingkong 2 Pro is a wireless game controller designed for versatile gaming across multiple platforms, featuring ergonomic design and customizable controls for an enhanced gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "GuliKit"
+            }
+        },
+        {
+            "id": "e46eb760-863c-47de-97a7-1e5017b065ff",
+            "image": null,
+            "name": "Blacktail",
+            "description": "The Big Agnes Blacktail series includes versatile camping gear designed for backpackers and campers, focusing on lightweight construction and easy setup.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "3f16e074-36ca-4c37-b241-80194ed18d9c",
+            "image": null,
+            "name": "Britax B-Agile 3",
+            "description": "The Britax B-Agile 3 is a lightweight and versatile stroller designed for easy maneuverability and convenience, making it an ideal choice for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ca1de4a8-6049-4519-8621-ddbea163ebf2",
+            "image": null,
+            "name": "DUPLO Creative Play Ice Cream Truck",
+            "description": "The DUPLO Creative Play Ice Cream Truck is a colorful toy designed for toddlers, encouraging imaginative play and role-playing activities. It helps develop motor skills and social skills through interactive play experiences with the ice cream truck theme.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "d2a7221c-25ac-44b1-a833-22bb91bb11d6",
+            "image": null,
+            "name": "Britax B-Lively",
+            "description": "The Britax B-Lively series includes lightweight, versatile strollers designed for easy maneuverability and convenience, making it ideal for parents on the go.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8510f11a-4cd0-4a62-8086-79dd408fdb6b",
+            "image": null,
+            "name": "Nerf Mega XL",
+            "description": "The Nerf Mega XL series features blasters designed for high-powered dart shooting, utilizing larger darts for increased distance and impact. This series combines innovative designs with the classic Nerf experience for competitive play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "47b220e4-4905-42d9-b132-f20f707e819a",
+            "image": null,
+            "name": "Big Agnes Insulated Air Core Ultra",
+            "description": "The Big Agnes Insulated Air Core Ultra is a self-inflating sleeping pad designed for camping enthusiasts seeking a balance of comfort and insulation in a lightweight package.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        }
+    ]
+}

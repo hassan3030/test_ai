@@ -1,0 +1,358 @@
+{
+    "data": [
+        {
+            "id": "8ad2b8f8-0fa6-4a3b-ad7f-f40e77fe5bde",
+            "image": null,
+            "name": "Shoei Neotec",
+            "description": "The Shoei Neotec series is a versatile modular motorcycle helmet designed for riders seeking both comfort and functionality. With its flip-up chin bar and advanced ventilation system, it combines the convenience of an open-face helmet with the protection of a full-face helmet.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "fc8e1e49-4398-457b-846f-2b6babf2291b",
+            "image": null,
+            "name": "Dodge Avenger",
+            "description": "The Dodge Avenger is a mid-size car manufactured by Dodge, introduced in 2007, known for its sporty design and performance-oriented features.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "fee27a33-b7c0-4de9-b12f-60b25938055b",
+            "image": null,
+            "name": "Whirlpool WMC20005YB",
+            "description": "The Whirlpool WMC20005YB is a compact microwave designed for versatility and convenience in small spaces, offering a variety of pre-programmed settings for efficient cooking.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "a21bcd5d-241c-4604-aabc-ece8aacef90b",
+            "image": null,
+            "name": "Mercedes-AMG GT Black Series",
+            "description": "The Mercedes-AMG GT Black Series is a high-performance sports car known for its extreme power, track-oriented design, and advanced aerodynamics, reflecting the pinnacle of the AMG line.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "bf7889e2-e315-4e5a-92ef-7f4beb98c9d1",
+            "image": null,
+            "name": "Evenflo Pivot Xpand",
+            "description": "The Evenflo Pivot Xpand is a versatile stroller designed to adapt as your family grows, offering multiple seating configurations for one or two children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "346ede0b-5cb9-4c00-a2f5-197409e5f2b9",
+            "image": null,
+            "name": "Triumph Daytona 955i",
+            "description": "The Triumph Daytona 955i is a motorcycle produced by Triumph, known for its powerful 955cc three-cylinder engine and sportbike design, aimed at performance-oriented riders seeking speed and handling on both the road and track.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "384be330-d194-4265-8c27-06a1fba8ccd3",
+            "image": null,
+            "name": "KTM 525 EXC",
+            "description": "The KTM 525 EXC is an off-road motorcycle designed for competitive racing and recreational use, featuring robust suspension and powerful performance suited for rugged terrains.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "3fe856bd-8123-469f-bbe2-7c5ea654f292",
+            "image": null,
+            "name": "Citan",
+            "description": "The Mercedes-Benz Citan is a compact van designed for urban mobility, offering versatile space and efficient performance tailored for businesses and daily commuting.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "51fe9ace-3d4d-4e08-8e34-889408e9ede7",
+            "image": null,
+            "name": "Mercedes-Benz S-Class (W223)",
+            "description": "The Mercedes-Benz S-Class (W223) is a luxury sedan known for its advanced technology, comfort, and performance, often recognized as the flagship model of the Mercedes-Benz lineup.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "54afddc8-647e-4efe-947b-5428e5952b4c",
+            "image": null,
+            "name": "Nike Dunks",
+            "description": "The Nike Dunks are a classic sneaker series known for their versatile designs and cultural significance, primarily used for basketball and streetwear fashion.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "d78aa55c-00fb-48b5-85b5-3578ec5bfeed",
+            "image": null,
+            "name": "Mercedes-AMG GT R",
+            "description": "The Mercedes-AMG GT R is a high-performance sports car designed for track enthusiasts while maintaining everyday drivability, featuring advanced aerodynamics, lightweight construction, and a powerful engine.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "fcc424c1-8aa8-4263-9656-86f7d92dd84d",
+            "image": null,
+            "name": "EveryStage",
+            "description": "The Evenflo EveryStage series is designed to provide a versatile and long-lasting solution for child safety seats. It accommodates children from infants to toddlers, offering multiple modes of use as they grow.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "63e18fef-d8c3-4c17-a8d8-b97f813c3213",
+            "image": null,
+            "name": "Audi S4",
+            "description": "The Audi S4 is a high-performance version of the Audi A4, offering a blend of luxury and sportiness with enhanced power and handling characteristics.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fda82370-4436-4c0a-aaa4-d2a55ec03b4a",
+            "image": null,
+            "name": "Puma x Fenty",
+            "description": "The Puma x Fenty series, released in 2017, is a collaborative sneaker line designed by Rihanna, featuring unique silhouettes and bold designs that blend street style with high fashion.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "6777c9f1-ae44-42de-8d98-c88537fca4c5",
+            "image": null,
+            "name": "Audi A4 (B7)",
+            "description": "The Audi A4 (B7) is a compact executive car that combines sophisticated design, advanced technology, and balanced performance, making it suitable for both daily commutes and long-distance travels.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7bc539cf-fcac-4795-b681-c7687445c8ce",
+            "image": null,
+            "name": "Audi A6 (C7)",
+            "description": "The Audi A6 (C7) is a luxury mid-size sedan known for its refined design, advanced technology, and high performance. It offers a balanced combination of comfort and sportiness, making it suitable for both city driving and long-distance travel.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8af50c8b-1018-47fc-a883-77ed29256c31",
+            "image": null,
+            "name": "Aprilia Tuono V4 1100",
+            "description": "The Aprilia Tuono V4 1100 is a high-performance naked motorcycle designed for both street riding and sporty performance. With its powerful V4 engine and advanced technology, it delivers a thrilling riding experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "9a8c6d02-77a0-4f6b-b85d-fbd669ac2221",
+            "image": null,
+            "name": "Audi TT (Mk2)",
+            "description": "The Audi TT (Mk2) is a compact sports coupe renowned for its distinctive styling and dynamic performance, aimed at delivering an engaging driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9c3866a2-28d0-4a8a-847d-52dba4023663",
+            "image": null,
+            "name": "Audi Q5 (2016 update)",
+            "description": "The Audi Q5 (2016 update) is a luxury compact SUV known for its refined design, advanced technology, and strong performance. It offers a versatile interior with ample cargo space and a comfortable ride, catering to both everyday commuting and adventurous journeys.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "aa003d67-2592-4f84-af4c-4cfda9f3943d",
+            "image": null,
+            "name": "Audi TT (Mk1)",
+            "description": "The Audi TT (Mk1) is a compact sports car that combines distinctive styling with performance-oriented engineering, aimed at offering an engaging driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "29b8386e-921f-4043-abe4-b94f419c5a99",
+            "image": null,
+            "name": "Audi A4 (B8)",
+            "description": "The Audi A4 (B8) is a compact executive car designed to deliver a balance of performance, comfort, and technology. It is recognized for its refined interior, advanced engineering, and efficient engines.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "40c3876c-663c-4a6b-9bba-b7306783c8c5",
+            "image": null,
+            "name": "Audi A3 (Third Generation)",
+            "description": "The Audi A3 (Third Generation) is a compact luxury car that combines practicality with performance, offering a premium driving experience with advanced technology and a refined interior.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "416da6b2-7933-410f-8dd2-d5359a59c186",
+            "image": null,
+            "name": "Audi RS 6",
+            "description": "The Audi RS 6 is a high-performance version of the Audi A6, designed for speed and agility while maintaining practicality as a luxury wagon. It features a powerful engine, advanced technology, and an emphasis on sportiness combined with everyday usability.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "427e4694-ce90-4225-9855-063b5074c38a",
+            "image": null,
+            "name": "Audi A8 (D4)",
+            "description": "The Audi A8 (D4) is a luxury full-size sedan that combines advanced technology and performance with a focus on comfort and premium materials, catering to discerning drivers seeking a high-quality driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4d3bfedc-99b6-4f84-9a62-31e44bdb9eed",
+            "image": null,
+            "name": "Audi A3 (8P)",
+            "description": "The Audi A3 (8P) is a compact premium hatchback produced by Audi, designed to offer a balance of luxury and performance while appealing to a diverse range of drivers.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "51661ca2-e65d-4947-911a-04797b7d222c",
+            "image": null,
+            "name": "Audi Allroad quattro",
+            "description": "The Audi Allroad quattro is a versatile all-terrain vehicle that combines the luxury features of a premium wagon with enhanced off-road capability, suitable for varied driving conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ad614ed3-852f-4475-b3bb-07495e33ad8a",
+            "image": null,
+            "name": "Audi A6 (Fourth Generation)",
+            "description": "The Audi A6 (Fourth Generation), released in 2012, is a luxury mid-size sedan known for its sophisticated design, advanced technology, and a balance of performance and comfort.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b3a4d5d2-602b-4eab-a991-815ef7c21cf0",
+            "image": null,
+            "name": "Audi Q2",
+            "description": "The Audi Q2 is a compact SUV introduced in 2016 that combines a sporty design with practicality and advanced technology features, aimed at urban drivers seeking versatility and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b7613810-605e-481c-ae5c-8e2c2a84683a",
+            "image": null,
+            "name": "Audi A6 (C6)",
+            "description": "The Audi A6 (C6) is a luxury midsize sedan that combines performance, comfort, and advanced technology, aimed at providing a refined driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d48cc133-6bb3-4495-8924-8758c5d8ee76",
+            "image": null,
+            "name": "Audi S3",
+            "description": "The Audi S3 is a compact luxury sport sedan that combines high performance with everyday usability, featuring Quattro all-wheel drive and a turbocharged engine for enhanced traction and power.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "da8502fb-28b5-4f94-9de1-b283734aa71b",
+            "image": null,
+            "name": "Cavaletti",
+            "description": "The Cavaletti series by De La Espada features a collection of tables characterized by their modern design, functional elegance, and high-quality craftsmanship, perfect for a variety of dining and living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "De La Espada"
+            }
+        },
+        {
+            "id": "ec290d22-f3c1-4688-98ee-2820dba98fea",
+            "image": null,
+            "name": "Haven",
+            "description": "The Haven series by Gus* Modern features contemporary sofas designed for comfort and style, offering a versatile addition to any living space.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "f1193a20-a747-4e5a-bf44-69662065f987",
+            "image": null,
+            "name": "Hypnos Revive Collection",
+            "description": "The Hypnos Revive Collection features a range of beds designed to enhance sleep quality and provide exceptional comfort. Each bed is crafted with luxurious materials and innovative support technologies.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Hypnos"
+            }
+        },
+        {
+            "id": "f77e7f38-be27-45e9-bdd2-0b4fe6972746",
+            "image": null,
+            "name": "Sleep Number 360 Smart Bed",
+            "description": "The Sleep Number 360 Smart Bed is an adjustable air mattress that allows users to customize firmness settings for optimal sleep comfort. This innovative bed also includes sleep tracking technology to monitor sleep patterns and provide personalized insights.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Sleep Number"
+            }
+        },
+        {
+            "id": "71054702-48f5-467e-b514-2f5909362192",
+            "image": null,
+            "name": "Bajaj Discover 100",
+            "description": "The Bajaj Discover 100 is a lightweight motorcycle designed for urban commuting, offering a balance between fuel efficiency and performance with a focus on reliability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "57578e5e-50d8-4f50-987b-99f1b1ee1ff4",
+            "image": null,
+            "name": "Dawlance Inverter Refrigerator",
+            "description": "The Dawlance Inverter Refrigerator series is designed to provide efficient cooling while minimizing energy consumption, utilizing inverter technology to maintain optimal temperatures with reduced noise levels.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "74b018c2-c256-4e72-942d-b7b9b01c77f6",
+            "image": null,
+            "name": "Exide MATRIX",
+            "description": "The Exide MATRIX series is designed to provide high performance and reliable power supply for cars, characterized by advanced technology and durability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "822c18a4-dee2-418d-9d9d-08b208c200c2",
+            "image": null,
+            "name": "Kia Sedona",
+            "description": "The Kia Sedona, released in 2015, is a spacious minivan designed to provide comfort and versatility for families and groups, featuring a well-appointed interior and advanced safety features.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "83e6fca8-f2c7-44e2-888e-8fd34764aaf4",
+            "image": null,
+            "name": "Samsung SmartThings Hub (v2)",
+            "description": "The Samsung SmartThings Hub (v2) is a central smart home device that connects and manages various smart devices in your home, enabling automation and remote control through a single interface.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "868d514d-f006-4c0c-87ee-e82fa36cc8a6",
+            "image": null,
+            "name": "Mercedes-Benz AMG GT",
+            "description": "The Mercedes-Benz AMG GT is a high-performance sports car known for its dynamic design, powerful engine options, and advanced technology, catering to driving enthusiasts looking for an exhilarating experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "8e4ca7b9-7a7d-4097-bf1c-56294d1f5097",
+            "image": null,
+            "name": "Pulsar",
+            "description": "The Bajaj Pulsar series is a range of motorcycles known for their performance, style, and affordability, targeting young riders seeking a sporty and reliable bike experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "a0f30db1-1347-4f09-ba32-83701983b3f5",
+            "image": null,
+            "name": "Exide Starlite",
+            "description": "The Exide Starlite series offers reliable car batteries designed to provide long-lasting power and performance, catering specifically to the needs of various automotive applications.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "aa032bf4-3740-40b4-b8a4-5446a8f75b40",
+            "image": null,
+            "name": "Force Motor's Gurkha",
+            "description": "The Force Motor's Gurkha is an SUV designed for rugged terrain and off-road capabilities, known for its durability and strong performance since its launch in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "1db6f2b3-a58b-43ce-93f2-eae036cb9ca0",
+            "image": null,
+            "name": "Porsche 911 (991 II)",
+            "description": "The Porsche 911 (991 II) is a sports car known for its exceptional performance, iconic design, and advanced technology, continuing a legacy of precision engineering and luxury since its inception.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "29af115c-0077-4cc7-aba1-52d1dfea8935",
+            "image": null,
+            "name": "Sleep Number 360",
+            "description": "The Sleep Number 360 series is designed to provide a customizable sleep experience, allowing users to adjust the firmness and support of their beds to suit their individual preferences for optimal comfort and restful sleep.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Sleep Number"
+            }
+        },
+        {
+            "id": "3ba494b1-d9e6-47d5-8b65-8b35f282cdd1",
+            "image": null,
+            "name": "Milo",
+            "description": "The Milo series by Gus* Modern features a modern and minimalist sofa design, prioritizing comfort and versatility for contemporary living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "40c6b6af-ec94-40a7-8e63-a41f04c61912",
+            "image": null,
+            "name": "Mercedes-Benz W164 (ML-Class)",
+            "description": "The Mercedes-Benz W164, part of the ML-Class, is a luxury mid-size SUV produced from 2004, designed for both comfort and off-road capability, offering a blend of performance and utility.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "4c5c2846-8ca6-4e8c-888e-fb8dbe041e2e",
+            "image": null,
+            "name": "Bajaj Avenger",
+            "description": "The Bajaj Avenger is a cruiser motorcycle series launched by Bajaj Auto in 2005, designed for comfortable long-distance rides with a distinctive styling.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "511d3a3a-2786-4f58-9d41-2228f43f1fff",
+            "image": null,
+            "name": "Hyundai Sonata (8th generation)",
+            "description": "The Hyundai Sonata (8th generation) is a mid-size sedan designed for comfort and efficiency, featuring a sleek design, advanced technology, and a focus on driving dynamics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "5534fb67-e6b9-4e79-91d0-4730332189bd",
+            "image": null,
+            "name": "GMC Sierra 3500HD",
+            "description": "The GMC Sierra 3500HD is a heavy-duty pickup truck designed for tough tasks, offering exceptional towing capabilities and a robust chassis for users needing high performance for work and recreational purposes.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "b4c32d36-2e26-4ba1-a999-2ff042a9085c",
+            "image": null,
+            "name": "Continental ContiEcoContact 3",
+            "description": "The Continental ContiEcoContact 3 is a summer tire designed for fuel efficiency and low rolling resistance, catering specifically to environmentally conscious drivers seeking to reduce their carbon footprint without compromising on safety or performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "e0610fa4-5212-44ed-a912-1adcd9778ecd",
+            "image": null,
+            "name": "Exide Xplore",
+            "description": "Exide Xplore is a series of automotive batteries designed to provide reliable power and performance for vehicles. Launched in 2009, these batteries are known for their durability and dependability, making them suitable for various car models.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Exide Industries"
+            }
+        },
+        {
+            "id": "64fee047-a3b7-43e1-a86a-cdcd27b280bb",
+            "image": null,
+            "name": "Mercedes-Benz S-Class (W221)",
+            "description": "The Mercedes-Benz S-Class (W221) is a luxury sedan renowned for its advanced technology, high comfort levels, and exceptional performance. Introduced in 2006, it exemplifies Mercedes-Benz's commitment to quality and innovation in the luxury automotive segment.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "e8152530-ae6e-4d30-8d8d-65e18e70f96c",
+            "image": null,
+            "name": "Samsung Galaxy Book",
+            "description": "The Samsung Galaxy Book series comprises versatile laptops designed for productivity and portability, featuring a slim profile and touchscreen capabilities for enhanced user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "7889f2ff-2e72-4639-983d-cc8ae7b28379",
+            "image": null,
+            "name": "Hypnos Elysium Collection",
+            "description": "The Hypnos Elysium Collection features premium beds designed to provide exceptional comfort and support for a restorative night's sleep.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Hypnos"
+            }
+        },
+        {
+            "id": "ee8dbb59-6426-467a-a8b0-3bc4d642d746",
+            "image": null,
+            "name": "Panasonic Toughbook CF-33",
+            "description": "The Panasonic Toughbook CF-33 is a rugged 2-in-1 laptop designed for demanding environments, offering durability, versatility, and high performance for professionals in various industries.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "8bbdfcd2-2468-4929-9ae3-04b639b45b02",
+            "image": null,
+            "name": "Mercedes-Benz M-Class",
+            "description": "The Mercedes-Benz M-Class is a luxury SUV that combines versatility and off-road capabilities with premium comfort and advanced technology, aimed at providing a refined driving experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "922e19e4-a5ba-483a-8a83-4bb4b3d72021",
+            "image": null,
+            "name": "LG InstaView Door-in-Door Refrigerators",
+            "description": "The LG InstaView Door-in-Door Refrigerators are designed to provide quick and easy access to frequently used items while helping to reduce cold air loss, optimizing energy efficiency. This series features a unique 'knock twice' glass panel that allows users to illuminate and view the inside without fully opening the refrigerator door.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "a2f10cfb-d26e-46f4-8f9e-cc4fe1885525",
+            "image": null,
+            "name": "Force Traveller",
+            "description": "The Force Traveller is a series of pickup trucks manufactured by Force Motors, designed for commercial use with a focus on durability, reliability, and efficient transport of goods and passengers.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "125f479f-8168-4ff7-8086-0ef2f477bcf6",
+            "image": null,
+            "name": "Cassina 2020 Collection",
+            "description": "The Cassina 2020 Collection features a range of contemporary sofas designed to combine comfort with innovative design, showcasing the brand's commitment to craftsmanship and modern aesthetics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "5fcd44a5-186d-4c6b-a496-d02657a42727",
+            "image": null,
+            "name": "Intel Core 12th Gen",
+            "description": "The Intel Core 12th Gen series is a line of desktop and mobile processors designed for high performance and efficiency, featuring a hybrid architecture that combines Performance-cores and Efficiency-cores to optimize tasks and power consumption.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Intel"
+            }
+        },
+        {
+            "id": "33ec6171-a1f8-4d1b-aef1-9e8e9f8bebf2",
+            "image": null,
+            "name": "Sony Xperia XA1",
+            "description": "The Sony Xperia XA1 is a smartphone series released in 2017, known for its sleek design, efficient performance, and mid-range pricing, catering to users seeking quality devices with solid features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "7aa18712-0c79-4ab3-8989-1d02c7b8fd83",
+            "image": null,
+            "name": "Oscar Schmidt Autoharp",
+            "description": "The Oscar Schmidt Autoharp is a stringed musical instrument that allows users to easily produce chords and melodies. It is designed for both beginners and experienced musicians, making it ideal for playing folk and traditional music.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Oscar Schmidt"
+            }
+        },
+        {
+            "id": "4c7c21f6-1016-4966-bed3-024c5e400119",
+            "image": null,
+            "name": "Laney Ironheart IRT-Studio",
+            "description": "The Laney Ironheart IRT-Studio is a compact guitar amplifier designed for studio use, offering a blend of vintage and modern tones with versatile features for practicing and recording.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Laney"
+            }
+        },
+        {
+            "id": "8eff94c8-2d31-4f55-8be0-5a64127d7b99",
+            "image": null,
+            "name": "Shinko 005 Advance",
+            "description": "The Shinko 005 Advance is a high-performance motorcycle tire designed for sport and racing applications, offering enhanced grip and stability in various conditions.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "1cca7405-7f34-4271-b98d-1568ad337597",
+            "image": null,
+            "name": "Element Skateboards - Wolfeboro Collection",
+            "description": "The Element Skateboards - Wolfeboro Collection is a series of skateboards designed for durability and performance, featuring high-quality materials and a stylish design suitable for both beginners and experienced skaters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "407a5216-c7b1-4e92-9bc4-806fccfe2cf7",
+            "image": null,
+            "name": "Pioneer DMH-WT7600NEX",
+            "description": "The Pioneer DMH-WT7600NEX is an advanced car audio receiver that integrates smartphone connectivity and multimedia capabilities, designed to enhance the in-car entertainment experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "df4f5090-6975-4f23-ae63-eb4e0096ab30",
+            "image": null,
+            "name": "Element Skateboards - Vintage Collection",
+            "description": "The Element Skateboards Vintage Collection showcases a selection of skateboards that blend classic design with modern performance, aimed at providing durability and style for skaters of all levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "ad7a6afc-d81c-49ea-bcfd-2247d721a563",
+            "image": null,
+            "name": "Element Skateboards - Ed Templeton Pro Model",
+            "description": "The Element Skateboards - Ed Templeton Pro Model series features high-quality skateboards designed for professional use, emphasizing durability and performance on various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "e9564cd1-d79e-4d99-bf89-ee4f85212990",
+            "image": null,
+            "name": "TR Series",
+            "description": "The Shinko TR Series is designed to deliver superior performance for off-road riding, combining durability with traction on a variety of terrains.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "f5542973-6849-4a39-b789-3a32e78de8a5",
+            "image": null,
+            "name": "Sony A7 IV",
+            "description": "The Sony A7 IV is a full-frame mirrorless camera released in 2021, designed for professional photographers and videographers, featuring advanced autofocus and enhanced image quality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "fcb514b5-7d03-4e43-9211-edbf60ffbeb4",
+            "image": null,
+            "name": "MX Series",
+            "description": "The Shinko MX Series is designed for motocross enthusiasts, providing enhanced traction and control on varied terrain to optimize performance during off-road racing.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "86e0445b-0d1b-4b72-a9dd-138abacf4919",
+            "image": null,
+            "name": "Element Skateboards 2019 Collection",
+            "description": "The Element Skateboards 2019 Collection offers a range of durable and high-quality skateboards focused on performance and style, catering to both beginners and experienced skaters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "ca5b0282-aacb-4d6b-ba33-85fb6469e572",
+            "image": null,
+            "name": "Pioneer TS-A Series",
+            "description": "The Pioneer TS-A Series is a range of car audio speakers designed to deliver high-quality sound and enhanced audio performance for vehicle installation, featuring advanced materials and technologies for optimal sound reproduction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "9ff05e21-625f-484b-9bdf-b29530b8ca6d",
+            "image": null,
+            "name": "Shinko 009 Raven",
+            "description": "The Shinko 009 Raven is a sport-touring motorcycle tire known for its excellent grip, stability, and performance in various weather conditions. Designed for asphalt surfaces, it provides riders with confident handling and longevity.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "bc81708d-0e37-4efe-bd52-83f1164cf7e1",
+            "image": null,
+            "name": "Sony A6700",
+            "description": "The Sony A6700 is a mirrorless camera designed for advanced photographers, featuring high-resolution imaging and fast autofocus capabilities, making it ideal for both stills and video capture.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "bca483ce-e9e9-4a99-b3e7-a52b0b63324a",
+            "image": null,
+            "name": "Element Skateboards 2021 Collection",
+            "description": "The Element Skateboards 2021 Collection features a range of high-quality skateboards designed for durability and performance, catering to both beginners and experienced skaters.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Element Skateboards"
+            }
+        },
+        {
+            "id": "fad299cb-e04c-494e-8b6b-f77f214d9b7b",
+            "image": null,
+            "name": "Shinko 703",
+            "description": "The Shinko 703 is a motorcycle tire series designed for versatility and durability, suitable for various road conditions and riding styles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "97ea255d-57ea-4240-88c8-656d8f10850a",
+            "image": null,
+            "name": "Sony Xperia 10 V",
+            "description": "The Sony Xperia 10 V is a smartphone designed for media consumption and photography, featuring a vibrant display and advanced camera capabilities.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "6c7f0181-abff-4e48-8f75-56a288ef6f8a",
+            "image": null,
+            "name": "Shinko 733",
+            "description": "The Shinko 733 is a motorcycle tire designed for riders seeking a balance of durability and performance on both wet and dry surfaces, introduced in 2011.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0cb81bb8-3078-4d98-b129-faf0ef9c10e1",
+            "image": null,
+            "name": "Prang Washable Watercolors",
+            "description": "Prang Washable Watercolors are vibrant water-based paints designed for ease of use and cleanup, making them suitable for artists of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "705892b3-f2c0-4f0d-a120-2a50ece23a14",
+            "image": null,
+            "name": "Shinko 009 Apex",
+            "description": "The Shinko 009 Apex is a sportbike tire designed for superior grip and handling performance on both wet and dry surfaces, emphasizing stability at high speeds for a confident riding experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "9077faa9-ac2d-49d4-bf7c-cf3d8b1bb5b7",
+            "image": null,
+            "name": "Specialissima",
+            "description": "The Bianchi Specialissima series consists of high-performance road bikes designed for competitive cycling and endurance riding, characterized by their lightweight carbon frame and advanced aerodynamics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "106c3bbd-4397-4c1c-b18a-e04574fd85c8",
+            "image": null,
+            "name": "Kumho Ecsta PS91",
+            "description": "The Kumho Ecsta PS91 is a high-performance tire designed for sports and premium vehicles, emphasizing excellent grip, handling, and stability in both wet and dry conditions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "0a581760-bb63-4856-b0ee-04119782ab91",
+            "image": null,
+            "name": "Shinko 805 Adventure",
+            "description": "The Shinko 805 Adventure tires are designed for dual-sport and adventure motorcycles, providing excellent traction on both on-road and off-road conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "cff25c42-55fc-459d-8214-4f4847cc2f61",
+            "image": null,
+            "name": "Prang Colored Pencils",
+            "description": "Prang Colored Pencils are high-quality art supplies designed for vibrant and smooth coloring. Ideal for students and artists alike, these colored pencils offer a broad spectrum of colors with excellent blendability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "1b012b53-3027-43e8-ba56-7e5eabe38e9e",
+            "image": null,
+            "name": "Prang Classroom Markers",
+            "description": "Prang Classroom Markers are high-quality art supplies designed for use in educational settings, offering vibrant colors and a smooth application for various artistic projects.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "67298d0a-38c6-4fbb-bffb-67fd19869f93",
+            "image": null,
+            "name": "LG Signature Washer and Dryer",
+            "description": "The LG Signature Washer and Dryer series combines advanced washing technology with a sleek design, focusing on efficiency and convenience for modern households.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "e23c9eda-e594-403a-91c5-e22a709b96bd",
+            "image": null,
+            "name": "Shinko 812 Series",
+            "description": "The Shinko 812 Series tires are designed for performance and reliability, suitable for a range of motorcycles. They offer excellent grip in both wet and dry conditions, enhancing rider confidence and safety.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "10a08f2f-7f0f-46a0-ab16-1f21c43f30f2",
+            "image": null,
+            "name": "Ecsta SPT KU31",
+            "description": "The Kumho Tire Ecsta SPT KU31 is a high-performance summer tire designed for sports cars and performance vehicles, providing excellent handling, cornering grip, and enhanced steering responsiveness.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        }
+    ]
+}

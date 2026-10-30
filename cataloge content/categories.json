@@ -1,0 +1,1614 @@
+﻿{
+  "data": [
+    {
+      "id": "2bbe486e-2894-4813-a890-9c07d77ccc04",
+      "status": "published",
+      "name": "Automotive",
+      "slug": "automotive",
+      "description": "Trade and swap vehicles, car parts, accessories, and automotive equipment. Find everything from cars and motorcycles to tools and maintenance supplies.",
+      "category_type": "branded",
+      "subcategories": [
+        {
+          "id": "32435ae6-776c-4033-9539-7a0bec161521",
+          "name": "Car Accessories"
+        },
+        {
+          "id": "39bcd0a8-3333-4d74-9f6e-4d5a4c7ea528",
+          "name": "Detailing Tools"
+        },
+        {
+          "id": "4400579d-4508-40f5-a039-1227fc6c4eec",
+          "name": "Motorcycles"
+        },
+        {
+          "id": "c5e658f1-7c39-4569-82b3-2d91b88fffb5",
+          "name": "Car Audio"
+        },
+        {
+          "id": "969ddd14-831f-41ca-b1b6-ef5511775fba",
+          "name": "Car Care Products"
+        },
+        {
+          "id": "d3cb83b1-9b83-442c-84c8-8cb5605eacbc",
+          "name": "Pickup Trucks"
+        },
+        {
+          "id": "2f114195-0f20-4b2f-8898-35ee4f9b621b",
+          "name": "Rims & Tires"
+        },
+        {
+          "id": "5807d60c-6b0b-41b0-883b-cad9d547dae4",
+          "name": "SUVs"
+        },
+        {
+          "id": "e58f6f9e-4fad-4af5-9a45-8c5cdc92b75c",
+          "name": "Car Parts"
+        },
+        {
+          "id": "095d7f65-d3db-4f68-b285-67362858344a",
+          "name": "Cars"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "0b5df4fa-d3db-46db-8a6a-059f90447c8b",
+            "name": "Hyundai"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "0d2a1952-cfd1-4d2c-b9fd-588a6e9639e7",
+            "name": "Kia"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "18be1797-53f6-46dc-8861-9290481bfd89",
+            "name": "Porsche"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3d37e543-2c90-4715-ac7f-64480b748e1f",
+            "name": "Toyota"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3fa4d1bc-6d3e-428d-aea0-028edab4faac",
+            "name": "Volvo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5712cf91-2188-40ee-a023-078d1198d82f",
+            "name": "Jaguar"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "62e285c9-ed72-4ad1-aebc-74e0c388993b",
+            "name": "Nissan"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "77c30593-72fb-4973-b53d-42365d0619ce",
+            "name": "Peugeot"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7d0b8bbf-843e-4fd0-87cb-d7d34709ae0e",
+            "name": "Chevrolet"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8d73553c-ab2b-4c20-a02c-85562831b6ae",
+            "name": "Audi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "94a7f042-fe9d-4933-9492-41358d2474db",
+            "name": "Honda"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a7fef494-ffd2-4de0-97b2-ad08b0a23461",
+            "name": "Renault"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b25608f3-35ee-4ea7-aa98-4fc9bbffcfb4",
+            "name": "Ford"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "cd6d64fb-a5e6-4018-9ecf-2d036afac3b0",
+            "name": "BMW"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d0674833-9668-47d5-a5d3-4c3d9678d2c3",
+            "name": "Volkswagen"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d2f0a266-9b72-4004-9390-4afc71df9fd3",
+            "name": "Fiat"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d352877d-27e6-4d5c-9ddd-36620c6c9c97",
+            "name": "Mercedes-Benz"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "dfa0d341-4f10-4838-9d10-2ce047b1e267",
+            "name": "Subaru"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "eb7f8b82-960b-408d-a117-644b0a8e0991",
+            "name": "Land Rover"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ef5fc7c3-7ab0-4e46-83ea-b7fd0ab92609",
+            "name": "Tesla"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c94c391f-3e39-4e86-a328-59d7022e38ff",
+            "name": "BYD"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f9d5ec30-0708-4e90-9aab-c7e531ff19e5",
+            "name": "Chery"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3de8970f-bdc2-49b8-b34b-85f2414a1db5",
+            "name": "Skoda"
+          }
+        },
+        {
+          "brands_id": null
+        },
+        {
+          "brands_id": null
+        }
+      ]
+    },
+    {
+      "id": "4f0c4f91-e937-4f6a-b7a4-29cc9816a29a",
+      "status": "published",
+      "name": "Furniture",
+      "slug": "furniture",
+      "description": "Trade home and office furniture including sofas, tables, chairs, beds, and storage solutions. Give furniture a second life through sustainable swapping.",
+      "category_type": "hybrid",
+      "subcategories": [
+        {
+          "id": "70ab26d4-e368-4791-be04-91da0dd9a3c9",
+          "name": "Tables"
+        },
+        {
+          "id": "903611ec-d84c-4be1-9a8c-be3b6840a5a0",
+          "name": "TV Stands"
+        },
+        {
+          "id": "b296c5d8-b5a3-464f-bf4b-7baf53bc010a",
+          "name": "Wardrobes"
+        },
+        {
+          "id": "55dcb18d-bffe-4041-a935-82621cab629e",
+          "name": "Beds"
+        },
+        {
+          "id": "c5734129-332f-4b65-bf55-58f28422899e",
+          "name": "Chairs"
+        },
+        {
+          "id": "7c11c5cf-70cf-4ba6-81f0-a8e1bf91e08e",
+          "name": "Office Furniture"
+        },
+        {
+          "id": "d48aeab0-c6fa-4009-af81-e72f7e2c7614",
+          "name": "Sofas"
+        },
+        {
+          "id": "fa0db2d9-e203-433e-a208-1d30654e1033",
+          "name": "Outdoor Furniture"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "0e9f14e0-03b1-463a-942f-91ede474af7a",
+            "name": "Ashley Furniture"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2861fdba-a3d1-4e79-ac7b-eef15851a173",
+            "name": "La-Z-Boy"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "39994acf-22d6-4869-82fc-b76b9a73a631",
+            "name": "Crate & Barrel"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "49101a2b-f0aa-4811-910a-8c46b213008b",
+            "name": "Knoll"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "52da03df-9dab-4572-bb77-3679e82f7506",
+            "name": "Calligaris"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6267583e-6597-4475-b9b1-aedcc8e54b26",
+            "name": "Muji"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6cc82e6f-5238-4850-add0-0d610c9df55b",
+            "name": "BoConcept"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "85f5b579-f5af-41f7-b789-d12fb2dfe840",
+            "name": "Wayfair"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "88ceeae8-f676-42a3-9ae8-a2df93629632",
+            "name": "Ethan Allen"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8eae5016-12bf-44dc-86d9-c2d4280a39b8",
+            "name": "Pottery Barn"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a0e48271-2bfb-4790-94df-43e313a87bbc",
+            "name": "Restoration Hardware"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a96328b4-6c50-4dfd-9720-e90234a3da60",
+            "name": "Roche Bobois"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "aa196118-a0d0-4a88-8be1-e0f38df3c865",
+            "name": "Flexsteel"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "aba24db6-4d36-4f94-adf0-e33cb221a4cc",
+            "name": "Natuzzi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b37016a6-61af-46a9-9374-3199dc9ec12f",
+            "name": "Steelcase"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "dc60e36d-1b9f-40bb-9d72-e5b6dab7c46d",
+            "name": "Herman Miller"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f0142695-1de8-46fd-ae9e-20460b979f08",
+            "name": "West Elm"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f2c93aea-67fc-4f88-b2c7-a5eb61313846",
+            "name": "Pan Emirates"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "1d0e25d5-168e-4dd8-9580-ad5780f0b720",
+            "name": "Home Centre"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f60de19f-de4b-4c72-b0bd-15e524f15dd3",
+            "name": "IKEA"
+          }
+        },
+        {
+          "brands_id": null
+        },
+        {
+          "brands_id": null
+        }
+      ]
+    },
+    {
+      "id": "99809498-fe87-48bb-b535-853e29b05647",
+      "status": "published",
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Swap smartphones, laptops, tablets, cameras, gaming consoles, and tech accessories. Connect with others to trade the latest electronics and gadgets.",
+      "category_type": "branded",
+      "subcategories": [
+        {
+          "id": "525f47d8-a7c4-44fb-aa7f-61b1c4f5601c",
+          "name": "hard disks"
+        },
+        {
+          "id": "82f9c0d6-823a-4f33-bdb6-52b7d90a5806",
+          "name": "Headphones"
+        },
+        {
+          "id": "b47fdd56-63be-40c0-846f-816a2df295a2",
+          "name": "Cameras"
+        },
+        {
+          "id": "ee766eeb-2a36-44b2-9d3a-98be1ed33b43",
+          "name": "Laptops"
+        },
+        {
+          "id": "3cf5db0f-937d-4798-8263-72cd187e69d2",
+          "name": "Monitors"
+        },
+        {
+          "id": "351b226d-ec7b-47e6-bf1d-cb170fc6619f",
+          "name": "Phones"
+        },
+        {
+          "id": "5da74dd9-19d4-40f7-9453-20aa080f75d2",
+          "name": "PC Components"
+        },
+        {
+          "id": "eeb454ff-cc1b-4217-ab0c-eaa608b175cf",
+          "name": "Projectors"
+        },
+        {
+          "id": "6ff0ea1a-7d28-4a8b-8caa-b78bf0046219",
+          "name": "Smart Watches"
+        },
+        {
+          "id": "a9b8386e-f162-47cb-9021-b40b3fb9ee49",
+          "name": "Smart Home Devices"
+        },
+        {
+          "id": "429a177b-56c3-41fb-9dde-9935dc5f07fa",
+          "name": "Speakers"
+        },
+        {
+          "id": "49801e88-03bd-42e3-8e1b-4b1a104260d2",
+          "name": "Tablets"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "09783751-3bb0-45b6-8a3f-577a2435e93e",
+            "name": "Asus"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "0bf142bf-e4b6-4730-abac-8b84babfd007",
+            "name": "Acer"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "1e489f91-1e82-4d3d-a53a-9d10d12e7d61",
+            "name": "Dell"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "26c2b70e-4b95-455f-b176-f7bea65eadab",
+            "name": "Bose"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2da30826-e64e-443e-9860-6540301480e1",
+            "name": "Samsung"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3537f529-5f8a-4e4e-a7a1-3ef8d42dea6d",
+            "name": "Sony"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "4779746e-3b02-4ec5-8932-e9d4e6b8a930",
+            "name": "Apple"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "52ab55a9-fc4d-468d-9bec-438da28a4c50",
+            "name": "Microsoft"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "581295c2-dfd6-439b-96f7-9204e7b19b8e",
+            "name": "Xiaomi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "74ff23a7-4acd-40c1-8737-ed87c565d2dc",
+            "name": "Beats"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7ae861e5-5ef8-4b01-a947-83f3f2aba0c2",
+            "name": "Canon"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "987c6643-b348-4b13-99b6-40e319ab9a8e",
+            "name": "Nikon"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b54067fa-9ee7-47d6-bb73-3514e0357d07",
+            "name": "Lenovo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "cb2e8289-33e2-4404-9cf3-3dc661bde826",
+            "name": "HP"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d116c933-12da-4d63-a0cc-4a7e01e6af3e",
+            "name": "Huawei"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d1fbadb8-eabc-40eb-8fe2-4b620f5b3b52",
+            "name": "Philips"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f0526baf-27ee-42b1-8dc6-fe256bf03433",
+            "name": "Panasonic"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "73384dda-2bb2-4d29-8063-1d8b8b26d708",
+            "name": "Toshiba"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "861f2bd9-8733-4647-8f50-b153a11e0a89",
+            "name": "Sharp"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "232e13d8-83d6-43eb-ae71-18d4720b459d",
+            "name": "LG"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7189b402-758c-4226-bb64-650f80e433a7",
+            "name": "Nokia"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d9979a87-451c-4dcc-87ab-611b761b18ac",
+            "name": "Vivo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2c28358c-16d9-4a1e-868e-dfd5d4de68eb",
+            "name": "Realme"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a79413b0-3450-4b7e-a04b-ada3b5135cd0",
+            "name": "Oppo"
+          }
+        },
+        {
+          "brands_id": null
+        },
+        {
+          "brands_id": null
+        }
+      ]
+    },
+    {
+      "id": "27e131ec-b0f7-42eb-831b-686a37c316e0",
+      "status": "published",
+      "name": "Real Estate",
+      "slug": "real-estate",
+      "description": "Exchange property listings, vacation homes, rental opportunities, and real estate services. Connect for property swaps, timeshares, and housing exchanges.",
+      "category_type": "non_branded",
+      "subcategories": [
+        {
+          "id": "7d629455-23c0-449b-bfca-81e065aec72d",
+          "name": "Land & Plots"
+        },
+        {
+          "id": "ab3ad81d-b2c1-47dc-aa73-4a523bdc4142",
+          "name": "Apartments for Rent"
+        },
+        {
+          "id": "da370bda-cb5d-4a57-979a-a29a7e519393",
+          "name": "Apartments for Sale"
+        },
+        {
+          "id": "e523296a-09e4-431e-a040-ed0f32c76428",
+          "name": "Villas & Houses"
+        },
+        {
+          "id": "eebd181b-3e9d-4fad-80bb-10256f9db5df",
+          "name": "Commercial Spaces"
+        },
+        {
+          "id": "89c1a521-9a32-43d7-994d-814a244ab39d",
+          "name": "Office Spaces"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "00ab6cb6-5623-40a2-88fd-6fa84723705d",
+            "name": "Savills"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "147ab48b-2aa4-4c0f-901e-cf16572c2f27",
+            "name": "Brookfield Asset Management"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2be5e376-3736-4721-8002-eec3d1155bfa",
+            "name": "CapitaLand"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2df71af1-6e4f-4e77-83c1-98b9522d0ed4",
+            "name": "China Vanke"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3a085425-8ae0-44df-b06c-8c6fc3db0a64",
+            "name": "DLF Limited"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "4fd879aa-41b2-42b3-9744-7e54a680371d",
+            "name": "Simon Property Group"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7b8df7cd-1efb-4481-85c4-0b571434e8f9",
+            "name": "Colliers International"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7c2b6995-ccd2-472a-87a3-ade636143501",
+            "name": "JLL"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8f6f8b6e-b921-4d78-8c3e-34c9c8f8ef14",
+            "name": "Prologis"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "9a41944b-8ef1-4f3f-a472-6e3090773264",
+            "name": "Realogy Holdings"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "9dcd9823-bb41-42ac-a2eb-b2bf2eafabdb",
+            "name": "Coldwell Banker"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "beec0e8a-10ee-4595-8963-c1daf97567e2",
+            "name": "RE/MAX"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c16a06c4-3eed-48c3-abaf-5679eb5a450b",
+            "name": "Emaar Properties"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c9780218-23e8-4b86-95fd-04a6c7d11fae",
+            "name": "CBRE Group"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "cc79a380-21f4-45c6-92ce-3dd962e1551b",
+            "name": "Hines"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "db96f4a2-4335-4599-b124-bf50d2a8e787",
+            "name": "Keller Williams"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e54e2280-018f-4e9e-b9f6-9c57271dcc0d",
+            "name": "Zillow"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e9317a6d-64a5-468c-a00d-69c8dbba8b23",
+            "name": "Cushman & Wakefield"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ea76683d-83c8-47ca-88a0-88450b2264b2",
+            "name": "Brookfield Properties"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "edd1db7d-af9d-49bd-a3cc-eeca4846ec35",
+            "name": "Sun Hung Kai Properties"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cdd01a74-73d3-4116-87e1-e78eec9b2643",
+      "status": "published",
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Exchange clothing, shoes, accessories, and designer items. Refresh your wardrobe sustainably by swapping fashion pieces with style-conscious traders.",
+      "category_type": "hybrid",
+      "subcategories": [
+        {
+          "id": "1c8f5402-684d-4b90-8863-ca1bbcd41a55",
+          "name": "Sunglasses"
+        },
+        {
+          "id": "1ce157ea-5dae-4648-b26c-3740fab76ae9",
+          "name": "Accessories"
+        },
+        {
+          "id": "cd42c6fe-d133-48fe-a2b6-0b5fb343561f",
+          "name": "Sneakers"
+        },
+        {
+          "id": "dfb69b8a-7b6b-4ed0-bde2-74dc1dc830ee",
+          "name": "Men's Clothing"
+        },
+        {
+          "id": "a0efe73d-9c94-4d69-8192-3ba3b8d5a7d5",
+          "name": "Bags"
+        },
+        {
+          "id": "7e490192-30b1-41c2-b1cf-1f2e4834cfb9",
+          "name": "Women's Clothing"
+        },
+        {
+          "id": "e170b86d-a39e-4c4c-b325-cacf50486354",
+          "name": "Watches"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "1f6bdbc8-8fc5-4e85-a1cd-b8e81efee347",
+            "name": "Chanel"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3243283c-a193-40ec-a4f2-e3128865974d",
+            "name": "Uniqlo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3e00a5c3-853c-46ff-9862-69d7cecde3b6",
+            "name": "Tommy Hilfiger"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "51a52577-f4be-45d0-bb91-3f23b7108061",
+            "name": "Dior"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5f804934-5b01-43df-93a5-a1996a2cf12b",
+            "name": "H&M"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6c547582-cd4a-48af-b9fc-d00c314c5816",
+            "name": "Armani"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8045b448-ad65-460c-b6e8-78f8927b0d6a",
+            "name": "Zara"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "89731d64-248e-4203-8e58-1f3ef0331fb4",
+            "name": "Ralph Lauren"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8bd3604b-838c-4236-8020-0903481709b6",
+            "name": "Prada"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "9c4625c1-4ab9-45d9-9e2e-c7f63c1e130b",
+            "name": "Louis Vuitton"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b7ea9326-8a9f-48ff-8142-0918dc9bb7ab",
+            "name": "Hermès"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "bb3fdaa3-2429-4e7e-9d57-fb052bca7cd6",
+            "name": "Burberry"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d1e67d18-7087-4629-9344-3cf9483ebf80",
+            "name": "Levi's"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d62df0b0-7015-4ca3-9e40-88d88eb0dfdd",
+            "name": "Gucci"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d811d39a-2d27-4de5-be4f-8f3e6334262b",
+            "name": "Fendi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "faaeb156-204d-4342-8c3d-9ae271c11f55",
+            "name": "Versace"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f4aea0b7-8aaa-4a65-a7da-7df5263f85af",
+            "name": "Balenciaga"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "403e1a6e-703a-4e8a-9ab8-01ab5c2f4344",
+            "name": "Puma"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a5925f15-e41d-4c33-9461-ec0fe64a629b",
+            "name": "Adidas"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d3903409-bf24-4576-93bd-ab1b21dd39dc",
+            "name": "Nike"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d1072d30-1b6d-427a-921a-586ca2fe04e8",
+            "name": "Pull&Bear"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e9df29ae-7b70-4e58-8068-80698806a7e2",
+            "name": "Bershka"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "8a5f51c1-0bbe-4760-bc42-279082b89bb0",
+            "name": "LC Waikiki"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f50fb038-469a-48c6-abaf-66a3562f6150",
+            "name": "Defacto"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "89a0b6bd-5b06-49f5-9eff-755f527f2985",
+            "name": "Stradivarius"
+          }
+        },
+        {
+          "brands_id": null
+        },
+        {
+          "brands_id": null
+        }
+      ]
+    },
+    {
+      "id": "fbefa3b0-4797-4825-8978-10e234775381",
+      "status": "published",
+      "name": "Sports & Hobby",
+      "slug": "sports-hobby",
+      "description": "Swap sports equipment, fitness gear, hobby supplies, and outdoor recreation items. From bikes and weights to art supplies and musical instruments.",
+      "category_type": "hybrid",
+      "subcategories": [
+        {
+          "id": "793fdc7d-d35c-4078-aee3-0447853f7671",
+          "name": "Gym Equipment"
+        },
+        {
+          "id": "a43c599c-535c-4b6f-9429-70a4c2ed9187",
+          "name": "Skateboards"
+        },
+        {
+          "id": "fc9507d6-b52b-43df-8db9-0470854aceac",
+          "name": "Art Supplies"
+        },
+        {
+          "id": "4ecf2191-bfb7-40eb-833a-00292bb154b8",
+          "name": "Camping Gear"
+        },
+        {
+          "id": "25cab747-7ef5-4c35-b709-094bcb86196d",
+          "name": "Musical Instruments"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "403e1a6e-703a-4e8a-9ab8-01ab5c2f4344",
+            "name": "Puma"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "a5925f15-e41d-4c33-9461-ec0fe64a629b",
+            "name": "Adidas"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d3903409-bf24-4576-93bd-ab1b21dd39dc",
+            "name": "Nike"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "01b9bb3f-300b-4028-8586-ee7814ed01f3",
+            "name": "Salomon"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "06e6d07f-c776-4749-8491-d0b009672ae1",
+            "name": "Patagonia"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "0791c0b5-5ffa-4444-9f76-df2ad1ef34c5",
+            "name": "Decathlon"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "20584e36-3882-487f-bf57-6b4d24f0f71e",
+            "name": "Asics"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "21df4841-95be-43a8-a503-7547bc36eb2a",
+            "name": "Converse"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "248cdcdd-c7e5-4355-82ef-035af56307d3",
+            "name": "New Balance"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "4795b6ae-3f4d-4c79-a8be-48f9bb29a0b5",
+            "name": "Fila"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "4cf0bbda-8f3b-4c88-b2cc-9bdcfd15dd08",
+            "name": "Under Armour"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "55e7e8cf-4ead-4100-a98f-28a5a681d8d9",
+            "name": "Columbia"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5f8cf754-e381-4bdf-82d8-8b45d108aad2",
+            "name": "Speedo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "68061f48-40d7-4bcc-8e7a-13780bb6982e",
+            "name": "Saucony"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "97561856-9f21-4f5d-ace3-da5d1a04bb3d",
+            "name": "Mizuno"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "aefc9cbe-cc97-4bae-ac3d-c49de4c92f41",
+            "name": "The North Face"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b68279e6-7cac-4d20-976f-f7df8f75a656",
+            "name": "Reebok"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c794a61a-0e73-4ea5-8dbe-c25bbd4989ff",
+            "name": "Wilson"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "da23514c-1390-4a3b-8a9c-d8d8f26f0681",
+            "name": "Oakley"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e182034f-90ab-442a-96b2-5a5463bdd834",
+            "name": "Yonex"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f37ae725-b2f4-4987-aeb2-dc1affab2e6a",
+      "status": "published",
+      "name": "Kids & Baby",
+      "slug": "kids-baby",
+      "description": "Trade children's clothing, toys, baby gear, strollers, and educational items. Help families save money while giving kids' items a new home.",
+      "category_type": "hybrid",
+      "subcategories": [
+        {
+          "id": "a1ce43b6-139c-4fc7-9909-4d88485cabe5",
+          "name": "Baby Seats"
+        },
+        {
+          "id": "25e177ee-1e34-45d6-b767-070b6304329b",
+          "name": "School Gear"
+        },
+        {
+          "id": "4e7b1d13-308d-45f0-b0d4-463440444d34",
+          "name": "Bikes"
+        },
+        {
+          "id": "8918154d-01f7-4031-80c3-3434bc6930a8",
+          "name": "Kids Clothes"
+        },
+        {
+          "id": "e1f61af5-57ea-4c98-8704-f3f655a390ca",
+          "name": "Kids Books"
+        },
+        {
+          "id": "33ea0877-dae0-4a3b-bc1f-6baab08031f0",
+          "name": "Strollers"
+        },
+        {
+          "id": "6be5379f-23ab-4f0f-a9b6-95a648d72040",
+          "name": "Toys"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "0a7708a7-d00a-4c7d-83c5-156fd2798c1f",
+            "name": "Huggies"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "0bf11157-7ab8-43cb-92b4-0d1dcb8a887e",
+            "name": "Joie"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "153b20d6-72f7-409f-9299-8685d840556a",
+            "name": "Molfix"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "157d4bfe-761d-4e43-a502-c0616d980741",
+            "name": "Baby Jogger"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "180b2b69-ed11-462d-83d9-b21f82702f73",
+            "name": "Fisher-Price"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "27e878ad-b277-4a72-b64c-3f7283793019",
+            "name": "Chicco"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "28f92ee4-65e1-4fc2-9068-6222a147af4c",
+            "name": "BabyBjörn"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "41689c3d-b5a9-4d27-8625-688e5cf6e65f",
+            "name": "Evenflo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "49df252b-8125-4610-9f4d-2998eec2b28d",
+            "name": "Philips Avent"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5d20e603-dd9e-46f1-b0c5-93437347059b",
+            "name": "Sanosan"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5e1d238d-7532-416c-81b4-0ed4fa2258fa",
+            "name": "Britax"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5fb0a68c-11b8-4784-9f76-4e62f28e6db2",
+            "name": "Graco"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "612e1d7f-f06f-4d9c-bb62-2b9b1e837501",
+            "name": "Pampers"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6bf08c86-ceae-4682-a0b5-86d798691648",
+            "name": "Nuna"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "73fde9b9-49bb-4bce-8af9-1f50e198da1f",
+            "name": "Super Kids"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "9b4b18a5-abe8-4cd5-bd19-24418996f9d2",
+            "name": "NUK"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "adbe28ba-a460-4564-9533-8a2ae3ae06b3",
+            "name": "Petit Bébé"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d70e7c16-8c00-48b4-be9c-55e8d792f808",
+            "name": "Peg Perego"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d8ff2dbf-8e08-4c89-8973-1415266bc760",
+            "name": "Maxi-Cosi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e62d9016-0175-4a2f-9eb8-5bf7e8839b6f",
+            "name": "Tommee Tippee"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "b7689a0d-9c0c-498c-9a7a-885d1d1a42a7",
+            "name": "Disney"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "fdae6c47-d79b-45c0-999c-7cd671c71527",
+            "name": "Mothercare"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bed2bdbd-686b-432b-98f8-4deefd9b5907",
+      "status": "published",
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "description": "Exchange kitchen appliances, cookware, home decor, and household essentials. Find everything from blenders and mixers to decorative items and organizers.",
+      "category_type": "hybrid",
+      "subcategories": [
+        {
+          "id": "11077a62-6122-49d2-a293-8ae6aa4332f9",
+          "name": "Refrigerators"
+        },
+        {
+          "id": "7cf135b5-9b38-4216-a0bd-b2ebd2431231",
+          "name": "Water Heaters"
+        },
+        {
+          "id": "d3c095a3-b64f-4872-b8b9-222afb2902c9",
+          "name": "Washing Machines"
+        },
+        {
+          "id": "967ec193-0502-4f4b-9b2f-43098e0421dc",
+          "name": "Air Fryers"
+        },
+        {
+          "id": "acd2b77a-a2e5-45f4-a65a-2d8c8494e300",
+          "name": "Blenders"
+        },
+        {
+          "id": "1e20c9aa-4637-4b44-b8dc-57b86b87efc2",
+          "name": "Coffee Machines"
+        },
+        {
+          "id": "ba8c05a3-fb3e-484c-9928-df538df7f4cf",
+          "name": "Microwaves"
+        },
+        {
+          "id": "8c23b699-6fc1-4c52-8b12-fac286e79107",
+          "name": "Vacuum Cleaners"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "73384dda-2bb2-4d29-8063-1d8b8b26d708",
+            "name": "Toshiba"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "861f2bd9-8733-4647-8f50-b153a11e0a89",
+            "name": "Sharp"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f0526baf-27ee-42b1-8dc6-fe256bf03433",
+            "name": "Panasonic"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "232e13d8-83d6-43eb-ae71-18d4720b459d",
+            "name": "LG"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "2da30826-e64e-443e-9860-6540301480e1",
+            "name": "Samsung"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "04967d74-6517-4386-8a25-dd50b6429a20",
+            "name": "Whirlpool"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "0bc71cd4-eedf-49cd-b4ca-e2ae4df776b6",
+            "name": "TCL"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "149a6fa1-b0a6-423d-b4cf-360910e233ef",
+            "name": "Frigidaire"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5aed8587-a4a3-4938-b470-069f16a52dd8",
+            "name": "Electrolux"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "60274535-ebde-4ca1-8586-61cb1cf0531c",
+            "name": "KitchenAid"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6cf7d648-44f0-4855-825d-3fd0e3e47b9e",
+            "name": "Breville"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "77e77a0a-b91d-41f8-be85-3d848790697d",
+            "name": "Viking"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "96720558-129a-43b3-95b9-02db37d7ba50",
+            "name": "Haier"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "9ed79c5a-a72e-4cb3-866a-7ab3909b0e91",
+            "name": "Cuisinart"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "be1591db-b925-470f-bc08-0deceac5d64f",
+            "name": "GE Appliances"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ca338c88-71f2-4b7e-9141-144ea2dbf230",
+            "name": "Smeg"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d28a3198-bc0b-4a18-a07e-6be132ec89bd",
+            "name": "Miele"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e32bb717-dea0-464a-8e68-673927c7ab5d",
+            "name": "Kenmore"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ebb82f1b-b4aa-4fcf-8531-2c385d45f88b",
+            "name": "De'Longhi"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ed651e93-948a-41a6-a274-756ddd6bf70b",
+            "name": "Bosch"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "febea9bd-417f-4b2b-87c1-3da05668cd51",
+            "name": "Hisense"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c135d830-2185-4a6d-86bb-09dd7ecfa16b",
+            "name": "Tefal"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "04d70f0a-478e-4d0b-a603-645634f93e60",
+            "name": "Braun"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d168938e-6a93-41f9-a850-4c90186d6c42",
+            "name": "Moulinex"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "94199cfc-3a44-438e-b02d-e4d0147bcaf8",
+            "name": "Kenwood"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "dbd5c155-b7c8-460b-affc-54a1d01a1fdd",
+            "name": "Black & Decker"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1c17148c-c051-4e44-b542-358d98a3c76a",
+      "status": "published",
+      "name": "Gaming",
+      "slug": "gaming",
+      "description": "Swap video games, consoles, gaming accessories, and collectibles. Trade across all platforms including PlayStation, Xbox, Nintendo, and PC gaming gear.",
+      "category_type": "branded",
+      "subcategories": [
+        {
+          "id": "3635d2ff-208a-4900-8f54-90a7d01ab506",
+          "name": "Gaming Chairs"
+        },
+        {
+          "id": "4de7a97f-3237-441f-8a1b-6978d17b713f",
+          "name": "Gaming Accessories"
+        },
+        {
+          "id": "68aec0be-c308-44cb-aacc-8bbd8c50b790",
+          "name": "Gaming PCs"
+        },
+        {
+          "id": "b75d00f8-7df5-41e5-b7e2-6f34e3e10bc8",
+          "name": "Controllers"
+        },
+        {
+          "id": "51d9d9c3-5f59-421a-afd2-5a22e6624481",
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": "70993797-aa12-4c12-bde3-ac76f5a72b78",
+          "name": "PlayStation"
+        },
+        {
+          "id": "9b306a29-05a5-4789-9160-09ca24e85e7f",
+          "name": "VR Headsets"
+        },
+        {
+          "id": "9d4a3a2f-05d1-4938-8d26-569b5bb3ffb0",
+          "name": "Xbox"
+        }
+      ],
+      "brands": [
+        {
+          "brands_id": {
+            "id": "1d9e854b-97eb-4280-9c3a-74454b548d58",
+            "name": "Activision Blizzard"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "28916054-dc46-4f3a-b49d-868453a0686a",
+            "name": "Tencent Games"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3338cb61-961d-4efa-8f42-ef327e61d23c",
+            "name": "Konami"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "3f99dd30-7620-4fd9-a2ee-477ffd314ee7",
+            "name": "EA"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "47a00b32-a658-407e-ac18-13d14813607e",
+            "name": "Nintendo"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "4966966f-2653-4f4e-9a3b-fdfde088ecde",
+            "name": "Bandai Namco"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "570063fd-bfac-4a72-98c8-205aa30f0ee0",
+            "name": "Square Enix"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "5e9af648-5ed0-45b4-bba6-d0daac364972",
+            "name": "Ubisoft"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "6144d393-632c-428c-a809-ec73b1a29f54",
+            "name": "Valve"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7210c218-eb80-49a7-85c6-68e127377c8e",
+            "name": "Xbox"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "7fece887-bc79-4b00-809c-3d7f29bec761",
+            "name": "Naughty Dog"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "80b0b66e-9d6b-4339-a5ab-de3de7d55411",
+            "name": "Sega"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "821936b0-a807-4f86-8c00-1d8651da3b48",
+            "name": "Riot Games"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "ae5da734-641d-41ee-ba01-3dbc502c0d19",
+            "name": "Rockstar Games"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "c118ae21-df4e-4ebc-a187-59ed2739a659",
+            "name": "PlayStation"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "d8bddfd5-657c-4206-899b-060d40603d4b",
+            "name": "Capcom"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "dce749db-28b5-4107-a244-d8557da76908",
+            "name": "Razer"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "e4246f15-30d1-48bb-9dd8-52afd3c911da",
+            "name": "Take-Two"
+          }
+        },
+        {
+          "brands_id": {
+            "id": "f5665e1f-8bce-4dbf-9bc8-bac66a78175b",
+            "name": "Epic Games"
+          }
+        }
+      ]
+    }
+  ]
+}

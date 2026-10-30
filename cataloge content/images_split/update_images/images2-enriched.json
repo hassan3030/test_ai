@@ -1,0 +1,386 @@
+{
+  "data": [
+    {
+      "id": "1424679a-4244-4061-ba49-c0be95b2ae9c",
+      "image": null,
+      "name": "Puma LQDCELL",
+      "description": "The Puma LQDCELL series is designed for athletes seeking stability and support during their training sessions, featuring a unique cushioning technology that enhances performance and comfort.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Sneakers"
+      },
+      "brand_id": {
+        "name": "Puma"
+      }
+    },
+    {
+      "id": "19d9872f-d5a5-4d10-af3d-eee3dc1919fb",
+      "image": null,
+      "name": "TeraFlex Lift Kits",
+      "description": "TeraFlex Lift Kits are designed to enhance the off-road performance of vehicles by providing increased ground clearance and improved suspension articulation, allowing for better handling on rough terrains.",
+      "release_year": 2018,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "TeraFlex"
+      }
+    },
+    {
+      "id": "1f372949-cd7f-40b5-94a4-8621cfcbc70b",
+      "image": null,
+      "name": "Airaid Synthamax Filters",
+      "description": "Airaid Synthamax Filters are advanced air filtration components designed to improve airflow and engine performance while providing superior filtration efficiency for automotive applications.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "Airaid"
+      }
+    },
+    {
+      "id": "20d9fbd3-ab5a-4db2-9f22-19f68f0efe43",
+      "image": "https://www.seattlecoffeegear.com/cdn/shop/files/BREVILLEBARISTATOUCHESPRESSOMACHINEnew.jpg?v=1759166127",
+      "name": "Breville Barista Touch",
+      "description": "The Breville Barista Touch is an integrated coffee machine that allows users to brew café-quality espresso and create a variety of milk-based drinks at home with ease, featuring a touch screen for customizable settings.",
+      "release_year": 2022,
+      "subcategory_id": {
+        "name": "Coffee Machines"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "24bc4e18-aad6-47d2-af2f-0b610c881fb1",
+      "image": null,
+      "name": "Beats Flex",
+      "description": "Beats Flex are wireless in-ear headphones designed for comfort and convenience, offering a balanced audio experience with a secure fit for everyday use.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Headphones"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "2b18f321-1b0e-445b-b482-225780c8fe29",
+      "image": null,
+      "name": "The Oracle Touch",
+      "description": "The Oracle Touch series by Breville is a fully automatic espresso machine designed to deliver café-quality coffee at home, featuring intuitive touch screen controls and integrated grinding and milk frothing capabilities.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Coffee Machines"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "2b19a882-f7fd-4c95-b837-02939758c885",
+      "image": null,
+      "name": "Vespa GT",
+      "description": "The Vespa GT is a series of scooters designed for urban commuting, known for its distinctive design and agility on city streets.",
+      "release_year": 2003,
+      "subcategory_id": {
+        "name": "Motorcycles"
+      },
+      "brand_id": {
+        "name": "Vespa"
+      }
+    },
+    {
+      "id": "49e8c642-6dd2-4cea-88e0-32f5babc08a1",
+      "image": null,
+      "name": "Razer Kaira",
+      "description": "The Razer Kaira series consists of gaming headsets designed for immersive audio experiences and comfortable extended use, targeting gamers on Xbox and mobile platforms.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Gaming Accessories"
+      },
+      "brand_id": null
+    },
+    {
+      "id": "d3f58248-9b36-4036-b6ea-e1cc8907a7b5",
+      "image": null,
+      "name": "Soft99 Fusso Coat",
+      "description": "Soft99 Fusso Coat is a premium automotive protective coating designed to provide long-lasting durability and shine for vehicle exteriors. Known for its water-repellent properties, this product effectively protects the paint from contaminants and environmental factors.",
+      "release_year": 2009,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Soft99"
+      }
+    },
+    {
+      "id": "d5ed7b5f-1609-4d16-8c8a-f7b2b4a3780c",
+      "image": null,
+      "name": "Fisher-Price Laugh & Learn",
+      "description": "The Fisher-Price Laugh & Learn series consists of interactive toys designed to engage infants and toddlers in play while teaching them essential early learning concepts such as numbers, letters, shapes, and social skills through songs, sounds, and phrases.",
+      "release_year": 2018,
+      "subcategory_id": {
+        "name": "Toys"
+      },
+      "brand_id": {
+        "name": "Fisher-Price"
+      }
+    },
+    {
+      "id": "60198f05-3f88-4fec-8564-2d57a138ad57",
+      "image": null,
+      "name": "Toyota Corolla (E120)",
+      "description": "The Toyota Corolla (E120) is a compact sedan known for its reliability, fuel efficiency, and practicality, making it a popular choice for daily commuting.",
+      "release_year": 2003,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Toyota"
+      }
+    },
+    {
+      "id": "73576c0d-412e-4f7a-aad8-57fdfb584ebe",
+      "image": null,
+      "name": "CarPro CQuartz",
+      "description": "CarPro CQuartz is a series of ceramic coating products designed for automotive surfaces to provide long-lasting protection and enhanced gloss.",
+      "release_year": 2015,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "CarPro"
+      }
+    },
+    {
+      "id": "ec66080a-d99e-494c-afa2-49d88381449d",
+      "image": null,
+      "name": "Zymol Concours Wax",
+      "description": "Zymol Concours Wax is a premium car wax designed to provide a deep, durable shine and protection for high-end vehicles. Formulated using natural ingredients, it enhances color and clarity while offering long-lasting results.",
+      "release_year": 2015,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Zymol"
+      }
+    },
+    {
+      "id": "f1fbdff5-2958-45e6-a660-6ed815ec7886",
+      "image": null,
+      "name": "Jeep Grand Cherokee (WK)",
+      "description": "The Jeep Grand Cherokee (WK) is a mid-size SUV known for its off-road capabilities, spacious interior, and advanced technology features. Launched in 2004, it combines ruggedness with luxury, making it suitable for both adventure and daily driving.",
+      "release_year": 2004,
+      "subcategory_id": {
+        "name": "SUVs"
+      },
+      "brand_id": {
+        "name": "Jeep"
+      }
+    },
+    {
+      "id": "74d64584-6389-4ce1-a5e8-5c3347d1a527",
+      "image": null,
+      "name": "Zymol Carbon Wax",
+      "description": "Zymol Carbon Wax is a premium car wax designed for high-performance vehicle care, providing a durable protective layer that enhances the shine and appearance of the exterior finish.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Zymol"
+      }
+    },
+    {
+      "id": "fbd94c42-e05b-498c-8554-5da0c600a7c5",
+      "image": null,
+      "name": "Power",
+      "description": "The Rockford Fosgate Power series is designed for high-performance car audio systems, offering superior sound quality and powerful amplification capabilities tailored for music enthusiasts.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Car Audio"
+      },
+      "brand_id": {
+        "name": "Rockford Fosgate"
+      }
+    },
+    {
+      "id": "ff8af37b-e566-46b6-90d9-17afa4f5b18a",
+      "image": null,
+      "name": "Toyota Corolla (ninth generation)",
+      "description": "The Toyota Corolla (ninth generation) is a compact car introduced in 2001, known for its reliability, fuel efficiency, and practical design, making it a popular choice for daily commuting.",
+      "release_year": 2001,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Toyota"
+      }
+    },
+    {
+      "id": "99602c28-7476-4db0-aa8b-b243628b9cea",
+      "image": null,
+      "name": "TeraFlex JT/JL Suspension Systems",
+      "description": "The TeraFlex JT/JL Suspension Systems are engineered to enhance off-road performance and provide superior ride quality for Jeep JT Gladiators and JL Wranglers, allowing for increased ground clearance and improved articulation.",
+      "release_year": 2022,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "TeraFlex"
+      }
+    },
+    {
+      "id": "9f7bd2ca-f312-48a6-8ab7-4c6f241ceafb",
+      "image": null,
+      "name": "Zymol Destiny Wax",
+      "description": "Zymol Destiny Wax is a premium car wax designed to provide long-lasting protection and a deep, glossy finish to automotive paint surfaces. Formulated with natural ingredients, it enhances the appearance of the vehicle while safeguarding against environmental elements.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Zymol"
+      }
+    },
+    {
+      "id": "a071f427-48c8-474a-b45e-d06261cfea30",
+      "image": null,
+      "name": "Prime R2",
+      "description": "The Rockford Fosgate Prime R2 series is designed for entry-level car audio enthusiasts, offering reliable performance and enhanced sound quality across various musical genres.",
+      "release_year": 2020,
+      "subcategory_id": {
+        "name": "Car Audio"
+      },
+      "brand_id": {
+        "name": "Rockford Fosgate"
+      }
+    },
+    {
+      "id": "149b9858-c6e7-4682-95d6-0841a14369a1",
+      "image": null,
+      "name": "TeraFlex JK Flexarm Kit",
+      "description": "The TeraFlex JK Flexarm Kit is designed to enhance the suspension geometry and adjustability of Jeep JK models, providing improved articulation, on-road stability, and off-road performance.",
+      "release_year": 2021,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "TeraFlex"
+      }
+    },
+    {
+      "id": "1d82f813-c456-4d77-a27a-07a7f78de065",
+      "image": null,
+      "name": "NanoTouch",
+      "description": "Nanoskin NanoTouch is a series of advanced car care products designed to enhance the cleaning and protective qualities of vehicle surfaces.",
+      "release_year": 2016,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Nanoskin"
+      }
+    },
+    {
+      "id": "33a75241-b63b-44c4-a9d6-2563b6412b2e",
+      "image": null,
+      "name": "Punch",
+      "description": "The Rockford Fosgate Punch series includes a range of car audio products designed to deliver powerful sound and enhance the audio experience in vehicles.",
+      "release_year": 2015,
+      "subcategory_id": {
+        "name": "Car Audio"
+      },
+      "brand_id": {
+        "name": "Rockford Fosgate"
+      }
+    },
+    {
+      "id": "3d692bb4-30d5-4990-9d04-13979f53c2ba",
+      "image": null,
+      "name": "CarPro Essence",
+      "description": "CarPro Essence is a high-performance paint cleaner and glaze designed to enhance the gloss and clarity of automotive paint surfaces while providing a layer of protection.",
+      "release_year": 2017,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "CarPro"
+      }
+    },
+    {
+      "id": "444d192c-a001-4f91-8735-63ca07681448",
+      "image": null,
+      "name": "Nanoskin Autoscrub",
+      "description": "The Nanoskin Autoscrub series consists of specialized detailing tools designed to remove contaminants and provide a smooth finish to automotive surfaces. These products utilize innovative technology to achieve superior cleaning results without harming the surface.",
+      "release_year": 2015,
+      "subcategory_id": {
+        "name": "Detailing Tools"
+      },
+      "brand_id": {
+        "name": "Nanoskin"
+      }
+    },
+    {
+      "id": "509b4ce1-bec6-44eb-a40e-a974d61e6e7e",
+      "image": null,
+      "name": "TeraFlex Suspension Systems",
+      "description": "The TeraFlex Suspension Systems are engineered to enhance off-road performance by improving vehicle stability, ground clearance, and ride quality. Designed specifically for rugged terrains, these systems provide better articulation and control.",
+      "release_year": 2015,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "TeraFlex"
+      }
+    },
+    {
+      "id": "a926d987-75f5-4bab-b62c-4391e185a213",
+      "image": null,
+      "name": "Nanoskin Glide",
+      "description": "Nanoskin Glide is a series of car care products designed to provide an easy, efficient way to clean, polish, and protect vehicle surfaces while enhancing their appearance.",
+      "release_year": 2019,
+      "subcategory_id": {
+        "name": "Car Care Products"
+      },
+      "brand_id": {
+        "name": "Nanoskin"
+      }
+    },
+    {
+      "id": "bf0307fd-69e5-491d-ac53-e00a9f142da0",
+      "image": null,
+      "name": "Toyota Matrix",
+      "description": "The Toyota Matrix is a compact hatchback designed to provide practicality and versatility, catering to individuals seeking a blend of efficiency and utility in their everyday driving experience.",
+      "release_year": 2002,
+      "subcategory_id": {
+        "name": "Cars"
+      },
+      "brand_id": {
+        "name": "Toyota"
+      }
+    },
+    {
+      "id": "d1030be6-85f4-411d-a93f-f9c2dae19137",
+      "image": null,
+      "name": "TeraFlex JL 2.5-inch Lift Kit",
+      "description": "The TeraFlex JL 2.5-inch Lift Kit is designed to enhance off-road performance and provide improved ground clearance for Jeep Wrangler JL models. It features high-quality components for durability and stability.",
+      "release_year": 2023,
+      "subcategory_id": {
+        "name": "Car Parts"
+      },
+      "brand_id": {
+        "name": "TeraFlex"
+      }
+    },
+    {
+      "id": "e0825c37-edbe-4c12-9e10-97d604215e71",
+      "image": null,
+      "name": "Dodge Nitro",
+      "description": "The Dodge Nitro is a midsize SUV released in 2006, known for its rugged exterior design and spacious interior, aimed at offering a balance of style and functionality for urban and outdoor adventures.",
+      "release_year": 2006,
+      "subcategory_id": {
+        "name": "SUVs"
+      },
+      "brand_id": {
+        "name": "Dodge"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "id": "50a20dbf-8558-4d85-8b42-645b10a462bd",
+            "image": null,
+            "name": "Smeg 50s Retro Style Refrigerators",
+            "description": "The Smeg 50s Retro Style Refrigerators combine iconic design inspired by the 1950s with modern refrigeration technology, offering both aesthetic appeal and functionality for food storage.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a5ef016d-976d-4935-a016-ae552c882089",
+            "image": null,
+            "name": "Dreo Air Fryer 7 Quart",
+            "description": "The Dreo Air Fryer 7 Quart is an appliance designed to cook food using hot air circulation, allowing for a healthier way to enjoy fried foods with minimal oil. This air fryer features a spacious 7-quart capacity, making it suitable for families or larger meals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Dreo"
+            }
+        },
+        {
+            "id": "9e8829ec-b224-4b82-b45a-232e6cc93d2f",
+            "image": null,
+            "name": "Cougar Attack X3",
+            "description": "The Cougar Attack X3 is a high-performance mechanical gaming keyboard designed for gamers seeking responsiveness and durability. It features customizable RGB lighting, programmable keys, and a robust build quality to enhance the gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "5e6c8b31-c4ae-45ab-bba1-9a568a962839",
+            "image": null,
+            "name": "Frigidaire 36\" Professional Series Gas Range",
+            "description": "The Frigidaire 36\" Professional Series Gas Range is designed for serious home cooks, offering precision cooking with powerful burners and a range of cooking features that enhance culinary creativity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8f30955e-d185-4def-9632-8dcf6e355d4f",
+            "image": null,
+            "name": "Lexus CT 200h",
+            "description": "The Lexus CT 200h is a premium compact hybrid car launched in 2010, designed to combine efficiency with luxury and driving pleasure.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "a19f1493-3c82-4ea4-b97d-40eb0b9965f5",
+            "image": null,
+            "name": "Serpenti Seduttori",
+            "description": "The Bvlgari Serpenti Seduttori watches embody exquisite craftsmanship and design, featuring a unique serpent motif that symbolizes seduction and elegance, making them a luxurious accessory for any occasion.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Bvlgari"
+            }
+        },
+        {
+            "id": "fe79a601-5a79-4eb3-a908-a27f31782726",
+            "image": null,
+            "name": "Elettra",
+            "description": "The Elettra series by Poliform is a sophisticated collection of sofas designed for modern living spaces, emphasizing comfort and elegant style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "09b30c1d-22d2-4757-a911-0c2b4acfada8",
+            "image": null,
+            "name": "Liquitex Professional Acrylic Ink",
+            "description": "Liquitex Professional Acrylic Ink is a highly fluid, fast-drying acrylic ink designed for use with a range of applications, including brush, dip pen, and airbrush techniques. It offers excellent lightfastness, permanence, and a vibrant range of colors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "d79cc8a3-15c7-4afb-8d34-c161c63e9e2e",
+            "image": null,
+            "name": "Abisko Trekking Series",
+            "description": "The Fjällräven Abisko Trekking Series is designed for lightweight camping and trekking, offering durable and functional gear that supports outdoor adventures in various climates.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "bb675418-e880-4a3e-94fe-0dc492af1fab",
+            "image": null,
+            "name": "Lullaby",
+            "description": "The Poliform Lullaby series features a collection of elegant beds designed to provide comfort and style, ideal for modern bedroom environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "743d5758-15cc-4d13-8454-c3666db405a8",
+            "image": null,
+            "name": "Stokke Scoot",
+            "description": "The Stokke Scoot is a compact stroller designed for urban living, offering excellent maneuverability and comfort for both the child and the parent.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "7ff50f74-1b07-4358-b2f5-517274082b83",
+            "image": null,
+            "name": "Rucksack 65",
+            "description": "The Fjällräven Rucksack 65 is a durable and spacious backpack designed for trekking and outdoor adventures, featuring a classic design and functional storage solutions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "9c3095e7-aa30-4cef-afaa-8e40f30ddd28",
+            "image": null,
+            "name": "Frigidaire Retro Refrigerator",
+            "description": "The Frigidaire Retro Refrigerator series features a vintage-inspired design that provides modern refrigeration solutions. It combines functionality with nostalgic aesthetics, ideal for those looking to enhance their kitchen with a stylish appliance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e1cba6e4-e8bd-40a1-aec2-4a54147722ac",
+            "image": null,
+            "name": "Graco® Breeze Click Connect™ Travel System",
+            "description": "The Graco® Breeze Click Connect™ Travel System is a versatile travel solution designed for parents on the go, featuring a lightweight stroller and an infant car seat that securely connects with one click.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "d7fad5e7-31b4-43ae-a2bb-2aa8e6b88325",
+            "image": null,
+            "name": "Graco® SnugRide® SnugLock™ 35 LX Infant Car Seat",
+            "description": "The Graco® SnugRide® SnugLock™ 35 LX Infant Car Seat is designed to provide a safe and secure travel solution for infants, featuring a simple installation process with its SnugLock technology and excellent safety ratings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "0a0d31e3-d1a3-469c-9bed-4c5fe1d44e7c",
+            "image": null,
+            "name": "Grado Series GH2",
+            "description": "The Grado Series GH2 headphones are a pair of high-fidelity open-back headphones designed to deliver immersive sound quality with a focus on natural tonal balance and detail.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "c4def3c7-0448-4476-bff8-4d7595e139c0",
+            "image": null,
+            "name": "Meguiar's Professional Detailer Line",
+            "description": "The Meguiar's Professional Detailer Line offers a comprehensive range of car care products designed for professional detailers, focusing on cleaning, polishing, and protecting automotive surfaces.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "2c23826b-3a0d-4218-8c7d-6673d80682cb",
+            "image": null,
+            "name": "Frigidaire Gallery Refrigerator",
+            "description": "The Frigidaire Gallery Refrigerator series offers a range of innovative appliances designed to enhance food preservation with features like advanced cooling technology and customizable storage options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0c5ae083-4394-42f6-a3a0-5e6ede44f4df",
+            "image": null,
+            "name": "Lexus GX 460",
+            "description": "The Lexus GX 460 is a luxury midsize SUV known for its off-road capabilities, comfortable ride, and high-quality interior, designed to accommodate both urban and rugged terrain.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "04439ee0-3dfd-40de-8594-09f0e17f0573",
+            "image": null,
+            "name": "Ford Mustang (Fifth Generation)",
+            "description": "The Ford Mustang (Fifth Generation) is a classic American muscle car, known for its distinctive styling and powerful performance, available in various trims and engine options to cater to enthusiasts and everyday drivers alike.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "dbb07ebb-d604-422e-95e2-bc9b06721950",
+            "image": null,
+            "name": "Kanken Re-Kanken",
+            "description": "The Fjällräven Kanken Re-Kanken series features eco-friendly backpacks made from recycled materials, designed to offer functionality and durability for daily use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "cda5db60-e811-452b-862a-6b76257add81",
+            "image": null,
+            "name": "Grado SR60e",
+            "description": "The Grado SR60e is an open-back headphone model designed for home audio listening, featuring a unique design that enhances sound quality and comfort for an immersive listening experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "eb818800-7d4b-49d7-89a3-afb0f15a3953",
+            "image": null,
+            "name": "Ninja 300",
+            "description": "The Kawasaki Ninja 300 is a lightweight sport motorcycle designed for both new and experienced riders, offering a balance of performance and comfort along with an aggressive styling.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "49423a45-5a7b-4d24-9e54-4b180e6cda59",
+            "image": null,
+            "name": "Stokke Clikk",
+            "description": "The Stokke Clikk is a compact and portable stroller designed for safety and comfort, making it easy for parents to transport their children while on the go.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "9b85ffeb-45fb-4af5-892a-318cb6a5b6b8",
+            "image": null,
+            "name": "Frigidaire 12-Cup Programmable Coffee Maker",
+            "description": "The Frigidaire 12-Cup Programmable Coffee Maker is designed to brew up to 12 cups of coffee, featuring programmable settings for convenience and ease of use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d73f9044-0837-44db-a2cf-9b8d54a6f883",
+            "image": null,
+            "name": "Danby Designer",
+            "description": "The Danby Designer series of refrigerators offers compact and efficient cooling solutions ideal for small spaces, featuring modern designs and reliable performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Danby"
+            }
+        },
+        {
+            "id": "d7d78e74-2ecc-4f97-a018-2412ca1d3b55",
+            "image": null,
+            "name": "Embrace",
+            "description": "The Safety 1st Embrace series includes infant car seats designed to provide safety and comfort for newborns and young children while traveling in vehicles. Key features include a lightweight design for easy portability and an adjustable harness system for security.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "aa2b9e8b-87ba-4f8f-b940-baafd6ee7d09",
+            "image": null,
+            "name": "Danby Diplomat",
+            "description": "The Danby Diplomat series of refrigerators is designed for compact living spaces, providing efficient cooling solutions while maximizing storage capacity. These models are ideal for apartments, condos, and smaller homes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Danby"
+            }
+        },
+        {
+            "id": "bb859237-c5aa-401b-9fe4-31c27e1bbe11",
+            "image": null,
+            "name": "Smeg Stand Mixers",
+            "description": "The Smeg Stand Mixers series includes versatile kitchen appliances designed for efficient mixing, blending, and food preparation, combining retro aesthetics with modern functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "222f54c2-e301-4165-ad6a-6ef876e2ca44",
+            "image": null,
+            "name": "Kate Spade New York Spring Collection",
+            "description": "The Kate Spade New York Spring Collection features a range of stylish bags designed to embody fresh, vibrant aesthetics suitable for the spring season.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "data": [
+        {
+            "id": "68c70f66-6502-410e-8be4-c5b9bc85af2a",
+            "image": null,
+            "name": "The World Ends with You: Final Remix",
+            "description": "The World Ends with You: Final Remix is an action role-playing game developed by Square Enix for the Nintendo Switch, enhancing the original game's storytelling and gameplay mechanics while incorporating new features tailored for the platform.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6dcc773e-ee17-4d27-a92e-54dc31210be2",
+            "image": null,
+            "name": "Razer BlackWidow V3",
+            "description": "The Razer BlackWidow V3 is a mechanical gaming keyboard designed for high performance in gaming, featuring customizable RGB lighting and durable construction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "74a2df6c-d840-4cf6-8c6b-d7d6105720f5",
+            "image": null,
+            "name": "Razer BlackWidow V3 Pro",
+            "description": "The Razer BlackWidow V3 Pro is a wireless gaming keyboard designed for immersive gameplay, featuring customizable RGB lighting and mechanical switches for tactile feedback.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "791309a8-5ee9-46ea-9510-e6bb8d29fc36",
+            "image": null,
+            "name": "Razer Huntsman",
+            "description": "The Razer Huntsman series features a range of gaming keyboards designed for high-performance gaming with Razer's innovative optical switch technology, providing faster response times and increased durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "96b7e5f2-34d2-490c-a9dc-ceaea195af33",
+            "image": null,
+            "name": "Razer Kraken V3",
+            "description": "The Razer Kraken V3 is a series of gaming headsets designed for immersive audio experiences, featuring customizable RGB lighting and a comfortable fit for extended gaming sessions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a7be8ade-b216-4acd-b8d7-f76868b14c8f",
+            "image": null,
+            "name": "Razer Phone 2",
+            "description": "The Razer Phone 2 is a high-performance gaming smartphone designed for mobile gaming enthusiasts, featuring enhanced graphics, audio, and a refresh rate that supports a smooth gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "07293b81-27dc-40b7-b1bd-55ef40cd4339",
+            "image": null,
+            "name": "Street Fighter V",
+            "description": "Street Fighter V is a fighting video game developed by Capcom, known for its competitive gameplay and diverse character roster. It serves as the latest installment in the iconic Street Fighter series, focusing on one-on-one combat with strategic depth.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1e0dd519-02ea-44b1-9891-5fec0f65a489",
+            "image": null,
+            "name": "Razer BlackWidow Tournament Chroma V2",
+            "description": "The Razer BlackWidow Tournament Chroma V2 is a compact mechanical gaming keyboard designed for competitive gamers, featuring customizable RGB lighting and high-performance key switches for enhanced responsiveness.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "441b6106-1fe0-4a7c-a6ae-47ad9e02a757",
+            "image": null,
+            "name": "Sega Mega Drive Mini",
+            "description": "The Sega Mega Drive Mini is a compact retro gaming console that emulates the classic Sega Mega Drive experience. It comes pre-loaded with a selection of popular games from the original platform.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5587d066-bc25-4eac-b925-ab6ecc026f44",
+            "image": null,
+            "name": "Razer Huntsman Mini",
+            "description": "The Razer Huntsman Mini is a compact gaming keyboard designed for gamers seeking a portable and efficient typing solution. Featuring Razer's innovative optical switches, it provides fast response times and a tactile feel, making it ideal for both gaming and typing.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5a66a5bf-6c97-4ecd-8c8d-6294d7d2be81",
+            "image": null,
+            "name": "Whirlpool 2-in-1 Washer and Dryer",
+            "description": "The Whirlpool 2-in-1 Washer and Dryer series combines a washing machine and dryer into one appliance, providing efficient and convenient laundry solutions for small spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "aa8bd969-e570-40e3-a39c-1a0077118c6f",
+            "image": null,
+            "name": "Razer Iskur",
+            "description": "The Razer Iskur is a premium gaming chair designed for long-lasting comfort and support during gaming sessions, featuring ergonomic adjustments and high-quality materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ab0bc11d-a81f-495a-a278-c119209341b3",
+            "image": null,
+            "name": "Razer Basilisk Ultimate",
+            "description": "The Razer Basilisk Ultimate is a customizable wireless gaming mouse designed for precision and performance in competitive gaming. It features customizable buttons and RGB lighting, catering to gamers seeking a tailored experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b7ac9a91-9112-4841-a5e4-355bc244a0b4",
+            "image": null,
+            "name": "Razer Blade 15 (2022)",
+            "description": "The Razer Blade 15 (2022) is a high-performance gaming laptop designed for gamers seeking powerful graphics and processing capabilities in a sleek, portable form factor.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bc418235-6a92-491a-a7a3-2885c1522641",
+            "image": null,
+            "name": "Razer Tartarus Pro",
+            "description": "The Razer Tartarus Pro is a customizable gaming keypad designed to enhance gaming performance and provide a competitive edge with its programmable keys and ergonomic design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bf894a39-84d2-43d7-a067-8cac11b8fddf",
+            "image": null,
+            "name": "Dell Latitude 5430 (2023)",
+            "description": "The Dell Latitude 5430 (2023) is a versatile business laptop designed to provide efficient performance and robust security features, catering to the needs of professionals in dynamic work environments.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c836bde7-955b-43a2-a3cc-70eed5297535",
+            "image": null,
+            "name": "Razer Mamba Hyperflux",
+            "description": "The Razer Mamba Hyperflux is a wireless gaming mouse designed for precision and responsiveness, featuring a unique Hyperflux technology that eliminates the need for a battery by drawing power from its compatible mouse pad.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "908f20bd-134b-45b6-888b-af03b236c1b2",
+            "image": null,
+            "name": "GE Microwave Ovens",
+            "description": "The GE Microwave Ovens series is designed for efficient cooking and reheating, combining advanced technology with user-friendly features for everyday convenience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e46c9305-ebf8-4c77-a665-78e4c92304c1",
+            "image": null,
+            "name": "Whirlpool 2-in-1 Oven with Air Fry",
+            "description": "The Whirlpool 2-in-1 Oven with Air Fry is a versatile kitchen appliance that combines the functions of a microwave and an air fryer, allowing users to prepare a variety of meals with convenience and precision.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": {
+                "name": "Whirlpool"
+            }
+        },
+        {
+            "id": "c0b57555-4765-4ff2-9f9c-d105699cba88",
+            "image": null,
+            "name": "HP Dragonfly Pro (2023)",
+            "description": "The HP Dragonfly Pro (2023) is a high-performance laptop designed for professionals, offering advanced features and portability to enhance productivity and collaboration.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "84f9f856-a544-43a1-b611-28609b149941",
+            "image": null,
+            "name": "SD Series",
+            "description": "The Haro Bikes SD Series, released in 2017, consists of high-performance BMX bikes designed for durability and agility, catering to both beginners and advanced riders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "d61181fd-7837-41bc-957b-714fa134b772",
+            "image": null,
+            "name": "Enkei PF03",
+            "description": "The Enkei PF03 is a lightweight performance wheel designed for motorsport applications, offering enhanced handling and stability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "3fbba7ef-bcdd-4021-8294-45ad140ed74d",
+            "image": null,
+            "name": "AORUS RTX 20 Series",
+            "description": "The AORUS RTX 20 Series by Gigabyte includes high-performance graphics cards designed for gaming and creative applications, featuring advanced cooling technology and customizable RGB lighting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "f9957554-548b-419b-91c9-859ff9a2f454",
+            "image": null,
+            "name": "Nest Doorbell (Wired)",
+            "description": "The Google Nest Doorbell (Wired) is a smart home security device designed to provide real-time video monitoring and two-way audio communication at your front door, enhancing home security and convenience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "cb8b123c-17a7-40e9-80f9-5b22ae73276f",
+            "image": null,
+            "name": "Formovie Theater",
+            "description": "Formovie Theater is a series of projectors designed to deliver high-quality home theater experiences, combining advanced projection technology with user-friendly features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "35d770a8-2cb7-4ea9-90aa-b746320439f6",
+            "image": null,
+            "name": "Formovie Laser",
+            "description": "The Formovie Laser series consists of high-performance projectors designed for home cinema experiences, offering advanced laser technology for stunning picture quality and vibrant colors.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "2a61afe3-32f3-470d-9713-0d8763d40714",
+            "image": null,
+            "name": "Formovie FHD Laser Projector",
+            "description": "The Formovie FHD Laser Projector is designed to deliver high-quality, full HD projection for home entertainment, providing vibrant colors and sharp images in a compact form factor.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "afea5a77-64c9-4704-b623-924ff4ce7bc7",
+            "image": null,
+            "name": "Formovie 4K Laser Projector",
+            "description": "The Formovie 4K Laser Projector is designed to deliver high-resolution image quality with advanced laser technology, making it suitable for home theaters and immersive viewing experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Formovie"
+            }
+        },
+        {
+            "id": "1c5db351-6d9a-422c-9cc8-638440a1be2f",
+            "image": null,
+            "name": "Nebula Mars",
+            "description": "The Nebula Mars series includes portable projectors designed for versatile presentation and entertainment needs, featuring powerful audio-visual capabilities in a compact form factor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "f7ae0975-3834-45ed-b770-852862619c57",
+            "image": null,
+            "name": "Nebula Cosmos",
+            "description": "The Nebula Cosmos series consists of portable projectors designed to provide high-quality video projection for home entertainment, offering features such as wireless connectivity and compact design for ease of use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        }
+    ]
+}

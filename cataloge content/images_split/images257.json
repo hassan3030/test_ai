@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "d207124b-8c86-4922-8768-7c9778570610",
+            "image": null,
+            "name": "Aston Martin DBX",
+            "description": "The Aston Martin DBX is a luxury SUV introduced in 2020, designed to combine the performance and elegance characteristic of the Aston Martin brand with the versatility and practicality of an SUV.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "298d6e18-88c2-4eaf-8387-f1f1ec196e96",
+            "image": null,
+            "name": "Aston Martin Vantage (2020 Update)",
+            "description": "The Aston Martin Vantage (2020 Update) is a luxury sports car that combines high-performance engineering with elegant design. It is known for its powerful engine, dynamic driving experience, and distinctive styling.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "ffcbeea1-4736-46bf-b2e4-8e0bcaf0ec7c",
+            "image": null,
+            "name": "Turtle Wax Super Hard Shell",
+            "description": "Turtle Wax Super Hard Shell is a premium car wax designed to provide long-lasting protection and a brilliant shine for automotive finishes. Its advanced formula helps to repel water and contaminants, keeping vehicles looking clean and new.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "0011b331-53a5-4204-b27c-ae2c5520e1f5",
+            "image": null,
+            "name": "Surface Duo",
+            "description": "The Microsoft Surface Duo is a dual-screen smartphone designed for productivity and multitasking, enabling users to run multiple applications simultaneously on two separate displays.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "0017fce5-908b-4151-92ca-3a9bd535a55e",
+            "image": null,
+            "name": "KTM 790 Adventure R",
+            "description": "The KTM 790 Adventure R is an all-terrain motorcycle designed for adventure enthusiasts, offering a powerful engine, premium suspension, and off-road capabilities to tackle various terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "00d6726a-c78c-4b4a-81e4-6ddb8e2dde96",
+            "image": null,
+            "name": "BMW 1 Series (E87/E88)",
+            "description": "The BMW 1 Series (E87/E88) is a compact car series produced by BMW from 2005, known for its rear-wheel drive layout, sporty performance, and luxurious features, targeting urban drivers seeking a premium driving experience.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "028ce859-dc72-4cf6-93e0-c5bd31ece439",
+            "image": null,
+            "name": "Davis",
+            "description": "The Davis series by Gus* Modern features contemporary chairs designed for comfort and versatility, making them suitable for various living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "02b96cdc-fb87-4a9b-8e47-5bc0872f596f",
+            "image": null,
+            "name": "Chevrolet Monte Carlo",
+            "description": "The Chevrolet Monte Carlo is a mid-size coupe that was produced by Chevrolet from 1970 to 2007, known for its sporty design and performance-oriented features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "02c10e44-548a-4882-ada0-cf9336718016",
+            "image": null,
+            "name": "Geely Icon",
+            "description": "The Geely Icon is a compact crossover SUV that blends modern design with advanced technology and safety features, aimed at urban drivers seeking versatility and efficiency.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "02c6ae1d-a055-42a8-b7dc-01ca150c89bc",
+            "image": null,
+            "name": "CarPro Reset",
+            "description": "CarPro Reset is a professional-grade car wash shampoo designed to effectively clean automotive surfaces while being safe for waxed and sealed finishes. Its unique formulation helps remove dirt and grime without stripping protective layers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "02fb3ef8-9bc0-44ac-8c76-c53c7d68b3dc",
+            "image": null,
+            "name": "Gtechniq Crystal Serum Ultra",
+            "description": "Gtechniq Crystal Serum Ultra is a high-performance ceramic coating designed to provide exceptional durability and protection for automotive surfaces. Its advanced formulation offers superior resistance to environmental contaminants and enhances the overall appearance of the vehicle.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "031bbfdc-b5f1-42e2-84dd-26651679cce2",
+            "image": null,
+            "name": "Cooper Discoverer S/T Maxx",
+            "description": "The Cooper Discoverer S/T Maxx is an all-terrain tire designed for off-road performance and on-road stability, providing enhanced durability and traction for SUVs and light trucks.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "0365d61e-7bca-4d4b-bf85-83ea340f6174",
+            "image": null,
+            "name": "Porsche 911 (2023 Model Year)",
+            "description": "The Porsche 911 (2023 Model Year) is a premium sports car known for its iconic design, exceptional performance, and advanced technology, crafted to deliver an engaging driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "03715985-d373-4719-ab47-88b1d9a07ee9",
+            "image": null,
+            "name": "Britax Römer Evolva 123 SL SICT",
+            "description": "The Britax Römer Evolva 123 SL SICT is a versatile child car seat designed to accommodate children from 9 kg to 36 kg, offering a safe and comfortable travel experience with advanced side impact protection and multiple reclining positions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "044fa223-9cb9-4d08-b84d-ab531f26ab28",
+            "image": null,
+            "name": "GE Profile Series Refrigerators",
+            "description": "The GE Profile Series Refrigerators, released in 2016, combine advanced technology with high-efficiency performance, offering innovative features designed to enhance food preservation and ease of use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "05113d52-8b2b-40e2-8b8d-b663f1ad5cc6",
+            "image": null,
+            "name": "Kl18",
+            "description": "The Kumho Tire KL18 is a tire designed to provide a balance of performance and comfort for sedans and crossover vehicles, offering reliable traction in various weather conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "056e9a34-2e22-4253-a54d-29f961ab86a3",
+            "image": null,
+            "name": "Chery Tiggo 8",
+            "description": "The Chery Tiggo 8 is a mid-size SUV that combines modern design with a spacious interior, aimed at providing comfort and versatility for families and individuals seeking adventure.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "50f907df-0aff-4360-8020-3600efe48d53",
+            "image": null,
+            "name": "Rogue Adjustable Bench 3.0",
+            "description": "The Rogue Adjustable Bench 3.0 is a versatile piece of gym equipment designed for various strength training exercises, offering multiple incline positions to accommodate different workout routines.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "494d01d1-3726-4ce2-baa1-3d15dac659a4",
+            "image": null,
+            "name": "Aston Martin V12 Speedster",
+            "description": "The Aston Martin V12 Speedster is a limited edition, open-top sports car that combines performance and luxury, designed for an exhilarating driving experience and bespoke customization.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "921801fb-6769-45a0-9a07-7a56f2e7663c",
+            "image": null,
+            "name": "Aston Martin DBX707",
+            "description": "The Aston Martin DBX707 is a luxury SUV that combines high-performance capabilities with elegant design, tailored for a thrilling driving experience and everyday usability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "efd9f07e-87b2-43f5-9c24-02344d846a37",
+            "image": null,
+            "name": "Turtle Wax Jet Black",
+            "description": "Turtle Wax Jet Black is a series of car care products specifically designed to restore and enhance the appearance of black and dark-colored vehicles, providing a deep, glossy finish while offering protection against environmental elements.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "0024c4f8-6f61-4c57-bae5-87915623f922",
+            "image": null,
+            "name": "SÖDERHAMN",
+            "description": "The SÖDERHAMN series is a modular sofa collection from IKEA that combines contemporary design with comfort, allowing for versatile configurations to fit different living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "00589148-0159-4c3a-a641-d2be951611c4",
+            "image": null,
+            "name": "Nerf N-Strike Elite",
+            "description": "The Nerf N-Strike Elite series includes a range of toy blasters designed for foam dart shooting. Known for their accuracy and distance, these blasters are aimed at providing safe play for children and adults alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "03d8d235-222a-40ea-81d8-b5e1dfd4ce98",
+            "image": null,
+            "name": "Audi A6 e-tron",
+            "description": "The Audi A6 e-tron is an all-electric sedan that combines luxury, performance, and sustainability, designed to cater to modern driving needs with advanced technology and spacious interiors.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "043be886-a479-45e8-9746-7f47e7f65a8b",
+            "image": null,
+            "name": "Acer Nitro 5",
+            "description": "The Acer Nitro 5 is a gaming laptop series designed for gamers seeking performance and versatility, featuring powerful graphics and a cooling system to enhance gaming experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "0453e626-79ba-4095-9910-a7f0918a1942",
+            "image": null,
+            "name": "Arai RX-Q",
+            "description": "The Arai RX-Q is a premium motorcycle helmet designed for comfort and performance. It features advanced aerodynamics and ventilation system for enhanced safety and rider experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "04565e3d-30e7-4581-ae8a-bba09038da6e",
+            "image": null,
+            "name": "iPhone XS Max",
+            "description": "The Apple iPhone XS Max is a premium smartphone released in 2018, known for its large Super Retina display, advanced camera system, and powerful A12 Bionic chip, aimed at providing a high-end user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "045a0e3c-df1a-4420-bd19-0d09d4122e8d",
+            "image": null,
+            "name": "Dueler A/T Revo 3",
+            "description": "The Bridgestone Dueler A/T Revo 3 is an all-terrain tire designed for light trucks and SUVs, providing enhanced traction on both on-road and off-road conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "05c8710d-9e20-43d1-bbd8-755105d500ab",
+            "image": null,
+            "name": "Swift",
+            "description": "The Maruti Suzuki Swift is a compact hatchback that combines stylish design with practicality, aimed at urban commuters seeking efficiency and comfort since its launch in 2005.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "05cd031e-9d2f-4ec6-9824-d24d9deeeb69",
+            "image": null,
+            "name": "Meguiar's Professional Series",
+            "description": "Meguiar's Professional Series offers a range of high-performance car care products designed for automotive detailing and restoration, ensuring quality results for both professionals and enthusiasts.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "2b9cbde0-47a2-466e-a57e-abcc270878b6",
+            "image": null,
+            "name": "Orbea Occam",
+            "description": "The Orbea Occam is a versatile mountain bike designed for both climbing and descending, offering a balance of performance and comfort for trail riders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Orbea"
+            }
+        },
+        {
+            "id": "7c268cfa-3e96-4cb0-9a60-fadd97132a02",
+            "image": null,
+            "name": "Uniqlo Kids 2018 Spring/Summer Collection",
+            "description": "The Uniqlo Kids 2018 Spring/Summer Collection features stylish and comfortable clothing designed for active children, focusing on quality and practicality suitable for warm-weather wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "16117195-3f0f-4ae6-80f1-263961d761bc",
+            "image": null,
+            "name": "Mini Rodini x The Little Mermaid",
+            "description": "The Mini Rodini x The Little Mermaid series offers a whimsical collection of kids' clothing inspired by the beloved Disney story, combining imaginative design with a focus on sustainability and comfort.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "e941ea24-cdd7-4c46-9298-f49a7567f425",
+            "image": null,
+            "name": "OshKosh B’gosh Fall Collection",
+            "description": "The OshKosh B’gosh Fall Collection features a variety of kids' clothing designed for comfort and durability, perfect for the changing weather of the fall season.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "1e6f073b-37d8-4875-b00f-473ba423d131",
+            "image": null,
+            "name": "OshKosh B'gosh 2022 Fall Collection",
+            "description": "The OshKosh B'gosh 2022 Fall Collection features durable and stylish kids clothes designed for comfort and play, embodying the brand's commitment to quality and timeless style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "d41c1512-3bdc-4d4b-8a4c-fb47d19f81f6",
+            "image": null,
+            "name": "OshKosh B’gosh Fall 2023 Collection",
+            "description": "The OshKosh B'gosh Fall 2023 Collection offers a range of stylish and durable kids' clothing designed to withstand the rigors of play while keeping children fashionable.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "f960cc53-6223-4da4-a013-e3d5cd333821",
+            "image": null,
+            "name": "The Bad Guys: Intergalactic Gas",
+            "description": "The Bad Guys: Intergalactic Gas is a children's book that follows a group of quirky characters on their humorous adventures, aimed at engaging young readers with fun storytelling and lively illustrations.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Scholastic"
+            }
+        },
+        {
+            "id": "1e2d62d6-c661-4452-a0c2-34591bf14ba3",
+            "image": null,
+            "name": "Amari and the Night Brothers",
+            "description": "The 'Amari and the Night Brothers' series by Scholastic follows a young girl named Amari as she discovers a magical world filled with adventure and mystery, emphasizing themes of friendship, courage, and self-discovery.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Scholastic"
+            }
+        },
+        {
+            "id": "731f8990-6318-4423-b75f-6d81931b773c",
+            "image": null,
+            "name": "Chevrolet Camaro (5th Generation)",
+            "description": "The Chevrolet Camaro (5th Generation) is a sport coupe known for its aggressive design and powerful performance, aimed at delivering a thrilling driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "652fe810-d8b8-4d93-b644-355df3d1a3d4",
+            "image": null,
+            "name": "Chevrolet Equinox (2nd Generation)",
+            "description": "The Chevrolet Equinox (2nd Generation) is a compact SUV designed to offer a balance of passenger comfort and versatile cargo space, making it suitable for both urban commuting and family travel.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "277dc8b1-d65b-428c-8b9a-e86bdf4ba682",
+            "image": null,
+            "name": "Power Series",
+            "description": "The Power Series by Rockford Fosgate, launched in 2000, is a premium line of car audio products designed to deliver high-performance sound quality and robust power handling for automotive audio systems.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "4585a570-6253-492b-9b87-753799997736",
+            "image": null,
+            "name": "Power T",
+            "description": "The Rockford Fosgate Power T series is a high-performance car audio line known for its powerful amplifiers and subwoofers that deliver exceptional sound quality and clarity.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "b76caa2f-a72d-4df0-a18d-5bc91ab7eb90",
+            "image": null,
+            "name": "Punch P1 Series",
+            "description": "The Rockford Fosgate Punch P1 Series is designed to deliver powerful and high-quality audio performance for car audio systems, featuring subwoofers that provide deep bass response and enhanced sound clarity.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "553ccb9a-e465-4e20-ae6b-e75a8d375bc4",
+            "image": null,
+            "name": "Punch Marine",
+            "description": "The Rockford Fosgate Punch Marine series features high-performance car audio components designed specifically for marine environments, offering exceptional resistance to moisture, corrosion, and UV exposure.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "5d2bf0dd-51e0-44ee-b9cc-6262fc7700aa",
+            "image": null,
+            "name": "PM Series",
+            "description": "The Rockford Fosgate PM Series is designed for marine and powersports applications, delivering high-performance audio solutions resistant to harsh environmental conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "181643c0-b483-41f8-b4f0-00e0ffa32885",
+            "image": null,
+            "name": "K&N Filters for Powersports",
+            "description": "K&N Filters for Powersports is a line of high-performance air and oil filters designed specifically for motorcycles, providing enhanced airflow and engine protection for improved performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "1834c4b8-6975-4b32-8213-e94473c91c54",
+            "image": null,
+            "name": "Louis Vuitton Fall/Winter 2017 Collection",
+            "description": "The Louis Vuitton Fall/Winter 2017 Collection features a range of women's clothing that combines luxury fashion with functional design, reflecting the brand's commitment to craftsmanship and innovation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1898e6c5-99be-493b-a67c-04793960b2ab",
+            "image": null,
+            "name": "Neotec III",
+            "description": "The Shoei Neotec III is a modular motorcycle helmet designed for versatility and comfort. It features advanced aerodynamics, a streamlined design, and a noise-reducing interior for a superior riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "1d08d0e5-5108-49e7-becf-d33adfe08b59",
+            "image": null,
+            "name": "Huawei Mate 9",
+            "description": "The Huawei Mate 9 is a smartphone that focuses on delivering high performance, a dual-camera system, and an extended battery life. It aims to provide a premium user experience with its sleek design and advanced features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "1d099f98-f944-4434-938a-d1265c82bc9f",
+            "image": null,
+            "name": "ROG Phone II",
+            "description": "Asus ROG Phone II is a gaming smartphone designed to deliver high-performance gaming experiences with advanced cooling systems, exceptional battery life, and a range of gaming-specific features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        },
+        {
+            "id": "8fd31ff0-4dcb-4aa9-a7fa-60ee49e1e166",
+            "image": null,
+            "name": "Next Kids Clothing Collection 2023",
+            "description": "The Next Kids Clothing Collection 2023 features a variety of stylish and comfortable apparel designed for children, emphasizing both practicality and playful design. This collection aims to provide parents with quality clothing options that cater to children's needs and preferences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Next"
+            }
+        },
+        {
+            "id": "2ae01f11-1baf-4767-8297-fe205bb97cff",
+            "image": null,
+            "name": "Uniqlo Kids 2016 Collection",
+            "description": "The Uniqlo Kids 2016 Collection features comfortable and stylish clothing designed for young children, emphasizing quality materials and functional designs suitable for everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "8f4f6280-9b2e-49a8-aeac-86b86d61100a",
+            "image": null,
+            "name": "Uniqlo Kids 2018 Fall/Winter Collection",
+            "description": "The Uniqlo Kids 2018 Fall/Winter Collection features a range of comfortable and stylish clothing designed for children, offering warmth and versatility for the colder months.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "00871406-bef5-433d-921f-f96557841ab5",
+            "image": null,
+            "name": "Mini Rodini x SANDQVIST",
+            "description": "The Mini Rodini x SANDQVIST series features functional and stylish children's clothing designed with sustainability in mind, reflecting both brands' commitment to eco-friendly practices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "bdc9bd28-1b74-455d-a8a9-3ccb8e2ad959",
+            "image": null,
+            "name": "Mini Rodini SS16 Collection",
+            "description": "The Mini Rodini SS16 Collection offers stylish and playful clothing for children, crafted from high-quality materials with a focus on sustainability and ethical production.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "1b154a32-fa6e-4e81-a102-fb431877da7e",
+            "image": null,
+            "name": "Mini Rodini x IKEA",
+            "description": "The Mini Rodini x IKEA series is a collaboration that offers stylish and sustainable kids' clothing, designed with a focus on comfort and functionality for everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "4cdbd10c-08a4-4a9a-878d-91e53b36044a",
+            "image": null,
+            "name": "Mini Rodini SS18 Collection",
+            "description": "The Mini Rodini SS18 Collection offers a range of playful and stylish children's clothing, featuring unique designs and sustainable materials that reflect a commitment to environmental consciousness.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "b966888e-de31-49bc-98ad-0fa9d890c50b",
+            "image": null,
+            "name": "Mini Rodini x The Moomins",
+            "description": "The Mini Rodini x The Moomins series is a collaboration that blends the whimsical charm of the Moomin characters with Mini Rodini's contemporary children's fashion, focusing on sustainability and comfort for young wearers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "cee1bd3b-0537-451b-9bda-300cba8569fe",
+            "image": null,
+            "name": "Mini Rodini AW19 Collection",
+            "description": "The Mini Rodini AW19 Collection features a range of stylish and playful kids clothes designed with sustainability in mind, incorporating unique prints and high-quality materials.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        },
+        {
+            "id": "abbb7c9d-8e09-4379-a7f0-a03ce9ab92c1",
+            "image": null,
+            "name": "Mini Rodini Spring/Summer 2020 Collection",
+            "description": "The Mini Rodini Spring/Summer 2020 Collection features playful and sustainable kids' clothing designed for comfort and joy, reflecting the brand’s commitment to eco-friendly materials and whimsical designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Mini Rodini"
+            }
+        }
+    ]
+}

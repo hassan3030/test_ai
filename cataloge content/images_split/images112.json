@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "ceeaf6b1-28d6-4ca9-a2dd-c5628f9689b8",
+            "image": null,
+            "name": "Moto Z Play",
+            "description": "The Motorola Moto Z Play is a smartphone released in 2016 known for its modular design and long battery life, allowing users to attach various Moto Mods for enhanced functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "6ea9596c-5506-4a2a-b965-a7f5a744323f",
+            "image": null,
+            "name": "Moto Z2 Play",
+            "description": "The Moto Z2 Play is a mid-range smartphone designed for versatility and performance, featuring a modular design that allows users to attach various Moto Mods for enhanced functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "390d0299-9130-41bc-9695-d987820962c0",
+            "image": null,
+            "name": "Moto Z2 Force",
+            "description": "The Moto Z2 Force is a flagship smartphone from Motorola released in 2017, featuring a shatterproof display and compatibility with Moto Mods, allowing users to enhance their device's functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "95cf53b4-871c-4e85-a587-12f1af5aa8f5",
+            "image": null,
+            "name": "Moto E4",
+            "description": "The Motorola Moto E4 is an affordable smartphone released in 2017, designed to provide essential features and reliable performance for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "634088f8-4ae1-484a-b852-ec050a70d0d8",
+            "image": null,
+            "name": "Moto E4 Plus",
+            "description": "The Motorola Moto E4 Plus is an affordable smartphone designed to offer essential features such as a large display and a long-lasting battery, targeting budget-conscious consumers who seek reliable performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "ec5fe3b1-3c2f-447f-a329-cec7ef36f4ea",
+            "image": null,
+            "name": "Moto G6 Plus",
+            "description": "The Moto G6 Plus is a smartphone released by Motorola in 2018, designed to offer advanced features and performance at an affordable price, making it a popular choice among mid-range users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "5a440c1d-a223-4d34-9f2d-baa2d4dc13a2",
+            "image": null,
+            "name": "Moto Z3",
+            "description": "The Motorola Moto Z3 is a smartphone known for its modular design, allowing users to enhance functionality through Moto Mods, and features a sleek design with a focus on performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "9e22d4eb-85db-4515-8ff9-2692b0aed167",
+            "image": null,
+            "name": "Motorola Razr",
+            "description": "The Motorola Razr is a foldable smartphone that revitalizes the classic Razr design with modern features, combining a unique form factor with advanced technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "6cf174e7-055b-4e60-9868-558cee1da9fb",
+            "image": null,
+            "name": "Moto G7",
+            "description": "The Moto G7 series encompasses a range of mid-range smartphones known for their balance of performance, display quality, and affordability, aimed at providing essential features for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "776d97bd-3e86-4c9e-ae9e-a9d5eb088dc3",
+            "image": null,
+            "name": "Fitbit Flex 2",
+            "description": "The Fitbit Flex 2 is a slim, customizable fitness tracker designed to monitor daily activity, sleep patterns, and exercise. It is aimed at users who want to track their fitness progress discreetly and efficiently.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "170beff5-2f2f-487d-a389-6b6f0effd76e",
+            "image": null,
+            "name": "Fitbit Ionic",
+            "description": "The Fitbit Ionic is a smartwatch designed primarily for fitness tracking and health monitoring, featuring advanced sensors and various exercise modes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "d3bb9bde-76a3-46f4-afba-f258f15ca18c",
+            "image": null,
+            "name": "Fitbit Charge 3",
+            "description": "Fitbit Charge 3 is a fitness tracker with smart watch capabilities designed to help users monitor their health and fitness, including heart rate, activity levels, and sleep patterns.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "529743d9-af00-4a23-90cf-bec13a6be47b",
+            "image": null,
+            "name": "Fitbit Charge 3 Special Edition",
+            "description": "The Fitbit Charge 3 Special Edition is a versatile smart watch designed for health and fitness tracking, featuring advanced heart rate monitoring and customizable exercise modes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "757738a7-e01c-4f4d-a378-b7ea347d4f3a",
+            "image": null,
+            "name": "Fitbit Sense",
+            "description": "The Fitbit Sense is a smartwatch designed to help users manage their health and wellness through advanced health tracking features, including stress management and heart rate monitoring.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "09044e03-f2b8-4861-b947-3f2698ee9e43",
+            "image": null,
+            "name": "Fitbit Versa 3",
+            "description": "The Fitbit Versa 3 is a smartwatch designed to track health and fitness metrics, featuring GPS, heart rate monitoring, and compatibility with various apps.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "51f50369-cce1-4fc4-bcce-03886da9153f",
+            "image": null,
+            "name": "Fitbit Inspire 2",
+            "description": "The Fitbit Inspire 2 is a versatile health and fitness tracker designed to help users monitor their activity levels, heart rate, sleep patterns, and more, promoting a healthier lifestyle.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "0a62e388-a6fd-4454-947f-d397915e79ff",
+            "image": null,
+            "name": "Fitbit Luxe",
+            "description": "The Fitbit Luxe is a stylish fitness tracker designed to monitor health and wellness, including activity tracking, heart rate, and sleep patterns.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "b5d46c6a-8c8b-4b0e-90b8-5d14c9d440a8",
+            "image": null,
+            "name": "Garmin Forerunner 35",
+            "description": "The Garmin Forerunner 35 is a GPS smartwatch designed for runners, featuring built-in GPS, heart rate monitoring, and activity tracking for daily fitness.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "36f94aa1-f884-4332-9877-11b1d3328158",
+            "image": null,
+            "name": "Garmin Vivoactive 3",
+            "description": "The Garmin Vivoactive 3 is a versatile smartwatch designed for fitness enthusiasts, featuring GPS tracking, heart rate monitoring, and a variety of sport modes, all while offering smartwatch capabilities such as notifications and music control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "57d63564-0f2c-4c0b-ac23-320fe575f84a",
+            "image": null,
+            "name": "Forerunner 245 Music",
+            "description": "The Garmin Forerunner 245 Music is a GPS smartwatch designed for runners, offering advanced metrics, music storage, and smart notifications to enhance training and lifestyle.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "c7d3de92-9e69-40e6-a45c-fa809d27cfea",
+            "image": null,
+            "name": "Nintendo Switch Sports",
+            "description": "Nintendo Switch Sports is a sports video game developed and published by Nintendo, designed for the Nintendo Switch console. It allows players to participate in various sports activities using motion controls and offers both single-player and multiplayer gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e13dfd03-d3ec-43ce-aa53-2fe7ae92af52",
+            "image": null,
+            "name": "Triumph Street Triple",
+            "description": "The Triumph Street Triple is a range of motorcycles known for their lightweight chassis, agile handling, and distinctive styling, primarily designed for urban riding and performance enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "e458825e-5935-4916-9b5d-50e17f47832d",
+            "image": null,
+            "name": "Aprilia Dorsoduro 1200",
+            "description": "The Aprilia Dorsoduro 1200 is a powerful and versatile motorcycle, known for its dynamic performance and agility, suitable for both urban riding and spirited touring.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "ec7fcf7c-ea76-49c6-ae7a-acd697ac0d07",
+            "image": null,
+            "name": "Triumph Tiger 800",
+            "description": "The Triumph Tiger 800 is a versatile adventure motorcycle designed for both on-road and off-road riding, known for its robust build, comfort, and adaptability to various terrains.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "804a59bf-f458-439d-a9e5-f87cf422771b",
+            "image": null,
+            "name": "Aprilia RSV 1000",
+            "description": "The Aprilia RSV 1000 is a high-performance sport motorcycle designed for both track and street use, featuring advanced technology and engineering to enhance speed, handling, and rider experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "81a6bc42-c0d1-4833-81a8-d865d9b6d0e9",
+            "image": null,
+            "name": "Lava K Series",
+            "description": "The Lava K Series is a line of budget-friendly smartphones designed to deliver essential features for daily communication and basic tasks.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "f9e23a82-dc0d-4fe3-adfb-f633b2f7843d",
+            "image": null,
+            "name": "Triumph Bonneville T120",
+            "description": "The Triumph Bonneville T120 is a classic motorcycle inspired by the original Bonneville, combining vintage styling with modern performance and technology. It is designed for riders seeking a stylish and comfortable riding experience on both urban streets and open roads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "84a4dd37-82ac-44d3-b5af-ef4e69913b1e",
+            "image": null,
+            "name": "Aprilia Sportcity 250",
+            "description": "The Aprilia Sportcity 250 is a versatile scooter designed for urban commuting and offers a blend of performance, comfort, and agility, making it suitable for both city and light touring use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "8ccca711-4451-4e1f-bb11-66f2e8549651",
+            "image": null,
+            "name": "Lava Z3",
+            "description": "The Lava Z3 is a budget-friendly smartphone series launched in 2021, designed to offer essential features and functionality for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "fa18c2a1-127c-476a-8150-baa7bd3fa5a3",
+            "image": null,
+            "name": "Aprilia Atlantic 500",
+            "description": "The Aprilia Atlantic 500 is a midsize scooter designed for urban commuting and comfortable touring. It features a powerful engine and a spacious riding position.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        }
+    ]
+}

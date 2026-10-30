@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "22b5d5d6-9f0a-4c0b-ab95-5be02d6c179a",
+            "image": null,
+            "name": "Surface Laptop Go",
+            "description": "The Microsoft Surface Laptop Go is a lightweight and portable laptop designed for everyday use, featuring a 12.4-inch touchscreen and offering a balance between performance and battery life for users on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "241b2921-d5da-4468-8998-59f88070b921",
+            "image": null,
+            "name": "Dell Latitude 9330",
+            "description": "The Dell Latitude 9330 is a business laptop designed for professionals, featuring a compact form factor and advanced productivity tools to enhance collaboration and efficiency in the workplace.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "3c98d6b0-01e8-45a5-b6eb-f362ffeb0380",
+            "image": null,
+            "name": "Dell XPS 13 Plus",
+            "description": "The Dell XPS 13 Plus is a premium ultrabook known for its sleek design, high-resolution display, and powerful performance, aimed at professionals and consumers seeking portability without compromising on functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "512c2de6-eea9-43a7-9a79-adc8ad141d8a",
+            "image": null,
+            "name": "Dell Alienware x15 R2",
+            "description": "The Dell Alienware x15 R2 is a high-performance gaming laptop designed for immersive gaming experiences, featuring advanced graphics and processing capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "5e9aab63-3372-4d04-88cd-3d2483e27954",
+            "image": null,
+            "name": "Dell Inspiron 16",
+            "description": "The Dell Inspiron 16 is a versatile laptop designed for everyday computing needs, offering a balance of performance and portability suitable for students and professionals alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c0b5a747-386d-405a-a1a0-cf956115209d",
+            "image": null,
+            "name": "Surface Go",
+            "description": "The Microsoft Surface Go is a compact and versatile tablet designed for portability and productivity, offering a balance between performance and affordability for everyday tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "c50ac2b6-74a8-4c2e-8a71-3a34438dd490",
+            "image": null,
+            "name": "Dell Alienware x14",
+            "description": "The Dell Alienware x14 is a high-performance gaming laptop designed for immersive gaming experiences and portable use. It combines powerful hardware, advanced thermal management, and a sleek design ideal for gamers on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "d8fa8999-c436-437b-8a0d-3b1f2c399a1d",
+            "image": null,
+            "name": "Lenovo Legion Y530",
+            "description": "The Lenovo Legion Y530 series is a range of gaming laptops designed for performance and portability, featuring a sleek design and powerful hardware suitable for gaming and multimedia tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "dd6afa3e-a182-4288-9531-23e36ac81329",
+            "image": null,
+            "name": "HP Dragonfly Pro",
+            "description": "The HP Dragonfly Pro is a premium series of laptops designed for business professionals, offering a blend of performance, portability, and advanced security features that cater to modern workplace demands.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "e0c5dee8-33ae-4057-a334-c8ba52081bac",
+            "image": null,
+            "name": "Lenovo Chromebook C330",
+            "description": "The Lenovo Chromebook C330 is a versatile laptop designed for productivity and entertainment, featuring a 2-in-1 convertible design and powered by Chrome OS for cloud-based applications.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "e68f8364-7431-4550-a4ec-edb408d7940f",
+            "image": null,
+            "name": "Lumix GH5S",
+            "description": "The Panasonic Lumix GH5S is a mirrorless digital camera designed for professional filmmakers and photographers. It features advanced video capabilities and enhanced low-light performance, making it suitable for high-quality video production.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "5fd9e644-d374-4669-be1e-f853b87f7bb3",
+            "image": null,
+            "name": "ThinkPad X1 Yoga (4th Gen)",
+            "description": "The Lenovo ThinkPad X1 Yoga (4th Gen) is a versatile 2-in-1 laptop designed for business professionals, combining performance with a flexible touchscreen display and a 360-degree hinge for varied usage modes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "6e858965-4720-4e1b-87b7-1f0a08002bab",
+            "image": null,
+            "name": "HP Spectre x2",
+            "description": "The HP Spectre x2 is a detachable 2-in-1 laptop designed for versatility and portability, combining the functionality of a laptop with the convenience of a tablet.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "72abb72c-89d6-41e8-9111-2ab8a79d66cb",
+            "image": null,
+            "name": "HP Spectre x360 15",
+            "description": "The HP Spectre x360 15 is a versatile 2-in-1 laptop that combines stylish design with high performance, making it ideal for both creative professionals and everyday users seeking powerful functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "804c8207-7ba5-430e-8439-e2b8b689b469",
+            "image": null,
+            "name": "Lenovo Tab P11 Plus",
+            "description": "The Lenovo Tab P11 Plus is a versatile tablet designed for both entertainment and productivity, featuring a large display and robust performance to support various applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "840fcefd-1121-40ef-b431-0217345c4ba5",
+            "image": null,
+            "name": "Panasonic Lumix G95",
+            "description": "The Panasonic Lumix G95 is a versatile mirrorless camera designed for both photography and videography, featuring advanced imaging technology and robust build quality for creative expression in various environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "38095c57-c33d-4ca0-a270-47f56484577c",
+            "image": null,
+            "name": "LUMIX G100",
+            "description": "The Panasonic LUMIX G100 is a mirrorless camera designed for content creators, offering features such as 4K video recording and a compact, lightweight design for ease of use in various shooting conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "3c061630-0925-47d8-9943-4c5a4c9627d5",
+            "image": null,
+            "name": "IdeaPad Slim 7i",
+            "description": "The Lenovo IdeaPad Slim 7i is a sleek and lightweight laptop designed for productivity, featuring powerful performance and a premium display for both work and entertainment.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "4f28a507-8e8b-4194-b17b-8301a9cec016",
+            "image": null,
+            "name": "HP Spectre x360 (2018)",
+            "description": "The HP Spectre x360 (2018) is a versatile 2-in-1 laptop designed for professionals and creatives, featuring a sleek design, powerful performance, and a 360-degree hinge for both laptop and tablet modes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "HP"
+            }
+        },
+        {
+            "id": "57bc0972-6dc2-4f2c-882d-0f45b05c69df",
+            "image": null,
+            "name": "Yoga 7i",
+            "description": "The Lenovo Yoga 7i is a versatile 2-in-1 laptop designed for productivity and entertainment, featuring a flexible hinge and robust performance specifications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "8c000e89-1db4-495c-a481-e815d0ed445d",
+            "image": null,
+            "name": "Lumix GH5 II",
+            "description": "The Panasonic Lumix GH5 II is a mirrorless camera designed for both high-quality still photography and professional video recording, featuring advanced video capabilities and a robust build for durability in various shooting conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "8f6951f2-db61-4fe0-b917-44ff7171d8b8",
+            "image": null,
+            "name": "Lenovo ThinkPad T480s",
+            "description": "The Lenovo ThinkPad T480s is a lightweight business laptop designed for professionals, featuring a durable chassis, increased security options, and long battery life for enhanced productivity on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "93a7423d-f50d-411b-b655-45268b1e128c",
+            "image": null,
+            "name": "Porsche 718 Boxster",
+            "description": "The Porsche 718 Boxster is a mid-engine sports car that emphasizes a balance of performance and handling. Launched in 2016, it features a two-seater convertible layout, delivering an engaging driving experience with agile dynamics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "994b837a-c7fe-4db3-a010-2f32927a2ec0",
+            "image": null,
+            "name": "Panasonic 4K Ultra HD Blu-ray Player",
+            "description": "The Panasonic 4K Ultra HD Blu-ray Player allows users to enjoy high-definition video playback and advanced audio formats, making it a suitable choice for home entertainment enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "adcdac30-f2d8-49c3-a703-67ddbd54e4a2",
+            "image": null,
+            "name": "ThinkPad Z Series",
+            "description": "The Lenovo ThinkPad Z Series is a line of premium laptops designed for professionals, blending powerful performance with a sleek, environmentally-friendly design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "b23419aa-d6d1-4440-a0e9-fe50723e7fe2",
+            "image": null,
+            "name": "Lenovo ThinkPad L580",
+            "description": "The Lenovo ThinkPad L580 is a business-class laptop designed for professionals who require a reliable device with robust performance, excellent security features, and comprehensive connectivity options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "b39a9bb6-7996-47db-ac60-71b5f6d80607",
+            "image": null,
+            "name": "Yoga 9i Gen 8",
+            "description": "The Lenovo Yoga 9i Gen 8 is a versatile 2-in-1 laptop designed for professionals and creatives, featuring a premium build and advanced performance capabilities for productivity and entertainment.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "c367a3d4-83c6-4c00-8617-e05417fa70ee",
+            "image": null,
+            "name": "LUMIX S Series",
+            "description": "The Panasonic LUMIX S Series is a line of full-frame mirrorless cameras designed for professional photographers and videographers, offering high image quality, advanced features, and robust build quality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "e70035bb-13f5-4fd9-ab82-bd3ac9ac42dc",
+            "image": null,
+            "name": "Acer Swift 3",
+            "description": "The Acer Swift 3 series is a line of ultra-thin laptops designed for portability, featuring lightweight designs and efficient performance for everyday computing tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "f8e28dec-8cd6-46cd-9661-626706ddb771",
+            "image": null,
+            "name": "VivoBook 14",
+            "description": "The Asus VivoBook 14 series is a range of lightweight laptops designed for everyday computing tasks, offering a blend of performance, portability, and an ergonomic design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Asus"
+            }
+        }
+    ]
+}

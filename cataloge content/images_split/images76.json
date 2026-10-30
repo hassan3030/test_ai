@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "ece50933-b5d5-41db-94f9-d54e70a9161b",
+            "image": null,
+            "name": "K&N 360 Series",
+            "description": "The K&N 360 Series consists of high-performance oil filters designed to improve engine protection and extend oil change intervals. These filters are engineered to provide excellent filtration and flow rates for optimal engine performance.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "ba4b0bf2-14fc-460e-9b29-5d2ce927a941",
+            "image": null,
+            "name": "Toyota RAV4 EV",
+            "description": "The Toyota RAV4 EV is an electric SUV designed for environmentally conscious drivers, offering a blend of utility and zero-emission performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "ab40a624-bc23-4a16-8d94-33d16eb6c89c",
+            "image": null,
+            "name": "Kettal Round",
+            "description": "The Kettal Round series is designed for outdoor furniture with a focus on modern aesthetics and functionality, featuring curvaceous shapes and durable materials suitable for various outdoor settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Kettal"
+            }
+        },
+        {
+            "id": "ab89bc84-19b0-4665-99f9-fb97712e6f1b",
+            "image": null,
+            "name": "Nerf Laser Ops Pro",
+            "description": "The Nerf Laser Ops Pro series offers laser tag blasters that allow players to engage in exciting battles with friends. These blasters feature multiplayer capabilities and a range of personalization options for a dynamic gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "c416267a-9334-45cd-8c7a-d40e1dca2f95",
+            "image": null,
+            "name": "Opel Astra Sports Tourer",
+            "description": "The Opel Astra Sports Tourer is a compact station wagon designed for versatility and practicality, offering ample cargo space and a comfortable ride for families and individuals alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "0498284f-5a74-49be-9966-f0f1d24e6911",
+            "image": null,
+            "name": "Jaguar XKR",
+            "description": "The Jaguar XKR is a luxury sports car that combines performance and elegance, notable for its supercharged V8 engine and stunning design.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0756a0e8-aa23-4301-8aae-32257a574039",
+            "image": null,
+            "name": "K&N Filters for Motorcycles",
+            "description": "K&N Filters for Motorcycles are high-performance air filters designed to increase airflow and improve engine efficiency, offering superior filtration for motorcycle enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "146196c7-309e-45d8-b049-7c03e2384b9f",
+            "image": null,
+            "name": "KTM RC 200",
+            "description": "The KTM RC 200 is a sports motorcycle known for its lightweight design and agile handling, making it well-suited for both street riding and track performance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "25f0d4e8-2309-4489-bfbf-11aefe81ec04",
+            "image": null,
+            "name": "Opel Astra J",
+            "description": "The Opel Astra J is a compact car manufactured by Opel, known for its efficient performance, practicality, and comfort in handling daily driving needs.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "2609ee20-15f3-456b-abbe-a1e87dde1b8c",
+            "image": null,
+            "name": "Volkswagen Beetle (A5)",
+            "description": "The Volkswagen Beetle (A5) is a compact car that combines retro design with modern technology, catering to drivers seeking a distinctive and fun driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "2a065e56-fe94-4920-af1b-6832ca4027e5",
+            "image": null,
+            "name": "Opel Astra K",
+            "description": "The Opel Astra K is a compact car produced by the German automaker Opel, designed for everyday driving with an emphasis on efficiency, comfort, and advanced technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "4406d1f9-7f97-48a2-b92c-3b90b5aa4923",
+            "image": null,
+            "name": "KTM 390 Duke",
+            "description": "The KTM 390 Duke is a lightweight motorcycle designed for urban commuting and spirited riding. It combines performance, agility, and modern styling, making it a popular choice among riders seeking a versatile and dynamic bike.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "51661532-ef42-4b83-93cc-8e7aaec3b5ca",
+            "image": null,
+            "name": "C3 Picasso",
+            "description": "The Citroën C3 Picasso is a compact MPV designed to offer a spacious interior and versatile seating arrangements, aimed at families seeking practicality and comfort in urban environments.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "c46b1fb7-517e-4249-90a5-c509617b104c",
+            "image": null,
+            "name": "Model S Plaid",
+            "description": "The Tesla Model S Plaid is a high-performance electric sedan known for its remarkable acceleration, cutting-edge technology, and long electric range.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c64444ae-a526-4e6c-af51-748dbe1808b9",
+            "image": null,
+            "name": "Hero Maestro Edge 125",
+            "description": "The Hero Maestro Edge 125 is a stylish and efficient scooter designed for urban commuting, known for its practicality, performance, and advanced features.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "e0944837-7d1d-4be9-8cb2-13fa795d6009",
+            "image": null,
+            "name": "Jeep Cherokee (KJ)",
+            "description": "The Jeep Cherokee (KJ) is a compact SUV known for its rugged off-road capability and versatile interior space, designed to handle a variety of driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "e9aee95c-015e-4bb7-b388-a78999ab88fe",
+            "image": null,
+            "name": "Jeep Patriot",
+            "description": "The Jeep Patriot is a compact SUV that combines off-road capability with everyday practicality, making it suitable for both city and outdoor driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "6511c7cb-fdf8-4cb1-9173-a1e2fc8f1e46",
+            "image": null,
+            "name": "Jeep Wrangler",
+            "description": "The Jeep Wrangler is a compact and mid-size SUV known for its off-road capability and rugged design, aimed at outdoor enthusiasts seeking adventure and versatility.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "6c80967b-15f1-4a5f-9344-55708edb3084",
+            "image": null,
+            "name": "Jeep Wrangler (JK)",
+            "description": "The Jeep Wrangler (JK) is a compact SUV known for its rugged design and off-road capability, making it a popular choice for adventure enthusiasts since its release in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "72ba3670-5e71-4ecd-84cd-9fd80eeaad77",
+            "image": null,
+            "name": "Jeep Wrangler (TJ)",
+            "description": "The Jeep Wrangler (TJ) is a compact SUV known for its rugged design and off-road capabilities, making it ideal for adventurous driving in varied terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "f0430d8a-a955-48e3-8e62-9895cf97a66c",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Intake",
+            "description": "The K&N 77 Series High-Flow Intake is designed to replace the factory air intake system with a high-performance intake that enhances airflow and improves engine performance.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "a522cf43-6410-4d30-bb92-97f429273114",
+            "image": null,
+            "name": "Bajaj XCD 135",
+            "description": "The Bajaj XCD 135 is a motorcycle aimed at delivering a blend of performance and efficiency, designed for urban commuting and everyday use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "f9b29f36-a94b-4020-8427-658fcb6a7126",
+            "image": null,
+            "name": "Dawlance 9175 WB",
+            "description": "The Dawlance 9175 WB is a refrigerator model designed to provide efficient cooling and storage solutions for food and beverages while ensuring energy savings and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "7639aa07-3bc6-430b-9ac5-56969dd13176",
+            "image": null,
+            "name": "Jeep Liberty",
+            "description": "The Jeep Liberty is a compact SUV designed for off-road capability and everyday versatility, offering a balance of comfort and performance for various driving conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "7b2cefff-7b24-4be8-89d7-e5e476208f5a",
+            "image": null,
+            "name": "K&N 63 Series AirCharger Performance Intake Systems",
+            "description": "The K&N 63 Series AirCharger Performance Intake Systems are designed to enhance engine performance by increasing airflow, providing an improved throttle response and horsepower. These systems replace the factory air intake system with a high-flow design, which is washable and reusable.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "8744a52d-5902-4358-9462-4a16b6fc6a3d",
+            "image": null,
+            "name": "K&N Cabin Air Filters",
+            "description": "K&N Cabin Air Filters are designed to improve the air quality inside your vehicle by trapping dirt, dust, pollen, and other airborne particles. They help maintain a clean cabin environment for a more comfortable driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "9b6dc33a-e6fd-4aee-a41b-84ef38fea6fb",
+            "image": null,
+            "name": "Jeep Patriot (MK)",
+            "description": "The Jeep Patriot (MK) is a compact SUV known for its rugged capability and practical design, aimed at outdoor enthusiasts and those needing versatile urban transportation.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "2f987e5d-0a98-48de-957d-e9ade0d3f7ad",
+            "image": null,
+            "name": "Jeep Liberty (KK)",
+            "description": "The Jeep Liberty (KK) is a compact SUV known for its off-road capability and robust design, making it ideal for both urban driving and rugged outdoor adventures.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "44e33fec-5be2-495d-9ff3-088460465ac2",
+            "image": null,
+            "name": "K&N Performance Gold Oil Filters",
+            "description": "The K&N Performance Gold Oil Filters are designed to provide superior filtration and engine protection for high-performance vehicles. They feature a heavy-duty construction and are engineered for enhanced oil flow and filtration efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "586dbd69-61b6-4db8-b54c-179cfe3adbfb",
+            "image": null,
+            "name": "Jeep Liberty (KJ)",
+            "description": "The Jeep Liberty (KJ) is a compact SUV produced by Jeep from 2003 to 2012. It is designed for both on-road comfort and off-road capability, making it suitable for a variety of driving conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        }
+    ]
+}

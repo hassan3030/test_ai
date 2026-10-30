@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "3b274380-aafb-4cb3-aa50-0d88db72af57",
+            "image": null,
+            "name": "Turtle Wax Scrub Free",
+            "description": "Turtle Wax Scrub Free is a series of car care products designed to clean and maintain vehicle surfaces without the need for scrubbing, making the cleaning process easier and more efficient.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "dff2d62f-8ec2-4ee0-b043-87654b400563",
+            "image": null,
+            "name": "Google Pixel Slate",
+            "description": "The Google Pixel Slate is a versatile tablet designed for productivity and entertainment, featuring a sleek design and a lightweight Chrome OS for seamless multitasking.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "d62e6e24-f0e8-4af8-af30-7d17c0d30fb9",
+            "image": null,
+            "name": "Globe G2",
+            "description": "The Globe G2 series features durable skateboards designed for both beginners and experienced skaters, emphasizing stability and performance for various skating styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "aba6db68-2ef7-4f60-ad56-482f7e1d576d",
+            "image": null,
+            "name": "Mothers Black Foam Applicator Pads",
+            "description": "Mothers Black Foam Applicator Pads are designed for applying polishes, waxes, and sealants onto vehicle surfaces, ensuring an even and controlled application for optimal results.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "04652d5a-acff-4b11-9ffb-04bb5173ccb7",
+            "image": null,
+            "name": "Mothers Polishing and Waxing Products",
+            "description": "Mothers Polishing and Waxing Products are a series of car care products designed to restore and protect automotive finishes, delivering a high-gloss shine while enhancing paint depth.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "d2ab060f-0bff-4370-86e1-258541d92f15",
+            "image": null,
+            "name": "FurReal Friends 2018",
+            "description": "FurReal Friends 2018 is a series of interactive plush toys that respond to touch and voice, encouraging imaginative play and nurturing skills in children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "1ce3d872-755e-4e3b-aa3c-26fab14758c2",
+            "image": null,
+            "name": "Globe Crux",
+            "description": "The Globe Crux series is designed for street and park skating, featuring durable construction and a focus on performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "34ca237c-9950-4a54-949b-ff09ab30aa2f",
+            "image": null,
+            "name": "Zymol Original Wax",
+            "description": "Zymol Original Wax is a premium car care product designed to enhance and protect the paint finish of vehicles, offering a deep, glossy shine that lasts.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "54b94a8c-1299-4365-aa62-b29b19b05aa9",
+            "image": null,
+            "name": "Nokia 8110 4G",
+            "description": "The Nokia 8110 4G is a feature phone designed to provide essential calling and messaging capabilities with modern connectivity options, including 4G support and Wi-Fi. Its retro design pays homage to the original Nokia 8110 while integrating contemporary features for ease of use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "a8d184f3-c852-43c9-8c72-35e17e5e7a96",
+            "image": null,
+            "name": "FurReal Friends Cubby, The Curious Bear",
+            "description": "FurReal Friends Cubby, The Curious Bear is an interactive plush toy known for its lifelike movements and sounds, designed to engage and entertain young children through imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "1bea543f-6918-426f-bebb-4f9fbc023456",
+            "image": null,
+            "name": "LEGO 42100 Technic Liebherr R 9800 Excavator",
+            "description": "The LEGO 42100 Technic Liebherr R 9800 Excavator is a detailed construction model designed for advanced builders, featuring motorized functions and realistic movements that replicate the operations of a real excavator.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "7c2e9858-7512-496b-a3a7-52db425f10db",
+            "image": null,
+            "name": "Zymol Creame Wax",
+            "description": "Zymol Creame Wax is a premium car care product designed to provide exceptional shine and protection to automotive paint finishes, utilizing natural ingredients to enhance and preserve the beauty of vehicles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "e52800ac-131b-407f-a132-1a3193ee7669",
+            "image": null,
+            "name": "Peugeot 508 II",
+            "description": "The Peugeot 508 II is a mid-size sedan designed to offer a blend of comfort, style, and advanced technology, catering to both family and business use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "d7ee5c13-6c81-4b47-8697-e5fb2886e10d",
+            "image": null,
+            "name": "Häcker Küchen CRAFT",
+            "description": "The Häcker Küchen CRAFT series features a selection of stylish and functional tables designed for contemporary kitchens, emphasizing durability and modern aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": {
+                "name": "Häcker Küchen"
+            }
+        },
+        {
+            "id": "dbdc428e-a8b4-407d-9e24-777779fcfb18",
+            "image": null,
+            "name": "Rogue Fitness Monster Lite Series",
+            "description": "The Rogue Fitness Monster Lite Series offers a line of durable and versatile gym equipment designed for home and commercial use, catering to a variety of strength training exercises.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "0c8ef57a-f208-4fcc-985d-02ec543a90d7",
+            "image": null,
+            "name": "Hybrid Solutions",
+            "description": "Turtle Wax Hybrid Solutions is a series of car care products that combines advanced technology with ease of use, designed to provide superior protection and performance for automotive surfaces.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "16516f80-1413-4836-8160-551e58522aeb",
+            "image": null,
+            "name": "Bissell MultiReach Essential",
+            "description": "The Bissell MultiReach Essential is a versatile vacuum cleaner designed for quick and efficient cleaning of multiple surfaces, featuring a lightweight design and powerful suction capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "904395e1-1686-48ee-a923-57a9c07b217e",
+            "image": null,
+            "name": "Magnetibook",
+            "description": "Janod Magnetibook is an innovative educational toy designed to promote creativity and fine motor skills through magnet-powered play. The series features customizable magnetic books that allow children to create and rearrange various characters and scenes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Janod"
+            }
+        },
+        {
+            "id": "ddc68db3-392b-44db-82c1-75dc76f4bb8a",
+            "image": null,
+            "name": "Aprilia Shiver 900",
+            "description": "The Aprilia Shiver 900 is a versatile naked motorcycle designed for urban commuting and spirited riding, featuring a robust 900cc V-twin engine and a lightweight chassis for agile handling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "3b3e69ee-3fb5-4300-8c06-1acef7ff8542",
+            "image": null,
+            "name": "Moulinex PerfectMix",
+            "description": "The Moulinex PerfectMix series consists of high-performance blenders designed to deliver smooth and consistent results for a variety of ingredients, making it ideal for smoothies, soups, and sauces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "d25c0424-e89c-45b1-8b72-5ec46661aba9",
+            "image": null,
+            "name": "Rogue Adjustable Bench 2.0",
+            "description": "The Rogue Adjustable Bench 2.0 is a versatile piece of gym equipment designed for weight training and strength training exercises. It features multiple adjustment angles, providing users with various options for enhancing their workouts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "eddab86f-d7e1-4791-8457-9c3eeff0547b",
+            "image": null,
+            "name": "Google Pixel XL",
+            "description": "The Google Pixel XL is a smartphone known for its high-quality camera and integration with Google services, providing a seamless experience for users seeking a reliable and user-friendly device.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "20fca966-6ab7-425e-9a97-574b7c9e0ae0",
+            "image": null,
+            "name": "LEGO Star Wars: Rogue One",
+            "description": "The LEGO Star Wars: Rogue One series features building sets based on the 2016 film 'Rogue One: A Star Wars Story.' These sets allow fans to recreate iconic scenes and characters from the movie using LEGO bricks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "3a589de0-3962-4864-ae63-36b68db90328",
+            "image": null,
+            "name": "e-Expert",
+            "description": "The Peugeot e-Expert is an all-electric van designed for urban mobility and commercial use, offering zero-emission transportation with efficient load capacity and versatile cargo options.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "5aea6aa5-7703-4165-81cf-7a85c7bbb4a3",
+            "image": null,
+            "name": "LEGO Architecture - Las Vegas",
+            "description": "LEGO Architecture - Las Vegas is a construction set that allows builders to recreate the iconic skyline and landmarks of Las Vegas, showcasing the city's architectural diversity and vibrant culture.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "e7bda19f-b45d-4493-8aeb-674ba4a01948",
+            "image": null,
+            "name": "FurReal Friends Happy Paws Little Puppy",
+            "description": "FurReal Friends Happy Paws Little Puppy is an interactive plush toy that provides children with a lifelike pet experience, allowing them to engage in imaginative play and nurturing activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "4d2a4067-84b8-4bbc-a18c-f25cd02d2102",
+            "image": null,
+            "name": "Cuddle & Play",
+            "description": "The Taf Toys Cuddle & Play series offers a range of soft and engaging toys designed to stimulate infants' sensory development and provide comfort during playtime.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Taf Toys"
+            }
+        },
+        {
+            "id": "e681229a-d216-4ead-81fb-1a6b851a9f27",
+            "image": null,
+            "name": "Mothers Speed",
+            "description": "Mothers Speed is a series of car care products designed to provide quick, effective solutions for cleaning, polishing, and protecting vehicles. Known for its ease of use and high-quality results, this series is ideal for car enthusiasts looking for efficient maintenance options.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "a0beb48a-0aec-4684-8f09-ebb32f3cbe04",
+            "image": null,
+            "name": "Noppies Spring/Summer 2018 Collection",
+            "description": "The Noppies Spring/Summer 2018 Collection features a range of stylish and comfortable children's clothing designed to keep kids looking good while enjoying the warmth of the seasons.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Noppies"
+            }
+        },
+        {
+            "id": "b2324fa9-38d3-49aa-8a69-974476295e5d",
+            "image": null,
+            "name": "Turtle Wax Ceramic Spray Coating",
+            "description": "Turtle Wax Ceramic Spray Coating is a car care product designed to provide advanced protection and durability for vehicle surfaces, utilizing ceramic technology to enhance shine and repel contaminants.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        }
+    ]
+}

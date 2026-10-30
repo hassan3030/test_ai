@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e7d9af72-2123-43c3-9a7c-deb56683fb0f",
+            "image": null,
+            "name": "Bianchi Infinito CV",
+            "description": "The Bianchi Infinito CV is a high-performance road bike designed for endurance and versatility on various terrains, featuring innovative Countervail technology that reduces vibrations and enhances comfort during long rides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "d4e71af4-b380-4210-b8a1-40384514ab55",
+            "image": null,
+            "name": "Shinko 804/805 Adventure Trail Series",
+            "description": "The Shinko 804/805 Adventure Trail Series is designed for dual-sport motorcycles, providing a balanced performance on both on-road and off-road terrains, emphasizing stability and traction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "38b38a7c-e19e-4d64-b275-cc5d4119a67d",
+            "image": null,
+            "name": "Bianchi Camaleonte",
+            "description": "The Bianchi Camaleonte is a versatile bike series designed for both urban commuting and recreational riding, featuring a blend of style and functionality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "d341f73c-2e44-4609-94c4-827b030c825c",
+            "image": null,
+            "name": "Bianchi E-Omnia",
+            "description": "The Bianchi E-Omnia series consists of electric bicycles designed for urban commuting and recreational riding, featuring a blend of traditional Bianchi craftsmanship and modern e-bike technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "35c91b27-aee4-4adc-94b9-c58c1eca7036",
+            "image": null,
+            "name": "Shinko 255",
+            "description": "The Shinko 255 series tires are designed for performance and durability, providing excellent traction and handling in various conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0459cbbf-74b6-4df4-b89e-058b6aaa2999",
+            "image": null,
+            "name": "Vignale",
+            "description": "The Bianchi Vignale is a series of bicycles designed for urban commuting and leisurely rides, known for its blend of performance, comfort, and elegant design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "98a188ad-b516-4e85-ad39-dc7b1820dcd3",
+            "image": null,
+            "name": "Shinko 702 Series",
+            "description": "The Shinko 702 Series tires are designed for both on-road and off-road performance, offering versatility for touring and adventure motorcyclists seeking durable and reliable grip in various conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "0db5014f-34ad-4e72-a5ab-5e08752408e8",
+            "image": null,
+            "name": "LG Artificial Intelligence Washing Machine",
+            "description": "The LG Artificial Intelligence Washing Machine series features advanced washing technologies that utilize AI to optimize washing cycles for different fabric types, ensuring effective cleaning while conserving energy and water.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "b09df5ab-50ef-4e23-9a6c-90f1a0c1ff10",
+            "image": null,
+            "name": "Ecsta PA51",
+            "description": "The Kumho Tire Ecsta PA51 is a high-performance tire designed for sports cars and performance-oriented vehicles, offering enhanced grip and handling in various road conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "2739814e-6f1f-45d1-ad3d-5f24a7d18062",
+            "image": null,
+            "name": "PRIME Series",
+            "description": "The Pioneer PRIME Series is designed to deliver high-quality sound performance in car audio systems, featuring advanced technology and robust construction for lasting durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "0e22189f-3c22-4270-ab2a-ca6e881323e2",
+            "image": null,
+            "name": "Shinko 006 Podium",
+            "description": "The Shinko 006 Podium is a high-performance tire designed for sport motorcycles, providing excellent grip and stability on both paved and unpaved surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "1a775825-0856-4223-ba3c-e81a1162c0b5",
+            "image": null,
+            "name": "Bianchi Sempre Pro",
+            "description": "The Bianchi Sempre Pro is a high-performance road bike designed for competitive cyclists, featuring a lightweight frame and advanced aerodynamics for optimal speed and efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "49438f19-cd7c-495e-a80f-09a5c1a7941e",
+            "image": null,
+            "name": "Kumho Solus TA11",
+            "description": "The Kumho Solus TA11 is a touring all-season tire designed to provide a balance of performance, longevity, and comfort for everyday driving conditions.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "1014355d-fa9e-4767-8f5a-cc15285151bc",
+            "image": null,
+            "name": "Shinko 427",
+            "description": "The Shinko 427 is a tire series designed for performance and durability, specifically catering to motorcycle enthusiasts seeking enhanced traction and stability in various riding conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "fbf94b4b-f7fe-4d02-a32f-fa39be504b05",
+            "image": null,
+            "name": "Ecsta PS31",
+            "description": "The Kumho Tire Ecsta PS31 is a high-performance tire designed for sporty driving, providing excellent grip and handling in both wet and dry conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "0a15a275-e34c-47db-8516-a5b5914c3993",
+            "image": null,
+            "name": "Road Venture AT51",
+            "description": "The Kumho Tire Road Venture AT51 is an all-terrain tire designed for light trucks and SUVs, offering a balance of performance on and off the road with enhanced traction and durability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "75ffbe5b-de89-4900-bc12-6c30d7b67c54",
+            "image": null,
+            "name": "LG G8 ThinQ",
+            "description": "The LG G8 ThinQ is a smartphone designed for advanced multimedia and AI features, offering a premium experience with its innovative technologies.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "c5b663ea-4ae1-4324-865a-45fb4f5f123b",
+            "image": null,
+            "name": "Solus TA31",
+            "description": "The Kumho Tire Solus TA31 is a tire designed for all-season performance, offering a balance of comfort and traction for sedans and coupes. It features a tread pattern that enhances handling and stability, making it suitable for various driving conditions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "987fbac0-cfa4-4506-9864-9c62ba9fa662",
+            "image": null,
+            "name": "Road Venturer",
+            "description": "Kumho Tire's Road Venturer series is designed to provide all-terrain traction and durability for SUVs and trucks, enhancing performance in various driving conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "3c8e2f84-cb76-4737-9bfc-fdfeb109e0e5",
+            "image": null,
+            "name": "Mountain Light",
+            "description": "The Mountainsmith Mountain Light series offers premium camping gear designed for lightweight and efficient outdoor adventures, focusing on durability and performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Mountainsmith"
+            }
+        },
+        {
+            "id": "40948673-da66-4f75-ae24-f99ef5de917c",
+            "image": null,
+            "name": "Zero S ZF6.5",
+            "description": "The Zero S ZF6.5 is an electric motorcycle designed for urban commuting and versatile performance, featuring a lightweight frame and advanced battery technology for efficient energy use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "f23e4f87-7c02-4981-a027-35acba38dba3",
+            "image": null,
+            "name": "SR/F",
+            "description": "The Zero Motorcycles SR/F is an electric motorcycle known for its high performance and advanced technology, designed for urban commuting and spirited riding.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "27c5eb3c-e6ab-431e-a801-7a8dca75815d",
+            "image": null,
+            "name": "TD-50 Series",
+            "description": "The TD-50 Series from Roland is a premium electronic drum kit designed for professional musicians, featuring advanced sounds and customizable options tailored for live performance and studio recording.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "cf874e83-6dde-4aba-a1fa-5d09eb0a3103",
+            "image": null,
+            "name": "Hammond XK-5",
+            "description": "The Hammond XK-5 is a portable organ designed for musicians seeking the iconic sound of vintage Hammond organs in a modern, lightweight format. It features a range of drawbar settings and digital effects, making it versatile for live performances and studio use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Hammond"
+            }
+        },
+        {
+            "id": "64745e91-b088-4d76-b024-bbcdca7e4ca6",
+            "image": null,
+            "name": "Crugen Premium KL33",
+            "description": "The Kumho Tire Crugen Premium KL33 is designed for crossovers and SUVs, offering a balance of comfort, handling, and all-season traction for reliable performance in various driving conditions.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "088eec74-5be8-4d5a-8ae8-1427359a2594",
+            "image": null,
+            "name": "Crugen HP71",
+            "description": "The Kumho Tire Crugen HP71 is a high-performance all-season tire designed for SUVs and crossover vehicles, offering enhanced handling and durability in various driving conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "b2285619-4ebb-4601-88e4-a30baa7a2407",
+            "image": null,
+            "name": "LG Stylo 5",
+            "description": "The LG Stylo 5 is a smartphone released in 2019, known for its large display and built-in stylus functionality, aimed at users seeking a versatile device for both productivity and entertainment.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "8ed820a7-7508-45cc-925a-ea264c960677",
+            "image": null,
+            "name": "Kumho Crugen Premium KL33",
+            "description": "The Kumho Crugen Premium KL33 is an all-season tire designed for SUVs and crossover vehicles, providing a balance of performance, comfort, and durability tailored for a variety of driving conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "dac6c8d9-7703-4b98-84d1-6d51abeaf16b",
+            "image": null,
+            "name": "Zero S ZF9",
+            "description": "The Zero S ZF9 is an electric motorcycle designed for urban commuting, combining performance with environmental sustainability.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "aac112e1-1dfb-4d79-9451-238b0995dcc0",
+            "image": null,
+            "name": "Kumho Ecsta PS71",
+            "description": "The Kumho Ecsta PS71 is a high-performance tire designed for sports cars and high-performance vehicles, offering enhanced grip, stability, and cornering capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        }
+    ]
+}

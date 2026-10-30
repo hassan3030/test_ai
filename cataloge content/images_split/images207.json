@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "de732ad7-b241-44f6-925f-e3dc1cdd0f18",
+            "image": null,
+            "name": "Zymol Estate Car Wax",
+            "description": "Zymol Estate Car Wax is a premium car care product designed to provide a high-gloss finish and protection for automotive paintwork. Its formulation includes natural waxes that aim to enhance the appearance and longevity of the paint surface.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "c4453c74-29b5-4164-919b-b9b4956a44be",
+            "image": null,
+            "name": "Zymol Concours Car Wax",
+            "description": "Zymol Concours Car Wax is a premium car care product designed to provide a high-gloss finish and protection to vehicle paintwork. Made from natural ingredients, it enhances the appearance of your car while offering UV protection.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "d8f811fb-8657-48c3-885b-85205495adbe",
+            "image": null,
+            "name": "Zymol Titanium Car Wax",
+            "description": "Zymol Titanium Car Wax is a premium car care product designed to provide a high level of protection and shine for automotive finishes. The wax combines natural carnauba wax with advanced synthetic ingredients to enhance gloss and longevity.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "80faa384-769b-4c97-a9d0-b76e43c26423",
+            "image": null,
+            "name": "Zymol Destiny",
+            "description": "Zymol Destiny is a premium car care product series designed to provide superior protection and enhancement for automotive surfaces, utilizing high-quality natural ingredients for effective cleaning and polishing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "27cfe10f-e8c8-4d38-9f67-485d28dea1a1",
+            "image": null,
+            "name": "Mothers CMX",
+            "description": "The Mothers CMX series includes a range of car care products designed to provide protection and enhance the appearance of any vehicle. Key features include advanced formulations for cleaning, polishing, and conditioning surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "2ef0514b-4d5e-4dc0-8de2-81b7efe6486e",
+            "image": null,
+            "name": "Eames Lounge Chair with Ottoman (2020 Edition)",
+            "description": "The Eames Lounge Chair with Ottoman (2020 Edition) is a modern classic designed by Charles and Ray Eames, known for its sophisticated design, comfort, and high-quality materials, making it suitable for both relaxation and stylish interior decor.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7af371c7-595d-43e8-afd5-8504d1c0698a",
+            "image": null,
+            "name": "Uniqlo Kids Summer Collection",
+            "description": "The Uniqlo Kids Summer Collection from 2017 features a range of comfortable and stylish clothing designed for children's active summer lifestyles, emphasizing breathable materials and playful designs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "67987faa-1a9f-46af-ba9c-171a0b09fc46",
+            "image": null,
+            "name": "Uniqlo x KAWS Kids Collection",
+            "description": "The Uniqlo x KAWS Kids Collection is a collaboration between Uniqlo and the artist KAWS, featuring playful and colorful apparel designed for children, aimed at promoting creativity and artistic expression through clothing.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "e801804f-f9a7-4a53-8407-74e712704a26",
+            "image": null,
+            "name": "Uniqlo Kids SS18 Collection",
+            "description": "The Uniqlo Kids SS18 Collection offers a range of stylish, comfortable, and functional clothing designed for children's active lifestyles, featuring vibrant colors and playful patterns.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "37a1f040-9950-499c-b2a6-87713b78901f",
+            "image": null,
+            "name": "Uniqlo Kids FW18 Collection",
+            "description": "The Uniqlo Kids FW18 Collection features a range of stylish and comfortable clothing designed for children, emphasizing quality, durability, and playful designs suitable for various occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "1f9a2bd4-e6fd-46dd-8164-13d95d0c7b49",
+            "image": null,
+            "name": "Uniqlo Kid's Collection",
+            "description": "The Uniqlo Kid's Collection offers functional and stylish clothing designed for children, focusing on comfort and everyday wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "de2dcbe1-985c-4c5e-bac2-65ffcc5165ce",
+            "image": null,
+            "name": "Uniqlo Kids 2023 Collection",
+            "description": "The Uniqlo Kids 2023 Collection features a range of stylish and comfortable clothing designed for children's everyday wear, focusing on quality materials and fun designs.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo (Kids Line)"
+            }
+        },
+        {
+            "id": "c97a17c1-2972-48fb-84e7-a405014fe97c",
+            "image": null,
+            "name": "Playgro Amazing Animal Friends",
+            "description": "The Playgro Amazing Animal Friends series features a collection of playful toys designed to engage infants and toddlers through colorful designs and interactive elements, promoting sensory development and imaginative play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playgro"
+            }
+        },
+        {
+            "id": "cd19d277-cf0c-4fec-9d11-043ecb628056",
+            "image": null,
+            "name": "Peppa Pig: The Official Annual 2018",
+            "description": "Peppa Pig: The Official Annual 2018 is a children's book that features stories, activities, and illustrations from the popular Peppa Pig television series, designed to entertain and engage young readers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "8459eb15-2cb6-4503-b7c0-d1370029fc7b",
+            "image": null,
+            "name": "Peppa Pig: My First Storybook",
+            "description": "Peppa Pig: My First Storybook is a series designed for young readers that introduces them to the world of reading through engaging stories featuring Peppa Pig and her friends.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "ece5d5f9-a708-4de4-95d1-2353135e0183",
+            "image": null,
+            "name": "Peppa Pig: Peppa's Adventures",
+            "description": "Peppa Pig: Peppa's Adventures is a toy series featuring characters and scenarios from the popular children's television show Peppa Pig. It encourages imaginative play and social interaction among young children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "1e23d661-3ce4-425f-8341-9ea2d2a5a0fd",
+            "image": null,
+            "name": "Peppa Pig: Peppa's Balloon Ride",
+            "description": "Peppa Pig: Peppa's Balloon Ride is a children’s toy set that encourages imaginative play and storytelling, featuring popular characters from the Peppa Pig series and a colorful balloon ride accessory.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "9cdb4093-1080-41bf-8f88-9c99b40a14a8",
+            "image": null,
+            "name": "Peppa Pig: Peppa's very own Playtime Table",
+            "description": "Peppa Pig: Peppa's Very Own Playtime Table is a children's play set designed to encourage imaginative play and social interaction among young kids with a focus on Peppa Pig-themed activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "4856a5b2-7589-4ab5-9b55-6b123f885de0",
+            "image": null,
+            "name": "Peppa Pig: Peppa's Busy Day",
+            "description": "Peppa Pig: Peppa's Busy Day is a toy series featuring characters from the animated children's show Peppa Pig. It encourages imaginative play and storytelling for young children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "b82cec63-0ead-46a8-8b18-5803f6d8debc",
+            "image": null,
+            "name": "Peppa's Adventures",
+            "description": "Peppa's Adventures is a toy series featuring characters from the popular children's television show Peppa Pig, designed to encourage imaginative play and storytelling among young children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "158f9ea2-bc80-4fad-829f-0d3e052ed8d0",
+            "image": null,
+            "name": "Peppa Pig: The Game",
+            "description": "Peppa Pig: The Game is an interactive board game designed for children, featuring characters and themes from the popular Peppa Pig television series. The game promotes social skills, turn-taking, and family participation.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "2f622a83-d8f7-4fa2-b51e-48330e842707",
+            "image": null,
+            "name": "Peppa Pig: The Movie",
+            "description": "Peppa Pig: The Movie is a children's book series that brings to life the adventures of Peppa Pig and her friends through engaging stories and colorful illustrations, aimed at entertaining and educating young readers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "d4f3ec8b-fe08-44b4-9082-7624ead6de0f",
+            "image": null,
+            "name": "Peppa Pig: My First Little Library",
+            "description": "Peppa Pig: My First Little Library is a collection of children's books featuring Peppa Pig and her friends, designed to encourage early literacy skills and a love for reading among young children.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "6febef28-6dda-4c88-8df4-0ce32982917a",
+            "image": null,
+            "name": "Peppa Pig: Peppa's Big Adventures",
+            "description": "Peppa Pig: Peppa's Big Adventures offers a range of toys designed to inspire imaginative play and adventures based on the beloved children's television series, Peppa Pig.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "d3ad5692-8e52-42c0-b3fa-f882b796c954",
+            "image": null,
+            "name": "Zutano Playful Animals Collection",
+            "description": "The Zutano Playful Animals Collection features a range of kids' clothing designed with playful animal prints and vibrant colors, emphasizing comfort and durability for active children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zutano"
+            }
+        },
+        {
+            "id": "f3eb4e93-6610-4481-9350-d19c20b23fec",
+            "image": null,
+            "name": "Zutano 2020 Spring Collection",
+            "description": "The Zutano 2020 Spring Collection features a variety of comfortable and stylish children's clothing designed for play and everyday wear.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zutano"
+            }
+        },
+        {
+            "id": "fa95a1ac-38bb-4c57-9d9a-af30a83c6e69",
+            "image": null,
+            "name": "LuvLap Galaxy",
+            "description": "The LuvLap Galaxy is a series of strollers designed for comfort and convenience, featuring modern designs and essential safety features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "ff24c18c-25de-41b3-97e2-a13cbf7b70dd",
+            "image": null,
+            "name": "LuvLap Whisper",
+            "description": "LuvLap Whisper is a series of strollers designed to provide comfort and ease for both parents and children while on the go. The strollers feature lightweight construction and user-friendly mechanisms for enhanced portability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "d9fc851a-c160-462e-a23a-94de88bc2aa7",
+            "image": null,
+            "name": "LuvLap Smart",
+            "description": "The LuvLap Smart series offers a range of strollers designed for convenience and safety, featuring lightweight frames and easy maneuverability for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "LuvLap"
+            }
+        },
+        {
+            "id": "3d3b85d7-9d72-4cff-92e6-d28f454646c3",
+            "image": null,
+            "name": "Haba Play and Learn",
+            "description": "The Haba Play and Learn series features educational toys designed to inspire creativity and cognitive development in children. Each product encourages imaginative play and helps develop fine motor skills through hands-on activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Haba"
+            }
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "736625a5-58e0-499b-8968-192406166e56",
+            "image": null,
+            "name": "Bully Dog Triple Dog GT",
+            "description": "The Bully Dog Triple Dog GT is an advanced performance tuner designed to enhance the power, efficiency, and drivability of various vehicles. It features customizable tuning options and real-time tracking of vehicle parameters.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "be5d7a78-bbb2-4b42-9918-274d2338d306",
+            "image": null,
+            "name": "Audi A5 (Second Generation)",
+            "description": "The Audi A5 (Second Generation) is a luxury compact car that combines elegant design with advanced technology and performance, catering to drivers seeking a stylish and dynamic experience on the road.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "65b460a2-fd96-472f-a50d-bb1c43788fbb",
+            "image": null,
+            "name": "Aprica Soraria",
+            "description": "The Aprica Soraria series includes versatile strollers designed for enhanced comfort and ease of use, ensuring a smooth experience for both parent and child.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "b46f1b23-9d9c-4696-be18-a1e8a6f41e5c",
+            "image": null,
+            "name": "KTM 350 SX-F",
+            "description": "The KTM 350 SX-F is a powerful off-road motorcycle designed for competitive motocross racing, offering a blend of performance and agility to meet the demands of aggressive riders.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "f4cae41e-d1b3-4284-baf2-d109b5381591",
+            "image": null,
+            "name": "JBL Go 2 Portable Bluetooth Speaker",
+            "description": "The JBL Go 2 is a portable Bluetooth speaker known for its compact design and impressive sound quality, making it ideal for on-the-go listening.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "589b8960-ec11-4887-b044-5308064e2f7c",
+            "image": null,
+            "name": "NYXL Strings",
+            "description": "D'Addario NYXL Strings are high-performance guitar strings designed for enhanced tuning stability, increased durability, and expressive playability, making them suitable for a wide range of musical applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "D'Addario"
+            }
+        },
+        {
+            "id": "e048508d-214a-4b7b-ab38-fdcdfd35fc47",
+            "image": null,
+            "name": "JBL GO 2",
+            "description": "The JBL GO 2 is a portable Bluetooth speaker designed for versatility and ease of use, delivering impressive sound quality in a compact form factor. It is equipped with a built-in rechargeable battery, making it suitable for on-the-go listening.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "0dbc5a68-a23d-40e5-988a-20c6cf2c816e",
+            "image": null,
+            "name": "Honor 8 Pro",
+            "description": "The Honor 8 Pro is a smartphone series released in 2016, designed to offer high performance, a dual-camera system, and an enhanced user experience for tech-savvy individuals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "d42813b6-3d84-4501-be14-623a2d9b9537",
+            "image": null,
+            "name": "Škoda Octavia (2023 Model)",
+            "description": "The Škoda Octavia (2023 Model) is a compact car known for its spacious interior, practicality, and advanced technology. It offers a balanced combination of comfort and performance for everyday driving.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "747bfa7e-7156-48d8-b58e-67f835edb03a",
+            "image": null,
+            "name": "Jensen JDVD9010",
+            "description": "The Jensen JDVD9010 is a car audio system featuring a built-in DVD player and a 7-inch touchscreen display, designed to provide entertainment and functionality for vehicle interiors.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Jensen"
+            }
+        },
+        {
+            "id": "3a41ba41-a7dd-4ba0-a3f6-c54e7ce7ffd6",
+            "image": null,
+            "name": "Hella Rallye",
+            "description": "Hella Rallye is a series of high-performance auxiliary lighting products designed to enhance visibility and improve safety in automotive applications, particularly for rally and off-road driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "152aa93e-3b66-4ecb-b43e-e387af384351",
+            "image": null,
+            "name": "Mercedes-Maybach S-Class",
+            "description": "The Mercedes-Maybach S-Class is a luxury sedan that blends advanced technology and exceptional comfort, designed to cater to the discerning needs of high-end customers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "a8bf1227-2990-4bac-bdb1-c8dc342015a3",
+            "image": null,
+            "name": "Melitta Filter Coffee Machines",
+            "description": "The Melitta Filter Coffee Machines are designed to brew coffee using filter technology, providing a convenient and efficient way to enjoy a fresh cup of coffee with optimal flavor.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Melitta"
+            }
+        },
+        {
+            "id": "e680d52c-2de9-4461-8f58-5d9909712c37",
+            "image": null,
+            "name": "Rat Bones Wheels",
+            "description": "The Powell Peralta Rat Bones Wheels are a classic skateboard wheel series known for their performance and durability, designed to provide optimal grip and smooth rides for street and park skating.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "b24de85b-f303-4f5b-916f-5330edd15dff",
+            "image": null,
+            "name": "Piaa 760 Series",
+            "description": "The Piaa 760 Series is a line of automotive lighting products designed to enhance visibility and safety while driving at night or in adverse weather conditions. Known for their high-performance output and durability, these lights are suitable for various vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Piaa"
+            }
+        },
+        {
+            "id": "542e1521-89d8-429c-95a7-2510850d909f",
+            "image": null,
+            "name": "Flight Deck Series",
+            "description": "The Powell Peralta Flight Deck Series features lightweight and durable skateboards designed for enhanced performance and agility. Ideal for advanced skaters, these decks provide a responsive feel for technical tricks and street skating.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "ed878c38-c576-40a0-961d-c387baabd948",
+            "image": null,
+            "name": "ROG Strix X299-E Gaming",
+            "description": "The Asus Republic of Gamers ROG Strix X299-E Gaming series is designed for enthusiasts and gamers, offering high-performance computing with advanced cooling and customizable RGB lighting features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        },
+        {
+            "id": "855ec180-2d66-45f9-af42-6135cdf45445",
+            "image": null,
+            "name": "Piaa 1100 Series",
+            "description": "The Piaa 1100 Series is designed to provide high-intensity lighting solutions for automotive applications, enhancing visibility and safety during driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Piaa"
+            }
+        },
+        {
+            "id": "f65560d7-acfe-45be-903a-36626048f6b1",
+            "image": null,
+            "name": "Dungeons & Dragons: Honor Among Thieves",
+            "description": "The Dungeons & Dragons: Honor Among Thieves series from Hasbro features action figures and playsets inspired by the film, designed for fans to recreate scenes and enhance their tabletop role-playing games.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "2be0e3bb-d0f2-4bda-b667-8b3e3f03a227",
+            "image": null,
+            "name": "Caballero Pro Model 2020",
+            "description": "The Powell Peralta Caballero Pro Model 2020 is a high-performance skateboard designed for professional skaters, featuring art by legendary skater Steve Caballero and delivering superior durability and ride quality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Powell Peralta"
+            }
+        },
+        {
+            "id": "c2929dc2-00cd-4631-950d-aeff8c796a6b",
+            "image": null,
+            "name": "Xtreme Gaming",
+            "description": "The Gigabyte Xtreme Gaming series is designed for gamers and performance enthusiasts, featuring high-quality components optimized for extreme gaming performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "ed699a2b-7964-4cdc-9c6a-4261bb1bf082",
+            "image": null,
+            "name": "Oster Turbo Blender",
+            "description": "The Oster Turbo Blender is designed for efficient blending and food processing, featuring powerful motors and multiple speed settings to create smoothies, sauces, and more with ease.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Oster"
+            }
+        },
+        {
+            "id": "98b5d578-953d-4188-84b7-ff1a811e8ef9",
+            "image": null,
+            "name": "Zillow Rentals",
+            "description": "Zillow Rentals is a platform that connects renters with a wide range of available apartments and rental properties, providing comprehensive listings and detailed information to facilitate the rental search process.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Apartments for Rent"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1abae5a8-1c01-4bc4-bdc3-d634753bb074",
+            "image": null,
+            "name": "Audi S3 (8P)",
+            "description": "The Audi S3 (8P) is a performance-oriented compact car that blends luxury and sporty handling, offering enhanced power and advanced technology for driving enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3cb64434-26f3-4c91-9945-669124d6f9d2",
+            "image": null,
+            "name": "Bully Dog PMT",
+            "description": "The Bully Dog PMT is a performance management tool designed to optimize vehicle performance through real-time monitoring and tuning capabilities.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Bully Dog"
+            }
+        },
+        {
+            "id": "5074b992-bebe-4cda-bc96-2ac19d4e23ec",
+            "image": null,
+            "name": "Prime",
+            "description": "The Rockford Fosgate Prime series offers a range of car audio products designed for high-quality sound performance and durability, catering to both music enthusiasts and everyday listeners.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "3a83c2a9-70d1-48d5-a0c6-47633a22c813",
+            "image": null,
+            "name": "Audi S6",
+            "description": "The Audi S6 is a high-performance variant of the Audi A6, known for its powerful engine, advanced technology, and luxurious features, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "45d23726-e329-4c40-bebc-5246f79f4ca2",
+            "image": null,
+            "name": "Blendtec Designer Series 625",
+            "description": "The Blendtec Designer Series 625 is a high-performance blender designed for both home and professional use, featuring a powerful motor and advanced settings for various blending tasks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Blendtec"
+            }
+        },
+        {
+            "id": "3dc99898-02e5-47f5-8cc4-0b7c6c0e4d34",
+            "image": null,
+            "name": "Lift",
+            "description": "The Aprica Lift series offers lightweight and versatile strollers designed for easy maneuverability and comfort for both the caregiver and the child.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Aprica"
+            }
+        },
+        {
+            "id": "3d68d376-faeb-46a7-8baa-ff43e5f1132f",
+            "image": null,
+            "name": "ROG Strix Scar 18",
+            "description": "The Asus Republic of Gamers ROG Strix Scar 18 is a high-performance gaming PC designed for serious gamers, featuring state-of-the-art graphics and processing capabilities to handle the latest titles with ease.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Asus Republic of Gamers"
+            }
+        }
+    ]
+}

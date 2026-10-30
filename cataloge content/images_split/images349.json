@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "5efd0318-40f8-4356-947c-af0292e2d4e6",
+            "image": null,
+            "name": "Acura CSX",
+            "description": "The Acura CSX is a compact sedan that was first released in 2006, designed to provide a blend of performance, luxury, and practicality for everyday driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "334db3d4-70d3-43a0-a9a4-e181903dd4a6",
+            "image": null,
+            "name": "Technics EAH-AZ70W",
+            "description": "The Technics EAH-AZ70W is a pair of true wireless headphones designed to deliver high-quality audio and incorporate advanced noise-canceling technology for an immersive listening experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "7af8c675-01a8-4d15-b3d8-3e62616ebc34",
+            "image": null,
+            "name": "Panasonic WH-UDR Series",
+            "description": "The Panasonic WH-UDR Series is a line of energy-efficient water heaters designed for residential use, offering reliable hot water supply and advanced technology for optimal performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "f53af340-4b15-4f40-8fba-4fef1cb57cf6",
+            "image": null,
+            "name": "Philips 4000 Series",
+            "description": "The Philips 4000 Series monitors are designed for everyday computing needs, offering reliable performance and enhanced visuals for home and office use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "b9e45161-072c-4228-b7c8-0e3c0640b2dc",
+            "image": null,
+            "name": "Philips 6000 Series",
+            "description": "The Philips 6000 Series consists of versatile monitors designed to deliver a reliable display experience for various applications, including home and office use. Key traits include high-resolution displays and energy-efficient technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "9bfff6c4-e813-42e6-9baf-af874925b408",
+            "image": null,
+            "name": "Vorsteiner V-GT Series",
+            "description": "The Vorsteiner V-GT Series is a collection of high-performance rims designed to enhance the aesthetic appeal and performance of vehicles while maintaining lightweight construction and durability.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "9de9820e-bd4f-4a34-ba8c-3f874a60f76f",
+            "image": null,
+            "name": "Vorsteiner BMW E92 M3 V-CSL",
+            "description": "The Vorsteiner BMW E92 M3 V-CSL is a high-performance aftermarket component series designed to enhance the aerodynamics and aesthetics of the BMW E92 M3 model, improving both its handling and visual appeal.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Vorsteiner"
+            }
+        },
+        {
+            "id": "1cd187e5-6461-4b54-becf-3001287f3b2b",
+            "image": null,
+            "name": "Chevrolet Malibu (2004 Generation)",
+            "description": "The Chevrolet Malibu (2004 Generation) is a mid-size sedan designed to offer a comfortable ride with a balance of performance and fuel efficiency, catering to families and individuals looking for a reliable daily driver.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "b723847d-90d8-477f-8a2b-bae67a0fe486",
+            "image": null,
+            "name": "Haval H5",
+            "description": "The Haval H5 is a compact SUV produced by Haval, renowned for its off-road capabilities and spacious interior, making it suitable for both urban commuting and outdoor adventures.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "e0733b42-b80a-466e-8648-f004c003b687",
+            "image": null,
+            "name": "Chevrolet Kodiak",
+            "description": "The Chevrolet Kodiak is a series of heavy-duty pickup trucks designed for commercial use and capable of handling tough workloads, characterized by their robust construction and powerful performance.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "e94ba532-3675-4254-943d-102f5decaf32",
+            "image": null,
+            "name": "Haval H1",
+            "description": "The Haval H1 is a compact SUV designed for urban mobility and practicality, offering a blend of modern features and efficient performance. Ideal for city driving, it emphasizes space and maneuverability.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "26cb72d1-2b0b-464f-8c3f-c718c231ee76",
+            "image": null,
+            "name": "Acer Predator 21X",
+            "description": "The Acer Predator 21X is a high-performance gaming laptop designed for immersive gameplay, featuring a curved display and powerful hardware specifications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "36236cc7-7e62-4023-a57f-3c2b76fab06d",
+            "image": null,
+            "name": "Acer Swift 7",
+            "description": "The Acer Swift 7 is a premium ultra-thin laptop designed for portability and performance, featuring a sleek aluminum chassis and a high-resolution display, making it suitable for professionals and travelers.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "ea88e5a7-d24e-4691-a0aa-981ce070e201",
+            "image": null,
+            "name": "Acer Aspire VX 15",
+            "description": "The Acer Aspire VX 15 is a gaming laptop series designed for gamers seeking performance and affordability. It features a sleek design and is equipped with hardware tailored for gaming and multimedia experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "7d09a891-c0ef-4bd4-b8da-79889b738df1",
+            "image": null,
+            "name": "Acer Aspire 7",
+            "description": "The Acer Aspire 7 series is designed for users seeking a balance of performance and affordability, featuring powerful hardware suitable for gaming, multimedia tasks, and productivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "1959ea38-4ecf-46a7-9164-a3f5adcecb58",
+            "image": null,
+            "name": "Haval H6 (2nd generation)",
+            "description": "The Haval H6 (2nd generation) is a compact SUV known for its spacious interior, modern design, and advanced technology features. Designed to offer a comfortable driving experience, it appeals to families and individuals seeking versatility in urban and suburban environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Haval"
+            }
+        },
+        {
+            "id": "f1d3e8b6-5479-4bd2-96bd-d025113be5c6",
+            "image": null,
+            "name": "Acer R11",
+            "description": "The Acer R11 series comprises versatile 2-in-1 tablets designed for both productivity and entertainment, featuring a flexible touchscreen display that can rotate 360 degrees.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "584eb033-9c11-423a-a103-e5445d7733ce",
+            "image": null,
+            "name": "Acer Chromebook 14 (CB3-431)",
+            "description": "The Acer Chromebook 14 (CB3-431) is a lightweight and portable laptop designed for everyday computing tasks, featuring the Chrome OS for fast performance and efficient internet browsing.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "a57817b0-cfbe-4af3-8ca0-878b09bad57c",
+            "image": null,
+            "name": "Acer Aspire 5 (A515-54)",
+            "description": "The Acer Aspire 5 (A515-54) is a versatile laptop designed for everyday use, offering a balance of performance and portability for students and professionals alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "a6f6d0f6-1236-4539-8fb6-5a9b1ae691e9",
+            "image": null,
+            "name": "ZF 9HP Transmission",
+            "description": "The ZF 9HP Transmission is a highly efficient automatic transmission system designed for mid- to high-performance vehicles, enabling smooth gear shifts and enhancing overall drivability.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "ZF Friedrichshafen"
+            }
+        },
+        {
+            "id": "cf5c551a-56f4-49fd-b011-d256f9c5a62e",
+            "image": null,
+            "name": "Nespresso Expert",
+            "description": "The Nespresso Expert series represents a range of coffee machines designed for coffee aficionados who appreciate the art of espresso preparation, offering customizable brewing options and features suited for both coffee and milk-based beverages.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "909ddab5-c1ff-4e27-b207-750687b0da19",
+            "image": null,
+            "name": "Acer Predator Helios 300 (PH315-51)",
+            "description": "The Acer Predator Helios 300 (PH315-51) is a gaming laptop series designed for high-performance gaming experiences, featuring powerful graphics and optimized cooling for extended gameplay.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "9710cdf4-bfdd-4e2f-8e45-1314e0fc0df3",
+            "image": null,
+            "name": "Acer Swift 3 (SF314-55)",
+            "description": "The Acer Swift 3 (SF314-55) is a lightweight and portable laptop designed for everyday use, featuring a slim profile and a balance of performance and battery life suitable for students and professionals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "f1712ab9-53fc-4a81-bd7a-235c74a52711",
+            "image": null,
+            "name": "Nespresso Vertuo Pop",
+            "description": "The Nespresso Vertuo Pop is a compact and stylish coffee machine designed for brewing a variety of coffee and espresso drinks using Nespresso's innovative pod system.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "ead27738-7120-488b-b678-cfb8c4464ca4",
+            "image": null,
+            "name": "Acer Nitro 5 (AN515-54)",
+            "description": "The Acer Nitro 5 (AN515-54) is a gaming laptop designed to provide high performance for gaming and multimedia tasks, featuring a robust cooling system and a full HD display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "12e3a430-da12-4432-bf1a-e7466193a717",
+            "image": null,
+            "name": "Nespresso Essenza Plus",
+            "description": "The Nespresso Essenza Plus is a compact coffee machine designed for quick and convenient espresso preparation, offering a variety of coffee options with customized settings for a personalized brewing experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "95161b8a-484d-4788-8204-a7df6ae05ca0",
+            "image": null,
+            "name": "Nespresso U",
+            "description": "The Nespresso U series of coffee machines is designed to provide a convenient and customizable coffee brewing experience, featuring a compact design and user-friendly controls for preparing a variety of coffee specialties.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Nespresso"
+            }
+        },
+        {
+            "id": "efcc4067-34ce-4462-8cf4-3a7117cfaa13",
+            "image": null,
+            "name": "Acer Chromebook Spin 311",
+            "description": "The Acer Chromebook Spin 311 is a compact, versatile 2-in-1 laptop designed for educational and everyday use, featuring a touchscreen display and a durable design for portability and convenience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "f3bebeb4-7002-49a1-b881-fc2a88ab0c57",
+            "image": null,
+            "name": "Acer Aspire 5 (2020)",
+            "description": "The Acer Aspire 5 (2020) is a versatile laptop series designed for everyday computing needs, offering a balance of performance, portability, and affordability for users seeking reliable technology for work and leisure.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "0bc42767-3189-4d6a-96d9-b7c37be67fdb",
+            "image": null,
+            "name": "Toshiba Qosmio",
+            "description": "The Toshiba Qosmio series is designed for high-performance computing, particularly catering to gaming and multimedia needs with powerful hardware specifications and advanced graphics capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        }
+    ]
+}

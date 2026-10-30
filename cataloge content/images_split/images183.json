@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "95d3d316-e209-4e91-b994-ecbd4d70f3ad",
+            "image": null,
+            "name": "Cort M Series",
+            "description": "The Cort M Series is a line of electric guitars designed to provide versatility and high-quality sound, suitable for a variety of musical styles and genres.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "623832f9-0266-4490-82f3-cd1c82399a60",
+            "image": null,
+            "name": "Cort Gold Series",
+            "description": "The Cort Gold Series is a premium line of acoustic guitars and basses designed for professional musicians, featuring high-quality materials and craftsmanship.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "eb82ac1e-2382-41a3-bf7e-4a07ca683cbc",
+            "image": null,
+            "name": "Cort KX Series",
+            "description": "The Cort KX Series is a line of electric guitars designed for versatility and performance, featuring modern aesthetics and high-quality components suitable for various music styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "58598034-c09c-4170-bcc0-eaf58936640a",
+            "image": null,
+            "name": "Cort Earth Series",
+            "description": "The Cort Earth Series is a collection of acoustic guitars designed for musicians seeking quality and affordability. Each model features solid wood construction for enhanced sound projection and durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "6f1a629c-7646-4f82-bb52-bfb38c28890e",
+            "image": null,
+            "name": "K Custom Special Dry",
+            "description": "The Zildjian K Custom Special Dry series includes a collection of cymbals designed for jazz and fusion drummers, featuring a dark, dry sound and a complex, rich character.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "3a4adcec-b572-45fa-8df5-637c47f49147",
+            "image": null,
+            "name": "A Series",
+            "description": "The Zildjian A Series offers a range of high-quality cymbals known for their bright sound and versatility, making them suitable for various music styles across different genres.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "a4f9b0cf-144f-48aa-a685-56f166e37353",
+            "image": null,
+            "name": "Pearl Reference Series",
+            "description": "The Pearl Reference Series is a collection of high-quality drum kits known for their exceptional sound quality and durability, designed for professional musicians and serious hobbyists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "46f2de7e-3112-4863-872d-8e4027eabb08",
+            "image": null,
+            "name": "Kawai ES SERIES",
+            "description": "The Kawai ES Series is a range of digital pianos designed for both portability and high-quality sound, suitable for musicians of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "af5962c6-2d12-45bf-bbc8-8d20772edee4",
+            "image": null,
+            "name": "Avedis Series",
+            "description": "The Avedis Series by Zildjian is a collection of high-quality cymbals known for their traditional craftsmanship and versatile sound suitable for a wide range of musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "98562b9a-03d1-4d0d-996b-7974fbab765d",
+            "image": null,
+            "name": "K Zildjian",
+            "description": "The K Zildjian series features a range of cymbals known for their warm, complex tones and versatile performance across various musical genres. Released in 2018, these instruments are designed for drummers seeking expressive sound options.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Zildjian"
+            }
+        },
+        {
+            "id": "3f0eadc2-6cfa-4e39-a6c5-b06e430a8534",
+            "image": null,
+            "name": "Export Series",
+            "description": "Pearl's Export Series is a line of durable and versatile musical instruments designed primarily for drummers and percussionists, featuring reliable construction and an array of finishes to suit various musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "d8aea46b-d29c-4144-b0e3-2badad4a3461",
+            "image": null,
+            "name": "Pearl MRP Series",
+            "description": "The Pearl MRP Series is a collection of musical instruments designed for beginner to intermediate drummers, featuring durable construction and versatile sound options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "346682cf-00cf-41e9-b5f3-38c1f8dbbc73",
+            "image": null,
+            "name": "Bumbleride Speed",
+            "description": "The Bumbleride Speed is a high-performance stroller designed for active parents who enjoy jogging and outdoor adventures with their children. It features a lightweight frame, all-terrain wheels, and a reclining seat for comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bumbleride"
+            }
+        },
+        {
+            "id": "36789b2c-9592-4fc0-ab43-bf3817c6e300",
+            "image": null,
+            "name": "Chevrolet Monte Carlo (2006)",
+            "description": "The Chevrolet Monte Carlo (2006) is a mid-size coupe known for its sporty design and comfortable ride, aimed at providing a blend of performance and style.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "4b5c30f8-5eab-4d3d-99c9-cbff3f06656e",
+            "image": null,
+            "name": "Airaid Cold Air Dam Intake Systems",
+            "description": "The Airaid Cold Air Dam Intake Systems are aftermarket air intake systems designed to improve engine performance by increasing airflow. These systems enhance horsepower and throttle response while providing superior filtration.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "0c7d2ab0-72f6-44ff-9ae0-19f4f279aadf",
+            "image": null,
+            "name": "Smeg 50's Retro Style Refrigerator",
+            "description": "The Smeg 50's Retro Style Refrigerator combines vintage aesthetics with modern functionality, offering a spacious interior and energy-efficient performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0ccb9cdb-8fc1-4b9d-81d4-428b630de266",
+            "image": null,
+            "name": "Subaru Legacy (6th Generation)",
+            "description": "The Subaru Legacy (6th Generation) is a mid-size car known for its all-wheel drive capability, safety features, and reliable performance, making it suitable for both daily commuting and adventurous driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0e05c3e3-7bfa-4528-af7d-835f29d99090",
+            "image": null,
+            "name": "Tiger 800 XCA",
+            "description": "The Triumph Tiger 800 XCA is a versatile adventure motorcycle designed for both on-road and off-road riding, featuring a robust engine and advanced technology for enhanced performance and comfort.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "0e40e1d4-f846-48d2-9733-478754cd2c1e",
+            "image": null,
+            "name": "Subaru Outback (6th Generation)",
+            "description": "The Subaru Outback (6th Generation) is a versatile SUV designed for both on-road comfort and off-road capability, featuring all-wheel drive and a spacious interior suitable for outdoor adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "103ac6ce-9304-4a37-9156-9f2f500e4347",
+            "image": null,
+            "name": "Canon PowerShot G7 X Mark II",
+            "description": "The Canon PowerShot G7 X Mark II is a compact digital camera designed for both beginners and enthusiasts, featuring a fast lens, high image quality, and seamless connectivity for easy sharing.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "10f8d461-fb76-4ada-bd7c-d0b170d3bc1a",
+            "image": null,
+            "name": "Tiger 800 XRx",
+            "description": "The Triumph Tiger 800 XRx is a versatile adventure motorcycle designed for both on-road and off-road riding, featuring a powerful engine and advanced technology to enhance rider comfort and control.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "125b4810-7c57-4086-9298-1d43d23c0d49",
+            "image": null,
+            "name": "Meguiar's Sio2",
+            "description": "The Meguiar's Sio2 series includes advanced car care products formulated with Silicon Dioxide (SiO2) to provide superior protection and durability for automotive surfaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "13a567fb-84fa-4669-81c5-245eb452be88",
+            "image": null,
+            "name": "Givi Easy-T Series",
+            "description": "The Givi Easy-T Series is designed for motorcyclists seeking user-friendly luggage solutions that offer enhanced convenience and practicality for daily use and touring.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Givi"
+            }
+        },
+        {
+            "id": "13ad1dcb-e2ac-4224-b5cd-7a9447dfef6e",
+            "image": null,
+            "name": "Gas Gas EC 250",
+            "description": "The Gas Gas EC 250 is a robust enduro motorcycle designed for off-road performance, featuring a lightweight frame and a powerful two-stroke engine that enhances maneuverability and speed in challenging terrains.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "141b496b-41c3-46e6-adf8-2629fd7c2fdb",
+            "image": null,
+            "name": "Vulcan",
+            "description": "The Vulcan series by Kawasaki Heavy Industries is a line of cruisers known for their comfort, distinctive styling, and a smooth riding experience, tailored for both urban commuting and long-distance touring.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "142e1c27-01f6-4fed-b956-6107cee3c531",
+            "image": null,
+            "name": "Triumph Thruxton",
+            "description": "The Triumph Thruxton is a classic motorcycle series known for its retro styling and cafe racer heritage, focusing on performance, agility, and a thrilling riding experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "152886dc-2262-475f-aa07-e23b4964925b",
+            "image": null,
+            "name": "Cobra DualPro 360",
+            "description": "The Cobra DualPro 360 is a radar and laser detector designed to enhance driver safety by providing alerts for potential speed enforcement measures from multiple directions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "159e669c-0da4-4e20-8986-d5ef5db74e16",
+            "image": null,
+            "name": "Emergency Repair 3D",
+            "description": "Soft99 Emergency Repair 3D is a series of car care products designed to provide quick and effective solutions for repairing minor paint damages and scratches on vehicles. Their formula aims to restore the original finish and enhance the protective qualities of the car's surface.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "667e1b00-3bd7-48e9-81c4-9032e39e3500",
+            "image": null,
+            "name": "IronWolf Pro",
+            "description": "The Seagate IronWolf Pro series of hard disks is designed for NAS (Network Attached Storage) devices, offering high capacity, reliability, and performance specifically for multi-user environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "d0785c1b-7eff-4971-b4b5-ddc1216ffdff",
+            "image": null,
+            "name": "Hilux",
+            "description": "The Toyota Hilux is a robust and versatile pickup truck known for its durability, off-road capabilities, and suitability for both commercial and personal use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        }
+    ]
+}

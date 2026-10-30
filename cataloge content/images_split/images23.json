@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "4f065e81-88ba-41a0-896a-a5639d9e6f80",
+            "image": null,
+            "name": "KTM 450 XC-W",
+            "description": "The KTM 450 XC-W is a lightweight off-road motorcycle designed for cross-country racing and recreational riding, known for its powerful engine and agility on various terrains.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "dc468470-2510-48e3-895a-9dcdc5c0476d",
+            "image": null,
+            "name": "Nissan Rogue Sport",
+            "description": "The Nissan Rogue Sport is a compact SUV designed for urban driving and versatility, combining practicality with modern features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "8de324ac-0834-4e36-9acb-731234a699d0",
+            "image": null,
+            "name": "Airaid Cold Air Dam System",
+            "description": "The Airaid Cold Air Dam System is a performance intake system designed to enhance airflow to the engine, improving horsepower and throttle response. It features a durable construction and is engineered to fit specific vehicle applications for optimal performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "95fce39d-e1e9-48ab-91ef-509561f903f8",
+            "image": null,
+            "name": "Kia Optima (Facelift)",
+            "description": "The Kia Optima (Facelift) is a mid-size sedan that emphasizes modern design, advanced technology, and a balanced driving experience. This model aims to provide comfort and efficiency for daily commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "fa05948f-3a19-484d-af8a-40e89ae15832",
+            "image": null,
+            "name": "Kia Soul EV",
+            "description": "The Kia Soul EV is an all-electric subcompact car that combines distinctive style with eco-friendly performance, offering a spacious interior and advanced technology for urban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "ffa67469-43b8-4b7d-af1c-8702f73baf0f",
+            "image": null,
+            "name": "Kia Rondo",
+            "description": "The Kia Rondo is a compact minivan designed for family use, offering versatile seating arrangements and a balance of practicality and comfort.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "ffb236bd-13a7-4e57-8a4f-2dfb2fdbf1d3",
+            "image": null,
+            "name": "Kia Soul (Second Generation)",
+            "description": "The Kia Soul (Second Generation) is a compact crossover that emphasizes functionality and individuality, featuring a distinctive boxy design and versatile interior space suitable for urban driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "9b1de966-bdf7-492f-b158-34b00fe578c8",
+            "image": null,
+            "name": "Kia Optima (2016 Refresh)",
+            "description": "The Kia Optima (2016 Refresh) is a mid-size sedan that offers a blend of style, advanced technology, and strong performance, making it suitable for both daily commuting and long journeys.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "b2678f96-46c4-40f7-a5ae-cd8be696f55f",
+            "image": null,
+            "name": "Kia Forte (Third Generation)",
+            "description": "The Kia Forte (Third Generation) is a compact car designed to provide a balance of performance, efficiency, and modern technology, appealing to a wide range of drivers seeking reliability and comfort.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "b29b0e4b-4b1f-4686-9e67-975cf87a07c1",
+            "image": null,
+            "name": "Jaguar XJ",
+            "description": "The Jaguar XJ is a luxury saloon known for its elegant design and superior performance, serving as a flagship model for the Jaguar brand since 1968.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b428aafe-79a6-4fb9-9d21-0e1dede73583",
+            "image": null,
+            "name": "Kia Rio",
+            "description": "The Kia Rio is a subcompact car designed for efficiency and practicality, offering a balance of comfort and technology for urban driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "c76b930e-0e06-4307-9557-b0b3be657576",
+            "image": null,
+            "name": "Kia Spectra",
+            "description": "The Kia Spectra is a compact car produced by Kia from 2000, designed to provide an affordable and reliable transportation option for individuals and families.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "c789d710-7c44-4443-8421-62516b4864fa",
+            "image": null,
+            "name": "Kia Cerato",
+            "description": "The Kia Cerato is a compact car that offers a blend of practicality, affordability, and modern features, catering to a wide range of drivers seeking reliable transportation.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "161f70bc-42df-42b4-81db-85807a8e2e3f",
+            "image": null,
+            "name": "Kia Soul (Generation 3)",
+            "description": "The Kia Soul (Generation 3) is a compact crossover SUV known for its distinctive boxy design, spacious interior, and advanced technology features, aimed at providing practicality and versatility for urban driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "1e1afda2-bd02-4410-ac89-71682c16edb6",
+            "image": null,
+            "name": "Peugeot 206",
+            "description": "The Peugeot 206 is a compact car produced by the French automaker Peugeot, known for its agile handling and practicality for urban driving. Launched in 2000, it gained popularity for its stylish design and efficient fuel consumption.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "290ccbc9-60de-411d-9b6c-3d9b04189fca",
+            "image": null,
+            "name": "Kia Amanti",
+            "description": "The Kia Amanti is a full-size luxury sedan that emphasizes comfort and spaciousness, catering to consumers seeking an affordable yet well-equipped vehicle for daily use and longer journeys.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "2b038bcf-a9aa-4a1c-ae06-339370baeaf2",
+            "image": null,
+            "name": "Nissan Micra (Fifth Generation)",
+            "description": "The Nissan Micra (Fifth Generation) is a compact hatchback designed for urban driving, featuring efficient fuel consumption and modern technology for enhanced convenience and safety.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "3839157d-aad4-42bb-9341-139f5b8efd69",
+            "image": null,
+            "name": "Kia Optima",
+            "description": "The Kia Optima is a mid-size sedan produced by Kia since 2004, known for its blend of comfort, style, and technology, making it a popular choice for family and commuter vehicles.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "3c751940-e0d5-41f2-a7f5-700755ee83df",
+            "image": null,
+            "name": "Kia K900",
+            "description": "The Kia K900 is a luxury sedan that combines a spacious interior, sophisticated design, and advanced technology, providing a comfortable and upscale driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "4ae3ca73-b0d6-41f1-a218-9309540f1b8b",
+            "image": null,
+            "name": "Kia Niro EV",
+            "description": "The Kia Niro EV is an all-electric compact crossover SUV designed to provide efficient and eco-friendly transportation, featuring a spacious interior and advanced technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "4be5195a-b6bf-4aa7-bdab-a8211db5bc79",
+            "image": null,
+            "name": "Kia Cadenza (First Generation)",
+            "description": "The Kia Cadenza (First Generation) is a full-size sedan that combines style, comfort, and advanced technology, aimed at providing a premium driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "4c8a4297-806e-4c3e-9462-9d8d718f7037",
+            "image": null,
+            "name": "Kia Cadenza",
+            "description": "The Kia Cadenza is a full-size sedan that offers a spacious interior, advanced technology features, and a comfortable ride, catering to drivers seeking a blend of luxury and practicality.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "d8ffbb6d-e272-480c-93aa-5c6370e3165c",
+            "image": null,
+            "name": "Peugeot 307",
+            "description": "The Peugeot 307 is a compact car produced by the French automaker Peugeot, known for its stylish design, versatile interior, and a range of efficient engines.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "a9ecfdff-78f9-4283-8245-8e2805cae2c5",
+            "image": null,
+            "name": "Peugeot 308 (facelift)",
+            "description": "The Peugeot 308 (facelift) is a compact hatchback that combines modern design with advanced technology and efficient performance, aiming to provide a versatile driving experience for urban and suburban settings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "e25468e4-1e8a-41bd-80f1-0ecb65bb3a48",
+            "image": null,
+            "name": "Peugeot 807",
+            "description": "The Peugeot 807 is a large multi-purpose vehicle (MPV) that was designed to offer spaciousness, comfort, and versatility for families and groups.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "e2aeb3d8-d496-4247-97dd-4c65e1e80271",
+            "image": null,
+            "name": "Peugeot 407",
+            "description": "The Peugeot 407 is a mid-size car produced by the French automaker Peugeot, aimed at providing a comfortable driving experience with modern design and efficient performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "b65f90d8-0c4f-4931-bfb7-fbd927b19169",
+            "image": null,
+            "name": "Peugeot RCZ",
+            "description": "The Peugeot RCZ is a compact sports coupe that was first introduced in 2010, known for its distinctive styling, sporty performance, and immersive driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "e39ca292-6fa5-4686-a254-1253b35b1088",
+            "image": null,
+            "name": "Subaru B9 Tribeca",
+            "description": "The Subaru B9 Tribeca is a mid-size SUV designed for families, offering a combination of spacious seating, four-wheel drive, and a focus on safety and reliability.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "edf83507-0d6f-4352-afc2-5fd98209df39",
+            "image": null,
+            "name": "Subaru Impreza WRX STI",
+            "description": "The Subaru Impreza WRX STI is a high-performance version of the Subaru Impreza, known for its rally heritage, all-wheel drive capability, and turbocharged engine, making it a popular choice among car enthusiasts and racing fans.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f422241e-5a7b-4fbc-b8d4-6ad9fd060ed1",
+            "image": null,
+            "name": "Peugeot 1007",
+            "description": "The Peugeot 1007 is a compact MPV (Multi-Purpose Vehicle) that was launched in 2004, known for its innovative sliding side doors and a focus on urban mobility.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ce0c3658-5c71-4286-b2e1-ea27462bb7a8",
+            "image": null,
+            "name": "Mitsubishi Eclipse (3rd Generation)",
+            "description": "The Mitsubishi Eclipse (3rd Generation) is a compact sports car released in 2000 known for its sporty design and diverse engine options.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "400bb448-127a-4a2a-be1f-9a4ee4e2c69b",
+            "image": null,
+            "name": "Mitsubishi Lancer Evolution IX",
+            "description": "The Mitsubishi Lancer Evolution IX is a high-performance automobile known for its agility, turbocharged engine, and rally-inspired design. Released in 2005, it is celebrated for its advanced all-wheel-drive system and motorsport heritage.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "c5dafe74-1e71-4167-a9e6-65eeca4d7042",
+            "image": null,
+            "name": "Mitsubishi Outlander (Third Generation)",
+            "description": "The Mitsubishi Outlander (Third Generation) is a mid-size SUV designed to offer a balance of functionality, comfort, and off-road capability, catering to families and outdoor enthusiasts since its release in 2010.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "70301224-1b7a-45f7-ab6d-9294d0b8eac1",
+            "image": null,
+            "name": "Mitsubishi i-MiEV",
+            "description": "The Mitsubishi i-MiEV is a compact electric vehicle released in 2011, designed to offer an eco-friendly alternative for urban commuting with its zero-emission capabilities.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "0d3b771c-e09e-45b2-bf86-f195559e2920",
+            "image": null,
+            "name": "Mitsubishi Outlander PHEV 2018",
+            "description": "The Mitsubishi Outlander PHEV 2018 is a plug-in hybrid SUV designed to offer both electric and gasoline driving capabilities, promoting eco-friendly transportation without sacrificing space or convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "bb80d928-245a-4af4-b411-41a31e1758c8",
+            "image": null,
+            "name": "Chevrolet Impala",
+            "description": "The Chevrolet Impala is a full-size sedan known for its spacious interior, comfortable ride, and reliable performance, making it a popular choice for families and commuters alike.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "60f4c031-43fb-43df-a733-8986b7cc3f99",
+            "image": null,
+            "name": "Chevrolet Monte Carlo",
+            "description": "The Chevrolet Monte Carlo is a two-door coupe that was produced by Chevy, known for its sporty design and performance-oriented features. It aimed to provide a blend of comfort with performance for drivers seeking a personal vehicle with a distinctive style.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "18aeabfa-feda-455d-b427-e5b8c63f210c",
+            "image": null,
+            "name": "Chevrolet Silverado",
+            "description": "The Chevrolet Silverado is a series of full-size pickup trucks known for their robust performance, durability, and versatility, making them suitable for both work and personal use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "8c729962-20bf-46dc-aa0f-868608e6b4d2",
+            "image": null,
+            "name": "Chevrolet Impala (2006)",
+            "description": "The Chevrolet Impala (2006) is a full-size sedan that combines spaciousness and comfort with reliable performance, making it suitable for both family use and daily commuting.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "409bf228-524e-4784-91e3-ce4569c537a5",
+            "image": null,
+            "name": "Puma Disc Blaze",
+            "description": "The Puma Disc Blaze is a retro-inspired sneaker designed for comfort and style, featuring a unique disc lacing system for a secure fit.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "59324dc6-b60c-4e0b-a578-9e11f684876f",
+            "image": null,
+            "name": "FolkArt Multi-Surface Paints",
+            "description": "FolkArt Multi-Surface Paints are versatile acrylic paints designed for use on various surfaces, including wood, metal, and fabric. They provide excellent coverage and can be used for both indoor and outdoor projects.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "2ea1b76a-2c1b-43ff-8ec3-f5c2121bf944",
+            "image": null,
+            "name": "Gamblin Transparent Oil Colors",
+            "description": "Gamblin Transparent Oil Colors are a series of high-quality oil paints designed for artists seeking transparent pigments that allow for glazing techniques and rich layered effects in their artwork.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "538a7c03-10b9-4c92-8783-5f976e11f3e1",
+            "image": null,
+            "name": "Gamblin Mediums",
+            "description": "Gamblin Mediums is a collection of artist-grade mediums designed to enhance oil painting techniques, allowing for varied effects and textures while maintaining the integrity of the paint.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "55a3fc02-6481-4f69-a784-ce0393846c78",
+            "image": null,
+            "name": "Gamblin 1980 Oil Colors",
+            "description": "Gamblin 1980 Oil Colors are a range of artist-grade oil paints designed for professional painters. They are known for their rich pigmentation and smooth application, and offer a broad palette of colors.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "b468ff93-3d23-49e8-8b49-71f312e20c8f",
+            "image": null,
+            "name": "Gamblin Cold Wax Medium",
+            "description": "Gamblin Cold Wax Medium is a versatile medium designed to modify oil paints and create unique textured effects while enhancing the drying time of the paint. It is suitable for various applications and can be used alone or in combination with oil paints.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Gamblin"
+            }
+        },
+        {
+            "id": "6d4f7272-e65a-4e8a-b26d-299616f24e35",
+            "image": null,
+            "name": "Masterson Cleaning System",
+            "description": "The Masterson Cleaning System offers a comprehensive solution for artists to clean and maintain their tools effectively, ensuring longevity and high performance in their creative work.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "91af5f33-3cd6-45f1-a5eb-17aac3ae0069",
+            "image": null,
+            "name": "Masterson Sta-Wet Palette",
+            "description": "The Masterson Sta-Wet Palette is designed to keep paints moist longer during your creative process, making it an essential tool for artists working with acrylics and watercolors.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "952d2966-dc5c-4702-8860-b3533318250e",
+            "image": null,
+            "name": "Masterson Bleed Proof Palettes",
+            "description": "Masterson Bleed Proof Palettes are specially designed art supplies that feature a non-porous, bleed-proof surface, allowing artists to mix and apply paints without the colors bleeding into each other.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Masterson"
+            }
+        },
+        {
+            "id": "b358d2cf-64da-4a7b-b973-08ec63bd2f60",
+            "image": null,
+            "name": "Sharpie Permanent Markers in New Colors",
+            "description": "The Sharpie Permanent Markers in New Colors are versatile art supplies designed for permanent marking on various surfaces. They feature vibrant ink that dries quickly and is resistant to fading and water.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sharpie"
+            }
+        },
+        {
+            "id": "bfcc70b1-1258-40e0-9e4a-cc597f01a2f1",
+            "image": null,
+            "name": "Ecoline Brush Pens",
+            "description": "Ecoline Brush Pens are versatile art supplies designed for watercolor effects and calligraphy, known for their vibrant colors and easy blendability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "44445a70-91d6-45bb-976d-a67d9d28cd05",
+            "image": null,
+            "name": "Ecoline Liquid Watercolors",
+            "description": "Ecoline Liquid Watercolors are highly pigmented, water-based inks that offer vibrant colors and smooth blending, ideal for artists and hobbyists seeking versatility in their artwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "cf214721-4463-4bbb-b89c-f8f2e5fd5b52",
+            "image": null,
+            "name": "Ecoline Watercolor Refills",
+            "description": "Ecoline Watercolor Refills are designed for artists seeking vibrant, fluid colors in their watercolor artwork. These refills provide a convenient way to replenish Ecoline watercolor brush pens and bring versatility to painting techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "e6487c56-d0dd-490e-a0a2-d097ab0c1aca",
+            "image": null,
+            "name": "Ecoline Watercolor Inks",
+            "description": "Ecoline Watercolor Inks are a range of liquid watercolors designed for vibrant and fluid painting techniques. They offer high transparency, excellent lightfastness, and are perfect for artists and illustrators seeking versatile watercolor mediums.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "aba030ae-8349-42b3-93b6-7450d43f8628",
+            "image": null,
+            "name": "Ecoline Liquid Watercolor",
+            "description": "Ecoline Liquid Watercolor is a versatile and vibrant watercolor paint designed for artists and crafters, offering a wide range of colors that blend easily and provide excellent transparency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "e91bc725-2b10-4b9c-a776-9440c63f2a12",
+            "image": null,
+            "name": "Ecoline Brush Pen",
+            "description": "Ecoline Brush Pens are water-based, vibrant ink pens designed for artists and crafters, allowing for fluid application and blending, ideal for creating expressive artworks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Ecoline"
+            }
+        },
+        {
+            "id": "416d62e6-27a1-42a5-9510-e99f5636f646",
+            "image": null,
+            "name": "Art Spectrum Range of Artist Quality Paints",
+            "description": "Art Spectrum Range of Artist Quality Paints is a series designed for professional artists, offering vibrant, high-pigment colors that are ideal for various painting techniques. Each paint is crafted to provide excellent lightfastness and consistency in application.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "ca31461e-65e4-4d83-be22-2b31909f3cd0",
+            "image": null,
+            "name": "Art Spectrum Pastels",
+            "description": "Art Spectrum Pastels are high-quality, artist-grade pastel sticks that offer rich pigmentation and smooth application, ideal for various techniques in drawing and painting.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "5eeb3927-2bff-4b21-b4fe-0e4de1dc22f1",
+            "image": null,
+            "name": "Big Agnes Copper Spur HV UL",
+            "description": "The Big Agnes Copper Spur HV UL is a lightweight, two-person tent designed for backpacking and camping, known for its high-volume architecture that maximizes living space and minimizes weight.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "895d6630-9871-4160-b58e-ce55f9c5b780",
+            "image": null,
+            "name": "Big Agnes Tiger Wall UL",
+            "description": "The Big Agnes Tiger Wall UL series is a lightweight and ultralight backpacking tent designed for easy setup and optimal ventilation, making it an ideal choice for minimalist campers and hikers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "b8aa3fb4-af53-49a4-a4e4-c3ad1f435d55",
+            "image": null,
+            "name": "Big Agnes Insulated AXL Air",
+            "description": "The Big Agnes Insulated AXL Air is a lightweight, inflatable sleeping pad designed for backpackers and campers seeking comfort and insulation in cold conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        }
+    ]
+}

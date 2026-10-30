@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "5ef601ff-a2ab-435d-96a8-d422ba95d94b",
+            "image": null,
+            "name": "Multistrada 1260",
+            "description": "The Ducati Multistrada 1260 is a versatile adventure motorcycle designed for long-distance touring and spirited rides on a variety of terrains, featuring advanced technology and comfortable ergonomics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "d79f081d-aa1d-42b4-9407-5446fd570295",
+            "image": null,
+            "name": "Poco M3 Pro 5G",
+            "description": "The Poco M3 Pro 5G is a smartphone designed to offer an affordable entry point into the 5G mobile experience, featuring robust performance and a high refresh rate display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "b877932b-3303-46ee-ad39-08b67cdd4f95",
+            "image": null,
+            "name": "Naturehike Cloud Up",
+            "description": "Naturehike Cloud Up series offers lightweight and portable camping gear designed for outdoor enthusiasts seeking an easy setup and reliable protection from the elements.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Naturehike"
+            }
+        },
+        {
+            "id": "7702f2f2-d5ec-444e-8926-ebfa2969a64f",
+            "image": null,
+            "name": "Dodge Charger Widebody",
+            "description": "The Dodge Charger Widebody is a high-performance version of the classic American sedan, featuring an aggressive widebody design that enhances its stability and handling capabilities while delivering powerful engine options.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "e91740ca-93c9-43aa-9da9-c4cb84c3cf45",
+            "image": null,
+            "name": "Porsche Cayenne (second generation facelift)",
+            "description": "The Porsche Cayenne (second generation facelift) is a luxury SUV that combines sporty performance with off-road capability, designed for both comfort and dynamic driving experiences.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7ea2341a-1bd2-4bbe-b897-6faa107243cc",
+            "image": null,
+            "name": "Tata Punch EV",
+            "description": "The Tata Punch EV is an all-electric compact SUV launched by Tata Motors in 2023, designed to offer an eco-friendly driving experience with modern features and advanced technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "b25da09a-dba2-47bf-a8c7-148f9b594796",
+            "image": null,
+            "name": "Gateway 14 Chromebook",
+            "description": "The Gateway 14 Chromebook is a lightweight laptop designed for everyday use, offering a user-friendly interface and efficient performance ideal for students and casual users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "1f62c371-bdd2-4fd5-bbf8-68a3ecc7e5f3",
+            "image": null,
+            "name": "Vox MV50 Series",
+            "description": "The Vox MV50 Series is a line of compact and lightweight guitar amplifiers designed to deliver high-quality tube sound in a portable format, catering to musicians seeking versatility and convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vox"
+            }
+        },
+        {
+            "id": "1518ecf4-39ba-49c4-8961-127f216c09e0",
+            "image": null,
+            "name": "Mann-Filter C Cabin Filter Series",
+            "description": "The Mann-Filter C Cabin Filter Series provides effective filtration of airborne pollutants, ensuring cleaner air inside the vehicle cabin. Designed for a range of vehicles, these filters help maintain a healthy and comfortable environment for passengers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "e37ed518-7394-4eed-a510-dfcc7312621a",
+            "image": null,
+            "name": "Gateway 15.6 Laptop",
+            "description": "The Gateway 15.6 Laptop is designed for everyday use, featuring a balance of performance and portability suitable for students and professionals alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "184fcdc1-bdd8-47bd-afdd-68ea7f9856ea",
+            "image": null,
+            "name": "Ducati Multistrada 1000 DS",
+            "description": "The Ducati Multistrada 1000 DS is a versatile motorcycle designed for both on-road and off-road riding, offering a blend of performance and comfort for adventure enthusiasts.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "bb2ca329-6a27-4cc5-8490-5e71472ba6bb",
+            "image": null,
+            "name": "Gateway Series Laptops",
+            "description": "The Gateway Series Laptops are designed for everyday computing, offering a balance of performance and affordability for users seeking reliable technology for both work and leisure.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Gateway"
+            }
+        },
+        {
+            "id": "b3788074-b118-402c-9708-950de0b148d0",
+            "image": null,
+            "name": "Mann-Filter A Air Filter Series",
+            "description": "The Mann-Filter A Air Filter Series is designed to ensure optimal air intake for combustion engines, improving efficiency and performance. It combines high filtration capacity with low airflow resistance to enhance engine longevity.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "366969cb-bd52-4b5e-ad16-f829de0e6864",
+            "image": null,
+            "name": "Sierra Designs High Route Tent Series",
+            "description": "The Sierra Designs High Route Tent Series features lightweight, versatile tents designed for backpackers seeking maximum functionality and comfort during their outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Sierra"
+            }
+        },
+        {
+            "id": "8d533287-0fc8-4e0c-9cd3-e7808fd90070",
+            "image": null,
+            "name": "Ducati Superbike 1198",
+            "description": "The Ducati Superbike 1198 is a high-performance motorcycle designed for both track and street use, featuring a powerful V-twin engine that delivers exceptional speed and agility.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "ad963767-9e98-4673-b10c-91d7c7eb28c8",
+            "image": null,
+            "name": "Krooked Skateboards 2020 Collection",
+            "description": "The Krooked Skateboards 2020 Collection features a range of skateboards designed for performance and durability, reflecting the brand's commitment to creativity and street culture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "0480102b-e339-4c62-bd00-193daadd2dee",
+            "image": null,
+            "name": "Isuzu D-Max (New Generation)",
+            "description": "The Isuzu D-Max (New Generation) is a versatile and durable pickup truck designed for both work and leisure, offering robust performance and a range of configurations to meet diverse needs.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Isuzu"
+            }
+        },
+        {
+            "id": "68653755-0fa1-4037-b3d8-19d14a4284f7",
+            "image": null,
+            "name": "Mann-Filter L Class",
+            "description": "The Mann-Filter L Class series includes high-performance oil, air, and fuel filters designed to meet the unique filtration requirements of various vehicles, ensuring optimal engine performance and longevity.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "13488be0-61e6-4149-b7a2-32cf0f7db797",
+            "image": null,
+            "name": "Ducati 848 EVO",
+            "description": "The Ducati 848 EVO is a high-performance motorcycle designed for sport riding, featuring a compact L-twin engine, advanced electronics, and a lightweight chassis for superior handling.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "3906c10d-e49c-4ccb-8b23-59eb9ca14e0c",
+            "image": null,
+            "name": "Tiger 955",
+            "description": "The Triumph Tiger 955 is a versatile adventure motorcycle known for its ability to handle both on-road and off-road conditions, featuring a powerful engine and a rugged design.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "9d9a2dd0-b56d-4eea-9ea0-0c391049ae11",
+            "image": null,
+            "name": "Ducati Diavel Strada",
+            "description": "The Ducati Diavel Strada is a sport cruiser motorcycle designed for long-distance rides, combining comfort with a powerful performance and modern technology.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "8093aa09-7314-479f-b773-5d7e6872899f",
+            "image": null,
+            "name": "Mann-Filter F Class",
+            "description": "The Mann-Filter F Class series is designed to provide high-quality filtration solutions for automotive applications, enhancing engine performance and efficiency since its release in 2007.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "4f4f246d-ea01-4035-a620-5a41a0e379b9",
+            "image": null,
+            "name": "Mann-Filter C 12 566",
+            "description": "The Mann-Filter C 12 566 is an automotive cabin air filter designed to improve air quality inside vehicles by trapping dirt, dust, and allergens. It typically features high filtration efficiency, ensuring a comfortable driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "49b0e836-95aa-43ec-892e-69f41b1a1342",
+            "image": null,
+            "name": "Mann-Filter W 712/52",
+            "description": "Mann-Filter W 712/52 is an oil filter designed for automotive applications, ensuring effective filtration of engine oil to maintain engine performance and longevity.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "f35e2b45-ea0b-4a24-9770-ac9b526d674b",
+            "image": null,
+            "name": "Vic Firth American Classic",
+            "description": "The Vic Firth American Classic series offers a wide range of drumsticks designed for drummers of all styles and skill levels, emphasizing quality and performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        },
+        {
+            "id": "6670d311-8c45-4eec-91a1-ae6c3338abb9",
+            "image": null,
+            "name": "Enjoi 2018 Pro Decks",
+            "description": "The Enjoi 2018 Pro Decks are a collection of skateboards designed for professional skaters, offering a combination of durability and performance suitable for various skating styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "8b648e0f-0f47-4d8e-9740-ffa602869445",
+            "image": null,
+            "name": "XDiavel",
+            "description": "The Ducati XDiavel is a premium cruiser motorcycle that combines Italian styling with thrilling performance, showcasing a powerful engine and advanced electronics for an unparalleled riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "98d51379-a9b5-4b6a-9481-6b5054492b9b",
+            "image": null,
+            "name": "Daytona 600/650",
+            "description": "The Triumph Daytona 600/650 is a sport motorcycle series designed for both performance and agility, featuring a blend of advanced engineering and a lightweight chassis for an exhilarating riding experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "5b840c52-faf3-4a02-ab4b-57b5f57340ab",
+            "image": null,
+            "name": "Ducati Panigale V4",
+            "description": "The Ducati Panigale V4 is a high-performance sport motorcycle known for its powerful V4 engine and advanced electronics, designed for both track and street use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "f1b7b42a-4787-4659-9996-f2e7c17c07c3",
+            "image": null,
+            "name": "Vic Firth American Classic Extreme 5A",
+            "description": "The Vic Firth American Classic Extreme 5A is a pair of drumsticks designed for versatile playability, combining balance and weight for enhanced performance across various musical styles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Vic Firth"
+            }
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "b49a8fc7-2563-484b-af99-9413d82ede5d",
+            "image": null,
+            "name": "SonicGear TWS-02",
+            "description": "The SonicGear TWS-02 is a series of true wireless headphones designed to provide users with a seamless and convenient audio experience, featuring Bluetooth connectivity and comfortable fit for extended wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Sonic Gear"
+            }
+        },
+        {
+            "id": "955ff6f1-2ae1-4960-9aaa-ddaabe067714",
+            "image": null,
+            "name": "Sleeping Giant",
+            "description": "The Big Agnes Sleeping Giant series features spacious and comfortable sleeping bags designed for camping enthusiasts seeking warmth and versatility. These bags are tailored for outdoor adventures, ensuring a restful night in various conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "297165ba-75fd-4e9d-959f-bad3e5c18c82",
+            "image": null,
+            "name": "Britax Romer ADVANSAFIX i-Size",
+            "description": "The Britax Romer ADVANSAFIX i-Size is a car seat designed for children from approximately 15 months to 12 years. It features advanced safety technologies and an ergonomic design to ensure comfort and security during travel.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "240477a1-021a-409b-945b-be945d73f717",
+            "image": null,
+            "name": "Big Agnes Anvil Horn",
+            "description": "The Big Agnes Anvil Horn series features versatile camping gear designed for comfort and functionality in outdoor settings, making it ideal for various camping adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "cc10fa48-776a-4b7e-9a61-e8a9f3bce8a0",
+            "image": null,
+            "name": "DUPLO My First Cars and Trucks",
+            "description": "DUPLO My First Cars and Trucks is a series of educational toy sets designed for young children to stimulate imaginative play while developing motor skills through building and storytelling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "50246842-ca02-46f7-949f-400a38f5991b",
+            "image": null,
+            "name": "Aston Martin DB9 Volante",
+            "description": "The Aston Martin DB9 Volante is a luxury sports convertible that combines elegant design with high performance, showcasing Aston Martin's engineering prowess and commitment to driving pleasure.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "3e99547d-ec5b-4a4d-9372-959e7daf4e6c",
+            "image": null,
+            "name": "DUPLO Disney Princess",
+            "description": "DUPLO Disney Princess is a series of building toys designed for young children, featuring iconic characters and settings from Disney Princess stories to inspire imaginative play and creativity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "6a8302be-2272-4ab8-a30a-074ff6a1d680",
+            "image": null,
+            "name": "Fly Creek HV UL",
+            "description": "The Big Agnes Fly Creek HV UL series is a lightweight, high-volume tent designed for backpackers seeking a balance of durability and minimal weight. Its unique design maximizes space while ensuring easy setup and packability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "32a40aed-5e93-4a22-89fa-b5235b1551c5",
+            "image": null,
+            "name": "C4 Cactus",
+            "description": "The Citroën C4 Cactus is a compact crossover SUV designed for urban driving, featuring a unique exterior design with airbumps and a focus on functionality and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "d346b21c-7ac4-4a48-b99f-e122e4992cbd",
+            "image": null,
+            "name": "DUPLO Farm Adventures",
+            "description": "DUPLO Farm Adventures is a series of playsets designed for younger children, featuring farm-themed figures and accessories that encourage creative play and development of fine motor skills.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "ea71d361-59bb-43ae-aaf4-2f0aab3ecd34",
+            "image": null,
+            "name": "Hauck Shopper Neo II Travel System",
+            "description": "The Hauck Shopper Neo II Travel System is designed to provide a convenient and flexible solution for parents on the go, featuring a versatile stroller and a car seat that can be easily interchanged.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "6d470e82-3b41-42e4-8258-7a120dbf8f20",
+            "image": null,
+            "name": "Aston Martin DB9 (2013 Facelift)",
+            "description": "The Aston Martin DB9 (2013 Facelift) is a luxury grand tourer known for its elegant design, powerful performance, and advanced technology, making it a refined choice for driving enthusiasts and connoisseurs alike.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "f3654e17-5afc-482b-9f76-e7690cfeb056",
+            "image": null,
+            "name": "Rattlesnake SL",
+            "description": "The Big Agnes Rattlesnake SL series offers lightweight and packable camping gear designed for comfort during outdoor adventures. This series focuses on providing quality sleep systems with efficient weight distribution and insulation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Big Agnes"
+            }
+        },
+        {
+            "id": "c9b2e862-7bee-460f-beed-8d5166380d57",
+            "image": null,
+            "name": "Evenflo Gold SensorSafe",
+            "description": "The Evenflo Gold SensorSafe series includes baby seats designed to enhance child safety in vehicles through integrated SensorSafe technology, which alerts caregivers to potential dangers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e3760b65-794f-4953-a597-8b23fc0c838a",
+            "image": null,
+            "name": "Hauck Disney Baby Imax",
+            "description": "The Hauck Disney Baby Imax is a stroller designed for infants and young children, combining functionality with playful Disney designs to provide a comfortable and enjoyable experience for both parent and child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "c92e3066-d345-40f8-9540-7261ef90c13e",
+            "image": null,
+            "name": "Berlingo",
+            "description": "The Citroën Berlingo is a versatile multi-purpose vehicle designed for both commercial and family use, offering spacious interior and practical features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "5d015dfe-3285-4405-a485-2e0fe364bea1",
+            "image": null,
+            "name": "DUPLO 10875 My First Car",
+            "description": "DUPLO 10875 My First Car is an educational toy designed for young children to enhance their motor skills and imaginative play through building and interactive experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "be12a1cc-6c4a-4e6a-a6c8-73b6bbb5788c",
+            "image": null,
+            "name": "Logitech G610",
+            "description": "The Logitech G610 series is a line of mechanical gaming keyboards designed for gamers seeking a reliable and responsive typing experience, featuring customizable lighting and advanced key technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "47801614-1207-410b-9747-e2534b7504e8",
+            "image": null,
+            "name": "Mercedes-Benz R171",
+            "description": "The Mercedes-Benz R171 is a luxury roadster model produced from 2002, known for its stylish design and performance, catering to those who seek an open-top driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "1d0ee94e-3da1-4ad8-bb9f-ca48be528726",
+            "image": null,
+            "name": "Let's Learn Chinese",
+            "description": "Let's Learn Chinese is a children's book series designed to introduce young learners to the Chinese language through engaging activities and fun illustrations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Hippocrene Books"
+            }
+        },
+        {
+            "id": "70e22a5a-778b-4102-af1b-6b69b32fe85e",
+            "image": null,
+            "name": "Autoglym Extra Gloss Protection",
+            "description": "Autoglym Extra Gloss Protection is a car care product designed to provide an additional layer of protection and enhanced shine to automotive paintwork. Its key purpose is to seal and preserve the finish from environmental contaminants and UV exposure.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "dae58555-be41-4148-909d-9efed61b4c18",
+            "image": null,
+            "name": "DUPLO 10882 Train Track Expansion Set",
+            "description": "The DUPLO 10882 Train Track Expansion Set is designed to expand play possibilities with DUPLO train sets, offering additional straight and curved tracks for building unique railway layouts. It encourages imaginative play and fine motor skills in young children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "d73b433d-0cd5-4a84-9177-ba4658571f94",
+            "image": null,
+            "name": "Hauck Rapid 4R Plus",
+            "description": "The Hauck Rapid 4R Plus is a versatile stroller designed for easy maneuverability and comfort for both parent and child. Its lightweight design and quick folding mechanism make it ideal for families on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Hauck"
+            }
+        },
+        {
+            "id": "4f41954e-4ff5-4a89-8e4f-400e45181dc3",
+            "image": null,
+            "name": "DUPLO 10883 My First Rocket",
+            "description": "DUPLO 10883 My First Rocket is a colorful building set designed for young children to inspire imaginative play and develop fine motor skills through building and exploration.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "d818fb01-5755-40e4-9259-c897ae30ecb0",
+            "image": null,
+            "name": "Axis",
+            "description": "The Maxi-Cosi Axis series includes baby seats designed to offer safety and comfort for infants during car travel. Key features include a user-friendly design and the ability to adapt as your child grows.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "588d6ba2-c6da-4bea-ad48-af328c4b0560",
+            "image": null,
+            "name": "DUPLO 10889 Town Farm Animal Care",
+            "description": "The DUPLO 10889 Town Farm Animal Care set allows young children to engage in imaginative play with animals and farm-themed accessories, fostering development in motor skills and creativity.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "5b79a9b0-018f-40a7-ad95-340aa18b40c6",
+            "image": null,
+            "name": "Pebble 360",
+            "description": "The Maxi-Cosi Pebble 360 is a baby seat designed for infants, offering 360-degree rotation for easy access and convenience during car rides. It is engineered with safety and comfort features to support your child's needs from birth.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec5ee6ef-c771-4294-8554-a9d7840b8e7d",
+            "image": null,
+            "name": "Gtechniq C2 Liquid Crystal",
+            "description": "Gtechniq C2 Liquid Crystal is a high-performance liquid polymer designed for use as a quick detailing spray and sealant. It provides durable protection and enhanced gloss to automotive paint surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "c40ea5bb-ba43-4f39-b7f6-e78246293452",
+            "image": null,
+            "name": "Rapid Detailer",
+            "description": "Autoglym Rapid Detailer is a quick and convenient spray-on product designed to enhance the appearance of your vehicle's paintwork while providing a protective layer against dirt and contaminants.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "c2cfe370-afd5-4196-8fc6-4caf7dcc6bfd",
+            "image": null,
+            "name": "Logitech G413",
+            "description": "The Logitech G413 is a mechanical gaming keyboard designed for gamers seeking a reliable and high-performance typing experience. It features advanced keys with precision engineering, making it suitable for both gaming and everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        }
+    ]
+}

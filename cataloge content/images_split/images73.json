@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7165bbba-6ea2-44ec-bb81-9f32cec33631",
+            "image": null,
+            "name": "Deegan 38",
+            "description": "The Mickey Thompson Tires Deegan 38 series is designed for high-performance off-road driving, featuring aggressive tread patterns that provide traction and stability on various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "7208ea34-3148-4a17-ab5d-6316056c2b3b",
+            "image": null,
+            "name": "Baja Legend MTZ",
+            "description": "The Mickey Thompson Baja Legend MTZ is an off-road tire designed for extreme terrain, providing superior traction and durability for off-road enthusiasts and competitive drivers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "9c14fb29-ffd1-4ffd-ad33-c7cf21f39e9a",
+            "image": null,
+            "name": "Pro Comp Xtreme MT",
+            "description": "Pro Comp Xtreme MT tires are designed for off-road enthusiasts, providing exceptional traction and durability in extreme conditions such as mud and rocky terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "a9bb9ca4-747f-474f-b944-a3373c2c77e6",
+            "image": null,
+            "name": "Chevrolet Silverado 2500HD",
+            "description": "The Chevrolet Silverado 2500HD is a heavy-duty pickup truck designed for both rugged capability and comfortable driving, offering powerful towing capabilities and advanced technology features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "bb79f327-7e6b-4f71-b796-d6659a54927d",
+            "image": null,
+            "name": "NT03",
+            "description": "The Enkei NT03 is a performance-oriented wheel series designed for motorsports enthusiasts, featuring lightweight aluminum construction and a unique design that balances style and functionality.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "cb038673-ec16-46e5-801d-56eb4880aa53",
+            "image": null,
+            "name": "Pro Comp Xtreme A/T",
+            "description": "The Pro Comp Xtreme A/T series offers all-terrain tires designed to perform on various surfaces, providing a balance of off-road capability and on-road comfort since its release in 2000.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "cb22ed4c-aa37-4edd-a30a-7f2d048e0124",
+            "image": null,
+            "name": "Pro Comp Xtreme Mud Terrain",
+            "description": "The Pro Comp Xtreme Mud Terrain series is designed for off-road enthusiasts, providing superior traction and durability in mud and rough terrain conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "d405ce7a-e42f-4b7f-a005-670fd6402801",
+            "image": null,
+            "name": "Baja MTZ",
+            "description": "The Mickey Thompson Baja MTZ is a premium tire designed for off-road enthusiasts, featuring a mud-terrain tread pattern for enhanced traction in challenging conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "080388c7-824e-45aa-b470-2e467bfdf7d0",
+            "image": null,
+            "name": "Pro Comp All-Terrain Tire",
+            "description": "The Pro Comp All-Terrain Tire is designed for versatile performance on both on-road and off-road terrains, providing durability and traction.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "0a991774-dd61-4081-8175-18413b4e2d9f",
+            "image": null,
+            "name": "Raijin",
+            "description": "The Enkei Raijin series features lightweight, high-performance wheels designed to enhance vehicle handling and aesthetic appeal. With a focus on function and style, these rims are suitable for both daily driving and motorsport applications.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "0e8ea57f-0d8c-4c57-8d3d-816a2d4208b6",
+            "image": null,
+            "name": "Pro Comp All-Terrain  A/T Sport",
+            "description": "The Pro Comp All-Terrain A/T Sport tires are designed for off-road and on-road performance, offering a balanced combination of traction, durability, and stability for both rugged terrains and daily driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "10ef346b-eed6-43c7-a19a-c906c2b23db1",
+            "image": null,
+            "name": "Pro Comp Xtreme MT2",
+            "description": "The Pro Comp Xtreme MT2 is a mud-terrain tire designed for superior off-road performance, featuring aggressive tread patterns for enhanced traction in challenging conditions.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "1cd9fbb5-e74f-4236-9c9b-4cffad757ec6",
+            "image": null,
+            "name": "Pro Comp Xtreme A/T Sport",
+            "description": "The Pro Comp Xtreme A/T Sport is an all-terrain tire designed for aggressive off-road performance while maintaining on-road comfort and durability. It features an enhanced tread design for improved traction in various conditions, making it suitable for both light trucks and SUVs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "29fe4625-88c4-48ae-b924-b52d4a8758c5",
+            "image": null,
+            "name": "ES Series",
+            "description": "The Enkei ES Series consists of lightweight, high-performance rims designed to enhance vehicle handling and aesthetics while offering durability and a stylish appearance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "2e951b6b-9b8e-4c4a-8a64-1b06fb3f1eb1",
+            "image": null,
+            "name": "Pro Comp AT Sport",
+            "description": "The Pro Comp AT Sport is an all-terrain tire designed for versatile performance on both on- and off-road conditions, providing durability and traction suited for a variety of vehicles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "3ae9a18d-d69e-424e-a8b3-06c39fa1cb35",
+            "image": null,
+            "name": "NT03+M",
+            "description": "The Enkei NT03+M is a lightweight, high-performance wheel designed for racing and sports cars, offering enhanced strength and durability while maintaining optimal weight.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Enkei Wheels"
+            }
+        },
+        {
+            "id": "3b2c8498-7d57-4fbe-bf6b-2b3d6aba86c5",
+            "image": null,
+            "name": "Pro Comp All Terrain Tires",
+            "description": "The Pro Comp All Terrain Tires are designed for both on-road comfort and off-road durability, providing excellent traction across varied terrains.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pro Comp Tires"
+            }
+        },
+        {
+            "id": "531d3b8f-87bc-469d-b65e-5c0407e09365",
+            "image": null,
+            "name": "Mickey Thompson Baja Pro X",
+            "description": "The Mickey Thompson Baja Pro X is an off-road tire designed for extreme traction and durability on various terrains, particularly suited for competitive racing and off-road adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "590efaf2-020b-4d42-8f80-35c3ef0cee5b",
+            "image": null,
+            "name": "Titan",
+            "description": "Fuchs Titan is a series of premium car care products introduced in 2009, designed to enhance vehicle performance and maintain the integrity of automotive systems.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Fuchs"
+            }
+        },
+        {
+            "id": "d9e7ab76-3a01-41b7-87f3-0c55e106448c",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Performance Intake",
+            "description": "The K&N 77 Series High-Flow Performance Intake is an aftermarket air intake system designed to increase horsepower and acceleration in vehicles by allowing an improved airflow through the engine.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "dbf7daff-f684-4c3d-8c44-4d33a32e4638",
+            "image": null,
+            "name": "K&N 63 Series AirCharger",
+            "description": "The K&N 63 Series AirCharger is a performance air intake system designed to increase horsepower and acceleration while providing excellent filtration. It replaces the factory air intake system with an engineered design that allows for better airflow and engine efficiency.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "dece9de3-8f54-41ed-bf9b-3cf72a263117",
+            "image": null,
+            "name": "K&N Replacement Air Filters",
+            "description": "K&N Replacement Air Filters are designed to provide enhanced airflow and filtration efficiency for improved engine performance. These filters are washable and reusable, offering a sustainable solution for maintaining automotive efficiency.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "658173c2-0a59-4719-9f50-918f9fed9c5e",
+            "image": null,
+            "name": "K&N 77 Series Performance Air Intake System",
+            "description": "The K&N 77 Series Performance Air Intake System is designed to enhance engine performance by improving airflow and filtration efficiency. This aftermarket air intake system is engineered to provide increased horsepower and torque for various vehicle makes and models.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "67277bae-2cf2-4959-88f0-db38487c6531",
+            "image": null,
+            "name": "American Racing Torq Thrust",
+            "description": "The American Racing Torq Thrust series is a line of classic-style aluminum wheels designed to enhance the performance and aesthetic appeal of various vehicles, particularly muscle cars and hot rods.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "fd30b8fe-03d6-451a-949a-57307258452e",
+            "image": null,
+            "name": "K&N 69 Series Typhoon Air Intake System",
+            "description": "The K&N 69 Series Typhoon Air Intake System is a performance air intake system designed to enhance engine horsepower and acceleration by allowing for increased airflow. It features an easy installation process and is suitable for various vehicle models.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "fec3cd7c-9e45-458a-85d9-f33168b6ff0f",
+            "image": null,
+            "name": "Rotiform BLQ",
+            "description": "The Rotiform BLQ is a stylish line of alloy rims designed for performance and aesthetic appeal in the automotive market, offering unique designs that enhance the overall look of vehicles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Rotiform"
+            }
+        },
+        {
+            "id": "7c7377b6-9d1c-4814-bccd-b9fffc006936",
+            "image": null,
+            "name": "Blick Studio Colored Pencils",
+            "description": "Blick Studio Colored Pencils are high-quality art supplies designed for both beginners and professional artists. They offer a rich range of colors and excellent blendability, making them ideal for various drawing techniques.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "f45f4deb-cd49-42a5-9146-10858b5cac4c",
+            "image": null,
+            "name": "Barracuda 120",
+            "description": "The Seagate Barracuda 120 is a series of SATA SSDs launched in 2019, designed for fast performance and reliability in everyday computing tasks.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate"
+            }
+        },
+        {
+            "id": "7b121f16-82e1-4e43-88bf-2db39ea64917",
+            "image": null,
+            "name": "American Racing Wheels",
+            "description": "American Racing Wheels are a series of high-performance rims designed to enhance vehicle aesthetics and improve handling. Launched in 2005, these wheels are known for their durable construction and stylish designs.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        },
+        {
+            "id": "8b2108b5-b844-4a17-b0aa-13b4c14ca450",
+            "image": null,
+            "name": "American Racing Vintage Wheel Series",
+            "description": "The American Racing Vintage Wheel Series offers a classic aesthetic combined with modern performance, designed for enthusiasts looking to enhance the appearance and functionality of their vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "American Racing"
+            }
+        }
+    ]
+}

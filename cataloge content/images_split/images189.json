@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ccb749d8-5b5d-467e-abec-7de2ec3fa7ad",
+            "image": null,
+            "name": "Prang Tempera Paint",
+            "description": "Prang Tempera Paint is a vibrant and versatile paint designed for use in a variety of art projects, offering excellent coverage and easy mixing for endless creative possibilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "403c042c-be30-405e-9536-99f5be50517a",
+            "image": null,
+            "name": "Prang Dual Tip Markers",
+            "description": "Prang Dual Tip Markers are versatile art supplies designed for artists and students, featuring two distinct tip sizes that allow for precision in both detailed and broad applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prang"
+            }
+        },
+        {
+            "id": "a6fdcda7-79d3-41bc-8f48-4827fb917dad",
+            "image": null,
+            "name": "Elixir Optiweb",
+            "description": "Elixir Optiweb strings are designed to provide enhanced tonal clarity and longevity, combining a unique coating technology with a hexagonal core for optimal sound and feel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "cfe88de5-e8b0-4318-bd60-bc0c18687c39",
+            "image": null,
+            "name": "Elixir Acoustic Guitar Strings with NANOWEB Coating",
+            "description": "Elixir Acoustic Guitar Strings with NANOWEB Coating are designed to provide long-lasting tone and reduced finger squeak, making them a preferred choice for musicians seeking a blend of durability and sound quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "a609cba8-e87d-4ab3-bfad-71d93ae55841",
+            "image": null,
+            "name": "Elixir Electric Guitar Strings with NANOWEB Coating",
+            "description": "Elixir Electric Guitar Strings with NANOWEB Coating are designed to provide long-lasting tone and protect against corrosion, enhancing playability for guitarists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "09913612-2308-4df0-be2c-46e44abbf5f3",
+            "image": null,
+            "name": "Elixir Bass Guitar Strings with NANOWEB Coating",
+            "description": "Elixir Bass Guitar Strings with NANOWEB Coating are designed to provide long-lasting tone and reduced finger noise, making them a popular choice among bass players seeking enhanced durability and playability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "56e89493-59f6-410e-903e-0a848836c1b6",
+            "image": null,
+            "name": "Elixir NanosWeb",
+            "description": "Elixir NanosWeb strings are designed for musicians seeking enhanced durability and corrosion resistance, featuring a unique coating that provides a bright tone and extended lifespan.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "300887fd-0393-4d87-8bf2-9ae0c99ced7f",
+            "image": null,
+            "name": "Elixir Polyweb",
+            "description": "Elixir Polyweb guitar strings are designed to provide a smooth feel and extended playability while offering corrosion resistance, ensuring a bright tone and longer life for musicians.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "61137b82-31a6-41c4-94f3-9670cff93483",
+            "image": null,
+            "name": "Elixir Acoustic String Series",
+            "description": "The Elixir Acoustic String Series offers a range of acoustic guitar strings designed for durability, rich tone, and exceptional playability, catering to both amateur and professional musicians.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "4e35b3d5-b52c-4c5e-be9b-bbbb60f14740",
+            "image": null,
+            "name": "Elixir Electric String Series",
+            "description": "The Elixir Electric String Series is designed for electric guitars, offering a balanced tone and extended playability. The strings feature an anti-rust coating, enhancing their longevity and maintaining sound quality over time.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "7f8d0c88-ca4a-4ee7-a822-530538892322",
+            "image": null,
+            "name": "Elixir Bass String Series",
+            "description": "Elixir Bass String Series offers long-lasting, high-performance bass strings designed to provide a rich tone and excellent playability for musicians.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "02927818-ed7a-407b-8568-dca3efc5b1c1",
+            "image": null,
+            "name": "Elixir Nanoweb",
+            "description": "Elixir Nanoweb strings are designed for musicians seeking long-lasting tone and reduced finger noise. These strings feature a patented coating that protects against corrosion and enhances playability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "68143408-371a-4df4-9dae-6c83959c1093",
+            "image": null,
+            "name": "Optiweb",
+            "description": "The Elixir Optiweb series offers coated electric guitar strings designed to enhance playability and durability while providing a bright, clear tone. These strings are ideal for musicians looking for long-lasting performance and outstanding sound quality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "2e521237-577e-45fa-833c-eb2ae3292bf3",
+            "image": null,
+            "name": "Elixir Optiweb Electric Guitar Strings",
+            "description": "Elixir Optiweb Electric Guitar Strings are designed to provide a balanced tone and long-lasting performance, featuring a unique coating that enhances playability and protects against corrosion.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "67a08872-7670-4d83-807b-a4f05d2b1384",
+            "image": null,
+            "name": "Elixir Acoustic Guitar Strings",
+            "description": "Elixir Acoustic Guitar Strings are designed to provide enhanced tone and longevity for acoustic guitar players, featuring a unique coating that keeps strings sounding fresh and vibrant.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Elixir Strings"
+            }
+        },
+        {
+            "id": "acc2a31e-a113-4d10-9d29-e6f09272fbe2",
+            "image": null,
+            "name": "Hammond SKX",
+            "description": "The Hammond SKX is a portable stage keyboard designed for musicians seeking authentic Hammond organ sounds, drawbar functionality, and advanced synthesis capabilities in a lightweight format.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Hammond"
+            }
+        },
+        {
+            "id": "e85dfbea-31e6-49f0-8af6-3e5fddc7cc4b",
+            "image": null,
+            "name": "Haro Downtown",
+            "description": "The Haro Downtown series features versatile BMX bikes designed for street and park riding, offering durability and agility for both beginner and experienced riders.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "08f04b70-3710-4062-96e4-48de7193e83f",
+            "image": null,
+            "name": "Haro Fatbike",
+            "description": "The Haro Fatbike series features bicycles designed for off-road riding, equipped with wide tires providing enhanced traction and stability on various terrains, ideal for adventurers seeking versatility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "9db987c9-5876-4583-b251-e2cc69762a06",
+            "image": null,
+            "name": "Haro Mothership",
+            "description": "The Haro Mothership series is designed for high-performance BMX riding, featuring robust frames and advanced components tailored for durability and responsive handling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "0d90b077-4a2c-452d-b0ec-4b43d04a7ece",
+            "image": null,
+            "name": "Haro Complete Bikes",
+            "description": "Haro Complete Bikes are a series of BMX and freestyle bikes designed for riders of all skill levels, combining durability with performance for both casual and competitive use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "85e6f235-7c50-4336-afad-a36c11c5c177",
+            "image": null,
+            "name": "Haro BMX Freestyle Bikes",
+            "description": "Haro BMX Freestyle Bikes are designed for performing tricks and stunts in various environments, offering durable construction and responsive handling suitable for both beginners and advanced riders.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "92af2e49-4608-4cf5-9e24-9eedce0e7dad",
+            "image": null,
+            "name": "Haro BMX 2020 Line",
+            "description": "The Haro BMX 2020 Line features a range of BMX bikes designed for street, park, and dirt riding, offering durability and performance tailored for athletes of all skill levels.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "91c4b4df-de99-47e6-9617-d60eb6263ddb",
+            "image": null,
+            "name": "Haro Master",
+            "description": "The Haro Master is a premium BMX bike series designed for riders seeking performance and style. Known for its durability and versatility, it is suitable for both street and park riding.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "6a5020e3-d8f0-4420-86f4-36eba50214cd",
+            "image": null,
+            "name": "Haro Shredder",
+            "description": "The Haro Shredder series consists of versatile BMX bikes designed for beginner to intermediate riders, offering durability and performance for both street and park riding.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "9e6ea3e5-969a-48f2-a156-ed1ae5068ef6",
+            "image": null,
+            "name": "Hape E0402",
+            "description": "The Hape E0402 series features a range of educational toys designed to promote imaginative play and motor skills development in children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "8dcb63e8-4c36-4da8-8fe1-ae5817a55216",
+            "image": null,
+            "name": "Hape Play Town",
+            "description": "The Hape Play Town series features a collection of playsets that encourage imaginative play and storytelling among children. Each set is designed to be durable, safe, and promote social interaction through cooperative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hape"
+            }
+        },
+        {
+            "id": "94e69193-8e9d-4e22-a993-4b1608fbb199",
+            "image": null,
+            "name": "Chicco Bravo Quick-Fold Travel System",
+            "description": "The Chicco Bravo Quick-Fold Travel System is a versatile stroller designed for convenience and ease of use. It features a quick-fold mechanism and includes an infant car seat, making it suitable for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "8d27afdb-5d70-489a-bf7a-7a9319424dab",
+            "image": null,
+            "name": "Safety 1st Grow and Go",
+            "description": "The Safety 1st Grow and Go series by Dorel Juvenile offers convertible car seats designed to accommodate children from infants to toddlers, ensuring safety and comfort throughout different stages of growth.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "d787e3ef-67c9-4fa6-af93-4543d2503e6f",
+            "image": null,
+            "name": "Osann Timo",
+            "description": "The Osann Timo series consists of baby seats designed to provide safety and comfort for infants and toddlers during car travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Osann"
+            }
+        },
+        {
+            "id": "b3258571-74cf-4729-92f0-49f61d5d8733",
+            "image": null,
+            "name": "Haro Boulevard",
+            "description": "The Haro Boulevard series of bikes is designed for urban riding, featuring a lightweight frame and versatile components suitable for both commuting and casual riding.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        }
+    ]
+}

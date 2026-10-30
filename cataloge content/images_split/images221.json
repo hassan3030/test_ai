@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b098bd3b-4530-4b6a-8c27-3741769d4741",
+            "image": null,
+            "name": "E.S.E. System",
+            "description": "The E.S.E. System by FrancisFrancis! is a series of coffee machines designed for brewing espresso using easy-serving espresso (E.S.E.) pods, enabling convenient and high-quality coffee preparation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "FrancisFrancis!"
+            }
+        },
+        {
+            "id": "29f80c19-b665-4204-9704-2320ac1e4b4b",
+            "image": null,
+            "name": "X1 Anniversary",
+            "description": "The FrancisFrancis! X1 Anniversary is an espresso machine that celebrates quality Italian design and craftsmanship, designed for producing café-quality espresso at home.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "FrancisFrancis!"
+            }
+        },
+        {
+            "id": "a7815018-2b90-4c5d-9150-60345aea1e1d",
+            "image": null,
+            "name": "X1 Espresso",
+            "description": "The FrancisFrancis! X1 Espresso series is a line of compact espresso machines designed for home use, combining aesthetic appeal with advanced brewing technology to produce high-quality espresso.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "FrancisFrancis!"
+            }
+        },
+        {
+            "id": "9120ae4b-606b-447c-95c2-d328e2e40c8a",
+            "image": null,
+            "name": "X1 Espresso Machine",
+            "description": "The FrancisFrancis! X1 Espresso Machine is a high-performance coffee machine designed for espresso enthusiasts, featuring an iconic design and user-friendly interface for making café-quality drinks at home.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "FrancisFrancis!"
+            }
+        },
+        {
+            "id": "059f13e5-fe23-4206-90b9-adb202ae0af2",
+            "image": null,
+            "name": "Baratza Sette 270Wi",
+            "description": "The Baratza Sette 270Wi is a high-performance coffee grinder designed for precision grinding, suitable for both espresso and brew methods. It features innovative design elements that facilitate easy adjustment and consistency in grind size.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "525b9906-358c-492c-a286-c00559d6b3bc",
+            "image": null,
+            "name": "Baratza Sette 270",
+            "description": "The Baratza Sette 270 is an advanced coffee grinder designed for precision grinding, allowing users to easily adjust grind size and dose for optimal coffee extraction.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Baratza"
+            }
+        },
+        {
+            "id": "bac93dcb-f195-41f2-99ba-8e5f24be9693",
+            "image": null,
+            "name": "Hoover ONEPWR",
+            "description": "The Hoover ONEPWR series is a line of cord-free vacuum cleaners designed for versatile cleaning tasks on various surfaces, providing convenience and portability with powerful suction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Hoover"
+            }
+        },
+        {
+            "id": "c2a7c655-eddb-48a0-9eb4-1ad6f5587014",
+            "image": null,
+            "name": "Shark ION Robot",
+            "description": "The Shark ION Robot series features robotic vacuum cleaners designed for efficient, automated cleaning of various floor types, equipped with smart navigation technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "a5fd6225-66c2-4ebb-94f7-c8e56f54a66f",
+            "image": null,
+            "name": "Shark Rocket",
+            "description": "The Shark Rocket series consists of lightweight, versatile vacuum cleaners designed for efficient cleaning on multiple surfaces, including carpets and hard floors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "aeb900a7-ebc8-4848-bd39-9755c1f29f07",
+            "image": null,
+            "name": "Shark ION F80",
+            "description": "The Shark ION F80 is a cord-free vacuum cleaner designed for versatile cleaning both on carpets and bare floors, featuring a lightweight design and a removable, rechargeable battery for convenience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "57e75c23-0f4f-4e24-b7ae-6237115576f6",
+            "image": null,
+            "name": "Shark ION Robot Vacuum R101",
+            "description": "The Shark ION Robot Vacuum R101 is an automated vacuum cleaner designed to efficiently clean various floor surfaces while navigating around obstacles. It features smart sensors for effective cleaning and can be controlled remotely via a mobile app.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "af163c5e-c998-410c-a2f9-2d5f8de2ab1d",
+            "image": null,
+            "name": "Shark Rocket Pro",
+            "description": "The Shark Rocket Pro is a versatile vacuum cleaner series designed to provide powerful suction in a lightweight design, making it suitable for quick clean-ups and hard-to-reach areas.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "9e5e32e7-465f-4cfa-af62-b48cb01f13d3",
+            "image": null,
+            "name": "Shark Apex",
+            "description": "The Shark Apex series includes high-performance vacuum cleaners designed to offer powerful suction, advanced filtration, and versatility for cleaning various surfaces in the home.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "9db3d9d1-3f8f-4582-b994-c04c7a79bf49",
+            "image": null,
+            "name": "Shark IQ Robot",
+            "description": "The Shark IQ Robot is an advanced robotic vacuum cleaner designed to autonomously navigate and clean various floor types while efficiently mapping the home for optimal cleaning performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "329c4557-094d-48d7-8eb7-d040315d61e8",
+            "image": null,
+            "name": "Bissell CrossWave X7",
+            "description": "The Bissell CrossWave X7 is a versatile cleaning device designed for both wet and dry cleaning, effectively vacuuming and washing floors simultaneously to improve cleaning efficiency.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Bissell"
+            }
+        },
+        {
+            "id": "ccff9105-97b8-439b-b2cc-7a336de50121",
+            "image": null,
+            "name": "Roborock S6 MaxV",
+            "description": "The Roborock S6 MaxV is an advanced robotic vacuum cleaner designed for efficient floor cleaning, featuring obstacle avoidance technology and smart mapping capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "1c629302-dca6-42dc-bcbb-e47dc5d3ab17",
+            "image": null,
+            "name": "Roborock Q7",
+            "description": "The Roborock Q7 is a robotic vacuum cleaner released in 2022, designed for efficient cleaning with advanced navigation and smart mapping capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "cd956572-b365-416d-9984-b0402ad6a9c1",
+            "image": null,
+            "name": "Roomba i3+",
+            "description": "The iRobot Roomba i3+ is an autonomous robotic vacuum cleaner designed to effectively clean floors with smart navigation and automatic dirt disposal.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "ad077458-3df5-48f0-a794-f2079cf37e51",
+            "image": null,
+            "name": "Roomba j7+",
+            "description": "The iRobot Roomba j7+ is a robotic vacuum cleaner designed for efficient floor cleaning with advanced smart mapping technology and obstacle detection, making it capable of navigating a variety of home environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "515cdac9-b37e-40a2-85be-82423786767d",
+            "image": null,
+            "name": "Roomba j7 Series",
+            "description": "The iRobot Roomba j7 Series is a line of robotic vacuum cleaners designed to autonomously clean various floor surfaces, featuring advanced obstacle recognition and navigation technology for efficient cleaning performance.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "iRobot"
+            }
+        },
+        {
+            "id": "a1e1c615-386e-4a64-962d-ba64ca3e44a9",
+            "image": null,
+            "name": "Tineco iFloor 3",
+            "description": "The Tineco iFloor 3 is a versatile cordless vacuum cleaner designed for efficient cleaning of both hard floors and carpets. It features a self-cleaning system and is equipped with two-tank technology to separate clean water from dirty water for improved hygiene during cleaning.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "1fbbd39b-25c9-4ea5-96fc-bd0d5c28cd09",
+            "image": null,
+            "name": "Nilfisk E series",
+            "description": "The Nilfisk E series vacuum cleaners are designed for effective cleaning in both home and professional environments, featuring advanced filtration and ergonomic handling.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Nilfisk"
+            }
+        },
+        {
+            "id": "33740dd9-a79b-4061-b29c-bc165e2104c9",
+            "image": null,
+            "name": "Dirt Devil Endura Reach",
+            "description": "The Dirt Devil Endura Reach is a series of vacuum cleaners designed for versatile cleaning performance with a focus on reach and maneuverability, making it suitable for various surfaces and cluttered spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "545aa37a-d80d-4893-bbe5-4ce068d2cd0d",
+            "image": null,
+            "name": "Dirt Devil Endura Max",
+            "description": "The Dirt Devil Endura Max series is designed for efficient cleaning, featuring powerful suction capabilities and a lightweight design for easy maneuverability. It aims to provide reliable performance for various floor types and help maintain a clean home environment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "c23579a6-dd8d-4990-9a45-c4b1f5a93f08",
+            "image": null,
+            "name": "Dirt Devil Scorpion",
+            "description": "The Dirt Devil Scorpion series is a line of handheld vacuum cleaners designed for quick clean-ups and tackling small messes with ease. These compact vacuums are known for their lightweight design and powerful suction capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "324c50f9-6c34-49e6-b0b4-c860df65e5ae",
+            "image": null,
+            "name": "Dirt Devil Razor",
+            "description": "The Dirt Devil Razor series is designed for efficient cleaning with versatile functionalities, making it suitable for various floor types. Its lightweight design and maneuverability ensure ease of use during cleaning tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "8ad90eb8-9254-4c00-87d5-38e5ad0f71b8",
+            "image": null,
+            "name": "Dirt Devil Vision",
+            "description": "The Dirt Devil Vision series is a line of vacuum cleaners designed to provide efficient cleaning for various surfaces in the home, featuring powerful suction and user-friendly designs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "0cd034e7-ef08-4804-a0f3-5b7fac9c8ff3",
+            "image": null,
+            "name": "Dirt Devil Endura",
+            "description": "The Dirt Devil Endura series is designed for efficient home cleaning, featuring powerful suction capabilities and easy maneuverability to tackle various floor types.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dirt Devil"
+            }
+        },
+        {
+            "id": "daad65c5-d8ae-47eb-95c7-253f17aebd88",
+            "image": null,
+            "name": "Secretlab Titan 2019 Series",
+            "description": "The Secretlab Titan 2019 Series is a premium gaming chair designed to provide ergonomic support and comfort for long gaming sessions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "faded3d4-afcf-46ca-b908-4bc7705dddc2",
+            "image": null,
+            "name": "Secretlab OMEGA 2022 Series",
+            "description": "The Secretlab OMEGA 2022 Series is a premium gaming chair designed to provide comfort and support for extended gaming sessions, featuring adjustable lumbar support and multi-functional armrests.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        }
+    ]
+}

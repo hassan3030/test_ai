@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "178b14e9-bfa3-4336-91f4-a9776172c97d",
+            "image": null,
+            "name": "Volkswagen Golf (Sixth Generation)",
+            "description": "The Volkswagen Golf (Sixth Generation) is a compact car that combines practicality with performance, known for its efficient fuel economy and versatile interior space.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "1a972b36-0374-41b2-abbc-f6851cd15edf",
+            "image": null,
+            "name": "Conté à Paris Pastel Pencils",
+            "description": "Conté à Paris Pastel Pencils are high-quality art supplies designed for artists of all levels. They offer rich pigment, smooth application, and are ideal for blending and layering techniques in pastel artwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "61f8ed80-60af-46dd-8dd6-a9f197500014",
+            "image": null,
+            "name": "Honda SP125",
+            "description": "The Honda SP125 is a motorcycle designed for efficient commuting, offering a balance of performance and fuel efficiency. It features modern styling combined with advanced technology for a reliable riding experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "1ddb80ee-d7f8-47b1-a210-c35e7485b6d1",
+            "image": null,
+            "name": "Conté à Paris Drawing Charcoal",
+            "description": "Conté à Paris Drawing Charcoal is a premium art supply series designed for artists and illustrators, offering rich pigmentation and smooth application for various drawing techniques.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "84176d33-30d8-4ea0-8674-283ad0c1af0d",
+            "image": null,
+            "name": "Smart Trike 4 in 1",
+            "description": "The Smart Trike 4 in 1 is a versatile tricycle designed for children, offering four different modes as they grow, from being pushed by parents to independent riding.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Smart Trike"
+            }
+        },
+        {
+            "id": "40a7488b-4fc0-4056-a3bb-93d05815699e",
+            "image": null,
+            "name": "CH24 Wishbone Chair",
+            "description": "The CH24 Wishbone Chair by Carl Hansen & Søn is a modern classic designed by Hans J. Wegner, known for its distinctive Y-shaped back and comfortable seating. It is crafted using expert craftsmanship and high-quality materials, making it suitable for both residential and commercial use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Carl Hansen & Søn"
+            }
+        },
+        {
+            "id": "1913f746-290d-4fdb-98a6-f4407e38cd48",
+            "image": null,
+            "name": "Sub-Zero 600 Series",
+            "description": "The Sub-Zero 600 Series is a premium line of built-in refrigerators that combines advanced preservation technology with customizable options, ensuring optimal freshness for food while seamlessly integrating into kitchen designs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Sub-Zero"
+            }
+        },
+        {
+            "id": "a21e2d56-462f-4d7d-a81b-25ef5fccd61f",
+            "image": null,
+            "name": "Felix Chair",
+            "description": "The Gus* Modern Felix Chair is a contemporary seating option designed for comfort and style, featuring a clean silhouette and quality upholstery.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "94ea7dec-e0b8-44d9-bf69-3ce6582722be",
+            "image": null,
+            "name": "CH25 Lounge Chair",
+            "description": "The CH25 Lounge Chair is a contemporary piece designed by Hans J. Wegner in 1950 and relaunched by Carl Hansen & Søn in 2016, known for its unique woven seat and ergonomic form, blending comfort with functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Carl Hansen & Søn"
+            }
+        },
+        {
+            "id": "313d4a81-f030-4dc4-b9ac-882a6b7472c2",
+            "image": null,
+            "name": "Maui Jim Raindancer",
+            "description": "The Maui Jim Raindancer sunglasses are designed for water sports enthusiasts, featuring polarized lenses that enhance clarity and reduce glare while providing superior protection against UV rays.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Maui Jim"
+            }
+        },
+        {
+            "id": "ade9bbce-5be8-406b-b6b1-03100a2b897a",
+            "image": null,
+            "name": "The Creakers",
+            "description": "The Creakers is a children's book series by Orchard Books that tells the whimsical story of a young girl who discovers a mysterious world inhabited by the Creakers, creatures that come out at night and create a sense of adventure and imagination.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Orchard Books"
+            }
+        },
+        {
+            "id": "994302d6-959c-49d8-9877-e4edbc1d197e",
+            "image": null,
+            "name": "Volkswagen Golf R 20th Anniversary Edition",
+            "description": "The Volkswagen Golf R 20th Anniversary Edition is a special variant of the iconic Golf R, celebrating two decades of high-performance hatchback excellence with enhanced power, sporty design, and advanced technology.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "5088ef42-a2ad-481f-a35f-ae34fbbb4d28",
+            "image": null,
+            "name": "G-RAID SHUTTLE",
+            "description": "The G-RAID SHUTTLE series by G-Technology is designed for professional content creators, providing high-performance, portable storage solutions that support data-intensive tasks such as video editing and backup.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "078746ed-8386-4905-98cf-6fa15d82708c",
+            "image": null,
+            "name": "Oppo Reno8",
+            "description": "The Oppo Reno8 series consists of smartphones that focus on delivering advanced camera capabilities and sleek designs, targeting users who value high-quality photography and stylish aesthetics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "9bc10238-800f-4584-9d2c-2fa3304f145b",
+            "image": null,
+            "name": "Recon 200",
+            "description": "The Turtle Beach Recon 200 is a wired gaming headset designed for immersive audio experiences and enhanced communication during gameplay. It features a durable design, comfortable ear cushions, and adjustable microphone quality suited for various gaming platforms.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "cdb00a29-05d4-4be3-b980-355f7e869a84",
+            "image": null,
+            "name": "Valeo AquaBlade",
+            "description": "The Valeo AquaBlade series offers advanced windshield wiper blades designed for optimal visibility in adverse weather conditions, enhancing driver safety.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valeo"
+            }
+        },
+        {
+            "id": "639744a0-0b01-47a0-9753-103fcd32fc9e",
+            "image": null,
+            "name": "Škoda Octavia RS (4th generation)",
+            "description": "The Škoda Octavia RS (4th generation) is a performance-oriented version of the popular Octavia model, designed to offer a dynamic driving experience combined with practicality and spaciousness.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "65f0c05e-7f99-4e75-b6d2-36745dd2b170",
+            "image": null,
+            "name": "Škoda Superb (B8)",
+            "description": "The Škoda Superb (B8) is a mid-size car that offers a blend of spaciousness, comfort, and advanced technology, aimed at providing a high level of passenger comfort and an enjoyable driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "85849cbd-dc0d-492a-93ac-c31e9b37d84e",
+            "image": null,
+            "name": "Citroën C6",
+            "description": "The Citroën C6 is a full-size luxury car that combines elegant design with advanced technology, aiming to provide a comfortable and refined driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "92bf4588-d3a5-4afa-ace9-d26a3f9c4a60",
+            "image": null,
+            "name": "Citroën C3 Pluriel",
+            "description": "The Citroën C3 Pluriel is a versatile compact car launched in 2005, known for its unique design and convertible features, allowing for multiple configurations including a fully open top.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "93a40523-3c7f-4d25-b83b-22efcd5d8965",
+            "image": null,
+            "name": "Citroën C5",
+            "description": "The Citroën C5 is a mid-size family car produced by the French automaker Citroën, known for its comfort, spacious interior, and advanced technology features.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "9e658fb1-7210-4d71-ad17-6d45cf43d8ce",
+            "image": null,
+            "name": "Škoda Citigo",
+            "description": "The Škoda Citigo is a compact city car produced by Skoda Auto, introduced in 2012, known for its efficient use of space and maneuverability in urban environments.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "f5a46a2f-e874-4396-bcf6-76130512c131",
+            "image": null,
+            "name": "Citroën C3",
+            "description": "The Citroën C3 is a subcompact car that was first released in 2000, designed to offer a blend of style, comfort, and practicality for urban driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "88f4b241-5378-4ceb-9c95-aaaa9f3b0dd8",
+            "image": null,
+            "name": "August Smart Lock (4th Gen)",
+            "description": "The August Smart Lock (4th Gen) is a smart home device that allows users to secure and control access to their doors remotely using a smartphone application. It offers features such as keyless entry, remote locking and unlocking, and a user-friendly installation process.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "August"
+            }
+        },
+        {
+            "id": "58ad63ed-fcdd-41f1-a91a-1a6f390ff9fb",
+            "image": null,
+            "name": "Nord Lead A1",
+            "description": "The Nord Lead A1 is a virtual analog synthesizer known for its intuitive interface, powerful sound engine, and deep programmability, suitable for live performances and studio production.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "cdc6ab82-3242-482e-9e6b-277a59d6395d",
+            "image": null,
+            "name": "Solis Plus Blender",
+            "description": "The Solis Plus Blender is designed for efficient blending and mixing, equipped with a powerful motor and various speed settings to achieve smooth results for a variety of ingredients.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Solis"
+            }
+        },
+        {
+            "id": "b1e9680f-1217-4345-bc13-c0ba2b6f76bd",
+            "image": null,
+            "name": "Zymöl Super Wax",
+            "description": "Zymöl Super Wax is a premium car care product designed to provide an exceptional protective layer, enhancing the shine and longevity of vehicle paintwork. Formulated with natural ingredients, it delivers a deep gloss while offering protection against environmental contaminants.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "94966452-68cc-4122-9a2c-e5f401e576ba",
+            "image": null,
+            "name": "Bolle X-TERA Series",
+            "description": "The Bolle X-TERA Series is a collection of sunglasses designed for outdoor sports enthusiasts, offering advanced lens technology and durable frames for optimal performance in various conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Bolle"
+            }
+        },
+        {
+            "id": "ee22de89-b2a1-4f48-a393-b4b2342c2293",
+            "image": null,
+            "name": "Nord Stage 3 HP",
+            "description": "The Nord Stage 3 HP is a premium stage piano designed for live performance, featuring a variety of high-quality sounds including pianos, organs, and synths, alongside an intuitive interface for seamless use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "04376bb8-fe59-469b-93ce-54a9b1cbc013",
+            "image": null,
+            "name": "Yamaha MT-07",
+            "description": "The Yamaha MT-07 is a versatile motorcycle designed for urban riding and spirited twisty road experiences, known for its lightweight frame and powerful twin-cylinder engine.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        }
+    ]
+}

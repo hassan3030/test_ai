@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+            "id": "78e17402-9266-4218-b5d5-ad3707fed2fb",
+            "image": null,
+            "name": "Kospet Magic 3",
+            "description": "Kospet Magic 3 is a smart watch series designed to provide health tracking, fitness monitoring, and connectivity features for users seeking a blend of technology and style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "15869456-632c-4b56-9b12-0ad0591284ee",
+            "image": null,
+            "name": "Pebble 2",
+            "description": "The Pebble 2 is a smartwatch designed to track fitness activities, monitor heart rate, and provide notifications from a connected smartphone, offering users a blend of functionality and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Pebble"
+            }
+        },
+        {
+            "id": "f713cbcb-2318-47f3-a2e1-d0dd76ebfce0",
+            "image": null,
+            "name": "Pebble Time 2",
+            "description": "The Pebble Time 2 is a smartwatch that features a color e-paper display, voice recognition, and fitness tracking capabilities, designed to keep users connected and monitor their health.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Pebble"
+            }
+        },
+        {
+            "id": "5e83e5e8-9971-44c0-b09c-2d6471b5a693",
+            "image": null,
+            "name": "Netatmo Weather Station",
+            "description": "The Netatmo Weather Station is a smart home device designed to monitor indoor and outdoor environmental conditions, providing users with real-time data on temperature, humidity, air quality, and weather forecasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "61ad66b0-5e58-4e05-87a1-900eed88e69f",
+            "image": null,
+            "name": "Netatmo Presence",
+            "description": "The Netatmo Presence is a smart outdoor security camera designed to enhance home surveillance. It features advanced motion detection and can differentiate between people, animals, and cars, providing real-time alerts to homeowners.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "915d8349-8261-4258-ac2a-52e3af876eba",
+            "image": null,
+            "name": "Netatmo Welcome",
+            "description": "The Netatmo Welcome is a smart indoor security camera designed to enhance home security by recognizing faces and sending alerts for unusual activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "b5c2dc76-a6c5-4818-84a9-732cbc9b62ee",
+            "image": null,
+            "name": "Netatmo Smart Indoor Camera",
+            "description": "The Netatmo Smart Indoor Camera is a home security camera that provides high-definition video monitoring. It is designed to enhance home safety by detecting movement and sending alerts to the user.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "920ecae4-10ba-43b3-8a99-432735652faf",
+            "image": null,
+            "name": "Netatmo Thermostat",
+            "description": "The Netatmo Thermostat is a smart home device designed to enhance energy efficiency by allowing users to control their heating remotely via a smartphone app.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "c6421a4e-43e5-416b-ae29-f9a6a5a5f86c",
+            "image": null,
+            "name": "Netatmo Smart Outdoor Camera with Siren",
+            "description": "The Netatmo Smart Outdoor Camera with Siren is a security camera designed for outdoor use, featuring advanced detection technology and a built-in siren for enhanced safety.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "6e2e6c4a-dab5-4ede-97e3-504ee29be09a",
+            "image": null,
+            "name": "Netatmo Smart Thermostat",
+            "description": "The Netatmo Smart Thermostat is a connected home device designed to optimize heating efficiency while providing user-friendly control and energy savings. It offers personalized heating schedules and remote access through a smartphone app.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Netatmo"
+            }
+        },
+        {
+            "id": "2a93bc4d-6037-4e53-8a3d-a6e1818b9d28",
+            "image": null,
+            "name": "Deebot Ozmo 930",
+            "description": "The Deebot Ozmo 930 is a robotic vacuum cleaner designed for efficient home cleaning, featuring advanced mapping technology and the ability to perform both vacuuming and mopping tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Deebot"
+            }
+        },
+        {
+            "id": "f216f590-06eb-4040-996f-be9843bd0c4b",
+            "image": null,
+            "name": "Wemo Mini",
+            "description": "The Wemo Mini series offers compact smart plugs designed to make home automation accessible and convenient, allowing users to control devices remotely via a smartphone app.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "ebd1c76e-fbb5-4a36-ae8b-447e342c928d",
+            "image": null,
+            "name": "Lumi",
+            "description": "The Calligaris Lumi series features modern tables designed for versatility, combining contemporary aesthetics with functional design to fit various dining and living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec51ae48-a26f-4555-b3a6-fd0cc24fb775",
+            "image": null,
+            "name": "Paper Mario: The Origami King",
+            "description": "Paper Mario: The Origami King is a role-playing video game developed by Intelligent Systems and published by Nintendo for the Nintendo Switch. It features a unique paper art style, blending traditional RPG elements with puzzles and a whimsical storyline.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "61b7533a-bd9c-43f3-bfa9-a509731f21b4",
+            "image": null,
+            "name": "Davis",
+            "description": "The Davis TV stand series by Crate & Barrel offers a sleek, modern design that combines functionality with a stylish aesthetic, providing ample storage for media components while enhancing your living space.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "TV Stands"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ec69b7cd-7f3a-4f46-b615-089d409f7f57",
+            "image": null,
+            "name": "Xbox Adaptive Controller",
+            "description": "The Xbox Adaptive Controller is a gaming accessory designed to make gaming more accessible for gamers with limited mobility. Its customizable buttons and ports allow users to connect various devices, providing a tailored gaming experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "cf44a2d2-a999-422f-b445-00f9954928c6",
+            "image": null,
+            "name": "Hero Honda Ambition",
+            "description": "The Hero Honda Ambition is a motorcycle series launched in 2005, known for its reliable performance, fuel efficiency, and stylish design, catering to urban commuters.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "731d33ca-5b6f-4d3e-83d1-639c787005a1",
+            "image": null,
+            "name": "Boheme",
+            "description": "The Calligaris Boheme series features elegantly designed tables that combine functionality with a contemporary aesthetic, perfect for both casual and formal dining settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c8b91870-b48a-4fad-a5dc-9a7bed6563d8",
+            "image": null,
+            "name": "Bajaj Avenger Street 180",
+            "description": "The Bajaj Avenger Street 180 is a cruiser motorcycle designed for comfortable long-distance rides, featuring a relaxed seating position and a stylish, modern design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "8ac82921-bca8-469e-b81e-adcb206040d8",
+            "image": null,
+            "name": "Super Mario Maker 2",
+            "description": "Super Mario Maker 2 is a level-building game that allows players to create, share, and play custom Super Mario levels. It features new gameplay mechanics, a variety of design tools, and the ability to play levels with friends or online.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8cec3bbb-a218-436a-acf7-df6597c86dc4",
+            "image": null,
+            "name": "Super Mario 3D All-Stars",
+            "description": "Super Mario 3D All-Stars is a compilation that brings together three classic 3D platform games featuring Mario, including Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy, remastered for the Nintendo Switch.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9aa1e273-a8a4-4259-b4d3-36de92d6c32c",
+            "image": null,
+            "name": "Steelcase Leap - New Generation",
+            "description": "The Steelcase Leap - New Generation chair is designed to support a wide range of postures and movements, promoting comfort and productivity in the workplace.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a2f3b230-356f-49fc-a03f-74a37ff60a6b",
+            "image": null,
+            "name": "Kessler",
+            "description": "The Kessler series from Crate & Barrel features a collection of durable and stylish tables designed for versatility in both dining and living spaces. Crafted with high-quality materials, these tables prioritize functionality while enhancing modern home aesthetics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b98446cb-0ce1-462b-83b4-bf7f05c56ec0",
+            "image": null,
+            "name": "The Legend of Zelda: Link's Awakening",
+            "description": "The Legend of Zelda: Link's Awakening is an action-adventure game developed by Nintendo for the Switch, featuring a charming art style and a narrative that follows Link as he navigates the mysterious Koholint Island to rescue Princess Zelda.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bdc7b07e-9fc4-4689-89b8-1a736f7a7bea",
+            "image": null,
+            "name": "Geiger Credenzas",
+            "description": "The Geiger Credenzas by Herman Miller are modern storage solutions designed to enhance workspace organization and aesthetics, characterized by their clean lines and functional design.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "02a9e485-4064-406b-ad46-131e7e3b2bf2",
+            "image": null,
+            "name": "Height-Adjustable Tables",
+            "description": "The Steelcase Height-Adjustable Tables provide versatile solutions for various work environments, allowing users to easily transition between sitting and standing positions to promote healthier work habits.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tables"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0a56c939-47f7-4bb1-af6c-8bbc34ccb8a0",
+            "image": null,
+            "name": "Xbox Game Pass",
+            "description": "Xbox Game Pass is a subscription service that provides access to a library of games for Xbox consoles and Windows PCs, allowing users to download and play a wide variety of titles for a monthly fee.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Xbox"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "0e5fe9b0-cf98-4d5b-96ff-9c8781bce9ac",
+            "image": null,
+            "name": "Scallop",
+            "description": "The Scallop series by Crate & Barrel features elegant sofas designed with a soft, curved silhouette and plush upholstery, offering both style and comfort for modern living spaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "18c89a51-69bf-4e91-9f40-9b6118fb4325",
+            "image": null,
+            "name": "Dante",
+            "description": "The Dante series by Calligaris features elegantly designed chairs that combine comfort and modern aesthetics, making them suitable for both dining and living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "21fb983a-8609-4ff4-85ac-71193a9dfc20",
+            "image": null,
+            "name": "Carmen",
+            "description": "The Calligaris Carmen series includes a collection of elegantly designed chairs that combine comfort with contemporary style, making them suitable for various dining and living environments.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": null
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "9f9f384e-e9c4-49f2-a445-357e97aa1fc5",
+            "image": null,
+            "name": "Dior Saddle Bags",
+            "description": "The Dior Saddle Bags are a collection of handbags first launched in 2018, known for their distinctive silhouette and equestrian-inspired design, serving as a stylish accessory for both everyday use and special occasions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f26b3a6c-b447-4c25-b65c-63c32f213d40",
+            "image": null,
+            "name": "Griso",
+            "description": "The Moto Guzzi Griso is a contemporary motorcycle known for its distinctive styling, powerful performance, and comfortable riding experience, designed primarily for urban riding and sport touring.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "f3e65afa-51f1-4b78-a8fd-8db96d8b32fa",
+            "image": null,
+            "name": "Nerf Fortnite",
+            "description": "The Nerf Fortnite series features foam dart blasters inspired by the popular video game Fortnite, designed for outdoor play and imaginative battles.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "78ea71bb-0663-45f1-9266-51ad21c24d43",
+            "image": null,
+            "name": "Blick Studio Brushes",
+            "description": "Blick Studio Brushes are a versatile range of high-quality paintbrushes designed for artists of all skill levels. With features that enhance color application and blending, these brushes are ideal for use with various mediums including acrylic, watercolor, and oil paints.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "12efdcaa-074c-4fe0-b3b8-0344abd9833d",
+            "image": null,
+            "name": "Nerf AccuStrike",
+            "description": "The Nerf AccuStrike series is designed for precision and accuracy, featuring specially designed darts that are aimed at enhancing the performance of Nerf blasters. This series allows users to engage in competitive play with improved targeting capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "14696af4-5b05-49b0-a24e-5964e495f7e0",
+            "image": null,
+            "name": "Moto Guzzi Nevada 750",
+            "description": "The Moto Guzzi Nevada 750 is a classic Italian cruiser motorcycle known for its distinctive design and comfortable riding experience, ideal for both city commutes and longer rides.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "177ff23c-3602-4ad2-8168-61a29f540328",
+            "image": null,
+            "name": "Breva",
+            "description": "The Moto Guzzi Breva series is a line of motorcycles known for their classic design, comfortable riding position, and versatile performance, making them suitable for both urban commuting and longer journeys.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "2432c209-3597-4a15-9057-d6f651edca17",
+            "image": null,
+            "name": "Moto Guzzi California 1100 EV",
+            "description": "The Moto Guzzi California 1100 EV is a classic cruiser motorcycle known for its V-twin engine, comfortable riding position, and distinctive Italian styling, designed for long-distance touring and urban commuting.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "25082a4c-10f1-4491-9cab-e6fa1463bae5",
+            "image": null,
+            "name": "Nerf Mega",
+            "description": "Nerf Mega is a series of foam dart blasters designed for outdoor play, featuring larger darts that fly farther and provide a more exciting gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "3acba457-8c8b-4531-8763-58470cc76a8f",
+            "image": null,
+            "name": "Detailers Pro Series Waterless Wash",
+            "description": "Detailers Pro Series Waterless Wash is a car care product designed for cleaning vehicles without the need for water, providing a convenient option for removing dirt and grime while protecting the vehicle's finish.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Detailers Pro Series"
+            }
+        },
+        {
+            "id": "3fa4e194-a9e3-480f-83b2-80b747675cad",
+            "image": null,
+            "name": "Nerf Rival",
+            "description": "Nerf Rival is a line of high-performance foam dart blasters that are designed for competitive play. The series features precision accuracy and high-impact rounds, appealing to older kids and adults seeking an engaging and strategic toy experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "423e789b-446b-40fc-9440-037b737ff957",
+            "image": null,
+            "name": "Crystal Serum Ultra",
+            "description": "Gtechniq's Crystal Serum Ultra is a high-performance ceramic coating designed to provide exceptional protection and durability for automotive surfaces. It offers remarkable resistance to scratches, chemicals, and environmental contaminants, ensuring a long-lasting, high-gloss finish.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "43727368-c3c6-496d-849f-4c7696e6547d",
+            "image": null,
+            "name": "Hino Dutro",
+            "description": "The Hino Dutro is a versatile series of pickup trucks designed for commercial use, offering durability and reliability for various transportation needs.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Hino Motors"
+            }
+        },
+        {
+            "id": "50337f26-c92f-45d9-89cd-f8e1a043d417",
+            "image": null,
+            "name": "Gtechniq M1",
+            "description": "Gtechniq M1 is a range of car care products designed to protect and enhance the appearance of automotive surfaces through advanced technology and formulation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "62540eec-8b77-4397-96c7-34503cc1ceec",
+            "image": null,
+            "name": "Moto Guzzi Breva 1100",
+            "description": "The Moto Guzzi Breva 1100 is a standard motorcycle that combines classic Italian design with modern engineering, offering a balance of performance and comfort for both city commuting and longer rides.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "f4095406-fee2-46c5-b33b-78e2131d7c02",
+            "image": null,
+            "name": "Volvo V70 (third generation)",
+            "description": "The Volvo V70 (third generation) is a midsize luxury estate car known for its practicality, safety features, and comfortable ride. Released in 2006, it combines versatile cargo space with advanced technology and a focus on passenger comfort.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f5be545a-6535-45d6-a054-136a4e095ec0",
+            "image": null,
+            "name": "Honda CR-V Hybrid",
+            "description": "The Honda CR-V Hybrid is a compact SUV that combines fuel efficiency with versatile cargo space, making it an ideal choice for eco-conscious drivers who prioritize practicality without sacrificing performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b4cdfff5-48a8-494b-9593-c88626933bf0",
+            "image": null,
+            "name": "Fire 7",
+            "description": "The Amazon Fire 7 is a compact tablet designed for reading, browsing, and streaming content, featuring a 7-inch display and access to Amazon's ecosystem of services.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "6ed72f9a-e648-43c5-a0cc-34b7460a3b3c",
+            "image": null,
+            "name": "Audi A7 Sportback (second generation)",
+            "description": "The Audi A7 Sportback (second generation) is a luxury five-door coupe that combines dynamic performance with advanced technology and a spacious interior, making it suitable for both daily driving and long journeys.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "71787668-5724-459b-bae4-68a8bcdf2b1d",
+            "image": null,
+            "name": "Moto Guzzi 1200 Sport",
+            "description": "The Moto Guzzi 1200 Sport is a sport touring motorcycle known for its powerful engine, excellent handling, and classic Italian design.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "78198fa9-686d-400f-9a4a-d2e6fdf67afd",
+            "image": null,
+            "name": "Moto Guzzi V9 Bobber",
+            "description": "The Moto Guzzi V9 Bobber is a classic-style motorcycle that combines timeless design with modern technology. It is characterized by its minimalist aesthetic, powerful engine, and comfortable riding position, making it ideal for both urban commuting and weekend rides.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "8107ce56-2d07-47cf-9c55-4f5e6b8a1247",
+            "image": null,
+            "name": "Moto Guzzi Norge 1200",
+            "description": "The Moto Guzzi Norge 1200 is a touring motorcycle designed for long-distance comfort and performance, featuring a distinctive Italian style and a powerful V-twin engine.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "86850e1e-306d-48f8-8543-e6c21e7b624f",
+            "image": null,
+            "name": "Moto Guzzi Stelvio 1200",
+            "description": "The Moto Guzzi Stelvio 1200 is a versatile adventure touring motorcycle designed for both on-road and off-road riding, known for its robust build and comfortable ergonomics.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "8ea19627-8ff1-407d-841e-6aeaa862a853",
+            "image": null,
+            "name": "Renault Koleos",
+            "description": "The Renault Koleos is a compact SUV that offers a combination of rugged performance and modern comfort, making it suitable for both urban environments and off-road adventures.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "0b9f811b-7cc3-4723-8230-0014f4a1f836",
+            "image": null,
+            "name": "Moto Guzzi V9 Roamer",
+            "description": "The Moto Guzzi V9 Roamer is a classic-style motorcycle designed for cruising and comfort, featuring a retro aesthetic combined with modern engineering for an enjoyable riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "103e3cbf-1741-4f13-bb1a-8d9ed6fe0daa",
+            "image": null,
+            "name": "MG6 GT",
+            "description": "The MG6 GT is a compact sports sedan produced by MG Motors, designed for drivers seeking an engaging driving experience with a balance of style and practicality.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "27e3c12a-8653-49bf-8b84-29ade8ba9bfc",
+            "image": null,
+            "name": "Moto Guzzi Griso 1200 8V",
+            "description": "The Moto Guzzi Griso 1200 8V is a performance-oriented motorcycle known for its distinctive design, powerful V-twin engine, and sporty handling, aimed at enthusiasts who value both style and performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "316d3f18-2a2b-40fb-9280-8612c3842473",
+            "image": null,
+            "name": "LEGO City",
+            "description": "LEGO City is a series of toys that encourages imaginative play through the creation of urban environments, featuring various city-related themes such as police, fire rescue, and transportation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "575ac443-2c1a-40c8-a71b-4e2a0a309399",
+            "image": null,
+            "name": "Volkswagen Passat B5.5",
+            "description": "The Volkswagen Passat B5.5 is a mid-size car produced by Volkswagen from 2000, known for its spacious interior, comfortable ride, and reliable performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "a0425c00-084c-45b9-840b-8d2fa5c4f0bc",
+            "image": null,
+            "name": "Moto Guzzi Griso 8V",
+            "description": "The Moto Guzzi Griso 8V is a modern motorcycle known for its distinctive design, powerful 8-valve V-twin engine, and comfortable riding position, catering to both city commuting and longer rides.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        }
+    ]
+}

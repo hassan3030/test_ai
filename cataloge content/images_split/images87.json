@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "74cadfa0-8211-4f97-a36c-9d1a1934ec8f",
+            "image": null,
+            "name": "2016 Haro X3",
+            "description": "The 2016 Haro X3 is a BMX bike designed for riders who seek durability and performance both on and off the track, catering to a variety of skill levels with its robust construction and responsive handling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "08a37ee2-d220-46d4-b412-b98c1ff5f236",
+            "image": null,
+            "name": "Mercedes-Benz E-Class (W211)",
+            "description": "The Mercedes-Benz E-Class (W211) is a luxury mid-size car known for its blend of performance, comfort, and advanced technology, aimed at delivering an exceptional driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "196232cd-f27b-4c69-8dc2-cdc2cdf9a04e",
+            "image": null,
+            "name": "Isuzu D-Max V-Cross",
+            "description": "The Isuzu D-Max V-Cross is a versatile pickup truck known for its rugged design and off-road capabilities, making it suitable for both work and leisure purposes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Isuzu Motors India"
+            }
+        },
+        {
+            "id": "2201963d-3286-468a-a81e-a0db0c6fbbc3",
+            "image": null,
+            "name": "Genesis Coupe",
+            "description": "The Hyundai Genesis Coupe is a mid-size sports car designed for performance enthusiasts, featuring a rear-wheel-drive layout and a powerful engine lineup aimed at providing an engaging driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "2a832e14-be1c-4343-8495-71ba6383b9f9",
+            "image": null,
+            "name": "Elantra",
+            "description": "The 2011 Hyundai Elantra is a compact car that offers a balance of efficiency, comfort, and technology, making it a practical choice for everyday driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "3a093d73-f9da-45b7-8b2e-91aecf20c688",
+            "image": null,
+            "name": "TEMPUR-Adapt",
+            "description": "The TEMPUR-Adapt series from Tempur-Pedic offers mattresses designed to provide support and adapt to the body's unique shape, enhancing comfort and sleep quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "4df88f6e-daf9-40c3-835d-a1e9f1eb347e",
+            "image": null,
+            "name": "KTM 1290 Super Duke R",
+            "description": "The KTM 1290 Super Duke R is a high-performance motorcycle known for its aggressive styling, powerful engine, and advanced technology. It is designed for riders seeking an exceptional combination of street performance and riding dynamics.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "ccf101f8-0fb8-4188-b966-6ceb57e73b16",
+            "image": null,
+            "name": "LG Velvet",
+            "description": "The LG Velvet series features a stylish and sleek design with a focus on providing an enjoyable user experience, emphasizing multimedia capabilities and photography.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "6c205163-1613-4ee9-9b01-1c82d1e6880c",
+            "image": null,
+            "name": "Geely Borui GE",
+            "description": "The Geely Borui GE is a luxury sedan that emphasizes comfort, sophisticated design, and advanced technology, appealing to consumers looking for a premium driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "7d842f38-7ed8-46a7-adf3-bacb12b23977",
+            "image": null,
+            "name": "Proton Exora",
+            "description": "The Proton Exora is a multi-purpose vehicle (MPV) produced by Malaysian automaker Proton, designed to provide spaciousness and comfort for families and group travel since its release in 2007.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "8bcd6fb6-ab31-4fe9-81a7-d146a466fa41",
+            "image": null,
+            "name": "Proton Waja",
+            "description": "The Proton Waja is a compact sedan produced by the Malaysian automaker Proton, designed for affordability and functionality, catering to urban transportation needs.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "94915ac6-76d5-4b0d-b683-2e2b68329bc5",
+            "image": null,
+            "name": "Geely Vision X3",
+            "description": "The Geely Vision X3 is a compact SUV produced by Geely, designed to offer a balance of style, comfort, and practicality for urban and suburban driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "a04253da-55da-4c8d-951e-a9ebfcc10615",
+            "image": null,
+            "name": "Proton Satria",
+            "description": "The Proton Satria is a compact hatchback car produced by the Malaysian automaker Proton, characterized by its sporty design and agile handling, aimed at delivering an affordable yet engaging driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "b32a7215-1225-4d18-b4aa-8d96cde5f8ce",
+            "image": null,
+            "name": "Meguiar's Car Wash Series",
+            "description": "The Meguiar's Car Wash Series includes a variety of products designed for effective vehicle cleaning and maintenance, focusing on delivering superior shine and protection.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "ecc65cd3-1fa2-4e7f-abc9-c8345bbd64cb",
+            "image": null,
+            "name": "Geely Binrui",
+            "description": "The Geely Binrui is a compact sedan designed to offer a balance of style, comfort, and affordability for urban drivers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "fc3eaad4-17eb-4949-bd9d-ae5f81660bc0",
+            "image": null,
+            "name": "Geely Azkarra",
+            "description": "The Geely Azkarra is a compact SUV designed to offer a blend of style, comfort, and advanced technology, making it suitable for urban and adventurous driving alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "a01a3d44-964c-4750-b591-5760b92f27bc",
+            "image": null,
+            "name": "Barracuda",
+            "description": "The Seagate Barracuda series comprises reliable hard disks designed for mainstream desktop and laptop computers, offering high storage capacity and performance for various computing needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "1061d86b-6cde-42ec-b391-7a9899e88b87",
+            "image": null,
+            "name": "Proton Gen-2",
+            "description": "The Proton Gen-2 is a compact car produced by the Malaysian automaker Proton, known for its affordability, practicality, and efficient use of space. Launched in 2002, it serves as a family-friendly vehicle suitable for urban driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "22d6c606-d110-47fe-958d-867f9f963514",
+            "image": null,
+            "name": "Geely Borui",
+            "description": "The Geely Borui is a mid-size sedan that was introduced in 2014, designed to offer a combination of luxury and advanced technology for consumers in the automotive market.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "23b7359f-1f4e-4101-ad49-36603c647bc2",
+            "image": null,
+            "name": "Geely Atlas Pro",
+            "description": "The Geely Atlas Pro is a mid-size SUV designed to combine comfort, style, and advanced technology for urban and off-road driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "24a6e7c2-24e0-4bed-8c28-c46c041c52a9",
+            "image": null,
+            "name": "Proton Tiara",
+            "description": "The Proton Tiara is a compact car produced by the Malaysian automaker Proton, known for its affordability and practicality, suitable for urban driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "2a97db73-bcdb-491a-ae28-c9255828ac49",
+            "image": null,
+            "name": "Geely Coolray",
+            "description": "The Geely Coolray is a compact SUV designed to combine a stylish exterior with practical features and advanced technology, catering to urban drivers seeking performance and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "2b525fb5-33c3-4f9f-9278-ae0e56e628d6",
+            "image": null,
+            "name": "Proton Savvy",
+            "description": "The Proton Savvy is a compact car produced by Proton starting in 2003, known for its affordability and practicality aimed at urban drivers.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "2f37d2ad-48ed-4197-b635-35cc8f526c99",
+            "image": null,
+            "name": "Geely Emgrand GSe",
+            "description": "The Geely Emgrand GSe is a compact electric vehicle designed to provide an efficient and environmentally friendly driving experience, featuring a modern design and advanced technology.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "35a33083-ce3a-4e7b-8c2f-b0ac4709e37e",
+            "image": null,
+            "name": "Proton Inspira",
+            "description": "The Proton Inspira is a compact sedan designed to provide a blend of style, comfort, and performance, aimed at drivers seeking an affordable yet reliable vehicle option.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "3b5811c1-d2d0-48b5-b594-4fb93e07428b",
+            "image": null,
+            "name": "Geely Emgrand EC8",
+            "description": "The Geely Emgrand EC8 is a mid-size sedan that emphasizes comfort and practicality, offering a balance of space and economy for daily driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "4046deb7-7439-4f9d-9581-3e845305e017",
+            "image": null,
+            "name": "Geely SC7",
+            "description": "The Geely SC7 is a compact sedan that offers a balance of style, functionality, and affordability, designed primarily for urban commuting and everyday use.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "408d86b3-9edf-4145-8f9c-30737b1a9e99",
+            "image": null,
+            "name": "Proton Satria Neo",
+            "description": "The Proton Satria Neo is a compact hatchback car introduced in 2004, known for its sporty design and affordability, aimed at budget-conscious drivers seeking a fun and practical vehicle.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "408fc71f-2f3f-4e8a-8511-effc804ddd6b",
+            "image": null,
+            "name": "Geely Emgrand X7",
+            "description": "The Geely Emgrand X7 is a compact SUV launched in 2012, designed to offer a balance of comfort, performance, and practicality for urban and off-road driving.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        },
+        {
+            "id": "44b285d4-fa46-4c0f-91c9-487fdee7b008",
+            "image": null,
+            "name": "Geely Emgrand GL",
+            "description": "The Geely Emgrand GL is a mid-size sedan designed to offer a balance of comfort, technology, and affordability, making it a practical choice for everyday driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Geely"
+            }
+        }
+    ]
+}

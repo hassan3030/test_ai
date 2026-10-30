@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "19e96017-7c18-4e39-a080-efde99fd2a22",
+            "image": null,
+            "name": "Horadam Aquarell",
+            "description": "Schmincke Horadam Aquarell is a professional watercolor paint series known for its high pigment concentration, outstanding lightfastness, and excellent solubility, catering to artists seeking vibrant and durable results in their water-based artworks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "863af8e6-5780-449a-acd6-67f0a7b5fda3",
+            "image": null,
+            "name": "Crucial P3 Plus",
+            "description": "The Crucial P3 Plus is a series of high-performance NVMe solid-state drives designed to enhance storage speed and efficiency for PCs, catering to gamers and professionals alike.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Crucial"
+            }
+        },
+        {
+            "id": "064f2665-ccf3-4b5d-8877-af9d296a9b60",
+            "image": null,
+            "name": "Pro Trek WSD-F20",
+            "description": "The Casio Pro Trek WSD-F20 is a rugged smart watch designed for outdoor enthusiasts, featuring GPS functionality and a range of tools for navigation and exploration.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "b4a3c668-49a0-4030-85d0-d604cfb3214b",
+            "image": null,
+            "name": "G-SHOCK GST-B200",
+            "description": "The Casio G-SHOCK GST-B200 series is a rugged digital watch designed for durability and functionality, featuring advanced technologies such as Bluetooth connectivity and solar charging.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Casio"
+            }
+        },
+        {
+            "id": "c7e99e0b-ff77-4901-ae74-31fee2508b4b",
+            "image": null,
+            "name": "Ring Video Doorbell 3",
+            "description": "The Ring Video Doorbell 3 is a smart home device designed to enhance security by allowing users to see, hear, and speak to visitors at their door from anywhere using a smartphone app.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "a75840b5-3a79-4c98-be92-04bfad2cedfd",
+            "image": null,
+            "name": "Ring Video Doorbell Elite",
+            "description": "The Ring Video Doorbell Elite is a smart home device designed to enhance home security by providing real-time video monitoring, two-way audio communication, and remote alerts through a smartphone app.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ring"
+            }
+        },
+        {
+            "id": "bf327a75-b5c5-4b7b-90bd-9fe043543107",
+            "image": null,
+            "name": "Hardshell Collection",
+            "description": "The Kate Spade Hardshell Collection features durable protective cases designed for various devices, combining functionality with stylish design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "37e86b3f-7d09-4291-b9af-f3057d5ac8e0",
+            "image": null,
+            "name": "Hero CBZ Xtreme",
+            "description": "The Hero CBZ Xtreme is a motorcycle designed for city commuting and spirited rides, featuring a sporty design and reliable performance, appealing to both new and experienced riders.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "fa000f7d-0316-41a4-b7ae-244065acbad2",
+            "image": null,
+            "name": "Hero Impulse",
+            "description": "The Hero Impulse is a motorcycle produced by Hero MotoCorp, launched in 2011, known for its versatility and off-road capability, making it suitable for both city commuting and adventurous rides.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "b93f4763-ef73-48fa-aa2a-08fa7d85047e",
+            "image": null,
+            "name": "Hero Maestro",
+            "description": "The Hero Maestro is a scooter series produced by Hero MotoCorp, designed for urban commuting with a focus on fuel efficiency and ease of maneuverability.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "fa4e721c-7cb0-46c4-bf6b-547778e3526e",
+            "image": null,
+            "name": "Hero HF Deluxe",
+            "description": "The Hero HF Deluxe is a popular motorcycle known for its affordability, reliability, and fuel efficiency, making it an ideal choice for daily commuting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "9cb34438-7598-4f2a-8b82-1fc78fd0c0bc",
+            "image": null,
+            "name": "Hero Duet 125",
+            "description": "The Hero Duet 125 is a scooter designed for urban commuting, offering a blend of style, practicality, and fuel efficiency for riders seeking convenience in their daily travels.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "4af24780-edf2-4eda-847e-0099e8576cf0",
+            "image": null,
+            "name": "Hero Glamour 125",
+            "description": "The Hero Glamour 125 is a lightweight motorcycle designed for urban commuting, offering a balance of efficiency and performance tailored for everyday riders.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "e5ab4982-569d-4835-9334-9a5923fe5441",
+            "image": null,
+            "name": "Hero Glamor",
+            "description": "The Hero Glamor is a lightweight motorcycle designed for urban commuting, offering a balance of style, performance, and fuel efficiency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "75d93eab-a8b7-47eb-8337-8dd5c11e9a89",
+            "image": null,
+            "name": "Hero HF 100",
+            "description": "The Hero HF 100 is a lightweight motorcycle designed for daily commuting, featuring fuel efficiency and easy maneuverability.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "1e56430d-a867-419b-8d36-3466cee73ec0",
+            "image": null,
+            "name": "KTM Duke 390",
+            "description": "The KTM Duke 390 is a lightweight and powerful motorcycle designed for urban commuting and sport riding, featuring advanced technology and a sharp design that appeals to enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "b638f06a-e535-471c-b0a4-572ec348f020",
+            "image": null,
+            "name": "KTM 390 Duke (2018 model)",
+            "description": "The KTM 390 Duke (2018 model) is a lightweight naked motorcycle that combines agility and performance, designed for urban riding and spirited backroad adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "8143f373-e145-4465-9af3-a6db9fad8c02",
+            "image": null,
+            "name": "Dauphin Xio",
+            "description": "The Dauphin Xio series features ergonomic chairs designed to provide comfort and support in various work environments, emphasizing modern aesthetics and functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Dauphin"
+            }
+        },
+        {
+            "id": "db1e7a04-6063-4078-b66c-267d988ddf76",
+            "image": null,
+            "name": "Dauphin Free Seating",
+            "description": "Dauphin Free Seating is a versatile chair series designed for flexible seating arrangements in contemporary spaces, emphasizing comfort and adaptability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Dauphin"
+            }
+        },
+        {
+            "id": "df699709-282f-4b1d-80e0-f9975fcd4634",
+            "image": null,
+            "name": "Dauphin Setu",
+            "description": "The Dauphin Setu is a contemporary office chair series designed to provide ergonomic support and comfort. Its sleek design and adjustable features make it suitable for various work environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Dauphin"
+            }
+        },
+        {
+            "id": "91c06792-b5cf-4a67-acc7-f7463a17b322",
+            "image": null,
+            "name": "Madia",
+            "description": "The Madia series by Poliform offers modern wardrobe solutions characterized by clean lines and customizable configurations, designed to enhance both functionality and aesthetics in any living space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Wardrobes"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "2c1090a2-a03a-4404-a7c2-c4f3c4a0a14d",
+            "image": null,
+            "name": "Velvet",
+            "description": "The Velvet series by Poliform consists of elegantly designed sofas that combine luxurious comfort with contemporary style, ideal for modern living spaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Poliform"
+            }
+        },
+        {
+            "id": "f54f8e08-fe47-44de-85e0-a98d16534e94",
+            "image": null,
+            "name": "Argyle Collection",
+            "description": "The Argyle Collection by Gus* Modern features contemporary chairs that blend comfort with a striking geometric pattern, suitable for modern living spaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "56fe0f14-61f0-4edf-b60e-033f7b513faf",
+            "image": null,
+            "name": "Milo Collection",
+            "description": "The Milo Collection by Gus* Modern features contemporary sofas designed for comfort and style, emphasizing clean lines and versatile modularity for modern living spaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Gus* Modern"
+            }
+        },
+        {
+            "id": "87fd0f86-831e-4b03-9e9b-f3fdaae7ced6",
+            "image": null,
+            "name": "Comfort Sleeper",
+            "description": "The Comfort Sleeper series by American Leather offers versatile sofas that convert into comfortable beds for additional sleeping space, combining style and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "American Leather"
+            }
+        },
+        {
+            "id": "6486c9d6-2551-41b0-a88f-41e0a30d7872",
+            "image": null,
+            "name": "Quick Ship Collection",
+            "description": "The Quick Ship Collection by American Leather offers a selection of stylish and comfortable sofas that are ready for immediate delivery, catering to those in need of quick and convenient furnishing solutions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "American Leather"
+            }
+        },
+        {
+            "id": "c1815e30-d3d0-4762-bd67-75f913d08dc5",
+            "image": null,
+            "name": "Aqua",
+            "description": "The Brown Jordan Aqua series is designed for outdoor living, featuring durable furniture that combines comfort and style, suitable for various outdoor environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        },
+        {
+            "id": "661f04aa-4c62-4eaf-8945-23fc508a78ee",
+            "image": null,
+            "name": "Greystone",
+            "description": "The Greystone series by Brown Jordan offers durable and stylish outdoor furniture, designed for comfortable outdoor living and enhancing outdoor spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        },
+        {
+            "id": "002891af-ebb3-4b6a-97a3-a010614a8728",
+            "image": null,
+            "name": "Maya",
+            "description": "The Maya series by Brown Jordan features durable and stylish outdoor furniture designed for comfort and versatility in various outdoor settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        },
+        {
+            "id": "266ac5bc-fc21-4ad8-be0b-44ae2d4ff4c0",
+            "image": null,
+            "name": "Simplicity",
+            "description": "The Brown Jordan Simplicity series offers a range of contemporary outdoor furniture designed for minimalist elegance and comfort, suitable for both residential and commercial settings.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Brown Jordan"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "457fcae8-8e2e-43a7-8031-43c936c057cb",
+            "image": null,
+            "name": "Hyundai ix35",
+            "description": "The Hyundai ix35 is a compact SUV that offers a combination of versatility, practicality, and modern design, targeted at urban drivers seeking comfort and space.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "49fcec30-2b92-431c-b07e-1c8016688ecf",
+            "image": null,
+            "name": "Sava Eskimo S3",
+            "description": "The Sava Eskimo S3 is a winter tire series designed for optimal performance in cold, snowy, and icy conditions, offering enhanced grip and stability for better handling in harsh winter weather.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "523ab3c7-c044-4eea-bccd-930c15fce5d7",
+            "image": null,
+            "name": "Kia Cee'd",
+            "description": "The Kia Cee'd is a compact car designed for practicality and comfort, featuring a blend of style and technology to meet the needs of everyday driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "5722f5d7-30b7-404d-a934-827b247ba337",
+            "image": null,
+            "name": "KTM 500 EXC F",
+            "description": "The KTM 500 EXC F is a high-performance off-road motorcycle designed for extreme riding conditions, featuring a lightweight chassis and powerful engine that offers excellent handling and agility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM India"
+            }
+        },
+        {
+            "id": "e2e81deb-e685-4944-820f-a8b8d6617e23",
+            "image": null,
+            "name": "Arrizo 5",
+            "description": "The Chery Arrizo 5 is a compact sedan that offers a blend of modern design and practicality, aimed at providing an affordable transportation option for consumers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "fb1683e7-0e31-4c74-8486-bcc764732760",
+            "image": null,
+            "name": "Chery Fulwin 2",
+            "description": "The Chery Fulwin 2 is a compact car produced by Chery Automobile, designed to offer efficient and affordable transportation for urban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "6503fcb7-46c4-4867-8f32-dafb88c9077e",
+            "image": null,
+            "name": "Chery Tiggo 7 Pro",
+            "description": "The Chery Tiggo 7 Pro is a compact SUV designed to offer a blend of comfort, practicality, and modern features, catering to the needs of urban and adventurous drivers alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "73662e1f-5a3f-478a-b4f1-c3d7b8776d00",
+            "image": null,
+            "name": "Chery A3",
+            "description": "The Chery A3 is a compact sedan produced by Chery Automobile, designed to offer reliable performance and good fuel efficiency for everyday driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "7700df66-0c17-4f04-ad67-663c20309170",
+            "image": null,
+            "name": "Chery Tiggo",
+            "description": "The Chery Tiggo is a compact SUV series produced by Chery Automobile since 2000, known for its affordability, practicality, and versatility in urban and off-road driving environments.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "857364b5-4d01-4226-9aff-c32f6cc00d07",
+            "image": null,
+            "name": "Chery QQ",
+            "description": "The Chery QQ is a compact city car designed primarily for urban mobility, known for its affordability, small size, and efficient fuel consumption, making it suitable for daily commuting.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "95da0992-844a-4c0a-bc62-9c3f5a13004a",
+            "image": null,
+            "name": "Daewoo Kalos",
+            "description": "The Daewoo Kalos is a compact car produced by the South Korean manufacturer Daewoo, known for its affordability and fuel efficiency, making it an appealing choice for urban driving.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "b1620612-72ee-4795-aa63-d835687969ca",
+            "image": null,
+            "name": "Infiniti QX80",
+            "description": "The Infiniti QX80 is a luxury full-size SUV that combines powerful performance with a spacious, upscale interior, designed for families and sophisticated travelers alike.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "85cbfedc-c482-48dc-b1be-fcb3521eebe9",
+            "image": null,
+            "name": "Toyota Camry (2012 Generation)",
+            "description": "The Toyota Camry (2012 Generation) is a mid-size sedan known for its reliability, comfort, and fuel efficiency, designed to meet the needs of everyday drivers.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "b7972ccf-0162-4b8f-a66f-504ea5702e31",
+            "image": null,
+            "name": "Tiggo 8 Pro",
+            "description": "The Chery Tiggo 8 Pro is a mid-size SUV designed to offer a spacious interior, advanced technology, and comprehensive safety features, catering to family and lifestyle needs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "c23be262-4186-4d2a-be6b-067926a6657f",
+            "image": null,
+            "name": "Tiggo 7 Pro",
+            "description": "The Chery Tiggo 7 Pro is a compact SUV designed to offer a combination of modern styling, advanced technology, and spacious interiors, catering to urban and family-oriented drivers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "c70c5845-0e3f-4aa7-acd4-e6667c4fcb1d",
+            "image": null,
+            "name": "Chery E5",
+            "description": "The Chery E5 is a compact sedan produced by Chery Automobile, designed to offer an affordable and practical option for consumers seeking reliable urban transportation.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "d11f4047-0395-4a5f-894b-ecc66423ffb4",
+            "image": null,
+            "name": "Mopar '12",
+            "description": "The Mopar '12 is a special edition series of cars launched by Mopar in 2011, featuring unique design elements and enhancements that emphasize performance and style.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mopar"
+            }
+        },
+        {
+            "id": "d82f926b-dfe4-46d2-be16-d4c54b8dab2b",
+            "image": null,
+            "name": "Daewoo Matiz",
+            "description": "The Daewoo Matiz is a compact city car known for its economical fuel efficiency and small footprint, making it an ideal choice for urban driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "0ac1a427-ddc5-4752-a738-9d464e298130",
+            "image": null,
+            "name": "Chery A5",
+            "description": "The Chery A5 is a compact sedan produced by Chery Automobile, launched in 2001. It is designed to offer a blend of affordability and practicality for urban commuting.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "0e10311d-e210-441d-b4be-e47734213ddf",
+            "image": null,
+            "name": "Cowin",
+            "description": "The Chery Cowin series is a line of compact cars produced by Chery Automobile, primarily aimed at offering affordable and reliable transportation options for consumers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "11a72b3f-0491-4c78-9cda-ab3bf20b0782",
+            "image": null,
+            "name": "Daewoo Lanos",
+            "description": "The Daewoo Lanos is a compact car that was designed for budget-conscious consumers seeking reliability and efficient performance in a small vehicle.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "19bda836-f0e8-4074-8568-7183fd18bb14",
+            "image": null,
+            "name": "Daewoo Nubira",
+            "description": "The Daewoo Nubira is a compact car produced by the South Korean automobile manufacturer Daewoo. Launched in 2000, it offers practicality and affordability for everyday driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "20443bb7-4b4a-4e46-be75-664e75363081",
+            "image": null,
+            "name": "Chery Arrizo 7",
+            "description": "The Chery Arrizo 7 is a compact sedan that was first released in 2014, designed to offer comfort, stylish design, and a range of modern technology features for urban commuting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "35ed6bb3-ffd1-4ec7-b130-354ea9873596",
+            "image": null,
+            "name": "Daewoo Gentra",
+            "description": "The Daewoo Gentra is a compact car designed primarily for urban commuting and practical usage, offering a balance of affordability and essential features.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "38407bda-c7bd-46d2-b18f-e7c4f24e6152",
+            "image": null,
+            "name": "Daewoo Leganza",
+            "description": "The Daewoo Leganza is a mid-size car produced by Daewoo from 1997 to 2002, known for its spacious interior, comfort, and affordability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "3cb5c35c-c604-440d-a30d-1b3dabcdfe3f",
+            "image": null,
+            "name": "Daewoo Lacetti",
+            "description": "The Daewoo Lacetti is a compact car series produced from 2001, designed to offer a balance of affordability, comfort, and functionality for daily driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "4a17fa60-6a2c-4ef4-b9b9-23f8d590ad62",
+            "image": null,
+            "name": "Daewoo Magnus",
+            "description": "The Daewoo Magnus is a mid-size car produced by Daewoo in 2002, known for its spacious interior and affordability.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "52312970-9181-45f8-9d7a-ed73584df0e9",
+            "image": null,
+            "name": "Chery A1",
+            "description": "The Chery A1 is a compact car produced by Chery Automobile, primarily aimed at providing affordable transportation options for urban environments with practicality and efficiency in design.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "52aa39db-d95d-4b57-8b69-2ecef9a9c8f0",
+            "image": null,
+            "name": "Chery Arrizo 5 Plus",
+            "description": "The Chery Arrizo 5 Plus is a compact sedan produced by Chery Automobile, focusing on providing a balance of comfort, technology, and fuel efficiency for everyday commuting.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "e3ebd0c0-2fae-4113-8185-7c7eb230f7a9",
+            "image": null,
+            "name": "Mahindra Rodeo",
+            "description": "The Mahindra Rodeo is a series of scooters launched by Mahindra & Mahindra in 2008, aimed at providing a stylish and efficient means of urban mobility.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "a8b8c5bd-3aae-411e-b027-9bbe1c03428e",
+            "image": null,
+            "name": "Usborne First Reading",
+            "description": "The Usborne First Reading series is designed to introduce young children to the joy of reading through engaging stories and illustrations, supporting early literacy development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "c71be387-8cbb-4e8b-ad5f-28899622c9f8",
+            "image": null,
+            "name": "Usborne Reading Collection",
+            "description": "The Usborne Reading Collection is a series of illustrated children's books designed to support early literacy skills and foster a love of reading. It includes a variety of engaging stories tailored for different reading levels.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "067f842a-5105-4f28-abcb-4d731850e8a6",
+            "image": null,
+            "name": "Very First Reading",
+            "description": "Usborne's Very First Reading series is designed to introduce young readers to the joy of reading through engaging stories and beautiful illustrations, helping to build their confidence and skills.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "4ad77a51-64ff-4faa-b093-0b7061424d35",
+            "image": null,
+            "name": "The Usborne Very First Reading",
+            "description": "The Usborne Very First Reading series is designed to help young children develop their reading skills through engaging stories and illustrations that encourage early literacy.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "05f8b46e-3343-46a8-8f73-2a0ec3539b49",
+            "image": null,
+            "name": "Djeco Puzz'Art",
+            "description": "Djeco Puzz'Art is a creative puzzle series designed to combine artistic imagery with traditional puzzle-solving, encouraging both cognitive skills and imaginative play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "66c27331-ae61-4e68-9bdb-0a69e74fd46b",
+            "image": null,
+            "name": "Djeco Create & Play",
+            "description": "Djeco Create & Play is a series of imaginative toys designed to inspire creativity and engage children through interactive play. Each product encourages artistic expression and cognitive development.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "660a8e53-c4a1-4d65-a96b-4e669fb82f73",
+            "image": null,
+            "name": "Magic Puzzles",
+            "description": "Djeco's Magic Puzzles are engaging and colorful jigsaw puzzles designed to stimulate children's imagination and problem-solving skills. Each puzzle features enchanting artwork that encourages creativity while also enhancing fine motor skills.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "6e104b1f-1cec-4ebb-9d75-5c14ddbe5f39",
+            "image": null,
+            "name": "Puzzle Collection",
+            "description": "The Djeco Puzzle Collection features a variety of beautifully illustrated puzzles designed to promote cognitive skills and hand-eye coordination in children. Each puzzle engages young minds with unique themes and captivating designs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "94ef7c60-7ed5-4ca2-9885-7937df9c0486",
+            "image": null,
+            "name": "Radio Flyer 4-in-1 Stroll 'N Trike",
+            "description": "The Radio Flyer 4-in-1 Stroll 'N Trike is a versatile tricycle designed to grow with your child, featuring four different modes for various stages of development and play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "2ef2be22-c507-49a2-bc6f-5dde0393d96e",
+            "image": null,
+            "name": "Radio Flyer My 1st Scooter",
+            "description": "The Radio Flyer My 1st Scooter is designed for young children to promote balance and coordination while riding outdoors. Its sturdy construction and safety features ensure a fun and secure experience for early riders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "5ff3508b-d8fe-41ae-ba5d-bbb9af0a6b1f",
+            "image": null,
+            "name": "Radio Flyer Classic Walker Wagon",
+            "description": "The Radio Flyer Classic Walker Wagon is a sturdy, wooden toy designed to support toddlers as they learn to walk, encouraging mobility and exploration through interactive play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "c7390b20-1756-446e-b2da-d30385806e98",
+            "image": null,
+            "name": "Radio Flyer Adventure Wagon",
+            "description": "The Radio Flyer Adventure Wagon is designed for outdoor fun and exploration, featuring a durable construction and ample space for children and their gear. It encourages imaginative play and family bonding during outdoor activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "af7308ca-f25d-410e-b335-fa5591fcef61",
+            "image": null,
+            "name": "Radio Flyer Tiny Trike",
+            "description": "The Radio Flyer Tiny Trike is a sturdy, three-wheeled tricycle designed for young children, promoting early mobility and balance as they develop their riding skills.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "859af135-25cb-4241-97ff-4a539571e1c8",
+            "image": null,
+            "name": "DEH-X series",
+            "description": "The Pioneer DEH-X series is a line of car audio receivers designed to provide high-quality sound and versatile connectivity options for music playback and entertainment in vehicles.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "bc354385-57b2-43ef-9172-57fccb3f04bd",
+            "image": null,
+            "name": "D-Series",
+            "description": "The Pioneer D-Series is a collection of car audio products designed to enhance the in-car listening experience with high-quality sound performance and user-friendly features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "77799f61-0697-48d1-8700-6591647db52e",
+            "image": null,
+            "name": "Toyota Yaris",
+            "description": "The Toyota Yaris is a compact car that was first released in 1999, known for its fuel efficiency, reliability, and practicality for urban driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota Racing"
+            }
+        },
+        {
+            "id": "28acd23c-de4f-45d2-9a0f-98292b1bd885",
+            "image": null,
+            "name": "Lamborghini Gallardo Spyder",
+            "description": "The Lamborghini Gallardo Spyder is a luxury sports car first released in 2006, known for its powerful V10 engine, sleek design, and convertible top that enhances the driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "de7cc8e5-7b0a-4d5f-828d-c63e65954b23",
+            "image": null,
+            "name": "Lamborghini Gallardo LP 560-4",
+            "description": "The Lamborghini Gallardo LP 560-4 is a high-performance sports car that combines luxury and speed, featuring a powerful V10 engine and an all-wheel-drive system for exceptional handling and agility.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "6b403eef-0e5a-4fa5-8a73-fff4998f3014",
+            "image": null,
+            "name": "Hella 500FF",
+            "description": "The Hella 500FF is a series of high-performance halogen fog lights designed to enhance visibility in challenging weather conditions, such as fog, rain, or snow, making it a popular choice for off-road and outdoor enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "a3401e4e-c77c-4053-af92-2f3af70a490c",
+            "image": null,
+            "name": "Hella Xenon",
+            "description": "The Hella Xenon series consists of high-intensity discharge (HID) headlights designed to provide superior illumination and improved visibility for vehicles, enhancing safety during night driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "c417c70c-cb58-40cc-b167-dcb93cec9a56",
+            "image": null,
+            "name": "Hella LED",
+            "description": "The Hella LED series encompasses a range of high-quality LED lighting solutions designed for automotive applications, providing enhanced visibility and energy efficiency.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hella"
+            }
+        },
+        {
+            "id": "05d31841-f92b-45d1-bfce-d650b0c40bde",
+            "image": null,
+            "name": "Hydro2",
+            "description": "The CarPro Hydro2 series consists of high-performance car care products designed to provide a durable and hydrophobic coating that enhances surface protection while simplifying the washing process.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "36128404-f3ba-4ce0-8355-d5976aaf42a1",
+            "image": null,
+            "name": "Infiniti QX Series",
+            "description": "The Infiniti QX Series is a line of luxury SUVs designed to offer a balance of performance, comfort, and sophisticated technology, catering to consumers seeking both style and practicality in their vehicle choices.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "413df7bd-8596-4d48-946a-0464f5ca52bf",
+            "image": null,
+            "name": "Kawasaki Z900 SE",
+            "description": "The Kawasaki Z900 SE is a middleweight naked motorcycle designed for riders who seek a blend of performance, comfort, and modern styling. It features advanced technology and enhanced suspension to deliver a dynamic riding experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "472d602b-0544-469e-916b-06ba66a304f5",
+            "image": null,
+            "name": "Britax Römer KIDFIX III S",
+            "description": "The Britax Römer KIDFIX III S is a high-backed booster seat designed for children aged 4 to 12 years. It provides advanced safety features, including side impact protection and an adjustable headrest, ensuring a secure and comfortable travel experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5e1e586d-dfeb-4a9c-83ce-4fbe3926ee84",
+            "image": null,
+            "name": "Maruti Suzuki Swift (New Generation)",
+            "description": "The Maruti Suzuki Swift (New Generation) is a compact hatchback car designed for urban mobility, featuring modern styling, efficient performance, and a range of safety features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "e91709a7-b589-4e64-b45f-ab5c102a059d",
+            "image": null,
+            "name": "Backbeat Fit 350",
+            "description": "The Plantronics Backbeat Fit 350 is a pair of wireless Bluetooth headphones designed for active use, offering a secure fit, sweat resistance, and up to 6 hours of listening time.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Plantronics"
+            }
+        },
+        {
+            "id": "3aacf1e0-7723-4c6b-b87c-3271df180c53",
+            "image": null,
+            "name": "Art & Craft",
+            "description": "Djeco's Art & Craft series offers a variety of creative and engaging toys that encourage artistic expression and imaginative play for children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "4ed892b8-2f63-495c-8872-26852d220e50",
+            "image": null,
+            "name": "Les Petits Geniuses",
+            "description": "Les Petits Geniuses by Djeco is a series of educational toys designed to stimulate creativity and problem-solving skills in young children. Each toy encourages imaginative play while engaging cognitive development through interactive and fun activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "bda57d9a-087e-4007-9e84-f23d3bcae0d8",
+            "image": null,
+            "name": "Radio Flyer Classic Red Wagon",
+            "description": "The Radio Flyer Classic Red Wagon is a timeless toy designed for outdoor play, featuring a durable steel body and comfortable handle for easy pulling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        }
+    ]
+}

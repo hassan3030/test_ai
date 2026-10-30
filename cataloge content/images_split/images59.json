@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "a083ad56-ce71-4575-9c75-c4184c8958b5",
+            "image": null,
+            "name": "Ford F-150 (2018 Generation)",
+            "description": "The Ford F-150 (2018 Generation) is a full-size pickup truck known for its impressive towing capacity, robust design, and advanced technology features, catering to both work and recreational needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "ac81b4da-4633-4051-83d8-2a6df7a57c37",
+            "image": null,
+            "name": "MG GS",
+            "description": "The MG GS is a compact SUV designed for practicality and comfort, offering a blend of modern styling and versatile performance suitable for urban and off-road driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "b883ed50-9f44-4560-8798-0ce543ae9048",
+            "image": null,
+            "name": "Volkswagen Polo Mk5",
+            "description": "The Volkswagen Polo Mk5 is a compact car introduced in 2009, known for its economical performance, practical design, and advanced safety features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "beba8321-a2c1-4626-bcd2-a301871fb156",
+            "image": null,
+            "name": "Volvo V70 (2nd generation)",
+            "description": "The Volvo V70 (2nd generation) is a mid-size station wagon known for its safety features, versatile interior space, and comfortable ride, catering to families and individuals seeking practicality and reliability.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c01106b9-0ca5-4019-8c10-927f85b73507",
+            "image": null,
+            "name": "Renault Duster",
+            "description": "The Renault Duster is a compact SUV known for its robust build, spacious interior, and versatility for both urban and off-road driving, first introduced in 2007.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "c1046926-5929-4c49-a92d-d8cd50c2d182",
+            "image": null,
+            "name": "Nitz",
+            "description": "The Pedrali Nitz series features modern chairs designed with comfort and style in mind, making them suitable for various settings, including homes and commercial spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "e958e017-e970-462a-8196-4c9f2fd954b6",
+            "image": null,
+            "name": "Tata Safari (New Generation)",
+            "description": "The Tata Safari (New Generation) is a mid-size SUV produced by Tata Motors, known for its robust build, spacious interiors, and off-road capabilities.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "e9a97b4d-3c50-4213-bc22-60588e1074d4",
+            "image": null,
+            "name": "Tata Indica",
+            "description": "The Tata Indica is a compact car launched by Tata Motors in 2000, primarily designed for urban commuting and known for its spacious interior and fuel efficiency.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "1f9e5af9-184a-426b-a34f-cc5cd8c7c5f4",
+            "image": null,
+            "name": "Seagate Expansion Desktop",
+            "description": "The Seagate Expansion Desktop series consists of external hard drives designed for additional storage capacity and ease of use, ideal for backing up files and expanding your computer's storage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "6cd45714-5213-4cd2-bfff-4fed74e945f8",
+            "image": null,
+            "name": "Tata Bolt",
+            "description": "The Tata Bolt is a compact hatchback car introduced by Tata Motors in 2013. It is designed to offer a blend of comfort, performance, and technology for urban commuters.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "6feb8e0f-3998-4d9e-818f-7196897b3de2",
+            "image": null,
+            "name": "Moto Guzzi V85 TT Guardia d'Onore",
+            "description": "The Moto Guzzi V85 TT Guardia d'Onore is an adventure touring motorcycle known for its distinctive design and versatile performance, accommodating both on-road and off-road riding experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "736cc57d-036a-4708-bf60-4482e87f24ea",
+            "image": null,
+            "name": "Tata Zest",
+            "description": "The Tata Zest is a compact sedan produced by Tata Motors, known for its comfortable interiors and fuel efficiency, aimed at providing an affordable yet stylish driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "806e5701-0cef-4741-a9ec-f787f81c7fdf",
+            "image": null,
+            "name": "Tata Sumo Gold",
+            "description": "The Tata Sumo Gold is a multi-purpose vehicle launched by Tata Motors in 2008, known for its spacious interior and robust performance, making it suitable for both urban and rural transport.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "87f78f54-2e09-4fe4-bedf-dd83057a4a6a",
+            "image": null,
+            "name": "California 1400",
+            "description": "The Moto Guzzi California 1400 is a cruiser motorcycle known for its classic Italian design, powerful engine, and comfortable riding experience, making it ideal for long-distance touring and urban commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "93087e37-f51f-49c2-b73b-f7bb08ab85a8",
+            "image": null,
+            "name": "Tata Nano GenX",
+            "description": "The Tata Nano GenX is a compact city car produced by Tata Motors, known for its affordability, efficiency, and small footprint, making it suitable for urban driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "a11c10ff-051f-4448-8b42-df9b56cf4cf2",
+            "image": null,
+            "name": "Canon PowerShot V10",
+            "description": "The Canon PowerShot V10 is a compact camera designed for vlogging and content creation, featuring advanced video capabilities and user-friendly controls.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "07b956a1-eebf-4cec-b1ff-adfc630e76b7",
+            "image": null,
+            "name": "Tata Nano",
+            "description": "The Tata Nano is a compact car produced by Tata Motors, launched in 2005. It is known for its affordability, aiming to provide an economical transportation solution for urban consumers.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "0c2e3d67-ea00-4156-8587-965499f49e9d",
+            "image": null,
+            "name": "Moto Guzzi MGX-21",
+            "description": "The Moto Guzzi MGX-21 is a touring motorcycle designed for comfort and long-distance travel, featuring an iconic styling that merges classic design with modern technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "140d59f3-4416-454b-a9f8-4c59230069dd",
+            "image": null,
+            "name": "Tata Indigo",
+            "description": "The Tata Indigo is a compact sedan launched by Tata Motors in 2002, known for its spacious interiors and fuel efficiency, catering to the needs of budget-conscious consumers seeking a reliable vehicle.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "14aa7f85-4616-4884-a813-383ef435fb11",
+            "image": null,
+            "name": "Tata Tigor",
+            "description": "The Tata Tigor is a compact sedan produced by Tata Motors, known for its stylish design, spacious interior, and affordability, catering to the needs of urban commuters.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "322b4f7f-2e04-4bb1-857f-cfbb40b5f0b0",
+            "image": null,
+            "name": "Moto Guzzi Eldorado 1400",
+            "description": "The Moto Guzzi Eldorado 1400 is a cruiser motorcycle known for its classic design, powerful engine, and comfortable riding experience, making it ideal for long-distance travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "5b7a0070-2927-4b5b-859c-109352dcb428",
+            "image": null,
+            "name": "Tata Safari Storme",
+            "description": "The Tata Safari Storme is a SUV that combines rugged off-road capabilities with a comfortable interior, designed for both urban and adventurous driving experiences.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "bd3bd6dd-c298-4a1c-b8d3-0a06bc6a482a",
+            "image": null,
+            "name": "Moto Guzzi California 1400 Custom",
+            "description": "The Moto Guzzi California 1400 Custom is a cruiser motorcycle known for its classic styling, comfortable ride, and powerful V-twin engine, designed for both city commuting and long-distance touring.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "c5d2a711-b179-4bfe-b681-64cd3493a154",
+            "image": null,
+            "name": "Tata Indica V2",
+            "description": "The Tata Indica V2 is a compact hatchback car introduced by Tata Motors in 2004, designed for urban commuting with a focus on fuel efficiency and affordability.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "cc2d34d3-c232-431b-9554-d47d9053a09d",
+            "image": null,
+            "name": "Tata Aria",
+            "description": "The Tata Aria is a versatile SUV produced by Tata Motors, designed to offer a combination of ruggedness and comfort, aiming to cater to both urban and off-road driving needs.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "ce827f9a-e8eb-4bc1-b700-e23a031a3279",
+            "image": null,
+            "name": "Moto Guzzi V9",
+            "description": "The Moto Guzzi V9 series is a line of motorcycles known for their classic design, robust performance, and the distinctive character of their transverse V-twin engines, catering to both city riders and long-distance touring enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "d08f31e7-776b-4986-bcef-83358a666380",
+            "image": null,
+            "name": "Tata Tiago",
+            "description": "The Tata Tiago is a compact hatchback produced by Tata Motors, known for its efficient performance, modern design, and affordability, making it a popular choice for urban commuting.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "d69dde54-2a60-4271-a366-0f839fca1692",
+            "image": null,
+            "name": "Tata Nexon EV",
+            "description": "The Tata Nexon EV is an electric SUV launched by Tata Motors in 2018, designed to provide eco-friendly mobility with an urban focus.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "d734e8dc-a89a-4687-8ee5-366be66582fb",
+            "image": null,
+            "name": "Tata Indica Vista",
+            "description": "The Tata Indica Vista is a hatchback car produced by Tata Motors, designed for urban commuting with a focus on space, comfort, and affordability.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "db893934-042c-4d5f-84f2-007a1415c031",
+            "image": null,
+            "name": "Changan CS55",
+            "description": "The Changan CS55 is a compact SUV designed for practical urban use, featuring a modern design and a range of advanced technology and safety features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        }
+    ]
+}

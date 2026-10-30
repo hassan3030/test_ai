@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "1e81cb86-0b65-4666-866c-f3fba3c62b38",
+            "image": null,
+            "name": "FurReal Friends Get Up & GoGo My Walkin' Pup",
+            "description": "FurReal Friends Get Up & GoGo My Walkin' Pup is an interactive toy that mimics the actions of a real puppy, featuring movement and sound responses that engage children in imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "f45ec8dd-f3e8-4f02-91f2-8c2a413d4a5b",
+            "image": null,
+            "name": "STRIDER 12x Sport Balance Bike",
+            "description": "The STRIDER 12x Sport Balance Bike is designed for young children to develop balance and coordination skills before transitioning to pedal bikes. Its lightweight frame and adjustable seat height allow for easy handling and customization for growing riders.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "1f1bbf46-5e59-42e6-a026-d43e66177f44",
+            "image": null,
+            "name": "Pioneer DEH-X Series",
+            "description": "The Pioneer DEH-X Series is a line of car audio receivers designed to enhance in-car entertainment with advanced features, including Bluetooth connectivity and compatibility with various audio formats.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "d8ea9727-22de-4d03-9484-5f5b3f379231",
+            "image": null,
+            "name": "Pioneer AVH Series",
+            "description": "The Pioneer AVH Series is a line of in-car multimedia receivers designed to offer high-quality audio and video playback, along with advanced connectivity features for seamless integration with various devices.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "56f825e6-e707-445a-bce3-9baafcdbc607",
+            "image": null,
+            "name": "Pioneer TS-A1605",
+            "description": "The Pioneer TS-A1605 is a series of car audio speakers designed to enhance sound quality in vehicles, providing clear and dynamic audio performance for a better listening experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "59d1070e-0768-47eb-87c9-200a3185a279",
+            "image": null,
+            "name": "MVH Series",
+            "description": "The Pioneer MVH Series is a line of car audio receivers designed to provide high-quality sound and extensive media compatibility, offering features such as USB input, Bluetooth connectivity, and a user-friendly interface.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "21e30b91-21ff-49ad-851a-26788a63f07a",
+            "image": null,
+            "name": "Pioneer DEH Series",
+            "description": "The Pioneer DEH Series is a line of car audio receivers known for their high-quality sound performance and versatile connectivity options, offering features such as CD playback, FM/AM radio, and auxiliary input.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "59c698f5-9312-4c97-b91d-aeaf7e983b88",
+            "image": null,
+            "name": "Chevrolet Corvette C7",
+            "description": "The Chevrolet Corvette C7 is a high-performance sports car known for its sleek design, powerful engine options, and advanced technology, embodying the spirit of American automotive engineering.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "76b5b6be-4c14-4c70-afa9-61c69fa16693",
+            "image": null,
+            "name": "Chevrolet Corvette Stingray",
+            "description": "The Chevrolet Corvette Stingray is a high-performance sports car known for its distinctive design, powerful engine, and advanced technology, aimed at delivering an exhilarating driving experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "140f0997-a055-44d9-b521-7e005ead9e36",
+            "image": null,
+            "name": "Chevrolet Corvette (2022 model year)",
+            "description": "The Chevrolet Corvette (2022 model year) is a high-performance sports car known for its sleek design, advanced technology, and powerful engine options, delivering an exhilarating driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "a337afbb-1a8c-4231-96a0-fac0bd1e4bd2",
+            "image": null,
+            "name": "P1 Series",
+            "description": "The Rockford Fosgate P1 Series is a range of car audio products designed to deliver powerful sound quality and enhance the audio experience in vehicles. Known for their durability and performance, they provide reliable audio solutions for car enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "26a47263-38a3-42ca-939c-71dc05f25c8c",
+            "image": null,
+            "name": "Viking Professional 5 Series",
+            "description": "The Viking Professional 5 Series refrigerators are designed for high performance and durability, featuring advanced cooling technology and ample storage space to meet the needs of both home chefs and culinary enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2aa328e1-d4eb-44d4-b59a-675f15109ef6",
+            "image": null,
+            "name": "Huawei Mate X",
+            "description": "The Huawei Mate X is a foldable smartphone that features a versatile design allowing users to seamlessly switch between tablet and phone modes. It is known for its innovative outward-folding display and premium build quality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "2d46945c-8294-41fc-bb54-b976284f905a",
+            "image": null,
+            "name": "Moto Guzzi V85 TT Travel",
+            "description": "The Moto Guzzi V85 TT Travel is an adventure touring motorcycle designed for versatility and comfort on both paved and unpaved roads, embodying the spirit of exploration.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Moto Guzzi"
+            }
+        },
+        {
+            "id": "2e2b0749-9b5b-46e8-ab95-6fb9ce076d69",
+            "image": null,
+            "name": "Ninja 400",
+            "description": "The Kawasaki Ninja 400 is a lightweight sport motorcycle designed for both new and experienced riders, featuring agile handling, a comfortable riding position, and a robust performance suited for city commuting and spirited rides.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "31862a73-5989-4a3f-8f21-cd7f26c1f8c0",
+            "image": null,
+            "name": "KX",
+            "description": "The Kawasaki KX series is a line of high-performance off-road motorcycles designed for motocross and trail riding, featuring powerful engines and advanced suspension systems for superior handling and durability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "334a48e9-0eed-4d44-934d-d141023867db",
+            "image": null,
+            "name": "Peugeot Partner",
+            "description": "The Peugeot Partner is a versatile compact van designed for both commercial and private use, known for its spacious interior, practicality, and efficient performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "35aaf2de-9f04-4800-8ae0-5d4dfcc6b180",
+            "image": null,
+            "name": "ContiSportContact 5P",
+            "description": "The Continental ContiSportContact 5P is an ultra-high-performance tire designed for sports cars and high-performance vehicles, offering exceptional grip, handling precision, and stability in both wet and dry conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "4f10ea13-50b2-40ce-a4bf-9818f9936d15",
+            "image": null,
+            "name": "Collinite 476s Super Doublecoat Wax",
+            "description": "Collinite 476s Super Doublecoat Wax is a high-performance car wax designed to provide a durable and protective layer for automotive paint. Known for its long-lasting shine and resistance to environmental elements, this wax is ideal for car enthusiasts seeking effective paint protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "d4cd5a3d-3d50-4854-bb8d-de91b37048c4",
+            "image": null,
+            "name": "Echo Show 15",
+            "description": "The Echo Show 15 is a smart home device featuring a large display, designed to organize your day, control smart home devices, and facilitate video calls with family and friends.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "323e57dd-aa7b-405f-9171-b82d6a334fab",
+            "image": null,
+            "name": "FurReal Friends Luna the Magical Pets",
+            "description": "FurReal Friends Luna the Magical Pets is an interactive toy series featuring enchanting pet characters that react to touch and sound, designed to provide engaging play experiences for children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "d3d1ccda-15c8-4b14-9406-faaf35b42900",
+            "image": null,
+            "name": "FurReal Friends Party Pups",
+            "description": "FurReal Friends Party Pups is a series of interactive toy dogs that provide engaging play experiences, designed to respond to touch, sound, and movement with a variety of playful reactions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "32fde164-bae7-4d37-9228-ce7274dc0af7",
+            "image": null,
+            "name": "FurReal Friends FurReal Air Pup",
+            "description": "FurReal Friends FurReal Air Pup is an interactive toy pet that mimics the behavior of a real puppy, providing kids with companionship and play. It features voice recognition and responds to commands, making it an engaging and entertaining experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "549a118c-0ffd-460a-84e1-69526aea007c",
+            "image": null,
+            "name": "FurReal Cubby, The Curious Bear",
+            "description": "FurReal Cubby, The Curious Bear is an interactive plush toy that responds to touch and sound, designed to engage children through play and companionship.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "71eef032-c3dd-4a7a-9ff9-ce4905a2c77c",
+            "image": null,
+            "name": "FurReal Wrapples",
+            "description": "FurReal Wrapples are interactive plush toys that respond to touch and sound, designed to provide companionship and imaginative play for children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "894884c6-8341-46f1-aee9-03cbf1cd2c12",
+            "image": null,
+            "name": "Pinypon Animals",
+            "description": "Pinypon Animals is a toy series from Pinypon featuring a variety of animal figures and accessories that encourage creative play and imagination for children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "6b74d46a-0c97-4f58-88cf-1d1be69779ce",
+            "image": null,
+            "name": "Pinypon Family",
+            "description": "The Pinypon Family series features interchangeable dolls and accessories designed for imaginative play. This series allows children to create and customize their own family characters using various outfits and physical elements.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "a89cc96d-bd16-40ca-9e9a-dade9d3f1c79",
+            "image": null,
+            "name": "Pinypon Fairies",
+            "description": "Pinypon Fairies is a series of collectible fairy figurines designed for imaginative play, featuring whimsical designs and interchangeable accessories to enhance creativity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "604f49d7-cba3-4866-96a0-54f170c4366f",
+            "image": null,
+            "name": "Pinypon Action",
+            "description": "Pinypon Action is a series of playful toys that allows children to engage in imaginative role play with interchangeable characters and accessories, enhancing creativity and storytelling skills.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "78537453-69cd-4de1-97c3-7927648de49b",
+            "image": null,
+            "name": "Pinypon Fun",
+            "description": "Pinypon Fun is a vibrant toy series that encourages imaginative play through interchangeable figures and accessories, allowing children to create their own unique characters and stories.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        }
+    ]
+}

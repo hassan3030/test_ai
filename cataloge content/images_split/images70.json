@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "880a3ae7-4441-492d-aec3-034aadd61dbe",
+            "image": null,
+            "name": "Husqvarna TC 125",
+            "description": "The Husqvarna TC 125 is a lightweight motocross motorcycle designed for young riders and entry-level enthusiasts, featuring a high-revving two-stroke engine that delivers agile performance and excellent handling on the track.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "88b0b73e-d5cb-4595-b982-cf1b3281cd1c",
+            "image": null,
+            "name": "TE",
+            "description": "The Husqvarna TE series consists of off-road motorcycles designed for challenging terrains, offering lightweight construction and exceptional handling for dirt riders.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "fc461329-6126-44c7-aa4f-1907cc2c6d86",
+            "image": null,
+            "name": "FC 250",
+            "description": "The Husqvarna FC 250 is a lightweight, high-performance off-road motorcycle designed for competitive motocross racing. It features advanced technology and engineering aimed at delivering agility and responsiveness on the track.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "916b3220-884a-4cc3-a641-ea08b7229d16",
+            "image": null,
+            "name": "TE 300",
+            "description": "The Husqvarna TE 300 is a high-performance enduro motorcycle designed for extreme off-road environments, featuring a powerful engine and advanced suspension technology for enhanced maneuverability and stability in rugged terrains.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "c864a9c4-e2c7-4438-8ee1-7ca8e212dfb1",
+            "image": null,
+            "name": "Fire HD 10 Tablet",
+            "description": "The Amazon Fire HD 10 Tablet is a versatile tablet designed for entertainment and productivity, featuring a 10.1-inch display and access to a wide range of apps and content.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "9d854f72-4002-436b-b1fa-eab8a3ef1e2f",
+            "image": null,
+            "name": "Husqvarna SMR 510",
+            "description": "The Husqvarna SMR 510 is a high-performance supermoto motorcycle designed for both on-road and off-road riding, known for its agility, power, and advanced suspension system.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a1cb3a8f-6b36-48c9-b636-fb1ff4f0e25e",
+            "image": null,
+            "name": "Husqvarna TXC 310",
+            "description": "The Husqvarna TXC 310 is a versatile off-road motorcycle designed for both competitive and recreational riding, featuring a powerful engine and advanced suspension for optimal performance on diverse terrains.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a3791664-46b6-41ff-922b-fb817e795a73",
+            "image": null,
+            "name": "Husqvarna TE 300",
+            "description": "The Husqvarna TE 300 is a high-performance off-road motorcycle designed for enduro riding, featuring a powerful engine, advanced suspension, and lightweight chassis for superior handling in challenging terrains.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "26d3fce1-1687-4f71-8e12-6508a575efcf",
+            "image": null,
+            "name": "Husqvarna Nuda 900",
+            "description": "The Husqvarna Nuda 900 is a naked motorcycle that combines a powerful engine with an agile chassis, designed for both urban commuting and spirited riding on twisty roads.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "2ec57810-e6a1-45c8-a0b4-bad39ceef5eb",
+            "image": null,
+            "name": "Husqvarna TX 300",
+            "description": "The Husqvarna TX 300 is a high-performance off-road motorcycle designed for serious trail riders, featuring a powerful two-stroke engine and lightweight chassis for enhanced maneuverability and responsiveness.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "2f0dc193-e589-4472-918f-9f9a00b2899f",
+            "image": null,
+            "name": "Husqvarna Svartpilen 401",
+            "description": "The Husqvarna Svartpilen 401 is a modern café racer motorcycle designed for urban riding, featuring minimalist styling and a lightweight frame for agile performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "368e5647-b524-4792-a7a1-0db7dff1b352",
+            "image": null,
+            "name": "Husqvarna 4T",
+            "description": "The Husqvarna 4T series comprises four-stroke motorcycles designed for off-road performance, featuring robust engineering and advanced suspension systems.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "a8a41349-4e05-493f-8e3e-4cc20a68e9e5",
+            "image": null,
+            "name": "Optimo",
+            "description": "The Hankook Optimo series is designed for performance and comfort in a variety of driving conditions, enhancing the overall driving experience with reliable traction and reduced road noise.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "b1b07d25-06c8-41bd-98b1-0ee583e3b0fd",
+            "image": null,
+            "name": "Husqvarna 701 Supermoto",
+            "description": "The Husqvarna 701 Supermoto is a lightweight motorcycle designed for both urban commuting and spirited riding on twisty backroads, offering high performance and agility.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b23987d8-4684-4b79-8198-5eaa23997f6e",
+            "image": null,
+            "name": "Husqvarna Nuda 900R",
+            "description": "The Husqvarna Nuda 900R is a versatile motorcycle designed for both on-road and off-road riding, known for its powerful engine and agile handling.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "c1edacbc-0770-4fd4-bbfa-5ce5091e1c5a",
+            "image": null,
+            "name": "Acura CL",
+            "description": "The Acura CL is a luxury coupe that was produced by Acura beginning in 1997, known for its combination of sporty performance and upscale features.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Acura"
+            }
+        },
+        {
+            "id": "c65f2fbb-0cf8-4ace-a875-90c3d53f74d8",
+            "image": null,
+            "name": "Husqvarna TE 125",
+            "description": "The Husqvarna TE 125 is a lightweight off-road motorcycle designed for trail riding and competition, featuring advanced suspension and a powerful two-stroke engine.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "cea80c24-da77-4abf-926d-3a8cec98770d",
+            "image": null,
+            "name": "Husqvarna Vitpilen 401",
+            "description": "The Husqvarna Vitpilen 401 is a lightweight and agile motorcycle designed for urban commuting, featuring a minimalist design and advanced technology for an exhilarating riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "d5bb9cff-4af3-41d0-a26e-62ff3dc39194",
+            "image": null,
+            "name": "Husqvarna WR 300",
+            "description": "The Husqvarna WR 300 is a lightweight enduro motorcycle designed for off-road performance, featuring a powerful two-stroke engine and advanced suspension components to navigate rugged terrains.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "daed54dd-0a26-4aca-9d9a-227190ce528b",
+            "image": null,
+            "name": "Apple Watch Series 7",
+            "description": "The Apple Watch Series 7 is a smartwatch designed to help users manage their health and stay connected. It features a larger display, faster charging, and improved durability for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "6c8896f3-aa6e-4b2c-bc81-21b352dd6331",
+            "image": null,
+            "name": "LEGO Disney",
+            "description": "The LEGO Disney series features a collection of building sets that allow fans to recreate iconic Disney characters, scenes, and stories through imaginative play and creative construction using LEGO bricks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "75964449-875e-4cad-927e-5e811f1cf2e1",
+            "image": null,
+            "name": "Husqvarna TC 65",
+            "description": "The Husqvarna TC 65 is a lightweight motocross motorcycle designed for young riders, offering an excellent combination of performance, handling, and ergonomics tailored for entry-level competition.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "831e90f3-b6e4-4641-bd02-06864b3c755f",
+            "image": null,
+            "name": "Ford F-150 (2021 generation)",
+            "description": "The Ford F-150 (2021 generation) is a full-size pickup truck known for its versatility, towing capacity, and a range of advanced technology features, making it suitable for both work and personal use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "f0e1d988-ecd2-4e81-9d0f-039a002151ca",
+            "image": null,
+            "name": "Chevrolet Bolt EUV",
+            "description": "The Chevrolet Bolt EUV is an all-electric compact SUV that offers a spacious interior, advanced technology features, and a versatile range, designed to provide an eco-friendly driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "a96645e7-8390-4b81-aaf6-4141d72ef69d",
+            "image": null,
+            "name": "Mothers CMX Ceramic Liquid Wax",
+            "description": "Mothers CMX Ceramic Liquid Wax is a high-performance car care product designed to protect and enhance the shine of your vehicle's paint. It utilizes advanced ceramic technology for durability and a long-lasting finish.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "f36bcab3-7737-4e64-83ec-9e1fad9ab5fd",
+            "image": null,
+            "name": "LEGO Harry Potter",
+            "description": "The LEGO Harry Potter series features building sets inspired by the Harry Potter films, allowing fans to recreate iconic scenes and characters from the wizarding world using LEGO bricks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "b0c4f557-7278-48f9-8793-97cfe80006f2",
+            "image": null,
+            "name": "LG Super UHD TV (2018 Series)",
+            "description": "The LG Super UHD TV (2018 Series) offers enhanced picture quality with advanced 4K HDR technology, providing a vibrant and immersive viewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "44ce33ae-98e4-4895-a68b-36c80eeb0380",
+            "image": null,
+            "name": "Toyota Mark X",
+            "description": "The Toyota Mark X is a mid-size luxury sedan that emphasizes a balance of comfort, performance, and advanced features, catering to the needs of sophisticated drivers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "b372ceb1-213f-4540-a65d-4d4ec482fcb5",
+            "image": null,
+            "name": "Opel Vectra (C)",
+            "description": "The Opel Vectra (C) is a mid-size car produced by the German automaker Opel from 2002 to 2008, known for its comfortable interior, practical design, and a range of efficient engines.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "ba6b48b6-6ebb-4135-862a-5dd20989d83e",
+            "image": null,
+            "name": "LG ThinQ Smart Washer",
+            "description": "The LG ThinQ Smart Washer series features advanced washing technology and smart home integration, allowing users to efficiently wash clothes with customizable settings and monitoring through a mobile app.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        }
+    ]
+}

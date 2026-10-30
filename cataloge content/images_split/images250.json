@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "fff65c59-9d65-4275-b729-5e9561de8735",
+            "image": null,
+            "name": "Blackline",
+            "description": "The Harley-Davidson Blackline is a minimalist cruiser motorcycle known for its stripped-down aesthetic and retro styling, designed to emphasize the riding experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "9a79498c-2e0d-43e3-8a38-984365017344",
+            "image": null,
+            "name": "Cross Bones",
+            "description": "The Harley-Davidson Cross Bones is a motorcycle that features a vintage bobber style with classic design elements, emphasizing a nostalgic and timeless aesthetic for enthusiasts of traditional American motorcycles.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "768399c7-80b4-4135-87d8-6a3eacd32431",
+            "image": null,
+            "name": "2012 Dyna Switchback",
+            "description": "The Harley-Davidson 2012 Dyna Switchback is a versatile motorcycle designed for both cruising and long-distance touring, combining classic styling with modern performance features.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "32104327-b8d4-4c38-9be3-a181096556f2",
+            "image": null,
+            "name": "2011 Road Glide Ultra",
+            "description": "The 2011 Road Glide Ultra is a touring motorcycle known for its distinctive frame-mounted fairing, comfortable seating, and advanced audio system, catering to long-distance riders seeking comfort and style.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "3b0b19c7-3cef-4fad-826e-88d1f1c7c10f",
+            "image": null,
+            "name": "Project Rushmore",
+            "description": "Harley-Davidson's Project Rushmore is a series of touring motorcycles launched in 2013, designed to enhance the riding experience with improved comfort, control, and technology.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "20b5938b-5a14-45d4-ac0f-364bc4f6a38f",
+            "image": null,
+            "name": "Aston Martin DB9",
+            "description": "The Aston Martin DB9 is a luxury grand tourer that combines high performance with elegant styling, offering a powerful V12 engine and a refined driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "d11b784c-8c9b-44ed-8d79-3b65b9bf3932",
+            "image": null,
+            "name": "Vantage",
+            "description": "The Aston Martin Vantage is a luxury sports car known for its exceptional performance, sleek design, and the incorporation of advanced technology, catering to enthusiasts seeking a thrilling driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "87713226-3e7d-4f78-99f5-1ed98a869824",
+            "image": null,
+            "name": "Aston Martin V8 Vantage S",
+            "description": "The Aston Martin V8 Vantage S is a high-performance sports car that combines luxury and agility, known for its exhilarating driving experience and distinctive design.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "2b9f85ef-bb30-4554-a3f5-fc5f7426fb20",
+            "image": null,
+            "name": "Autoglym Polar Blast",
+            "description": "Autoglym Polar Blast is a series of car care products specifically designed for the effective cleaning and maintenance of vehicles. Its key purpose is to provide high-performance cleaning solutions that enhance the aesthetic appeal of cars with minimal effort.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "e5d3fc4b-f72b-42ff-8b73-6cad8ae01482",
+            "image": null,
+            "name": "Škoda Octavia (3rd Generation Facelift)",
+            "description": "The Škoda Octavia (3rd Generation Facelift) is a compact family car known for its spacious interior, practical features, and efficient performance, making it suitable for both urban and long-distance driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "11199573-c991-463b-ac73-19e11f187dad",
+            "image": null,
+            "name": "Škoda Kodiaq",
+            "description": "The Škoda Kodiaq is a mid-size SUV that was first introduced in 2015, designed to offer spaciousness, versatility, and advanced safety features for families and active lifestyles.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "468f1edd-e053-41b7-a7e9-b270f1e8e38a",
+            "image": null,
+            "name": "Škoda Octavia (3rd generation updated)",
+            "description": "The Škoda Octavia (3rd generation updated) is a compact car known for its spacious interior, practicality, and efficient performance, appealing to a wide range of drivers seeking reliability and comfort.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "e4f96d45-c0cd-4069-bcc9-dc1b9fdc232a",
+            "image": null,
+            "name": "Škoda Rapid (facelift)",
+            "description": "The Škoda Rapid (facelift) is a compact car that was designed to offer a combination of practicality, efficiency, and modern features. It is aimed at providing comfortable transportation with a spacious interior and advanced safety technologies.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "b41eff31-fb6d-4fa7-962d-1ce1cbd15dbf",
+            "image": null,
+            "name": "Škoda Kamiq",
+            "description": "The Škoda Kamiq is a compact SUV designed to offer a blend of practicality, comfort, and advanced technology for urban drivers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "2113906d-8527-46a9-8bfe-8a6dfa5878e6",
+            "image": null,
+            "name": "Škoda Scala",
+            "description": "The Škoda Scala is a compact hatchback introduced by Škoda in 2019, designed to offer a balance of practicality, modern technology, and efficiency for everyday driving.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "654c846b-5f5e-421d-bd81-5eec5e07cee7",
+            "image": null,
+            "name": "Škoda Superb (Facelift)",
+            "description": "The Škoda Superb (Facelift) is a mid-size car designed to offer ample space, comfort, and advanced technology, catering to the needs of families and business users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "e472653f-1c1f-4f65-acf0-f57a698f63d4",
+            "image": null,
+            "name": "Škoda Enyaq iV",
+            "description": "The Škoda Enyaq iV is an all-electric SUV designed to offer spacious interiors, advanced technology, and a sustainable driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "060954a6-8ac3-4bda-a352-a48cede47cff",
+            "image": null,
+            "name": "Škoda Octavia (Fourth Generation)",
+            "description": "The Škoda Octavia (Fourth Generation) is a compact car designed for versatility and comfort, offering a spacious interior and advanced technology to meet daily driving needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "c07d8c50-7631-491a-b84a-ed8bd7039e18",
+            "image": null,
+            "name": "Škoda Kodiaq (Facelift)",
+            "description": "The Škoda Kodiaq (Facelift) is a mid-size SUV that offers a blend of practicality, spaciousness, and advanced technology, making it suitable for family use and everyday driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "71a293ed-9bc8-4f18-abde-c5fc08865747",
+            "image": null,
+            "name": "Mazda Protegé",
+            "description": "The Mazda Protegé is a compact car produced by Mazda, known for its reliability, practicality, and efficient fuel consumption, aimed at providing an economical driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "4a6290d0-d680-4a28-9d9c-112c5f2f911c",
+            "image": null,
+            "name": "Hästens Vividus",
+            "description": "The Hästens Vividus is a luxury bed series designed for ultimate comfort and durability, combining traditional craftsmanship with premium materials to ensure a restful night's sleep.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Hästens"
+            }
+        },
+        {
+            "id": "d3149e1a-7882-416c-bda0-593c56a6add4",
+            "image": null,
+            "name": "Ruché",
+            "description": "The Ruché series by Ligne Roset features elegantly designed chairs that blend contemporary aesthetics with comfort, making them suitable for various interior environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Ligne Roset"
+            }
+        },
+        {
+            "id": "b97b3a66-5389-4213-b9ec-aee5edc70ce6",
+            "image": null,
+            "name": "Lamborghini Murciélago LP 640",
+            "description": "The Lamborghini Murciélago LP 640 is a high-performance sports car known for its aggressive styling, powerful V12 engine, and advanced aerodynamics, embodying the brand's commitment to performance and luxury.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "9e87470e-d3c4-4488-bc0f-0b98b8d72b67",
+            "image": null,
+            "name": "Lamborghini Huracán Performante",
+            "description": "The Lamborghini Huracán Performante is a high-performance sports car that enhances the driving experience through advanced aerodynamics and lightweight design, delivering exceptional speed and agility on the road.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "7e908962-d365-4904-b5f4-42d291d955d5",
+            "image": null,
+            "name": "Huracán EVO",
+            "description": "The Lamborghini Huracán EVO is a high-performance sports car that combines advanced aerodynamics and cutting-edge technology with a naturally aspirated V10 engine, providing an exhilarating driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "982bea7c-884d-4608-a39b-818081e81e43",
+            "image": null,
+            "name": "Lamborghini Huracán Tecnica",
+            "description": "The Lamborghini Huracán Tecnica is a high-performance sports car that combines luxury features with advanced aerodynamics, designed for exhilarating driving experiences both on the road and track.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "77b86616-d49e-4af0-9437-a9ae7bba20be",
+            "image": null,
+            "name": "Harley-Davidson Softail",
+            "description": "The Harley-Davidson Softail is a series of motorcycles known for its unique blend of classic styling and modern performance, designed to provide a comfortable riding experience with a focus on cruising.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "627479ee-c47c-4998-8ea1-4ae0198a8c78",
+            "image": null,
+            "name": "Harley-Davidson Touring",
+            "description": "The Harley-Davidson Touring series is designed for long-distance travel, offering comfort and advanced technology features for motorcycle enthusiasts seeking both performance and luxury on the road.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "a741a196-9316-4684-af76-d4f228ae8e54",
+            "image": null,
+            "name": "Harley-Davidson Sportster",
+            "description": "The Harley-Davidson Sportster is a line of motorcycles known for their lightweight design and iconic style, targeting riders seeking a blend of classic aesthetics and modern performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "fe453b6f-92da-400f-b8bd-c22bc0263c5b",
+            "image": null,
+            "name": "Harley-Davidson LiveWire",
+            "description": "The Harley-Davidson LiveWire is an all-electric motorcycle designed to offer an innovative riding experience, combining the brand's signature style with modern electric performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        }
+    ]
+}

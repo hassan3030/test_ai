@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "468eacc3-bfc6-47c6-a0d5-3d7add449f19",
+            "image": null,
+            "name": "Geolander A/T-S",
+            "description": "The Yokohama Geolander A/T-S is an all-terrain tire designed for trucks and SUVs, offering a balance of on-road comfort and off-road capability with enhanced traction and durability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "bbd942ac-c764-4a6d-85ba-19f8cfe9af47",
+            "image": null,
+            "name": "Adventuro M/T",
+            "description": "The Yokohama Adventuro M/T is an all-terrain tire designed for off-road use, featuring aggressive tread patterns to enhance traction in challenging conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "f7492d6c-2f01-4aa1-9f15-7479cbeb55e0",
+            "image": null,
+            "name": "Yokohama ADVAN Neova AD08R",
+            "description": "The Yokohama ADVAN Neova AD08R is a high-performance tire designed for motorsport enthusiasts, providing exceptional grip and handling on both dry and wet surfaces, making it ideal for track use and spirited driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "81bc4931-1d9b-41b7-b870-40c5df8fa881",
+            "image": null,
+            "name": "Yokohama Advan Fleva V701",
+            "description": "The Yokohama Advan Fleva V701 is a high-performance tire designed for sports cars, focusing on enhanced grip and responsiveness in both wet and dry conditions, ideal for enthusiasts seeking superior handling.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "23dab321-5544-4759-b2a2-5a096460ef67",
+            "image": null,
+            "name": "S.drive AS01",
+            "description": "The Yokohama S.drive AS01 is a high-performance tire designed for sports cars, offering agile handling and responsiveness on both wet and dry roads.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "56e01ed2-48c4-429e-9bef-ad81ec6b82c4",
+            "image": null,
+            "name": "Yokohama ADVAN Neova AD08RS",
+            "description": "The Yokohama ADVAN Neova AD08RS is a high-performance tire designed for extreme grip and handling in both dry and wet conditions, suitable for motorsport enthusiasts and performance-oriented vehicles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "86c676b3-fe4a-4de6-86a1-96be161c60ad",
+            "image": null,
+            "name": "Yokohama BluEarth XT AE61",
+            "description": "The Yokohama BluEarth XT AE61 is a high-performance tire designed for improved fuel efficiency and excellent wet and dry grip, making it suitable for a variety of driving conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "db162bb8-1fce-4fc6-8ad8-5eba79de5a86",
+            "image": null,
+            "name": "Yokohama Geolandar X-MT G003",
+            "description": "The Yokohama Geolandar X-MT G003 is an extreme mud-terrain tire designed for off-road enthusiasts, featuring enhanced traction in challenging conditions and robust construction for durability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "726d417a-ab13-4a6f-b563-e52dcfb0178e",
+            "image": null,
+            "name": "Yokohama ADVAN Neova AD09",
+            "description": "The Yokohama ADVAN Neova AD09 is a high-performance tire designed for exceptional grip and handling on both dry and wet surfaces, ideal for motorsport enthusiasts and performance vehicles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "15248160-95d9-4e80-af66-d1da1793fbce",
+            "image": null,
+            "name": "Geolandar X-CV",
+            "description": "The Yokohama Geolandar X-CV is a tire series designed specifically for crossover vehicles, offering enhanced performance on both wet and dry surfaces, while providing a comfortable ride.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "0c0a3304-e917-4f5e-a53e-69cacf79319f",
+            "image": null,
+            "name": "Ventus S1 Noble2",
+            "description": "The Hankook Ventus S1 Noble2 is a high-performance tire designed for both sport and luxury vehicles, offering enhanced grip, comfort, and fuel efficiency along with improved tread life.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "08f58a01-8fcb-4c65-80d2-89eacdd7c9cb",
+            "image": null,
+            "name": "Kinergy",
+            "description": "The Hankook Kinergy series offers a range of tires designed for enhanced performance and comfort on various road conditions, focusing on safety and longevity.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "87a159cc-a752-4bf8-992d-c3654daf4005",
+            "image": null,
+            "name": "Dynapro MT",
+            "description": "The Hankook Dynapro MT is an all-terrain tire designed for extreme off-road performance and durability, featuring a rugged tread pattern to provide excellent traction in challenging conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "acbe4745-ffe0-4643-a7e7-b3132cf6c403",
+            "image": null,
+            "name": "Ventus S1 evo3",
+            "description": "The Hankook Ventus S1 evo3 is a high-performance summer tire designed for sports cars and high-end vehicles, offering enhanced grip and handling on both dry and wet surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "426584e9-ff83-4b9e-ab58-d765ceca7157",
+            "image": null,
+            "name": "Ventus ST RH06",
+            "description": "The Hankook Ventus ST RH06 is a high-performance tire designed primarily for sport utility vehicles (SUVs) and light trucks, providing enhanced handling, stability, and traction in both wet and dry conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "bded76b9-1be6-4d57-8d3b-9f36b4074125",
+            "image": null,
+            "name": "i*cept RS2",
+            "description": "The Hankook i*cept RS2 is a winter tire designed for enhanced traction and control in cold weather conditions, ensuring safety and performance on icy and snowy roads.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "b7574095-d91a-4afd-9222-e36c5b940489",
+            "image": null,
+            "name": "Evoluzion",
+            "description": "The Hankook Evoluzion series features high-performance tires designed for enhanced driving dynamics and improved traction for sports and luxury vehicles. Engineered for precision and stability, these tires aim to provide an exceptional driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Hankook"
+            }
+        },
+        {
+            "id": "f94d8b5b-55f4-4df5-b159-5c3b40bd8278",
+            "image": null,
+            "name": "Omen 40L",
+            "description": "The Omen 40L series includes advanced gaming desktops designed for high-performance gaming with customizable lighting and efficient thermal management features.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "db0771aa-f925-4825-a6ea-649a54698044",
+            "image": null,
+            "name": "Schenker XMG Apex",
+            "description": "The Schenker XMG Apex series consists of high-performance laptops designed for gamers and professionals, featuring powerful hardware configurations and customizable options to meet demanding computing needs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "f0df4985-7bf2-4506-881e-52efc39bb0ec",
+            "image": null,
+            "name": "Schenker VISION 17 PRO",
+            "description": "The Schenker VISION 17 PRO is a high-performance laptop designed for professionals and gamers, featuring powerful hardware and a sleek design for optimal productivity and immersive gaming experiences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "b867c992-fd29-4b63-8a71-922e495d4a1f",
+            "image": null,
+            "name": "Clevo P650HS",
+            "description": "The Clevo P650HS is a high-performance gaming laptop designed for demanding users, featuring customizable configurations that cater to gaming and heavy multitasking needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "c3cd1f04-d754-47ad-b1c6-480fcf6eae03",
+            "image": null,
+            "name": "Clevo P751TM1-G",
+            "description": "The Clevo P751TM1-G is a high-performance gaming laptop designed for gamers and power users, featuring advanced graphics and processing capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "9807312b-c0d7-4364-b053-603c53b999da",
+            "image": null,
+            "name": "Clevo P775TM",
+            "description": "The Clevo P775TM is a high-performance gaming laptop designed for enthusiasts, featuring powerful hardware components and customizable options for optimal gaming and productivity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "80710b8c-a936-4699-83a7-d113ed6f9459",
+            "image": null,
+            "name": "Motorola Moto G Power (2022)",
+            "description": "The Motorola Moto G Power (2022) is a budget-friendly smartphone known for its impressive battery life, providing users with long-lasting performance for everyday tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "11b2cf02-5e9e-48d9-ba46-0d30f3dd5da6",
+            "image": null,
+            "name": "Motorola Moto G Play (2022)",
+            "description": "The Motorola Moto G Play (2022) is an entry-level smartphone designed to provide essential features and reliable performance for everyday tasks at an affordable price.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "e0bb8852-8139-4bce-b764-f725c50ad32f",
+            "image": null,
+            "name": "Moto G73",
+            "description": "The Motorola Moto G73 is a smartphone designed to offer an accessible and reliable mobile experience, featuring essential capabilities for everyday use in a stylish design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "48bd481f-4679-4882-a916-467dba8af0e2",
+            "image": null,
+            "name": "Honor 8",
+            "description": "The Honor 8 is a smartphone series released in 2016, known for its dual-camera system and glass design, aimed at providing a premium experience at an affordable price.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "5c374b02-2c4a-4a2f-bd4b-7e419e27b0a9",
+            "image": null,
+            "name": "AMD Ryzen",
+            "description": "The AMD Ryzen series is a line of high-performance processors designed for desktop computers, offering advanced multi-threading capabilities and improved efficiency for computing tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "a71bcef3-cffb-4181-b29b-fb32a4086f0b",
+            "image": null,
+            "name": "AMD Radeon RX 5000 Series",
+            "description": "The AMD Radeon RX 5000 Series is a lineup of graphics cards designed for gaming and multimedia applications, offering improved performance and power efficiency through advanced RDNA architecture.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "e0b30919-6ce6-4d35-b643-25fbe24f4ca6",
+            "image": null,
+            "name": "AMD Ryzen 3000 Series",
+            "description": "The AMD Ryzen 3000 Series is a line of high-performance desktop processors designed for gaming and productivity, featuring the Zen 2 architecture for improved efficiency and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        }
+    ]
+}

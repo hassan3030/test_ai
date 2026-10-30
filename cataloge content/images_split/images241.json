@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b6790c8e-183e-4c44-b4c5-6c0a83c21629",
+            "image": null,
+            "name": "Mazda MX-5 Miata",
+            "description": "The Mazda MX-5 Miata is a lightweight, two-seat sports car known for its engaging handling and driving experience. Introduced in 1989, the MX-5 Miata has earned a reputation for its balance, affordability, and fun-to-drive nature.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "e5934e07-315b-4b80-9471-5ed90e7e70e2",
+            "image": null,
+            "name": "Mazda CX-9",
+            "description": "The Mazda CX-9 is a mid-size crossover SUV designed for families, offering spacious seating and advanced safety features, along with a sporty driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "e1ca5e7a-4c59-4f8f-bc66-0c61de046d20",
+            "image": null,
+            "name": "Mazda BT-50",
+            "description": "The Mazda BT-50 is a versatile pickup truck designed for both work and recreational purposes, offering a balance of durability, comfort, and practicality for various driving conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "760db790-5b99-481a-8b15-1a064b79bbc9",
+            "image": null,
+            "name": "Mazda CX-3",
+            "description": "The Mazda CX-3 is a subcompact crossover SUV known for its stylish design, engaging driving dynamics, and fuel efficiency, making it a suitable choice for urban environments.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "ea242018-1d07-493a-b232-01d9f27ba220",
+            "image": null,
+            "name": "Mazda MX-5 Miata RF",
+            "description": "The Mazda MX-5 Miata RF is a compact sports car known for its lightweight design, responsive handling, and retractable fastback roof, aimed at providing an engaging driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "d11a3c1a-de7a-4229-9658-b90781da8f99",
+            "image": null,
+            "name": "Mazda CX-5 (2021 Model)",
+            "description": "The Mazda CX-5 (2021 Model) is a compact crossover SUV designed for versatility and comfort, featuring engaging driving dynamics and a premium interior.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "6befd226-348f-46d3-b3e8-7a09b000f468",
+            "image": null,
+            "name": "Pirelli P Zero",
+            "description": "The Pirelli P Zero series is a line of high-performance tires designed for sports and luxury vehicles, offering enhanced grip, responsiveness, and stability at high speeds.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "e8186d91-d7b7-45bf-9dbe-7dfb2f7ce8fe",
+            "image": null,
+            "name": "Pirelli Scorpion",
+            "description": "The Pirelli Scorpion series is designed for high-performance SUVs and crossover vehicles, offering excellent grip and stability on both on-road and off-road surfaces.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "ef69118a-308a-477f-8a70-12359a515e3c",
+            "image": null,
+            "name": "Pirelli Cinturato",
+            "description": "The Pirelli Cinturato series is designed for comfort and sustainability, featuring optimized performance in various driving conditions while minimizing environmental impact.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "2767a6a4-82e7-49eb-ac35-3d23e675bb43",
+            "image": null,
+            "name": "Pirelli Scorpion Verde All Season",
+            "description": "The Pirelli Scorpion Verde All Season is a premium, all-season tire designed for drivers of SUVs and crossovers, offering balanced performance, safety, and fuel efficiency in various weather conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "dcc609a2-78b5-47c3-85cf-230b69eb20b8",
+            "image": null,
+            "name": "Pirelli Scorpion All Terrain Plus",
+            "description": "The Pirelli Scorpion All Terrain Plus is an all-terrain tire designed to provide enhanced off-road performance while maintaining on-road comfort. It features a robust tread pattern for increased traction in various conditions.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Pirelli"
+            }
+        },
+        {
+            "id": "b218f479-a164-40b4-8492-69a0460131a4",
+            "image": null,
+            "name": "Potenza",
+            "description": "The Bridgestone Potenza series is designed to provide high-performance tires for sports and luxury vehicles, offering superior handling and grip on both dry and wet roads.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "2ce11f1e-d807-4479-a4d6-1b368d36c685",
+            "image": null,
+            "name": "Turanza",
+            "description": "The Bridgestone Turanza series is designed for premium touring performance, providing a comfortable ride with enhanced wet and dry traction.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "2896d65d-d828-411c-9691-7581431c8ea2",
+            "image": null,
+            "name": "Dueler",
+            "description": "The Bridgestone Dueler series consists of high-performance tires designed for light trucks and SUVs, offering a balance of durability, traction, and comfort for off-road and on-road conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "2f3ec769-e9ad-48d5-8bf7-189a63771c7d",
+            "image": null,
+            "name": "Ecopia",
+            "description": "The Bridgestone Ecopia series focuses on fuel efficiency and eco-friendliness, offering tires designed to reduce rolling resistance while maintaining performance and safety.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "65a838ad-d737-432d-9ab9-44ee9fef15c6",
+            "image": null,
+            "name": "Ecopia EP100",
+            "description": "The Bridgestone Ecopia EP100 is a tire series designed for fuel efficiency and reduced rolling resistance, contributing to lower CO2 emissions and improved eco-friendliness for everyday vehicles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "dc39dce2-f474-4385-8294-febf288e52e3",
+            "image": null,
+            "name": "Potenza RE-01R",
+            "description": "The Bridgestone Potenza RE-01R is a high-performance tire designed for sports cars and performance-oriented vehicles, focusing on providing excellent grip and handling in both dry and wet conditions. Released in 2002, it is renowned for its responsiveness and stability at high speeds.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "4ce3c616-4237-456e-9111-7b2b8f5a9851",
+            "image": null,
+            "name": "Potenza RE050A",
+            "description": "The Bridgestone Potenza RE050A is a high-performance summer tire designed for sports cars and high-performance vehicles, providing enhanced handling and stability on both wet and dry surfaces.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "73d7b68b-ff35-449c-860d-3e3c4e44c637",
+            "image": null,
+            "name": "Dueler H/L Alenza",
+            "description": "The Bridgestone Dueler H/L Alenza is a premium all-season tire designed for crossover and sport utility vehicles, offering a balance of comfort, noise reduction, and wet and dry traction.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "33fab83a-2428-43a4-9787-a5b6f5978f86",
+            "image": null,
+            "name": "Potenza RE760 Sport",
+            "description": "The Bridgestone Potenza RE760 Sport is a high-performance tire designed for sporty driving, offering enhanced handling and responsiveness in both wet and dry conditions.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "9bd0a2e8-6731-4b14-80a1-537cf188c6f0",
+            "image": null,
+            "name": "Blizzak",
+            "description": "The Bridgestone Blizzak series offers high-performance winter tires designed for enhanced traction on snow and ice, ensuring safety and control in harsh winter conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "bc370aad-e154-4e09-a6c3-8fbf0d09cb59",
+            "image": null,
+            "name": "Potenza RE-11",
+            "description": "The Bridgestone Potenza RE-11 is a high-performance tire designed for sports cars and driving enthusiasts, offering exceptional grip and response on both wet and dry surfaces.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "dc643d1d-6154-4396-af44-5f1b1aa124fa",
+            "image": null,
+            "name": "Dueler A/T REVO 2",
+            "description": "The Bridgestone Dueler A/T REVO 2 is an all-terrain tire designed for versatile performance on both on-road and off-road conditions, providing enhanced durability and traction.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "6826560f-b47b-487a-98f8-3ea6ea7d2a9b",
+            "image": null,
+            "name": "Ecopia EP422",
+            "description": "The Bridgestone Ecopia EP422 is an eco-friendly tire designed to enhance fuel efficiency and reduce rolling resistance, while providing reliable performance and comfort in various driving conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "8b10b23e-0cf9-40c2-8bdf-e17d52ad9e81",
+            "image": null,
+            "name": "Potenza RE-71R",
+            "description": "The Bridgestone Potenza RE-71R is a high-performance tire designed for motorsports and street use, offering exceptional grip and precise handling in dry conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "2a08a24a-b537-4647-9523-b6c51c07f3d9",
+            "image": null,
+            "name": "Blizzak WS80",
+            "description": "The Bridgestone Blizzak WS80 is a winter tire designed for enhanced traction on icy and snowy roads, featuring advanced rubber compounds and tread patterns for improved handling and stability in cold conditions.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "4ceafa84-8e92-4933-9dfb-370155ee9c11",
+            "image": null,
+            "name": "Bridgestone Ecopia EP422 Plus",
+            "description": "The Bridgestone Ecopia EP422 Plus is a fuel-efficient tire designed to provide a balance of performance and comfort, featuring low rolling resistance to enhance fuel economy for everyday driving.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "aec64e19-f395-43ff-b262-672c6c6b39c2",
+            "image": null,
+            "name": "Bridgestone Potenza RE97AS",
+            "description": "The Bridgestone Potenza RE97AS is an all-season tire designed for performance vehicles, offering a balanced combination of wet and dry traction, ride comfort, and treadwear longevity.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "99f03d7a-0054-4668-9617-b0688bce9038",
+            "image": null,
+            "name": "Bridgestone Dueler A/T Revo 3",
+            "description": "The Bridgestone Dueler A/T Revo 3 is an all-terrain tire designed for both on-road and off-road performance. It features improved traction and durability, making it suitable for SUVs and light trucks.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "a86923ce-c785-4d77-8ee0-a60fa689e4bc",
+            "image": null,
+            "name": "Turanza T005",
+            "description": "The Bridgestone Turanza T005 is a premium touring tire designed for high-performance vehicles, offering excellent wet and dry grip, comfort, and reduced road noise.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        }
+    ]
+}

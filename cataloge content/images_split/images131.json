@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "e8d512da-a1e5-4964-b535-eb9160aac6cb",
+            "image": null,
+            "name": "Clevo X170",
+            "description": "The Clevo X170 series consists of high-performance laptops designed for gaming and professional use, offering powerful hardware configurations and customizable options to meet the needs of demanding users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "5f24c2fe-6953-47bc-9e7c-34be01002888",
+            "image": null,
+            "name": "Clevo N960TF",
+            "description": "The Clevo N960TF is a gaming laptop series designed to deliver high performance and advanced graphics for an enhanced gaming experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "e90e6272-72a6-4590-95ab-138b8b52d8c9",
+            "image": null,
+            "name": "Clevo N157",
+            "description": "The Clevo N157 series consists of high-performance laptops designed to meet the needs of gamers and professionals who require powerful computing capabilities and customizable features.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "039750d5-9f3a-4e51-a19b-ae3a35ee16a5",
+            "image": null,
+            "name": "Honor 9",
+            "description": "The Honor 9 is a smartphone released in 2017, known for its stylish design and dual-camera system that offers enhanced photography capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "49cb0caf-98b3-4df3-b829-21962b6ce8f6",
+            "image": null,
+            "name": "Honor 20 Pro",
+            "description": "The Honor 20 Pro is a smartphone released in 2019, designed for photography enthusiasts with its advanced camera system and sleek design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "4d758b27-aa36-4685-86df-028231bdc1e9",
+            "image": null,
+            "name": "Honor 50 Lite",
+            "description": "The Honor 50 Lite is a mid-range smartphone designed to meet the needs of users seeking a balance of performance and style without a premium price tag.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "bd1758cd-f849-46b6-a70a-d0248d8688b0",
+            "image": null,
+            "name": "Honor 70",
+            "description": "The Honor 70 series includes smartphones that emphasize photography capabilities, sleek design, and performance aimed at providing a high-quality user experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "513f9d9e-bc77-4009-bed0-ba3800a0b898",
+            "image": null,
+            "name": "Honor 90",
+            "description": "The Honor 90 series is a line of smartphones released in 2023, designed to deliver advanced photography capabilities and a smooth user experience with high-performance features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "e5e80e01-8d73-46f1-9cd1-5faa4fde3561",
+            "image": null,
+            "name": "Honor 90 Pro",
+            "description": "The Honor 90 Pro is a smartphone designed for high performance and advanced photography capabilities, featuring a sleek design and powerful hardware suitable for demanding users.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "d4467b7f-1c59-4338-9937-da79680409b2",
+            "image": null,
+            "name": "Honor Magic 5",
+            "description": "The Honor Magic 5 series consists of high-end smartphones designed to deliver advanced technology, superior performance, and a seamless user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "6da78f48-70de-4883-b124-23f528666a0e",
+            "image": null,
+            "name": "Poco F1",
+            "description": "The Poco F1 is a smartphone designed for users seeking high performance and value for money, featuring a powerful processor and a large battery capacity.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "a4f4d449-d3a2-4339-8c8e-a175c44e034b",
+            "image": null,
+            "name": "Poco X3 Pro",
+            "description": "The Poco X3 Pro is a smartphone designed for performance enthusiasts, featuring a high-refresh-rate display and a powerful processor to deliver a smooth user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "d612c957-8bd0-4808-b0ed-f7e57775fe4f",
+            "image": null,
+            "name": "Poco F3",
+            "description": "The Poco F3 is a mid-range smartphone known for its high performance and competitive pricing, featuring a powerful processor and an AMOLED display.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Poco"
+            }
+        },
+        {
+            "id": "ae75e786-a921-4312-9d44-e3475a8c1d8e",
+            "image": null,
+            "name": "Ryzen 5000G Series",
+            "description": "The AMD Ryzen 5000G Series consists of high-performance processors designed for desktop PCs, featuring integrated graphics and optimized architecture for improved gaming and computing tasks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "5edc672e-22e3-41da-a8cf-9eea7ac09441",
+            "image": null,
+            "name": "Amazon Fire HD 10",
+            "description": "The Amazon Fire HD 10 is a tablet designed for entertainment and productivity, featuring a vibrant display, access to a wide range of apps and content, and Alexa integration for hands-free control.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "eafb12c1-c1c0-4989-a78c-ae51382feafd",
+            "image": null,
+            "name": "Amazon Echo (2nd Generation)",
+            "description": "The Amazon Echo (2nd Generation) is a smart speaker equipped with Alexa, designed to provide hands-free voice control for various tasks including playing music, providing information, and controlling smart home devices.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "a9ea635e-3bbd-46f5-bdf8-a9bd466d7aa6",
+            "image": null,
+            "name": "Echo Dot (3rd Gen)",
+            "description": "The Amazon Echo Dot (3rd Gen) is a smart speaker that features Alexa, allowing users to play music, control smart home devices, set alarms, and ask questions using voice commands.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "687354a1-d94c-48ad-9114-828a5be59307",
+            "image": null,
+            "name": "Fire HD 10 (2019)",
+            "description": "The Amazon Fire HD 10 (2019) is a tablet designed for entertainment and productivity, featuring a vivid display, access to a variety of apps, and strong battery life.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "909c832f-56e0-49dd-928e-0e284d1a2c72",
+            "image": null,
+            "name": "Echo Dot (4th Gen)",
+            "description": "The Amazon Echo Dot (4th Gen) is a compact smart speaker that connects to the Alexa voice service, enabling users to play music, control smart home devices, set alarms, and access information through voice commands.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "8823a63d-f4b1-4d4a-86d5-80aa37d382c2",
+            "image": null,
+            "name": "Suunto Spartan Sport Wrist HR",
+            "description": "The Suunto Spartan Sport Wrist HR is a versatile smart watch designed for athletes and outdoor enthusiasts, offering advanced training and tracking features, including heart rate monitoring and GPS functionality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Suunto"
+            }
+        },
+        {
+            "id": "04071f9b-768f-4670-b688-c9844cbee83f",
+            "image": null,
+            "name": "Guitar Center Exclusive Fender Player Series",
+            "description": "The Guitar Center Exclusive Fender Player Series is a collection of high-quality electric guitars and basses designed for players who appreciate performance, style, and versatility in their instruments. Released in 2019, these models offer a modern take on classic Fender designs, making them suitable for a variety of musical genres.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guitar Center"
+            }
+        },
+        {
+            "id": "87fbad1d-6694-48c3-a557-a8f035bb0bb2",
+            "image": null,
+            "name": "K&N Performance Air Intake System",
+            "description": "The K&N Performance Air Intake System is designed to enhance engine performance by improving airflow and filtration, leading to increased horsepower and acceleration.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "93141e87-d74e-4612-993d-700a088cdf28",
+            "image": null,
+            "name": "57 Series",
+            "description": "The K&N 57 Series is an aftermarket performance air intake system designed to increase horsepower and acceleration while providing improved engine efficiency. It features a washable and reusable air filter that enhances airflow to the engine.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "2b3a7339-a3aa-4718-9ce7-41b5c60ca75d",
+            "image": null,
+            "name": "Cold Air Intake System",
+            "description": "The K&N Filters Cold Air Intake System is designed to increase horsepower and acceleration by replacing the factory air intake system with a high-flow, washable air filter. This system enhances engine efficiency and performance by allowing cooler air into the engine.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "ca77c410-b8e7-4d0d-9d8c-75770b450e77",
+            "image": null,
+            "name": "K&N 63 Series Aircharger Intake System",
+            "description": "The K&N 63 Series Aircharger Intake System is designed to improve engine performance by increasing airflow and providing enhanced filtration. This system is engineered to fit specific vehicle models for optimal results.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "417506dd-dbe9-4c5f-8640-9cf3e080845d",
+            "image": null,
+            "name": "K&N 77 Series Intake System",
+            "description": "The K&N 77 Series Intake System is designed to improve engine performance by increasing airflow and enhancing combustion efficiency. It features a lightweight, aluminum intake tube and is designed for easy installation in various vehicle applications.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "734f913a-b4bf-4e9c-9ba0-6790fa6fcca2",
+            "image": null,
+            "name": "K&N 69 Series Typhoon",
+            "description": "The K&N 69 Series Typhoon is an air intake system designed to enhance vehicle performance by increasing airflow to the engine, resulting in improved horsepower and acceleration. Key traits include a durable construction and an easy installation process, often without the need for additional modifications.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "d57fbf23-c5f6-47e1-9407-cf2a520a196d",
+            "image": null,
+            "name": "Performance Air Filters",
+            "description": "K&N Filters Performance Air Filters are engineered to improve engine performance by increasing airflow while providing excellent filtration. These filters are designed for easy installation and are reusable after cleaning.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "ef29fb78-c223-4cab-a86c-e2d8370dcdf3",
+            "image": null,
+            "name": "K&N's 57 Series FIPK",
+            "description": "K&N's 57 Series FIPK (Fuel Injection Performance Kit) is a performance air intake system designed to increase horsepower and acceleration by allowing the engine to breathe more freely.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "0196b096-f359-45b4-a639-789c3e3f9cfb",
+            "image": null,
+            "name": "K&N's 63 Series AirCharger",
+            "description": "K&N's 63 Series AirCharger is an aftermarket air intake system designed to improve engine performance by increasing airflow and enhancing filtration efficiency.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        }
+    ]
+}

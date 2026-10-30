@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b435569f-96a2-42d8-8c21-5b7c8bb77bf8",
+            "image": null,
+            "name": "Husqvarna TE",
+            "description": "The Husqvarna TE series represents a line of off-road motorcycles designed for enduro and trail riding, boasting lightweight frames and powerful engines for superior performance in challenging terrains.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "170b196a-aa59-470e-b08b-69adc7ba95db",
+            "image": null,
+            "name": "Vredestein Quatrac 3",
+            "description": "The Vredestein Quatrac 3 is an all-season tire designed for optimal performance in wet and dry conditions, providing enhanced grip and comfort for passenger vehicles.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "1b75e5f1-504e-4cec-ad5a-9cd38b083e93",
+            "image": null,
+            "name": "Ecopia EP422 Plus",
+            "description": "The Sumitomo Ecopia EP422 Plus is an environmentally advanced tire designed to improve fuel efficiency and provide a comfortable ride. It features low rolling resistance and a tread pattern optimized for wet and dry performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "23f19e61-14c5-4277-b732-1b9f04dd3102",
+            "image": null,
+            "name": "Wintrac Extreme",
+            "description": "The Vredestein Wintrac Extreme is a high-performance winter tire designed for enhanced grip and safety in challenging weather conditions, particularly in snowy and icy environments. It features advanced tread technology to ensure optimal handling and traction.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "299339d4-5d39-48ba-9082-6ff6e7b2ad7e",
+            "image": null,
+            "name": "Wintrac Xtreme",
+            "description": "The Vredestein Wintrac Xtreme is a high-performance winter tire designed to provide excellent grip and handling on snow and ice, ensuring enhanced safety and stability in harsh winter conditions.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "315e14a4-34c9-47a3-9e59-bc2ec39152df",
+            "image": null,
+            "name": "Vredestein Ultrac Sessanta",
+            "description": "The Vredestein Ultrac Sessanta is a high-performance tire designed for sports cars, offering excellent grip, precision handling, and enhanced driving dynamics on both wet and dry surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "326b0c33-ba67-4c18-8920-096217ae1b34",
+            "image": null,
+            "name": "Husqvarna TC",
+            "description": "The Husqvarna TC series is a line of off-road motorcycles designed for competitive motocross and trail riding, known for their lightweight construction and high-performance capabilities.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "55742ec5-57f2-4b45-bf41-c0f22c5c9f70",
+            "image": null,
+            "name": "Quatrac 3",
+            "description": "The Vredestein Quatrac 3 is an all-season tire designed for passenger cars, offering balanced performance and safety in a variety of driving conditions, including wet and dry roads.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "ba261b4e-17c2-4844-93ff-c3efe7d5a6e1",
+            "image": null,
+            "name": "Vredestein Sportrac 2",
+            "description": "The Vredestein Sportrac 2 is a performance tire designed for enhanced grip and stability in wet and dry conditions, offering a balanced driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "c8bb050e-a196-4117-b430-cadd5e22a13d",
+            "image": null,
+            "name": "Husqvarna SMR",
+            "description": "The Husqvarna SMR series includes high-performance motorcycles designed for supermoto racing, renowned for their agility, advanced suspension, and powerful engines.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "d06639a6-dbff-4684-bc81-17bbdfd71a9d",
+            "image": null,
+            "name": "Hemispheres",
+            "description": "The Sumitomo Tire Hemispheres series is designed to provide enhanced performance and durability for a variety of driving conditions, focusing on all-season traction and stability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "d47ef189-1e4c-4b9a-a5d0-46f22f30aedc",
+            "image": null,
+            "name": "Vredestein Ultrac",
+            "description": "The Vredestein Ultrac series offers high-performance tires designed for optimal grip and handling in various driving conditions, making them ideal for sporty and touring vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Vredestein"
+            }
+        },
+        {
+            "id": "973f8a18-71cc-411b-a25d-334ae6247b06",
+            "image": null,
+            "name": "Husqvarna TC 250",
+            "description": "The Husqvarna TC 250 is a lightweight, high-performance motocross bike designed for competitive racing and off-road riding, known for its agile handling and powerful two-stroke engine.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "9e76f955-f7f9-427a-87d8-fdea27895195",
+            "image": null,
+            "name": "Husqvarna 125",
+            "description": "The Husqvarna 125 series is a line of lightweight motorcycles designed for both beginners and experienced riders, offering agility and ease of handling in various terrains.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "b0b27c4f-41f8-4c70-854a-6a31e9bc0e3d",
+            "image": null,
+            "name": "Husqvarna 510 WR",
+            "description": "The Husqvarna 510 WR is a high-performance enduro motorcycle designed for both competitive racing and off-road exploration, featuring powerful engine capabilities and agile handling.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "dcaa3fd3-3786-4434-8e3e-5d63d3f36105",
+            "image": null,
+            "name": "Husqvarna Enduro 2006",
+            "description": "The Husqvarna Enduro series of motorcycles, released in 2006, is designed for off-road enthusiasts, offering a blend of lightweight construction and powerful performance for rugged terrain.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "eb4f3e94-8bfe-47fb-bdcd-7253ac46fa01",
+            "image": null,
+            "name": "Husqvarna SM",
+            "description": "The Husqvarna SM series of motorcycles is designed for street performance, emphasizing agility and lightweight construction for enhanced maneuverability in urban environments.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "f0208a78-7367-4f9f-89a7-0955efe30ea0",
+            "image": null,
+            "name": "Husqvarna WR 250",
+            "description": "The Husqvarna WR 250 is an off-road motorcycle known for its lightweight design and powerful two-stroke engine, making it suitable for enduro racing and trail riding.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "fca5218d-5d68-42ea-b2ef-3124654071d9",
+            "image": null,
+            "name": "Husqvarna 510",
+            "description": "The Husqvarna 510 is a high-performance motorcycle known for its lightweight design and powerful engine, making it suitable for both off-road and competitive racing purposes.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "fe330b0a-4b36-4af7-917b-00caf0f9be1e",
+            "image": null,
+            "name": "Husqvarna Motorcycles Cr250",
+            "description": "The Husqvarna Motorcycles CR250 is a lightweight and agile motocross bike designed for competitive off-road racing, known for its high-performance two-stroke engine and advanced suspension technology.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "4a82641a-fffd-4808-a8d6-8e1190c49b9b",
+            "image": null,
+            "name": "Bajaj Discover 135",
+            "description": "The Bajaj Discover 135 is a motorcycle series launched by Bajaj Auto in 2007, designed for urban commuting with a focus on fuel efficiency and comfortable riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "0474d895-6c30-4b90-ab4b-81cd8815a68f",
+            "image": null,
+            "name": "Husqvarna SMR 450",
+            "description": "The Husqvarna SMR 450 is a high-performance motorcycle designed for supermoto racing, featuring a lightweight chassis and powerful engine for exceptional agility and speed on both dirt and asphalt surfaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "079ca4c8-7956-4d06-bba6-1498df74303f",
+            "image": null,
+            "name": "Husqvarna TE 250",
+            "description": "The Husqvarna TE 250 is a lightweight enduro motorcycle, designed primarily for off-road performance, combining agility with powerful performance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "0cd25ed2-4347-4ff6-9254-044db2c82a89",
+            "image": null,
+            "name": "Husqvarna TE 510",
+            "description": "The Husqvarna TE 510 is an off-road motorcycle designed for both competitive and recreational use, featuring a powerful engine and advanced suspension for optimal performance on rugged terrain.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "0d2b4dd6-eb96-4d50-9d29-18123c135a9d",
+            "image": null,
+            "name": "Husqvarna Motorcycles Te250",
+            "description": "The Husqvarna Motorcycles TE250 is a compact off-road motorcycle designed for both amateur and professional riders, featuring a lightweight chassis and a powerful engine suited for diverse terrains.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "0e5a8513-63ec-410d-a5c8-f15436502b54",
+            "image": null,
+            "name": "Husqvarna Motorcycles Cr125",
+            "description": "The Husqvarna Motorcycles CR125 is a lightweight, high-performance motocross bike designed for competitive racing and off-road riding, known for its agile handling and powerful 125cc engine.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "0f1249ed-8063-48eb-ae9d-2efe02f76b05",
+            "image": null,
+            "name": "Husqvarna Motorcycles Wr250",
+            "description": "The Husqvarna Motorcycles WR250 is a lightweight off-road motorcycle designed for trail and enduro riding. It combines performance with agility, making it suitable for various terrains.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "269c763c-c7da-43a1-aa63-8e68cb1e39ba",
+            "image": null,
+            "name": "Husqvarna WR 125",
+            "description": "The Husqvarna WR 125 is a lightweight off-road motorcycle designed for agility and performance. It excels in challenging terrains, making it ideal for motocross and trail riding enthusiasts.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "324a691a-9e6c-4e9d-b07f-f351b546cc97",
+            "image": null,
+            "name": "Husqvarna TE 310",
+            "description": "The Husqvarna TE 310 is a lightweight off-road motorcycle designed for trail riding and competition. It features a powerful engine and agile handling, catering to both experienced riders and enthusiasts.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "333cb770-8f75-46e7-bb83-45dc88bdafaa",
+            "image": null,
+            "name": "Husqvarna 125 WR",
+            "description": "The Husqvarna 125 WR is a lightweight, high-performance off-road motorcycle designed for both amateur and professional riders, offering excellent agility and handling on various terrains.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        }
+    ]
+}

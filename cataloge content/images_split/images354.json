@@ -1,0 +1,368 @@
+{
+    "data": [
+        {
+            "id": "3606a764-3b69-428e-8915-031a19fdb884",
+            "image": null,
+            "name": "Nike Joyride",
+            "description": "The Nike Joyride series is designed to provide exceptional cushioning and support, featuring innovative foam beads that adapt to the foot's movement for a personalized running experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "bf2843c3-01d7-4d5b-8be4-f1aab4703311",
+            "image": null,
+            "name": "Nike Air Max 270 React",
+            "description": "The Nike Air Max 270 React is a versatile sneaker released in 2019, designed for everyday wear and featuring a combination of cushioning and style, making it suitable for both athletic and casual activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "495147c0-ede4-42e2-bfdf-4402f582b969",
+            "image": null,
+            "name": "KUV100",
+            "description": "The Mahindra & Mahindra KUV100 is a compact SUV that was first released in 2016, designed to provide modern styling and efficient performance for urban commuting while accommodating a variety of passenger and cargo needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "b0e475ad-463c-4eb7-8a7f-80059e60506d",
+            "image": null,
+            "name": "TUV300",
+            "description": "The Mahindra & Mahindra TUV300 is a compact SUV designed to provide a rugged and versatile driving experience, suitable for both urban and off-road conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "a57e3d28-0ebb-425d-a358-50ea99e6c274",
+            "image": null,
+            "name": "NuvoSport",
+            "description": "The Mahindra NuvoSport is a compact SUV that was designed to offer versatility and comfort for family transportation and urban driving. With its robust build and modern features, it aims to provide a stylish yet practical solution for buyers seeking a compact sports utility vehicle.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "7773ccc5-3469-4952-be44-e94463262e1c",
+            "image": null,
+            "name": "Mahindra KUV100 NXT",
+            "description": "The Mahindra KUV100 NXT is a compact SUV designed for urban driving, combining modern styling with practicality and efficiency.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mahindra & Mahindra"
+            }
+        },
+        {
+            "id": "243e66cf-c802-42d3-9a03-543db79c3da5",
+            "image": null,
+            "name": "Air Max 270 React ENG",
+            "description": "The Nike Air Max 270 React ENG is a sporty sneaker that combines a responsive React foam midsole with a large Air unit in the heel for enhanced comfort and style. It is designed for everyday wear, offering both a modern aesthetic and performance features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "53f09c6a-1084-4427-a48e-b86521c0ded3",
+            "image": null,
+            "name": "Nike Go FlyEase",
+            "description": "The Nike Go FlyEase is a revolutionary sneaker designed for easy on-and-off access, featuring a unique hinge system and a slip-on design to enhance convenience without compromising on style or performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "275a9405-2ca0-4a63-a718-e12b49b78998",
+            "image": null,
+            "name": "Nubira",
+            "description": "The Daewoo Nubira is a compact car produced by Daewoo Motors, designed for everyday use with a focus on affordability and practicality.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Daewoo"
+            }
+        },
+        {
+            "id": "449382e4-9642-4a8f-819b-efe280685214",
+            "image": null,
+            "name": "Nike Air Max 2021",
+            "description": "The Nike Air Max 2021 is a modern sneaker designed for everyday wear, featuring a lightweight construction and responsive cushioning for comfort. It incorporates sustainability by using recycled materials in its design.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "f7acb5a2-4270-4815-89b2-029ddf872a10",
+            "image": null,
+            "name": "Nike Dunk Low 2021",
+            "description": "The Nike Dunk Low 2021 is a stylish sneaker designed for both casual wear and athletic performance, featuring a sleek silhouette and a variety of colorways to suit individual style preferences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "eb58a2d2-db69-4321-a9de-e7398715ef18",
+            "image": null,
+            "name": "Nike Space Hippie 04",
+            "description": "The Nike Space Hippie 04 is a sustainable sneaker that emphasizes eco-friendly materials and design practices. It combines performance with a minimalistic aesthetic, making it suitable for both athletic and casual wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "4980cbca-16e0-4a9e-8f25-88bf5eb04e7b",
+            "image": null,
+            "name": "Caterham Seven Superlight R500",
+            "description": "The Caterham Seven Superlight R500 is a lightweight sports car known for its exceptional handling and performance. Designed for driving enthusiasts, it emphasizes pure driving pleasure with a minimalist design.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "9cfaadc0-e8d6-4b80-a8e4-f3eda5cb2da1",
+            "image": null,
+            "name": "Nike Air Jordan 1 Retro High OG 'Brotherhood'",
+            "description": "The Nike Air Jordan 1 Retro High OG 'Brotherhood' is a high-top sneaker released in 2022, featuring iconic design elements that pay homage to the Air Jordan legacy, characterized by premium materials and classic silhouettes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "6a6784f7-a5c1-4a12-93bf-d4a82c05b740",
+            "image": null,
+            "name": "H&M Conscious Collection",
+            "description": "The H&M Conscious Collection features sustainable women's clothing made with environmentally friendly materials and responsible production processes, aiming to reduce the ecological footprint of fashion.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "H&M"
+            }
+        },
+        {
+            "id": "a6beddd9-b893-489c-929f-8cc8583b5f00",
+            "image": null,
+            "name": "H&M x Mugler",
+            "description": "The H&M x Mugler series features a limited-edition collection of women's clothing that combines H&M's accessible fashion with Mugler's iconic design aesthetic, characterized by bold silhouettes and unique detailing.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "H&M"
+            }
+        },
+        {
+            "id": "aedb3af9-8f03-4552-bf00-1b3ee07112b1",
+            "image": null,
+            "name": "Louis Vuitton Monogram X Jeff Koons",
+            "description": "The Louis Vuitton Monogram X Jeff Koons series features a collaboration between the luxury fashion house Louis Vuitton and contemporary artist Jeff Koons, showcasing iconic artworks reimagined on signature Louis Vuitton bags.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "da092e96-b1e6-4320-9e32-f11eb89aad0b",
+            "image": null,
+            "name": "Louis Vuitton Palm Springs Backpack",
+            "description": "The Louis Vuitton Palm Springs Backpack is a stylish and functional bag designed for both casual and travel use, featuring the iconic Monogram canvas and a versatile design that allows for easy carrying.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a9b80bb9-c0e3-4202-b298-43398ba789c3",
+            "image": null,
+            "name": "Louis Vuitton Twist Bag",
+            "description": "The Louis Vuitton Twist Bag is a stylish accessory that combines modern design with classic elements, featuring a unique LV Twist lock and a versatile structure for various occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "09255dce-c738-4077-bb7c-f1a2cffa0ca3",
+            "image": null,
+            "name": "Louis Vuitton Capucines",
+            "description": "The Louis Vuitton Capucines series, introduced in 2019, is a collection of luxury handbags that blend classic elegance with modern design, making them suitable for both casual and formal occasions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ab7e7a2f-0fa1-4c77-b67b-d8610c8973c2",
+            "image": null,
+            "name": "Louis Vuitton Fall/Winter 2020",
+            "description": "The Louis Vuitton Fall/Winter 2020 collection features elegant silhouettes and luxurious materials, designed to embody a sophisticated yet contemporary vibe for women's clothing.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3cf9e398-ff08-4f11-96db-62168671db15",
+            "image": null,
+            "name": "Gucci Eyewear 2017 Collection",
+            "description": "The Gucci Eyewear 2017 Collection showcases a range of stylish sunglasses designed to provide both protection from UV rays and fashionable aesthetics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "67359b1a-de69-4d80-a77a-34603247163c",
+            "image": null,
+            "name": "Gucci Dionysus Bags",
+            "description": "The Gucci Dionysus Bags are a series of luxury handbags introduced in 2017, known for their distinctive silhouette, signature tiger head closure, and elegant design, combining functionality with the brand's iconic style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c7e7c9b1-ed0f-43c6-ba81-22fd20513dcd",
+            "image": null,
+            "name": "Gucci Men's Fall/Winter 2017 Collection",
+            "description": "The Gucci Men's Fall/Winter 2017 Collection showcases a blend of bold patterns and rich fabrics, emphasizing individual style and contemporary fashion for men.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Men's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cd6e310b-23c8-42bd-91ac-d65c882f88b5",
+            "image": null,
+            "name": "Gucci Women's Spring/Summer 2017 Collection",
+            "description": "The Gucci Women's Spring/Summer 2017 Collection features a blend of bold colors, eclectic prints, and unique designs, emphasizing the brand's artisanal craftsmanship and contemporary aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e914ce7-09b5-4f74-9769-3f10a7a72e1c",
+            "image": null,
+            "name": "Gucci Rhyton",
+            "description": "The Gucci Rhyton is a luxury sneaker series released in 2018, known for its retro-inspired design and exaggerated silhouette. It blends fashion aesthetics with comfort, making it a popular choice for casual wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "52d0fd80-2681-401d-b18f-76b0400a8da8",
+            "image": null,
+            "name": "Gucci Off The Grid",
+            "description": "The Gucci Off The Grid collection features bags designed with sustainable materials and a modern aesthetic, reflecting the brand's commitment to environmental responsibility while maintaining luxury style.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3f180dd2-2261-4665-a705-1e327ee9c061",
+            "image": null,
+            "name": "Gucci Eyewear",
+            "description": "Gucci Eyewear is a collection of high-end sunglasses that merge classic Italian craftsmanship with contemporary designs, providing both style and UV protection.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e50b9e34-27e2-40ed-a6e5-3bc14c700cb1",
+            "image": null,
+            "name": "Gucci GG Pearl",
+            "description": "The Gucci GG Pearl series is a collection of luxurious accessories characterized by the iconic GG logo intertwined with a pearl motif, offering elegance and sophistication to fashion enthusiasts.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "6ba89c36-8838-406d-8c0c-eb4a36964747",
+            "image": null,
+            "name": "NMD_R2",
+            "description": "The Adidas NMD_R2 is a modern sneaker designed for comfort and style, featuring a snug fit, Boost cushioning, and a sleek silhouette that blends urban aesthetics with performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Adidas"
+            }
+        }
+    ]
+}

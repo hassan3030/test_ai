@@ -1,0 +1,348 @@
+{
+    "data": [
+        {
+            "id": "603ded98-e83c-4d45-b8ec-5e1b9c506e54",
+            "image": null,
+            "name": "Volvo V50",
+            "description": "The Volvo V50 is a compact executive station wagon designed to offer a blend of practicality, safety, and performance, suitable for individuals and families seeking a reliable vehicle.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "66d2c85d-65d7-4123-9852-cd3059d7b8ce",
+            "image": null,
+            "name": "Volvo XC90 (second generation)",
+            "description": "The Volvo XC90 (second generation), launched in 2007, is a luxury SUV known for its safety features, spacious interior, and versatile seating configurations, aimed at families seeking both comfort and performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "89c182ad-a4c8-42f1-aac1-789341606e15",
+            "image": null,
+            "name": "Volvo XC40 T5 Recharge",
+            "description": "The Volvo XC40 T5 Recharge is a compact luxury SUV that combines electric efficiency with versatile design, featuring a plug-in hybrid powertrain optimized for urban driving and everyday practicality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8e16102b-ba6f-4045-b817-37095cca9e15",
+            "image": null,
+            "name": "ActiveWater 60",
+            "description": "The Bosch ActiveWater 60 series includes a range of washing machines designed for optimal water and energy efficiency, ensuring effective cleaning while minimizing resource consumption.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Bosch"
+            }
+        },
+        {
+            "id": "fbb23f70-781a-4453-a4c0-a0375d8f685c",
+            "image": null,
+            "name": "Volvo S60 Recharge",
+            "description": "The Volvo S60 Recharge is a plug-in hybrid sedan combining performance with sustainability, designed for those who value efficiency without compromising on luxury and driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ae48f49b-fc31-469b-825f-2f83b4d470fb",
+            "image": null,
+            "name": "Volvo XC90 (2nd Generation)",
+            "description": "The Volvo XC90 (2nd Generation) is a luxury mid-size SUV that emphasizes safety, comfort, and advanced technology, catering to families and individuals seeking a versatile and reliable vehicle.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c36551b8-35a8-4a91-b086-f36c078fbdcf",
+            "image": null,
+            "name": "Volvo S40",
+            "description": "The Volvo S40 is a compact executive car produced by Volvo from 1995 to 2012, known for its safety features, stylish design, and comfortable interior.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c4cd02c9-6bde-4d16-847c-a18428b146c6",
+            "image": null,
+            "name": "Volvo XC70 (III)",
+            "description": "The Volvo XC70 (III) is a midsize luxury crossover SUV known for its blend of rugged capability and refined comfort, making it suitable for both urban environments and off-road adventures.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c7a4b15f-05d5-43e6-aead-6411e20064b7",
+            "image": null,
+            "name": "Volvo XC60 (Facelift)",
+            "description": "The Volvo XC60 (Facelift) is a mid-size luxury SUV that combines safety, comfort, and Scandinavian design. It offers a range of advanced technologies to enhance driving performance and features spacious interiors for both passengers and cargo.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d143cd54-afbc-4a38-a969-e2da5278df09",
+            "image": null,
+            "name": "Volvo S60 (New Generation)",
+            "description": "The Volvo S60 (New Generation) is a compact executive sedan designed with a focus on safety, luxury, and comfort, featuring advanced technologies and a refined driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "187b9eda-632c-4357-a0f4-44f771ef6c9e",
+            "image": null,
+            "name": "Volvo V70 (second generation)",
+            "description": "The Volvo V70 (second generation) is a mid-size luxury wagon introduced in 2000, known for its spacious interior, safety features, and versatile cargo capacity, designed to cater to families and active lifestyles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "2e2136ca-95b2-4926-a512-19c7a4bb7397",
+            "image": null,
+            "name": "Volvo V60 (Facelift)",
+            "description": "The Volvo V60 (Facelift) is a mid-size luxury wagon that combines elegant design with practical versatility, offering advanced safety features and a comfortable driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "32167747-1fb0-47b9-97c8-ebedb5f6c948",
+            "image": null,
+            "name": "Volvo S80 (II)",
+            "description": "The Volvo S80 (II) is a premium sedan designed for comfort and safety, offering advanced technology and a smooth driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "34bf8e9f-9589-4348-8ec8-a3abdc285840",
+            "image": null,
+            "name": "Volvo V70 (III)",
+            "description": "The Volvo V70 (III) is a mid-size luxury station wagon designed for family use, emphasizing safety, comfort, and practicality.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "379f1bbf-443e-487f-8f2f-e09437c4bff3",
+            "image": null,
+            "name": "Volvo V90 Cross Country",
+            "description": "The Volvo V90 Cross Country is a rugged and versatile luxury wagon designed for both on and off-road driving, emphasizing safety, comfort, and all-terrain capability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3fa229cd-9b53-4aa5-bdba-18f35ffd15f5",
+            "image": null,
+            "name": "Volvo XC60 (New Generation)",
+            "description": "The Volvo XC60 (New Generation) is a compact luxury crossover SUV that combines Swedish design, advanced safety features, and versatile interior space, catering to those seeking comfort and practicality in urban and off-road settings.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4021b44d-6d05-42f5-adb6-7ef022d53a43",
+            "image": null,
+            "name": "Volvo C70",
+            "description": "The Volvo C70 is a compact luxury convertible that was first introduced in 2004, known for its combination of elegant design, safety features, and comfortable driving experience.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "41695c9e-5e47-4902-a7b3-48d168229294",
+            "image": null,
+            "name": "Volvo C30",
+            "description": "The Volvo C30 is a compact hatchback known for its distinctive design, safety features, and enjoyable driving experience. It combines functionality with sporty aesthetics, making it suitable for urban environments.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "49dce578-8061-47a6-a6cb-2575c06d682a",
+            "image": null,
+            "name": "Subaru WRX (facelift)",
+            "description": "The Subaru WRX (facelift) is a performance-oriented compact car known for its all-wheel drive capabilities and sporty design, aimed at driving enthusiasts seeking both power and handling precision.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "52ee3c3a-0a04-481b-bb81-0a84711358c5",
+            "image": null,
+            "name": "Volvo S40 (New Generation)",
+            "description": "The Volvo S40 (New Generation) is a compact executive car that was designed to offer safety, comfort, and a high-quality driving experience, making it a suitable choice for urban and suburban driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5a834851-7690-40e0-9fc5-68265c23389c",
+            "image": null,
+            "name": "Volvo V70",
+            "description": "The Volvo V70 is a mid-size station wagon known for its practicality, safety, and comfort. Launched in 2001, it combines spacious interiors with advanced engineering to cater to families and individuals seeking reliability in travel.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "60327428-2afa-4ff7-a4fb-8d49a50d075d",
+            "image": null,
+            "name": "Atena",
+            "description": "The Calligaris Atena series includes modern sofas designed to offer comfort and style. Characterized by their sleek lines and customizable fabric options, these sofas are ideal for contemporary living spaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "7c4fcdca-f986-47c9-8cb8-657479aa4dbf",
+            "image": null,
+            "name": "Vespa GTS",
+            "description": "The Vespa GTS is a line of scooters manufactured by Piaggio known for their classic design, modern features, and efficient performance, making them popular for urban commuting.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Piaggio"
+            }
+        },
+        {
+            "id": "8513e7ad-0d14-44ae-8a53-edc991682371",
+            "image": null,
+            "name": "Peg Perego Siesta",
+            "description": "The Peg Perego Siesta is a versatile baby seat designed for infants and toddlers that can be used for feeding, relaxing, and playtime. It features multiple reclining positions and a compact fold for easy storage.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e0f22dbf-4179-4831-bf33-36250b75ac2a",
+            "image": null,
+            "name": "Chicco NextFit Zip Car Seat",
+            "description": "The Chicco NextFit Zip Car Seat is a versatile and user-friendly car seat designed to provide safety and comfort for children from infants to toddlers. It features a zip-off seat pad for easy cleaning and can be installed in multiple ways to accommodate various vehicle types.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "f816e8b6-f03c-4a97-a9fb-773caa02ddb2",
+            "image": null,
+            "name": "Jaguar XK8",
+            "description": "The Jaguar XK8 is a luxury grand tourer that combines performance with elegant design, known for its powerful V8 engine and smooth handling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9bbee4f4-4d9c-4381-9768-488d95aba6c2",
+            "image": null,
+            "name": "Avon ZTX",
+            "description": "The Avon ZTX series consists of high-performance tires designed for both wet and dry road conditions, offering improved grip and handling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "9bd4e685-5237-44d5-9ab7-8448951d555a",
+            "image": null,
+            "name": "Dodo Juice Banana Gloss",
+            "description": "Dodo Juice Banana Gloss is a car care product launched in 2018, designed to provide a glossy finish to painted surfaces while offering protection from environmental contaminants.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "988b49b8-deca-4d80-960e-bc9aa306baef",
+            "image": null,
+            "name": "Oppo A5s",
+            "description": "The Oppo A5s is a budget-friendly smartphone designed for everyday use, offering essential features and a reliable performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "aec2939c-19b7-4354-aa19-93ef638e96ed",
+            "image": null,
+            "name": "KTM 1190 Adventure",
+            "description": "The KTM 1190 Adventure is a versatile motorcycle designed for both on-road and off-road travel, featuring advanced technology and a powerful engine to enhance the riding experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        }
+    ]
+}

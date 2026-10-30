@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "b4469455-8252-4c40-8ae1-a5c948b49637",
+            "image": null,
+            "name": "Frugi Organic Cotton Collection",
+            "description": "The Frugi Organic Cotton Collection is a range of eco-friendly children's clothing designed for comfort and durability, made from sustainably sourced organic cotton.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "6bfa972b-cdac-4982-a47e-494e6ef9f601",
+            "image": null,
+            "name": "Shark EZ Robot",
+            "description": "The Shark EZ Robot series is designed to provide efficient and convenient cleaning with smart navigation and self-emptying capabilities, allowing users to maintain cleanliness with minimal effort.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Shark"
+            }
+        },
+        {
+            "id": "a0031f24-09bb-4256-97ac-dd358a1e73e8",
+            "image": null,
+            "name": "MagnaFlow Exhaust Systems",
+            "description": "MagnaFlow Exhaust Systems are high-performance exhaust solutions designed to enhance engine efficiency and sound. They are known for their durability and bolt-on installation.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "b361ed82-aff4-42ae-b6bc-192a4a79342b",
+            "image": null,
+            "name": "Oppo R11s",
+            "description": "The Oppo R11s is a smartphone released in 2017, designed to offer high-quality photography and a vibrant display, catering to users seeking an enhanced mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "c8623ee9-69a4-4ea9-93b0-8ea64c5fbe08",
+            "image": null,
+            "name": "Frugi Autumn/Winter 2017 Collection",
+            "description": "The Frugi Autumn/Winter 2017 Collection features responsibly sourced, organic cotton children's clothing designed for comfort and durability in cooler weather.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "3ca1dfef-1360-4ea7-ac88-268eaef12a3f",
+            "image": null,
+            "name": "M-75",
+            "description": "The Guild M-75 series consists of acoustic guitars known for their rich tone, comfortable playability, and classic design, making them suitable for both amateur and professional musicians.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "82a9a201-7419-4b4e-a35e-dbb7c6a1a8dd",
+            "image": null,
+            "name": "MagnaFlow Exhaust System",
+            "description": "The MagnaFlow Exhaust System is designed to enhance vehicle performance by improving exhaust flow and reducing back pressure, providing increased horsepower and a deeper exhaust tone.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "bea52734-2a5a-4692-9feb-8a35a9b3ebc1",
+            "image": null,
+            "name": "Strider 12 Pro Balance Bike",
+            "description": "The Strider 12 Pro Balance Bike is designed to help young children develop balance and coordination skills while learning to ride, featuring a lightweight frame and no-pedal design for easy maneuverability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "05a18040-6f5c-401d-bff9-25a0c6e11441",
+            "image": null,
+            "name": "MF Series",
+            "description": "The MF Series by Magnaflow offers high-performance exhaust systems designed to enhance engine efficiency and sound. Released in 2015, these systems are known for their durable construction and easy installation.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "81bfe364-1e4d-4e79-9ebe-dfa71854415d",
+            "image": null,
+            "name": "Oppo K3",
+            "description": "The Oppo K3 is a mid-range smartphone designed to offer a balance between performance and affordability, featuring a pop-up selfie camera and an AMOLED display.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "b2f242d9-e8ea-438d-b009-dcf22c293f82",
+            "image": null,
+            "name": "Strider 12 Sport No-Pedal Balance Bike",
+            "description": "The Strider 12 Sport No-Pedal Balance Bike is designed to help young children develop their balance and coordination skills in a safe and fun way. This bike encourages early learning for future cycling by allowing toddlers to focus on balancing without the complexity of pedaling.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "1739f137-6fde-4192-a4d0-3424c51059a9",
+            "image": null,
+            "name": "Aprilia SR 50",
+            "description": "The Aprilia SR 50 is a lightweight scooter designed for urban commuting, featuring a sporty design and agile handling, making it suitable for both new and experienced riders.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "e2feec3a-fce7-4563-96a7-55d65b5e934e",
+            "image": null,
+            "name": "Kenzo Kids Spring/Summer 2022 Collection",
+            "description": "The Kenzo Kids Spring/Summer 2022 Collection features a vibrant selection of clothing designed for children, emphasizing bold colors and playful patterns that reflect the spirit of the season.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "e2e9f1a1-6552-4f54-afc3-09547cc8f6cd",
+            "image": null,
+            "name": "Roborock S5 Max",
+            "description": "The Roborock S5 Max is an advanced robotic vacuum cleaner designed for efficient floor cleaning and mapping. It features strong suction power and a large water tank for mopping, making it suitable for various floor types.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "23a14876-f1de-474d-bb20-904094d90426",
+            "image": null,
+            "name": "Strider 14x Sport No-Pedal Balance Bike",
+            "description": "The Strider 14x Sport No-Pedal Balance Bike is designed to help young children develop balance and coordination without the use of pedals. Suitable for children aged 3 to 7 years, it promotes a safe and fun introduction to cycling.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Strider"
+            }
+        },
+        {
+            "id": "a88bf9cc-7d57-4d83-b9c2-4e35aacbb684",
+            "image": null,
+            "name": "Roborock S6",
+            "description": "The Roborock S6 is a robotic vacuum cleaner released in 2018, designed to automate floor cleaning with advanced navigation and cleaning capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "bf10c036-0b91-446c-8fb8-894761cb98ea",
+            "image": null,
+            "name": "Frugi Spring/Summer 2021 Collection",
+            "description": "The Frugi Spring/Summer 2021 Collection features a range of stylish, colorful, and eco-friendly children's clothing designed to be comfortable and durable for playful adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "475bc9ae-4961-4209-baf4-4c5e1d6b9935",
+            "image": null,
+            "name": "Oppo Reno 6",
+            "description": "The Oppo Reno 6 series is a line of smartphones launched in 2021, designed to deliver powerful performance combined with advanced camera capabilities for capturing high-quality images and videos.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "3c81f1d7-7aba-4d66-b7ca-6fa13e74951f",
+            "image": null,
+            "name": "Nokia C21 Plus",
+            "description": "The Nokia C21 Plus is a budget-friendly smartphone designed to provide reliable performance and essential features for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "c995ed80-dab8-4401-bcca-2a7d4d00b07b",
+            "image": null,
+            "name": "Performance Series",
+            "description": "The Magnaflow Performance Series is a line of exhaust components designed to improve vehicle performance and sound. It is engineered to provide increased horsepower, torque, and a deeper exhaust tone.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "b83acb68-edca-43f8-8b3a-bf1e32bee4b5",
+            "image": null,
+            "name": "Aprilia RSV 1000 R",
+            "description": "The Aprilia RSV 1000 R is a high-performance sport motorcycle known for its powerful V-twin engine, advanced electronics, and agile handling, aimed at both track enthusiasts and street riders seeking an adrenaline-fueled riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "e8ce107e-9659-4629-9d5f-44a9c451eae2",
+            "image": null,
+            "name": "Dyson Cyclone V10",
+            "description": "The Dyson Cyclone V10 is a cordless vacuum cleaner designed for powerful suction and versatility across various surfaces. It features advanced cyclone technology to capture fine dust and dirt while maintaining strong airflow.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Dyson"
+            }
+        },
+        {
+            "id": "b41b94da-4ca7-4af1-977a-9e2dce62c9dd",
+            "image": null,
+            "name": "Oppo Find N2 Flip",
+            "description": "The Oppo Find N2 Flip is a foldable smartphone released in 2023, characterized by its compact design and innovative flip mechanism which enhances portability while offering a large display for multitasking and media consumption.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "8c9580a3-2ebe-42af-875e-d3a30eb6da36",
+            "image": null,
+            "name": "Aprilia Mana 850",
+            "description": "The Aprilia Mana 850 is a versatile motorcycle known for its innovative automatic transmission system and sporty performance, designed for both commuting and leisure riding.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "a7ab16ba-3cc9-46f2-805c-cf908b812fd3",
+            "image": null,
+            "name": "Frugi Organic Collection 2020",
+            "description": "The Frugi Organic Collection 2020 features a range of kids' clothes made from organic cotton, prioritizing comfort and sustainability while offering playful designs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "bc3edbe5-0e31-469f-88c5-6d459af5aa1b",
+            "image": null,
+            "name": "Oppo Find X2 Pro",
+            "description": "The Oppo Find X2 Pro is a premium smartphone that offers high-end performance, advanced camera capabilities, and a sleek design, catering to users seeking top-tier mobile technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "e31e74cb-9049-4292-97f0-997b7d60a8f0",
+            "image": null,
+            "name": "Great Wall Sailor",
+            "description": "The Great Wall Sailor is a pickup truck series launched by Great Wall Motors in 2000, designed for both utility and versatility, catering to users in various demanding environments.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "bb912a28-a91c-4936-94c7-291ae2a77df3",
+            "image": null,
+            "name": "Tshirt Collection",
+            "description": "The Petit Bateau T-shirt Collection for kids features comfortable, durable, and stylish t-shirts designed to cater to the active lifestyle of children.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "2d8bdff5-6e82-4994-840b-ea016ffc69a4",
+            "image": null,
+            "name": "Sous-vêtements Collection",
+            "description": "The Petit Bateau Sous-vêtements Collection includes a range of comfortable and stylish underwear designed specifically for children, emphasizing softness and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Petit Bateau"
+            }
+        },
+        {
+            "id": "fda9c2f6-3ec5-47bf-bad0-7e8dc57ab687",
+            "image": null,
+            "name": "Tuono V4 1100",
+            "description": "The Aprilia Tuono V4 1100 is a high-performance naked motorcycle designed for enthusiasts seeking a blend of agility, power, and advanced technology. It features an aggressive design and a potent V4 engine, making it well-suited for both street and track use.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        }
+    ]
+}

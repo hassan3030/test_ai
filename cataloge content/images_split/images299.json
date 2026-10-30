@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "9fa9647b-b51d-436b-8351-c607bc245f75",
+            "image": null,
+            "name": "Disney Princess Enchanted Tales",
+            "description": "Disney Princess Enchanted Tales is a series of toys that brings to life the beloved stories and characters of Disney Princesses, allowing children to engage in imaginative play and storytelling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "10177995-c41d-43e7-b9d1-eca7233130de",
+            "image": null,
+            "name": "Santa Cruz Pro Collection",
+            "description": "The Santa Cruz Pro Collection features a range of high-performance skateboards designed for professional skaters, emphasizing durability and style.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "7a87f56d-7f0c-40d0-8d91-b377d4e3010d",
+            "image": null,
+            "name": "Frozen 2",
+            "description": "The Disney Frozen 2 series features a variety of toys inspired by the hit animated film Frozen 2, allowing fans to bring their favorite characters and magical adventures to life through imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "fea0f295-d84a-44fa-a0a4-cc5358c7fe27",
+            "image": null,
+            "name": "Honor Pad X40",
+            "description": "The Honor Pad X40 is a tablet designed for everyday use, offering a balance of performance and usability to meet the needs of students and professionals alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "826cd71c-22a7-44fc-abac-90a1cf95a554",
+            "image": null,
+            "name": "Santa Cruz Classic Dot Series",
+            "description": "The Santa Cruz Classic Dot Series is a line of skateboards known for their iconic dot logo design and durable construction, suitable for street and park skating.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "956f3cfd-4145-4c8e-ba66-f4925bdf2e26",
+            "image": null,
+            "name": "Takibi Fire & Grill",
+            "description": "The Snow Peak Takibi Fire & Grill series is designed for outdoor cooking and heat, combining a fire pit with a grill functionality. It emphasizes durability and portability for camping enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "b783b2a1-7f18-473d-8876-0554556de3bb",
+            "image": null,
+            "name": "Landlock 2",
+            "description": "The Snow Peak Landlock 2 is a premium camping gear series designed for comfort and convenience in outdoor settings, featuring durable materials and a spacious design suitable for various camping situations.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "b12fb9ca-6c57-44c8-8f44-9014b80a5118",
+            "image": null,
+            "name": "Uniqlo Kids 2021 Spring/Summer Collection",
+            "description": "The Uniqlo Kids 2021 Spring/Summer Collection features a range of comfortable and stylish clothing designed for children, focusing on functionality and playful designs suitable for warm weather.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "b3973351-a404-44dd-a1e0-f5c9e84a5f65",
+            "image": null,
+            "name": "Uniqlo Kids x KAWS",
+            "description": "The Uniqlo Kids x KAWS series features playful and artistic apparel designed for children, showcasing the distinctive style of the contemporary artist KAWS through unique graphics and colors.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Uniqlo Kids"
+            }
+        },
+        {
+            "id": "916c03f7-a737-4eff-98a5-4ab1b3ad8f0b",
+            "image": null,
+            "name": "Insignia 1.7 Cu. Ft. Compact Refrigerator",
+            "description": "The Insignia 1.7 Cu. Ft. Compact Refrigerator is designed for efficient cooling in small spaces, making it ideal for dorm rooms, offices, and small apartments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Insignia"
+            }
+        },
+        {
+            "id": "ed8e8e3f-7abe-453b-bbe2-712a55b4f2c9",
+            "image": null,
+            "name": "Infinix Note 4",
+            "description": "The Infinix Note 4 is a smartphone released in 2017, designed to offer a balanced performance and user-friendly experience with a focus on photography and battery life.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "778be670-5334-499e-8ab1-e31f5e1428d3",
+            "image": null,
+            "name": "Chevrolet Corvette Z06",
+            "description": "The Chevrolet Corvette Z06 is a high-performance sports car introduced in 2023, designed for exceptional speed, agility, and driving precision.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "0a4b5276-6fdd-4104-a3d8-d9e970ae737f",
+            "image": null,
+            "name": "Soft99 Glaco Hydrophobic Glass Coating",
+            "description": "Soft99 Glaco Hydrophobic Glass Coating is a high-performance car care product designed to create a water-repellent, hydrophobic surface on automotive glass. This coating provides enhanced visibility during rain by allowing water to bead up and roll off easily.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "aa011880-dfb0-451e-a17d-51fde5ab920f",
+            "image": null,
+            "name": "Infinix Zero 5",
+            "description": "The Infinix Zero 5 is a smartphone series launched in 2017, designed to deliver high performance and advanced camera features, catering to users looking for a powerful mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Infinix"
+            }
+        },
+        {
+            "id": "929b81ae-d69e-4ef4-970d-a4ac300e91a1",
+            "image": null,
+            "name": "Crossfade 2 Wireless",
+            "description": "The V-Moda Crossfade 2 Wireless headphones are a premium over-ear audio solution designed for high-quality sound and comfort, featuring wireless connectivity and a durable build.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "c2d29f4e-e0c7-47e4-b310-f6b4d9da5662",
+            "image": null,
+            "name": "Disney Tsum Tsum Plush",
+            "description": "The Disney Tsum Tsum Plush series features collectible stackable plush toys inspired by beloved Disney characters, designed to be both adorable and huggable for fans of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "e6097776-e5de-4184-954d-977564184912",
+            "image": null,
+            "name": "Jensen VM9510",
+            "description": "The Jensen VM9510 is a car audio system that combines a high-quality multimedia receiver with an integrated DVD player, designed to enhance the in-car entertainment experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Jensen"
+            }
+        },
+        {
+            "id": "c435e7a5-bb22-4afb-8653-b585f158cfce",
+            "image": null,
+            "name": "JBL CLUB Series",
+            "description": "The JBL CLUB Series is a line of high-performance speakers designed to deliver powerful sound and enhanced audio experiences for car and home use. These speakers are known for their durable construction and dynamic performance, suitable for music enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "JBL"
+            }
+        },
+        {
+            "id": "a345b08e-753c-4ae6-baf6-ea38fb7e825a",
+            "image": null,
+            "name": "Disney Collectible Figure Pack",
+            "description": "The Disney Collectible Figure Pack features beautifully crafted miniature figures of beloved Disney characters, designed for collectors and fans aged 3 and up.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "5e5c3cbf-407e-454f-9ac0-ba8871305337",
+            "image": null,
+            "name": "Jensen JBM-50",
+            "description": "The Jensen JBM-50 is a car audio system designed for high-quality sound reproduction and ease of use, offering features that enhance the driving experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Jensen"
+            }
+        },
+        {
+            "id": "715dd0fb-a854-4e53-a734-bc16a7e0f05a",
+            "image": null,
+            "name": "Honor 70 Pro",
+            "description": "The Honor 70 Pro is a smartphone designed for users seeking high performance and advanced photography features, equipped with a powerful processor and a versatile camera system.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "aaa0eb57-2e5f-4793-8272-dd2dd63c7d1a",
+            "image": null,
+            "name": "Tineco FLOOR ONE S3",
+            "description": "The Tineco FLOOR ONE S3 is a smart vacuum cleaner designed for efficient cleaning of hard floors, featuring a self-cleaning system and real-time cleaning tracking.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "764ef19f-bc83-4998-bf60-a0b6969b5754",
+            "image": null,
+            "name": "Disney+ Original Series Merchandise",
+            "description": "The Disney+ Original Series Merchandise includes a range of toys inspired by popular series available on Disney+. These products are designed to capture the essence of Disney storytelling and bring beloved characters to life for fans of all ages.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "d9afce54-99f3-4a4d-a9f9-835317102faa",
+            "image": null,
+            "name": "Tineco Floor ONE S5",
+            "description": "The Tineco Floor ONE S5 is a versatile vacuum cleaner designed to efficiently clean and scrub hard floors, combining strong suction power with intelligent functionality to adapt to various cleaning tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Tineco"
+            }
+        },
+        {
+            "id": "1d0c85b4-9b08-4f13-8333-2469a07efcf1",
+            "image": null,
+            "name": "Disney Zombies 2 Dolls",
+            "description": "The Disney Zombies 2 Dolls series features characters inspired by the Disney Channel movie 'Zombies 2,' designed for imaginative play and collecting for fans of the franchise.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "b86ab8bf-8dc3-42a4-bd46-56491ab57a8c",
+            "image": null,
+            "name": "Santa Cruz Skateboards x Marvel Collection",
+            "description": "The Santa Cruz Skateboards x Marvel Collection features a range of skateboards that showcase iconic designs inspired by Marvel Comics characters, aiming to combine skate culture with comic book artistry.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "d4c6b74f-a57f-4d49-a77a-cf0bb9794c8f",
+            "image": null,
+            "name": "Disney Junior's Mickey Mouse Funhouse Toys",
+            "description": "Disney Junior's Mickey Mouse Funhouse Toys include a variety of fun and engaging playsets and figures that encourage imaginative play for young children, inspired by the beloved Mickey Mouse franchise.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Disney"
+            }
+        },
+        {
+            "id": "3176814f-0eed-43aa-ad13-4aea4dcd5f42",
+            "image": null,
+            "name": "Chevrolet Colorado (2022)",
+            "description": "The Chevrolet Colorado (2022) is a versatile mid-size pickup truck designed for both work and leisure, offering a blend of capability, comfort, and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "b1d2bb63-0ed6-4645-bcd9-5ec878be5a3d",
+            "image": null,
+            "name": "Santa Cruz Pro",
+            "description": "The Santa Cruz Pro series by Santa Cruz Skateboards features high-quality skateboards designed for professional skaters, offering durability and performance for various skateboarding styles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Santa Cruz Skateboards"
+            }
+        },
+        {
+            "id": "461a659f-5677-4975-952a-cf45142d7470",
+            "image": null,
+            "name": "Ultimate Wax",
+            "description": "Meguiar's Ultimate Wax is a premium car care product designed to provide long-lasting protection and a mirror-like shine to automotive surfaces. It utilizes advanced synthetic polymers to deliver a durable barrier against environmental contaminants.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        }
+    ]
+}

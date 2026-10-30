@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c7893e2f-9a2a-48f9-ab0f-2c9a27e0fead",
+            "image": null,
+            "name": "Dell Inspiron 15 (5000 Series)",
+            "description": "The Dell Inspiron 15 (5000 Series) is a versatile laptop designed for everyday computing needs, offering a balance of performance, features, and portability suitable for students and professionals alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "c91d7714-0630-418f-8ffc-685724ff46a2",
+            "image": null,
+            "name": "Cooper Zeon Sport A",
+            "description": "The Cooper Zeon Sport A is a performance tire designed for enhanced handling and traction in both wet and dry conditions, making it suitable for sporty vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "ca3070de-608c-4413-a8f3-e2888744a108",
+            "image": null,
+            "name": "Dell G5 Gaming Desktop",
+            "description": "The Dell G5 Gaming Desktop is a powerful gaming system designed for immersive gameplay. With customizable options and advanced cooling, it aims to deliver a high-performance experience for gamers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "741f7658-1b5e-48cf-8efd-51029101ce7f",
+            "image": null,
+            "name": "Korg volca",
+            "description": "The Korg volca series is a collection of compact, battery-powered groove boxes and synthesizers designed for music production and performance, offering portability and hands-on control for electronic music creators.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "43844aa0-1c36-44d3-87bc-930460a02eb0",
+            "image": null,
+            "name": "Cooper Discoverer HT",
+            "description": "The Cooper Discoverer HT is an all-season highway tire designed for light trucks and SUVs, offering a blend of comfort, handling, and traction on both wet and dry surfaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "c069d51a-ee84-4ccc-8475-32aa99324352",
+            "image": null,
+            "name": "Korg KeyStep",
+            "description": "The Korg KeyStep series consists of portable MIDI controllers designed for music production and performance, featuring an integrated arpeggiator and sequencer functionalities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "cbb931aa-126b-48ad-8e22-0728f3204b90",
+            "image": null,
+            "name": "Dell Inspiron 7000 Series (2019)",
+            "description": "The Dell Inspiron 7000 Series (2019) laptops are designed for both productivity and entertainment, offering a balance of performance, design, and features suitable for everyday users.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "18f34c2c-deb2-4be5-8266-7297f7256921",
+            "image": null,
+            "name": "Gas Gas TXT 300",
+            "description": "The Gas Gas TXT 300 is a lightweight trial motorcycle designed for skilled riders, offering exceptional maneuverability and control on various terrains.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "cf691f67-742a-46fc-8e90-3f106e020156",
+            "image": null,
+            "name": "VTech Kidizoom Smart Watch DX2",
+            "description": "The VTech Kidizoom Smart Watch DX2 is a durable smartwatch designed for children with features like a camera, games, and fitness tracking to promote active play and creativity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "VTech"
+            }
+        },
+        {
+            "id": "a3e5299c-7214-40f5-ba85-ac9769760fa3",
+            "image": null,
+            "name": "Korg Krome EX",
+            "description": "The Korg Krome EX is a versatile music workstation known for its wide range of high-quality sounds, intuitive interface, and lightweight design, making it suitable for both studio and live performances.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Korg"
+            }
+        },
+        {
+            "id": "fa1c8434-c1ea-42aa-b7d6-06af688353f7",
+            "image": null,
+            "name": "Dell Latitude 10 Education Series",
+            "description": "The Dell Latitude 10 Education Series is a line of laptops designed specifically for educational environments, offering durability, portability, and essential features to enhance learning experiences for students and teachers.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "2e7d4547-de11-4628-ac16-6d87dbbabf80",
+            "image": null,
+            "name": "Zeon RS3-S",
+            "description": "The Cooper Tire Zeon RS3-S is a high-performance tire designed for sports cars and performance sedans, offering excellent traction and handling in both dry and wet conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "0b0e22cb-abaa-4a02-8f45-149a1c7e81ec",
+            "image": null,
+            "name": "Dell G5 15 (5500)",
+            "description": "The Dell G5 15 (5500) is a gaming laptop designed to deliver a balance of performance and aesthetics, catering to gamers and multimedia enthusiasts looking for a reliable device with modern graphics capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "e91e8551-60fd-4e4e-bf16-a3ea09f4a6e3",
+            "image": null,
+            "name": "Gas Gas TXT Racing",
+            "description": "The Gas Gas TXT Racing series is known for its high-performance trials motorcycles designed for competition and recreational use, delivering exceptional handling, agility, and durability on a variety of terrains.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "75853473-397e-485b-8155-71686625cedd",
+            "image": null,
+            "name": "Dell XPS 13 (9310)",
+            "description": "The Dell XPS 13 (9310) is a premium ultraportable laptop designed for users who prioritize performance, portability, and aesthetics. It features a sleek design, high-resolution display options, and powerful hardware suitable for both professional and personal use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "8a0ea705-89dc-4292-85ec-58fd42ad2c74",
+            "image": null,
+            "name": "Gas Gas EX 250",
+            "description": "The Gas Gas EX 250 is a lightweight and versatile off-road motorcycle designed for enduro riding, offering a balance of power and agility tailored for challenging terrains.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Gas Gas"
+            }
+        },
+        {
+            "id": "22f6b7c1-775f-44d0-9b8a-5a96a9e41dfc",
+            "image": null,
+            "name": "VTech Kidizoom",
+            "description": "VTech Kidizoom is a series of child-friendly cameras designed to encourage creativity and exploration through photography. These cameras feature durable designs and easy-to-use functions suitable for young children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "VTech"
+            }
+        },
+        {
+            "id": "91c358d3-29f1-452b-bf2b-d81abf337b52",
+            "image": null,
+            "name": "Dell Inspiron 14 (5410)",
+            "description": "The Dell Inspiron 14 (5410) is a versatile laptop designed for everyday use, combining performance and portability for users seeking reliability and functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "78a2113f-78c6-4464-8bb1-dafbeedecc25",
+            "image": null,
+            "name": "Dell Inspiron 15 (5510)",
+            "description": "The Dell Inspiron 15 (5510) is a versatile laptop designed for everyday use, offering a balance of performance, portability, and functionality for both personal and professional applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "7e15b1de-d645-46fd-bb12-f8d5fbdd2afb",
+            "image": null,
+            "name": "Mickey Thompson Classic III",
+            "description": "The Mickey Thompson Classic III is a series of high-performance tires designed for off-road and recreational use, known for its rugged construction and aggressive tread design that provides excellent traction on various terrains.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "7a97fad7-ef3d-48e0-8b7a-179fdce4d9db",
+            "image": null,
+            "name": "Baja Legend X",
+            "description": "The Mickey Thompson Baja Legend X is an off-road tire designed for enhanced traction and durability on rugged terrains, catering specifically to enthusiasts and serious off-roaders.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Mickey Thompson Tires"
+            }
+        },
+        {
+            "id": "bb19cdd3-b20a-40f6-ac54-8fb4d98bc64c",
+            "image": null,
+            "name": "Baby Boys' Clothes",
+            "description": "OshKosh B'gosh's Baby Boys' Clothes series includes durable and stylish clothing designed specifically for young boys, combining comfort and practicality for everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "ef7427ad-251b-449a-a89a-932fba0a82d1",
+            "image": null,
+            "name": "Dell Latitude 9420",
+            "description": "The Dell Latitude 9420 is a premium business laptop designed for professionals, featuring advanced security, collaboration capabilities, and a compact form factor for enhanced mobility.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "28075269-c6f3-406a-9387-a765ddfc335f",
+            "image": null,
+            "name": "Little B’gosh",
+            "description": "OshKosh B'gosh Little B'gosh is a series of kids' clothes designed for comfort and durability, featuring playful styles and easy-care fabrics for everyday wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "1634da38-89eb-4be1-b199-f454e54dc654",
+            "image": null,
+            "name": "VTech KidiZoom Smartwatch DX3",
+            "description": "The VTech KidiZoom Smartwatch DX3 is a multifunctional smartwatch designed for kids, featuring a camera, games, and educational activities that promote learning through play.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "VTech"
+            }
+        },
+        {
+            "id": "7050ce5b-2e98-4530-987d-92c183a0ebe7",
+            "image": null,
+            "name": "OshKosh B’gosh Spring 2020 Collection",
+            "description": "The OshKosh B'gosh Spring 2020 Collection features a range of stylish and comfortable children's clothing designed for play and everyday adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "17f18b86-3348-45c8-92ac-aca7a7f15982",
+            "image": null,
+            "name": "Coleman 4-in-1 Quickbed",
+            "description": "The Coleman 4-in-1 Quickbed is a versatile camping mattress that easily converts between a single bed, double bed, and two single beds, offering convenience and comfort for outdoor sleeping.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "9b5cd03c-468b-4363-a488-0087644df714",
+            "image": null,
+            "name": "Surface Pro (5th Gen)",
+            "description": "The Microsoft Surface Pro (5th Gen) is a versatile 2-in-1 tablet designed for both productivity and portability, featuring a high-resolution display and support for Surface Pen and Type Cover accessories.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "f8a2360e-9526-412f-b840-dbc0ad14f5c9",
+            "image": null,
+            "name": "Coleman Instant Up Tent",
+            "description": "The Coleman Instant Up Tent series offers quick and convenient shelter for camping enthusiasts, featuring pop-up technology for easy setup and durable materials for weather resistance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "235c40c6-0a3e-46a5-a503-41f8e58c9160",
+            "image": null,
+            "name": "Focal Dome",
+            "description": "The Focal Dome series consists of compact, high-performance speakers designed for home audio systems, offering immersive sound quality while maintaining a modern aesthetic.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Focal"
+            }
+        }
+    ]
+}

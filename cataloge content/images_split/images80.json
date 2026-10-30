@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "0563e4ce-247d-4abb-9637-65b810a0d7a1",
+            "image": null,
+            "name": "Dell G15 5515",
+            "description": "The Dell G15 5515 is a gaming laptop series designed for immersive gameplay and high performance, featuring powerful processors and dedicated graphics capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "09f74504-40f2-461f-bb09-d90dde21d021",
+            "image": null,
+            "name": "Infiniti QX30",
+            "description": "The Infiniti QX30 is a compact luxury crossover SUV that combines style with performance, designed to appeal to drivers seeking a versatile and refined vehicle.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "13db16cb-1af6-4627-a665-2f85ad89a028",
+            "image": null,
+            "name": "Dell G5 15 Gaming Laptop",
+            "description": "The Dell G5 15 Gaming Laptop is designed for gamers who seek a balance of performance and affordability, featuring a modern design and capable hardware to handle demanding games and applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "1bcd772e-0352-4f75-af70-ed582646e337",
+            "image": null,
+            "name": "Tesla Model 3 Highland",
+            "description": "The Tesla Model 3 Highland is an electric sedan designed for efficiency and performance, offering advanced technology and a minimalist interior for a modern driving experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "25ce250c-62c9-4021-b552-d2cb33051e54",
+            "image": null,
+            "name": "Opel Astra J (facelift)",
+            "description": "The Opel Astra J (facelift) is a compact car designed for efficiency and practicality, featuring contemporary styling and advanced safety options that cater to everyday driving needs.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "2eca8544-71b6-4948-860a-da46c630db07",
+            "image": null,
+            "name": "Sava Intens",
+            "description": "The Sava Intens series is designed for durability and performance, providing reliable traction and stability for various road conditions since its release in 2001.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sava Tires"
+            }
+        },
+        {
+            "id": "355bb879-5eb9-47a3-bbcf-6e74d6930cbc",
+            "image": null,
+            "name": "Lenovo Smart Clock",
+            "description": "The Lenovo Smart Clock is a compact smart home device designed to help manage your daily routines with features like voice assistance, display of time, and smart home control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "3bdcb9ea-627e-4a60-bff1-856ef6daf280",
+            "image": null,
+            "name": "MacBook Pro (16-inch, 2021)",
+            "description": "The MacBook Pro (16-inch, 2021) is a high-performance laptop designed for professionals and creatives, featuring advanced processing power and a stunning Retina display for optimal productivity.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "3eb5b828-934e-4467-aa29-83b078cbcfc4",
+            "image": null,
+            "name": "Nissan Altima (5th generation)",
+            "description": "The Nissan Altima (5th generation) is a mid-size sedan known for its spacious interior, fuel efficiency, and advanced safety features, designed to provide a comfortable and reliable driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "558f5fab-e8c4-407e-ad34-c2f7740dcd9c",
+            "image": null,
+            "name": "Vento",
+            "description": "The Volkswagen Vento is a compact sedan designed for comfort and efficiency, combining practicality with a refined driving experience. Released in 2014, it is known for its robust build quality and advanced features.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen India"
+            }
+        },
+        {
+            "id": "55df7d34-9f4c-4259-b21d-1cea810139f8",
+            "image": null,
+            "name": "Yoga C630",
+            "description": "The Lenovo Yoga C630 is a versatile 2-in-1 laptop designed for productivity and entertainment. It features a sleek design, high-resolution display, and long battery life for users who require both performance and portability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "deafd099-eb6e-4816-af69-3cbfdbf83c2d",
+            "image": null,
+            "name": "Infiniti QX50",
+            "description": "The Infiniti QX50 is a compact luxury SUV designed for comfort and versatility, offering a blend of performance and advanced technology features.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "eab4e4f1-decc-4262-8491-b548a51e6e5b",
+            "image": null,
+            "name": "Dacia Logan MCV",
+            "description": "The Dacia Logan MCV is a versatile and spacious estate car designed for practicality and affordability, catering to families and individuals seeking a reliable vehicle with ample cargo space.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "f5d8310f-4cc1-4bbf-a000-72f9f05abf71",
+            "image": null,
+            "name": "DS 4",
+            "description": "The DS 4 is a luxury compact car series designed for urban driving, characterized by its elegant design and advanced technology features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "73d2f826-674e-46a5-8c7d-4d184e14e016",
+            "image": null,
+            "name": "DS 5",
+            "description": "The DS 5 is a premium compact executive car from DS Automobiles, known for its distinctive design, luxurious interior, and advanced technology features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "DS Automobiles"
+            }
+        },
+        {
+            "id": "73f03865-87ca-45d4-a763-f2416aab18a9",
+            "image": null,
+            "name": "Dacia Sandero II",
+            "description": "The Dacia Sandero II is a compact hatchback designed for practicality and affordability, catering to budget-conscious consumers seeking reliable transportation.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "79db0508-1aac-4a54-bb81-d24f6b2c8807",
+            "image": null,
+            "name": "Dacia Sandero III",
+            "description": "The Dacia Sandero III is a compact hatchback known for its affordability, practicality, and efficient use of space, making it an ideal choice for budget-conscious drivers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "0c542e8a-a973-4d0a-96a0-769f08fc18d3",
+            "image": null,
+            "name": "Royal Enfield Meteor 350",
+            "description": "The Royal Enfield Meteor 350 is a cruiser motorcycle designed for comfortable long-distance riding, combining classic styling with modern technology for an enjoyable riding experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Royal Enfield"
+            }
+        },
+        {
+            "id": "31517dd5-7acf-4f45-9ddd-7100d8dd1551",
+            "image": null,
+            "name": "Bajaj V15",
+            "description": "The Bajaj V15 is a motorcycle series introduced by Bajaj Auto in 2016, designed to offer a blend of style and performance, focusing on urban commuting and everyday usability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "813ace38-ea1c-4f3e-8054-1c29c7055fb4",
+            "image": null,
+            "name": "Dacia Sandero Stepway II",
+            "description": "The Dacia Sandero Stepway II is a compact crossover vehicle known for its practicality and affordability, designed to provide versatility for both urban and off-road driving.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "8f9d1671-4ae4-4480-9f54-159435655a36",
+            "image": null,
+            "name": "Infiniti Q60 Red Sport 400",
+            "description": "The Infiniti Q60 Red Sport 400 is a luxury sports coupe known for its dynamic performance and elegant design, featuring a powerful engine and advanced technology aimed at providing an engaging driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "ae73ba1d-c156-4ff8-972c-45c53d4099b1",
+            "image": null,
+            "name": "Road Venture MT71",
+            "description": "The Kumho Tire Road Venture MT71 is an all-terrain tire designed for off-road performance and durability, providing enhanced traction in various rugged environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Kumho Tire"
+            }
+        },
+        {
+            "id": "aee1ebbd-a021-47c8-9ca9-69c3249cb23e",
+            "image": null,
+            "name": "Roadventure AT 771",
+            "description": "The Sumitomo Tire Roadventure AT 771 is an all-terrain tire designed for light trucks and SUVs, offering enhanced traction and durability on both on-road and off-road conditions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "b832f9dd-2767-4415-9db6-ecf41794daf7",
+            "image": null,
+            "name": "Infiniti Q70",
+            "description": "The Infiniti Q70 is a luxury midsize sedan that combines premium comfort, innovative technology, and strong performance. Its sophisticated design and powerful engine options cater to those seeking a refined driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "147fa3ec-f254-4e2e-b952-3dc03a91b3fe",
+            "image": null,
+            "name": "Dacia Logan III",
+            "description": "The Dacia Logan III is a compact family car known for its affordability, practicality, and spacious interior, designed to offer a reliable option for everyday driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "17c11b9d-d6bb-4857-8da9-0ec1bc9d4339",
+            "image": null,
+            "name": "Dacia Duster I",
+            "description": "The Dacia Duster I is a compact SUV that offers practical features and off-road capabilities, making it suitable for both urban and rural driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "20c7f3c7-6696-4b1f-854e-8cfdbd553730",
+            "image": null,
+            "name": "Dacia Solenza",
+            "description": "The Dacia Solenza is a compact car produced by the Romanian manufacturer Dacia, primarily aimed at providing an affordable and practical transportation solution for urban environments.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "2469e937-b6e6-4d0c-a48c-82fd9da136df",
+            "image": null,
+            "name": "Dacia Dokker",
+            "description": "The Dacia Dokker is a versatile van designed for practicality and space utilization, ideal for both family use and commercial applications since its release in 2010.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        },
+        {
+            "id": "2d1847e0-216f-47d4-94cd-2b37fbbadf2e",
+            "image": null,
+            "name": "Infiniti QX55",
+            "description": "The Infiniti QX55 is a luxury crossover SUV that combines sporty design with a powerful performance, offering a refined driving experience along with advanced technology and comfort features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "466b28fc-5c19-4433-a53d-e145bc2576f7",
+            "image": null,
+            "name": "Dacia Duster II",
+            "description": "The Dacia Duster II is a compact SUV designed for versatility and durability, catering to drivers seeking a reliable vehicle for urban and off-road environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dacia"
+            }
+        }
+    ]
+}

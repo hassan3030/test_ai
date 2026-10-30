@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "a0a38fd6-99c1-41af-8822-a6a108f0f3bf",
+            "image": null,
+            "name": "Skullcandy Crusher ANC 2",
+            "description": "The Skullcandy Crusher ANC 2 are over-ear headphones designed for immersive audio experiences, featuring Active Noise Cancellation and adjustable sensory bass for tailored sound quality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "414e0b83-ee81-465a-b1e5-7491ea40d2d3",
+            "image": null,
+            "name": "Skullcandy Grind Fuel",
+            "description": "Skullcandy Grind Fuel headphones are designed for immersive audio experiences, offering a balanced sound profile and long-lasting comfort for all-day wear.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "91af1c93-852b-4bee-ad9f-8ea46e34d60e",
+            "image": null,
+            "name": "BRIX",
+            "description": "The Gigabyte BRIX series consists of compact, powerful barebone mini-PCs designed for gaming and multimedia applications, offering flexibility for performance customization.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Gigabyte"
+            }
+        },
+        {
+            "id": "c47976c2-24f4-4b8e-a946-39cea26a1d5e",
+            "image": null,
+            "name": "Sceptre U435CV-U",
+            "description": "The Sceptre U435CV-U is a 43-inch 4K Ultra HD monitor designed to provide a high-quality visual experience suitable for both gaming and professional use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "2f84240e-b1e6-43a7-9d9d-ac06afc175ed",
+            "image": null,
+            "name": "Sceptre U Series",
+            "description": "The Sceptre U Series is a line of monitors designed to deliver high-definition visuals and enhanced productivity, catering to both casual users and professionals alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "31dfbc92-48b0-4704-bf58-4a5ef85196ac",
+            "image": null,
+            "name": "Sceptre UTV Series",
+            "description": "The Sceptre UTV Series features advanced monitors designed for both gaming and professional use, offering high-resolution displays and multiple connectivity options to enhance visual experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sceptre"
+            }
+        },
+        {
+            "id": "87e37f93-7a0a-4058-a8e1-445739f6ae1e",
+            "image": null,
+            "name": "Google Home",
+            "description": "Google Home is a voice-activated smart speaker designed to assist users with a range of tasks, including controlling smart home devices, answering questions, and providing entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "be51d270-6b79-4fd7-8869-70997b527f09",
+            "image": null,
+            "name": "PC-O11 Air",
+            "description": "The Lian Li PC-O11 Air is a versatile mid-tower PC case designed to provide optimal airflow and cooling capabilities, making it a suitable choice for gamers and system builders looking for efficient thermal management and an aesthetically pleasing setup.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "Lian Li"
+            }
+        },
+        {
+            "id": "870e9e10-fbcb-4d80-8685-9a23f2c6991f",
+            "image": null,
+            "name": "Kospet Optimus 2",
+            "description": "The Kospet Optimus 2 is a smartwatch designed for fitness tracking and communication, featuring an array of functions including heart rate monitoring and GPS capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "7b45b2c0-5a30-46e5-9489-94ad24bb76ac",
+            "image": null,
+            "name": "Philips Lifestyle HD9650 Airfryer",
+            "description": "The Philips Lifestyle HD9650 Airfryer is a kitchen appliance designed for healthier frying by using Rapid Air Technology to cook food with little or no oil, reducing fat content while maintaining a crispy texture.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "ad5bbbc7-a81b-4504-b5d0-8ecc7d64ed7b",
+            "image": null,
+            "name": "Philips Sonicare DiamondClean Smart",
+            "description": "The Philips Sonicare DiamondClean Smart is an advanced electric toothbrush designed to provide optimal oral health through personalized features and smart connectivity. It utilizes Sonic technology to effectively remove plaque and improve gum health.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "d185008d-2dab-4ee2-8686-11a8c2167e5e",
+            "image": null,
+            "name": "Philips TAT4506",
+            "description": "The Philips TAT4506 are true wireless headphones designed for high-quality sound and seamless connectivity. They feature an ergonomic design for comfort, making them ideal for everyday use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Philips"
+            }
+        },
+        {
+            "id": "dfcc1c2b-4b89-416a-b79c-213693d3ab9d",
+            "image": null,
+            "name": "Acer Swift 3 (2020)",
+            "description": "The Acer Swift 3 (2020) is a lightweight laptop series designed for portability and efficient performance, making it suitable for everyday tasks and productivity on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "620fe04d-e244-4419-a6aa-b890663fcff2",
+            "image": null,
+            "name": "Acer Chromebook 14",
+            "description": "The Acer Chromebook 14 is a series of laptops designed for simplicity and efficiency, providing users with a lightweight Chrome OS experience that is optimized for internet-based activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "e087ed52-d23e-4805-a643-52c6b2738ed4",
+            "image": null,
+            "name": "Acer Swift Go",
+            "description": "The Acer Swift Go is a series of lightweight laptops designed for portability and performance, catering to users who seek a balance between style and functionality.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "6e44950b-f6e9-4f10-9c27-36372220345f",
+            "image": null,
+            "name": "Acer ConceptD 3 Ezel",
+            "description": "The Acer ConceptD 3 Ezel is a versatile laptop designed for creators and professionals, featuring a unique convertible hinge that allows for multiple usage modes, catering to diverse artistic and productivity needs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "84ab9061-7d52-4816-868f-f9c17cb444bc",
+            "image": null,
+            "name": "Acer Swift X 14",
+            "description": "The Acer Swift X 14 is a lightweight and powerful laptop designed for creators and professionals, featuring a high-performance processor and dedicated graphics for exceptional productivity and creative capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "986001c5-6632-4fce-97d0-064a58222f6f",
+            "image": null,
+            "name": "Sharp FP-J30M-W",
+            "description": "The Sharp FP-J30M-W is an air purifier designed to improve indoor air quality by removing pollutants, allergens, and odors. This device features a compact design suitable for home use and utilizes advanced filtration technology.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "e5c4f690-e759-4f1e-91b4-732392918934",
+            "image": null,
+            "name": "Sharp 8K TVs",
+            "description": "The Sharp 8K TVs are high-resolution displays designed to provide ultra-detailed visuals for an immersive viewing experience, primarily aimed at enhancing home entertainment.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "eccc5b91-c94d-4155-bf8c-d55dcf569b8a",
+            "image": null,
+            "name": "Acer Aspire Vero",
+            "description": "The Acer Aspire Vero series is a range of eco-friendly laptops designed with sustainable materials and energy-efficient components, aimed at environmentally conscious consumers seeking reliable performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "fa74285b-cbb9-4c6e-999d-e7d035593f11",
+            "image": null,
+            "name": "Toshiba Satellite Pro",
+            "description": "The Toshiba Satellite Pro series consists of versatile laptops designed for business professionals, offering a blend of performance, reliability, and security features to enhance productivity in various work environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "aab14f4d-ab7e-413d-8a03-39c3ad84fb38",
+            "image": null,
+            "name": "Sharp Aquos R3",
+            "description": "The Sharp Aquos R3 is a smartphone released in 2019, featuring a dual-camera system, a high-resolution display, and cutting-edge technology aimed at providing a premium user experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "b6f89ee1-0ece-4988-b8f2-5799ec6966f9",
+            "image": null,
+            "name": "Volkswagen Passat B5.5 (Facelift)",
+            "description": "The Volkswagen Passat B5.5 (Facelift) is a mid-size family sedan known for its spacious interior, comfortable ride, and advanced safety features, reflecting Volkswagen's commitment to quality and practicality.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "cb6e0da6-84c3-41c0-9fc9-db3964cdaa9d",
+            "image": null,
+            "name": "Acer Predator Helios 300 (2020)",
+            "description": "The Acer Predator Helios 300 (2020) is a gaming laptop designed to deliver high performance and immersive gaming experiences, featuring advanced cooling technology and a high-refresh display for responsive gameplay.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "fb135792-b806-454c-a859-05377a042677",
+            "image": null,
+            "name": "Poco F3",
+            "description": "The Xiaomi Poco F3 is a smartphone released in 2021 that offers a balance of performance and affordability, catering to users who seek high-end features without a premium price tag.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "53311063-ec6a-47ff-a90c-90e3005a0bef",
+            "image": null,
+            "name": "IronWolf",
+            "description": "The Seagate IronWolf series consists of high-capacity hard disks designed specifically for NAS (Network Attached Storage) applications, offering reliable performance and data integrity for multi-user environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "076fdb9d-c83a-42a5-abfd-3877f1b68fba",
+            "image": null,
+            "name": "Huawei Honor 9",
+            "description": "The Huawei Honor 9 is a mid-range smartphone known for its sleek design, dual-camera system, and strong performance, catering primarily to young users seeking value and style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "0b764f7c-8b6d-4746-9578-186b62b583f4",
+            "image": null,
+            "name": "Predator 17",
+            "description": "The Acer Predator 17 is a gaming laptop series designed for high-performance gaming and immersive multimedia experiences, featuring powerful hardware tailored for demanding applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "222286dd-b16d-4a36-83ef-357da234b7aa",
+            "image": null,
+            "name": "Toshiba Dynabook",
+            "description": "The Toshiba Dynabook series consists of lightweight, portable laptops tailored for productivity and efficiency, suitable for both personal and professional use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "243b914d-aa06-4335-9a2d-11a7764bb06f",
+            "image": null,
+            "name": "Acer Predator Triton 500",
+            "description": "The Acer Predator Triton 500 is a high-performance laptop designed for gamers and power users, featuring a slim profile and powerful hardware to deliver an exceptional gaming and productivity experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        }
+    ]
+}

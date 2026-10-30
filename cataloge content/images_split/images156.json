@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "3122b17c-a4c5-4d4d-bc3a-9b1ab5181994",
+            "image": null,
+            "name": "Lemfo LEM8",
+            "description": "The Lemfo LEM8 is a smart watch designed for fitness tracking and smartphone connectivity, featuring various health monitoring functions and a stylish interface suitable for everyday wear.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "b4d05b09-a54f-4456-9128-9ed16f4ba2a9",
+            "image": null,
+            "name": "Lemfo LEM12",
+            "description": "The Lemfo LEM12 is a smartwatch that combines fitness tracking with advanced smart features, designed to help users monitor their health and stay connected on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "e9ad32e1-adfd-4397-9f69-56e37effadcb",
+            "image": null,
+            "name": "Lemfo LEM14",
+            "description": "The Lemfo LEM14 is a smart watch designed for fitness tracking and daily use, offering features such as heart rate monitoring, activity tracking, and notifications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Lemfo"
+            }
+        },
+        {
+            "id": "e2e817d1-d07d-430c-96f1-7d3fe3409b4d",
+            "image": null,
+            "name": "Kospet Hope",
+            "description": "The Kospet Hope is a smartwatch series designed for fitness tracking and health monitoring, offering various features such as heart rate monitoring, GPS tracking, and customizable watch faces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "0d92157a-9c20-42f9-a880-6379c5fa6acd",
+            "image": null,
+            "name": "Kospet Optimus",
+            "description": "The Kospet Optimus is a smartwatch series designed to offer various convenient features such as fitness tracking, heart rate monitoring, and smartphone notifications, catering to users seeking a multifunctional wearable device.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "96fe84d1-b5b2-4c0e-8131-a4cd2d0b1cc1",
+            "image": null,
+            "name": "Kospet Prime 2",
+            "description": "The Kospet Prime 2 is a multifunctional smart watch designed for fitness tracking, health monitoring, and connectivity features. It combines advanced technology with a user-friendly interface for enhanced daily convenience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Kospet"
+            }
+        },
+        {
+            "id": "e89d92e5-d52e-43bf-b6a4-3cb42f883236",
+            "image": null,
+            "name": "Arlo Q",
+            "description": "The Arlo Q is a high-definition indoor security camera designed to provide users with the ability to monitor their spaces remotely, featuring motion detection, two-way audio, and night vision capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "7527d874-d69c-48cc-aadc-1785a005666f",
+            "image": null,
+            "name": "Arlo Baby",
+            "description": "The Arlo Baby series is a smart baby monitor designed to provide parents with peace of mind through high-definition video, two-way audio, and advanced night vision capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "4f30f1f1-574b-41f0-95c2-ac153e8cacaf",
+            "image": null,
+            "name": "Arlo Pro 3",
+            "description": "The Arlo Pro 3 is a wireless security camera system designed for indoor and outdoor use, featuring high-definition video, advanced night vision, and smart motion detection capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "07a5855b-d7cb-46b9-baff-2c2b13096f61",
+            "image": null,
+            "name": "Arlo Pro 4",
+            "description": "The Arlo Pro 4 series is a line of high-definition security cameras designed for indoor and outdoor monitoring, featuring 2K video quality, color night vision, and advanced motion detection capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "bc81708e-7e44-4f30-9711-99e6576ecafc",
+            "image": null,
+            "name": "Arlo Video Doorbell",
+            "description": "The Arlo Video Doorbell is a smart doorbell equipped with high-definition video and two-way audio, designed to enhance home security by allowing users to see and communicate with visitors remotely.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "d3ff81bb-e6ce-47fd-a649-6b6fe99c5415",
+            "image": null,
+            "name": "Arlo Go 2",
+            "description": "The Arlo Go 2 is a mobile security camera designed for outdoor use, offering high-definition video streaming, two-way audio, and advanced motion detection capabilities. It operates on 4G LTE connectivity, making it ideal for areas without Wi-Fi access.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Arlo"
+            }
+        },
+        {
+            "id": "4a3e5bba-e2ed-4a6e-ba6e-81d481bfe7c1",
+            "image": null,
+            "name": "Ecobee4",
+            "description": "The Ecobee4 is a smart thermostat designed to help users optimize their home heating and cooling systems for improved energy efficiency and comfort. It features voice control, remote sensors, and integration with various smart home platforms.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ecobee"
+            }
+        },
+        {
+            "id": "1b2c2f4f-b632-48dc-928e-427b4ca9ad66",
+            "image": null,
+            "name": "Ecobee4 Smart Thermostat",
+            "description": "The Ecobee4 Smart Thermostat is a Wi-Fi-enabled device that allows users to control their home's heating and cooling systems remotely. It features voice control and energy-saving capabilities, designed to enhance comfort and efficiency.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Ecobee"
+            }
+        },
+        {
+            "id": "f47a1cb6-130d-4df4-8581-9af9803b85e3",
+            "image": null,
+            "name": "Michael Kors x Jennifer Lopez Collection",
+            "description": "The Michael Kors x Jennifer Lopez Collection features a range of stylish accessories designed through the collaboration between the renowned fashion brand and the iconic entertainer, showcasing a blend of elegance and modernity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "fb15264f-6925-4658-8a05-c2f39fd109ed",
+            "image": null,
+            "name": "Gancini Collection",
+            "description": "The Gancini Collection by Salvatore Ferragamo features a range of luxury accessories characterized by the iconic Gancini logo, symbolizing elegance and craftsmanship suited for various occasions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Salvatore Ferragamo"
+            }
+        },
+        {
+            "id": "d526cc47-1db5-4c09-813b-0f5c3bff14e3",
+            "image": null,
+            "name": "Creative Outlier Air",
+            "description": "The Creative Outlier Air series consists of true wireless headphones designed for active users, featuring a lightweight design and long battery life for uninterrupted music playback during workouts or daily activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Creative Labs"
+            }
+        },
+        {
+            "id": "d7255de2-b0a1-4443-8861-9d816d3255e1",
+            "image": null,
+            "name": "Crossfade Wireless",
+            "description": "The V-Moda Crossfade Wireless headphones are designed for both casual listeners and audiophiles, offering a blend of high-fidelity sound quality and wireless convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "8d4b48b9-5ae1-49dc-a755-236e6252f615",
+            "image": null,
+            "name": "Crossfade M-100 Master",
+            "description": "The V-Moda Crossfade M-100 Master is a pair of over-ear headphones designed for professional audio monitoring and casual listening, featuring a durable design and customizable shields for personalization.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "f915540f-cc2e-455c-89d4-812caa605823",
+            "image": null,
+            "name": "V-Moda Crossfade 2 Wireless",
+            "description": "The V-Moda Crossfade 2 Wireless headphones are designed for immersive sound quality and enhanced comfort, featuring high-resolution audio and a customizable fit for extended listening sessions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "49b93483-0d0f-4eeb-96c3-e0545d3719c7",
+            "image": null,
+            "name": "V-Moda M-100 Master",
+            "description": "The V-Moda M-100 Master headphones are professional-grade over-ear headphones designed for audio professionals and enthusiasts, featuring a customizable design and exceptional sound quality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "V-Moda"
+            }
+        },
+        {
+            "id": "b66fc91a-47a4-4929-ab27-190013286415",
+            "image": null,
+            "name": "iSINE Series",
+            "description": "The Audeze iSINE Series are high-performance in-ear headphones known for their planar magnetic drivers, designed to deliver exceptional sound quality and an immersive listening experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audeze"
+            }
+        },
+        {
+            "id": "5eff3c9c-f585-4909-bf60-2844bdf0d8b6",
+            "image": null,
+            "name": "LCD Series",
+            "description": "The Audeze LCD Series is a line of high-fidelity headphones designed for audiophiles, featuring planar magnetic technology for accurate sound reproduction and deep bass response.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audeze"
+            }
+        },
+        {
+            "id": "721ddc87-6dc3-4ede-aa91-6fcbbbcb1a01",
+            "image": null,
+            "name": "Mobius",
+            "description": "Audeze Mobius headphones are high-fidelity, immersive audio devices designed for gamers and audiophiles, featuring spatial audio technology and a comfortable design for extended listening sessions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audeze"
+            }
+        },
+        {
+            "id": "010da0ef-2620-45fd-addc-25672e49ffa8",
+            "image": null,
+            "name": "Penrose",
+            "description": "The Audeze Penrose series consists of wireless planar magnetic headphones designed for gaming and music listening, offering high-fidelity audio and immersive sound experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audeze"
+            }
+        },
+        {
+            "id": "69ac8448-2ef1-4f7c-ba38-08018fe2097f",
+            "image": null,
+            "name": "Grado Labs SR80e",
+            "description": "The Grado Labs SR80e headphones are open-back dynamic headphones that provide a rich, immersive audio experience, designed for both casual listeners and audiophiles alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "e915d3a2-f005-417d-a4ca-ef8479085576",
+            "image": null,
+            "name": "Grado Labs SR125e",
+            "description": "The Grado Labs SR125e are open-back dynamic headphones designed for an immersive listening experience, providing a natural sound signature with enhanced clarity and detail.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "d1290065-5234-4f86-915d-30eaa2cde482",
+            "image": null,
+            "name": "Grado Labs SR225e",
+            "description": "The Grado Labs SR225e is an open-back headphone model designed for audio enthusiasts, offering a rich, detailed sound profile ideal for various music genres.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "b94a1d65-0f4f-4314-8905-71bea69b0d4f",
+            "image": null,
+            "name": "Grado Labs SR325e",
+            "description": "The Grado Labs SR325e is a high-fidelity open-back headphone that delivers exceptional sound quality and comfort, designed for audiophiles seeking an immersive listening experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Grado Labs"
+            }
+        },
+        {
+            "id": "694a2cea-27ee-4314-bb58-905c3f076b90",
+            "image": null,
+            "name": "Monster Elements",
+            "description": "The Monster Elements series features high-performance headphones designed for superior sound quality and comfort, making them suitable for both casual listening and professional use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Monster"
+            }
+        }
+    ]
+}

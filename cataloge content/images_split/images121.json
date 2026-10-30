@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f05f27aa-e4e2-43b7-b5b0-35e1b6dba564",
+            "image": null,
+            "name": "Turtle Wax Black",
+            "description": "Turtle Wax Black is a series of car care products specifically designed to enhance and protect black automotive finishes. The products in this series offer features such as cleaning, polishing, and protecting, helping to maintain the rich, deep color of black vehicles over time.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "f45e4695-7006-4c40-b682-2420cae74591",
+            "image": null,
+            "name": "Mothers Wheel Cleaner",
+            "description": "Mothers Wheel Cleaner is a specialized car care product designed to safely and effectively clean wheels and rims. It removes dirt, brake dust, and grime without damaging the wheel's surface.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "84c962ba-82ed-494d-bf26-3e5411cbc458",
+            "image": null,
+            "name": "Turtle Wax Nano Technology Series",
+            "description": "The Turtle Wax Nano Technology Series consists of advanced car care products designed to provide superior protection and shine using nano-technology. Released in 2008, these products aim to enhance the durability of vehicle surfaces and deliver long-lasting results.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "f5e97e6c-6291-46bf-9219-a0742ae78e85",
+            "image": null,
+            "name": "Collinite 845 Insulating Wax",
+            "description": "Collinite 845 Insulating Wax is a premium car wax designed to provide a durable protective layer against the elements while enhancing the shine of automotive surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "a3f13d58-d480-4604-96c5-e5ba677833dc",
+            "image": null,
+            "name": "Mothers Hybrid Wax System",
+            "description": "The Mothers Hybrid Wax System is a car care product series designed to enhance and protect your vehicle's exterior with a combination of wax and synthetic polymers for a durable, high-gloss finish.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "b0ab8a68-5def-46cb-b6b9-f7fee698ece7",
+            "image": null,
+            "name": "Corrosion Protection",
+            "description": "Bilt Hamber's Corrosion Protection series includes various car care products designed to protect vehicles from rust and corrosion, ensuring long-lasting durability and appearance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Bilt Hamber"
+            }
+        },
+        {
+            "id": "c2d02dd8-7f01-449b-9596-028ba37ed399",
+            "image": null,
+            "name": "Turtle Wax Scratch Repair Kit",
+            "description": "The Turtle Wax Scratch Repair Kit is designed to restore the appearance of your vehicle's paintwork by effectively removing scratches and surface imperfections, enhancing the overall look of your car.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "cc0e93a1-47a2-47d1-84b6-1a4f3462e164",
+            "image": null,
+            "name": "Meguiar's Hybrid Ceramic Wax",
+            "description": "Meguiar's Hybrid Ceramic Wax is a premium car care product that combines advanced SiO2 technology for enhanced protection and durability. It provides a deep shine and long-lasting water beading, making it easier to maintain the vehicle's appearance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "f94a4086-15e5-4782-993a-fe3cd9a71963",
+            "image": null,
+            "name": "Turtle Wax® Clear Vue",
+            "description": "Turtle Wax® Clear Vue is a series of car care products designed to provide a clear, streak-free finish for automotive glass surfaces. Its key purpose is to enhance visibility and protect against dirt and grime accumulation.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "cd0d03b0-a753-4cc2-a745-887546561b93",
+            "image": null,
+            "name": "Maruti Suzuki Ignis",
+            "description": "The Maruti Suzuki Ignis is a compact car known for its unique design, efficient performance, and versatility, making it suitable for urban driving and everyday use.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "c0360d5c-46df-420f-ae46-add3dde57275",
+            "image": null,
+            "name": "Toyota Corolla (2011 Generation)",
+            "description": "The Toyota Corolla (2011 Generation) is a compact car designed for practicality and fuel efficiency, offering a reliable driving experience suitable for everyday use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "dff6269c-432c-4d8f-bfd6-55983f14f9ee",
+            "image": null,
+            "name": "Hero Hunk 200R",
+            "description": "The Hero Hunk 200R is a motorcycle designed for urban commuting, offering a balance of style and performance for riders seeking a sporty experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "153d20f4-dcdf-40cb-8072-213922c8e575",
+            "image": null,
+            "name": "Collinite Paste Wax #476s",
+            "description": "Collinite Paste Wax #476s is a premium automotive wax designed to provide long-lasting protection and a brilliant shine to car surfaces. Known for its durability and ease of application, it helps to shield paintwork from environmental contaminants and UV rays.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "1f3c3e89-56bb-40d5-8668-4fcb6c7cf79c",
+            "image": null,
+            "name": "Mothers Waterless Wash & Wax",
+            "description": "Mothers Waterless Wash & Wax is a car care product designed to clean and protect vehicle surfaces without the need for water. It combines a cleaning agent with a protective wax to leave a shine while removing dirt and grime.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "20853706-9039-4cfa-9133-2f207812002d",
+            "image": null,
+            "name": "Mothers Speed Glaze",
+            "description": "Mothers Speed Glaze is a car care product designed to enhance the shine and clarity of automotive paint, providing a fast and efficient way to restore the appearance of your vehicle.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "38ceaacc-8110-4fc5-b52f-038bf77f86c2",
+            "image": null,
+            "name": "Ice Premium Wax",
+            "description": "Turtle Wax Ice Premium Wax is a car care product designed to provide a high-gloss finish and long-lasting protection for automotive surfaces. Launched in 2004, it features a unique formula that eliminates the need for buffing and restores a brilliant shine.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "3c864ceb-496a-4977-b6b5-99c62f28da32",
+            "image": null,
+            "name": "Double Speed Wax",
+            "description": "Bilt Hamber Double Speed Wax is a high-performance car wax designed for rapid application and removal, providing a durable protective layer that enhances the shine of the vehicle's surface.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Bilt Hamber"
+            }
+        },
+        {
+            "id": "46946314-0a2a-4e59-a820-62c6a4a24ba0",
+            "image": null,
+            "name": "Mothers CMX Ceramic Spray Coating",
+            "description": "Mothers CMX Ceramic Spray Coating is a high-performance protective coating designed to provide a durable layer of protection and shine for automotive surfaces.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "51962c7e-5c90-4b94-abc4-d816e0fb09c5",
+            "image": null,
+            "name": "Turtle Wax Ultra Pro",
+            "description": "The Turtle Wax Ultra Pro series is a collection of advanced car care products designed for professional use. It offers high-performance cleaning, protection, and detailing solutions to enhance vehicle appearance and longevity.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "5b8736c4-f5d5-48a7-a265-934aaabfd032",
+            "image": null,
+            "name": "Mothers Liquid Synwax",
+            "description": "Mothers Liquid Synwax is a premium liquid wax that provides a high-gloss finish and long-lasting protection for automotive paint surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        },
+        {
+            "id": "670c284c-99bf-4649-87ae-32cf64018e87",
+            "image": null,
+            "name": "Nerf Elite",
+            "description": "The Nerf Elite series includes a range of toy blasters designed for active play, featuring precision and range for exciting foam dart battles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "6c868b72-3c66-4570-85a4-b56779d7b7ae",
+            "image": null,
+            "name": "Nerf Modulus",
+            "description": "The Nerf Modulus series features customizable blasters that allow users to modify their configurations with a variety of attachments, catering to different play styles and preferences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "75a66631-dc38-46d2-9299-881e82574cbc",
+            "image": null,
+            "name": "Luxe Detail Spray",
+            "description": "Luxe Detail Spray is a premium car care product designed to clean and enhance the appearance of vehicle exteriors. It provides a high-gloss finish while protecting surfaces from dirt and grime.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Luxe Detailing"
+            }
+        },
+        {
+            "id": "e32913d5-a85a-49e3-8e3c-80663b739027",
+            "image": null,
+            "name": "Mothers Hybrid Ceramic Wax",
+            "description": "Mothers Hybrid Ceramic Wax is a car care product designed to provide long-lasting protection and shine to vehicles. It combines traditional car wax properties with advanced ceramic technology for enhanced durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "91e861b6-2aff-4bde-8809-7213cc35bcaf",
+            "image": null,
+            "name": "Nerf N-Strike Elite Disruptor",
+            "description": "The Nerf N-Strike Elite Disruptor is a dart blaster designed for quick and powerful firing with a six-dart rotating drum, ensuring exciting gameplay for kids and adults alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "e9637142-3349-4250-867f-5f2e9750c5e2",
+            "image": null,
+            "name": "Mothers CMX",
+            "description": "Mothers CMX is a series of advanced car care products designed to provide superior cleaning, protection, and shine for various automotive surfaces.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "f8d11d53-c871-450b-b20e-b5accba8f980",
+            "image": null,
+            "name": "C2v3 Liquid Crystal",
+            "description": "Gtechniq C2v3 Liquid Crystal is a versatile spray-on ceramic coating designed to provide a durable protective layer and enhance the shine of automotive paint. Its advanced formulation offers long-lasting hydrophobic properties and resistance to environmental contaminants.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Gtechniq"
+            }
+        },
+        {
+            "id": "d8e82f6d-fb9b-489f-a542-0bc33f5eac53",
+            "image": null,
+            "name": "Dawlance 6035",
+            "description": "The Dawlance 6035 series is a range of washing machines designed for effective cleaning and convenience, featuring user-friendly controls and energy-efficient performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Dawlance"
+            }
+        },
+        {
+            "id": "a2a71381-b6a2-40b5-b30e-7568d0020c5f",
+            "image": null,
+            "name": "Nerf Rivals",
+            "description": "Nerf Rivals is a series of high-performance foam blasters designed for competitive play, featuring innovative functions and bright color schemes for enhanced visibility during action-packed games.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        },
+        {
+            "id": "a781f041-bff9-4602-a6c0-8a128b06a661",
+            "image": null,
+            "name": "Nerf Meta",
+            "description": "The Nerf Meta series consists of blasters designed for competitive dart battles, featuring customizable components and enhanced accuracy for improved performance during gameplay.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Nerf"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "c52a3d1d-6070-438c-8641-79d0baa1b137",
+            "image": null,
+            "name": "Vango Bora",
+            "description": "The Vango Bora series is designed for outdoor enthusiasts who seek durable, high-quality camping gear. It offers functionality and versatility for various camping needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "b004aeac-c1a1-40bf-9f0f-91e9aa613036",
+            "image": null,
+            "name": "Lounge Woven",
+            "description": "The Dedon Lounge Woven series is an elegant collection of outdoor furniture designed for comfort and relaxation, featuring a distinctive woven aesthetic that enhances any outdoor space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Dedon"
+            }
+        },
+        {
+            "id": "c794da7f-c2b3-464d-9c8f-ed98342c9029",
+            "image": null,
+            "name": "Leica M10",
+            "description": "The Leica M10 is a digital rangefinder camera that embodies Leica's commitment to traditional photography while integrating modern technology, featuring a compact design and advanced imaging capabilities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Leica"
+            }
+        },
+        {
+            "id": "691f0d5f-65d6-48ac-9801-d5cbe014eed5",
+            "image": null,
+            "name": "Leica V-Lux (Typ 114)",
+            "description": "The Leica V-Lux (Typ 114) is a versatile compact camera known for its high-quality optics and user-friendly features, designed for both amateur and professional photographers looking for portability without compromising image quality.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Leica"
+            }
+        },
+        {
+            "id": "76d97cae-37c6-4d46-aceb-0858cce46fe0",
+            "image": null,
+            "name": "Leica M10-R",
+            "description": "The Leica M10-R is a digital rangefinder camera that features a high-resolution sensor designed for exceptional image quality and low-light performance, catering to professional photographers and enthusiasts alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Leica"
+            }
+        },
+        {
+            "id": "3df2d150-4158-47ef-b12e-d6e9a14aa67f",
+            "image": null,
+            "name": "Klymit Static V Lite",
+            "description": "The Klymit Static V Lite is an ultralight and compact sleeping pad designed for camping and backpacking, providing comfort and support while minimizing weight and pack size.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "8f58ea74-783e-4fa0-9f18-f1c43dfee6b2",
+            "image": null,
+            "name": "World of Wonder",
+            "description": "The World of Wonder series by Kids Can Press consists of engaging and educational children's books that explore various themes and topics, fostering curiosity and learning.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Kids Can Press"
+            }
+        },
+        {
+            "id": "684f363f-8dca-4165-bc14-f05650a2429d",
+            "image": null,
+            "name": "Recaro SMARTseat",
+            "description": "The Recaro SMARTseat is a versatile infant car seat designed for safety and ease of use, featuring a unique adjustable base that grows with your child.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Recaro"
+            }
+        },
+        {
+            "id": "0f55e8b5-9d69-4315-bd4f-2e6a4f1c16e0",
+            "image": null,
+            "name": "Caboo",
+            "description": "The Joie Caboo series consists of versatile baby seats that provide comfort and safety for infants and toddlers, allowing for easy transportation and secure seating while on the go.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ab9cd2bc-91c3-4950-ae50-65b05f1d3836",
+            "image": null,
+            "name": "Astro A40 TR Headset + MixAmp Pro TR",
+            "description": "The Astro A40 TR Headset + MixAmp Pro TR is a premium gaming audio solution designed for competitive gaming, providing customizable audio settings and high-quality sound performance, with a focus on clarity and communication.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "0bcfddc3-8e7b-4df7-a771-58168e1d4a05",
+            "image": null,
+            "name": "Art Creation Acrylics",
+            "description": "Art Creation Acrylics are high-quality acrylic paints designed for artists seeking versatility and vibrant color in their artwork. They are suitable for various surfaces and techniques, making them ideal for both beginners and experienced artists.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "d429c132-f503-4788-9918-4b964d93c085",
+            "image": null,
+            "name": "Kiddy Cruiserfix Pro",
+            "description": "The Kiddy Cruiserfix Pro is a child car seat designed to provide safety and comfort for children aged approximately 3.5 to 12 years, featuring advanced protection technologies and an adjustable design to grow with the child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "fa5642b6-28cb-4c6f-9198-48b5d890381b",
+            "image": null,
+            "name": "Joie Pact Flex",
+            "description": "The Joie Pact Flex is a versatile stroller designed for easy maneuverability and comfort, making it ideal for parents on the go.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "18b19d99-0c39-4c20-a55e-c6d6c8f58da4",
+            "image": null,
+            "name": "Barbie Signature",
+            "description": "The Barbie Signature series by Mattel offers a wide range of collectible dolls that celebrate fashion, artistry, and diversity, appealing to Barbie enthusiasts and collectors alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "fda6c575-18e7-4fa8-bdc4-2f866d31e3bb",
+            "image": null,
+            "name": "Ford F-150 (2021)",
+            "description": "The Ford F-150 (2021) is a full-size pickup truck known for its strong performance, advanced technology, and robust capabilities, making it suitable for both work and daily driving.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "59c6b4f1-f3be-48df-8a72-a7155b7e7808",
+            "image": null,
+            "name": "Phase One IQ3 Series",
+            "description": "The Phase One IQ3 Series is a line of medium format digital backs designed for professional photographers seeking high-resolution, superior image quality, and precise color accuracy in their work.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Phase One"
+            }
+        },
+        {
+            "id": "c69c8b29-ff77-4f0c-898f-b094536f4458",
+            "image": null,
+            "name": "Safety 1st Onboard 35",
+            "description": "The Safety 1st Onboard 35 is an infant car seat designed for safety and convenience, accommodating babies from 5 to 35 pounds with a lightweight design for easy transport.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "216c47ec-7402-4bed-963f-d5cca75d902c",
+            "image": null,
+            "name": "Schenker XMG A Series",
+            "description": "The Schenker XMG A Series comprises high-performance laptops designed for gaming enthusiasts and creative professionals, offering powerful hardware configurations and customizable features tailored for demanding applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "14060210-f41d-46c9-ae10-30ed0978a064",
+            "image": null,
+            "name": "Trek Stache",
+            "description": "The Trek Stache series is a line of versatile mountain bikes designed for trail and all-terrain riding, focusing on stability and fun in various conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "5fc5dfae-5740-4ef3-b677-4cca8107d274",
+            "image": null,
+            "name": "RadRunner 1",
+            "description": "The RadRunner 1 is a versatile electric utility bike designed for both everyday commuting and recreational riding, featuring a step-through frame and a powerful 750W motor for an enhanced riding experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Rad Power Bikes"
+            }
+        },
+        {
+            "id": "05fbc9bd-c6c8-4e52-8c52-089fb2851513",
+            "image": null,
+            "name": "Schenker XMG Core Series",
+            "description": "The Schenker XMG Core Series is designed for gamers and power users, offering customizable laptop configurations that balance performance and portability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "4d7a6d2e-6378-4ca0-ae2e-15061a60787f",
+            "image": null,
+            "name": "Schenker XMG Neo Series",
+            "description": "The Schenker XMG Neo Series is a line of high-performance laptops designed for gaming and professional use, offering customizable configurations to meet various user needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "7fe61d5d-d8e0-4725-9484-b6dfab7e8ff8",
+            "image": null,
+            "name": "Vango F10 Xenon",
+            "description": "The Vango F10 Xenon series is a collection of high-performance tents designed for lightweight camping, providing durability and ease of setup for outdoor enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "8a20d545-3838-4b9a-a0b0-55f7a27fc2d7",
+            "image": null,
+            "name": "Schenker XMG Core",
+            "description": "The Schenker XMG Core series is designed for gamers and power users, offering a flexible balance of performance and affordability in a laptop form factor.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "3e0ebc55-4a2e-459f-a16c-b617e5750598",
+            "image": null,
+            "name": "Hyundai XG350",
+            "description": "The Hyundai XG350 is a mid-size sedan that features a comfortable interior and a smooth ride, aimed at providing a balance of luxury and performance for everyday driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "8106b431-da1f-46dd-aecf-243c46c708ec",
+            "image": null,
+            "name": "Vango Stingray",
+            "description": "The Vango Stingray series features versatile camping gear designed for stability and spaciousness, making it ideal for family camping trips and outdoor adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "e2caa1e3-74fd-435f-9044-b8d723254866",
+            "image": null,
+            "name": "Nacon Pro Compact Controller",
+            "description": "The Nacon Pro Compact Controller is designed for enhanced performance and comfort during gaming, featuring customizable controls and a compact design suitable for all hand sizes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Nacon"
+            }
+        },
+        {
+            "id": "cba1c4aa-d35e-4764-a1e7-e528eaf133c5",
+            "image": null,
+            "name": "Trek Domane AL 2",
+            "description": "The Trek Domane AL 2 is a versatile road bike designed for comfort and efficiency, making it suitable for long rides and varied terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "844263b4-8a7a-4380-aff7-db479ec072f4",
+            "image": null,
+            "name": "Vango Vortex",
+            "description": "The Vango Vortex series is a range of versatile camping gear designed for outdoor enthusiasts, featuring durable materials and user-friendly designs to ensure comfort and practicality during camping trips.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "db5a1715-0d3a-45ab-aa05-9597cf83f0a0",
+            "image": null,
+            "name": "Groupe Dorel Car Seats",
+            "description": "The Groupe Dorel Car Seats by Dorel Juvenile are designed to provide safe and comfortable seating for infants and toddlers during travel. This series focuses on ensuring the highest safety standards while offering ease of use for parents.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        }
+    ]
+}

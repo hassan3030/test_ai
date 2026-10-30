@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "73503694-a233-4298-9dfb-7cbf93e5f25b",
+            "image": null,
+            "name": "Citroën C-Crosser",
+            "description": "The Citroën C-Crosser is a mid-size SUV introduced in 2007, designed to offer versatility and comfort for urban and off-road driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "26c288f8-ff6a-40f3-b5f3-144f3814e016",
+            "image": null,
+            "name": "Citroën Jumper",
+            "description": "The Citroën Jumper is a versatile van designed for commercial use, offering ample cargo space and practicality for various business needs.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "34bbcdb8-72c7-4dc8-9e0f-27c73e88e3e1",
+            "image": null,
+            "name": "Citroën C4 Grand Picasso",
+            "description": "The Citroën C4 Grand Picasso is a compact MPV designed to offer spacious interior, family-friendly features, and comfort for both urban and long-distance travel.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "1bb73866-ac91-4aa3-ae0a-28474506019b",
+            "image": null,
+            "name": "Citroën ë-Jumpy",
+            "description": "The Citroën ë-Jumpy is an all-electric van designed for commercial use, offering spaciousness and practicality for various business needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "6934d176-720d-4476-b1b2-18137ce2f0ac",
+            "image": null,
+            "name": "Citroën C3 (2022)",
+            "description": "The Citroën C3 (2022) is a compact hatchback designed for urban mobility, combining stylish design with practicality and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "8c550490-bdf9-488d-8b8c-20fc10112cea",
+            "image": null,
+            "name": "Alizé",
+            "description": "The Fermob Alizé series offers modern outdoor furniture designed for comfort and durability, featuring lightweight materials ideal for versatile outdoor settings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Fermob"
+            }
+        },
+        {
+            "id": "987792b4-37f6-48bd-b3b3-f303cf4a7ab2",
+            "image": null,
+            "name": "Chloé C",
+            "description": "The Chloé C series offers a range of bags that blend contemporary design with timeless elegance, embodying the brand's signature style and luxury craftsmanship.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Chloé"
+            }
+        },
+        {
+            "id": "df2cd31d-c24b-4667-acf7-53d59862268d",
+            "image": null,
+            "name": "Chloé Lauren",
+            "description": "The Chloé Lauren series includes a collection of stylish and sophisticated bags designed to complement modern women's wardrobes while providing practical functionality.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Chloé"
+            }
+        },
+        {
+            "id": "7ed364eb-cd20-4ad0-b7c6-510d6ebee968",
+            "image": null,
+            "name": "Chloé Roy",
+            "description": "The Chloé Roy series features refined bags designed for contemporary style, characterized by their versatile shapes, luxurious materials, and sophisticated details, making them suitable for both day and evening wear.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Chloé"
+            }
+        },
+        {
+            "id": "63913e6c-5a1d-40ed-82f3-869dde1168cb",
+            "image": null,
+            "name": "Kånken Art",
+            "description": "The Kånken Art series by Fjällräven features a collection of versatile bags that blend functionality with artistic design. Originally launched in 2016, these bags are known for their durability and practicality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "57244f3b-866b-4149-a358-7c8a35ebb37b",
+            "image": null,
+            "name": "Räven",
+            "description": "The Räven series by Fjällräven includes durable and practical bags designed for everyday use, featuring a classic design and made from G-1000 fabric for weather resistance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Fjällräven"
+            }
+        },
+        {
+            "id": "24f9e430-a81c-451b-a0e0-94acda563983",
+            "image": null,
+            "name": "Bolle ProShift Series",
+            "description": "The Bolle ProShift Series sunglasses are designed for optimal performance and protection in outdoor activities, featuring interchangeable lenses and a lightweight frame for comfort during extended wear.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Bolle"
+            }
+        },
+        {
+            "id": "d11f93b7-346f-4cc3-b5e5-8085acabd625",
+            "image": null,
+            "name": "Mitsubishi Pajero",
+            "description": "The Mitsubishi Pajero is a versatile SUV known for its off-road capabilities and comfortable interior, making it suitable for both adventurous excursions and everyday use.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "cff1370d-1afa-4f4e-8dd7-0fda4bd0fbfc",
+            "image": null,
+            "name": "Fisher & Paykel Refrigerator Series 9",
+            "description": "The Fisher & Paykel Refrigerator Series 9 is designed to deliver optimal food preservation and energy efficiency, featuring innovative technology and customizable storage options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Fisher & Paykel"
+            }
+        },
+        {
+            "id": "5b2525ea-a390-416c-889a-7b6c7d915cc5",
+            "image": null,
+            "name": "Cuisinart 4-Cup Chopper/Grinder",
+            "description": "The Cuisinart 4-Cup Chopper/Grinder is a compact kitchen appliance designed for efficient food prep, ideal for chopping vegetables or grinding herbs and spices.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "46fddb90-6f46-40a9-a97f-d2ef54d8abea",
+            "image": null,
+            "name": "Volkswagen Jetta (5th generation)",
+            "description": "The Volkswagen Jetta (5th generation) is a compact car designed for efficiency and comfort, combining practicality with sporty styling. Released in 2007, it is known for its spacious interior and reliable performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "2030e8a7-c2c0-4bf3-b30c-8c53438ae47a",
+            "image": null,
+            "name": "MÖJLIGHET",
+            "description": "The MÖJLIGHET series from IKEA features versatile chairs designed to provide comfort and adaptability in various living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "cbd55021-9e95-4795-8058-fc596b16fe92",
+            "image": null,
+            "name": "2022 Summer Collection",
+            "description": "The 2022 Summer Collection by Defacto features a variety of stylish and comfortable women's clothing, designed for warm weather wear, highlighting breathable fabrics and contemporary silhouettes.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Defacto"
+            }
+        },
+        {
+            "id": "c4c4e311-2f0a-4f07-afca-12a76d06702c",
+            "image": null,
+            "name": "Atari Flashback 8",
+            "description": "The Atari Flashback 8 is a dedicated console that emulates the classic Atari 2600 gaming experience, featuring a collection of built-in games and traditional joystick controllers. It aims to bring nostalgia to both old and new gamers by providing an easy way to enjoy retro gaming.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Atari"
+            }
+        },
+        {
+            "id": "8cf41fb4-b62e-4350-9380-66eb80e4dbfd",
+            "image": null,
+            "name": "Mazda Tribute",
+            "description": "The Mazda Tribute is a compact SUV that debuted in 2000, designed for versatility and comfort while providing a balance of performance and fuel efficiency for urban and off-road driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "ef0e9eb6-5b81-4bf5-a62e-c4936dea8ec3",
+            "image": null,
+            "name": "Mazda MX-5 Miata (NB)",
+            "description": "The Mazda MX-5 Miata (NB) is a lightweight, two-seater sports car known for its agile handling and open-top design, embodying the excitement of driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "f7112656-7a8d-420c-8b49-9e152db2c5a3",
+            "image": null,
+            "name": "Mazda6",
+            "description": "The Mazda6 is a mid-size car designed for comfort and performance, combining advanced engineering with stylish design to deliver an engaging driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "aa912fbf-3cd1-47f7-be7b-2129a3a0f6be",
+            "image": null,
+            "name": "Mazda RX-8",
+            "description": "The Mazda RX-8 is a sports car manufactured by Mazda, known for its unique rotary engine, rear-wheel drive layout, and distinctive four-door coupe design, aimed at providing an engaging driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "c7884ea1-9a62-4715-89e5-6df3fc1e12ca",
+            "image": null,
+            "name": "Mazda2",
+            "description": "The Mazda2 is a subcompact car first released in 2003, designed for urban driving with efficient fuel economy and agile handling.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "c1cdf35c-a6b0-480a-bcf8-d0b2599a5add",
+            "image": null,
+            "name": "Mazda5",
+            "description": "The Mazda5 is a compact minivan designed for families, offering versatile seating and cargo configurations for urban use and travel.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "4363f5a2-f978-4c6e-9476-850b656cf2f9",
+            "image": null,
+            "name": "Mazda MX-5 Miata (NC)",
+            "description": "The Mazda MX-5 Miata (NC) is a lightweight two-door convertible sports car aimed at providing an enjoyable driving experience with its agile handling and compact design.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "dc19e826-30b5-4724-b98f-0e74aa9dedcd",
+            "image": null,
+            "name": "Mazda MX-5 (NC)",
+            "description": "The Mazda MX-5 (NC) is a lightweight two-seater roadster known for its agile handling, rear-wheel drive layout, and an engaging driving experience, aimed at enthusiasts who prioritize fun and sporty performance.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "bb61f062-92d2-4348-aa84-77a60acfdea4",
+            "image": null,
+            "name": "Mazda3 (MZR)",
+            "description": "The Mazda3 (MZR) is a compact car designed for efficiency, performance, and driving enjoyment. It combines sporty handling with practical features for urban and suburban drivers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "bad04594-b775-44b8-9539-808c6a3ccd43",
+            "image": null,
+            "name": "Mazda5 (CW)",
+            "description": "The Mazda5 (CW) is a compact multi-purpose vehicle, designed to offer versatility and comfort for families and urban users, featuring a unique sliding door system for easy access.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "a37eee71-fa7f-4d9e-8a45-e9fa19c0633b",
+            "image": null,
+            "name": "Mazda CX-7",
+            "description": "The Mazda CX-7 is a mid-size crossover SUV that seamlessly blends sporty performance with practicality, catering to drivers who seek both style and versatility.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        }
+    ]
+}

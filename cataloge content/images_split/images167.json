@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "0251e5d6-50db-403d-ad16-3923f74a07e4",
+            "image": null,
+            "name": "Tata Safari",
+            "description": "The Tata Safari is a mid-size SUV launched by Tata Motors in 2000, designed to offer a blend of rugged capability and comfort for both urban and off-road driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "194359de-ae9d-4dc2-90b2-15979fc3cbf1",
+            "image": null,
+            "name": "Sennelier Soft Pastels",
+            "description": "Sennelier Soft Pastels are high-quality art supplies manufactured for professional artists and amateurs alike, known for their vibrant colors and smooth application.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "216a6337-d80a-4f9e-8cac-5e00a959d714",
+            "image": null,
+            "name": "Sennelier Watercolors",
+            "description": "Sennelier Watercolors are high-quality, professional-grade watercolors known for their excellent pigment quality and rich, vibrant colors, making them ideal for artists seeking to achieve expressive and fluid artwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "cffae6bf-3013-4b59-90dd-8c1299990b25",
+            "image": null,
+            "name": "Sennelier Abstract",
+            "description": "Sennelier Abstract is a series of high-quality acrylic paints designed for artists who value vibrant colors and versatility. Launched in 2017, these paints are known for their smooth application and excellent pigmentation, suitable for various artistic techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "7030fe02-5432-421a-8b9a-81122c90d37f",
+            "image": null,
+            "name": "Sennelier Aquarelle",
+            "description": "Sennelier Aquarelle is a series of professional watercolor paints known for their rich pigmentation and superior lightfastness, designed for artists who require high-quality materials for expressive watercolor techniques.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "61c98969-c03a-45ec-9191-0917b2e06471",
+            "image": null,
+            "name": "Sennelier Watercolor Sets",
+            "description": "Sennelier Watercolor Sets are premium artist-grade watercolors known for their vibrancy, transparency, and smooth application. Ideal for artists seeking high-quality pigments that offer excellent lightfastness and mixing capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "96fb05ca-fdc3-4109-a84a-24c7740f4a71",
+            "image": null,
+            "name": "Sennelier Extra Soft Pastels",
+            "description": "Sennelier Extra Soft Pastels are high-quality art supplies designed for artists seeking intense pigments and smooth application. Their unique formulation allows for rich color blending and layering, making them suitable for a variety of artistic techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "28a8f788-39b5-4d67-bf0d-8976f2822cac",
+            "image": null,
+            "name": "Sennelier Acrylics",
+            "description": "Sennelier Acrylics are a high-quality line of acrylic paints designed for artists, known for their vibrant colors, excellent lightfastness, and smooth application. Ideal for various painting techniques, they provide versatility for both beginners and experienced professionals.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "91ef9d70-0e19-409c-9576-464533fed857",
+            "image": null,
+            "name": "Sennelier Abstract Acrylics",
+            "description": "Sennelier Abstract Acrylics are versatile, high-quality acrylic paints designed for artists seeking vibrant colors and a smooth application. They are suitable for various surfaces and offer excellent lightfastness.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sennelier"
+            }
+        },
+        {
+            "id": "3d4d76f4-3226-44f1-910b-5d3aea1b732a",
+            "image": null,
+            "name": "Canson XL",
+            "description": "Canson XL is a series of versatile art papers designed for a range of techniques and mediums, suitable for both amateur and professional artists.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Canson"
+            }
+        },
+        {
+            "id": "b8cb62b0-1e57-479b-8f8f-ad123b8c0e1f",
+            "image": null,
+            "name": "Strathmore 500 Series",
+            "description": "The Strathmore 500 Series is a collection of premium art papers designed for professional artists and serious enthusiasts, offering high quality surfaces suitable for a variety of media.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "61dc4f65-c349-46dd-8502-fe16b0614ae4",
+            "image": null,
+            "name": "Strathmore 400 Series",
+            "description": "The Strathmore 400 Series offers a range of high-quality papers designed for a variety of artistic media, ideal for artists seeking a durable and versatile surface for drawing and painting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "762fe475-f1c3-4e81-aaf2-0199d7a512bb",
+            "image": null,
+            "name": "Strathmore Visual Journals",
+            "description": "Strathmore Visual Journals are high-quality art notebooks designed for artists and creatives to capture sketches, ideas, and inspirations in various media. Their durable construction allows for the use of multiple art techniques, making them versatile for both practice and finished work.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "fccf56eb-4303-416f-b837-a6a09c6e61b3",
+            "image": null,
+            "name": "Strathmore 200 Series",
+            "description": "The Strathmore 200 Series offers high-quality, versatile paper designed for students and artists alike, ideal for various dry and wet media applications.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Strathmore"
+            }
+        },
+        {
+            "id": "29b86136-c4ca-44f4-92ee-31151a8771bc",
+            "image": null,
+            "name": "ZIG Kurecolor Alcohol Markers",
+            "description": "The ZIG Kurecolor Alcohol Markers by Kuretake are highly pigmented, dual-tip markers designed for professional artists and crafters. They provide a blendable, streak-free finish and are perfect for illustration, design work, and various creative projects.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Kuretake"
+            }
+        },
+        {
+            "id": "1fbd81f9-5a9c-45a0-8b9a-c1f3fe107a75",
+            "image": null,
+            "name": "Gansai Tambi",
+            "description": "Kuretake Gansai Tambi is a high-quality line of traditional Japanese watercolors, designed for artists and crafters. Known for their vibrant pigments and smooth application, these watercolors are suitable for a variety of art projects, including painting, calligraphy, and illustration.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Kuretake"
+            }
+        },
+        {
+            "id": "085d05a3-14bc-490c-99d4-90fb4d9466fb",
+            "image": null,
+            "name": "Prismacolor Premier",
+            "description": "Prismacolor Premier is a series of high-quality art supplies designed for artists and art enthusiasts, offering a range of colored pencils, markers, and paints known for their rich pigmentation and smooth application.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "2c5e029c-054d-4b80-a2f7-2867123ad335",
+            "image": null,
+            "name": "Prismacolor Scholar",
+            "description": "Prismacolor Scholar is a series of art supplies specifically designed for students and emerging artists, offering high-quality colored pencils and markers that facilitate creativity and artistic expression.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "7c45a46a-902a-4569-a6b9-143c339b65d5",
+            "image": null,
+            "name": "Prismacolor Scholar Colored Pencils",
+            "description": "Prismacolor Scholar Colored Pencils are designed for students and artists seeking high-quality, vibrant colors. The pencils feature smooth color application and are ideal for drawing, coloring, and crafting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "29893593-0fa7-46db-a2cf-4661140f8f41",
+            "image": null,
+            "name": "Prismacolor Premier Colored Pencils",
+            "description": "Prismacolor Premier Colored Pencils are high-quality colored pencils designed for artists and enthusiasts, offering smooth application and vibrant colors for a variety of artistic projects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "41275785-425f-49d1-86e6-04b9f326003e",
+            "image": null,
+            "name": "Prismacolor Premier Color Pencils",
+            "description": "Prismacolor Premier Color Pencils are high-quality colored pencils designed for artists, providing rich pigmentation and smooth application to create vibrant artwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "433cea28-d1f1-4e92-97f8-9ae8c7b0469e",
+            "image": null,
+            "name": "Artline 200",
+            "description": "The Artline 200 series consists of high-quality permanent markers designed for a variety of surfaces, offering vibrant colors and precise lines suitable for both artistic and practical applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Artline"
+            }
+        },
+        {
+            "id": "b47aad5c-8799-400a-8114-db77296f29a5",
+            "image": null,
+            "name": "Artline 210",
+            "description": "The Artline 210 series offers high-quality fine line markers designed for precise drawing and writing. Known for their smooth application and vibrant colors, these markers are ideal for artists, students, and professionals alike.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Artline"
+            }
+        },
+        {
+            "id": "2f03cb65-e22c-4613-b120-81ce7e6c6fe8",
+            "image": null,
+            "name": "Artline 220",
+            "description": "The Artline 220 series offers high-quality, permanent markers designed for a variety of art and craft applications. Known for their vibrant colors and consistent ink flow, these markers are ideal for both professional artists and hobbyists.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Artline"
+            }
+        },
+        {
+            "id": "08736ec2-1e04-4727-8744-4f92ab95f795",
+            "image": null,
+            "name": "Pebeo Studio Acrylics",
+            "description": "Pebeo Studio Acrylics are versatile, water-based acrylic paints designed for artists and crafters, known for their extensive color range and high pigmentation, suitable for various surfaces and techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "cab03d1c-4a1b-4ebb-9232-d7e2481cbf09",
+            "image": null,
+            "name": "Winton Oil Colour",
+            "description": "Winton Oil Colour by Winsor & Newton is a range of affordable oil paints suitable for a variety of artists, providing good tinting strength and color quality for both beginners and experienced painters alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Winsor & Newton"
+            }
+        },
+        {
+            "id": "4ef01a6b-b236-4e4c-a0b8-96180b6467b1",
+            "image": null,
+            "name": "Suzuki Swift (Second Generation)",
+            "description": "The Suzuki Swift (Second Generation) is a compact car known for its efficient design, agility, and affordability, making it a popular choice for urban drivers.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "947c3700-3880-4d3e-8eaa-5b47f544e927",
+            "image": null,
+            "name": "Cobra XRS 9340",
+            "description": "The Cobra XRS 9340 is a radar detector designed to provide drivers with advanced warning of speed detection devices, helping them to stay aware of their speed and avoid potential fines.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "9e7eaa1f-4992-41af-a316-48886d9b3e5e",
+            "image": null,
+            "name": "Cobra RAD 450",
+            "description": "The Cobra RAD 450 is a radar detector designed to provide drivers with enhanced awareness of speed traps and radar signals, helping to promote safer driving habits.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "a1ed30c0-ec34-4cf0-83a4-e10f2e425a40",
+            "image": null,
+            "name": "Cobra RAD 480i",
+            "description": "The Cobra RAD 480i is a radar detector designed to provide vehicle users with advanced warning of radar and laser speed detection technology, enhancing driving safety and awareness.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        }
+    ]
+}

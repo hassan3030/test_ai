@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "6b297cf4-86b4-401a-8833-67fece8af2fd",
+            "image": null,
+            "name": "Frigidaire Gallery Smart Refrigerator",
+            "description": "The Frigidaire Gallery Smart Refrigerator is a modern appliance designed to provide advanced cooling solutions with smart features for enhanced convenience and food preservation.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "495c2139-2454-415b-b22f-15333580e72a",
+            "image": null,
+            "name": "Frigidaire Professional Side-by-Side Refrigerator",
+            "description": "The Frigidaire Professional Side-by-Side Refrigerator is designed to provide ample storage space and efficient food preservation, featuring a modern design suitable for professional kitchens and home use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d5a0e5f6-02fe-4722-ae3d-8f9519aad0f4",
+            "image": null,
+            "name": "Graco SnugRide SnugLock 30",
+            "description": "The Graco SnugRide SnugLock 30 is an infant car seat designed to provide safety and comfort for babies during travel. Its SnugLock technology allows for easy installation in a vehicle.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Graco UK"
+            }
+        },
+        {
+            "id": "c659d709-75ce-4630-9048-421d2b0867e5",
+            "image": null,
+            "name": "Keurig K-Select",
+            "description": "The Keurig K-Select is a single-serve coffee maker that allows users to brew coffee quickly and conveniently. It features a strong brew option and a large water reservoir for multiple servings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Keurig"
+            }
+        },
+        {
+            "id": "2793a3d6-bb5f-433d-b9b7-9157ed0a4ef0",
+            "image": null,
+            "name": "Ford Focus (third generation)",
+            "description": "The Ford Focus (third generation) is a compact car designed for practicality and efficiency, featuring a range of engines and advanced technology that makes it suitable for everyday driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ford"
+            }
+        },
+        {
+            "id": "239db7c3-52bc-4995-85f3-6edc1974804f",
+            "image": null,
+            "name": "Keurig K-Supreme SMART",
+            "description": "The Keurig K-Supreme SMART is a coffee machine designed for effortless brewing with customizable strength and temperature settings, utilizing SMART BrewID technology to recognize K-Cup pods and optimize brewing parameters.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Keurig"
+            }
+        },
+        {
+            "id": "13c6eef3-e34a-47ac-8a36-a71f77e527fb",
+            "image": null,
+            "name": "Stokke Bounce!",
+            "description": "The Stokke Bounce! is a baby seat designed to keep infants comfortable while promoting natural bouncing movements through their movements. This seat is engineered to provide ergonomic support, allowing babies to engage with their surroundings safely.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "169c4741-e948-4ba1-a03e-3d39f6c39be8",
+            "image": null,
+            "name": "Secura Air Fryer 4L",
+            "description": "The Secura Air Fryer 4L is a kitchen appliance designed for healthy cooking by using rapid air technology to fry food with little to no oil. It features a spacious 4-liter capacity, making it suitable for families and meal prep.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "e3e9a5a2-6248-46df-94aa-e12f2bd2931c",
+            "image": null,
+            "name": "Wemo Bridge",
+            "description": "The Wemo Bridge is a smart home device that enables users to control and manage their Wemo products remotely through a single app, enhancing connectivity and automation within smart home ecosystems.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "6f257a3b-6e7e-44b8-a7da-58e0e28e37ec",
+            "image": null,
+            "name": "Montmartre",
+            "description": "The Fermob Montmartre series features stylish outdoor furniture that combines comfort and modern design, making it ideal for creating vibrant outdoor spaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Fermob"
+            }
+        },
+        {
+            "id": "ff923ecb-4c32-438e-92b7-e024d6c14bd9",
+            "image": null,
+            "name": "Secura Air Fryer 5.3L",
+            "description": "The Secura Air Fryer 5.3L is an electric kitchen appliance that uses rapid air technology to fry, bake, grill, and roast food with little to no oil, aiming to provide healthier cooking options while preserving flavor and texture.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Secura"
+            }
+        },
+        {
+            "id": "d6c31026-c4a1-40f3-9042-bcac2d172bc6",
+            "image": null,
+            "name": "Trust Gaming GXT 707R",
+            "description": "The Trust Gaming GXT 707R is a gaming chair designed for comfort and support during long gaming sessions, featuring adjustable components to accommodate various body types and preferences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Trust Gaming"
+            }
+        },
+        {
+            "id": "50f511f2-6b95-4334-9dee-7211bf0ff4cc",
+            "image": null,
+            "name": "Wemo Smart Home Devices",
+            "description": "Wemo Smart Home Devices are designed to automate and control home appliances remotely through a smartphone app, providing convenience and enhanced energy management.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Wemo"
+            }
+        },
+        {
+            "id": "aa3c30b2-4dc6-4cec-b7c3-21349239ba10",
+            "image": null,
+            "name": "Smeg ECF01 Espresso Coffee Machine",
+            "description": "The Smeg ECF01 Espresso Coffee Machine is designed for coffee enthusiasts, delivering high-quality espresso with a combination of vintage aesthetics and modern technology.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ee72e3a8-9fc7-4c26-b43c-4f72229a522e",
+            "image": null,
+            "name": "Liquitex Professional",
+            "description": "Liquitex Professional is a series of high-quality art supplies designed for professional artists, featuring a wide range of acrylic paints, mediums, and varnishes known for their performance and versatility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "90b1997d-2352-454b-8c3d-5f1424c7fa45",
+            "image": null,
+            "name": "Trust Gaming GXT 256",
+            "description": "The Trust Gaming GXT 256 series offers a range of gaming accessories designed to enhance the gaming experience with reliable performance and ergonomic design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Trust Gaming"
+            }
+        },
+        {
+            "id": "3cfbb7c4-b4a5-42d2-b4b1-cbdd1cb67f21",
+            "image": null,
+            "name": "Liquitex Professional Acrylic Paint",
+            "description": "Liquitex Professional Acrylic Paint is a high-quality, artist-grade acrylic paint designed for versatility and outstanding color vibrancy. It is suitable for various surfaces and techniques, making it ideal for both fine art and mixed media applications.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "c52c0094-491e-4a94-bc8f-0acac2f2c325",
+            "image": null,
+            "name": "Klarstein Vinovilla",
+            "description": "The Klarstein Vinovilla series features wine refrigerators designed to store and display wine at optimal temperatures, ensuring that wine enthusiasts can preserve the quality and flavor of their favorite bottles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "81305b2b-2e22-4cf2-9bdc-8e8953e1c41a",
+            "image": null,
+            "name": "Optimum No Rinse Wash & Wax",
+            "description": "Optimum No Rinse Wash & Wax is a concentrated no-rinse car wash solution designed to clean and wax your vehicle without the need for traditional washing methods. It provides effective cleaning while leaving a protective wax layer.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Optimum No Rinse"
+            }
+        },
+        {
+            "id": "503d91b7-3ce9-445d-afae-c7666fed2ac3",
+            "image": null,
+            "name": "Meguiar's Ultimate Wax",
+            "description": "Meguiar's Ultimate Wax is a premium car care product designed to provide long-lasting protection and an exceptional shine on your vehicle's surface. Launched in 2009, it features advanced polymer technology for durability and ease of use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "909acfaa-4d5f-4c5b-96cd-c0ffafc9ba84",
+            "image": null,
+            "name": "Kate Spade New York x Disney",
+            "description": "The Kate Spade New York x Disney series features a collection of bags that celebrate the whimsical and playful spirit of Disney, combining stylish design with functional elements suitable for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "6987ea41-983b-44b3-ba61-0b8adbaeaaf5",
+            "image": null,
+            "name": "Klarstein Vito",
+            "description": "The Klarstein Vito series comprises versatile air fryers designed for healthy cooking by using hot air circulation to achieve crispy results with minimal oil.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Klarstein"
+            }
+        },
+        {
+            "id": "e83fe31a-33af-4133-83c8-c0b71b79d3fe",
+            "image": null,
+            "name": "Meguiar's Microfiber Wash Mitt",
+            "description": "Meguiar's Microfiber Wash Mitt is designed for safe and effective car washing, featuring soft microfiber material that helps lift dirt and grime without scratching paint surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "0fc13e2b-b403-44f9-bdb4-2303eb48b66a",
+            "image": null,
+            "name": "Chicco Fit2 Car Seat",
+            "description": "The Chicco Fit2 Car Seat is a versatile, two-stage child car seat designed to accommodate infants and toddlers from birth up to 24 months, featuring enhanced safety features and an easy transition from rear-facing to forward-facing positions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "080a1674-be84-4bb4-8ee9-1a445f0f5e7e",
+            "image": null,
+            "name": "Ultimate Wipe",
+            "description": "Meguiar's Ultimate Wipe is a series of high-quality microfiber towels designed for safe and effective cleaning and detailing of automotive surfaces. These towels provide excellent absorbency and scratch-free performance, making them ideal for drying, polishing, and applying waxes or sealants.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "4418b6dc-1816-44bc-bf62-db7cc3e70baa",
+            "image": null,
+            "name": "Émonda SL",
+            "description": "The Trek Émonda SL series is designed for lightweight performance and climbing efficiency, making it ideal for road cyclists seeking speed and agility.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "d66d33b7-5ca3-4c1c-89e0-e118d8483d53",
+            "image": null,
+            "name": "Trust GXT 707R Rano Gaming Chair",
+            "description": "The Trust GXT 707R Rano Gaming Chair is designed for gamers seeking comfort and support during long gaming sessions, featuring adjustable settings for personalized ergonomics.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Trust Gaming"
+            }
+        },
+        {
+            "id": "0c520513-ac52-4eb2-a306-7e488155c3be",
+            "image": null,
+            "name": "Smeg Drip Coffee Machine",
+            "description": "The Smeg Drip Coffee Machine series offers a stylish and functional way to brew coffee at home, combining retro design with modern technology for an optimal coffee experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bc6fadc5-5aec-449a-ab50-928bcdf15d6e",
+            "image": null,
+            "name": "Safety 1st Guide 65",
+            "description": "The Safety 1st Guide 65 is a convertible car seat designed to provide safety and comfort for children from 5 to 65 pounds, making it suitable for various stages of a child's growth.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "9bb6bb84-fa87-4eb0-80e4-1080c03cc367",
+            "image": null,
+            "name": "Spring/Summer 2017 Collection",
+            "description": "The Dr. Martens Spring/Summer 2017 Collection features a range of sneakers designed for comfort and durability, showcasing the brand's commitment to quality craftsmanship and iconic style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Dr. Martens"
+            }
+        }
+    ]
+}

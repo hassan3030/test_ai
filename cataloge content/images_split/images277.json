@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f79c7b53-a005-4f8b-b9fa-6c7805ed94be",
+            "image": null,
+            "name": "Bridgestone Dueler",
+            "description": "The Bridgestone Dueler series is designed for all-terrain performance, offering advanced traction and durability for both on-road and off-road driving conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Bridgestone"
+            }
+        },
+        {
+            "id": "d3337ae8-f297-497b-ab83-6ff63ff55616",
+            "image": null,
+            "name": "Fisher-Price Little People Share & Care Safari",
+            "description": "The Fisher-Price Little People Share & Care Safari series is designed to encourage empathy and sharing through imaginative play. It features animal figures and safari-themed environments that promote storytelling and social skills for young children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "384bb6ae-d96b-4452-a619-f634449115ec",
+            "image": null,
+            "name": "Snakebyte Charging Station",
+            "description": "The Snakebyte Charging Station for Nintendo Switch is designed to simultaneously charge multiple controllers, providing a convenient power solution for gamers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Snakebyte"
+            }
+        },
+        {
+            "id": "845d0669-208b-4a02-b21b-a5d0d2f4c28e",
+            "image": null,
+            "name": "Paul Smith Bags",
+            "description": "Paul Smith Bags is a series of stylish and functional bags designed for everyday use, combining practical features with innovative design elements characteristic of the Paul Smith brand.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "3b90978c-6c7f-44aa-b2a2-f566aecfb870",
+            "image": null,
+            "name": "Play-Doh Wheels",
+            "description": "Play-Doh Wheels is a series of toys designed to encourage creativity and imaginative play through the use of modeling compound and vehicle-themed playsets.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "20787582-919d-4aef-bd5c-7186f740347b",
+            "image": null,
+            "name": "Opel Insignia II",
+            "description": "The Opel Insignia II is a mid-sized car produced by the German automaker Opel, known for its blend of comfort, performance, and advanced technology. It was designed to cater to both family needs and individual driving experiences.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "c3592ae2-af15-45cf-baaa-85529ca25a17",
+            "image": null,
+            "name": "Thule T2",
+            "description": "The Thule T2 is a bike rack designed for easy loading and transport of up to two bicycles, known for its sturdy construction and user-friendly features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "e121779f-28de-43b4-b234-1abd6930fec0",
+            "image": null,
+            "name": "BMW M5 (F10)",
+            "description": "The BMW M5 (F10) is a high-performance luxury sedan that combines powerful engine capabilities with advanced technology and a focus on driving dynamics, delivering an exhilarating driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "0c6e78d0-b91b-405e-b64a-1710c8eba391",
+            "image": null,
+            "name": "Opel Crossland",
+            "description": "The Opel Crossland is a compact SUV designed for urban and family use, offering versatile interior space and advanced safety features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "4da96ae5-32c6-474e-a786-7b802e72cd7b",
+            "image": null,
+            "name": "Ninja Speedi Rapid Cooker",
+            "description": "The Ninja Speedi Rapid Cooker is a versatile kitchen appliance that combines multiple cooking functions, including air frying, steaming, and sautéing, for quick and convenient meal preparation.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "7c07400d-00a9-465e-b3fc-e3e76f3342a3",
+            "image": null,
+            "name": "Benelli Tre K",
+            "description": "The Benelli Tre K is a line of motorcycles introduced in 2001, designed for versatility and performance, blending off-road capability with on-road comfort.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "0f5eace0-e793-4f3b-8b5f-c907ed2f8b07",
+            "image": null,
+            "name": "Opel Grandland",
+            "description": "The Opel Grandland is a compact SUV designed for versatility and comfort, featuring a spacious interior and advanced safety features to enhance the driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "b8a06e25-1222-4cbc-9491-d576f42c9bd0",
+            "image": null,
+            "name": "Ninja CREAMi",
+            "description": "The Ninja CREAMi is a versatile blender designed to create a variety of frozen desserts, smoothies, and dips with ease and precision, featuring innovative technology for consistent results.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        },
+        {
+            "id": "9eb13c03-c312-4c91-8a20-203f53591f05",
+            "image": null,
+            "name": "Snakebyte Game:track",
+            "description": "The Snakebyte Game:track series offers a range of gaming accessories designed to enhance gamers' experiences through improved gameplay comfort and organization.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Snakebyte"
+            }
+        },
+        {
+            "id": "5311d079-42b4-423f-9023-da7effda8525",
+            "image": null,
+            "name": "Thule Glide",
+            "description": "The Thule Glide is a high-performance stroller designed for active parents. Its lightweight design and excellent maneuverability make it ideal for running and outdoor activities.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "58d50398-89a2-49be-b372-aa6c393bbb1d",
+            "image": null,
+            "name": "Fisher-Price Laugh & Learn Silly Sounds Light Up Piano",
+            "description": "The Fisher-Price Laugh & Learn Silly Sounds Light Up Piano is an interactive toy designed to engage infants and toddlers through music, lights, and sounds, promoting early learning and development.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Fisher-Price"
+            }
+        },
+        {
+            "id": "8898a089-455a-413d-8dac-681cb1940964",
+            "image": null,
+            "name": "Thule Freeride",
+            "description": "The Thule Freeride series is designed for versatile bike transport solutions, providing secure and easy-loading options for adventurous cyclists.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "e4f0b881-cad8-403e-ad14-e837d62af727",
+            "image": null,
+            "name": "Edifier R1300DB",
+            "description": "The Edifier R1300DB is a versatile bookshelf speaker system designed to deliver high-quality audio in both wired and wireless formats, suitable for music playback and home entertainment.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Edifier"
+            }
+        },
+        {
+            "id": "fa9c6af6-ea49-43f7-a5b0-2fb9664290ae",
+            "image": null,
+            "name": "Play-Doh Disney Princess",
+            "description": "The Play-Doh Disney Princess series allows children to create and mold magical scenes with their favorite Disney characters using colorful Play-Doh compound, fostering creativity and imaginative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Play-Doh"
+            }
+        },
+        {
+            "id": "361a2eaf-2d83-4f2b-8d28-9128bbcff4d2",
+            "image": null,
+            "name": "Paul Smith Watches",
+            "description": "The Paul Smith Watches series features a collection of timepieces that embody the brand's signature blend of classic and contemporary styles, emphasizing quality craftsmanship and distinctive design elements.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Paul Smith"
+            }
+        },
+        {
+            "id": "d5b587dd-c57d-4d15-b708-2cbf5e1ce1d9",
+            "image": null,
+            "name": "Thule VeloCompact",
+            "description": "The Thule VeloCompact series includes compact and lightweight bike carriers designed for easy transport of bicycles on vehicles. They offer convenient loading and unloading, making them suitable for various cycling adventures.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "f062ae28-67c2-4bfe-a92b-430b63d5d925",
+            "image": null,
+            "name": "Baggy",
+            "description": "The Palladium Baggy series offers versatile high-top sneakers designed for comfort and urban style, blending functionality with a laid-back aesthetic.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Palladium"
+            }
+        },
+        {
+            "id": "e37a304b-0675-4945-8f23-315621c013ee",
+            "image": null,
+            "name": "Sonax Profline",
+            "description": "The Sonax Profline series offers a comprehensive range of professional car care products designed to clean, protect, and maintain all vehicle surfaces, ensuring long-lasting results and a pristine appearance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        },
+        {
+            "id": "71fdb30e-dae5-4151-aa5a-376109ab3e91",
+            "image": null,
+            "name": "FolkArt Coastal",
+            "description": "FolkArt Coastal is a series of high-quality acrylic paints designed to emulate the tranquil and vibrant colors of coastal environments, perfect for crafting and artistic projects focused on marine themes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "FolkArt"
+            }
+        },
+        {
+            "id": "6c8b5b88-0a12-480d-87f3-f59eca4156c2",
+            "image": null,
+            "name": "Thule VeloSpace",
+            "description": "The Thule VeloSpace series offers versatile bike carriers designed to transport multiple bikes securely on the back of a vehicle, featuring easy loading and unloading mechanisms.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Thule"
+            }
+        },
+        {
+            "id": "ef80cde5-dc2d-41fd-9b15-b4d373108a2a",
+            "image": null,
+            "name": "Hamilton Beach FlexBrew 49980Z",
+            "description": "The Hamilton Beach FlexBrew 49980Z is a versatile coffee maker that can brew a single cup or a full pot using either ground coffee or K-Cup packs, catering to various brewing preferences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Hamilton Beach"
+            }
+        },
+        {
+            "id": "89585fad-c33a-45c1-8612-521b4612cead",
+            "image": null,
+            "name": "BMW 8 Series (G14/G15)",
+            "description": "The BMW 8 Series (G14/G15) is a luxury grand tourer that combines high-performance capabilities with advanced technology and a sporty design, aimed at providing an exhilarating driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "9db44147-1ae4-4e3f-9222-897fdc071ffe",
+            "image": null,
+            "name": "Repos",
+            "description": "The Vitra Repos series is designed to provide ultimate comfort and versatility in seating, making it suitable for both private and professional environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Vitra"
+            }
+        },
+        {
+            "id": "2d39cb1e-6198-4f50-8dbb-6dcc1885ae6d",
+            "image": null,
+            "name": "Kipling Spring/Summer Collection 2016",
+            "description": "The Kipling Spring/Summer Collection 2016 features a range of stylish and functional bags designed for everyday use, highlighting vibrant colors and playful designs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kipling"
+            }
+        },
+        {
+            "id": "27b18dfc-7356-46c0-95c7-f0da17c40d39",
+            "image": null,
+            "name": "Ninja Creami Ice Cream Maker",
+            "description": "The Ninja Creami Ice Cream Maker is designed to create a variety of frozen treats, including ice cream, sorbet, and milkshakes, with a streamlined process that allows for easy customization of flavors and textures.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Ninja"
+            }
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "data": [
+        {
+            "id": "e581d3e2-e394-4077-831c-b0734f4a0e50",
+            "image": null,
+            "name": "Maruti Suzuki Zen",
+            "description": "The Maruti Suzuki Zen is a compact hatchback released in 2001, designed for efficiency and urban mobility, appealing to those seeking a practical and economical vehicle.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "797966ef-e2da-48a9-89d7-d2f4dbc33298",
+            "image": null,
+            "name": "Maruti Suzuki Esteem",
+            "description": "The Maruti Suzuki Esteem is a compact sedan known for its reliability, fuel efficiency, and affordability, making it a popular choice among Indian families and first-time car buyers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "5443e854-1aee-4e3b-a0c6-ef3a72ad0fb0",
+            "image": null,
+            "name": "Chery Tiggo 7",
+            "description": "The Chery Tiggo 7 is a compact SUV designed to offer a balance of comfort, space, and modern technology, catering to urban drivers seeking versatile performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "e389915f-5094-4ca7-b8dd-da037074c68c",
+            "image": null,
+            "name": "Tiggo 5x",
+            "description": "The Chery Tiggo 5x is a compact SUV designed for urban and suburban driving, offering a blend of modern design, technology, and comfort for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "8648adce-3b08-48e6-8204-a06b22ea661b",
+            "image": null,
+            "name": "Nikon W300",
+            "description": "The Nikon W300 is a compact, rugged digital camera designed for outdoor enthusiasts and adventurers. It features waterproof, shockproof, and freezeproof capabilities, making it suitable for capturing images in extreme conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d2a55626-a44c-4067-b31b-dce210c9d710",
+            "image": null,
+            "name": "Maruti Suzuki A-Star",
+            "description": "The Maruti Suzuki A-Star is a compact car that was introduced in 2008, designed for urban commuting with a focus on fuel efficiency and maneuverability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "aa3ab060-dd35-4d4f-a425-0e96e9606935",
+            "image": null,
+            "name": "Maruti Suzuki Wagon R (New Generation)",
+            "description": "The Maruti Suzuki Wagon R (New Generation) is a compact hatchback designed for urban commuting, combining functionality with modern features to provide a comfortable driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "c323bc7f-bab0-42ee-990f-9bab80e52f6d",
+            "image": null,
+            "name": "Maruti Suzuki Estilo",
+            "description": "The Maruti Suzuki Estilo is a compact hatchback designed to offer practicality and efficiency for urban commuting, known for its spacious interior and fuel efficiency.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "5b12d76b-9eb1-4d0c-88ac-a880a9f3299a",
+            "image": null,
+            "name": "Nikon Coolpix W100",
+            "description": "The Nikon Coolpix W100 is a waterproof and shockproof compact digital camera designed for outdoor adventures and capturing high-quality photos in various environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5ddcca94-0df7-485d-85f0-08220604ec98",
+            "image": null,
+            "name": "Nikon Coolpix P1000",
+            "description": "The Nikon Coolpix P1000 is a high-performance compact digital camera known for its impressive 125x optical zoom lens, making it suitable for wildlife and distant subject photography.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cb913bf9-d52c-427a-a98f-68ee09483458",
+            "image": null,
+            "name": "Rexton II",
+            "description": "The SsangYong Rexton II is a mid-size SUV known for its robust build, off-road capabilities, and spacious interior, making it suitable for both urban and adventurous uses.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "5b4af78c-3eb3-4730-8af8-55c6100f22fb",
+            "image": null,
+            "name": "Chery Fulwin",
+            "description": "The Chery Fulwin is a compact car produced by Chery Automobile, known for its affordability and practicality, catering to urban drivers seeking reliable transportation.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "3842cc0f-0d86-4e35-a7a2-54839640e51a",
+            "image": null,
+            "name": "Tiggo 2",
+            "description": "The Chery Tiggo 2 is a compact SUV that combines practicality with modern design, aimed at providing a comfortable and efficient driving experience for urban and suburban environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "9bdba076-c5f3-4228-b502-a6422f0d037b",
+            "image": null,
+            "name": "Nikon Coolpix B500",
+            "description": "The Nikon Coolpix B500 is a compact digital camera designed for ease of use, featuring a 40x optical zoom and a variety of shooting modes tailored for casual photography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "99e7b2e9-4818-4ec3-a20c-6733cc2f4b03",
+            "image": null,
+            "name": "Tiggo 8",
+            "description": "The Chery Tiggo 8 is a mid-sized SUV that offers spacious seating for families, advanced safety features, and modern technology for enhanced driving comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "c847ba9f-5da8-4052-9b7b-871bf5ff8b5b",
+            "image": null,
+            "name": "NIKKOR Z 800mm f/6.3 VR S",
+            "description": "The Nikon NIKKOR Z 800mm f/6.3 VR S is a super-telephoto lens designed for wildlife and sports photography, featuring advanced vibration reduction technology and exceptional image quality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "46b8d4f3-b53e-4cd0-bb85-aa17b0b054aa",
+            "image": null,
+            "name": "Chery Cowin",
+            "description": "The Chery Cowin is a series of compact cars produced by Chery Automobile, designed to offer affordable and practical transportation solutions since its introduction in 2005.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "c481f369-3fcd-47f3-a13c-a0cac4b680ab",
+            "image": null,
+            "name": "Nikon D5",
+            "description": "The Nikon D5 is a professional digital single-lens reflex camera designed for high-speed performance and exceptional image quality, making it ideal for sports and wildlife photography.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "96bf0621-4f6e-4692-ad23-441ebcd09dee",
+            "image": null,
+            "name": "Nikon Z 50",
+            "description": "The Nikon Z 50 is a compact mirrorless camera designed for content creators and photographers seeking high-quality imaging in a lightweight body. It features a 20.9MP sensor and 4K video recording capabilities, making it suitable for a wide range of photography and videography applications.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4240c293-fd48-4f5f-adcf-e959a3453418",
+            "image": null,
+            "name": "Nikon Nikkor Z 40mm f/2",
+            "description": "The Nikon Nikkor Z 40mm f/2 is a versatile standard prime lens designed for Nikon Z mount cameras, ideal for portraits, street photography, and everyday shooting with a compact design and fast maximum aperture.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "43330531-84f4-4d51-8538-67383e28470f",
+            "image": null,
+            "name": "Chery Arrizo 6 Plus",
+            "description": "The Chery Arrizo 6 Plus is a compact sedan that combines modern design with advanced technology, offering a comfortable and efficient driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "48bd4e0c-3abc-4702-a7bc-7a60eec603e0",
+            "image": null,
+            "name": "Bose Portable Smart Speaker",
+            "description": "The Bose Portable Smart Speaker offers high-quality sound with built-in voice control capabilities, designed for easy portability and versatile use throughout your home and outdoors.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e2d6e78a-c4cc-4131-867b-8023c8c3261c",
+            "image": null,
+            "name": "Proton Saga (2021 facelift)",
+            "description": "The Proton Saga (2021 facelift) is a compact sedan designed to offer an affordable and reliable transportation solution, featuring modern design elements and enhanced technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "639f5b6c-7cb9-4ff1-bf51-c9b141d46f1d",
+            "image": null,
+            "name": "Toyota Genuine Parts",
+            "description": "Toyota Genuine Parts are authentic replacement parts designed specifically for Toyota vehicles, ensuring optimal performance, safety, and reliability.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Toyota Genuine Parts"
+            }
+        },
+        {
+            "id": "61445b6b-5d3f-4e77-9218-b19017882804",
+            "image": null,
+            "name": "Bose Soundbar 900",
+            "description": "The Bose Soundbar 900 is a premium soundbar designed to enhance your home entertainment experience with advanced audio features like Dolby Atmos and a sleek, modern design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "066c33fa-ed27-4586-a908-86b31d184047",
+            "image": null,
+            "name": "Bose SoundLink Flex",
+            "description": "The Bose SoundLink Flex is a portable Bluetooth speaker designed for versatility and high-quality sound in a compact form. It offers durability and resistance to water and dust, making it suitable for both indoor and outdoor use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "60edc09c-d9e2-4c75-8013-313ace1de749",
+            "image": null,
+            "name": "V-Power",
+            "description": "The NGK V-Power series is designed for enhanced ignitability and performance, ensuring optimal combustion and fuel efficiency in a wide range of vehicles.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "574c5826-b879-4bb9-be83-b8fc6fd37fdf",
+            "image": null,
+            "name": "Beats Studio Pro",
+            "description": "The Beats Studio Pro headphones are designed for high-fidelity audio performance, featuring advanced noise cancellation and comfort for extended listening sessions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "f7a3d149-5375-4665-ae5f-4c3f042f4542",
+            "image": null,
+            "name": "Nike Air Max 2016",
+            "description": "The Nike Air Max 2016 is a running sneaker that features a full-length air cushioning unit for enhanced comfort and responsiveness. Known for its breathable mesh upper, this model is designed to provide support during high-impact activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "d29a3457-141d-4176-91e3-d87713876025",
+            "image": null,
+            "name": "Nike Air Vapormax",
+            "description": "The Nike Air Vapormax is a sneaker series released in 2017, known for its innovative Air technology that provides lightweight cushioning and a unique, nearly seamless upper design for enhanced comfort and style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        }
+    ]
+}

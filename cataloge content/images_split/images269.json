@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "6e309353-ab3b-4f97-97c5-b2a47a95ac3c",
+            "image": null,
+            "name": "Cangaroo 2 in 1",
+            "description": "The Cangaroo 2 in 1 series includes versatile strollers designed to accommodate both infants and toddlers, focusing on ease of use and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Cangaroo"
+            }
+        },
+        {
+            "id": "61380e68-7e9f-4aa9-8e17-a94b2de6fbc2",
+            "image": null,
+            "name": "ASTRO A50 TR",
+            "description": "The ASTRO A50 TR is a high-quality wireless gaming headset designed for immersive audio experiences and extended comfort during gaming sessions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "e0cd86f2-bee7-47bd-af9c-d0adf79f1b23",
+            "image": null,
+            "name": "Veja Nova",
+            "description": "The Veja Nova is a line of sustainable sneakers, released in 2019, that combines style and eco-consciousness, made with organic materials and fair trade practices.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "ab762732-c6f4-419f-9e5a-89b546c2ab42",
+            "image": null,
+            "name": "Versa",
+            "description": "The Joie Versa series consists of versatile strollers designed for comfort and convenience, featuring multiple configurations to suit the needs of both the child and caregiver.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8eecb041-75d3-4999-a984-14db05107231",
+            "image": null,
+            "name": "Astro A20 Wireless",
+            "description": "The Astro A20 Wireless is a versatile gaming headset designed for immersive audio experiences across various gaming platforms, prioritizing comfort and extended battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Astro Gaming"
+            }
+        },
+        {
+            "id": "efb58700-f6e3-4293-b6b8-99f4dee259c7",
+            "image": null,
+            "name": "Kiddy Comfort Pro",
+            "description": "The Kiddy Comfort Pro is a baby seat designed to provide safety and comfort for infants and toddlers during car travel. It features innovative technology to ensure optimal protection and ease of use for parents.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Kiddy"
+            }
+        },
+        {
+            "id": "4bbbd0f5-6e3c-4cc0-aaed-a8ae8559a4cd",
+            "image": null,
+            "name": "Talens Art Creation",
+            "description": "The Talens Art Creation series by Royal Talens includes a variety of art supplies designed for artists of all skill levels. This range emphasizes quality and affordability, making it an ideal choice for both beginners and experienced creators.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "6ef82d0a-c7c5-48ae-998b-796750a741ec",
+            "image": null,
+            "name": "Shoei Neotec II",
+            "description": "The Shoei Neotec II is a versatile modular helmet designed for motorcyclists, featuring a comfortable fit, advanced ventilation, and an integrated sun shield for enhanced visibility and protection.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "f76088a4-8520-453c-816e-752a83e1beeb",
+            "image": null,
+            "name": "Russell Hobbs 21840",
+            "description": "The Russell Hobbs 21840 Air Fryer is designed to provide a healthier alternative to traditional frying by using hot air circulation to cook food with significantly less oil, while still achieving a crispy exterior.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Russell Hobbs"
+            }
+        },
+        {
+            "id": "c70cef1f-17d8-4af9-af3e-fdcb73861e20",
+            "image": null,
+            "name": "Barbie Loves the Ocean",
+            "description": "Barbie Loves the Ocean is a toy series that encourages children to engage in imaginative play while fostering an appreciation for ocean conservation and marine life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "3a36e810-c26c-4244-8afb-d69f337e2116",
+            "image": null,
+            "name": "Honda Accord (7th Generation)",
+            "description": "The Honda Accord (7th Generation) is a midsize sedan known for its reliability, spacious interior, and fuel efficiency. Released in 2002, it features advanced technology and a variety of engine options, making it a popular choice among consumers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3d915be0-3302-49bd-8a1b-cd4307732cb4",
+            "image": null,
+            "name": "Van Gogh Oil Paints",
+            "description": "Van Gogh Oil Paints by Royal Talens are high-quality, artist-grade oil paints known for their vibrant color palette and smooth application, ideal for both professional artists and enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "27985240-da89-4e7a-8d32-640b7ccc2928",
+            "image": null,
+            "name": "Classic",
+            "description": "The Superga Classic series features timeless canvas sneakers designed for comfort and style, suitable for everyday wear.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Superga"
+            }
+        },
+        {
+            "id": "23d47e8f-b6e5-4430-a93e-1948528b59da",
+            "image": null,
+            "name": "Shoei J-Cruise II",
+            "description": "The Shoei J-Cruise II is an open-face motorcycle helmet designed for comfort and safety. It combines advanced technology with a classic style for riders seeking a versatile and reliable headgear.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Shoei"
+            }
+        },
+        {
+            "id": "187b2f43-8b5c-47a7-87b6-6fb5072b10c5",
+            "image": null,
+            "name": "Fisher-Price 2023 Laugh & Learn",
+            "description": "The Fisher-Price 2023 Laugh & Learn series features interactive toys designed to engage and educate young children through play, focusing on essential early learning concepts such as numbers, letters, and social skills.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "8ff10504-20cc-4589-b617-887e96abdb92",
+            "image": null,
+            "name": "Hesh 3",
+            "description": "The Skullcandy Hesh 3 are wireless headphones designed for immersive audio experiences and comfort during extended use, featuring a lightweight design and long battery life.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "4cd1bb82-37e3-4ba0-a77a-1baccaa3a823",
+            "image": null,
+            "name": "Husqvarna FE 350",
+            "description": "The Husqvarna FE 350 is a versatile off-road motorcycle known for its balance of power and agility, making it suitable for both competitive and recreational riders.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "2e9e73e5-4509-4da0-bacc-62d7b0ec3279",
+            "image": null,
+            "name": "Husqvarna FE 2015",
+            "description": "The Husqvarna FE 2015 is a high-performance off-road motorcycle designed for enduro riding, featuring a lightweight chassis and advanced suspension for improved handling and stability on rugged terrain.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "41c00299-ca7f-47e0-bc5d-998bfcda11ec",
+            "image": null,
+            "name": "Alto 800",
+            "description": "The Maruti Suzuki Alto 800 is a compact and economical hatchback designed for urban commuting, offering efficient performance and practicality.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "9f0a0669-fb32-4525-8704-176f996f78df",
+            "image": null,
+            "name": "Crusher Evo",
+            "description": "The Skullcandy Crusher Evo headphones are wireless over-ear headphones known for their adjustable sensory bass, immersive sound quality, and long battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Skullcandy"
+            }
+        },
+        {
+            "id": "a8ca519d-f3de-4fd4-8ea1-dae4cc098ed2",
+            "image": null,
+            "name": "DUPLO 10890",
+            "description": "DUPLO 10890 is a toy set designed for young children, featuring large, easy-to-handle building blocks that encourage creativity, imagination, and fine motor skills development.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "DUPLO"
+            }
+        },
+        {
+            "id": "bcb78901-6d9d-4937-b5e6-42353a2d7cdb",
+            "image": null,
+            "name": "Art Spectrum Soft Pastels",
+            "description": "Art Spectrum Soft Pastels are high-quality art supplies designed for artists of all levels, known for their vibrant colors and smooth application. They are ideal for various techniques including blending and layering.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "66241d42-496f-4738-aa4a-fdc5950f35d6",
+            "image": null,
+            "name": "Gorenje Smart Refrigerator",
+            "description": "The Gorenje Smart Refrigerator series offers innovative refrigeration solutions designed for modern kitchens, focusing on energy efficiency, smart features, and optimal food preservation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "3dc8a788-8cf5-4410-be26-d5224375bfd7",
+            "image": null,
+            "name": "Hyundai Tucson (2022 Model)",
+            "description": "The Hyundai Tucson (2022 Model) is a compact SUV designed for versatility and comfort, offering a balanced blend of performance, efficiency, and advanced safety features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "f1e152b1-2a41-47ac-8e27-2810ef09a492",
+            "image": null,
+            "name": "Gorenje Retro Collection",
+            "description": "The Gorenje Retro Collection features stylish refrigerators designed to combine vintage aesthetics with modern functionality, providing efficient food storage solutions for contemporary kitchens.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "94dc67f0-eda1-4e0d-b071-1f76909d304d",
+            "image": null,
+            "name": "Spectrum Acrylics",
+            "description": "Art Spectrum's Spectrum Acrylics are high-quality acrylic paints designed for artists seeking vibrant colors, excellent coverage, and durability across various surfaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "f0d8cf27-ec25-4167-ba78-8cc63bb070c5",
+            "image": null,
+            "name": "Sole F80",
+            "description": "The Sole F80 is a high-performance treadmill designed for home use, featuring a robust motor and a sturdy frame, ideal for varied workout routines and accommodating users at different fitness levels.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "5a864ccf-eba7-4891-a679-c24b23767d54",
+            "image": null,
+            "name": "The Daring Adventures of Captain Superlative",
+            "description": "The Daring Adventures of Captain Superlative is a children's book series that follows the exploits of a superhero with an emphasis on themes of friendship, courage, and the challenges of being a young hero.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Albert Whitman & Company"
+            }
+        },
+        {
+            "id": "44fcac13-c570-4edd-9c74-c67220d46a96",
+            "image": null,
+            "name": "Spectrum Watercolours",
+            "description": "Art Spectrum Spectrum Watercolours are high-quality watercolour paints designed for artists seeking vibrant colors and excellent pigment dispersion for various artistic applications.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Art Spectrum"
+            }
+        },
+        {
+            "id": "608dcdc6-5ab0-40d2-8578-3dff69f82e52",
+            "image": null,
+            "name": "Sole F85",
+            "description": "The Sole F85 is a premium folding treadmill designed for home use, featuring a powerful motor and advanced cushioning technology for a comfortable running experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "afeb7d11-4fdd-4cf5-bf34-ad69461f0bf0",
+            "image": null,
+            "name": "Simoniz Wheel Cleaner",
+            "description": "The Simoniz Wheel Cleaner is a specialized car care product designed to effectively remove brake dust, dirt, and grime from vehicle wheels, ensuring they maintain their shine and cleanliness.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Simoniz"
+            }
+        },
+        {
+            "id": "bee03172-5cc5-4321-b11c-51ba8ca58211",
+            "image": null,
+            "name": "Finish Kare 218",
+            "description": "Finish Kare 218 is a specialized line of car care products designed to enhance and protect automotive surfaces, ensuring a high-quality finish and longevity.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "c4d0ff1d-b5a7-4a5e-a72b-33149ac5c055",
+            "image": null,
+            "name": "Finish Kare 2685",
+            "description": "Finish Kare 2685 is a specialized product series designed for advanced car care, focusing on the enhancement of vehicle appearance and protection against environmental contaminants.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Finish Kare"
+            }
+        },
+        {
+            "id": "c7990147-cb37-4b31-bf7c-c4fb402b65f8",
+            "image": null,
+            "name": "Razer Naga V2 Pro",
+            "description": "The Razer Naga V2 Pro is a high-performance gaming mouse designed for MMORPG and MOBA players, featuring customizable buttons for advanced gameplay strategies.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "664b8b39-2d67-4298-b876-d3f5a3db14d9",
+            "image": null,
+            "name": "Triumph Thruxton R",
+            "description": "The Triumph Thruxton R is a modern classic motorcycle that blends retro styling with high-performance features, designed for enthusiasts seeking a thrilling riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "71f5d51e-77ad-450b-8859-045312fd5aa0",
+            "image": null,
+            "name": "Triumph T595",
+            "description": "The Triumph T595 is a sport motorcycle released in 2002, known for its distinctive style, powerful performance, and lightweight frame, designed to offer an exhilarating riding experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "7442c5db-2b19-44da-b2a3-65efe6c30193",
+            "image": null,
+            "name": "Lava Blaze 5G",
+            "description": "The Lava Blaze 5G is a mobile phone series released in 2022, designed to offer 5G connectivity and advanced features for users seeking a reliable smartphone experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "f688fc31-face-46be-a91a-2cffb792008b",
+            "image": null,
+            "name": "Fibaro Motion Sensor",
+            "description": "The Fibaro Motion Sensor is a smart home device that detects motion and temperature, enabling automation and enhanced security within residential environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Fibaro"
+            }
+        },
+        {
+            "id": "89fe1603-1e92-482d-9ead-1fefb6fa2155",
+            "image": null,
+            "name": "Fibaro Door/Window Sensor",
+            "description": "The Fibaro Door/Window Sensor is a smart home device designed to monitor the status of doors and windows, providing security and automation features.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Fibaro"
+            }
+        },
+        {
+            "id": "124508cf-03bf-4d74-8ceb-1ed6fc1a6c8f",
+            "image": null,
+            "name": "Fibaro Flood Sensor",
+            "description": "The Fibaro Flood Sensor is a smart home device designed to detect water leaks and prevent potential water damage. It features wireless connectivity and alerts users to any moisture presence.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Home Devices"
+            },
+            "brand_id": {
+                "name": "Fibaro"
+            }
+        },
+        {
+            "id": "8e1fe69f-dca9-4ada-a4bb-9432132a6ad3",
+            "image": null,
+            "name": "Moto G4 Plus",
+            "description": "The Moto G4 Plus is a smartphone from Motorola, released in 2016, that offers a balance of performance and value with features such as a large display, a capable camera, and a long-lasting battery.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "2e042774-6e35-4284-a386-873d58f522bb",
+            "image": null,
+            "name": "Moto Z Force",
+            "description": "The Motorola Moto Z Force is a smartphone that features a shatterproof display and modular capabilities, allowing users to enhance their device with additional functionality through interchangeable Moto Mods.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "07a1b476-a048-4762-a116-38a36262033f",
+            "image": null,
+            "name": "Moto G5",
+            "description": "The Motorola Moto G5 is a mid-range smartphone released in 2017, designed to provide a balance of performance, features, and affordability for everyday users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "2b541b7b-e680-48d2-8ff3-dc03e2378f22",
+            "image": null,
+            "name": "Nebula Capsule III Laser",
+            "description": "The Nebula Capsule III Laser is a compact, portable projector designed for high-quality video projection with laser technology, enabling an immersive viewing experience wherever you go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "a436b9f9-868e-462a-b5b3-a02e58794c1c",
+            "image": null,
+            "name": "Nebula Cosmos Laser",
+            "description": "The Nebula Cosmos Laser series is a line of advanced projectors designed for high-quality home entertainment, featuring laser projection technology for vibrant visuals and immersive viewing experiences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Projectors"
+            },
+            "brand_id": {
+                "name": "Nebula"
+            }
+        },
+        {
+            "id": "72d34aaf-9d11-4c1c-a318-7c895da889f8",
+            "image": null,
+            "name": "Fitbit Charge 2",
+            "description": "The Fitbit Charge 2 is a versatile fitness tracker designed to monitor health metrics such as heart rate, activity levels, and sleep patterns, helping users achieve their health and fitness goals.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "2c6a8977-9134-4532-8d3f-6259b8b1969a",
+            "image": null,
+            "name": "Fitbit Alta HR",
+            "description": "The Fitbit Alta HR is a health and fitness tracker designed to monitor heart rate and activity levels, providing users with insights to help meet their fitness goals.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "e6ebd55f-0102-4faa-96d9-da7886a82133",
+            "image": null,
+            "name": "Fitbit Versa 2",
+            "description": "Fitbit Versa 2 is a smartwatch designed to help users track their fitness, monitor health metrics, and receive smart notifications, all while providing a stylish design.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "3228feb3-bc44-42a6-a457-1c82eee86f56",
+            "image": null,
+            "name": "Fitbit Inspire 3",
+            "description": "The Fitbit Inspire 3 is a smart fitness tracker designed to help users monitor their activity, heart rate, and sleep patterns, encouraging a healthier lifestyle.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Fitbit"
+            }
+        },
+        {
+            "id": "5acaae0c-7166-41bf-bed0-18379e442a49",
+            "image": null,
+            "name": "Garmin Edge 820",
+            "description": "The Garmin Edge 820 is a compact cycling GPS device designed for cyclists seeking performance metrics and navigation features. It offers advanced training information, including VO2 max estimates and recovery advisor, while providing smart notifications to keep riders connected.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "38feba4c-66af-41a5-9139-765f9fd11031",
+            "image": null,
+            "name": "Lava A5",
+            "description": "The Lava A5 is a budget smartphone designed to provide essential smartphone features, catering primarily to cost-conscious consumers seeking reliable performance.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "401efc4b-348d-43e7-8b0f-62ab94702f51",
+            "image": null,
+            "name": "Lava Pixel V2",
+            "description": "The Lava Pixel V2 is a budget-friendly smartphone released in 2016, designed to offer essential smartphone functionalities with a focus on camera quality and user-friendly interface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "76ced3e4-94c8-4dff-8c80-338deb06c356",
+            "image": null,
+            "name": "Triumph Tiger Explorer XCa",
+            "description": "The Triumph Tiger Explorer XCa is a versatile adventure motorcycle designed for long-distance touring and off-road capabilities, featuring advanced technologies and comfort-oriented design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "7ba7480a-d23a-4d51-a4f0-5516e5e1972c",
+            "image": null,
+            "name": "Triumph Speed Four",
+            "description": "The Triumph Speed Four is a motorcycle known for its agile performance and distinctive styling, aimed at providing an exhilarating riding experience for enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "7f24c148-47ee-4347-8945-0954ba55d92b",
+            "image": null,
+            "name": "Lava Z62",
+            "description": "The Lava Z62 is a budget-friendly smartphone designed to provide essential features and functionality for everyday use, emphasizing simplicity and reliability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "bd784893-0b25-404d-8c1d-bc0ef18319eb",
+            "image": null,
+            "name": "Triumph Bonneville T100",
+            "description": "The Triumph Bonneville T100 is a classic motorcycle known for its retro styling and versatile performance, embodying the spirit of British motorcycling since its introduction.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "c7cae3ac-8a49-4408-9fb9-d4d8885b1b9f",
+            "image": null,
+            "name": "Nike Air Force 1",
+            "description": "The Nike Air Force 1 is a classic sneaker that combines stylish aesthetics with durable construction, designed for both casual wear and athletic performance. Originally launched in 1982, it remains a popular choice due to its iconic silhouette and comfort.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "9ebaba7c-65c9-48c9-b50a-5c995c70aed4",
+            "image": null,
+            "name": "Lava Z80",
+            "description": "The Lava Z80 is a smartphone series designed for budget-conscious consumers, featuring essential functionalities and a user-friendly experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "6b9e6e47-4f6b-403a-b7be-de1e24bf2713",
+            "image": null,
+            "name": "Penny 27",
+            "description": "The Penny 27 series is a compact skateboard designed for easy transportation and maneuverability, featuring a classic deck shape and a durable construction suitable for cruising and urban commuting.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Penny Skateboards"
+            }
+        },
+        {
+            "id": "02a0631d-c66b-4cff-80d1-f0c24d350290",
+            "image": null,
+            "name": "Moto Z",
+            "description": "The Motorola Moto Z series is a line of modular smartphones that allows users to attach various accessories to enhance functionality and customization. Released in 2016, these devices focused on offering a sleek design and versatile features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        }
+    ]
+}

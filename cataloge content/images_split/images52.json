@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "f0dcb24c-b648-494b-8186-34dd02fb58d0",
+            "image": null,
+            "name": "Dell Inspiron 17 5000 Series (5770)",
+            "description": "The Dell Inspiron 17 5000 Series (5770) is a versatile laptop designed for everyday use, offering a balance of performance and portability for users seeking productivity and entertainment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "5fb65d36-7a59-41d5-a79f-32cf04952a4a",
+            "image": null,
+            "name": "Mann-Filter W 1010",
+            "description": "The Mann-Filter W 1010 is a high-performance oil filter designed for efficient filtration and protection of the engine, ensuring optimal performance and longevity.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Mann-Filter"
+            }
+        },
+        {
+            "id": "6042f7cf-1e9f-4605-9655-7d74edabbe81",
+            "image": null,
+            "name": "Subaru Levorg",
+            "description": "The Subaru Levorg is a compact wagon designed for practicality and performance, combining everyday usability with sporty handling characteristics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ce5ad26f-a31a-4253-a865-9a5e85cfa33e",
+            "image": null,
+            "name": "Toyota RAV4 (2nd Generation)",
+            "description": "The Toyota RAV4 (2nd Generation) is a compact SUV that emphasizes versatility and compactness, making it suitable for both urban and off-road driving. Released in 2001, it features increased interior space and improved performance characteristics over its predecessor.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "c93df161-f0fc-406a-bd86-4a388f71aea9",
+            "image": null,
+            "name": "Oppo A9",
+            "description": "The Oppo A9 is a mid-range smartphone released in 2019, designed to provide a balanced performance with a large display and a robust battery life.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "6273cc5c-005a-41fa-bfc0-d01b0c898d56",
+            "image": null,
+            "name": "Dell Precision 15 (7510)",
+            "description": "The Dell Precision 15 (7510) is a mobile workstation designed for professionals who require powerful performance for demanding applications such as 3D modeling, video editing, and engineering simulations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "67e77017-7089-4795-bf96-d77b9635a452",
+            "image": null,
+            "name": "Modular Sofa Collection",
+            "description": "The Modular Sofa Collection by The Sofa Company features customizable seating arrangements designed for versatility and comfort, allowing users to create the perfect living space to suit their needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "The Sofa Company"
+            }
+        },
+        {
+            "id": "8c45a55b-c76c-43fe-982d-ef7f5bc53162",
+            "image": null,
+            "name": "Voce",
+            "description": "The Audison Voce series is designed for high-fidelity car audio systems, providing clarity and precision in sound reproduction. This series emphasizes advanced technology and superior build quality to enhance the in-car listening experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "9ed46b19-df70-451d-897e-da8b75aee7a0",
+            "image": null,
+            "name": "Maruti Suzuki A-Star",
+            "description": "The Maruti Suzuki A-Star is a compact hatchback car launched in 2008, designed for urban driving with a focus on fuel efficiency and maneuverability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "9f12c0a7-d8c0-4e3c-8f63-cb0c63e92675",
+            "image": null,
+            "name": "Audison VRX",
+            "description": "The Audison VRX series is a line of high-performance car audio amplifiers designed to deliver quality sound and enhance the listening experience in vehicles.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "b0b1eee1-5431-49ff-a52c-5d7342a9710e",
+            "image": null,
+            "name": "Galaxy Buds Pro",
+            "description": "The Samsung Galaxy Buds Pro are true wireless in-ear headphones designed to provide high-quality sound and active noise cancellation, enhancing the listening experience for music, calls, and more.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "005d0804-1eb2-40c3-89d3-e5378860883c",
+            "image": null,
+            "name": "Maruti Suzuki Swift (Second Generation)",
+            "description": "The Maruti Suzuki Swift (Second Generation) is a compact hatchback known for its stylish design, efficient performance, and spacious interior, primarily designed for urban commuting and everyday use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "3b158fa1-b278-40fa-98a1-022714ee0b6d",
+            "image": null,
+            "name": "Škoda Enyaq iV",
+            "description": "The Škoda Enyaq iV is an all-electric SUV that combines practicality with modern design, targeting environmentally conscious consumers seeking a spacious and technologically advanced vehicle.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "5a6f731b-2063-4320-8a55-8f307a2c5945",
+            "image": null,
+            "name": "Renault Megane",
+            "description": "The Renault Megane is a compact car designed to provide a balance of comfort, performance, and practicality. It is known for its stylish design and advanced safety features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "5b8d8a45-5043-472c-9f2f-f93f3d76a9f4",
+            "image": null,
+            "name": "Audi A6 (C5)",
+            "description": "The Audi A6 (C5) is a mid-size luxury sedan produced from 1997 to 2004, known for its blend of high performance, advanced technology, and sophisticated design.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "bd223c09-883a-4511-a7eb-7a0ddeffbea6",
+            "image": null,
+            "name": "Surface Pro 8",
+            "description": "The Microsoft Surface Pro 8 is a versatile 2-in-1 laptop designed for professionals and creatives, featuring a sleek design and powerful performance to support productivity and creativity on the go.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "c9d85af9-6925-4b6e-8be8-5d949f0b9c23",
+            "image": null,
+            "name": "Audi A4 (B6)",
+            "description": "The Audi A4 (B6) is a compact executive car that combines performance, luxury, and advanced technology. It was designed to offer a balance of comfort and efficiency, appealing to those seeking a premium driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "cc298177-e66a-49d5-97bb-bdbc67443a5a",
+            "image": null,
+            "name": "Toyota Vios",
+            "description": "The Toyota Vios is a compact sedan primarily designed for urban commuting, offering reliability, efficiency, and practicality for everyday use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "cc5f458e-1d72-4248-8e4d-1990f3846e41",
+            "image": null,
+            "name": "Maruti Suzuki Estilo",
+            "description": "The Maruti Suzuki Estilo is a compact car launched in 2008, designed for urban commuting with a focus on fuel efficiency and practical interior space.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "cfc3ea0a-b0a2-4c57-9c0c-dbec4a7aadfc",
+            "image": null,
+            "name": "Honda Insight (Second Generation)",
+            "description": "The Honda Insight (Second Generation) is a hybrid compact car designed to provide an efficient and eco-friendly driving experience while maintaining comfort and practicality for daily use.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d5314485-eb2e-4e57-a2c1-22585ed76412",
+            "image": null,
+            "name": "Lenovo ThinkPad X1 Carbon Gen 8",
+            "description": "The Lenovo ThinkPad X1 Carbon Gen 8 is a premium laptop designed for professionals who require a lightweight device with robust performance, featuring advanced security features and exceptional durability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "d785e453-f96e-41f8-9a95-d62b164a7cdd",
+            "image": null,
+            "name": "Honda Fit EV",
+            "description": "The Honda Fit EV is an all-electric subcompact car designed for urban commuting, offering zero emissions and an efficient driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "dce609da-a8eb-464b-9c95-9b66d1869132",
+            "image": null,
+            "name": "Meguiar's Mirror Glaze",
+            "description": "Meguiar's Mirror Glaze is a line of premium car care products designed for professional detailers and enthusiasts. It focuses on enhancing and maintaining the appearance of automotive surfaces to achieve a high-gloss finish.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "671998b9-3dba-48c9-b0ac-070240b50c09",
+            "image": null,
+            "name": "Meguiar's Ultimate Compound",
+            "description": "Meguiar's Ultimate Compound is a cutting-edge automotive polish designed to effectively remove imperfections, oxidations, and scratches from paint surfaces, restoring a high-gloss finish.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "90b6ef6e-9dbc-4f52-8da5-2c5e855293fb",
+            "image": null,
+            "name": "Meguiar's Ultimate Polish",
+            "description": "Meguiar's Ultimate Polish is a high-quality pre-wax cleaner designed to enhance the depth and clarity of the paint finish while eliminating light imperfections. It contributes to achieving a superior gloss and prepares the surface for wax application.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "934d270f-3d0e-424a-81e5-6e0df998592e",
+            "image": null,
+            "name": "Meguiar's Ultimate Wax",
+            "description": "Meguiar's Ultimate Wax is a premium car wax that provides long-lasting protection and a high-gloss shine to vehicle paint surfaces.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "974275df-19c5-4df1-9859-627dc3f6cae4",
+            "image": null,
+            "name": "Meguiar's Hybrid Solutions",
+            "description": "Meguiar's Hybrid Solutions is a series of advanced car care products launched in 2017, renowned for incorporating cutting-edge technology to deliver superior cleaning, protection, and shine for vehicles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "f60bdc29-674f-407b-a2a0-9d5a92cc6dee",
+            "image": null,
+            "name": "Meguiar's Ultimate Protectant",
+            "description": "Meguiar's Ultimate Protectant is designed to enhance and protect interior and exterior surfaces of vehicles, providing a non-greasy shine and UV protection.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "f7326438-3f3e-4cf7-a3ee-cd03a83f3bb5",
+            "image": null,
+            "name": "Meguiar's ScratchX",
+            "description": "Meguiar's ScratchX is a car care product designed to remove light to moderate surface scratches and imperfections from paint finishes, helping to restore the vehicle's appearance.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "98e70290-e801-473d-8d43-f7395fc73801",
+            "image": null,
+            "name": "Renault Logan",
+            "description": "The Renault Logan is a compact sedan developed by the French automaker Renault, primarily aimed at providing an affordable and practical transportation solution in emerging markets. Known for its spacious interior and robust build, it offers a reliable option for families and individuals seeking value in their vehicle choice.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "0d3e18f2-09e2-4a5f-91ab-3bbc6c4ccab6",
+            "image": null,
+            "name": "Redmi Note",
+            "description": "The Xiaomi Redmi Note series is a range of affordable smartphones designed to offer high performance, large displays, and strong battery life, catering to users who seek value and functionality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "4923a47f-fc40-4f10-8393-e590f20fe33e",
+            "image": null,
+            "name": "Huawei MatePad Pro 12.6",
+            "description": "The Huawei MatePad Pro 12.6 is a high-performance tablet designed for productivity, featuring a large display and multitasking capabilities, ideal for both work and entertainment.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "ff8e1832-b4a9-471b-acdc-3fd790868908",
+            "image": null,
+            "name": "Edelbrock Total Power Package",
+            "description": "The Edelbrock Total Power Package series consists of performance products designed to optimize the power output and efficiency of a vehicle's engine. Each package includes components such as intake manifolds, carburetors, and camshafts that work together to enhance overall engine performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "29fac4fc-50ce-48cb-ada3-882db07acbf0",
+            "image": null,
+            "name": "Edelbrock E-Street",
+            "description": "The Edelbrock E-Street series provides high-performance intake manifolds designed to enhance engine airflow and improve overall performance for street-driven vehicles.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "8f02301b-3457-4b23-90cd-b4177d1012aa",
+            "image": null,
+            "name": "Huawei Watch 3 Series",
+            "description": "The Huawei Watch 3 Series is a line of smartwatches designed to provide health monitoring, fitness tracking, and connectivity features, catering to both lifestyle and professional needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "f0a79e23-010b-413a-b36e-330faf38f4ea",
+            "image": null,
+            "name": "Edelbrock Performer RPM II",
+            "description": "The Edelbrock Performer RPM II series is designed to enhance the performance of small-block Chevy engines by providing improved airflow and increased horsepower, making it suitable for high-performance applications.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "77888063-bcc8-4d81-afda-edc96cc4ce95",
+            "image": null,
+            "name": "Edelbrock Pro-Flo 4",
+            "description": "The Edelbrock Pro-Flo 4 is a fuel management system designed to optimize performance for a variety of automotive engines, featuring advanced calibration and tuning options for improved horsepower and efficiency.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "97bc2143-3fbc-41a9-81a2-e8e40cf9059b",
+            "image": null,
+            "name": "Huawei MatePad",
+            "description": "The Huawei MatePad series is a range of tablets designed for efficient productivity and entertainment, featuring high-resolution displays and a lightweight design for portability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "7bb32957-a0f8-4a3c-ab05-f5ec5b92a4ab",
+            "image": null,
+            "name": "Edelbrock Performer Cylinder Heads",
+            "description": "The Edelbrock Performer Cylinder Heads are designed to enhance engine performance by improving airflow, enabling higher horsepower and torque outputs for street performance applications.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "93236745-27a6-4740-a543-5a3a39621c19",
+            "image": null,
+            "name": "Edelbrock Pro-Flo 4 EFI System",
+            "description": "The Edelbrock Pro-Flo 4 EFI System is an advanced electronic fuel injection system designed to enhance power, fuel efficiency, and overall performance in high-performance vehicles. It offers customizable tuning options for various applications, making it a versatile choice for automotive enthusiasts.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "0b5262a0-15cc-40e4-aac3-c6683ed46697",
+            "image": null,
+            "name": "AVS Ram Air System",
+            "description": "The Edelbrock AVS Ram Air System is designed to enhance the performance of automotive engines by providing improved airflow and increased horsepower. Its innovative design features a high-flow air cleaner and a unique hood scoop to optimize air intake.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "299f1eb3-ff78-44ab-9f67-f95d8b4e734e",
+            "image": null,
+            "name": "E-Street RPM Series",
+            "description": "The Edelbrock E-Street RPM Series consists of high-performance intake manifolds designed to optimize airflow and increase power in a range of street engines, enhancing overall engine efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "d14224b7-49af-4bc5-9b01-b17b7bbb9df0",
+            "image": null,
+            "name": "Pro-Flo 4 EFI Systems",
+            "description": "The Edelbrock Pro-Flo 4 EFI Systems are advanced fuel injection systems designed to deliver precise tuning and improved engine performance for various automotive applications.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        },
+        {
+            "id": "99effd1d-bc2f-4d3a-abe9-8f54a14580f5",
+            "image": null,
+            "name": "Mi MIX",
+            "description": "The Xiaomi Mi MIX series encompasses a line of smartphones known for their immersive display and innovative design, featuring a nearly bezel-less screen for an enhanced visual experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "acd4a34d-601b-4b9c-a469-cdcce43a1de2",
+            "image": null,
+            "name": "Genesis",
+            "description": "The Genesis series is a line of luxury vehicles that combines performance, technology, and comfort, aiming to provide a premium driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "e4abe4b0-add7-439a-bc3c-8f3503964ddc",
+            "image": null,
+            "name": "Redmi 4",
+            "description": "The Xiaomi Redmi 4 series comprises budget smartphones designed to offer essential features and performance at an affordable price point, making them accessible to a wide range of users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "192b7d56-436e-4819-9009-f180c884d877",
+            "image": null,
+            "name": "Mi Notebook Pro",
+            "description": "The Xiaomi Mi Notebook Pro is a line of high-performance laptops designed for professional users, featuring powerful hardware and a portable design suitable for work and entertainment.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "5bdf959a-41f4-47f7-93dd-61f842bb1c08",
+            "image": null,
+            "name": "G70",
+            "description": "The Genesis G70 is a luxury compact sedan that combines performance, design, and modern technology, offering an elevated driving experience for its users.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "563fcf01-c540-4e1b-9d4f-9bed140860a1",
+            "image": null,
+            "name": "Mi Band 2",
+            "description": "The Xiaomi Mi Band 2 is a fitness tracker that offers features such as heart rate monitoring, step counting, and sleep tracking, designed to help users maintain an active lifestyle.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "5809486d-1cab-411e-ab4a-b5b9a3a73f39",
+            "image": null,
+            "name": "G90",
+            "description": "The Genesis G90 is a luxury full-size sedan designed to provide a refined driving experience, combining advanced technology with premium materials for comfort and elegance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "ae6450d7-eb3b-48e4-b3d5-e4785e243825",
+            "image": null,
+            "name": "Genesis G80 Electrified",
+            "description": "The Genesis G80 Electrified is a luxury electric sedan that combines sophisticated design with advanced electric vehicle technology, emphasizing comfort and performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "5b2ac692-9333-4761-9acd-b8d008ede0bc",
+            "image": null,
+            "name": "Mi A2",
+            "description": "The Xiaomi Mi A2 is a smartphone designed as part of the Android One program, offering a pure Android experience with quality hardware and an emphasis on photography.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "9d2a76d6-bc5f-43f3-bfe2-76eb58634221",
+            "image": null,
+            "name": "Redmi Go",
+            "description": "The Xiaomi Redmi Go is an entry-level smartphone series released in 2018, designed to provide essential smartphone features at an affordable price, catering particularly to first-time smartphone users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "e911dab2-9f92-43e4-922d-c149f44b51f6",
+            "image": null,
+            "name": "Genesis G90 (2023 Model Year)",
+            "description": "The Genesis G90 (2023 Model Year) is a luxury full-size sedan designed to offer opulent comfort, advanced technology, and superior performance, catering to those seeking a refined driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "327021dc-9e8e-4ebc-aecb-88274d27d2fd",
+            "image": null,
+            "name": "Mi Pad 4",
+            "description": "The Xiaomi Mi Pad 4 is a compact tablet designed for entertainment and productivity, featuring a sleek design and powerful performance suitable for both casual users and professionals.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "95f0773c-3daf-4df6-8168-aef9ef427fb4",
+            "image": null,
+            "name": "Noble M500",
+            "description": "The Noble M500 is a high-performance sports car known for its lightweight construction and powerful engine designed for exhilarating driving experiences.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Noble Automotive"
+            }
+        },
+        {
+            "id": "96032dc2-94f9-4153-85a4-8bd4179f9b05",
+            "image": null,
+            "name": "Mi Mix 4",
+            "description": "The Xiaomi Mi Mix 4 is a high-end smartphone that features an innovative under-display camera technology, providing a fullscreen experience while maintaining high-quality photography.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "500aaa96-93b8-463e-809e-03728027b56b",
+            "image": null,
+            "name": "Redmi AirDots",
+            "description": "The Xiaomi Redmi AirDots are true wireless earbuds designed for convenient listening with Bluetooth connectivity, offering a lightweight design and decent audio quality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "81ec4aad-14c8-49f7-9fe5-fa16dc3af5fe",
+            "image": null,
+            "name": "Xiaomi Mi 10 Lite",
+            "description": "The Xiaomi Mi 10 Lite is a mid-range smartphone released in 2020, known for its balanced performance, 5G connectivity, and versatile camera system catering to users seeking both affordability and quality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "67bcb6f9-3883-4dfa-9836-a03851383348",
+            "image": null,
+            "name": "Xiaomi Mi Pad 5",
+            "description": "The Xiaomi Mi Pad 5 is a versatile tablet designed for productivity and entertainment, featuring a high-resolution display, powerful chipset, and support for various accessories.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "d9e2d5db-626b-4c24-9d5a-bc070cdbbd3b",
+            "image": null,
+            "name": "Mastercraft Courser AXT",
+            "description": "The Mastercraft Courser AXT is an all-terrain tire designed for light trucks and SUVs, offering a balanced performance in both on- and off-road conditions with enhanced traction and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "967a3415-34e9-47b7-8812-0502be908440",
+            "image": null,
+            "name": "Discoverer Endura",
+            "description": "The Cooper Tire Discoverer Endura is designed for on-road and light off-road driving, providing durability and comfort across various terrains.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "19126cea-85aa-4336-8423-443972c64070",
+            "image": null,
+            "name": "Discoverer AT3 4S",
+            "description": "The Cooper Tire Discoverer AT3 4S is an all-terrain tire designed to provide durability, versatility, and year-round traction in various weather conditions, making it suitable for both on-road and off-road adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "0d13eb1f-fb2a-44a4-9147-57cf6e0d78b4",
+            "image": null,
+            "name": "OMEN Gaming Hub",
+            "description": "The OMEN Gaming Hub series includes high-performance laptops designed for gamers, featuring powerful processors and graphics to enhance gaming experiences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "9e7ef4d0-c91f-40f9-983a-7785c50ef289",
+            "image": null,
+            "name": "Schenker XMG PRO",
+            "description": "The Schenker XMG PRO series consists of high-performance laptops designed for gaming and professional applications, offering customizable configurations to meet the needs of power users.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "e5b74dfc-292e-4b10-aa57-0be1a18aab63",
+            "image": null,
+            "name": "Schenker XMG A707",
+            "description": "The Schenker XMG A707 is a high-performance gaming laptop designed to deliver powerful graphics and processing capabilities for immersive gameplay and demanding applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "26b28570-0808-493e-bfc3-be009b65f1ae",
+            "image": null,
+            "name": "Schenker XMG UHD",
+            "description": "The Schenker XMG UHD series is designed for high-performance computing, offering powerful processing capabilities and advanced graphical performance for demanding tasks such as gaming, content creation, and professional applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "345d286b-3936-4615-84f1-d2d20ec63062",
+            "image": null,
+            "name": "Schenker XMG Apex 15",
+            "description": "The Schenker XMG Apex 15 is a high-performance gaming laptop designed for gamers seeking powerful graphics capabilities and efficient thermal management, providing a balance of innovative technology and user-friendly design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "a6ee14cb-43d0-46e7-b594-d3eb500c0b1b",
+            "image": null,
+            "name": "Schenker XMG Neo 15",
+            "description": "The Schenker XMG Neo 15 is a high-performance gaming laptop series designed for gamers and professionals who require powerful hardware and customizable features for intensive tasks.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "d7868e22-0173-411b-8472-6b1d64f1dd3e",
+            "image": null,
+            "name": "Schenker XMG FUSION",
+            "description": "The Schenker XMG FUSION series consists of high-performance laptops designed for gaming and demanding applications, offering customizable hardware configurations to meet various user needs.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "71b4ba87-d416-47be-bddc-13daa0f7bd31",
+            "image": null,
+            "name": "Schenker Vision 14",
+            "description": "The Schenker Vision 14 is a lightweight, portable laptop designed for users seeking a balance of performance and mobility, featuring high-quality build and modern components tailored for productivity and everyday tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "f67803ef-bdaf-4acf-8e93-db82fa22fb1c",
+            "image": null,
+            "name": "Schenker XMG AERO 15",
+            "description": "The Schenker XMG AERO 15 series is a lineup of high-performance gaming laptops designed for gamers and content creators, featuring powerful hardware and a lightweight chassis for enhanced portability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "57ea6dbb-3339-4c9c-94b3-9d0688370be8",
+            "image": null,
+            "name": "Honor 6X",
+            "description": "The Honor 6X is a smartphone released in 2016, designed to offer a balance of performance and affordability with its dual-camera system and sleek design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "c8b0dbe6-f503-40ce-87a5-bb42ca62c8ab",
+            "image": null,
+            "name": "Honor V10",
+            "description": "The Honor V10 is a smartphone designed to deliver high performance and advanced features, targeting users who seek powerful multitasking capabilities and a premium user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "480eb809-9f66-4fce-998e-231142291659",
+            "image": null,
+            "name": "Honor 10",
+            "description": "The Honor 10 is a smartphone that combines advanced photography capabilities with a sleek design, catering to users seeking high performance and stylish aesthetics.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "238c3226-f961-4639-a84f-56873dc5570f",
+            "image": null,
+            "name": "Honor Play",
+            "description": "The Honor Play is a smartphone series launched in 2018, designed for gaming enthusiasts with a focus on performance and enhanced user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "a921d850-d4cb-4d45-8f0d-6949710eca03",
+            "image": null,
+            "name": "Honor View 10",
+            "description": "The Honor View 10 is a smartphone released in 2018, designed to offer high performance, AI capabilities, and a dual-camera system for enhanced photography experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "27fa0c92-3a9f-4135-b959-9c261e905113",
+            "image": null,
+            "name": "Honor 20",
+            "description": "The Honor 20 series is a line of smartphones released in 2019, known for its advanced camera capabilities and sleek design, catering to users seeking a balance of performance and style.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "d5d0f5f3-eac4-44e4-b94c-c9c1b4747589",
+            "image": null,
+            "name": "Honor V20",
+            "description": "The Honor V20 is a smartphone released in 2019, known for its innovative design featuring a punch-hole display and a strong emphasis on high-performance specifications.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "448fc441-3851-4406-98a1-2d2a85ca3d47",
+            "image": null,
+            "name": "Honor 30",
+            "description": "The Honor 30 series comprises smartphones designed to deliver advanced photography capabilities and high-performance specifications, catering to users seeking a balance of functionality and style.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "43952980-48a4-46cc-8867-5ccb26513e87",
+            "image": null,
+            "name": "Honor X10",
+            "description": "The Honor X10 is a mid-range smartphone series released in 2020, designed to offer a balance of performance and affordability with features suitable for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "ac042a82-27cc-4d27-8f39-9ce135a2de34",
+            "image": null,
+            "name": "Honor V30",
+            "description": "The Honor V30 series is a line of smartphones designed to offer high-performance capabilities and advanced photography features, catering to tech-savvy users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "a651c25d-9ab5-4824-a8d5-531b2c062d22",
+            "image": null,
+            "name": "Honor 50",
+            "description": "The Honor 50 series is a line of smartphones launched in 2021, designed to provide stylish design and advanced camera capabilities for photography enthusiasts.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "1406eb0d-ec07-4d4e-a810-8be99a6e1f93",
+            "image": null,
+            "name": "Honor 50 SE",
+            "description": "The Honor 50 SE is a smartphone launched in 2021, known for its balanced performance and camera capabilities, aimed at delivering an affordable yet premium user experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "8bee8360-d0b9-4ac8-9edb-670637d2b608",
+            "image": null,
+            "name": "Honor Magic 4 Pro",
+            "description": "The Honor Magic 4 Pro is a premium smartphone released in 2022, designed to offer advanced performance, innovative camera technology, and a sleek design for users seeking a sophisticated mobile experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Honor"
+            }
+        },
+        {
+            "id": "3510eab7-be67-40a6-83e5-f8cc81ee2706",
+            "image": null,
+            "name": "AMD Ryzen 2000 Series",
+            "description": "The AMD Ryzen 2000 Series is a line of desktop processors designed for high-performance computing, offering advanced multi-threading capabilities and enhanced power efficiency for gamers and creative professionals.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "PC Components"
+            },
+            "brand_id": {
+                "name": "AMD"
+            }
+        },
+        {
+            "id": "80f711fa-7418-4351-aeb5-c3d2a14695aa",
+            "image": null,
+            "name": "Rugged Trail",
+            "description": "The Cooper Tire Rugged Trail series is designed for all-terrain driving, featuring a durable construction that provides excellent traction in diverse environments, including off-road conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Cooper Tire"
+            }
+        },
+        {
+            "id": "18f9a6e0-af76-4fe4-bdf7-da8c262ad0f0",
+            "image": null,
+            "name": "Advanta",
+            "description": "The Sumitomo Tire Advanta series is designed to provide reliable performance and durability for various driving conditions, enhancing vehicle safety and handling.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "03e315c6-7151-4214-a7bc-66ced5ff2fd1",
+            "image": null,
+            "name": "Sumitomo HTR Z III",
+            "description": "The Sumitomo HTR Z III is a high-performance tire designed for sports cars and performance vehicles, offering enhanced handling and stability at high speeds.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "ee8d09a0-afbb-4872-8219-ccd057ae1eb9",
+            "image": null,
+            "name": "Sumitomo Avid Envigor",
+            "description": "The Sumitomo Avid Envigor is a high-performance all-season tire designed to provide enhanced grip, stability, and longevity in various driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        }
+    ]
+}

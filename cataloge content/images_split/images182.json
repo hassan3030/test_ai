@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "497e800e-eaef-4fee-a3d9-56a0d209c27f",
+            "image": null,
+            "name": "Chevrolet Tahoe (GMT900)",
+            "description": "The Chevrolet Tahoe (GMT900) is a full-size SUV known for its spacious interior, powerful engine options, and strong towing capabilities, making it ideal for both family transport and off-road adventures.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "86780a33-e75e-4963-b231-b6fdb582a986",
+            "image": null,
+            "name": "Airaid Cold Air Dam (CAD) System",
+            "description": "The Airaid Cold Air Dam (CAD) System is designed to improve engine performance by allowing cooler air to enter the engine, enhancing efficiency and horsepower.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Airaid"
+            }
+        },
+        {
+            "id": "d3af38b9-434d-45ed-be2b-cf3d5c937cfb",
+            "image": null,
+            "name": "TeraFlex Jeep Lift Kits",
+            "description": "TeraFlex Jeep Lift Kits are designed to enhance the off-road performance of Jeep vehicles by increasing ground clearance and suspension travel, providing better handling and capability on rugged terrain.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "TeraFlex"
+            }
+        },
+        {
+            "id": "0c3a4977-f11b-40fb-b98c-fa2bcc76d031",
+            "image": null,
+            "name": "iPhone 13",
+            "description": "The Apple iPhone 13 series includes smartphones that feature advanced camera systems, powerful processors, and improved battery life, aimed at providing a seamless user experience in everyday tasks and mobile photography.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "0c3f6db1-3462-416d-a109-82679aaf9b22",
+            "image": null,
+            "name": "Hybrid",
+            "description": "The Morel Hybrid series includes high-performance car audio speakers designed to deliver exceptional sound quality and clarity while minimizing distortion.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Morel"
+            }
+        },
+        {
+            "id": "0d158002-3a59-4b10-9aa0-e5791f5584b8",
+            "image": null,
+            "name": "Kiwami",
+            "description": "The Soft99 Kiwami series offers a range of premium car care products designed to provide effective cleaning, protection, and enhancement for vehicle surfaces. Known for their high-quality formulations, these products help maintain and restore the appearance of cars.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Soft99"
+            }
+        },
+        {
+            "id": "0d72a86c-fe8e-430b-8a58-23a95b248b25",
+            "image": null,
+            "name": "Jeep Compass",
+            "description": "The Jeep Compass is a compact SUV designed to offer versatility and off-road capability, making it suitable for both urban and outdoor environments.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "0d9a6e96-c3fd-4f0a-9be7-d2c886ecf96b",
+            "image": null,
+            "name": "Open Country A/T",
+            "description": "The Toyo Open Country A/T is an all-terrain tire designed for both on- and off-road driving, providing enhanced traction and durability in various conditions, making it suitable for SUVs and light trucks.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "0f250fa9-0de8-4b31-8a49-82e780917c37",
+            "image": null,
+            "name": "Mercedes-Benz R320",
+            "description": "The Mercedes-Benz R320 is a luxury mid-size SUV that combines the attributes of a minivan with the capabilities of an all-wheel-drive vehicle, offering spacious seating and advanced safety features for families.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "0f2dc9c2-7cfb-45be-b561-583167515dce",
+            "image": null,
+            "name": "Changan ZhiDou",
+            "description": "The Changan ZhiDou is a series of compact electric vehicles introduced by Changan Automobile in 2009, designed primarily for urban mobility with a focus on efficiency and affordability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Changan Automobile"
+            }
+        },
+        {
+            "id": "11b41cbf-73e5-4e67-861b-dd758f0cc218",
+            "image": null,
+            "name": "Lava Iris 51",
+            "description": "The Lava Iris 51 is a budget smartphone released in 2018, known for its user-friendly interface and essential features suitable for everyday use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "127182e0-f3ae-48ed-b76c-dbe09fb3b84f",
+            "image": null,
+            "name": "Cuisinart Mini-Prep Plus Processor",
+            "description": "The Cuisinart Mini-Prep Plus Processor is a compact food processor designed for chopping, grinding, and mixing small quantities of ingredients efficiently, making it an ideal tool for quick meal preparation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "1287bae1-78f9-4032-8f59-dced117038d1",
+            "image": null,
+            "name": "Maruti Suzuki Wagon R (New Generation)",
+            "description": "The Maruti Suzuki Wagon R (New Generation) is a compact hatchback designed to provide functionality, comfort, and efficiency for urban driving. It features modern styling and a spacious interior, making it an ideal choice for families and daily commuters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "128dfda8-bbe6-423c-9385-5f6834036afd",
+            "image": null,
+            "name": "Xbox Wireless Controller - Design Lab",
+            "description": "The Xbox Wireless Controller - Design Lab allows users to customize their own Xbox controllers with a variety of color options and unique designs, enhancing the gaming experience through personalization and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Controllers"
+            },
+            "brand_id": {
+                "name": "Xbox"
+            }
+        },
+        {
+            "id": "c3393933-3429-4854-8fcc-d3006ab169c5",
+            "image": null,
+            "name": "Acton II",
+            "description": "The Marshall Acton II is a compact Bluetooth speaker designed to deliver high-quality sound in a stylish design. It combines classic Marshall aesthetics with modern technology for music lovers on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "69a5b6af-ba2e-4f7d-80c9-0ec958955612",
+            "image": null,
+            "name": "Woburn II",
+            "description": "The Marshall Woburn II is a high-performance Bluetooth speaker designed to deliver powerful sound and deep bass for music lovers, combining modern technology with a classic design aesthetic.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "f464f939-89f7-4113-b193-418364e31369",
+            "image": null,
+            "name": "Kilburn II",
+            "description": "The Marshall Kilburn II is a portable Bluetooth speaker designed for high-performance audio playback with a classic design. It offers a robust sound profile and extended battery life, catering to music enthusiasts on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "2b4dec19-0005-428b-b18c-adf1afb9670b",
+            "image": null,
+            "name": "Marshall Origin",
+            "description": "The Marshall Origin series features a line of tube amplifiers designed for versatility, offering a range of sounds suitable for various musical styles while maintaining the signature Marshall tone.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "3f7f100b-f095-45f5-9584-1f17e6d165c3",
+            "image": null,
+            "name": "Marshall Studio Vintage",
+            "description": "The Marshall Studio Vintage series consists of high-quality guitar amplifiers that combine classic Marshall tones with modern features for versatile performance in various musical settings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "23e702ef-91fe-4b82-92a6-a1b2fb7f62d5",
+            "image": null,
+            "name": "Marshall JVM Series",
+            "description": "The Marshall JVM Series is a line of digital and valve guitar amplifiers designed for versatile tonal options and exceptional sound quality, catering to both live performances and studio recordings.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Marshall"
+            }
+        },
+        {
+            "id": "367d62f0-5e0d-4e60-93f9-d5f9c96325f1",
+            "image": null,
+            "name": "Westerly Collection",
+            "description": "The Guild Westerly Collection features a range of acoustic guitars known for their craftsmanship, traditional design, and rich tonal quality, making them suitable for various musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "f497068c-2e60-40f6-85f6-6e4ffa0068fa",
+            "image": null,
+            "name": "USA Traditional Series",
+            "description": "The Guild USA Traditional Series is known for its craftsmanship, featuring solid woods and classic designs aimed at providing musicians with high-quality, American-made instruments suitable for various musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "6bccb8c2-e5a1-40e2-9383-e25a3d78728c",
+            "image": null,
+            "name": "Starfire II",
+            "description": "The Guild Starfire II is a versatile hollow-body electric guitar known for its rich tonal qualities and classic design, making it suitable for various music genres.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "bdf6de0a-f6c0-4f08-be2b-7d5e30843f0c",
+            "image": null,
+            "name": "F-40",
+            "description": "The Guild F-40 is a high-quality acoustic guitar series known for its rich sound, comfortable playability, and elegant design, aimed at both performing musicians and dedicated hobbyists.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "6d7d218f-4292-489a-8ed2-33d7722a8da1",
+            "image": null,
+            "name": "Starfire",
+            "description": "The Guild Starfire series consists of semi-hollow electric guitars known for their rich tone and versatile playability, making them suitable for various musical genres.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "6dfae8b8-7165-4715-935c-68e3b2d942a4",
+            "image": null,
+            "name": "Cort F Series",
+            "description": "The Cort F Series is a collection of acoustic guitars designed for players seeking excellent sound quality and playability. Its features include a well-balanced tone and comfortable neck, making it suitable for both beginners and experienced musicians.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "c3b69e18-183e-49d8-a2c2-c81c3b372ea7",
+            "image": null,
+            "name": "Cort X Series",
+            "description": "The Cort X Series is designed to provide exceptional performance for guitarists, featuring a combination of modern design elements and high-quality craftsmanship.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "c692dfa5-d60e-4387-bd8d-6fb748953596",
+            "image": null,
+            "name": "Cort Action Series",
+            "description": "The Cort Action Series is a range of electric bass guitars designed for both beginners and experienced players, known for their solid build and great sound quality.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "96c69aab-b929-4547-85d7-273cf9803b0d",
+            "image": null,
+            "name": "Cort Gold",
+            "description": "The Cort Gold series is a line of high-quality acoustic guitars designed for professional musicians, emphasizing premium materials and craftsmanship for superior sound and playability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "5f0fe5f1-a622-4f3d-b869-de445156d2f7",
+            "image": null,
+            "name": "Cort Action",
+            "description": "The Cort Action series offers a range of affordable electric bass guitars designed for players of all levels, emphasizing comfort, playability, and tonal versatility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        }
+    ]
+}

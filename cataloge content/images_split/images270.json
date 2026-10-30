@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "813f63af-0059-463c-be25-23674eca9847",
+            "image": null,
+            "name": "The Jumbies",
+            "description": "The Jumbies series by Albert Whitman & Company explores Caribbean folklore through engaging stories aimed at children, encouraging a love of reading while celebrating cultural heritage.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Albert Whitman & Company"
+            }
+        },
+        {
+            "id": "cfd6f90a-b687-4cf9-bc1f-90716ac2b59a",
+            "image": null,
+            "name": "Meguiar's Ultimate Quik Wax",
+            "description": "Meguiar's Ultimate Quik Wax is a spray wax designed to provide a high-gloss shine while adding protection to your vehicle's paint. It is quick and easy to use, making it a convenient option for maintaining a freshly waxed appearance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "44158b0d-fe28-458f-900d-691d57965c81",
+            "image": null,
+            "name": "Sole E25",
+            "description": "The Sole E25 is an elliptical trainer designed to provide a low-impact cardiovascular workout, featuring an adjustable incline and a range of resistance levels for users of all fitness levels.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "9681f651-43c6-491d-afce-dfdfb95993dd",
+            "image": null,
+            "name": "Meguiar's Ultimate Hybrid Ceramic Wax",
+            "description": "Meguiar's Ultimate Hybrid Ceramic Wax is a car care product designed to provide durable protection and enhance the shine of your vehicle's paintwork. It combines traditional carnauba wax with advanced synthetic technology for optimal performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "ac9efcfc-b1a3-409c-90c6-235c2a5bd1fe",
+            "image": null,
+            "name": "Bumbo Floor Seat",
+            "description": "The Bumbo Floor Seat is designed to provide a safe and comfortable seating option for infants who can hold their heads up unassisted. It promotes good posture while allowing babies to sit upright and engage with their surroundings.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Bumbo"
+            }
+        },
+        {
+            "id": "7c43a96f-5b8c-47dc-b744-f0d7ac06bbc6",
+            "image": null,
+            "name": "Baby Jogger City Select 2",
+            "description": "The Baby Jogger City Select 2 is a versatile stroller designed for growing families, offering multiple seating configurations to accommodate one or two children with ease.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "eab49a70-d966-41c8-b731-482cc1113a1a",
+            "image": null,
+            "name": "Klymit Pillow X",
+            "description": "The Klymit Pillow X is a lightweight, portable camping pillow designed to provide comfort and support during outdoor activities. It features a unique design that allows for easy inflation and deflation, making it ideal for backpacking and camping adventures.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "7f219f20-8ae1-4b30-9736-c00bee7407eb",
+            "image": null,
+            "name": "Agera S",
+            "description": "The Agera S is a high-performance sports car designed and manufactured by Koenigsegg. Known for its cutting-edge technology, exceptional speed, and lightweight construction, the Agera S exemplifies the brand's commitment to engineering excellence and innovation.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "6422e219-1d2b-4b08-8925-fdd019ea0ba9",
+            "image": null,
+            "name": "Sole E35",
+            "description": "The Sole E35 is an elliptical trainer designed for home use, offering a smooth, low-impact workout experience with adjustable incline and resistance settings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "fa7f46be-d54e-4f37-9761-76ac729f2c79",
+            "image": null,
+            "name": "Meguiar's G19116 Ultimate Liquid Wax",
+            "description": "Meguiar's G19116 Ultimate Liquid Wax is a premium car wax designed to provide a long-lasting protective layer with a high-gloss finish. It is specifically formulated to enhance the color and depth of the vehicle's paint while offering excellent durability against environmental contaminants.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "6e9c6a00-d824-459f-833c-8d159a873470",
+            "image": null,
+            "name": "Gourmia Digital Air Fryer",
+            "description": "The Gourmia Digital Air Fryer is a kitchen appliance designed for healthier cooking by using rapid air technology to fry, bake, roast, and grill with little to no oil.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Gourmia"
+            }
+        },
+        {
+            "id": "f7f73473-8dc3-4572-9ef2-409fccd5b42e",
+            "image": null,
+            "name": "V10",
+            "description": "The Veja V10 series is a line of environmentally-friendly sneakers that emphasize sustainable materials and social responsibility, launched in 2016.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "fd53b3db-c237-4ab3-9689-e2685606ee2a",
+            "image": null,
+            "name": "Sole SB700",
+            "description": "The Sole SB700 is a state-of-the-art stationary bike designed for home use, offering a smooth and quiet ride with adjustable resistance and a user-friendly interface to help users achieve their fitness goals.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Sole Fitness"
+            }
+        },
+        {
+            "id": "40f39bea-09a7-4300-b68c-987afd18b665",
+            "image": null,
+            "name": "Klymit V2 Sleeping Pad",
+            "description": "The Klymit V2 Sleeping Pad is a lightweight and compact inflatable sleeping pad designed for backpackers and campers seeking comfort and insulation during their outdoor adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Klymit"
+            }
+        },
+        {
+            "id": "1a297e91-94f8-44d2-810b-a73f2cad3b14",
+            "image": null,
+            "name": "V-LOCK",
+            "description": "The Veja V-LOCK series is a line of sustainable sneakers designed to offer a stylish and eco-friendly footwear option. Made with organic materials, the V-LOCK combines contemporary design with a commitment to environmental responsibility.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Veja"
+            }
+        },
+        {
+            "id": "c79161e4-9db4-4599-8497-690ae05be122",
+            "image": null,
+            "name": "Recaro Kio",
+            "description": "The Recaro Kio is a baby seat designed to provide safety, comfort, and ease of use for infants during car travel. Its lightweight design and adjustable features make it a practical choice for parents on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Recaro"
+            }
+        },
+        {
+            "id": "eec0f587-6aa7-44dd-9d7a-882c4ebd99bd",
+            "image": null,
+            "name": "Husqvarna SMS",
+            "description": "The Husqvarna SMS series represents a line of off-road motorcycles designed for versatile performance, offering superior handling and agility on a variety of terrains.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "d8933a4b-7134-4c2f-9f43-7b11940d1b25",
+            "image": null,
+            "name": "Lamborghini Murciélago LP 650-4 Roadster",
+            "description": "The Lamborghini Murciélago LP 650-4 Roadster is a high-performance convertible sports car, known for its powerful V12 engine, distinctive design, and advanced aerodynamics.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "2fd97639-cc48-40e8-b19c-f42eb9070b94",
+            "image": null,
+            "name": "Mega Construx Call of Duty",
+            "description": "The Mega Construx Call of Duty series by Mattel allows fans to build and recreate their favorite scenes from the popular video game franchise using customizable building blocks. This series emphasizes playability and creative expression through detailed mini-figures and adaptable environments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Mattel"
+            }
+        },
+        {
+            "id": "213b3903-530a-42d9-b64f-957061857599",
+            "image": null,
+            "name": "Meguiar's Ultimate Hybrid Ceramic Line",
+            "description": "The Meguiar's Ultimate Hybrid Ceramic Line is a series of advanced car care products designed to provide superior protection and shine using hybrid technology that combines the durability of ceramic with the ease of use of traditional waxes.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "a8722d56-895a-4b9b-9445-4b669e67b3f1",
+            "image": null,
+            "name": "Suzuki Swift",
+            "description": "The Suzuki Swift is a compact car produced by Maruti Suzuki Arena since 2003, known for its sporty design, fuel efficiency, and agile handling, making it a popular choice for urban driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "ed639ada-ed25-4d65-a969-b13ec8562e20",
+            "image": null,
+            "name": "Honda Accord (10th Generation)",
+            "description": "The Honda Accord (10th Generation) is a midsize sedan known for its reliability, spacious interior, and advanced safety features, primarily designed to offer a comfortable and efficient driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ab3376f9-c199-46ad-8283-020932fa32f6",
+            "image": null,
+            "name": "Hori Switch Pad Pro",
+            "description": "The Hori Switch Pad Pro is a third-party controller designed for the Nintendo Switch, offering enhanced ergonomics and customizable features for a more comfortable gaming experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": {
+                "name": "Hori"
+            }
+        },
+        {
+            "id": "4469a7f8-52dd-43e3-818e-bb775439e3b9",
+            "image": null,
+            "name": "Outwell Earth 5",
+            "description": "The Outwell Earth 5 is a spacious family tent designed for camping enthusiasts, offering durability and weather resistance, making it suitable for various outdoor conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Outwell"
+            }
+        },
+        {
+            "id": "370ef702-5bbb-4d5d-ad03-db537cf56d29",
+            "image": null,
+            "name": "Honda Civic Type R",
+            "description": "The Honda Civic Type R is a high-performance hatchback known for its sporty handling, powerful engine, and aggressive styling, designed for enthusiasts who seek an engaging driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e309d714-5811-48fa-9819-1da994699d6f",
+            "image": null,
+            "name": "Talon",
+            "description": "The Falcon Northwest Talon series is a line of high-performance gaming PCs designed to deliver exceptional graphics and processing power for an immersive gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Falcon Northwest"
+            }
+        },
+        {
+            "id": "fb063df7-f982-4859-a8f1-efa521dfca53",
+            "image": null,
+            "name": "Lamborghini Urus Performante",
+            "description": "The Lamborghini Urus Performante is a high-performance luxury SUV that combines exceptional power, advanced technology, and distinctive styling, designed for both on-road and off-road capabilities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "3cb2bce6-daae-479c-b9a0-1dd27801de19",
+            "image": null,
+            "name": "The One",
+            "description": "The Phoenix Gold The One series is designed for car audio enthusiasts seeking high-quality sound reproduction and powerful bass. With an emphasis on performance and reliability, this series aims to enhance the in-car listening experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Phoenix Gold"
+            }
+        },
+        {
+            "id": "2fe8de22-2d92-47b0-8242-ab4dc2679a86",
+            "image": null,
+            "name": "Pinypon Fiesta",
+            "description": "Pinypon Fiesta is a playful toy series featuring colorful characters and accessories that encourage children's creativity and imaginative play. Designed for kids, the series focuses on fun themes and social interactions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Pinypon"
+            }
+        },
+        {
+            "id": "ce70e04f-6f88-4b44-b436-0713f1f87d19",
+            "image": null,
+            "name": "Opel Vectra (B)",
+            "description": "The Opel Vectra (B) is a mid-size family car produced by Opel, known for its comfortable ride and practical design, aimed at providing reliable transportation for everyday use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        }
+    ]
+}

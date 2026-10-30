@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "0e5be150-c7be-4dfe-8ff0-d814469b7b71",
+            "image": null,
+            "name": "Tony Hawk's Signature Series Skateboards",
+            "description": "The Tony Hawk's Signature Series Skateboards are a collection of high-quality skateboards designed for both beginner and advanced skaters, featuring unique graphics and durable construction inspired by the legendary skateboarder Tony Hawk.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Tony Hawk"
+            }
+        },
+        {
+            "id": "0551e7b5-e859-4789-b098-379e24dd7377",
+            "image": null,
+            "name": "Blind 2016 Complete Skateboards",
+            "description": "The Blind 2016 Complete Skateboards series offers pre-assembled skateboards designed for skaters of all levels, featuring durable materials and striking graphics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Blind"
+            }
+        },
+        {
+            "id": "94449d6a-1f14-4827-88da-05a76093dfa3",
+            "image": null,
+            "name": "Blind Pro Series",
+            "description": "The Blind Pro Series features high-performance skateboards designed for street and ramp skating, emphasizing durability and style for professional skaters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Blind"
+            }
+        },
+        {
+            "id": "f10605c8-37f9-4f9f-8d04-1d3f88d32533",
+            "image": null,
+            "name": "Baker Logo Series",
+            "description": "The Baker Logo Series features a collection of skateboards that showcase the iconic Baker brand logo, designed for durability and performance in street and park skating.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "b5486c34-bfc9-41d7-8279-12ac18358aa6",
+            "image": null,
+            "name": "Baker Skateboards x Toy Machine",
+            "description": "The Baker Skateboards x Toy Machine series features unique skateboard decks that combine the distinct artistic styles of both brands, designed for durability and performance for skateboard enthusiasts.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "1580cbeb-db4b-429f-a01a-f99f3622bc77",
+            "image": null,
+            "name": "Baker Skateboards 2021 Decks",
+            "description": "The Baker Skateboards 2021 Decks are a collection of high-quality skateboards designed for street and park skating, featuring durable constructions and unique artwork.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "b87bedbf-ff4f-4961-9aa5-6b4d55cc3e73",
+            "image": null,
+            "name": "Enjoi The Sooner Ripper",
+            "description": "Enjoi The Sooner Ripper is a skateboard series designed for riders seeking a blend of style and performance, featuring a durable construction and eye-catching graphics.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "b6b86ee5-fbec-4bae-8b75-305af67c47a0",
+            "image": null,
+            "name": "Enjoi White Fang",
+            "description": "The Enjoi White Fang series features durable skateboards designed for street and park skating, combining performance and style.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "e89dbb11-bb1d-4f15-9ffd-32fe5b77cb98",
+            "image": null,
+            "name": "Enjoi Skateboards",
+            "description": "Enjoi Skateboards offers a range of skateboards designed for durability and performance, catering to skaters of all skill levels.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "5b00cb4a-6db2-4b3e-9c2e-a54102c46bb3",
+            "image": null,
+            "name": "Enjoi Happy Panda",
+            "description": "The Enjoi Happy Panda series features a collection of skateboards known for their durable construction and playful graphics, designed for skaters of all levels seeking performance and style.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "8684b4ea-4fb0-4794-b590-af017646830f",
+            "image": null,
+            "name": "Enjoi Team Series",
+            "description": "The Enjoi Team Series skateboards are designed for skaters of all levels, featuring durable construction and graphics representing the Enjoi team. They focus on performance and style, making them ideal for both street skating and park riding.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "0903b548-8115-44bc-89c1-4d68edf5590c",
+            "image": null,
+            "name": "Enjoi 2021 Skateboard Decks",
+            "description": "The Enjoi 2021 Skateboard Decks are a collection of high-quality skateboard decks designed for durability and performance, suitable for skaters of all levels.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Enjoi"
+            }
+        },
+        {
+            "id": "cd0305bb-7792-44f5-999b-4e7c9a6e50c1",
+            "image": null,
+            "name": "Krooked Skateboards",
+            "description": "Krooked Skateboards is a series of skateboards designed for street and vert skating, known for their unique graphic designs and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "bb48c80a-64b2-4b90-a937-4d4d0c4681d8",
+            "image": null,
+            "name": "Krooked Skateboards 2019 Collection",
+            "description": "The Krooked Skateboards 2019 Collection features a variety of skateboards designed for durability and performance, catering to both street and park skating enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "78e18f17-af9b-493f-81b4-22c0807af762",
+            "image": null,
+            "name": "Krooked Skates",
+            "description": "Krooked Skates is a skateboard series launched by the brand Krooked in 2020, designed for street and park skating, characterized by their unique graphics and durable construction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Krooked"
+            }
+        },
+        {
+            "id": "59ab68a4-179b-4494-982d-1ac6bdcedb01",
+            "image": null,
+            "name": "Rogue",
+            "description": "The Sector 9 Rogue series features longboards designed for balance and cruising, making them suitable for beginners and experienced riders alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "5d81094e-7d9e-4239-832a-4f765da2e144",
+            "image": null,
+            "name": "Bamboo Green Wave",
+            "description": "The Sector 9 Bamboo Green Wave series features skateboards designed for cruising, emphasizing stability and control with a lightweight bamboo construction.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "a2328112-7d5b-4f34-b332-3c75cbce6708",
+            "image": null,
+            "name": "Sector 9 2017 Complete Skateboards",
+            "description": "The Sector 9 2017 Complete Skateboards series offers a variety of pre-assembled skateboards designed for riders of all skill levels, emphasizing durability and performance for both cruising and trick execution.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "344afcd8-186a-4440-8839-ccb6df82aa20",
+            "image": null,
+            "name": "Creative Studio",
+            "description": "The Faber-Castell Creative Studio series offers a range of high-quality art supplies designed for artistic expression, catering to both amateurs and professionals alike.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Faber-Castell"
+            }
+        },
+        {
+            "id": "5bdf67ca-fc95-4a9c-96de-7e159013e9fc",
+            "image": null,
+            "name": "Sector 9 2019 Complete Longboards",
+            "description": "The Sector 9 2019 Complete Longboards are designed for cruising and carving, featuring a variety of shapes and sizes to accommodate different riding styles and skill levels. These longboards incorporate quality materials and craftsmanship to ensure a smooth and stable ride.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "3b1086af-1163-497f-93ea-9c9ecbdae5d2",
+            "image": null,
+            "name": "Bamboo Skateboard Series",
+            "description": "The Bamboo Skateboard Series by Bamboo Skateboards is a collection of skateboards designed for durability and flexibility, constructed from sustainable bamboo material to enhance performance and reduce environmental impact.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "4242d835-eac5-444e-98b3-a769411bddfd",
+            "image": null,
+            "name": "Bamboo Skateboards Pro Series",
+            "description": "The Bamboo Skateboards Pro Series features high-performance skateboards designed for both amateurs and professional skaters, emphasizing durability, flexibility, and eco-friendliness due to their bamboo construction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "8146e223-6285-409b-89df-8a431e72f2a4",
+            "image": null,
+            "name": "Bamboo Skateboards Eco Series",
+            "description": "The Bamboo Skateboards Eco Series features skateboards made from sustainable bamboo material, emphasizing eco-friendly practices while providing durability and performance for skaters.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "8421092c-bb06-4c0c-9b59-e1cba1ddf482",
+            "image": null,
+            "name": "Bamboo Skateboards",
+            "description": "The Bamboo Skateboards series offers eco-friendly skateboards made from sustainable bamboo materials, designed for performance and durability.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "3d380e0f-d362-479a-9103-fbec844bbf63",
+            "image": null,
+            "name": "Bamboo Skateboard Complete Series",
+            "description": "The Bamboo Skateboard Complete Series offers a collection of environmentally friendly skateboards made from sustainable bamboo, designed for durability and performance for riders of all levels.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "cfad5a24-1c1e-48c8-9ede-171378fed487",
+            "image": null,
+            "name": "Bamboo Longboard Series",
+            "description": "The Bamboo Longboard Series by Bamboo Skateboards features eco-friendly longboards designed for cruising and carving. Each board is constructed from sustainable bamboo, offering durability and flexibility for a smooth ride.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "913760c5-726c-4b1b-ae5e-996654eeedf2",
+            "image": null,
+            "name": "Bamboo Mini Skateboard Series",
+            "description": "The Bamboo Mini Skateboard Series by Bamboo Skateboards features compact, eco-friendly skateboards designed for portability and easy maneuverability, ideal for beginners and urban commuting.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "1067cf88-9a94-42c5-80ac-5392b86f914c",
+            "image": null,
+            "name": "Elevated Series",
+            "description": "The Elevated Series by Bamboo Skateboards features eco-friendly skateboards made from sustainable bamboo, designed for both durability and performance. Each board offers a lightweight feel while providing the necessary strength for a smooth ride.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Bamboo Skateboards"
+            }
+        },
+        {
+            "id": "83c93547-7ccf-403a-8b18-2618ed79f662",
+            "image": null,
+            "name": "Pintail",
+            "description": "The Hamboards Pintail series features longboards designed for cruising and carving, embodying a classic surfboard shape for a smooth riding experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "fd9051f1-9144-4514-b1ff-8efa3ece5a51",
+            "image": null,
+            "name": "Koa",
+            "description": "The Hamboards Koa series is designed for a smooth and stable ride, ideal for cruising and carving with a surf-inspired feel. Made from high-quality materials, these skateboards capture the essence of ocean skateboarding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        }
+    ]
+}

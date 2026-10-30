@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "ecd08cfc-2e5d-4217-8c4a-11036e8e4647",
+            "image": null,
+            "name": "Maclaren 2021 Quest",
+            "description": "The Maclaren 2021 Quest is a lightweight, portable stroller designed for easy maneuverability and comfort for both the caregiver and child, making it ideal for urban living and travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "c683b818-01b1-40bd-ae07-5f101bde55bb",
+            "image": null,
+            "name": "Maclaren 2021 Techno XT",
+            "description": "The Maclaren 2021 Techno XT is a premium stroller designed for children from birth to 55 lbs, featuring a multi-position reclining seat for comfort and ease of use.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "53aebe6d-1c05-4df3-9f12-f769e4967ea7",
+            "image": null,
+            "name": "Maclaren Atom",
+            "description": "The Maclaren Atom is a lightweight stroller designed for urban parents, combining convenience with functionality for everyday use.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "f2a0e72d-65de-4cf4-bc58-89e542590e31",
+            "image": null,
+            "name": "Maclaren Techno XT",
+            "description": "The Maclaren Techno XT is a premium stroller series designed for comfort and convenience, featuring lightweight construction and versatile functionality suitable for urban environments and family outings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Maclaren"
+            }
+        },
+        {
+            "id": "2b0f3020-03af-4524-950f-b5ad484220c7",
+            "image": null,
+            "name": "Stokke Xplory",
+            "description": "The Stokke Xplory is a high chair stroller designed for infants and toddlers, featuring an adjustable seat height and innovative design that promotes interaction between caregiver and child.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "85ea7737-6b5b-47bf-8fe2-e00287efa2cc",
+            "image": null,
+            "name": "Stokke Trailz",
+            "description": "The Stokke Trailz is a versatile stroller designed for all-terrain use, offering comfort and adaptability for both parents and children.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "7bb87d03-84cf-4e4f-a85f-29a262b86e34",
+            "image": null,
+            "name": "Stokke Xplory X",
+            "description": "The Stokke Xplory X is a premium stroller designed for comfort and versatility, featuring an adjustable seat height and modern design to promote close contact between parent and child.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "9d84b600-816c-4fd7-acbc-89bd509c3741",
+            "image": null,
+            "name": "Stokke Crusi",
+            "description": "The Stokke Crusi is a versatile stroller designed to adapt to the changing needs of growing families. It features a modular design that allows for various seating configurations and a comfortable environment for both infants and toddlers.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "674b09d2-6126-4005-a9c5-09971e68267f",
+            "image": null,
+            "name": "Stokke Flexi Bath",
+            "description": "The Stokke Flexi Bath is a portable and collapsible baby bath designed for infants, making bath time convenient for parents. It features a flexible design that allows for easy storage and transportation, while providing a safe and comfortable bathing experience for babies.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "45cef6fc-dc7e-4af6-b4ac-b2e54e1e9633",
+            "image": null,
+            "name": "Stokke Beat",
+            "description": "The Stokke Beat is a stroller designed for urban living, combining functionality with a sleek design to provide comfort for both the child and the parent. Its lightweight frame and compact fold make it ideal for navigating busy city streets.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Stokke"
+            }
+        },
+        {
+            "id": "e211a9ee-b505-4fe3-8780-7cebf64b11bd",
+            "image": null,
+            "name": "Babyhome Emotion",
+            "description": "The Babyhome Emotion is a versatile stroller designed for ease of use, featuring a lightweight frame and compact fold for convenient transportation and storage.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Babyhome"
+            }
+        },
+        {
+            "id": "eedb0535-cba2-4f44-9a3d-5d3940e12ba9",
+            "image": null,
+            "name": "Babyhome Travel",
+            "description": "The Babyhome Travel series includes lightweight and compact strollers designed for parents seeking convenience during travel. With a focus on portability, these strollers are easy to fold and carry, making them ideal for on-the-go families.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Babyhome"
+            }
+        },
+        {
+            "id": "5d131b13-54cc-4560-a7e9-880a87aa5465",
+            "image": null,
+            "name": "My Little Pony: Equestria Girls - Legend of Everfree",
+            "description": "My Little Pony: Equestria Girls - Legend of Everfree is a toy series based on the animated film of the same name, featuring stylized dolls of characters from the My Little Pony universe. The series focuses on themes of friendship, adventure, and self-discovery, allowing children to recreate stories and engage in imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "203484a6-688a-4b35-b4e7-2fdd2a85db04",
+            "image": null,
+            "name": "Transformers: Robots in Disguise",
+            "description": "Transformers: Robots in Disguise is a series of action figures that allows children to transform the characters from robot mode to vehicle mode and back, encouraging imaginative play.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "1cc22c52-70ab-49cc-82e7-a655ba7249e4",
+            "image": null,
+            "name": "Play-Doh Town",
+            "description": "The Play-Doh Town series from Hasbro features a variety of colorful play sets that encourage imaginative play and creativity through modeling compound. Children can create their own towns, characters, and adventures using the included Play-Doh elements.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "3b048501-5d47-4c32-bb82-8fe4fb5b9a42",
+            "image": null,
+            "name": "My Little Pony: The Movie",
+            "description": "My Little Pony: The Movie is a toy series based on the animated film, featuring characters from the My Little Pony franchise. These toys encourage imaginative play and are designed for fans of all ages.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "02d28097-4880-42cc-a2ad-91d953201d17",
+            "image": null,
+            "name": "Play-Doh Kitchen Creations",
+            "description": "The Play-Doh Kitchen Creations series by Hasbro allows children to explore their creativity through imaginative play with model dough and kitchen-themed accessories, promoting fine motor skills and culinary role-playing.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "575e2eab-0a8c-4572-bd9e-36a57942544c",
+            "image": null,
+            "name": "Star Wars: The Vintage Collection",
+            "description": "The Star Wars: The Vintage Collection by Hasbro features highly detailed action figures and vehicles inspired by the iconic Star Wars saga, designed for collectors and fans alike. This series aims to celebrate the legacy of Star Wars through nostalgic packaging and articulation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "fb4d3cb0-2bf8-4b70-aa4d-9257d0730827",
+            "image": null,
+            "name": "Transformers: Siege",
+            "description": "The Transformers: Siege series features highly detailed figures that represent iconic characters from the Transformers franchise, designed to transform between robot and alternate modes. This series emphasizes battle damage aesthetics, providing a dynamic play experience for collectors and fans alike.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "336fe04d-8114-4976-925b-3aae539d0525",
+            "image": null,
+            "name": "Marvel Legends Series",
+            "description": "The Marvel Legends Series by Hasbro features highly detailed action figures and collectibles that celebrate iconic superheroes and villains from the Marvel Universe. Aimed at collectors and fans, these figures often come with accessories and are designed for poseability and display.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "38ff4591-7be8-4e88-955b-c7e45c20ede5",
+            "image": null,
+            "name": "Mister Potato Head",
+            "description": "Mister Potato Head is a classic children's toy that allows kids to create and customize their own characters using a variety of interchangeable parts. The key trait of this toy is its focus on creativity and imaginative play.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "9a9e68d4-1446-4c87-8424-22b8e54b93ab",
+            "image": null,
+            "name": "Monopoly: Cheaters Edition",
+            "description": "Monopoly: Cheaters Edition is a twist on the classic Monopoly game that encourages players to bend the rules and get creative with their cheating tactics, adding a new layer of strategy and excitement to gameplay.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "cd06afd3-19fb-4c3a-82ec-6330005de2b2",
+            "image": null,
+            "name": "Transformers: War for Cybertron Trilogy",
+            "description": "Transformers: War for Cybertron Trilogy is a line of action figures inspired by the Transformers franchise, featuring figures that can transform between robot and vehicle forms, aimed at both collectors and younger fans.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "e25ffb6b-2e5d-4b14-830a-8cc27e9b6e0c",
+            "image": null,
+            "name": "My Little Pony: Pony Life",
+            "description": "My Little Pony: Pony Life is a toy series that features colorful, stylized versions of beloved pony characters from the My Little Pony franchise, encouraging imaginative play and social interaction among children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "8c8d31c4-c953-43c1-b389-5d8bac2a6b99",
+            "image": null,
+            "name": "Transformers: Generations – War for Cybertron Trilogy: Kingdom",
+            "description": "The Transformers: Generations – War for Cybertron Trilogy: Kingdom series features collectible action figures that represent various characters from the Transformers universe, allowing fans to recreate battles and scenes from the iconic franchise.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "c497add7-8e38-41e4-ab6c-b83e95cd382b",
+            "image": null,
+            "name": "Transformers: Legacy",
+            "description": "Transformers: Legacy is a toy series by Hasbro that celebrates the rich history of the Transformers brand by bringing together characters from across various Transformers universes into one collection.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "2bc1de74-4e10-491e-aec1-dcff944d3440",
+            "image": null,
+            "name": "My Little Pony: G5",
+            "description": "My Little Pony: G5 is a toy series that features colorful pony figures and accessories, aimed at encouraging imaginative play and creativity among children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Hasbro"
+            }
+        },
+        {
+            "id": "2c055e4e-cec6-47c8-89c7-102ebb0d8e61",
+            "image": null,
+            "name": "KidKraft Chelsea Doll Cottage",
+            "description": "The KidKraft Chelsea Doll Cottage is a whimsical dollhouse designed for imaginative play, featuring multiple rooms and accessories that encourage creativity and storytelling among children.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "9ecaf087-73ed-41d3-a4b2-0370731668dd",
+            "image": null,
+            "name": "KidKraft Farm To Table Playset",
+            "description": "The KidKraft Farm To Table Playset is an interactive toy designed to encourage imaginative play through farm-themed activities and cooking experiences, fostering creativity and learning about food production.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "KidKraft"
+            }
+        },
+        {
+            "id": "186baada-c657-4987-a1a8-36654b14e8c9",
+            "image": null,
+            "name": "Playspot Foam Floor Tiles",
+            "description": "Skip Hop Playspot Foam Floor Tiles are interlocking, cushioned tiles designed to create a soft play area for children, providing comfort and safety during playtime.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Skip Hop"
+            }
+        }
+    ]
+}

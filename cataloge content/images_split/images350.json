@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7ee3f971-f21d-4dec-b8fd-f85e17d89824",
+            "image": null,
+            "name": "Q50",
+            "description": "The Infiniti Q50 is a luxury sedan that combines performance, advanced technology, and refined design, aimed at providing a superior driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "cfa53f07-a777-4cd4-b7f1-5b137577f9dc",
+            "image": null,
+            "name": "Oculus Rift S",
+            "description": "The Oculus Rift S is a virtual reality headset designed for PC gaming, featuring improved optics, a higher resolution display, and intuitive Touch controllers for immersive experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "1079d4dc-95ed-4c73-91b9-11b6c9efe959",
+            "image": null,
+            "name": "Acer Vero",
+            "description": "Acer Vero laptops are eco-friendly devices designed for everyday use, focusing on sustainability through the use of recycled materials and energy-efficient components.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Acer"
+            }
+        },
+        {
+            "id": "dbc44245-6b87-4761-a5b9-c7f1ffffa3d7",
+            "image": null,
+            "name": "Jeep Cherokee 2021",
+            "description": "The Jeep Cherokee 2021 is a compact SUV known for its off-road capabilities, versatile interior, and advanced technology features, catering to both adventure seekers and daily drivers alike.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "9721e447-ad9b-4ce3-8534-07a88b4c5880",
+            "image": null,
+            "name": "Jeep Compass (2012 model year)",
+            "description": "The Jeep Compass (2012 model year) is a compact SUV designed for versatility and off-road capability, offering a balance of comfort and ruggedness for both urban and outdoor adventures.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "a2ef972f-1da0-4e08-ba98-329aefcebedc",
+            "image": null,
+            "name": "Toshiba 2-in-1 Detachable PC series",
+            "description": "The Toshiba 2-in-1 Detachable PC series offers versatility by combining the functionality of a laptop and a tablet in a single device, making it suitable for both productivity and casual use.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "f1af20bf-897b-4900-9224-cf219ad7290b",
+            "image": null,
+            "name": "Toshiba Canvio series",
+            "description": "The Toshiba Canvio series consists of portable external hard drives designed for reliable storage and easy data transfer, offering various capacities to meet the needs of different users.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "eb19687d-71c4-4b3b-898b-a3d5b96d27a3",
+            "image": null,
+            "name": "Jeep Compass 2021",
+            "description": "The Jeep Compass 2021 is a compact SUV designed for versatility and comfort, offering off-road capability with a refined interior for urban environments.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "2a3251a9-72da-4d0a-acdb-c372162450ba",
+            "image": null,
+            "name": "Dynabook",
+            "description": "The Toshiba Dynabook series is a line of laptops designed for productivity and portability, featuring reliable performance and a sleek design suitable for both personal and professional use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "4863f90d-7651-4429-8ff4-e0d2db8750e7",
+            "image": null,
+            "name": "Jeep Avenger",
+            "description": "The Jeep Avenger is a compact SUV introduced in 2023, designed for urban adventures with an emphasis on maneuverability and efficiency in both city driving and off-road conditions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "c7367039-e18b-473d-a8dd-d857aa0ca5f1",
+            "image": null,
+            "name": "Jeep Wagoneer L",
+            "description": "The Jeep Wagoneer L is a full-size SUV that combines luxury with off-road capability, designed for families and adventurers alike, offering spacious interiors and advanced technology features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Jeep"
+            }
+        },
+        {
+            "id": "da9af5d5-92ca-4ab7-b3d6-3968c17ecb01",
+            "image": null,
+            "name": "Toshiba Fire TV Edition",
+            "description": "The Toshiba Fire TV Edition series offers a combination of high-definition display and integrated Amazon Fire TV functionality, allowing users to access streaming content directly on the monitor.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "d1009782-7b42-496f-888d-1c7ec5bbb06e",
+            "image": null,
+            "name": "Infiniti M35/M45",
+            "description": "The Infiniti M35/M45 is a luxury sedan series known for its blend of performance, comfort, and advanced technology features, tailored for a premium driving experience.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "782734bc-7a5d-4ab9-a51a-e27403647e6c",
+            "image": null,
+            "name": "Infiniti G Series",
+            "description": "The Infiniti G Series is a line of luxury vehicles designed to deliver a balance of performance, comfort, and advanced technology, aimed at providing an elevated driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "60576b33-f6cf-4879-aa46-d34de5cacf08",
+            "image": null,
+            "name": "Infiniti G37 Coupe",
+            "description": "The Infiniti G37 Coupe is a luxury sports coupe that combines performance and elegance, featuring a powerful engine and sophisticated design suited for enthusiasts seeking a dynamic driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "36f973d5-fe58-4e5d-9944-293f4b3b3781",
+            "image": null,
+            "name": "Infiniti M37",
+            "description": "The Infiniti M37 is a luxury sedan that emphasizes a blend of performance, comfort, and advanced technology, catering to drivers seeking an engaging driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Infiniti"
+            }
+        },
+        {
+            "id": "c6a5ed0e-9408-4995-8888-86275466c83a",
+            "image": null,
+            "name": "Toshiba 4K Fire TV Edition",
+            "description": "The Toshiba 4K Fire TV Edition series includes smart monitors that integrate the Fire TV experience, allowing users to access streaming services and content directly on their display with high resolution.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Toshiba"
+            }
+        },
+        {
+            "id": "a3cb7bef-d644-46f8-a7ac-8eb7d1a16129",
+            "image": null,
+            "name": "Sharp AQUOS Crystal 2",
+            "description": "The Sharp AQUOS Crystal 2 is a smartphone released in 2016, notable for its edge-to-edge display and compact design, aimed at delivering an immersive viewing experience in a portable form factor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "934ceed6-ebc1-4963-9e4d-58ef54a89da8",
+            "image": null,
+            "name": "Sharp Quattron",
+            "description": "The Sharp Quattron series of monitors is known for its advanced color technology, enhancing the viewing experience with a broader color spectrum and improved visual clarity.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "1e6a506e-eac3-4ee5-94da-f8503e635ebe",
+            "image": null,
+            "name": "Sharp AQUOS R7",
+            "description": "The Sharp AQUOS R7 is a high-end smartphone series featuring advanced display technology and powerful performance designed for multimedia consumption and daily productivity.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "aefd7f07-3980-4333-b83c-2fbfc2bd03f0",
+            "image": null,
+            "name": "Sharp 8K TV Series",
+            "description": "The Sharp 8K TV Series is a line of high-resolution monitors designed to deliver stunning picture quality and exceptional detail, suitable for a variety of viewing experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "c79ba8a7-ec3c-4464-a62d-89dda5493509",
+            "image": null,
+            "name": "Champion",
+            "description": "The Champion series by Federal-Mogul provides a range of high-quality automotive parts designed to enhance vehicle performance and reliability since 2008.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Federal-Mogul"
+            }
+        },
+        {
+            "id": "3728bdd0-0629-4229-a4ad-bc25d0e30907",
+            "image": null,
+            "name": "Fel-Pro",
+            "description": "The Fel-Pro series by Federal-Mogul includes high-quality gaskets and sealing solutions designed to ensure a reliable seal in various automotive applications. These products are engineered to meet or exceed original equipment specifications for performance and durability.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Federal-Mogul"
+            }
+        },
+        {
+            "id": "cd15abc0-9c4e-43ca-a3b2-2ee048487066",
+            "image": null,
+            "name": "Huawei MediaPad M3",
+            "description": "The Huawei MediaPad M3 is a high-performance tablet designed for multimedia consumption, featuring a powerful processor and a high-resolution display for an enhanced viewing experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "fe336e14-1b27-4221-b0fa-ab19805bb639",
+            "image": null,
+            "name": "Moog",
+            "description": "The Moog series by Federal-Mogul includes high-quality car parts designed for durability and improved vehicle performance, particularly in steering and suspension systems.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Federal-Mogul"
+            }
+        },
+        {
+            "id": "a288dcd4-630d-4a8b-9c98-93a6c220dc66",
+            "image": null,
+            "name": "Huawei MediaPad M5",
+            "description": "The Huawei MediaPad M5 is a tablet series designed for multimedia consumption and productivity, featuring a high-resolution display and powerful audio capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "12371b2b-1380-4a69-8b10-802e0e03ff76",
+            "image": null,
+            "name": "Huawei MediaPad M5 Pro",
+            "description": "The Huawei MediaPad M5 Pro is a versatile tablet designed for entertainment and productivity, featuring a high-resolution display and robust performance capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "d2a8b3c8-955f-4877-9d01-38b25cc424fb",
+            "image": null,
+            "name": "MatePad Pro",
+            "description": "The Huawei MatePad Pro is a high-performance tablet designed for productivity and creativity, featuring a large display and support for stylus input.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "5228be73-65ae-4fd3-9a50-8c9c8656029b",
+            "image": null,
+            "name": "Alfa Romeo Giulietta (facelift)",
+            "description": "The Alfa Romeo Giulietta (facelift) is a compact car that combines stylish Italian design with performance-oriented engineering, aimed at providing a dynamic driving experience while maintaining everyday practicality.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Alfa Romeo"
+            }
+        },
+        {
+            "id": "a37baa08-506c-4ba3-945d-6d5f32a0b8ee",
+            "image": null,
+            "name": "Performer RPM Intake Manifold",
+            "description": "The Edelbrock Performer RPM Intake Manifold is designed to optimize performance in high-performance street applications. It enhances air and fuel distribution to the engine, resulting in improved horsepower and torque across a broader RPM range.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Edelbrock"
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "7325b971-9438-4e9b-a002-e368bdf6eb72",
+            "image": null,
+            "name": "Meguiar's Ultimate Line",
+            "description": "Meguiar's Ultimate Line is a series of premium car care products designed for effective cleaning, protection, and enhancement of automotive finishes. It focuses on advanced formulas that deliver high-performance results in paint care.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "4379ab8b-0ce3-470d-8e0f-dd0449d7c27e",
+            "image": null,
+            "name": "Meguiar's Ultimate",
+            "description": "Meguiar's Ultimate series offers advanced car care products designed to provide superior protection and a high gloss finish for automotive surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "18b40e83-12e9-4575-a626-06f4028d7e5a",
+            "image": null,
+            "name": "Meguiar's Mirror Glaze",
+            "description": "Meguiar's Mirror Glaze series represents a line of professional-grade car care products designed to enhance and maintain the appearance of automotive finishes.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "d6a916c0-7249-467a-9ca9-6a82df2054f2",
+            "image": null,
+            "name": "Meguiar's G17216 Ultimate Liquid Wax",
+            "description": "Meguiar's G17216 Ultimate Liquid Wax is a premium car wax designed to provide long-lasting protection and a brilliant shine to automotive paint finishes. It features advanced synthetic polymers for enhanced durability and ease of application.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "ad291bd1-6aa8-49e5-8ca8-34cb0e7db8e7",
+            "image": null,
+            "name": "Meguiar's G10500 Advanced Compound",
+            "description": "Meguiar's G10500 Advanced Compound is a high-performance automotive compound designed to remove moderate to heavy defects from paint surfaces while restoring gloss. Its advanced formulation makes it suitable for a variety of vehicle finishes.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "541b491e-6c04-4587-a858-2d9f576e8aad",
+            "image": null,
+            "name": "Meguiar's Ultimate Series",
+            "description": "Meguiar's Ultimate Series is a range of premium car care products designed to provide superior cleaning, protection, and shine for automotive surfaces. Launched in 2011, the series is known for its advanced formulations that are safe for all surfaces and effective in enhancing the appearance of vehicles.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "b5fe1bbe-867f-41a6-a8af-a05ac568732a",
+            "image": null,
+            "name": "Ultimate Wash & Wax",
+            "description": "Meguiar's Ultimate Wash & Wax is a car care product designed to clean and shine vehicles while providing a protective layer of wax. Its formula integrates car wash and wax in one step, making it convenient for maintaining a high-gloss finish.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "c89b37d9-aa02-4a1f-95ce-7c2caeb362b6",
+            "image": null,
+            "name": "Ultimate Protectant",
+            "description": "Meguiar's Ultimate Protectant is designed to enhance and protect the interior and exterior surfaces of vehicles, providing long-lasting shine and UV protection.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "7b2752e2-59ee-4604-b1d8-3c0b38609e5d",
+            "image": null,
+            "name": "Hybrid Solutions",
+            "description": "The Meguiar's Hybrid Solutions series offers advanced car care products that combine traditional and modern technologies to provide effective cleaning, protection, and enhancement for automotive surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "85dd6bab-6a8a-47ee-b151-ead45adf4b52",
+            "image": null,
+            "name": "Meguiar's Professional Detailers Line",
+            "description": "Meguiar's Professional Detailers Line offers a comprehensive range of car care products designed for professional detailers and car enthusiasts. This series provides high-quality solutions for cleaning, polishing, and protecting automotive surfaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "46361e25-26df-4237-a030-ba628c26ef53",
+            "image": null,
+            "name": "Kawasaki Versys 1000 SE",
+            "description": "The Kawasaki Versys 1000 SE is a versatile sport-touring motorcycle designed for adventure and comfort on long journeys, equipped with advanced technology for enhanced riding experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "d607714d-4728-46c5-bc48-40772b63390f",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-4R",
+            "description": "The Kawasaki Ninja ZX-4R is a high-performance sport motorcycle designed for both street and track use, featuring a powerful 399cc engine that balances agility with an impressive power-to-weight ratio.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "47aef1c7-5a2f-435a-83ca-c5823bac6fed",
+            "image": null,
+            "name": "Michelin Pilot Sport PS2",
+            "description": "The Michelin Pilot Sport PS2 is a high-performance tire designed for sports cars and enthusiastic drivers, providing enhanced grip, responsiveness, and stability at high speeds.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "8d59240c-c4b3-4803-b2c1-cf6297154382",
+            "image": null,
+            "name": "Michelin Latitude Tour",
+            "description": "The Michelin Latitude Tour series is designed for light trucks and SUVs, offering all-season performance with enhanced tread life and comfort for everyday driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "fc3fb664-2a6e-408f-8358-80886368529f",
+            "image": null,
+            "name": "Michelin LTX M/S2",
+            "description": "The Michelin LTX M/S2 is a tire designed for light trucks and SUVs, offering improved traction and durability for both on-road and off-road conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "80d94783-0c28-4755-b742-5495f2416d55",
+            "image": null,
+            "name": "Bodywork Shampoo Conditioner",
+            "description": "Autoglym Bodywork Shampoo Conditioner is a premium car care product designed to clean and condition the vehicle's exterior surfaces effectively, leaving a high-quality finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "4ddef61a-e114-41fd-8b1f-6c8d0d6d0404",
+            "image": null,
+            "name": "Émonda ALR 5",
+            "description": "The Trek Émonda ALR 5 is a lightweight aluminum road bike designed for performance and efficiency, making it ideal for competitive riders and enthusiasts alike.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "e49da253-7eca-4340-9475-ac2fe46f82d0",
+            "image": null,
+            "name": "Émonda",
+            "description": "The Trek Émonda series consists of lightweight road bikes designed for climbing efficiency and high-performance riding, making them ideal for competitive cyclists and enthusiasts alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "40950951-8acf-4cab-9d0a-4c649cff1de0",
+            "image": null,
+            "name": "Britax Römer Evolva",
+            "description": "The Britax Römer Evolva series is designed to provide safety and comfort for children during car travel. These seats are suitable for various stages of child growth, ensuring a reliable fit as the child develops.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "fd7b11b0-6e3b-4a46-9b36-efe6deb90fa6",
+            "image": null,
+            "name": "Meguiar's Gold Class",
+            "description": "Meguiar's Gold Class is a premium line of car care products designed to enhance the appearance of automotive finishes while providing protection. Launched in 2001, it is well-regarded for its high-quality formulations that deliver a deep, rich gloss and effective cleaning.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "ac281499-467a-49e9-a600-98463a86a6aa",
+            "image": null,
+            "name": "Meguiar's Ultimate Wash & Wax",
+            "description": "Meguiar's Ultimate Wash & Wax is a premium car care product designed to wash and add a protective wax coating to the vehicle's surface, providing shine and protection in one step.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "6f3a998b-53c8-4cf8-8c84-972ad65f8bfe",
+            "image": null,
+            "name": "Meguiar's G1507 Ultimate Compound",
+            "description": "Meguiar's G1507 Ultimate Compound is a car care product designed to remove stubborn defects in the paint surface, such as scratches and oxidation, while providing a high-gloss finish.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "a1088cd2-87bc-4fa3-bd04-41cfe6957d7b",
+            "image": null,
+            "name": "Mirror Glaze",
+            "description": "Meguiar's Mirror Glaze series provides professional-level car care products, specifically designed to enhance the appearance and protect the finish of automotive surfaces.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "e1b444cf-5cf0-493c-8664-ebbb28085c8f",
+            "image": null,
+            "name": "Meguiar's Professional Line",
+            "description": "Meguiar's Professional Line offers a comprehensive range of car care products designed for automotive professionals, focusing on high-performance results and ease of use.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "f7ec87e3-1c27-43d8-a87b-bac15ce201c4",
+            "image": null,
+            "name": "Meguiar's Hybrid Ceramic",
+            "description": "Meguiar's Hybrid Ceramic series offers advanced ceramic technology for effective and durable protection of automotive surfaces. These products deliver long-lasting shine and protection while being easy to apply.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "1b178527-a042-4f53-b7bf-3800ec4ed0a9",
+            "image": null,
+            "name": "Meguiar's Hybrid Ceramic Wax",
+            "description": "Meguiar's Hybrid Ceramic Wax is a car care product designed to provide durable, water-repellent protection and enhance shine on automotive surfaces. It combines the best of traditional wax and advanced ceramic technology for easy application and long-lasting results.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "ccd736bf-b9ff-46b6-bcd0-8c032d21c921",
+            "image": null,
+            "name": "Meguiar's Hybrid Solutions",
+            "description": "Meguiar's Hybrid Solutions is a series of advanced car care products designed to deliver superior results while being easy to use. It combines the latest technology with hybrid formulations for enhanced protection and shine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "814bbddc-3a20-4c96-9339-5f0bb36bfbe2",
+            "image": null,
+            "name": "Sonax Premium Class",
+            "description": "Sonax Premium Class is a series of high-quality car care products designed to clean, protect, and maintain vehicles, ensuring optimal performance and aesthetic appeal.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        },
+        {
+            "id": "4690313b-26f5-47ee-8444-1f955694dcd7",
+            "image": null,
+            "name": "Sonax High Speed Wax",
+            "description": "Sonax High Speed Wax is a car care product designed to provide a quick and efficient waxing solution, enhancing the shine and protection of vehicle surfaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        },
+        {
+            "id": "a0333c10-f276-4c89-a077-75d64ef1a5c3",
+            "image": null,
+            "name": "Sonax Extreme",
+            "description": "Sonax Extreme is a series of car care products launched in 2008, designed to provide professional-grade cleaning, protection, and enhancement solutions for vehicle exteriors and interiors.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Sonax"
+            }
+        }
+    ]
+}

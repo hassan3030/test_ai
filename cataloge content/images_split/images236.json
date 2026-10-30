@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "4b31e285-5530-4d05-88cc-bf6b4e6ded58",
+            "image": null,
+            "name": "Realme 5",
+            "description": "The Realme 5 series consists of smartphones designed to provide users with reliable performance, multitasking capabilities, and a range of features at an affordable price point.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "68286b0d-379d-4f19-81a1-f69f4d3efe92",
+            "image": null,
+            "name": "Realme 5 Pro",
+            "description": "The Realme 5 Pro is a mid-range smartphone released in 2019, known for its quad-camera system, substantial battery life, and good performance for its price point.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "c3882507-9a12-4d5d-8695-bcc8adf59a64",
+            "image": null,
+            "name": "Realme 3i",
+            "description": "The Realme 3i is a budget smartphone released in 2019, designed to offer essential features for everyday use while maintaining an affordable price point.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "711db29a-e962-49c6-84e8-527a5dc3302d",
+            "image": null,
+            "name": "Realme 6",
+            "description": "The Realme 6 series consists of smartphones designed to offer a balanced combination of performance, camera capability, and display quality, catering to the needs of budget-conscious users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "34330887-3da9-46bc-bddd-371268f57153",
+            "image": null,
+            "name": "Realme 6 Pro",
+            "description": "The Realme 6 Pro is a smartphone released in 2020, designed to offer a balanced performance, featuring a powerful processor, a high-refresh-rate display, and a versatile camera system.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "37cc5b9e-be84-443b-96d7-1c337b2bfa90",
+            "image": null,
+            "name": "Realme X50 Pro",
+            "description": "The Realme X50 Pro is a flagship smartphone that offers high-performance specifications, including 5G connectivity and a high-refresh-rate display, catering to tech enthusiasts and power users.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "284db310-982f-42c5-b13f-9fca7e9aa1e6",
+            "image": null,
+            "name": "Realme Buds Air Neo",
+            "description": "The Realme Buds Air Neo are true wireless earbuds designed for a seamless audio experience, featuring an ergonomic design and low latency for gaming and multimedia consumption.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "58d1589b-1961-491a-b180-2ca76f2f85b5",
+            "image": null,
+            "name": "Realme Watch",
+            "description": "The Realme Watch is a versatile smartwatch released in 2020, designed to monitor health metrics and fitness activities, offering a range of smart features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "bd4c80ed-3867-4d5f-be6d-e684afcb2035",
+            "image": null,
+            "name": "Realme Narzo 10",
+            "description": "The Realme Narzo 10 is a smartphone series designed to deliver performance and functionality for budget-conscious consumers, featuring a large display, multi-camera setup, and a robust battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "184c1802-c968-45a8-b576-106630a2d20f",
+            "image": null,
+            "name": "Realme Narzo 10A",
+            "description": "The Realme Narzo 10A is a budget smartphone that offers essential features for everyday use, focusing on performance and battery life.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "e4b62011-86b6-4503-a625-2ab70e913736",
+            "image": null,
+            "name": "Realme GT",
+            "description": "The Realme GT series offers high-performance smartphones designed for gamers and tech enthusiasts, featuring powerful processors and fast charging technology.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "f66fdd8f-850a-4041-9f10-09706bd058c6",
+            "image": null,
+            "name": "Realme 8",
+            "description": "The Realme 8 series comprises smartphones designed to deliver competitive performance and camera capabilities at an affordable price point. Key features include a vibrant display, fast charging technology, and an emphasis on user-friendly software.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "5c57e42c-73b9-4f79-9aa4-0fae0de0d1e4",
+            "image": null,
+            "name": "Realme 8 Pro",
+            "description": "The Realme 8 Pro is a smartphone launched in 2021, known for its impressive camera capabilities and sleek design, catering to users who seek high-quality photography and sophisticated features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "11e3d9d1-c547-4eeb-ab67-2ba2b1ada285",
+            "image": null,
+            "name": "Realme Narzo 30",
+            "description": "The Realme Narzo 30 series is a line of smartphones released in 2021, designed to offer budget-friendly options with appealing features for young consumers and gamers.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "5d6ed6f4-5526-44b0-825a-5e96a16ab15c",
+            "image": null,
+            "name": "Realme GT 2 Series",
+            "description": "The Realme GT 2 Series is a line of smartphones designed for performance and advanced user experience, featuring cutting-edge technology and premium features.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "590a76d1-b20c-4d64-b945-4932e3160f2c",
+            "image": null,
+            "name": "Realme 9 Series",
+            "description": "The Realme 9 Series is a collection of smartphones designed to deliver powerful performance and advanced features at an accessible price point, catering to users seeking quality and style.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "d68cecf2-6c32-4039-8228-1999d24d4231",
+            "image": null,
+            "name": "Realme GT 2 Pro",
+            "description": "The Realme GT 2 Pro is a flagship smartphone series designed for high performance and cutting-edge features, catering to users who seek advanced technology and premium design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "7cccb6da-4600-466c-bb5c-a391a4a08cb4",
+            "image": null,
+            "name": "Realme 11 Pro+",
+            "description": "The Realme 11 Pro+ is a smartphone series released in 2023, known for its advanced camera features and high-performance hardware designed for an enhanced user experience.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "9bd46084-f534-47e0-8243-40eded33dee4",
+            "image": null,
+            "name": "Realme Pad X",
+            "description": "The Realme Pad X is a tablet series released in 2023, designed to offer an immersive multimedia experience with versatile performance and a sleek design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "1170942b-4e50-4da9-9e13-0659a11c05ae",
+            "image": null,
+            "name": "Kawasaki ZX-10R",
+            "description": "The Kawasaki ZX-10R is a high-performance sport motorcycle designed for competitive riding and track use, known for its advanced technology and powerful engine output.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "038936a6-c3ff-475c-9363-acb90df1485a",
+            "image": null,
+            "name": "Kawasaki Vulcan 900 Classic",
+            "description": "The Kawasaki Vulcan 900 Classic is a mid-sized cruiser motorcycle designed for comfort and classic styling, making it suitable for both new and experienced riders who appreciate smooth performance and timeless aesthetics.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "2831576a-9872-40cb-9f7c-02ae26a52878",
+            "image": null,
+            "name": "Kawasaki Versys",
+            "description": "The Kawasaki Versys series is a line of versatile motorcycles designed for both on-road and off-road riding, offering a comfortable riding position and adaptable performance for various conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "791a315e-ff66-4834-8e0b-f5d18f079b51",
+            "image": null,
+            "name": "Kawasaki Ninja ZX-14R",
+            "description": "The Kawasaki Ninja ZX-14R is a high-performance sport motorcycle known for its powerful engine and advanced technology, designed for both speed and comfort on the road.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "3594e2d0-e565-4d03-a9c0-2c3cc0a8bb0b",
+            "image": null,
+            "name": "Ninja 1000",
+            "description": "The Kawasaki Ninja 1000 is a sports touring motorcycle designed for exceptional performance and comfort on both city streets and long-distance rides. It combines powerful engine capabilities with advanced technology features, making it an ideal choice for riders seeking versatility and reliability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "056c1ba0-6596-4a34-a7c3-53f48b030aba",
+            "image": null,
+            "name": "Kawasaki Ninja 250",
+            "description": "The Kawasaki Ninja 250 is a lightweight sport motorcycle that caters to new riders as well as experienced enthusiasts seeking a compact and agile bike. Its design highlights sharp styling, a parallel-twin engine, and a focus on sporty performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "22fd2dad-95ac-4e4e-95bb-2596f2b38f89",
+            "image": null,
+            "name": "Kawasaki Versys 650",
+            "description": "The Kawasaki Versys 650 is a versatile motorcycle designed for both touring and urban riding, featuring an upright seating position and a balance of performance and comfort.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "e18e9664-6924-4002-83e8-16001d65fec1",
+            "image": null,
+            "name": "Autoglym Super Resin Polish",
+            "description": "Autoglym Super Resin Polish is a versatile car care product designed to clean, polish, and protect automotive paintwork, enhancing its shine while providing a protective layer against environmental contaminants.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "716e9733-91a4-45ca-a973-fb5abd65fc49",
+            "image": null,
+            "name": "Citroën C4 Cactus",
+            "description": "The Citroën C4 Cactus is a compact car designed for urban mobility, featuring unique styling and innovative airbump technology for enhanced protection against minor impacts.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "fdbd5ddc-a070-4299-add2-0e876a140104",
+            "image": null,
+            "name": "Citroën C1",
+            "description": "The Citroën C1 is a compact city car designed for urban driving, offering maneuverability and efficiency in a small package.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "deb72d90-58a3-4949-9a67-98c6243de92d",
+            "image": null,
+            "name": "The Smart Oven Pizzaiolo",
+            "description": "The Smart Oven Pizzaiolo by Breville is designed specifically for baking authentic Neapolitan-style pizzas at high temperatures, achieving a professional-quality crust with its patented technology.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        }
+    ]
+}

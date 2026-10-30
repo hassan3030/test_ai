@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "15cd8946-3219-46ca-9843-e00b85c16056",
+            "image": null,
+            "name": "ContiEcoContact 5",
+            "description": "The Continental ContiEcoContact 5 is a tire designed for improved fuel efficiency and environmental performance while providing safety and comfort in urban and long-distance driving.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "27e28f13-4fa5-4448-a523-8e52dc1691f6",
+            "image": null,
+            "name": "ContiSportContact 3",
+            "description": "The Continental ContiSportContact 3 is a high-performance tire designed for sports cars and high-speed vehicles, offering excellent handling, stability, and grip on both wet and dry surfaces.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "28a037c3-bec3-4718-9a44-0a5595bef825",
+            "image": null,
+            "name": "International 7000 Series",
+            "description": "The International 7000 Series is a line of heavy-duty trucks designed primarily for commercial applications, offering robust performance and versatile configurations to meet the needs of various industries.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "International Trucks"
+            }
+        },
+        {
+            "id": "387b7830-d63a-40b0-8782-d6fcbdbb818f",
+            "image": null,
+            "name": "International 4000 Series",
+            "description": "The International 4000 Series is a versatile line of medium-duty trucks designed for various applications, including pickup and delivery, providing strong performance and reliability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "International Trucks"
+            }
+        },
+        {
+            "id": "48abde77-e8b6-4cb7-8f40-48a964309117",
+            "image": null,
+            "name": "Yokohama Geolandar A/T-S",
+            "description": "The Yokohama Geolandar A/T-S is an all-terrain tire designed to provide durability and traction on a variety of surfaces. It is suitable for both on-road and off-road driving, making it ideal for SUVs and light trucks.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "4f9e908b-0dcc-4fe2-9aff-406c92f2b9a0",
+            "image": null,
+            "name": "Yokohama ADVAN Neova AD08",
+            "description": "The Yokohama ADVAN Neova AD08 is a high-performance tire designed for track and street use, offering excellent grip, handling, and response for motorsport enthusiasts.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "51e85a9c-c3cd-475c-bccf-20d371175641",
+            "image": null,
+            "name": "Continental ContiSportContact 3",
+            "description": "The Continental ContiSportContact 3 is a high-performance tire designed for sports cars and high-speed vehicles, offering exceptional grip, precise handling, and enhanced braking performance.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "5ceba8c7-abad-4298-961a-c25f15f1cf5b",
+            "image": null,
+            "name": "Conti4x4SportContact",
+            "description": "The Continental Conti4x4SportContact is a high-performance tire designed for SUVs and light trucks, offering excellent handling, grip, and stability on both wet and dry surfaces.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Continental"
+            }
+        },
+        {
+            "id": "e8b75486-d439-4730-8793-4d9aae85b3ce",
+            "image": null,
+            "name": "Renault Duster 2018",
+            "description": "The Renault Duster 2018 is a compact SUV known for its rugged design, spacious interior, and versatile performance, making it suitable for both urban and off-road driving.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "65a968e5-ea05-4496-b125-eada94927088",
+            "image": null,
+            "name": "Opel Zafira",
+            "description": "The Opel Zafira is a versatile multi-purpose vehicle (MPV) that was first introduced in 2000, designed to provide ample space and flexibility for families and groups.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "f09ed0f5-6787-4fc7-9b52-10337d3d96b2",
+            "image": null,
+            "name": "Renault Lodgy",
+            "description": "The Renault Lodgy is a versatile multi-purpose vehicle designed to accommodate families and groups, offering spacious interiors and practical features since its launch in 2013.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault India"
+            }
+        },
+        {
+            "id": "f93ffc63-f776-4f59-ab88-9fba9cd77c73",
+            "image": null,
+            "name": "MG Hector Plus",
+            "description": "The MG Hector Plus is a mid-size SUV launched by MG Motors in 2020, designed to offer spacious interiors and advanced technological features for a comfortable driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "MG Motors"
+            }
+        },
+        {
+            "id": "fa4c0946-8a8f-48c1-8db5-edd2684065d7",
+            "image": null,
+            "name": "ADVAN",
+            "description": "The Yokohama ADVAN series is a line of high-performance tires designed for sports cars and racing applications, providing excellent grip and handling characteristics.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "ad067316-0e3f-4116-9d13-7369b74e2df6",
+            "image": null,
+            "name": "Toyota Tundra (Second Generation)",
+            "description": "The Toyota Tundra (Second Generation) is a full-size pickup truck designed for heavy-duty performance and capability, featuring a robust frame and powerful engine options suitable for both work and recreation.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "7918ac99-78b8-4153-8382-353fc25737e6",
+            "image": null,
+            "name": "ADVAN Neova AD08",
+            "description": "The Yokohama ADVAN Neova AD08 is a high-performance tire designed for motorsport enthusiasts, offering exceptional grip and handling capabilities, particularly in dry conditions. It is engineered to provide responsive steering and improved cornering stability.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "cbde2a13-4cc1-4f66-816a-98ae286d4450",
+            "image": null,
+            "name": "KV Series",
+            "description": "The JVC KV Series is a line of car audio systems designed to deliver high-quality sound and enhanced functionality for in-vehicle entertainment. These systems typically include features such as CD playback, USB connectivity, and digital media support.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "8e2d6f05-d4cf-49fb-bd51-9a64cd8667aa",
+            "image": null,
+            "name": "Volvo S80",
+            "description": "The Volvo S80 is a premium sedan that combines luxury with advanced safety features and a comfortable driving experience, aimed at those seeking a refined and reliable vehicle.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b02e06ab-1208-4f50-8304-209dc6978c6e",
+            "image": null,
+            "name": "Chevrolet Tahoe (2004 Generation)",
+            "description": "The Chevrolet Tahoe (2004 Generation) is a full-size SUV known for its robust performance, spacious interior, and versatility, making it suitable for family transport and off-road capabilities.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "b18f0f80-32ce-401f-b2a8-556ff9e63eb7",
+            "image": null,
+            "name": "LEGO Disney: Princess",
+            "description": "LEGO Disney: Princess is a toy series that allows children to build and interact with their favorite Disney Princesses through creative play and storytelling.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "b9ccc94b-7bec-4b00-a4ef-28f766515a6d",
+            "image": null,
+            "name": "Metaphor",
+            "description": "The Actiu Metaphor series comprises modern office chairs designed to enhance workplace comfort and productivity, featuring ergonomic shapes and sustainable materials.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Actiu"
+            }
+        },
+        {
+            "id": "c1667326-7f9d-4c40-895d-29403a618165",
+            "image": null,
+            "name": "Volkswagen Jetta (A5)",
+            "description": "The Volkswagen Jetta (A5) is a compact sedan known for its balance of performance, comfort, and practicality, designed to appeal to a wide range of drivers looking for a reliable and efficient vehicle.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "1956a557-bee6-433c-8d5c-dcce7d7030f9",
+            "image": null,
+            "name": "BMW 7 Series (F01/F02)",
+            "description": "The BMW 7 Series (F01/F02) is a luxury full-size sedan designed to offer high levels of comfort, performance, and advanced technology features for discerning drivers.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "22ef532a-d2b3-478e-bc5a-9e2f1be4fddd",
+            "image": null,
+            "name": "Hero CBZ",
+            "description": "The Hero CBZ is a motorcycle series launched in 2001 by Hero MotoCorp, known for its sporty design and performance-oriented features, catering to the needs of young riders.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "23d61c30-416d-4e1f-b166-360f02fccb3f",
+            "image": null,
+            "name": "BMW X6",
+            "description": "The BMW X6 is a luxury midsize SUV known for its sporty design and high-performance capabilities, blending the attributes of an SUV with the dynamism of a coupe.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "24dc4971-f198-4bdb-9e57-b0bb56538b5d",
+            "image": null,
+            "name": "BMW M6",
+            "description": "The BMW M6 is a high-performance luxury sports car that combines powerful engine options with precise handling and advanced technology, designed for driving enthusiasts.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "2a3c48fe-d04b-4388-8b67-c467ba91e315",
+            "image": null,
+            "name": "Surface Pro 9",
+            "description": "The Microsoft Surface Pro 9 is a versatile 2-in-1 laptop/tablet designed for productivity, featuring a detachable keyboard and a high-resolution touchscreen, making it suitable for both professional and creative tasks.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "2ca82552-7f08-4205-b112-1823e20796a7",
+            "image": null,
+            "name": "Dell G3 15",
+            "description": "The Dell G3 15 is a gaming laptop series designed for entry-level gamers, offering a balance of performance and affordability with a sleek design and durable construction.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "4aea9180-3c8a-4c85-8a98-bdd298843aee",
+            "image": null,
+            "name": "Bosch Diesel Fuel Injection",
+            "description": "The Bosch Diesel Fuel Injection series includes a range of high-quality components designed to optimize fuel efficiency and performance in diesel engines. These parts are engineered for durability and precision, catering to a variety of vehicle makes and models.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Bosch Automotive"
+            }
+        },
+        {
+            "id": "4c71456b-3f71-48d2-88eb-ef4fcd64c82a",
+            "image": null,
+            "name": "Volkswagen Tiguan II",
+            "description": "The Volkswagen Tiguan II is a mid-size SUV designed for versatility and comfort, combining spacious interior with advanced technology and safety features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "4dd6fef8-955e-4bf3-8f9b-24db26da9500",
+            "image": null,
+            "name": "Apple Watch Series 3",
+            "description": "The Apple Watch Series 3 is a smartwatch designed to keep users connected and active, featuring fitness tracking, notifications, and the ability to make calls directly from the wrist.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        }
+    ]
+}

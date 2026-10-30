@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "d529cc92-0a3f-49a9-84eb-ffe67bd82da7",
+            "image": null,
+            "name": "Nord Piano 3",
+            "description": "The Nord Piano 3 is a stage piano known for its high-quality piano sounds, extensive sound library, and robust performance features, designed for professional musicians and live performances.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "a52bc110-7b2b-43b5-bc16-ae80b1bde119",
+            "image": null,
+            "name": "Nord Electro 5D",
+            "description": "The Nord Electro 5D is a portable digital keyboard designed for live performance, featuring a combination of electric pianos, organs, and synthesizers, making it suitable for a variety of music genres.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "a980e529-dce3-4b2c-9f0a-7073eb809cba",
+            "image": null,
+            "name": "Nord Electro 5D HP",
+            "description": "The Nord Electro 5D HP is a versatile stage piano designed for live performance, featuring a wide range of instruments and sounds tailored for professional musicians.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "14eec0f0-d00c-4209-ae54-959423dcd7d4",
+            "image": null,
+            "name": "Nord Piano 4",
+            "description": "The Nord Piano 4 is a stage piano designed for live performances, offering a range of high-quality acoustic and electric piano sounds, along with customizable effects and a user-friendly interface.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "708ce2ba-4b04-4a2f-a9d6-f1395b0a168c",
+            "image": null,
+            "name": "Nord Grand",
+            "description": "The Nord Grand is a premium stage piano designed for professional musicians. It features weighted keys, advanced sampling technology, and a versatile sound engine, making it suitable for performance and studio use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "d0438e0a-5de7-4780-89d4-a44ca7a4c9ca",
+            "image": null,
+            "name": "Nord Stage 3 Compact",
+            "description": "The Nord Stage 3 Compact is a portable digital stage piano designed for live performance, featuring advanced synthesis, sampling, and organ sounds, with a user-friendly interface and versatile connectivity options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "867736ca-de33-4303-91bf-c63fe95b5c5f",
+            "image": null,
+            "name": "Nord Wave 2",
+            "description": "The Nord Wave 2 is a versatile synthesizer and sampler designed for musicians, offering a wide range of sounds and flexible performance capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "20a48516-dc86-41c7-85df-3b9d63a1eb61",
+            "image": null,
+            "name": "Nord Stage 3 HP76",
+            "description": "The Nord Stage 3 HP76 is a portable digital stage piano designed for live performances, featuring a 76-key hammer-action keyboard, versatile sound engines, and comprehensive connectivity options.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "86e6ac8d-5733-42a0-9e6f-0c861627072e",
+            "image": null,
+            "name": "Nord Electro 6",
+            "description": "The Nord Electro 6 is a versatile digital keyboard suited for both stage and studio settings, featuring a wide range of sounds and advanced performance capabilities.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "d8641f6e-79cc-407d-8ed9-662c1d0dccef",
+            "image": null,
+            "name": "Nord Piano 5",
+            "description": "The Nord Piano 5 is a digital stage piano designed for professional musicians, featuring an extensive range of sounds, including acoustic pianos, electric pianos, and synthesizers, making it suitable for live performances and studio work.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Nord"
+            }
+        },
+        {
+            "id": "5098df03-9eaa-4e21-8190-77764fb2be2a",
+            "image": null,
+            "name": "Trek Emonda",
+            "description": "The Trek Emonda series comprises lightweight road bikes designed for climbing performance and efficiency, catering to cyclists who prioritize speed and agility on ascents.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "40fe41ea-3e1c-404d-8e08-d4930cd5bbc7",
+            "image": null,
+            "name": "Trek Domane",
+            "description": "The Trek Domane series consists of endurance road bikes designed for comfort and stability on long rides, featuring technology that minimizes road vibrations and enhances performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "73698971-6405-4c97-89a7-9c3f104e2cbe",
+            "image": null,
+            "name": "Trek Marlin",
+            "description": "The Trek Marlin series is a versatile line of mountain bikes designed for both entry-level and experienced riders, offering a balance of performance, durability, and affordability for trail riding and recreational cycling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "53006633-2ea1-46e5-8a5b-c94b83e96f1e",
+            "image": null,
+            "name": "Trek Fuel EX",
+            "description": "The Trek Fuel EX is an all-mountain bike designed for versatility and performance on a variety of terrains, offering a balance of efficiency for climbing and stability for descending.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "c41aa952-782f-4e87-a188-b4ec5f76a30d",
+            "image": null,
+            "name": "Trek Slash",
+            "description": "The Trek Slash is a performance-oriented mountain bike designed for aggressive trail riding, featuring a robust frame and advanced suspension technology to handle rough terrain with ease.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "c95fc0e3-196c-4a86-91b4-12a68fbe0f0f",
+            "image": null,
+            "name": "Trek Checkpoint",
+            "description": "The Trek Checkpoint is a versatile gravel bike designed for a wide range of terrains, offering durability and performance for both long-distance rides and off-road adventures.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "ecbfbcd8-f11c-4795-8f42-fea9f7684b02",
+            "image": null,
+            "name": "Zanier Kids Gloves 2016 Collection",
+            "description": "The Zanier Kids Gloves 2016 Collection provides warmth and protection for children's hands during outdoor activities in cold weather.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Zanier"
+            }
+        },
+        {
+            "id": "ff168d82-4f71-4e17-a235-59d83db51529",
+            "image": null,
+            "name": "Trek Rail 5",
+            "description": "The Trek Rail 5 is a versatile electric mountain bike designed for trail riding and climbing, combining the excitement of mountain biking with the assistance of an electric motor for extended range and performance.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "9d8d383a-11ab-489b-b860-a16b1693debc",
+            "image": null,
+            "name": "Domane",
+            "description": "The Trek Domane series comprises endurance road bikes designed for comfort and efficiency on long rides, featuring advanced technology to smooth out rough roads.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "1d10dba2-fc55-44c6-95a8-7ce0e19a4137",
+            "image": null,
+            "name": "Mercedes-Benz W204",
+            "description": "The Mercedes-Benz W204 is a compact executive car that was produced from 2007 to 2014, renowned for its blend of luxury, performance, and advanced technology.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "56df681b-0e0b-4a3c-b91b-1655984280e3",
+            "image": null,
+            "name": "Top Fuel",
+            "description": "The Trek Top Fuel is a versatile mountain bike designed for cross-country and trail riding, offering a balance of speed and control on various terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "745a1977-ff6a-4d9d-9809-42eb921a018a",
+            "image": null,
+            "name": "Marlin",
+            "description": "The Trek Marlin series is designed for versatile mountain biking, providing a reliable and durable platform for both new and experienced riders. These bikes are known for their lightweight frame and efficient performance on various terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "abd46410-244c-41b4-814d-4aa0896a9270",
+            "image": null,
+            "name": "Haro 2018 BMX Line",
+            "description": "The Haro 2018 BMX Line is a collection of BMX bikes designed for riders of various skill levels, emphasizing durability and performance for tricks and racing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Haro Bikes"
+            }
+        },
+        {
+            "id": "1ae634de-f001-4081-b081-6335e191faff",
+            "image": null,
+            "name": "Trek Supercaliber",
+            "description": "The Trek Supercaliber is a high-performance cross-country mountain bike optimized for climbing efficiency and smooth downhill handling. It features a lightweight frame and advanced suspension system for enhanced control on various terrains.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "449aabcf-0dee-4d32-821b-05080d3601a4",
+            "image": null,
+            "name": "Bianchi Aria",
+            "description": "The Bianchi Aria is a high-performance road bike series designed for speed and aerodynamics, featuring lightweight materials and advanced engineering for competitive cycling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Bianchi"
+            }
+        },
+        {
+            "id": "5703f2db-7f9e-43c5-ad0e-4edcce871fb3",
+            "image": null,
+            "name": "Play Food",
+            "description": "The Melissa & Doug Play Food series features a variety of realistic, wooden play food items designed to encourage imaginative play and develop social skills in children. Ideal for role-playing and kitchen games, these toys promote creativity and understanding of food and nutrition.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Melissa & Doug"
+            }
+        },
+        {
+            "id": "e92dcbc1-1849-4fee-8d5e-da5e4e75c208",
+            "image": null,
+            "name": "Gap Kids Holiday 2016",
+            "description": "Gap Kids Holiday 2016 is a collection of festive clothing designed for children, featuring playful and stylish outfits ideal for holiday celebrations and gatherings.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Gap Kids"
+            }
+        },
+        {
+            "id": "3f222d28-4dd8-4c2c-be80-461c1afbcdba",
+            "image": null,
+            "name": "Boys' 24/7 Collection",
+            "description": "The OshKosh B'gosh Boys' 24/7 Collection features versatile and durable kids' clothing designed for everyday wear. This series focuses on comfort, style, and practicality, making it suitable for a variety of activities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "c38d7c8a-9467-492e-87f1-0abd81d007ed",
+            "image": null,
+            "name": "OshKosh B’gosh Toddler",
+            "description": "The OshKosh B’gosh Toddler series offers durable and stylish clothing specifically designed for toddlers, highlighting comfort and playfulness in its designs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "d3f6df72-f74b-47f4-a825-961216a38ac3",
+            "image": null,
+            "name": "OshKosh B’gosh Spring/Summer 2018 Collection",
+            "description": "The OshKosh B'gosh Spring/Summer 2018 Collection features a vibrant and playful range of kids' clothing designed for comfort and durability, perfect for active play during warm weather.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        }
+    ]
+}

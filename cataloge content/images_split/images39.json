@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "31a7088d-8e14-42af-b385-b0fc38fa2960",
+            "image": null,
+            "name": "Benelli TRK 502 X",
+            "description": "The Benelli TRK 502 X is an adventure touring motorcycle designed for versatility on both on-road and off-road terrains, offering a blend of comfort, technology, and durability for riders seeking exploration.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Benelli"
+            }
+        },
+        {
+            "id": "32dc52ce-5746-40a9-8f7d-37c0ee47ab0f",
+            "image": null,
+            "name": "KTM 1290 Super Adventure",
+            "description": "The KTM 1290 Super Adventure is a versatile touring motorcycle designed for long-distance travel, offering comfort, high performance, and advanced technology for both on-road and off-road riding.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "3ddf9b2c-961c-4920-8f8c-43316b642fe2",
+            "image": null,
+            "name": "Avon Tyres 4x4",
+            "description": "The Avon Tyres 4x4 series consists of specialized tires designed for off-road and all-terrain vehicles, providing enhanced traction and durability on various surfaces.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Avon Tyres"
+            }
+        },
+        {
+            "id": "451a54e4-23be-44e5-b7e1-249a6edfcfa9",
+            "image": null,
+            "name": "KTM 250 Duke",
+            "description": "The KTM 250 Duke is a lightweight naked motorcycle designed for urban commuting and beginner riders, featuring a powerful engine and agile handling that make it ideal for navigating city streets.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "KTM"
+            }
+        },
+        {
+            "id": "a27ece8d-9fe0-460a-900d-01ac5548682a",
+            "image": null,
+            "name": "MAX Series",
+            "description": "The Clarion MAX Series is designed for high-performance car audio applications, offering superior sound quality and durability.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "b4b4ca9e-0056-48cd-b0d1-bb5a7819425f",
+            "image": null,
+            "name": "Gucci Horsebit 1955",
+            "description": "The Gucci Horsebit 1955 series features a collection of bags that blend the house's heritage with contemporary design, characterized by the iconic horsebit motif and a range of versatile styles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b85369a8-cbb6-46c2-abba-910dbb3d0c50",
+            "image": null,
+            "name": "Zero MX",
+            "description": "The Zero MX is an electric motorcycle designed for off-road riding, offering lightweight construction and agile handling for enthusiasts looking for a sustainable trail riding experience.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "cbaaf40d-7c89-4160-bfbe-d30193dd8108",
+            "image": null,
+            "name": "Kawasaki ZRX Series",
+            "description": "The Kawasaki ZRX Series is a line of retro-styled motorcycles known for their powerful engines and classic design elements, combining modern technology with nostalgia for enthusiasts and riders seeking both performance and style.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki Heavy Industries"
+            }
+        },
+        {
+            "id": "d2f9a072-64c5-43a3-b750-69d7adb44f48",
+            "image": null,
+            "name": "Gucci Jackie 1961",
+            "description": "The Gucci Jackie 1961 series features a timeless design, characterized by its hobo-style silhouette and a focus on functional elegance, making it an ideal accessory for versatile styling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d3690b6e-db02-43a1-ab49-3677afaafcb8",
+            "image": null,
+            "name": "Thruxton R",
+            "description": "The Triumph Thruxton R, released in 2015, is a café racer-style motorcycle known for its performance, stylish design, and agile handling, aimed at riders seeking a blend of classic aesthetics and modern engineering.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "5fe1bba1-feea-4e62-ad0b-515224716e89",
+            "image": null,
+            "name": "Huawei P30 Pro",
+            "description": "The Huawei P30 Pro is a flagship smartphone known for its advanced camera system, powerful performance, and sleek design, catering to users who seek high-quality photography and versatile functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "67badacf-a799-4502-9e9b-4beb827c2a4f",
+            "image": null,
+            "name": "Huawei Mate 10",
+            "description": "The Huawei Mate 10 is a smartphone series launched in 2017, known for its advanced artificial intelligence features, dual camera system, and strong performance in a sleek design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "71696b4f-7851-4e64-a607-f831fd48724e",
+            "image": null,
+            "name": "Huawei Nova 2 Plus",
+            "description": "The Huawei Nova 2 Plus is a smartphone released in 2017, designed for users seeking a balance of performance and style with a focus on photography features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "812feeb4-f233-4de9-a52b-2ad543db5651",
+            "image": null,
+            "name": "Huawei P20",
+            "description": "The Huawei P20 series is a line of smartphones known for their advanced camera technology, delivering high-quality photography and performance within a sleek design. Released in 2018, this series emphasizes artificial intelligence features for enhanced user experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "95924974-f5e7-49c5-b73d-3b55c640b56f",
+            "image": null,
+            "name": "Cuisinart Grind & Brew 2.0 Coffee Maker",
+            "description": "The Cuisinart Grind & Brew 2.0 Coffee Maker is a fully automatic coffee machine that allows users to grind whole beans and brew fresh coffee with ease, providing a convenient one-stop solution for coffee lovers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "db02b9b2-5a48-4990-a458-b75d865eecd2",
+            "image": null,
+            "name": "Huawei Mate 10 Pro",
+            "description": "The Huawei Mate 10 Pro is a smartphone released in 2017, designed to deliver a premium user experience with its advanced camera capabilities, powerful performance, and a sleek design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "deb4c0c7-76c6-4871-b3dc-56dd90bbf16a",
+            "image": null,
+            "name": "Huawei MateBook",
+            "description": "The Huawei MateBook series includes a range of laptops designed to provide a balance of performance and portability, featuring sleek designs and advanced technology for productivity and entertainment.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "f1b9e2bc-03d5-4174-9278-16c28ba2e905",
+            "image": null,
+            "name": "Huawei P10 Plus",
+            "description": "The Huawei P10 Plus is a premium smartphone released in 2017, designed to offer high performance, dual-lens photography capabilities, and a sleek design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "f7cabe9d-0e36-443c-8aea-876006d5445e",
+            "image": null,
+            "name": "Huawei P10",
+            "description": "The Huawei P10 is a smartphone series released in 2017, known for its sleek design, powerful performance, and advanced camera capabilities, aiming to provide an enhanced mobile experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "a1b91703-2e41-4f4d-805c-e9f56df2f9c9",
+            "image": null,
+            "name": "Huawei P30 Series",
+            "description": "The Huawei P30 Series is a flagship smartphone line released in 2019, known for its advanced camera capabilities and sleek design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "ac20da0d-c6b1-4099-aa2b-55f06a0b8cc1",
+            "image": null,
+            "name": "Huawei P20 Lite",
+            "description": "The Huawei P20 Lite is a mid-range smartphone designed for users seeking a blend of style and functionality, featuring a sleek design and a dual-camera system for enhanced photography.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "b75a4898-7d66-47bc-9af6-4772531d48ee",
+            "image": null,
+            "name": "Huawei Nova 2",
+            "description": "The Huawei Nova 2 is a mid-range smartphone series released in 2017, designed to offer a balanced blend of performance and style, catering to users seeking an affordable yet capable device.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "23089b3e-7886-4f72-add6-fa85616756b4",
+            "image": null,
+            "name": "Huawei Mate 20",
+            "description": "The Huawei Mate 20 series is a line of smartphones launched in 2018, known for its high-performance capabilities, sophisticated camera system, and innovative design intended for users seeking advanced technology in mobile devices.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "37503ba6-b69b-491c-8333-5cde44e1a560",
+            "image": null,
+            "name": "Huawei Nova",
+            "description": "The Huawei Nova series includes a range of smartphones designed to provide a balance of style, performance, and affordability. Released in 2016, these devices focus on delivering a good user experience with decent cameras and battery life.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "40e56d9a-3f17-4bd4-9e31-11da376aa9fe",
+            "image": null,
+            "name": "Huawei P9",
+            "description": "The Huawei P9 is a smartphone released in 2016, known for its dual-camera system developed in collaboration with Leica, aimed at enhancing photography capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "4ba9461a-93ef-4faa-a0d9-96ac9dd2a63c",
+            "image": null,
+            "name": "Sharp Plasmacluster",
+            "description": "The Sharp Plasmacluster series of refrigerators is designed to provide effective food preservation while utilizing Plasmacluster technology to reduce odors and maintain freshness by purifying the air inside the unit.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "4d20d1ea-fcf8-4eae-81d5-eb3c23af7535",
+            "image": null,
+            "name": "Huawei Mate 20 Pro",
+            "description": "The Huawei Mate 20 Pro is a premium smartphone released in 2018, designed to deliver high performance, exceptional camera capabilities, and advanced features such as an in-screen fingerprint sensor and AI-enhancements.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "52f09e56-8e7c-4651-8271-76284b05ea1a",
+            "image": null,
+            "name": "Huawei P20 Pro",
+            "description": "The Huawei P20 Pro is a high-end smartphone known for its triple camera system, powerful performance, and premium design, aimed at photography enthusiasts and users seeking a superior mobile experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "53595844-97ee-43e1-85d9-3e91d5959577",
+            "image": null,
+            "name": "Sharp 8K LCD TV",
+            "description": "The Sharp 8K LCD TV series offers ultra-high-definition displays with four times the resolution of 4K, designed to deliver exceptional image clarity and detail for an immersive viewing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Sharp"
+            }
+        },
+        {
+            "id": "becb86a5-bb2d-4c68-ad48-2b45d4c3d5c9",
+            "image": null,
+            "name": "Huawei P30 Lite",
+            "description": "The Huawei P30 Lite is a mid-range smartphone released in 2019, designed to offer a balance of performance, camera capabilities, and value for money.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        }
+    ]
+}

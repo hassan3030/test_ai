@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "872c4ff9-2984-4f06-9b1b-f7385d50a692",
+            "image": null,
+            "name": "HTR Sport",
+            "description": "The Sumitomo Tire HTR Sport series is designed for high-performance vehicles, offering enhanced handling and grip on both wet and dry surfaces while maintaining a comfortable ride.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "71680d12-3692-40cf-83c7-332773ee6009",
+            "image": null,
+            "name": "Ibanez Q Series",
+            "description": "The Ibanez Q Series is a line of lightweight electric guitars designed for optimal playability and comfort, catering to modern musicians who require versatility and high-fidelity sound.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Ibanez"
+            }
+        },
+        {
+            "id": "15ba4152-c310-45d2-8f97-354f5d448dc6",
+            "image": null,
+            "name": "FLTR Road Glide",
+            "description": "The Harley-Davidson FLTR Road Glide is a touring motorcycle known for its distinctive shark-nose fairing and comfortable long-distance riding capabilities.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "80989fb6-23b5-43e5-bd7e-d03d8a91bce5",
+            "image": null,
+            "name": "Crossterrain",
+            "description": "The Sumitomo Tire Crossterrain series is designed for all-terrain capability, offering a balance of on-road comfort and off-road traction suitable for a variety of driving conditions.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "9ebfa0e9-a4ed-49cb-ac80-8201c974b295",
+            "image": null,
+            "name": "Harley-Davidson Sportster Seventy-Two",
+            "description": "The Harley-Davidson Sportster Seventy-Two is a classic motorcycle known for its minimalist design and retro styling, offering a blend of vintage aesthetics and modern performance.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "bd6a5046-02e6-457a-9b57-140fc15fc2d2",
+            "image": null,
+            "name": "Horizon",
+            "description": "The Sumitomo Tire Horizon series is designed for providing reliable performance and durability in various driving conditions, ensuring stability and comfort for everyday use.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "56d9fe47-63f8-4651-8387-48adfbff8c45",
+            "image": null,
+            "name": "Harley-Davidson Road Glide Custom",
+            "description": "The Harley-Davidson Road Glide Custom is a touring motorcycle known for its distinctive shark-nose fairing and comfortable riding position, making it suitable for long-distance cruising.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "059d7697-c12e-43f0-8efc-5294a26100c3",
+            "image": null,
+            "name": "Geolandar A/T-S",
+            "description": "The Sumitomo Geolandar A/T-S is an all-terrain tire designed for light trucks and SUVs, emphasizing durability and traction in various driving conditions, including on-road and off-road surfaces.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "a4f4627a-a530-4af7-b0b5-8a5e3bc44e07",
+            "image": null,
+            "name": "Harley-Davidson SuperLow",
+            "description": "The Harley-Davidson SuperLow is a cruiser motorcycle designed for riders seeking a low seat height and easy handling, making it ideal for both new and experienced motorcyclists.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "ae5d093a-34e2-4254-9cbc-7e0c2311657e",
+            "image": null,
+            "name": "Ecsta ASX",
+            "description": "The Sumitomo Ecsta ASX is a high-performance all-season tire designed to provide excellent traction and handling in diverse weather conditions, making it suitable for sporty vehicles and everyday driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "af72fc77-b610-4e24-b25d-8d3c15f11be4",
+            "image": null,
+            "name": "AVH-X Series",
+            "description": "The Pioneer AVH-X Series is a line of multimedia receivers designed for in-car audio and video entertainment, featuring touchscreen controls and compatibility with various media formats.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "9beebacd-2b26-45a9-8a38-086aca1e8ea0",
+            "image": null,
+            "name": "SuperLow",
+            "description": "The Harley-Davidson SuperLow is a motorcycle known for its low seat height and lightweight design, providing a comfortable and accessible riding experience for both new and experienced riders.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "1677649a-9682-4004-ae31-b4cfde454fac",
+            "image": null,
+            "name": "Pioneer DJ - XDJ Series",
+            "description": "The Pioneer DJ - XDJ Series is a range of digital DJ systems that integrate advanced features for professional live performances and high-quality audio playback. This series is designed to provide DJs with versatile tools for mixing and creativity in various environments.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "43eb73a2-3170-4f0b-88ce-0a3b42ce4759",
+            "image": null,
+            "name": "Softail Family",
+            "description": "The Harley-Davidson Softail Family is a series of motorcycles designed for a classic look with a modern performance, featuring a hidden rear suspension that provides a smooth ride while maintaining the traditional cruiser aesthetic.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "40f68a38-2e34-4e69-8399-00752850540e",
+            "image": null,
+            "name": "ZX Series",
+            "description": "The Clarion ZX Series is a line of car audio products designed to enhance in-vehicle sound quality and provide powerful performance for an immersive listening experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "7a33d2a0-a314-4113-b80b-2f0a4f342365",
+            "image": null,
+            "name": "Sportster Family",
+            "description": "The Harley-Davidson Sportster Family, introduced in 2012, is a line of lightweight motorcycles known for their maneuverability and classic style, appealing to riders seeking a blend of performance and tradition.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "dbcc6099-e570-4fd2-b991-966ea0abb4df",
+            "image": null,
+            "name": "CM Series",
+            "description": "The Clarion CM Series is a line of car audio components designed to enhance the in-vehicle listening experience, featuring high-quality sound reproduction and user-friendly interfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "f4ae3871-a3d0-413b-ab8f-3a46b1708e4d",
+            "image": null,
+            "name": "Street 500",
+            "description": "The Harley-Davidson Street 500 is a lightweight motorcycle designed for urban riding, combining agility with iconic styling and an approachable performance for new riders.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "06987979-e632-429d-8c94-672b5b98d57a",
+            "image": null,
+            "name": "Ohtsu FP7000",
+            "description": "The Ohtsu FP7000 is a passenger car tire designed for enhanced performance and comfort on both wet and dry surfaces. It features a symmetric tread pattern that promotes stability and reduces road noise.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "300bbcdb-f4f0-4900-a3db-6e51537cfbd3",
+            "image": null,
+            "name": "Garmin Forerunner 245",
+            "description": "The Garmin Forerunner 245 is a GPS running watch designed for runners who want advanced training features, performance monitoring, and smart notifications in a lightweight, sporty form.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "5a8dbb97-95b7-49cc-973a-fc870a4b155f",
+            "image": null,
+            "name": "Thermawrap",
+            "description": "The Montbell Thermawrap series offers lightweight, insulated clothing designed for warmth and comfort during outdoor activities and camping. These garments are easily packable and provide effective thermal protection in varying weather conditions.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Montbell"
+            }
+        },
+        {
+            "id": "7f21ce7f-7bf3-40b0-b22a-f5fb7eb20310",
+            "image": null,
+            "name": "Crossover CLX",
+            "description": "The Sumitomo Tire Crossover CLX series is designed for crossover vehicles, providing a blend of performance and comfort for daily driving under various road conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Sumitomo Tire"
+            }
+        },
+        {
+            "id": "eb93e86f-294c-4fa4-8cd7-dd4e0797beda",
+            "image": null,
+            "name": "CDA Series",
+            "description": "The Clarion CDA Series is a line of car audio receivers designed to deliver high-quality sound and user-friendly features for an enhanced driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "d8ca6218-e83c-4558-96b4-f8610c8e9f51",
+            "image": null,
+            "name": "X-Touch",
+            "description": "The Behringer X-Touch series is a collection of advanced control surfaces designed for music production, offering seamless integration with various digital audio workstations (DAWs) and allowing for efficient control of mixing and editing processes.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Behringer"
+            }
+        },
+        {
+            "id": "03d46ce6-fe04-4aa6-87cb-2703e350b2a3",
+            "image": null,
+            "name": "S-DJX Series",
+            "description": "The S-DJX Series by Pioneer is designed for professional DJs, offering high-performance audio equipment that delivers clear, powerful sound for both live performances and studio use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Pioneer"
+            }
+        },
+        {
+            "id": "9d3b1551-33a5-4e5e-8b94-3ac408957b6e",
+            "image": null,
+            "name": "Fat Boy S",
+            "description": "The Harley-Davidson Fat Boy S is a powerful cruiser motorcycle known for its striking design and robust performance, combining classic Harley styling with modern engineering.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        },
+        {
+            "id": "c8198baf-0ff4-4f27-9d6c-4954f3f0039f",
+            "image": null,
+            "name": "Galaxy Tab S7",
+            "description": "The Samsung Galaxy Tab S7 is a premium Android tablet released in 2020, designed for productivity and entertainment with its high-resolution display and S Pen functionality.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "7c22aafa-bf83-431a-8ae7-f8d11820594a",
+            "image": null,
+            "name": "Garmin Forerunner 245 Music",
+            "description": "The Garmin Forerunner 245 Music is a GPS smartwatch designed for runners, offering advanced fitness tracking features along with music storage and playback functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "ab93204c-4dc0-47db-845d-54cb02580135",
+            "image": null,
+            "name": "Garmin MARQ Series",
+            "description": "The Garmin MARQ Series is a premium collection of smart watches designed for athletes and adventurers, featuring advanced performance metrics and rugged designs tailored for outdoor and sports activities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Smart Watches"
+            },
+            "brand_id": {
+                "name": "Garmin"
+            }
+        },
+        {
+            "id": "f381ce00-88a1-4839-9465-15f519ab90cb",
+            "image": null,
+            "name": "Electra Glide Ultra Classic Low",
+            "description": "The Harley-Davidson Electra Glide Ultra Classic Low is a touring motorcycle designed for long-distance travel with a focus on comfort and technology features, catering to riders who prioritize a smooth ride and ample storage.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Harley-Davidson"
+            }
+        }
+    ]
+}

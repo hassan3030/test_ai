@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "85186523-c063-47c2-8441-5c63724b8d6b",
+            "image": null,
+            "name": "Peugeot Partner (New Generation)",
+            "description": "The Peugeot Partner (New Generation) is a versatile and functional light commercial vehicle designed for businesses and families, offering spacious interiors and efficient performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "0ca54c71-907f-4889-8c9a-4b1fa031a08a",
+            "image": null,
+            "name": "BMW 5 Series (E60)",
+            "description": "The BMW 5 Series (E60) is a mid-size luxury sedan that combines sporty performance with advanced technology and comfort, catering to both driving enthusiasts and those seeking a premium vehicle experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "17d87d48-42c0-4f16-8433-a6b2d33d96b9",
+            "image": null,
+            "name": "Nike Air Zoom Tempo NEXT%",
+            "description": "The Nike Air Zoom Tempo NEXT% is a performance running sneaker designed for speed and efficiency, featuring responsive cushioning and a lightweight construction to enhance running experiences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Nike"
+            }
+        },
+        {
+            "id": "58df4689-7d57-45e6-b61e-5074ebd5ed47",
+            "image": null,
+            "name": "GE Front Load Washing Machines",
+            "description": "The GE Front Load Washing Machines offer efficient washing solutions with advanced features such as a large capacity drum and energy-saving technologies, designed to provide effective cleaning while minimizing water and energy usage.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "854a8608-80ac-4277-bfe8-d369e0c2fdeb",
+            "image": null,
+            "name": "Volkswagen Golf MK7.5",
+            "description": "The Volkswagen Golf MK7.5 is a compact car known for its blend of practicality, performance, and advanced technology, making it suitable for a variety of driving needs.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "b0871de5-812c-42ef-a3a4-6ac6b2091de8",
+            "image": null,
+            "name": "Lava KKT",
+            "description": "The Lava KKT series is a line of feature phones designed primarily for everyday communication, offering essential functionalities in a compact and user-friendly form.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "b3ffaa93-adbd-49d7-9d92-c5d31a812b0f",
+            "image": null,
+            "name": "LENDA",
+            "description": "The LENDA series from IKEA focuses on upholstered chairs that are designed for comfort and versatility in various living spaces. Each chair features soft fabric and simple design, making it suitable for a range of interior styles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "IKEA"
+            }
+        },
+        {
+            "id": "c1d4454e-1966-446c-a6bf-d4654a39ff9f",
+            "image": null,
+            "name": "GE MWF Water Filter",
+            "description": "The GE MWF Water Filter series provides a means to purify drinking water by removing contaminants, enhancing taste and odor for home use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c20f1603-001c-4de4-8673-879f1432ec1e",
+            "image": null,
+            "name": "Dior Caro",
+            "description": "The Dior Caro series features a collection of luxurious bags characterized by their elegant design and classic silhouette, making them suitable for both everyday use and special occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d413c527-9dce-42de-b3fc-2d2ede5270e9",
+            "image": null,
+            "name": "GE Front Load Washers",
+            "description": "The GE Front Load Washers are designed for efficient and thorough cleaning, featuring advanced wash technology that reduces water and energy consumption while providing excellent clothes care.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d4415116-40f6-478e-984a-c73b62931a63",
+            "image": null,
+            "name": "Lava 3G Series",
+            "description": "The Lava 3G Series consists of smartphones designed to offer affordable access to 3G technology, targeting budget-conscious consumers in emerging markets.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Lava"
+            }
+        },
+        {
+            "id": "6348f64a-8921-4b2e-8694-eb637e5e5463",
+            "image": null,
+            "name": "BMW 3 Series (E92)",
+            "description": "The BMW 3 Series (E92) is a luxury compact coupe that blends sporty performance with refined comfort, designed for enthusiasts who appreciate driving dynamics.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "66162936-d396-4abb-9e70-4967c332998f",
+            "image": null,
+            "name": "BMW 3 Series (F30)",
+            "description": "The BMW 3 Series (F30) is a compact executive car known for its driving dynamics, luxury interior, and advanced technology. Introduced in 2012, it has become a popular choice for those seeking a blend of performance and comfort in a sedan.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "7f113fd5-d113-4f4d-a83e-e661d0915fb2",
+            "image": null,
+            "name": "BMW X5 (F15)",
+            "description": "The BMW X5 (F15) is a luxury mid-size SUV known for its dynamic performance, upscale interior, and advanced technology. Launched in 2013, it combines practicality and comfort, catering to both driving enthusiasts and families.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "d91d8aaa-c43c-4c45-a858-8cbef18ed115",
+            "image": null,
+            "name": "BMW M3 (E92)",
+            "description": "The BMW M3 (E92) is a high-performance version of the BMW 3 Series, known for its powerful V8 engine and sport-oriented design. Launched in 2008, it combines luxury with enhanced handling and driving dynamics.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "82a8f46f-c31b-440a-b8b9-656d3d4feb29",
+            "image": null,
+            "name": "BMW X5 (E70)",
+            "description": "The BMW X5 (E70) is a luxury mid-size SUV that combines sporty handling with ample passenger space and advanced technology, catering to drivers seeking versatile performance and comfort in various driving conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "e9a0cd24-1136-426f-9799-ad970981f4b3",
+            "image": null,
+            "name": "BMW X3 (F25)",
+            "description": "The BMW X3 (F25) is a compact luxury SUV that offers a blend of performance, comfort, and utility, making it suitable for both urban and outdoor environments.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "f7b08930-21ea-4274-9d14-7e716dc0a80d",
+            "image": null,
+            "name": "BMW Z4 (E85/E86)",
+            "description": "The BMW Z4 (E85/E86) is a compact sports car produced by BMW from 2002, designed for dynamic driving experiences and equipped with rear-wheel drive and a range of powerful engines.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "3d39a5eb-010a-47d1-8a95-1f32084c9dec",
+            "image": null,
+            "name": "Cougar Ranger",
+            "description": "The Cougar Ranger series features ergonomic gaming chairs designed for prolonged comfort and support during gaming sessions, incorporating adjustable armrests and height for personalized fit.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "ab85ab5e-a325-40d6-8b2f-ddad98df9e6c",
+            "image": null,
+            "name": "BMW 6 Series (F12/F13)",
+            "description": "The BMW 6 Series (F12/F13) is a luxury grand tourer that offers a combination of performance, comfort, and technology, aimed at providing an engaging driving experience and upscale features.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "b183b51b-db6e-4cc2-bd54-c9dfa483b6a7",
+            "image": null,
+            "name": "BMW X1 (E84)",
+            "description": "The BMW X1 (E84) is a compact luxury SUV that combines sporty handling with versatile space, designed to enhance urban mobility while providing comfort and practicality.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "d525e81f-ea40-4e7c-9a67-53f17807e63f",
+            "image": null,
+            "name": "BMW i8",
+            "description": "The BMW i8 is a plug-in hybrid sports car that combines a gasoline engine with an electric motor, showcasing advanced engineering and a focus on sustainability since its release in 2013.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "7dd4de12-367b-4c35-a3d3-a8d2a9814a0b",
+            "image": null,
+            "name": "Kawasaki Vulcan 900",
+            "description": "The Kawasaki Vulcan 900 is a cruiser motorcycle introduced in 2006, known for its combination of classic styling and modern performance, making it suitable for both beginners and experienced riders.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "d7e74ea0-7816-41f3-b992-e3b200cb4a56",
+            "image": null,
+            "name": "BMW M6 (E63/E64)",
+            "description": "The BMW M6 (E63/E64) is a high-performance luxury coupe and convertible that showcases powerful engineering and unrestrained driving dynamics, aimed at enthusiasts seeking both comfort and sportiness.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "01621803-c3eb-4405-b8fe-8ce75ceda0ab",
+            "image": null,
+            "name": "BMW Z4 (E85)",
+            "description": "The BMW Z4 (E85) is a 2-door convertible sports car produced by BMW, known for its sporty handling, dynamic design, and rear-wheel drive configuration, making it a popular choice among driving enthusiasts.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "0cd593db-98cf-4e18-b978-12562dfe78bf",
+            "image": null,
+            "name": "BMW 3 Series (E90/E92/E93)",
+            "description": "The BMW 3 Series (E90/E92/E93) is a compact executive car series that was produced from 2005, known for its sporty performance, precise handling, and premium interior quality.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "1f9b8757-f810-4758-8693-0b3101283191",
+            "image": null,
+            "name": "BMW X6 (E71)",
+            "description": "The BMW X6 (E71) is a mid-size luxury SUV known for its sporty design and performance capabilities, combining the functionality of an SUV with the aesthetics of a coupe.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "2a925f48-e68f-47eb-afcb-3f51f70f424e",
+            "image": null,
+            "name": "BMW 5 Series (F10)",
+            "description": "The BMW 5 Series (F10) is a mid-size luxury sedan known for its combination of performance, comfort, and advanced technology, established as a benchmark in its class since its introduction in 2010.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "33471c0d-daef-44b6-a6db-f30e06427ba9",
+            "image": null,
+            "name": "BMW 1 Series (E87, E88, E82, E81)",
+            "description": "The BMW 1 Series (E87, E88, E82, E81) is a compact car series that offers a sporty driving experience and a range of engine options, catering to urban consumers looking for practicality with luxury.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "488fa3ab-65c6-4276-9b64-4daa99d42632",
+            "image": null,
+            "name": "BMW 1 Series (F20)",
+            "description": "The BMW 1 Series (F20) is a compact luxury car that focuses on dynamic driving experiences while offering high-quality interiors and advanced technology. It is designed to provide agile handling and comfort for urban and long-distance driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        }
+    ]
+}

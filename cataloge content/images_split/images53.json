@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "99409262-02e3-4e1b-85c8-bb533558fe37",
+            "image": null,
+            "name": "Subaru Impreza (2004 Generation)",
+            "description": "The Subaru Impreza (2004 Generation) is a compact car known for its all-wheel drive capability, sporty performance, and practicality, making it suitable for both urban driving and adventurous pursuits.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c4aa46ab-6205-45df-acd5-f3686f4881f1",
+            "image": null,
+            "name": "Thesis",
+            "description": "The Audison Thesis series represents a high-end range of car audio products designed to deliver exceptional sound quality and performance for audiophiles.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "48cd1ce2-445c-42b6-823a-02589d613b0c",
+            "image": null,
+            "name": "Miele Dialogue",
+            "description": "The Miele Dialogue series is a line of advanced microwaves designed to offer innovative cooking solutions through the use of electromagnetic waves, ensuring even cooking results and enhanced food quality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Microwaves"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "244ebc90-5934-45d2-8b84-cd9d9db57e69",
+            "image": null,
+            "name": "Toyota Aygo",
+            "description": "The Toyota Aygo is a compact city car designed for urban mobility, emphasizing efficiency and maneuverability in tight spaces.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "14c2f122-06b7-4530-b3bb-357d1840733d",
+            "image": null,
+            "name": "Meguiar's Detailer Line",
+            "description": "The Meguiar's Detailer Line is a series of car care products designed for professional detailers and automotive enthusiasts, focusing on efficient, high-performance solutions for cleaning, polishing, and protecting vehicle surfaces.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "1f90a119-545d-4f70-9dad-9dacf68a47b2",
+            "image": null,
+            "name": "Meguiar's Waterless Wash & Wax",
+            "description": "Meguiar's Waterless Wash & Wax is designed for quick and convenient vehicle cleaning without the need for rinsing. It effectively removes dirt and grime while leaving a protective wax layer for enhanced shine.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "3b6707b8-d707-4321-9140-04e4dd49c93f",
+            "image": null,
+            "name": "Meguiar's NXT Generation",
+            "description": "Meguiar's NXT Generation is a series of advanced car care products designed to enhance the appearance and protect the finish of vehicles. Launched in 2004, this line features innovative formulations aimed at providing superior results for automotive detailing enthusiasts.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "4bbba8d9-7cdd-4780-9a85-17aa9f3e0da9",
+            "image": null,
+            "name": "NXT Generation",
+            "description": "The NXT Generation series by Meguiar's Brasil includes a range of car care products designed to enhance the appearance and protection of automotive surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "4c84c372-22db-4344-aaa3-eaa1d077ee9e",
+            "image": null,
+            "name": "Meguiar's Ultimate Series",
+            "description": "The Meguiar's Ultimate Series consists of premium car care products designed to provide exceptional results in paint protection and surface enhancement. This series is known for its advanced formulations that ensure superior shine and long-lasting results.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "56a1f8a0-371a-4855-a631-748f5c69c8d9",
+            "image": null,
+            "name": "Hybrid Ceramic Wax",
+            "description": "Meguiar's Hybrid Ceramic Wax is a car care product designed to provide durable protection and enhance the appearance of your vehicle's surface with advanced ceramic technology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "59159b5c-62b2-4a91-9337-8899a1979a2f",
+            "image": null,
+            "name": "Ultimate Line",
+            "description": "The Ultimate Line by Meguiar's Brasil offers a comprehensive range of car care products designed for the highest level of protection and shine, catering to both car enthusiasts and everyday drivers.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "5a84ceca-6c01-456e-a332-6191dca7fa52",
+            "image": null,
+            "name": "Meguiar's NXT Generation Tech Wax",
+            "description": "Meguiar's NXT Generation Tech Wax is a premium car care product designed to provide a long-lasting protective layer and enhance the shine of automotive paint. Its advanced formulation offers exceptional durability and ease of application.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "5e6b0bf8-a9ec-44dd-8e59-2574f26abb17",
+            "image": null,
+            "name": "Meguiar's Gold Class Carnauba Plus Wax",
+            "description": "Meguiar's Gold Class Carnauba Plus Wax provides premium protection and enhances the appearance of automotive paint with the use of high-quality Brazilian carnauba wax, resulting in deep, reflective shine.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's Brasil"
+            }
+        },
+        {
+            "id": "6a376f02-78c8-4279-ad1e-8b2f4ef92fc9",
+            "image": null,
+            "name": "Turtle Wax Flex Wax",
+            "description": "Turtle Wax Flex Wax is a versatile car care product designed for easy application, providing a durable protective layer and enhancing shine on vehicle surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "e6447da3-f021-4731-ac22-dde62bab79fa",
+            "image": null,
+            "name": "Turtle Wax Ceramic Polish & Wax",
+            "description": "The Turtle Wax Ceramic Polish & Wax series offers advanced car care solutions designed to deliver a high-gloss finish and long-lasting protection for vehicle paint. Formulated with ceramic technology, these products provide enhanced durability and water repellency.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "f141f334-9d82-479f-a33f-f4803a7a6f1f",
+            "image": null,
+            "name": "Collinite Travel Wax",
+            "description": "Collinite Travel Wax is a portable car wax designed for quick applications, providing a high level of shine and protection for vehicle finishes during travels.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "755e2559-8b0b-404a-beb6-2cb9d4bcec9d",
+            "image": null,
+            "name": "Turtle Wax Express Shine",
+            "description": "Turtle Wax Express Shine is a car care product series designed for quick and easy application, offering a protective shine to vehicle exteriors while enhancing their appearance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "7565c6ee-8c21-4f3e-b3f7-58c4271f4d39",
+            "image": null,
+            "name": "Zenergy",
+            "description": "The Zenergy series by Safco Products features versatile seating solutions designed to promote active sitting and enhance comfort in various work and learning environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Safco Products"
+            }
+        },
+        {
+            "id": "87c79034-37b3-48a9-8960-de0fbb1b4faf",
+            "image": null,
+            "name": "Turtle Wax Platinum Series",
+            "description": "The Turtle Wax Platinum Series offers premium car care products designed to enhance and protect your vehicle's exterior and interior surfaces, ensuring a lasting shine and durability.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "8931fd8a-f507-4ea2-a603-2251f5cb3fe1",
+            "image": null,
+            "name": "Collinite 476s Super Doublecoat Auto Wax",
+            "description": "Collinite 476s Super Doublecoat Auto Wax is a premium car wax known for its long-lasting durability and high gloss finish. It is designed to provide superior protection against the elements, making it suitable for both everyday and show car applications.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "8c8f2ec4-e30f-4063-a8ca-5806f50d2e88",
+            "image": null,
+            "name": "Turtle Wax Platinum",
+            "description": "Turtle Wax Platinum is a series of premium car care products designed to provide superior protection, shine, and durability to vehicle surfaces. Launched in 2005, it encompasses a variety of solutions for cleaning, polishing, and protecting cars.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "9a3cd7af-c96f-4e26-9c8d-06e402366792",
+            "image": null,
+            "name": "Redmi 9",
+            "description": "The Xiaomi Redmi 9 series is designed to offer budget-friendly smartphones with capable performance, a long-lasting battery, and an impressive display, making it ideal for everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Xiaomi"
+            }
+        },
+        {
+            "id": "9b409aea-adf5-41d1-90d1-216b1deec7b6",
+            "image": null,
+            "name": "Turtle Wax Color Magic",
+            "description": "Turtle Wax Color Magic is a series of car care products designed to enhance and restore the color and finish of automotive paintwork. This range features color-specific formulations that help to remove light scratches, swirl marks, and oxidation while providing a protective layer.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "155fdab2-bb44-4e59-b8e1-44cd3ef1557d",
+            "image": null,
+            "name": "Collinite No. 845 Insulator Wax",
+            "description": "Collinite No. 845 Insulator Wax is a high-quality car wax designed to provide exceptional protection and shine to automotive finishes. Known for its ease of application and durability, it helps repel dirt and contaminants while enhancing the appearance of the vehicle.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "2426935d-5396-4fe6-849f-d32318fbe7ac",
+            "image": null,
+            "name": "Turtle Wax Bug & Tar Remover",
+            "description": "Turtle Wax Bug & Tar Remover is formulated to effectively eliminate insect residues and tar from automotive surfaces, aiding in the maintenance of a clean and polished appearance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "2c92ae4f-ca89-477c-9142-a441f03bc630",
+            "image": null,
+            "name": "Collinite Insulator Wax",
+            "description": "Collinite Insulator Wax is a high-performance car wax designed to provide a durable barrier against environmental contaminants while enhancing the shine of automotive finishes. Known for its long-lasting protection, it helps keep surfaces slick and hydrophobic.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "35f7e74a-6310-468c-a6c4-9ca5226ee0ee",
+            "image": null,
+            "name": "Turtle Wax Jet Black",
+            "description": "Turtle Wax Jet Black is a car care product series designed specifically to enhance and protect black car finishes, providing a deep, glossy shine while aiding in the prevention of water spots and oxidation.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "3635180d-df2c-4a6b-b26f-97cf0f61eaf1",
+            "image": null,
+            "name": "Turtle Wax T-1",
+            "description": "Turtle Wax T-1 is a line of car care products designed to provide effective cleaning, polishing, and protection for automotive surfaces, ensuring a high-gloss finish and long-lasting results.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "5b64c62f-af1f-4b12-8cf3-176d0f30f1c9",
+            "image": null,
+            "name": "Turtle Wax Trim Restorer",
+            "description": "Turtle Wax Trim Restorer is designed to rejuvenate and restore the original color and appearance of exterior trim and moldings, providing a long-lasting protective finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "a14611b6-f397-4928-9951-f00190b9ded7",
+            "image": null,
+            "name": "Collinite No. 476S Super Doublecoat Wax",
+            "description": "Collinite No. 476S Super Doublecoat Wax is a high-quality car wax designed to provide long-lasting protection and a deep, glossy finish to automotive paint surfaces. It is renowned for its durability and ease of application.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        }
+    ]
+}

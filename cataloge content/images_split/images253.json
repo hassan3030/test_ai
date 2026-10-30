@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "428fa2f2-e541-4422-ae3b-d4184e155627",
+            "image": null,
+            "name": "Logitech StreamCam",
+            "description": "The Logitech StreamCam is a versatile webcam designed for content creators, offering high-quality video and customizable settings for streaming and recording.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "ddc036a1-7150-49b4-8a70-9d97b547878b",
+            "image": null,
+            "name": "Logitech G435 LIGHTSPEED & Bluetooth Wireless Gaming Headset",
+            "description": "The Logitech G435 LIGHTSPEED & Bluetooth Wireless Gaming Headset is designed for immersive gaming experiences, offering both LIGHTSPEED wireless and Bluetooth connectivity. It features a lightweight and comfortable design suitable for long gaming sessions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "3df678f7-e477-4049-8c79-cfa7d89627f9",
+            "image": null,
+            "name": "Logitech G PRO X Series",
+            "description": "The Logitech G PRO X Series is a collection of gaming accessories designed for competitive gamers, featuring customizable options and high-performance technology to enhance gameplay.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "5c842c1a-7de7-4c54-9638-2787d683547f",
+            "image": null,
+            "name": "Logitech G915 TKL Tenkeyless LIGHTSYNCH RGB Mechanical Gaming Keyboard",
+            "description": "The Logitech G915 TKL Tenkeyless LIGHTSYNCH RGB Mechanical Gaming Keyboard is a precision-engineered gaming keyboard that features customizable LIGHTSYNCH RGB lighting and a compact tenkeyless design, catering to gamers seeking a streamlined and responsive gaming experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "efd65abf-4729-4a8c-8ade-45511328b2f6",
+            "image": null,
+            "name": "Logitech G502 X Series",
+            "description": "The Logitech G502 X Series is a line of high-performance gaming accessories designed for competitive gamers, featuring ergonomic designs and customizable features to enhance gameplay experiences.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Logitech"
+            }
+        },
+        {
+            "id": "4739b4f7-a5c6-486d-a02a-9d20390a1021",
+            "image": null,
+            "name": "Aston Martin Virage",
+            "description": "The Aston Martin Virage is a luxury grand tourer known for its elegant design and exceptional performance, blending comfort and sportiness for a high-end driving experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "a2feed70-28fb-4dbe-b642-af48ccc64f32",
+            "image": null,
+            "name": "Aston Martin Vanquish",
+            "description": "The Aston Martin Vanquish is a luxury sports car known for its powerful performance, exquisite design, and advanced technological features, showcasing the brand's commitment to craftsmanship and innovation.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "b2257760-09d3-4083-83e2-d397d7fa2127",
+            "image": null,
+            "name": "Autoglym Speed Detailer",
+            "description": "Autoglym Speed Detailer is a car care product designed to provide a quick and effective way to enhance the appearance of your vehicle between washes. It offers a high-gloss finish and removes dust and finger marks effortlessly.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "8fb02168-3e3b-4287-8332-8d488d703dca",
+            "image": null,
+            "name": "Autoglym Bodywork Shampoo Conditioner",
+            "description": "Autoglym Bodywork Shampoo Conditioner is a car care product designed to safely clean and enhance the appearance of a vehicle's paintwork. It combines the benefits of shampoo and conditioner to provide a thorough wash while leaving a protective layer.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "409fa0cd-9c91-453a-9758-b5b963132082",
+            "image": null,
+            "name": "Autoglym Instant Detailing Spray",
+            "description": "Autoglym Instant Detailing Spray is a car care product designed to quickly clean and enhance the shine of your vehicle's surface while removing light dirt and dust.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "16a34197-7d66-4a54-bc13-d3090e9ae2ce",
+            "image": null,
+            "name": "Yamaha YZF-R3",
+            "description": "The Yamaha YZF-R3 is a lightweight sport motorcycle designed for both new and experienced riders. It features a compact, aggressive design and offers a balance of performance and ease of handling, making it suitable for daily commuting and spirited rides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Yamaha"
+            }
+        },
+        {
+            "id": "51169a46-a662-45a4-b400-e73ba3f19969",
+            "image": null,
+            "name": "Nikon NIKKOR Z 400mm f/2.8 TC VR S",
+            "description": "The Nikon NIKKOR Z 400mm f/2.8 TC VR S is a professional telephoto lens designed for capturing high-quality images with exceptional detail and clarity, especially in wildlife and sports photography. It features a fast aperture and advanced vibration reduction technology, making it suitable for various shooting conditions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "53d5fbc1-1e77-4ae6-a51c-2bbc78aeca60",
+            "image": null,
+            "name": "K&N 77 Series High-Flow Air Intake System",
+            "description": "The K&N 77 Series High-Flow Air Intake System is designed to improve engine performance by increasing airflow, which results in enhanced horsepower and acceleration. This system replaces the factory air intake with a high-performance component that is washable and reusable.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "K&N Filters"
+            }
+        },
+        {
+            "id": "6e8c3500-237d-4957-ac3f-1c4a9a4578d1",
+            "image": null,
+            "name": "PL4500",
+            "description": "The Vertagear PL4500 series is a line of gaming chairs designed for comfort and support during extended gaming sessions. It features adjustable components and ergonomic design elements to enhance the user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Vertagear"
+            }
+        },
+        {
+            "id": "05db665a-50cf-459b-aa3b-35fe96c86764",
+            "image": null,
+            "name": "Circo",
+            "description": "The Circo series from Target offers a vibrant range of toys designed to inspire imaginative play and creative exploration among children. The collection includes various colorful items that engage kids through interactive and fun experiences.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "3efe3c74-8b1a-458b-aaa7-df61847c7a12",
+            "image": null,
+            "name": "Conté Graphite Pencils",
+            "description": "The Conté Graphite Pencils series offers a range of high-quality pencils designed for artists, providing smooth and consistent graphite for sketching and drawing.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "749f7eeb-0d36-43eb-a516-86c6e5050a1c",
+            "image": null,
+            "name": "Pastel Conté",
+            "description": "Pastel Conté is a series of high-quality pastels designed for artists and students, known for their vibrant colors and smooth application on various surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "b46c2bcc-8264-4b48-b939-641082c1b587",
+            "image": null,
+            "name": "Conté à Paris Metal Box Colored Pencils",
+            "description": "Conté à Paris Metal Box Colored Pencils are a professional-grade art supply designed for artists seeking vibrant colors and smooth application. The pencils are housed in a durable metal box for easy storage and portability.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "51762963-3472-4240-99cf-f647845f7fae",
+            "image": null,
+            "name": "Lattissima One",
+            "description": "The De'Longhi Lattissima One series is designed for coffee enthusiasts seeking an easy-to-use machine that prepares a variety of coffee beverages with fresh milk and one-touch operation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5e42f6b3-f969-4c04-b21c-305c6cb50f8d",
+            "image": null,
+            "name": "Honda CB650R",
+            "description": "The Honda CB650R is a modern standard motorcycle known for its sporty styling and performance, designed for both urban commuting and enjoyable riding experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "77d924d8-42e5-4a31-81ab-8fd668c989e4",
+            "image": null,
+            "name": "G-RAID with Thunderbolt 3",
+            "description": "G-RAID with Thunderbolt 3 is a high-performance storage solution designed for professionals needing fast data transfer speeds and reliable data backup with dual-drive RAID functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "b0815673-b29e-42bf-ba04-3ad605f918cb",
+            "image": null,
+            "name": "Volkswagen Jetta (Mk6 Facelift)",
+            "description": "The Volkswagen Jetta (Mk6 Facelift) is a compact sedan known for its efficient performance, comfortable interior, and advanced safety features, aimed at providing a reliable driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "45407571-6d17-4132-bba4-d6a4e7413de6",
+            "image": null,
+            "name": "Sub-Zero 900 Series",
+            "description": "The Sub-Zero 900 Series is a premium line of refrigerators designed to provide advanced preservation technology and customizable storage solutions for a variety of food types while maintaining optimal freshness.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Sub-Zero"
+            }
+        },
+        {
+            "id": "ea5eb71a-3d45-4760-bb5d-6e2bbc0d8720",
+            "image": null,
+            "name": "Lloyd Flanders Essentials",
+            "description": "The Lloyd Flanders Essentials series offers a collection of durable and stylish outdoor furniture designed for comfort and versatility in various outdoor settings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Lloyd Flanders"
+            }
+        },
+        {
+            "id": "83faca10-1edf-4468-8884-cdcff960a4ae",
+            "image": null,
+            "name": "GoPro HERO5 Black",
+            "description": "The GoPro HERO5 Black is a compact, versatile action camera known for its high-quality video and photo capabilities, designed for capturing adventurous moments in various environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "e4037720-9fa5-4cb7-bc7c-b81924cd56a0",
+            "image": null,
+            "name": "GoPro HERO5 Session",
+            "description": "The GoPro HERO5 Session is a compact action camera designed for capturing high-quality photos and videos in various environments, featuring voice control and waterproof capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "289e267b-624d-4712-9d9e-4c04e7ea842c",
+            "image": null,
+            "name": "GoPro HERO12 Black",
+            "description": "The GoPro HERO12 Black is a versatile action camera designed for capturing high-quality photos and videos in various environments. It features enhanced image stabilization and user-friendly controls, making it suitable for both amateur and professional creators.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "GoPro"
+            }
+        },
+        {
+            "id": "4b0eee5e-984a-4a0c-8c5b-8c8786ffba31",
+            "image": null,
+            "name": "Aston Martin Rapide S",
+            "description": "The Aston Martin Rapide S is a luxury four-door sports sedan that combines performance with comfort, designed to deliver an exhilarating driving experience while providing spacious seating for passengers.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "aaefde42-45f3-4087-8e53-47c9e59910bd",
+            "image": null,
+            "name": "Aston Martin Lagonda",
+            "description": "The Aston Martin Lagonda is a luxury sedan known for its distinctive design, high-performance capabilities, and opulent interior, embodying the brand's commitment to craftsmanship and exclusivity.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "0a1b9a2b-86e8-4fd7-9768-f3a1b2e75efd",
+            "image": null,
+            "name": "Turtle Wax Bug and Tar Remover",
+            "description": "Turtle Wax Bug and Tar Remover is a specialized car care product designed to effectively remove bugs, tar, and other tough contaminants from vehicle surfaces without damaging the paint.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        }
+    ]
+}

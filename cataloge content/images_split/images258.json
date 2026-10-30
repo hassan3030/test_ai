@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "05d6170b-4141-4a81-b714-88160265abce",
+            "image": null,
+            "name": "Iridium IX",
+            "description": "NGK Spark Plug's Iridium IX series is designed to provide superior ignitability and durability for optimal engine performance, featuring an iridium center electrode that enhances spark plug lifespan and efficiency.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "NGK Spark Plug"
+            }
+        },
+        {
+            "id": "06e7597b-01ad-4afa-ad5e-edcbc8a2035a",
+            "image": null,
+            "name": "Aston Martin Valhalla",
+            "description": "The Aston Martin Valhalla is a plug-in hybrid supercar designed for high performance and agility, featuring advanced aerodynamics and cutting-edge technology to enhance the driving experience.",
+            "release_year": 2024,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "0782bfbb-a59c-4a00-a519-0b234568c766",
+            "image": null,
+            "name": "Nikon NIKKOR Z 28mm f/2.8 (SE)",
+            "description": "The Nikon NIKKOR Z 28mm f/2.8 (SE) is a compact, wide-angle prime lens designed for Nikon's Z-series mirrorless cameras, featuring a fast f/2.8 maximum aperture suitable for low-light conditions and versatile photography styles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "08754253-1da8-42fa-b58d-86e317f10583",
+            "image": null,
+            "name": "Volkswagen Golf Mk7",
+            "description": "The Volkswagen Golf Mk7 is a compact car that offers a combination of practicality, efficiency, and engaging driving dynamics. Launched in 2012, it has become known for its well-rounded design and advanced technology features.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "09613026-11ed-4084-823a-badd167090b4",
+            "image": null,
+            "name": "Zero S",
+            "description": "The Zero S is an electric motorcycle designed for urban commuting and practical use, offering a blend of performance, efficiency, and environmental responsibility since its release in 2006.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Zero Motorcycles"
+            }
+        },
+        {
+            "id": "0985422f-f1c6-456a-87f8-d78e324c065c",
+            "image": null,
+            "name": "LEGO Icons",
+            "description": "LEGO Icons is a collection of intricate and sophisticated building sets that appeal to adult fans of LEGO. The series allows builders to explore advanced techniques and detailed designs, focusing on themes such as architecture, vehicles, and iconic representations.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "8346ef29-97f2-40cf-a837-9d98a30bdd8d",
+            "image": null,
+            "name": "Rogue Monster Lite Series",
+            "description": "The Rogue Monster Lite Series is a range of durable, versatile gym equipment designed for home and commercial use, featuring strong construction and customizable options to enhance any workout space.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gym Equipment"
+            },
+            "brand_id": {
+                "name": "Rogue Fitness"
+            }
+        },
+        {
+            "id": "afcd5d11-2d5f-47b1-ad96-b716f5a812e5",
+            "image": null,
+            "name": "Globe Prowler",
+            "description": "The Globe Prowler series is designed for versatile skateboarding, offering durability and performance for both street and park riding.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "30522b34-431d-42cb-b0a9-1b577009cd81",
+            "image": null,
+            "name": "Globe Chrome",
+            "description": "The Globe Chrome series consists of high-quality skateboards designed for durability and performance, suitable for both street and park skating.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "516fc582-d8bb-4ad2-a871-ff57783e9378",
+            "image": null,
+            "name": "Globe 2019 Pro Series",
+            "description": "The Globe 2019 Pro Series is a collection of skateboards designed for professional skateboarders, featuring high-performance materials and advanced designs to enhance agility and control.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "a207160b-b9b1-441e-8773-be5bbd44066d",
+            "image": null,
+            "name": "Ferrari 360 Modena",
+            "description": "The Ferrari 360 Modena is a sports car introduced in 2000, known for its sleek design, powerful V8 engine, and exceptional handling, making it a celebrated model in Ferrari's lineup.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "414193c6-25bb-437a-8f6d-75173d351c93",
+            "image": null,
+            "name": "Ferrari F430",
+            "description": "The Ferrari F430 is a high-performance sports car known for its powerful V8 engine and advanced aerodynamics, designed to deliver an exhilarating driving experience on both the track and the road.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "7177715d-21ac-4383-bf9f-ec45ccb3950e",
+            "image": null,
+            "name": "Ferrari 575M Maranello",
+            "description": "The Ferrari 575M Maranello is a high-performance sports car that combines luxury and speed, known for its powerful engine and refined design. It represents a blend of classic Ferrari styling with modern engineering.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "9c5a2843-fd42-4fc2-901d-e21b81e33411",
+            "image": null,
+            "name": "Ferrari F2002",
+            "description": "The Ferrari F2002 is a Formula One racing car designed by Ferrari for the 2002 Formula One season. Known for its aerodynamic efficiency and powerful engine, it played a key role in securing the Constructors' and Drivers' Championships that year.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "082377b1-f6ac-46d2-9e89-a603bd0cfdb1",
+            "image": null,
+            "name": "Ferrari 430 Scuderia",
+            "description": "The Ferrari 430 Scuderia is a high-performance sports car that emphasizes lightweight construction and agility, designed for driving enthusiasts who seek an exhilarating experience on both road and track.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "053bc040-7e16-4d89-a523-350a8e160389",
+            "image": null,
+            "name": "Ferrari 599 GTB Fiorano",
+            "description": "The Ferrari 599 GTB Fiorano is a high-performance sports car that showcases a powerful V12 engine and advanced handling capabilities, designed for an exhilarating driving experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "e35c2911-07aa-42e5-835c-c87797d0e782",
+            "image": null,
+            "name": "Turtle Wax Color Cure",
+            "description": "Turtle Wax Color Cure is a series of car care products designed to enhance and restore the color of automotive paint, providing a protective layer to maintain shine and durability.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "0063ed01-b0c2-4a46-b981-e24fdf796957",
+            "image": null,
+            "name": "Rockville 8-inch Underseat Subwoofer",
+            "description": "The Rockville 8-inch Underseat Subwoofer is designed to enhance the audio experience in vehicles by providing deep bass without taking up valuable space. Its compact design allows it to fit comfortably under most car seats.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockville"
+            }
+        },
+        {
+            "id": "01645f87-6a0a-4bf1-abaf-fa3bb5d0e211",
+            "image": null,
+            "name": "Huawei Mate 20 X (5G)",
+            "description": "The Huawei Mate 20 X (5G) is a smartphone designed for high-performance tasks, featuring a large display and 5G connectivity for fast data transfer and enhanced mobile experiences.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "0170a44d-99d7-4dfd-96c2-4e4d4e8aeb52",
+            "image": null,
+            "name": "Svitpilen 701",
+            "description": "The Husqvarna Svitpilen 701 is a lightweight, stylish motorcycle designed for urban commuting and spirited rides, emphasizing performance and innovative design.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "017464d6-b202-44d4-9ad6-16d6c57cfea6",
+            "image": null,
+            "name": "Proxes 4",
+            "description": "Toyo Tires Proxes 4 is an all-season performance tire designed to provide superior grip on both wet and dry surfaces, ensuring enhanced handling and stability for sports coupes and sedans.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        },
+        {
+            "id": "018aad2f-f4e8-4ced-a5b3-f4304f8c8aa2",
+            "image": null,
+            "name": "ADVAN Sport V103",
+            "description": "The Yokohama ADVAN Sport V103 is a high-performance tire designed for sports cars and luxury vehicles, offering enhanced handling, grip, and stability on both dry and wet surfaces.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Yokohama"
+            }
+        },
+        {
+            "id": "01bb060b-013d-4f82-8ac3-00471f4db4eb",
+            "image": null,
+            "name": "Mothers CMX Ceramic Spray Coating",
+            "description": "Mothers CMX Ceramic Spray Coating is a versatile car care product designed to enhance the appearance and protection of vehicle surfaces with a durable ceramic coating.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "0644d1ee-9bd2-44e2-b9c1-cd31558f490e",
+            "image": null,
+            "name": "LEGO Star Wars: The Force Awakens",
+            "description": "LEGO Star Wars: The Force Awakens series features construction sets that allow fans to recreate scenes, vehicles, and characters from the blockbuster film, promoting creative play and storytelling.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "06991ea9-4a6b-462a-840d-0009aa36568d",
+            "image": null,
+            "name": "Mercedes-Benz G-Class (W463)",
+            "description": "The Mercedes-Benz G-Class (W463) is a luxury SUV known for its off-road capability, distinctive boxy design, and high-performance features, making it a popular choice for both urban and adventurous driving.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "0404d031-f139-4982-a635-7520ebae8351",
+            "image": null,
+            "name": "Globe Blazer",
+            "description": "The Globe Blazer series features compact skateboards designed for cruising, with a focus on portability and style. These boards are ideal for urban commuting and recreational riding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "03e217d7-5065-4167-bf36-52501bf5a521",
+            "image": null,
+            "name": "Globe Pinner",
+            "description": "The Globe Pinner series is a collection of skateboards designed for cruising with a classic surf-inspired feel. These boards feature a longer and wider deck for improved stability and comfort while riding.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "87c68d8b-f5ab-4815-a43a-e1e4b7cf48cb",
+            "image": null,
+            "name": "Globe Feather",
+            "description": "The Globe Feather series by Globe Skateboards features lightweight and durable skateboards designed for both beginners and experienced skaters. Their boards are known for their responsiveness and smooth rides, making them ideal for tricks and cruising.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Globe Skateboards"
+            }
+        },
+        {
+            "id": "cfe2ab77-8fa8-41d8-b9a2-b711c3926f92",
+            "image": null,
+            "name": "Gibson 2016 Les Paul Standard",
+            "description": "The Gibson 2016 Les Paul Standard is a premium electric guitar known for its rich tone and solid construction, ideal for a range of musical styles from rock to blues.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "3f0dc020-de04-4370-a547-f1077f802c98",
+            "image": null,
+            "name": "Gibson 2016 SG Standard",
+            "description": "The Gibson 2016 SG Standard is an electric guitar renowned for its distinctive double-horned body shape, powerful pickups, and versatile sound, making it suitable for a variety of musical styles.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        }
+    ]
+}

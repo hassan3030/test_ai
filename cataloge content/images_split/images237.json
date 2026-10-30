@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "id": "8fa1303f-c967-47b8-b2e0-33803ab1b5f4",
+            "image": null,
+            "name": "Citroën DS5",
+            "description": "The Citroën DS5 is a compact executive car that combines modern styling with advanced technology and a focus on comfort, making it suitable for both urban and long-distance driving.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "a0733f64-637c-4e9e-9b5c-6330c1ca6b3e",
+            "image": null,
+            "name": "Citroën C4 Spacetourer",
+            "description": "The Citroën C4 Spacetourer is a versatile compact MPV designed for family use, offering spacious interiors and flexible seat configurations for enhanced comfort and practicality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "a2b04284-56d5-4989-99ae-ec58b745ca87",
+            "image": null,
+            "name": "Citroën Berlingo II",
+            "description": "The Citroën Berlingo II is a versatile multi-purpose vehicle designed for both family and commercial use, offering spacious interiors and practicality.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "b6432ab1-ab00-49d0-b316-32c0d8914f62",
+            "image": null,
+            "name": "Citroën C4 Aircross",
+            "description": "The Citroën C4 Aircross is a compact SUV that combines distinctive styling with a comfortable ride, designed for both urban driving and off-road capabilities.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "d373fd36-89c0-403f-a479-2f49523b181f",
+            "image": null,
+            "name": "Citroën C-Zero",
+            "description": "The Citroën C-Zero is a compact electric car introduced in 2010, designed for urban mobility with an emphasis on eco-friendliness and efficient city driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "0ec57f30-5edf-4c74-978f-78955952094f",
+            "image": null,
+            "name": "Citroën DS3",
+            "description": "The Citroën DS3 is a compact car launched in 2009, known for its distinctive styling, customizability, and spirited performance, designed to appeal to a younger, style-conscious audience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "10d65494-1c23-4f37-b80a-a6c2216b7c52",
+            "image": null,
+            "name": "Citroën DS3 Cabrio",
+            "description": "The Citroën DS3 Cabrio is a stylish and compact convertible car launched in 2013, known for its chic design, open-top driving experience, and customizable features.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "244eee55-27ea-4e39-818b-8b2f44cc56e1",
+            "image": null,
+            "name": "Citroën C4 Picasso II",
+            "description": "The Citroën C4 Picasso II is a compact MPV known for its spacious interior, versatility, and family-oriented features, designed to provide comfort and practicality for everyday use.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "24ac0b61-4276-4259-a536-3303791a395f",
+            "image": null,
+            "name": "Citroën Spacetourer",
+            "description": "The Citroën Spacetourer is a versatile multi-purpose vehicle designed for comfort and spaciousness, ideal for families or group travel.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "3c42346c-862d-4324-abf4-6b9a1776ca67",
+            "image": null,
+            "name": "Citroën C1 (New Generation)",
+            "description": "The Citroën C1 (New Generation) is a compact city car designed for urban mobility, offering practicality, maneuverability, and a stylish design.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "d44fa40a-2335-4b59-bba6-2c1527fdd3c2",
+            "image": null,
+            "name": "Citroën C3 Picasso",
+            "description": "The Citroën C3 Picasso is a compact MPV known for its spacious interior, versatile seating configuration, and distinctive design, aimed at providing comfort and practicality for families.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "c7146a4b-2b3a-4a93-8244-fdc0494af69d",
+            "image": null,
+            "name": "Pochette Métis",
+            "description": "The Pochette Métis is a versatile handbag by Louis Vuitton, characterized by its structured design and practicality, making it suitable for both casual and formal settings.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d44aa2ec-2dc5-435b-9d10-3ea6f26faa2c",
+            "image": null,
+            "name": "Kawasaki Vulcan 2000",
+            "description": "The Kawasaki Vulcan 2000 is a heavyweight cruiser motorcycle introduced in 2005, known for its powerful V-twin engine and distinctive styling that combines comfort with performance.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "9861dc27-8765-428d-b1a7-086ecdf23b91",
+            "image": null,
+            "name": "Kawasaki KX",
+            "description": "The Kawasaki KX series comprises high-performance off-road motorcycles designed primarily for motocross and competitive racing, emphasizing durability, agility, and power.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "f8d3047e-ecd1-4aa9-8bb1-490a49b195f2",
+            "image": null,
+            "name": "Kawasaki Ninja",
+            "description": "The Kawasaki Ninja series is a line of high-performance sport motorcycles known for their speed, agility, and advanced engineering. Designed for both street and track use, these motorcycles emphasize a dynamic riding experience.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "726db9c4-f4cd-45b5-a03f-79397a4a9c81",
+            "image": null,
+            "name": "Kawasaki KX450F",
+            "description": "The Kawasaki KX450F is a high-performance motocross motorcycle designed for competitive off-road racing, featuring advanced technology for enhanced power delivery and handling.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "b590da06-0106-479f-8d30-9d2cce86938e",
+            "image": null,
+            "name": "Autoglym Super Resilient Screen Wash",
+            "description": "Autoglym Super Resilient Screen Wash is a concentrated formula designed to effectively clean vehicle windshields and ensure clear visibility in various weather conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "c5112ced-e62f-444f-8351-05205031775c",
+            "image": null,
+            "name": "Autoglym Lifeshine",
+            "description": "Autoglym Lifeshine is a car care product series designed to provide long-lasting protection and enhanced appearance for automotive surfaces. It is known for its advanced coating technology that helps repel dirt and withstand various environmental factors.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "ba8aa761-7684-4a34-b642-3375d7b12296",
+            "image": null,
+            "name": "Autoglym Glass Cleaner",
+            "description": "Autoglym Glass Cleaner is a specialized automotive cleaning product designed to effectively remove dirt, grime, and smudges from glass surfaces, providing a streak-free finish for improved visibility.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "df421f5d-3985-42ac-a74e-2b92cffe6ef9",
+            "image": null,
+            "name": "Pokémon Let's Go, Pikachu! and Let's Go, Eevee!",
+            "description": "Pokémon Let's Go, Pikachu! and Let's Go, Eevee! are role-playing video games developed by Game Freak and published by Nintendo for the Nintendo Switch, designed to introduce new players to the Pokémon franchise while maintaining core mechanics.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Nintendo Switch"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e6bb79fb-c90e-4019-8c77-3393ebfbb22a",
+            "image": null,
+            "name": "Café™ Series Appliances",
+            "description": "The Café™ Series Appliances by GE Appliances offers customizable and high-performance refrigerators designed to suit a variety of kitchen styles and personal tastes.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ea05bad7-b6c9-4374-b93e-b026cd045932",
+            "image": null,
+            "name": "Keepall Bandoulière",
+            "description": "The Louis Vuitton Keepall Bandoulière is a versatile and stylish travel bag designed for durability and ease of use, making it ideal for both short trips and longer journeys.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "fe4e98cd-de4b-406b-9963-cf25cea35801",
+            "image": null,
+            "name": "The Smart Oven Air Fryer",
+            "description": "The Breville Smart Oven Air Fryer is a versatile kitchen appliance that combines the functionality of an air fryer with an oven, allowing for baking, roasting, and air frying with a focus on healthier cooking options.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "b634316c-545e-430b-b3e4-0d46e50f4c89",
+            "image": null,
+            "name": "BabyBjörn Balance Soft",
+            "description": "The BabyBjörn Balance Soft is a baby seat designed to provide comfort and support for infants while allowing them to participate in everyday activities. Its ergonomic design promotes healthy development and encourages babies to play and interact safely.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "0a0de646-c308-4f4d-b4a9-fe23bea96ea9",
+            "image": null,
+            "name": "BabyBjörn Smart Potty",
+            "description": "The BabyBjörn Smart Potty is a compact and easy-to-use potty designed for young children who are learning to use the toilet. It offers a comfortable seat and a practical design that simplifies the potty training process.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "e4e00db6-a7a3-4169-9f92-a752ee9a58a0",
+            "image": null,
+            "name": "BabyBjörn Toilet Trainer",
+            "description": "The BabyBjörn Toilet Trainer is designed to help toddlers transition from diapers to the toilet, providing a secure and comfortable seat that fits most standard toilets.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "bbae192b-e2cf-4124-ada5-830ac9384786",
+            "image": null,
+            "name": "Babybjörn Bouncer Bliss",
+            "description": "The BabyBjörn Bouncer Bliss is a lightweight and portable baby seat designed to provide a comfortable and safe space for infants to relax and play. Its ergonomic design offers proper support for a child's back, neck, and head, making it suitable for newborns up to two years of age.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "11ba086c-0ae6-41d1-aa00-b741a7611f0f",
+            "image": null,
+            "name": "Renault Mégane E-Tech Electric",
+            "description": "The Renault Mégane E-Tech Electric is a fully electric compact car designed for sustainability and efficiency, featuring a modern design and advanced technology to enhance the driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "30d74edb-f422-4ed7-92b4-760cb48c0ff8",
+            "image": null,
+            "name": "Citroën C5 X",
+            "description": "The Citroën C5 X is a versatile vehicle that combines the comfort of a sedan with the practicality of an SUV, designed for spacious travel and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "3ee25134-7410-46e4-93a3-3ac8857af22c",
+            "image": null,
+            "name": "GE Café Series Appliances",
+            "description": "The GE Café Series Appliances feature customizable refrigerators designed for the modern kitchen, emphasizing both style and functionality with premium finishes and high-quality performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        }
+    ]
+}

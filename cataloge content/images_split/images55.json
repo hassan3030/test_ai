@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "id": "a8a3ce32-fdb8-4dc4-b593-29e617b5b84c",
+            "image": null,
+            "name": "Toyota Sienna (Second Generation)",
+            "description": "The Toyota Sienna (Second Generation) is a minivan designed for families, offering spacious seating, versatile cargo capacity, and a focus on passenger comfort and safety.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "78fc6403-5e1e-4f53-8cc5-279918a19a08",
+            "image": null,
+            "name": "iPhone SE",
+            "description": "The iPhone SE is a compact smartphone from Apple, known for its powerful performance and budget-friendly price. It combines the classic design of earlier iPhone models with modern hardware capabilities.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "7b0a7b16-3435-4116-aa01-4d43622df9bd",
+            "image": null,
+            "name": "LEGO Ninjago",
+            "description": "LEGO Ninjago is a series of construction toys that allows children to create and explore a world of ninja adventures using various themed sets and characters. The series emphasizes imaginative play and storytelling through building and role-play activities.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "7f0b3ed5-8f97-48af-9699-2dc6963fd31d",
+            "image": null,
+            "name": "ThinkPad X1 Yoga Gen 7",
+            "description": "The Lenovo ThinkPad X1 Yoga Gen 7 is a versatile 2-in-1 laptop designed for professionals, offering flexibility with its 360-degree hinge, robust performance, and premium build quality suited for both work and creativity.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo"
+            }
+        },
+        {
+            "id": "1c73bb37-f2a2-4210-87b0-1a8aa53971bb",
+            "image": null,
+            "name": "Esben",
+            "description": "The Flexispot Esben series features ergonomic office furniture designed to enhance comfort and productivity in workspaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Office Furniture"
+            },
+            "brand_id": {
+                "name": "Flexispot"
+            }
+        },
+        {
+            "id": "46f475f1-48f6-4611-a647-288d8482280c",
+            "image": null,
+            "name": "Panasonic SC-ALL70T",
+            "description": "The Panasonic SC-ALL70T is a wireless speaker system designed to deliver high-quality sound throughout your home, featuring an all-in-one design and compatibility with multi-room audio setups.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Speakers"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "49e7ac88-9c35-4d08-ac21-efdbc06a5bfe",
+            "image": null,
+            "name": "Camry",
+            "description": "The Toyota Camry is a mid-size sedan known for its reliability, fuel efficiency, and comfortable ride, making it a popular choice among families and commuters.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "59740f5e-856a-4e41-8eaf-b21101b9e15e",
+            "image": null,
+            "name": "Maruti Suzuki Alto 800",
+            "description": "The Maruti Suzuki Alto 800 is a compact and economical hatchback designed primarily for urban driving, offering practical features and a fuel-efficient performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "89013da1-ff7a-40f2-a1bf-fe4475bcf791",
+            "image": null,
+            "name": "Skoda Octavia",
+            "description": "The Skoda Octavia is a compact car designed for efficiency and practicality, combining spacious interiors with advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "8e719e39-fd8b-4353-94b1-6d0cd7d89361",
+            "image": null,
+            "name": "Volkswagen Golf Mk4",
+            "description": "The Volkswagen Golf Mk4 is a compact car that was released in 2000, known for its practical design and reliable performance, making it a popular choice among drivers seeking versatility and comfort.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "9ba57fe6-dc59-4996-986b-3429145e3274",
+            "image": null,
+            "name": "Ferrari SF90 Stradale",
+            "description": "The Ferrari SF90 Stradale is a plug-in hybrid supercar that showcases Ferrari's innovation in performance and technology, blending extraordinary power with advanced aerodynamics.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Ferrari"
+            }
+        },
+        {
+            "id": "ab61d224-a0f2-49a9-898c-bd8905574d96",
+            "image": null,
+            "name": "LEGO Technic",
+            "description": "LEGO Technic is a series of advanced construction sets designed for older children and adults, featuring realistic motion and mechanisms through intricate models and building techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "b51cfe69-98bd-4d35-8727-c868427123b0",
+            "image": null,
+            "name": "Surface Laptop Studio",
+            "description": "The Microsoft Surface Laptop Studio is a versatile laptop designed for creativity and productivity, featuring a unique dynamic woven hinge that allows for multiple usage modes, including laptop, stage, and studio.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Microsoft"
+            }
+        },
+        {
+            "id": "bafc044e-70b7-4ac5-ae5d-d76b5467470e",
+            "image": null,
+            "name": "Dell Latitude 7280",
+            "description": "The Dell Latitude 7280 is a business-focused laptop designed for professionals who require portability and performance. It features a lightweight design, solid security options, and a responsive keyboard for productivity on the go.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "bdd369c8-abaf-4b64-b9b8-2b44e5e4ac85",
+            "image": null,
+            "name": "Collinite Liquid Insulator Wax #845",
+            "description": "Collinite Liquid Insulator Wax #845 is a high-performance car wax designed to provide a durable protective coating that enhances shine and repels dirt and water.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "c2423863-2e68-46d3-833c-07a580f24140",
+            "image": null,
+            "name": "Honda City",
+            "description": "The Honda City is a compact sedan known for its efficient performance and spacious interior, catering to both urban and suburban drivers seeking reliability and comfort.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c265467c-0888-4e78-b293-93d83463a240",
+            "image": null,
+            "name": "Toyota Mirai (Second Generation)",
+            "description": "The Toyota Mirai (Second Generation) is a hydrogen fuel cell electric vehicle designed to provide zero-emission driving with advanced technology and a refined driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "c298f321-b63d-4468-88b8-0d51b33406d6",
+            "image": null,
+            "name": "Folia",
+            "description": "Folia is a collection of chairs designed by Pedrali, showcasing a blend of elegance and comfort with a stackable feature suitable for various settings.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Pedrali"
+            }
+        },
+        {
+            "id": "2becc410-54b3-4643-9b97-e12cb11b9c64",
+            "image": null,
+            "name": "Seagate Backup Plus Slim",
+            "description": "The Seagate Backup Plus Slim is a portable external hard drive designed for data backup and storage on the go, offering reliable performance in a compact form factor.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "9bcc1f3c-9082-4552-bfe8-e7a54fa94d5c",
+            "image": null,
+            "name": "Honda S2000 (AP1)",
+            "description": "The Honda S2000 (AP1) is a two-seat sports car known for its high-revving engine, precise handling, and balanced chassis, making it a popular choice among driving enthusiasts since its release in 2001.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9c1a6a61-3218-4252-b515-daa824f6b99c",
+            "image": null,
+            "name": "Graco FastAction Fold Sport Travel System",
+            "description": "The Graco FastAction Fold Sport Travel System is a versatile travel system designed for convenience and ease of use, featuring a stroller and an infant car seat that easily connects and disconnects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Graco"
+            }
+        },
+        {
+            "id": "9d49fb5c-481a-4a1c-abb8-1dee117316e8",
+            "image": null,
+            "name": "Viking 30\" Built-In Refrigerators",
+            "description": "The Viking 30\" Built-In Refrigerators are premium refrigeration solutions designed for seamless integration into kitchen cabinetry, offering both high performance and stylish design.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "9d9e9e16-9e75-434d-a862-b815a55682bc",
+            "image": null,
+            "name": "iPhone X",
+            "description": "The iPhone X is a smartphone designed by Apple, known for introducing the OLED display, face recognition technology, and a bezel-less design, prioritizing an innovative user experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Apple"
+            }
+        },
+        {
+            "id": "9de11eba-115c-4751-9456-e359012985dc",
+            "image": null,
+            "name": "Dell Alienware 13 R3",
+            "description": "The Dell Alienware 13 R3 is a gaming laptop that features a compact design and powerful performance, designed to deliver immersive gaming experiences with high-quality graphics and advanced cooling systems.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Dell"
+            }
+        },
+        {
+            "id": "77c6df1f-3731-4454-85e9-52b5e8fe640e",
+            "image": null,
+            "name": "Fire HD 8",
+            "description": "The Amazon Fire HD 8 is a versatile tablet designed for entertainment and reading, featuring an 8-inch display and access to a wide range of apps and content.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "9dfc61e2-65af-41ad-b938-b6d0e2a3da91",
+            "image": null,
+            "name": "PlayStation 5 Digital Edition",
+            "description": "The PlayStation 5 Digital Edition is a home video game console released in 2021, designed for digital gaming experiences without a physical disc drive, enabling users to purchase and download games directly from the PlayStation Store.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "PlayStation"
+            },
+            "brand_id": {
+                "name": "PlayStation"
+            }
+        },
+        {
+            "id": "9e3bcbd9-17b8-4441-8791-f49b4c5f0766",
+            "image": null,
+            "name": "Technics EAH-A800",
+            "description": "The Technics EAH-A800 headphones by Panasonic are designed to deliver high-quality audio performance with advanced noise-cancellation technology, making them suitable for immersive listening experiences.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Panasonic"
+            }
+        },
+        {
+            "id": "9e6effce-e136-48c1-b969-193932bccf4f",
+            "image": null,
+            "name": "Shinko 140",
+            "description": "The Shinko 140 series features a range of motorcycle tires designed for improved performance and stability on the road, catering to various riding styles.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "9ec9f5a0-987e-443e-b1d9-aae7e0155a55",
+            "image": null,
+            "name": "Bajaj Pulsar 200 NS",
+            "description": "The Bajaj Pulsar 200 NS is a motorcycle designed for performance and agility, featuring a powerful engine and a lightweight chassis, making it suitable for both city commuting and highway riding.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "aed96a20-9b34-41c7-8dcf-effe3346aa06",
+            "image": null,
+            "name": "Mothers Back-to-Black",
+            "description": "Mothers Back-to-Black is a series of car care products designed to restore and rejuvenate faded exterior plastics and trim, enhancing the appearance of your vehicle.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers"
+            }
+        }
+    ]
+}

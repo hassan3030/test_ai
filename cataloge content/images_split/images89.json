@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f8d707b8-1e05-4ccf-b027-a786e8ff7f74",
+            "image": null,
+            "name": "Maruti Suzuki Swift (New Generation)",
+            "description": "The Maruti Suzuki Swift (New Generation) is a compact hatchback known for its stylish design, fuel efficiency, and engaging driving dynamics, aimed at urban commuters.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "79200325-30df-48b1-a342-404cc5e2e469",
+            "image": null,
+            "name": "Maruti Suzuki Kizashi",
+            "description": "The Maruti Suzuki Kizashi is a mid-size sedan that was introduced in 2009, known for its sporty design, comfortable features, and focus on delivering a dynamic driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "95e6969b-14a9-413a-9e0d-96fb5c0adfbb",
+            "image": null,
+            "name": "Maruti Suzuki Swift (Second Generation)",
+            "description": "The Maruti Suzuki Swift (Second Generation) is a compact hatchback known for its efficient performance, stylish design, and practical features, making it a popular choice for urban consumers.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "9b21f8aa-264c-4447-8b81-342a7c2c43ed",
+            "image": null,
+            "name": "Maruti Suzuki Ertiga",
+            "description": "The Maruti Suzuki Ertiga is a multi-purpose vehicle that combines space and comfort, designed primarily for families and group travel.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "9b57b6cf-00c2-4c32-a9e8-0cdbb4d1df2d",
+            "image": null,
+            "name": "Maruti Suzuki Celerio",
+            "description": "The Maruti Suzuki Celerio is a compact hatchback known for its fuel efficiency and compact design, aimed at urban commuters and small families.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "ffa13247-c702-4d01-a714-d34bf6b24327",
+            "image": null,
+            "name": "Maruti Suzuki Swift",
+            "description": "The Maruti Suzuki Swift is a compact car that was first released in 2003, known for its sporty design and efficient performance, making it a popular choice for urban driving.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "431cb48f-1e8e-45c8-89ba-7dc38a7c8b48",
+            "image": null,
+            "name": "Neva",
+            "description": "The Neva sofa series by Cassina, released in 2019, is designed to provide ergonomic comfort and a contemporary aesthetic, featuring clean lines and a modular configuration that allows for versatile living spaces.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Cassina"
+            }
+        },
+        {
+            "id": "307960ea-4d9d-426b-b823-4064f0d339cf",
+            "image": null,
+            "name": "JVC KW-AVX820",
+            "description": "The JVC KW-AVX820 is a car audio receiver designed to enhance in-car entertainment with features such as DVD playback, touchscreen control, and smartphone integration.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "JVC"
+            }
+        },
+        {
+            "id": "9c70a5e1-9aac-4276-93ad-731bc423faef",
+            "image": null,
+            "name": "Maruti Gypsy",
+            "description": "The Maruti Gypsy is a compact SUV known for its rugged design and off-road capability, primarily used for recreational and utility purposes.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "184354c7-f65e-48b8-996b-26a101848f86",
+            "image": null,
+            "name": "Proton Suprima S",
+            "description": "The Proton Suprima S is a compact hatchback that was launched in 2012, known for its modern design and practical features aimed at providing an efficient and comfortable driving experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "26a6c5e2-6598-4567-96db-66240bf2d650",
+            "image": null,
+            "name": "Maruti Wagon R",
+            "description": "The Maruti Wagon R is a compact hatchback that has been popular since its launch in 2001, known for its spacious interior, fuel efficiency, and practicality for urban driving.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "3a40002a-a589-41cf-aa44-86093be7bcc6",
+            "image": null,
+            "name": "Brezza",
+            "description": "The Maruti Suzuki Brezza is a compact SUV launched in 2005, designed to offer a blend of style, comfort, and fuel efficiency for urban driving.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "43576c11-174b-49d2-85e2-7640a74a6eb1",
+            "image": null,
+            "name": "Proton Perdana",
+            "description": "The Proton Perdana is a mid-size sedan known for its practicality and comfort, aimed at providing a reliable transportation solution for families and professionals.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "445bd831-0f51-4900-a00d-aab56d4da499",
+            "image": null,
+            "name": "Proton Saga (2019)",
+            "description": "The Proton Saga (2019) is a compact sedan designed for efficiency and practicality, offering a budget-friendly option for everyday driving needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Proton"
+            }
+        },
+        {
+            "id": "4bc6979c-dcd7-44b1-a557-de0bc7de9877",
+            "image": null,
+            "name": "Maruti Suzuki Gypsy",
+            "description": "The Maruti Suzuki Gypsy is a compact SUV known for its off-road capabilities and rugged build, primarily used for both recreational and professional purposes in challenging terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "5333b177-816e-4ded-aebb-3409613bf2ed",
+            "image": null,
+            "name": "Maruti 800",
+            "description": "The Maruti 800 is a compact car produced by Maruti Suzuki, designed for affordability and urban mobility. It became popular for its fuel efficiency and small form factor, making it an ideal choice for city driving.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "5a74bb6c-64a3-493d-ad6c-cf114560a734",
+            "image": null,
+            "name": "Maruti Suzuki Wagon R",
+            "description": "The Maruti Suzuki Wagon R is a compact hatchback car that offers practicality and space, designed primarily for city commuting and everyday use since its launch in 2002.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "b3540e02-c5cc-4e63-bb78-3ccfbe95cd91",
+            "image": null,
+            "name": "Chery Tiggo 8 Pro",
+            "description": "The Chery Tiggo 8 Pro is a mid-size SUV released in 2021, designed to offer a blend of comfort, space, and advanced technology for families and individuals seeking versatility in their vehicles.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chery Automobile"
+            }
+        },
+        {
+            "id": "d3052422-070b-4232-8024-a9aa5d90ba25",
+            "image": null,
+            "name": "Suzuki Swift",
+            "description": "The Suzuki Swift is a subcompact car produced by Maruti Suzuki, known for its compact dimensions, fuel efficiency, and agile handling, making it ideal for urban driving.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "e58f0e6d-1047-4095-b3e6-1b42491c835a",
+            "image": null,
+            "name": "Kyron",
+            "description": "The SsangYong Kyron is a mid-size SUV first released in 2002, designed to offer a blend of comfort, practicality, and off-road capability.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "SsangYong"
+            }
+        },
+        {
+            "id": "ecb69f89-ff37-4b6a-a20e-b641eb5a5e61",
+            "image": null,
+            "name": "Celerio",
+            "description": "The Maruti Suzuki Celerio is a compact city car launched in 2014, known for its fuel efficiency, practical design, and user-friendly features, making it an ideal choice for urban commuting.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "69457784-50a8-40dd-86ca-4fc529cbd72c",
+            "image": null,
+            "name": "Maruti Suzuki Fronx",
+            "description": "The Maruti Suzuki Fronx is a compact SUV launched in 2023, designed to offer modern styling, versatility, and advanced safety features for urban and adventurous drivers.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "fb27c954-2d3e-4064-af44-f01c7ab6679a",
+            "image": null,
+            "name": "Maruti Suzuki Dzire",
+            "description": "The Maruti Suzuki Dzire is a subcompact sedan that offers a blend of style, comfort, and efficient performance, designed for urban commuting and family use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "6e211468-0121-4261-a0f9-50774a0b242a",
+            "image": null,
+            "name": "Swift Dzire",
+            "description": "The Maruti Suzuki Swift Dzire is a compact sedan that combines a stylish design with practicality, offering efficient performance for urban driving.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "7a967073-c7cb-4247-ab13-01476a334f4c",
+            "image": null,
+            "name": "GMC Savana",
+            "description": "The GMC Savana is a full-size van designed for versatility and practicality, ideal for both commercial use and personal transportation.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "ff157f49-2619-41ab-b6b0-5a1ca34c9221",
+            "image": null,
+            "name": "Maruti Suzuki S-Cross",
+            "description": "The Maruti Suzuki S-Cross is a compact SUV designed to provide a blend of style, comfort, and performance with a focus on versatility for urban and rural driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "71afc905-b289-4250-b572-2e30df4498f3",
+            "image": null,
+            "name": "Bajaj Pulsar RS200",
+            "description": "The Bajaj Pulsar RS200 is a sport motorcycle known for its aggressive styling and performance-oriented features, catering to riders seeking a blend of sportiness and practicality.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "803ff9ce-5355-483c-8c56-347dd45145f5",
+            "image": null,
+            "name": "GMC Savana 3500",
+            "description": "The GMC Savana 3500 is a heavy-duty van designed for commercial use, offering significant cargo capacity and versatile configurations suited for various business needs.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "90f67dba-4b69-47a0-bc42-315efb912fa7",
+            "image": null,
+            "name": "Force Motor's Trax",
+            "description": "Force Motor's Trax is a versatile pickup truck series designed for rugged performance and adaptability in various commercial applications.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Force Motors"
+            }
+        },
+        {
+            "id": "9ff87f68-3022-4b47-88a7-8029d453c19f",
+            "image": null,
+            "name": "Mercedes-Benz M-Class (W163)",
+            "description": "The Mercedes-Benz M-Class (W163) is a luxury SUV that was designed to offer a combination of on-road comfort and off-road capability, making it suitable for both urban and adventurous driving conditions.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        }
+    ]
+}

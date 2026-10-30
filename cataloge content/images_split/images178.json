@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "336ab65a-15cd-4e88-b8fd-229bd47ed6e1",
+            "image": null,
+            "name": "Tombow MONO Drawing Pen",
+            "description": "The Tombow MONO Drawing Pen series features high-quality pen instruments designed for detailed drawing and illustration. These pens are known for their precision, smooth ink flow, and ability to create fine lines and delicate details.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "4b63a3dc-3824-408a-a419-4fcf06030622",
+            "image": null,
+            "name": "JUPITER-X",
+            "description": "The Roland JUPITER-X series combines advanced digital technology with vintage analog sounds, offering musicians a versatile platform for creating and performing music across various genres.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Roland"
+            }
+        },
+        {
+            "id": "46ea9d88-d019-46c5-924d-985d588e131f",
+            "image": null,
+            "name": "Outlander",
+            "description": "The Mitsubishi Outlander is a compact SUV known for its versatile interior, practicality, and all-wheel drive features, making it suitable for both urban commuting and outdoor adventures.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "20ea7b9b-5965-4d37-842f-6eae8065e0fc",
+            "image": null,
+            "name": "Nokian Tyres Hakkapeliitta 9",
+            "description": "The Nokian Tyres Hakkapeliitta 9 is a premium winter tire designed for optimal traction and control on icy and snowy roads, featuring innovative stud technology for enhanced grip.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "911c9a33-76cb-4f19-b417-5a4ee6720426",
+            "image": null,
+            "name": "Nokian E-truck",
+            "description": "The Nokian E-truck series is designed for electric trucks, prioritizing low rolling resistance and enhanced durability to meet the demands of heavy loads and long distances.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "8a20f1c0-d671-4935-8e50-02b3c6c23dd1",
+            "image": null,
+            "name": "Nokian Tyres Nokian Outpost APT",
+            "description": "The Nokian Tyres Nokian Outpost APT is an all-terrain tire designed for SUVs and light trucks, offering durability and performance in both on-road and off-road conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "322f993b-7e1a-4b8a-9393-914a096057fe",
+            "image": null,
+            "name": "Nokian Tyres Wetproof",
+            "description": "The Nokian Tyres Wetproof is a high-performance summer tire designed to deliver superior wet grip, safety, and comfort in rainy conditions. Its unique tread pattern and advanced rubber compounds enhance driving stability and reduce hydroplaning risks.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Nokian Tyres"
+            }
+        },
+        {
+            "id": "08ad764d-8bfa-4c67-8549-6434dd877b71",
+            "image": null,
+            "name": "Kia Sportage (Facelift)",
+            "description": "The Kia Sportage (Facelift) is a compact SUV known for its modern design, comfortable interior, and a focus on practicality and safety features, catering to consumers seeking a versatile vehicle for urban and outdoor adventures.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Kia"
+            }
+        },
+        {
+            "id": "08d5de0d-2439-453a-9534-4cd380d748ed",
+            "image": null,
+            "name": "Hengst Fuel Filter Series",
+            "description": "The Hengst Fuel Filter Series is designed to ensure the clean supply of fuel to the engine by effectively filtering out impurities and contaminants. This helps maintain optimal engine performance and longevity.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Hengst"
+            }
+        },
+        {
+            "id": "08f96200-c38a-46bd-a9fe-b27b4a5c074d",
+            "image": null,
+            "name": "Caterham Seven 280",
+            "description": "The Caterham Seven 280 is a lightweight sports car designed for enthusiasts, offering a blend of classic design and modern performance. It emphasizes driving enjoyment and simplicity, making it a popular choice among motorsport and driving purists.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "0a116ba2-d215-4a7e-83bb-46eff84132dc",
+            "image": null,
+            "name": "Lexus LS",
+            "description": "The Lexus LS is a full-size luxury sedan known for its refined performance, advanced technology, and exceptional comfort designed for discerning drivers seeking a premium automotive experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "0a29068a-2a6b-4171-9157-0b7c1fb82889",
+            "image": null,
+            "name": "Honda Civic (eighth generation)",
+            "description": "The Honda Civic (eighth generation) is a compact car that was launched in 2006. It is known for its reliability, fuel efficiency, and spacious interior, making it a popular choice for everyday commuting and small families.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0a2e17fa-0dae-467d-b703-bd47a5eb23ed",
+            "image": null,
+            "name": "Citroën C4 Picasso",
+            "description": "The Citroën C4 Picasso is a compact multi-purpose vehicle that emphasizes spaciousness and comfort, designed primarily for family use and practical transportation needs.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Citroën"
+            }
+        },
+        {
+            "id": "0acc9201-7d2f-4998-aa5f-5cb44a9cfef8",
+            "image": null,
+            "name": "Nissan Patrol",
+            "description": "The Nissan Patrol is a full-size SUV known for its rugged off-road capabilities, spacious interior, and powerful performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan Patrol"
+            }
+        },
+        {
+            "id": "0bb9fd04-fbbf-40a8-94a3-f081ddb261f6",
+            "image": null,
+            "name": "ID.4",
+            "description": "The Volkswagen ID.4 is an all-electric SUV that combines practicality and efficiency, designed for environmentally conscious drivers seeking a versatile and spacious vehicle.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Volkswagen"
+            }
+        },
+        {
+            "id": "0d35607b-dbb6-4b3f-bfd7-2bcac07d147b",
+            "image": null,
+            "name": "Huawei MediaPad M3 Lite",
+            "description": "The Huawei MediaPad M3 Lite is a versatile tablet designed for entertainment and productivity, featuring a sleek design and robust performance for multimedia consumption and everyday tasks.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "10eb2e83-48cc-40d0-b7b7-4fa22281ac8f",
+            "image": null,
+            "name": "Tiger 900",
+            "description": "The Triumph Tiger 900 is an adventure motorcycle known for its versatility, combining performance and comfort in various riding conditions, making it ideal for both on-road and off-road adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "12f5c855-b9b5-48b2-8709-c61120835c73",
+            "image": null,
+            "name": "Sony Xperia 10 II",
+            "description": "The Sony Xperia 10 II is a mid-range smartphone that features a 6-inch OLED display, triple camera system, and a sleek design, designed for multimedia consumption and everyday use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "1a779095-e1d7-4ea8-a05b-05b19eebc183",
+            "image": null,
+            "name": "Chicco Bravo Quick-Fold Stroller",
+            "description": "The Chicco Bravo Quick-Fold Stroller is designed for convenience and ease of use, featuring a one-hand fold mechanism and a lightweight frame suitable for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Chicco"
+            }
+        },
+        {
+            "id": "1b5a38ef-48d3-4960-861c-ddc322bf4d85",
+            "image": null,
+            "name": "Shinko 804 Series",
+            "description": "The Shinko 804 Series is a line of dual sport tires designed for on-road and off-road performance, characterized by a rugged tread pattern that provides excellent traction in various terrains.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Shinko Tires"
+            }
+        },
+        {
+            "id": "00c3c583-6ae3-41de-8651-39a910081471",
+            "image": null,
+            "name": "Tombow Mono Adhesive",
+            "description": "The Tombow Mono Adhesive is a versatile double-sided adhesive designed for precise application and easy repositioning, making it ideal for various creative projects.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Tombow"
+            }
+        },
+        {
+            "id": "5b511ddf-3d50-4065-872c-09a7c60ef650",
+            "image": null,
+            "name": "Rembrandt Acrylics",
+            "description": "Rembrandt Acrylics by Royal Talens are high-quality acrylic paints known for their excellent pigmentation and quick-drying properties, making them suitable for artists of all levels.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "0164fbf7-e3c5-4ae8-a0bf-92b2b9ed0677",
+            "image": null,
+            "name": "Ecoline Brush Pen",
+            "description": "Royal Talens Ecoline Brush Pen series offers vibrant, water-based ink pens designed for artists and designers, ideal for creating expressive lines and washes in illustrations, calligraphy, and other art projects.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "e71d37d5-6dc3-4363-87e2-c8fc0b0342c8",
+            "image": null,
+            "name": "Rembrandt Watercolors",
+            "description": "Royal Talens Rembrandt Watercolors are high-quality, professional-grade watercolors known for their excellent lightfastness and intense pigmentation, making them ideal for artists seeking vibrant and lasting results.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "8335a009-8fd3-4909-9d8b-37ff52964133",
+            "image": null,
+            "name": "Rembrandt Soft Pastels",
+            "description": "Rembrandt Soft Pastels by Royal Talens are high-quality, artist-grade pastels known for their exceptional pigment quality and smooth application, making them suitable for a wide range of artistic techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "1a1f47d8-ea7b-4de5-9c4a-e7b8701c047d",
+            "image": null,
+            "name": "Van Gogh",
+            "description": "Royal Talens' Van Gogh series is a collection of high-quality art supplies designed for artists of all skill levels. The products in this series emphasize vibrant colors and excellent lightfastness.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "41a86c1f-0023-49af-bf46-743f4491b25f",
+            "image": null,
+            "name": "Ecoline",
+            "description": "Royal Talens Ecoline is a series of liquid watercolors designed for artists and crafters, known for their vibrant colors and high transparency, making them suitable for various art techniques.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "499f9ba6-0381-4e2a-8a67-fb8c636cb297",
+            "image": null,
+            "name": "Rembrandt Polycolor",
+            "description": "The Rembrandt Polycolor series by Royal Talens offers high-quality colored pencils designed for professional artists and aspiring creators, featuring a rich pigmentation and smooth application.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Royal Talens"
+            }
+        },
+        {
+            "id": "93a49a9e-7b42-484b-af32-015fc8bee6fc",
+            "image": null,
+            "name": "Titanium Spork",
+            "description": "The Snow Peak Titanium Spork is a versatile camping utensil combining a spoon and fork in one lightweight design, ideal for outdoor dining.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        },
+        {
+            "id": "953ac367-99ae-48a5-9006-eaf0e168f6ce",
+            "image": null,
+            "name": "Field Barista",
+            "description": "The Snow Peak Field Barista series is designed for outdoor coffee enthusiasts, providing portable coffee brewing equipment that combines functionality with the experience of enjoying coffee in nature.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Snow Peak"
+            }
+        }
+    ]
+}

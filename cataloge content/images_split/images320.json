@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "34ff3b30-3298-472d-8275-98eb9a84972b",
+            "image": null,
+            "name": "Kidizoom Smartwatches",
+            "description": "The Kidizoom Smartwatches are a series of interactive, educational toys designed for children, featuring various activities, games, and learning tools to encourage creativity and physical activity.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Kidizoom"
+            }
+        },
+        {
+            "id": "a56de244-6340-4df8-b3a8-585070bb5d3a",
+            "image": null,
+            "name": "Clevo W740 Series",
+            "description": "The Clevo W740 Series is a line of laptops designed for performance and portability, suitable for both gaming and professional use, featuring customizable configurations to meet various user needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "ef4cf596-a2e4-4bff-a564-e6eb8616d795",
+            "image": null,
+            "name": "Usborne Young Reading",
+            "description": "The Usborne Young Reading series is designed to encourage young readers with engaging stories and illustrations. It helps develop reading skills and confidence in children aged 5 to 7.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "b196abf3-e9a1-4a04-808a-d541231408c9",
+            "image": null,
+            "name": "The Usborne Big Picture Dictionary",
+            "description": "The Usborne Big Picture Dictionary is a visual reference book designed to help young readers learn vocabulary through colorful illustrations and clear definitions. It serves as an engaging tool for early literacy development in children.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "d2a8a313-ec5e-490d-8645-c8a93000d422",
+            "image": null,
+            "name": "LTD Series",
+            "description": "The Cort LTD Series offers a range of high-quality musical instruments designed for both professional musicians and enthusiasts, emphasizing playability and sound quality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "7eacab81-4477-4297-a475-9aa78870cddc",
+            "image": null,
+            "name": "Coach x Jennifer Lopez Collection",
+            "description": "The Coach x Jennifer Lopez Collection features a range of stylish bags that embody a fusion of classic designs and modern aesthetics, reflecting the dynamic personality of the renowned entertainer.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "483dd7db-a5db-4bd6-9e1c-50795e938d96",
+            "image": null,
+            "name": "A5 Series",
+            "description": "The Cort A5 Series consists of high-quality acoustic bass guitars designed for both performance and practice, offering versatile tones and a comfortable playing experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Cort"
+            }
+        },
+        {
+            "id": "9d0cfcce-aae1-41fd-b81d-dbfa606236ac",
+            "image": null,
+            "name": "Motorola Edge+ (2023)",
+            "description": "The Motorola Edge+ (2023) is a premium smartphone designed for high performance, featuring cutting-edge technology and advanced camera capabilities to cater to demanding users.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Motorola"
+            }
+        },
+        {
+            "id": "47e8c544-b205-40d2-b18d-81b6a01dadfb",
+            "image": null,
+            "name": "Mont Marte Artist's Acrylic Paints",
+            "description": "Mont Marte Artist's Acrylic Paints are high-quality paints designed for artists, offering a vibrant range of colors with excellent coverage and quick drying times.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "373baba6-c3f7-44bf-b2bc-4d7244320816",
+            "image": null,
+            "name": "Faber-Castell Art Supplies",
+            "description": "The Faber-Castell Art Supplies series offers a variety of high-quality art materials designed for artists of all skill levels, focusing on precision, versatility, and durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Faber-Castell"
+            }
+        },
+        {
+            "id": "5456a634-1b64-41ef-b212-edced0eb1fe3",
+            "image": null,
+            "name": "Realme Book",
+            "description": "The Realme Book is a series of laptops designed for productivity and portable performance, featuring a slim profile and lightweight design suitable for students and professionals.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "3b2b8066-5f6c-4fc5-82d0-c34e0be4a6b2",
+            "image": null,
+            "name": "Vox",
+            "description": "The Audison Vox series is designed for high-quality car audio performance, featuring advanced technology that delivers clear sound reproduction and powerful bass.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "b7c09070-2246-4092-8c4b-55f0e85b9c9f",
+            "image": null,
+            "name": "Bit",
+            "description": "The Audison Bit series offers advanced digital signal processing solutions for car audio systems, aimed at enhancing sound quality and enabling precise tuning for an optimal listening experience.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "04318a81-08f8-47b2-814c-3ade9caa3c0a",
+            "image": null,
+            "name": "Volvo XC90 (2020 Model Year)",
+            "description": "The Volvo XC90 (2020 Model Year) is a luxury SUV known for its spacious interior, advanced safety features, and premium design, ideally suited for families seeking comfort and reliability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "505d1754-bfd8-4cb5-991d-6f68264a5b00",
+            "image": null,
+            "name": "Paddleboard Skate",
+            "description": "The Hamboards Paddleboard Skate series is designed to replicate the feel of paddleboarding on land, allowing users to enhance their balance and riding skills while providing a unique skateboarding experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "c58f8675-cc0c-4109-a350-cbef7dd9fd48",
+            "image": null,
+            "name": "Metalworks",
+            "description": "The Tama Metalworks series comprises high-quality metal percussion instruments designed for durability and rich sound projection, suitable for a variety of musical genres.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "a39de783-7b6d-4284-bdb6-c5f084ee330f",
+            "image": null,
+            "name": "Playmobil Police",
+            "description": "The Playmobil Police series features playsets that allow children to create their own law enforcement adventures, promoting imaginative play and storytelling through detailed figures and vehicles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "7aa23dda-edc2-4975-9c14-a77eecf1620d",
+            "image": null,
+            "name": "Hamboards 2021 Line",
+            "description": "The Hamboards 2021 Line includes a variety of skateboards designed for cruising and carving, emphasizing a surf-inspired riding experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "882c8bd1-e33d-4e83-8e13-e3e458f59eb3",
+            "image": null,
+            "name": "Clevo W740SU",
+            "description": "The Clevo W740SU is a versatile laptop designed for a range of applications, including gaming, multimedia, and professional tasks, offering a customizable platform for users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Clevo"
+            }
+        },
+        {
+            "id": "862b23b6-fedf-470b-b0af-61592f76ba3c",
+            "image": null,
+            "name": "Menzerna 3-in-1",
+            "description": "Menzerna 3-in-1 is a versatile car care product designed to clean, polish, and protect vehicle surfaces in a single application.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "bf896a5b-1647-45ca-a99a-397a06bda5ed",
+            "image": null,
+            "name": "Coach City Tote",
+            "description": "The Coach City Tote is a versatile and spacious handbag designed for everyday use, featuring a stylish design that seamlessly combines functionality with elegance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "3e0e5882-1206-4b22-99d9-31dbe740ad98",
+            "image": null,
+            "name": "Coach Rogue 25",
+            "description": "The Coach Rogue 25 is a versatile handbag that combines modern aesthetics with functional design, ideal for daily use and special occasions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Coach"
+            }
+        },
+        {
+            "id": "1cf67885-5a3d-4642-a851-084bd8fa0cb2",
+            "image": null,
+            "name": "Kawai CN39",
+            "description": "The Kawai CN39 is a digital piano designed for both beginner and advanced players, offering a realistic playing experience with its Responsive Hammer III action and an integrated sound system.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "5370f0be-2c4c-4eb3-be2e-f8c2ed721706",
+            "image": null,
+            "name": "Kawai Concert Artist Series",
+            "description": "The Kawai Concert Artist Series features high-quality digital pianos designed for performance, incorporating advanced technological features to deliver authentic sound and touch.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Kawai"
+            }
+        },
+        {
+            "id": "c6bc0c4d-93b6-4c19-a279-c2f11242f28b",
+            "image": null,
+            "name": "Husky Liners X-act Contour",
+            "description": "The Husky Liners X-act Contour series provides a customized fit for your vehicle's floor, offering premium protection against dirt, spills, and wear. Made from durable materials, these liners are designed for easy installation and maintenance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "7fc6d351-2ed0-47e0-8cf4-3c7466b8073c",
+            "image": null,
+            "name": "Gibson USA 2017 Explorer",
+            "description": "The Gibson USA 2017 Explorer is a solid-body electric guitar known for its distinctive offset body shape, powerful tone, and high-quality craftsmanship, designed for musicians seeking versatility in rock and metal genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "90c6e670-bcb8-4f7d-8da0-27912d2879fa",
+            "image": null,
+            "name": "Gibson ES-335",
+            "description": "The Gibson ES-335 is a semi-hollow body electric guitar that combines the warmth of an acoustic guitar with the power of an electric guitar, making it versatile for various music genres such as blues, jazz, and rock.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "74387df8-4b66-47ee-8ec0-fbf017affbc6",
+            "image": null,
+            "name": "Mazda 3 (2022)",
+            "description": "The Mazda 3 (2022) is a compact car designed to deliver a balanced blend of performance, comfort, and advanced technology, making it suitable for both urban and suburban driving.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "1a7ab886-ccce-4646-91fe-7b85276e82bd",
+            "image": null,
+            "name": "Krups Nespresso Vertuo",
+            "description": "The Krups Nespresso Vertuo series offers a versatile coffee machine designed to brew a variety of coffee styles and sizes with a single touch, utilizing innovative Centrifusion technology for optimal extraction.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Coffee Machines"
+            },
+            "brand_id": {
+                "name": "Krups"
+            }
+        },
+        {
+            "id": "c16c5846-c954-4464-bc8d-5773527529bc",
+            "image": null,
+            "name": "Toyo Proxes Sport",
+            "description": "The Toyo Proxes Sport is a high-performance tire designed for sports cars and performance vehicles, offering improved traction, handling, and stability in both wet and dry conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Toyo Tires"
+            }
+        }
+    ]
+}

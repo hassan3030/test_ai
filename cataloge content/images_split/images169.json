@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "24011f8c-6473-4a8c-bfd9-9f1c69ba32e6",
+            "image": null,
+            "name": "Cobra DashCam",
+            "description": "The Cobra DashCam series features in-vehicle cameras designed to capture high-definition video footage of the road ahead, providing drivers with a reliable tool for recording incidents and improving safety while driving.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "05790f52-5826-4e60-a8c1-54278f4a8654",
+            "image": null,
+            "name": "Bimota Tesi H2",
+            "description": "The Bimota Tesi H2 is a high-performance motorcycle that combines innovative design with advanced technology, featuring a unique hub-center steering system and a supercharged engine for enhanced power and handling.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bimota"
+            }
+        },
+        {
+            "id": "07336256-24ce-49e0-ad9a-0582bcc68471",
+            "image": null,
+            "name": "Smeg 50's Style Refrigerator",
+            "description": "The Smeg 50's Style Refrigerator series features a retro design that combines vintage aesthetics with modern functionality, offering efficient refrigeration solutions for homes.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "074e9610-8cec-49a9-bb78-7a754413b0a6",
+            "image": null,
+            "name": "Balenciaga Crocs",
+            "description": "The Balenciaga Crocs are a unique collaboration between the luxury fashion brand Balenciaga and the iconic footwear brand Crocs, blending high-fashion aesthetics with casual comfort. Released in 2022, these sneakers showcase an avant-garde design that emphasizes both style and wearability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e1ab05ac-4a52-4673-b53c-a6115557b5c2",
+            "image": null,
+            "name": "Gucci GG0061S",
+            "description": "The Gucci GG0061S sunglasses feature a modern design with a sophisticated aesthetic, aimed at providing both style and eye protection.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "111c19ee-be10-405f-8f7b-481001d9ce3b",
+            "image": null,
+            "name": "Artline 700",
+            "description": "The Artline 700 series includes a range of markers designed for high-quality, permanent marking on various surfaces. Known for their fine tips and vibrant ink, these markers are ideal for artists, crafters, and professionals.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Artline"
+            }
+        },
+        {
+            "id": "8b333124-345e-4809-b239-53253a2694a7",
+            "image": null,
+            "name": "Fire HD 10 Plus",
+            "description": "The Amazon Fire HD 10 Plus is a versatile tablet designed for entertainment, productivity, and reading, featuring a high-definition display and enhanced memory for smooth performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Amazon"
+            }
+        },
+        {
+            "id": "2b907691-15df-49e9-ab1f-ad2f7dcdd6dd",
+            "image": null,
+            "name": "Haier Aqua Series Washing Machines",
+            "description": "The Haier Aqua Series Washing Machines are designed for efficient washing with advanced features, catering to various laundry needs while ensuring water conservation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "c5963cad-87ff-4cfe-aca2-3c4b76bf7e00",
+            "image": null,
+            "name": "Fantasy Prisme",
+            "description": "Pebeo Fantasy Prisme is a range of artistic paints designed for creating beautiful, textured effects on various surfaces such as glass, metal, and ceramics. The unique formula allows for the development of a prismatic effect as it dries, adding depth and dimension to art projects.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "ef08d626-8e05-4534-8d5b-21bc02f9efcc",
+            "image": null,
+            "name": "Vitrail",
+            "description": "The Pebeo Vitrail series offers transparent paints designed for decorating glass, making it ideal for creating stained glass effects and crafting on non-porous surfaces.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "5d6d7414-679e-4f8c-9573-8d6510c7b9c9",
+            "image": null,
+            "name": "Pebeo Fantasy Prisme",
+            "description": "Pebeo Fantasy Prisme is a line of liquid acrylic paints that create unique and textured effects on various surfaces, characterized by their striking, prism-like finish.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "28dd7da6-02b5-44ed-b018-48cc320ede54",
+            "image": null,
+            "name": "Superlight Harness",
+            "description": "The Wild Country Superlight Harness is a lightweight and highly portable climbing harness designed for mountaineering and multi-pitch climbing, offering optimal comfort and ease of use while maintaining safety standards.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Wild Country"
+            }
+        },
+        {
+            "id": "e53ac4ff-25e1-4bfb-a35e-8f7c986c6640",
+            "image": null,
+            "name": "Liquitex Professional Acrylic Paints",
+            "description": "Liquitex Professional Acrylic Paints are high-quality artist paints designed for professional use, offering excellent pigment intensity, a smooth application, and a wide range of colors suitable for various techniques and surfaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "1b48a7e6-cd3a-4499-b908-2772f56fae4d",
+            "image": null,
+            "name": "Liquitex Heavy Body Acrylics",
+            "description": "Liquitex Heavy Body Acrylics is a series of highly pigmented, thick acrylic paints designed for artists seeking a rich, buttery texture that retains brush strokes and delivers vibrant color. They are suitable for a wide range of surfaces and techniques.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "c21f8002-48bf-4b50-9acc-30c069d7ca8c",
+            "image": null,
+            "name": "Liquitex Acrylic Inks",
+            "description": "Liquitex Acrylic Inks are highly pigmented, water-based inks designed for versatile use across a variety of surfaces. They dry quickly to a durable, matte finish, making them suitable for fine art, mixed media, and more.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "e3b83873-b11c-4f14-890f-3a6c6e9758ec",
+            "image": null,
+            "name": "Liquitex Pouring Medium",
+            "description": "Liquitex Pouring Medium is a high-quality acrylic pouring medium designed to create fluid art with a smooth consistency. It enhances paint flow and adhesion while maintaining vibrant colors.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "27b4f33e-b6d7-4fe6-9037-fdc51d1dbbf3",
+            "image": null,
+            "name": "Liquitex Basics",
+            "description": "Liquitex Basics is a series of high-quality acrylic paints designed for students and artists. Known for their vibrant colors and consistent performance, these paints are suitable for a variety of artistic applications.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "6fe1c094-5b4d-4b28-b0fc-dd97c609cb97",
+            "image": null,
+            "name": "Liquitex Professional Acrylic Inks",
+            "description": "Liquitex Professional Acrylic Inks are high-quality, fluid acrylics designed for artists seeking vibrant colors and versatility in their painting techniques. These inks are ideal for a variety of applications, including airbrush, calligraphy, and mixed media.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "5c8eb535-2cc2-4c99-80d6-c7ecf1a8b4c4",
+            "image": null,
+            "name": "Heavy Body Acrylics",
+            "description": "Liquitex Heavy Body Acrylics are a line of high-viscosity acrylic paints designed for artists seeking rich color and texture in their work. Known for their thick consistency, these paints retain brush strokes and allow for a range of techniques.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "61e3bd3c-a49b-45c2-9dfd-1c9851e3cd08",
+            "image": null,
+            "name": "Liquitex Professional Heavy Body Acrylic Paint",
+            "description": "Liquitex Professional Heavy Body Acrylic Paint is a high-viscosity acrylic paint designed for artists seeking thick, buttery consistency and rich color performance. Ideal for a variety of techniques and surfaces, it retains brush strokes and texture beautifully.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "680c4cc1-cabf-4d9d-a8bf-13a12ce728ce",
+            "image": null,
+            "name": "Liquitex Basics Acrylic Paint",
+            "description": "Liquitex Basics Acrylic Paint is a quality fluid acrylic paint series designed for both professional and amateur artists. Known for its smooth consistency and vibrant colors, it offers excellent pigmentation and versatility for various painting techniques.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "947a2f56-a8c1-4003-ad79-eaec114d40f5",
+            "image": null,
+            "name": "Liquitex Acrylic Ink",
+            "description": "Liquitex Acrylic Ink is a highly fluid acrylic ink that offers vibrant colors and exceptional lightfastness, making it ideal for various art applications such as illustration, airbrushing, and mixed media.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "d601b607-089e-4cc3-ab35-0390acda986a",
+            "image": null,
+            "name": "Liquitex Basics Acrylic Paints",
+            "description": "Liquitex Basics Acrylic Paints are an entry-level range designed for students and aspiring artists, providing a consistent quality and vibrant colors for painting on a variety of surfaces.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "67d1c248-4cc2-42a4-96f7-5fab1c6f78d6",
+            "image": null,
+            "name": "Liquitex Professional Spray Paint",
+            "description": "Liquitex Professional Spray Paint is a high-quality acrylic paint designed for artists, providing vibrant colors and excellent coverage for various surfaces.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "c5061a73-054a-4954-aa9b-354e36e57170",
+            "image": null,
+            "name": "Liquitex Acrylic Gouache",
+            "description": "Liquitex Acrylic Gouache is a versatile paint series that combines the qualities of acrylics and gouache, offering a matte finish and smooth application suitable for artists and crafters alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Liquitex"
+            }
+        },
+        {
+            "id": "61e29f3d-c300-4e7d-a337-c6a2b0fe4658",
+            "image": null,
+            "name": "Pébéo Fantasy Moon",
+            "description": "Pébéo Fantasy Moon is a series of premium acrylic paints that offer a unique, shimmering effect when dried, ideal for artists seeking to create textured and reflective surfaces in their artwork.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "0313f1ad-43e7-4ea9-bee6-e21d4ef8b200",
+            "image": null,
+            "name": "Van Gogh Oil Paints",
+            "description": "Van Gogh Oil Paints are a professional-grade range of oil paints designed for artists of all levels. They are known for their vibrant colors, smooth consistency, and excellent lightfastness.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "4f4d3c46-5d48-4407-80eb-69f677d9f991",
+            "image": null,
+            "name": "Van Gogh Watercolors",
+            "description": "Van Gogh Watercolors are a premium range of water-based paints developed for artists, featuring high pigmentation and excellent lightfastness for vibrant and long-lasting artwork.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "b54dbee2-d281-469c-a4d1-e13639ee2672",
+            "image": null,
+            "name": "Van Gogh Pastels",
+            "description": "The Van Gogh Pastels series offers high-quality pastels that provide vibrant colors and excellent blendability, ideal for artists seeking to enhance their artwork with rich, expressive shades.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Van Gogh"
+            }
+        },
+        {
+            "id": "e95022e7-6b1f-4bd1-ae34-bccb33c22d79",
+            "image": null,
+            "name": "Sakura Koi Coloring Brush",
+            "description": "The Sakura Koi Coloring Brush series features water-based ink markers designed for blending and shading, ideal for artists and hobbyists seeking versatility and control in their watercolor effects.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Sakura"
+            }
+        }
+    ]
+}

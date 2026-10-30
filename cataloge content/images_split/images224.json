@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "4a003d62-c0ab-430f-bc54-0fb697f7abc6",
+            "image": null,
+            "name": "Solis Blender Pro",
+            "description": "The Solis Blender Pro is a high-performance appliance designed for versatile blending tasks, featuring powerful motor capabilities and various speed settings to accommodate a range of ingredients and preparation techniques.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Solis"
+            }
+        },
+        {
+            "id": "2fe9eafe-d28b-4e5e-8b60-14154f558db2",
+            "image": null,
+            "name": "Cougar Armor",
+            "description": "The Cougar Armor series consists of ergonomic gaming chairs designed for comfort during long gaming sessions, featuring adjustable components and premium materials.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "35133957-1948-4add-aaed-760fe2b00ebc",
+            "image": null,
+            "name": "Cougar Attila",
+            "description": "The Cougar Attila is a gaming chair series designed to provide ergonomic support and comfort during long gaming sessions, featuring adjustable components and a robust build.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "7f859bad-9a45-413d-851e-487f4a7f6730",
+            "image": null,
+            "name": "Cougar Panzer",
+            "description": "The Cougar Panzer series features customizable gaming PCs designed for high performance and extensive cooling options, catering to gamers who prioritize aesthetics and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "f0b2eeb0-254e-4a75-ad44-f42164693df9",
+            "image": null,
+            "name": "Cougar Armor S",
+            "description": "The Cougar Armor S is a gaming chair designed to provide comfort and support during extended gaming sessions, featuring adjustable components and ergonomic design for optimal posture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "07c25050-9568-4397-86c5-a2893b6515fe",
+            "image": null,
+            "name": "Cougar Arge",
+            "description": "The Cougar Arge series offers ergonomic gaming chairs designed to provide comfort and support during long gaming sessions, featuring adjustable components to cater to individual preferences.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "e4d1e5da-f4ca-41a2-980b-4ab33a3d14c0",
+            "image": null,
+            "name": "Cougar Opengame",
+            "description": "The Cougar Opengame series consists of versatile gaming accessories designed to enhance the gaming experience with ergonomic features and customizable options.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "271275b1-c00a-420d-8ce7-ae83dbde8b96",
+            "image": null,
+            "name": "Cougar Panzer S",
+            "description": "The Cougar Panzer S is a gaming PC designed for high performance and effective cooling, featuring a sleek chassis and customizable RGB lighting options to enhance the gaming experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "f9de93f4-a8ba-41eb-b82c-673745a53135",
+            "image": null,
+            "name": "Cougar Armor One",
+            "description": "The Cougar Armor One is a gaming chair designed for comfort and durability, providing ergonomic support for extended gaming sessions.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "cae0ea02-e3ed-4e7f-b8cd-eb4b9084495e",
+            "image": null,
+            "name": "Cougar Blazer",
+            "description": "The Cougar Blazer series consists of gaming chairs designed to provide comfort and support for long gaming sessions, featuring adjustable components and ergonomic design.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "36fd00d3-12a4-4eea-8732-500c6c6c046a",
+            "image": null,
+            "name": "Cougar VANTAR",
+            "description": "The Cougar VANTAR series features sleek and modern gaming accessories designed to enhance the gaming experience with precision and comfort.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        },
+        {
+            "id": "8af5ff46-d98c-45e8-9385-02c8f3048088",
+            "image": null,
+            "name": "Secretlab TITAN Evo 2022 Series",
+            "description": "The Secretlab TITAN Evo 2022 Series is a line of gaming chairs designed for ergonomic support and comfort during extended gaming sessions, featuring high-quality materials and customizable settings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Gaming Chairs"
+            },
+            "brand_id": {
+                "name": "Secretlab"
+            }
+        },
+        {
+            "id": "b578741d-3119-4015-ba57-f0c8a391d78c",
+            "image": null,
+            "name": "Oculus Rift",
+            "description": "The Oculus Rift is a virtual reality headset designed for immersive entertainment experiences, allowing users to explore computer-generated environments as if they were physically present in them.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "b9df77e2-ab9f-445a-a704-a79a2c18dc35",
+            "image": null,
+            "name": "Oculus Touch",
+            "description": "Oculus Touch is a series of motion controllers designed for use with Oculus VR headsets, providing intuitive hand tracking and immersive gameplay experiences.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "62007a0d-4ec6-42e6-9765-d96b9677e708",
+            "image": null,
+            "name": "Oculus Quest",
+            "description": "The Oculus Quest is a standalone virtual reality headset that provides an immersive gaming and entertainment experience without the need for a PC or external sensors.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "d23730ae-b4cb-4a36-ba84-954b41ec9293",
+            "image": null,
+            "name": "Oculus Quest 2",
+            "description": "The Oculus Quest 2 is a standalone virtual reality headset designed for immersive gaming and social experiences without the need for external hardware.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "VR Headsets"
+            },
+            "brand_id": {
+                "name": "Oculus"
+            }
+        },
+        {
+            "id": "34bdfa4f-9f72-4cf2-854b-05f9554498a5",
+            "image": null,
+            "name": "Stealth 600 Gen 2",
+            "description": "The Turtle Beach Stealth 600 Gen 2 is a wireless gaming headset designed for comfort and immersive audio experience, making it suitable for long gaming sessions on various platforms.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Turtle Beach"
+            }
+        },
+        {
+            "id": "a4764120-5308-4ca7-a742-784498a766f8",
+            "image": null,
+            "name": "KX250",
+            "description": "The Kawasaki KX250 is a high-performance motocross motorcycle designed for racing and off-road riding, known for its powerful engine and agile handling.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "71016c13-653c-4f8a-8507-d6e0b50ae7f6",
+            "image": null,
+            "name": "KX125",
+            "description": "The Kawasaki KX125 is a high-performance motocross motorcycle designed for competitive off-road racing, featuring a lightweight design and a powerful two-stroke engine.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "2c3e3f46-78e6-460f-bab3-4c075514f257",
+            "image": null,
+            "name": "Ninja ZX-9R",
+            "description": "The Kawasaki Ninja ZX-9R is a high-performing sport motorcycle known for its balance of power and agility, making it suitable for both street and track riding.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "b1b978e3-a099-4171-91f4-d12b63dec33f",
+            "image": null,
+            "name": "MagnaFlow Competition Series",
+            "description": "The MagnaFlow Competition Series is designed for performance enthusiasts, offering enhanced exhaust flow and sound quality for racing and high-performance applications.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Magnaflow"
+            }
+        },
+        {
+            "id": "52fccd01-f1c0-4a89-8d2a-df173f90a71f",
+            "image": null,
+            "name": "Zymol Cleanse",
+            "description": "Zymol Cleanse is a series of car care products designed to effectively clean and prepare vehicle surfaces for further applications. It emphasizes environmental responsibility and utilizes high-quality, natural ingredients.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "8a4fe63c-533d-49ac-9164-5b4f405f640b",
+            "image": null,
+            "name": "BabyBjörn High Chair",
+            "description": "The BabyBjörn High Chair is designed for children from the age of 6 months to 3 years, providing a safe and comfortable space for meals and snacks. Its compact design and adjustable features make it a practical choice for families with limited space.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "4dbe1f56-8ec0-4c97-b508-2df113d3ff5f",
+            "image": null,
+            "name": "Honda CBF Stunner",
+            "description": "The Honda CBF Stunner is a compact motorcycle designed for urban commuting, offering a blend of performance, comfort, and style. Launched in 2006, it is aimed at everyday riders seeking reliability and efficiency.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "8e7a807d-d96e-4cc9-bc19-d4df90094590",
+            "image": null,
+            "name": "Škoda Octavia",
+            "description": "The Škoda Octavia is a compact car produced by Skoda Auto, known for its practicality, spacious interior, and efficient engine options, making it a popular choice for both families and individuals.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "9c6df7a7-e210-4d3d-a3b0-f45e3700a2d4",
+            "image": null,
+            "name": "Renault Scénic II",
+            "description": "The Renault Scénic II is a compact MPV designed primarily for family use, offering versatility, spaciousness, and comfort for passengers. It combines practical design features with efficient performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Renault"
+            }
+        },
+        {
+            "id": "1ad9f504-fc4d-42cb-b740-92c5cb96fc58",
+            "image": null,
+            "name": "GE Café Series",
+            "description": "The GE Café Series Refrigerators offer a blend of modern design and advanced technology, aimed at enhancing the kitchen experience with customizable features and efficient performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "a3cc5909-5bb7-4656-b67e-3f76f2c7f94f",
+            "image": null,
+            "name": "Zymöl Car Care Products",
+            "description": "Zymöl Car Care Products are designed to provide high-quality cleaning, polishing, and protection for automotive surfaces, ensuring a long-lasting shine and enhancing the vehicle's overall appearance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymöl"
+            }
+        },
+        {
+            "id": "a85db41f-4eda-41cd-ac0c-6904a260399f",
+            "image": null,
+            "name": "BabyBjörn Cradle",
+            "description": "The BabyBjörn Cradle is designed to provide a safe and comfortable sleeping environment for newborns. Its lightweight and portable design allows for easy movement around the home while ensuring a soothing rocking motion to help infants sleep.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "BabyBjörn"
+            }
+        },
+        {
+            "id": "4348fa0d-bdc2-43b0-bff4-43da7f76fe36",
+            "image": null,
+            "name": "Cougar 4D",
+            "description": "The Cougar 4D series consists of high-quality gaming accessories designed to enhance the gaming experience through ergonomic design and advanced functionality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": {
+                "name": "Cougar Gaming"
+            }
+        }
+    ]
+}

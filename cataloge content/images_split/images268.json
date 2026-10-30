@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "0b08655b-91af-42fa-9f7b-8b679466be7a",
+            "image": null,
+            "name": "Trek Speed Concept",
+            "description": "The Trek Speed Concept is a high-performance triathlon bike designed for speed and aerodynamics, aimed at competitive triathletes and time trialists seeking optimal efficiency on the race course.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "a75d9d66-c046-402c-b6e7-89c7f57f95ee",
+            "image": null,
+            "name": "Schenker SYNEK",
+            "description": "The Schenker SYNEK series consists of high-performance laptops designed for gamers and creative professionals, offering customizable configurations and advanced thermal management for optimal performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "3216c81a-b19c-4331-aae0-8920cb162218",
+            "image": null,
+            "name": "Loewe Gate",
+            "description": "The Loewe Gate series features a collection of stylish bags characterized by their unique design elements, including a distinctive knot detail and premium leather craftsmanship, making them both functional and aesthetically appealing.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Loewe"
+            }
+        },
+        {
+            "id": "1434f7df-7596-44a2-b564-8008d2bdff92",
+            "image": null,
+            "name": "Vango Adventure",
+            "description": "The Vango Adventure series is designed for camping enthusiasts, providing essential gear that balances functionality and durability for outdoor exploration.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "cafa7675-4aa8-4656-8fcc-3a2bca332799",
+            "image": null,
+            "name": "Kate Spade New York Striped Collection",
+            "description": "The Kate Spade New York Striped Collection features stylish bags characterized by their playful striped patterns, perfect for adding a chic touch to any outfit while providing practical storage solutions.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Kate Spade"
+            }
+        },
+        {
+            "id": "43afabbe-7eb5-4f78-bd75-76fdd46a748b",
+            "image": null,
+            "name": "Trek Procaliber",
+            "description": "The Trek Procaliber series is designed for serious cross-country riders, featuring a lightweight frame and an advanced suspension system that enhances performance on varied terrains.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "a2b3cfa1-d63d-44d3-aea2-06e12543f514",
+            "image": null,
+            "name": "Schenker XMG U Series",
+            "description": "The Schenker XMG U Series is a line of high-performance laptops designed for gaming and demanding applications, featuring powerful components and customizable configurations.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Schenker Technologies"
+            }
+        },
+        {
+            "id": "df176fef-8f8a-4b99-822b-8c5b7ff62e24",
+            "image": null,
+            "name": "Meguiar's Gold Class Carnauba Plus Premium Paste Wax",
+            "description": "Meguiar's Gold Class Carnauba Plus Premium Paste Wax is a high-quality car wax designed to provide a deep, long-lasting shine while offering protection against environmental contaminants. It combines the natural richness of carnauba wax with synthetic polymers for enhanced durability.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "216c3d88-07c9-4219-b3fd-3596f37483b3",
+            "image": null,
+            "name": "Hyundai Elantra (third generation)",
+            "description": "The Hyundai Elantra (third generation) is a compact car that offers a combination of practicality, efficiency, and modern design, aimed at providing an affordable and comfortable driving experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "7eca9f5f-8f35-4143-b857-7cf3bce65647",
+            "image": null,
+            "name": "RadCity 5",
+            "description": "The RadCity 5 is an electric commuter bike designed for urban environments, offering a comfortable ride and practical features for daily travel.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Rad Power Bikes"
+            }
+        },
+        {
+            "id": "3fc22551-38ee-43a6-8371-05f20eae042a",
+            "image": null,
+            "name": "Ultimate Quik Wax",
+            "description": "Meguiar's Ultimate Quik Wax is a spray-on wax designed to provide a high-gloss finish and protection for car paint. It offers quick application and is suitable for use on wet or dry surfaces.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "4a9a3196-8216-454a-93f1-1fd7b28a6e09",
+            "image": null,
+            "name": "Domane AL",
+            "description": "The Trek Domane AL series comprises lightweight endurance bikes designed for a smooth and stable ride on various terrains, catering to cyclists looking for versatility and comfort.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "92b00512-215b-4359-8e49-fd3c26334ad7",
+            "image": null,
+            "name": "Vango Odyssey",
+            "description": "The Vango Odyssey series offers versatile and durable camping gear designed to enhance outdoor experiences, providing reliable shelter and comfort for campers.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "49d9a658-4da1-4436-9990-3e824a4d1cdc",
+            "image": null,
+            "name": "Hyundai Sonata (6th Generation)",
+            "description": "The Hyundai Sonata (6th Generation) is a mid-size sedan produced by Hyundai, known for its combination of spacious interior, fuel efficiency, and advanced safety features.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "7b905c4f-965c-4cbe-87f4-8deaf29caf80",
+            "image": null,
+            "name": "Michael Kors Jet Set",
+            "description": "The Michael Kors Jet Set series is a collection of stylish and functional bags designed for everyday use, featuring a combination of modern aesthetics and practical organization.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "c0fd79fe-3f06-413e-8ee7-a4041c66da68",
+            "image": null,
+            "name": "EXO-R2000",
+            "description": "The ScorpionExo EXO-R2000 is a high-performance full-face motorcycle helmet designed for optimal protection and comfort, featuring advanced ventilation and a lightweight shell for a superior riding experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "ScorpionExo"
+            }
+        },
+        {
+            "id": "0df4ecac-6180-47e8-9a3e-c607180374b5",
+            "image": null,
+            "name": "Vango Zenith",
+            "description": "The Vango Zenith series is designed for outdoor enthusiasts, providing durable and reliable camping gear suitable for a range of outdoor activities.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Vango"
+            }
+        },
+        {
+            "id": "a192deda-76ce-451e-b197-7ccbc9a8fe38",
+            "image": null,
+            "name": "Puzzle",
+            "description": "The Loewe Puzzle series is a collection of bags known for their geometric design and versatility, allowing for various carrying styles including hand, shoulder, and crossbody options.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Loewe"
+            }
+        },
+        {
+            "id": "9d3f7add-ceed-412a-b252-4673cb813e44",
+            "image": null,
+            "name": "Trek Fuel EX 7",
+            "description": "The Trek Fuel EX 7 is a versatile full-suspension mountain bike designed for trail riding and all-mountain adventures, featuring a lightweight aluminum frame and a balanced geometry for optimal handling and comfort on various terrains.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "652fcf5c-32ca-4b94-bb57-702f99dfe72c",
+            "image": null,
+            "name": "Hyundai i30",
+            "description": "The Hyundai i30 is a compact car designed for efficient urban commuting and versatility. It is known for its practical design, comfortable interior, and a range of engine options.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "84c2e8c0-5cf3-4e34-a740-f5dfe8a29068",
+            "image": null,
+            "name": "Safety 1st Riva",
+            "description": "The Safety 1st Riva series includes baby seats designed to offer comfort and safety for infants during travel. Key traits include ease of installation and a focus on secure seating.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Dorel Juvenile"
+            }
+        },
+        {
+            "id": "81c721d9-87ac-467d-a5d5-023219769d56",
+            "image": null,
+            "name": "Kawasaki H2",
+            "description": "The Kawasaki H2 series represents a line of high-performance motorcycles designed for speed and agility, featuring supercharged engines and advanced technology to provide an exhilarating riding experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Kawasaki"
+            }
+        },
+        {
+            "id": "838bb014-0354-4670-9e67-e615dda1020b",
+            "image": null,
+            "name": "MKGO",
+            "description": "The MKGO series by Michael Kors features a collection of bags designed for on-the-go lifestyles, combining functionality with modern aesthetics.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bags"
+            },
+            "brand_id": {
+                "name": "Michael Kors"
+            }
+        },
+        {
+            "id": "05104c44-d9db-47d7-baf4-08f08b4a05f9",
+            "image": null,
+            "name": "Trek Verve 2",
+            "description": "The Trek Verve 2 is a versatile comfort bike designed for recreational riding and commuting. It features a lightweight aluminum frame, a comfortable saddle, and an upright geometry, making it ideal for leisurely rides around town or on bike paths.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "a6792f09-10b6-4829-98df-8a716c85a791",
+            "image": null,
+            "name": "Trek Domane SLR",
+            "description": "The Trek Domane SLR series is designed for endurance road cycling, featuring advanced technology for enhanced comfort and performance on long rides.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Trek"
+            }
+        },
+        {
+            "id": "d72d6e92-0a6e-41d6-bd4c-567b66148680",
+            "image": null,
+            "name": "Gorenje Retro Refrigerator",
+            "description": "The Gorenje Retro Refrigerator series combines nostalgic design elements with modern functionality, offering efficient cooling solutions for any kitchen setting.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Gorenje"
+            }
+        },
+        {
+            "id": "6c1d8e13-0e99-4fb8-8880-cf52cc00e065",
+            "image": null,
+            "name": "Chloé x Natacha Ramsay-Levi",
+            "description": "The Chloé x Natacha Ramsay-Levi series features a curated collection of accessories that blend contemporary design with classic Chloé elegance, embodying a sense of femininity and modernity.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Accessories"
+            },
+            "brand_id": {
+                "name": "Chloé"
+            }
+        },
+        {
+            "id": "3aedaf94-f901-436e-9aa4-d9cd87c8fbc4",
+            "image": null,
+            "name": "Canpol Babies Snack Cup",
+            "description": "The Canpol Babies Snack Cup is designed for young children to enjoy snacks on the go, featuring a secure lid to minimize spills and easy-grip handles for convenient use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Canpol Babies"
+            }
+        },
+        {
+            "id": "c988f9b4-cbcd-4b09-8078-043005e8edfa",
+            "image": null,
+            "name": "Kona Electric",
+            "description": "The Hyundai Kona Electric is a compact electric SUV designed to provide efficient and eco-friendly transportation with practical features and advanced technology.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Hyundai"
+            }
+        },
+        {
+            "id": "d9e194cb-0723-4fd5-aa96-223647ac54d7",
+            "image": null,
+            "name": "Cangaroo Elegance",
+            "description": "The Cangaroo Elegance series of strollers is designed for comfort and convenience, featuring a stylish design with easy maneuverability for parents on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Cangaroo"
+            }
+        }
+    ]
+}

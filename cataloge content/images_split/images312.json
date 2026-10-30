@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "801bcfce-71af-4716-9d9c-8ca59a28eb56",
+            "image": null,
+            "name": "Djeco Puzzles",
+            "description": "Djeco Puzzles are engaging children's puzzles designed to enhance cognitive skills and hand-eye coordination while providing hours of creative play.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "1f012158-2c40-4b27-ad75-ff2972a2f4e5",
+            "image": null,
+            "name": "Djeco Games",
+            "description": "Djeco Games is a series of creative and educational games designed to engage children while promoting learning and social interaction. Launched in 2017, these games are characterized by their colorful designs and focus on developing various skills.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "ff5e1180-75b2-4492-91aa-e7c97371712c",
+            "image": null,
+            "name": "Djeco Art & Craft",
+            "description": "Djeco Art & Craft is a series of creative toys designed to engage children in imaginative play through various artistic activities. The products encourage creativity and fine motor skills development.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Djeco"
+            }
+        },
+        {
+            "id": "31f71c5a-6cd2-4866-837b-fcd734e22202",
+            "image": null,
+            "name": "Black+Decker 4-Slice Toaster Oven",
+            "description": "The Black+Decker 4-Slice Toaster Oven is a versatile kitchen appliance designed for toasting, baking, and broiling a variety of foods efficiently and evenly.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Black & Decker"
+            }
+        },
+        {
+            "id": "6983be85-8dcd-4ff4-b726-848f01c9b2ed",
+            "image": null,
+            "name": "Player Series",
+            "description": "The Guild Player Series includes a range of high-quality musical instruments designed for players of all skill levels, emphasizing excellent playability and rich tonal characteristics.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Guild"
+            }
+        },
+        {
+            "id": "3573acf7-1cc1-4fed-83c3-3966a1899fec",
+            "image": null,
+            "name": "FurReal Friends Torch My Dancing Puppy",
+            "description": "FurReal Friends Torch My Dancing Puppy is an interactive toy designed to resemble a playful puppy that responds to your touch and voice, making it a fun companion for children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "258c7082-da03-471e-b875-5e2cb3be086b",
+            "image": null,
+            "name": "Baker 2.0",
+            "description": "The Baker 2.0 series includes a range of high-quality skateboards designed for durability and performance, catering to both beginners and experienced skaters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Baker Skateboards"
+            }
+        },
+        {
+            "id": "5029b5ac-15d0-4219-aff3-b68950e5f3e4",
+            "image": null,
+            "name": "ATH-TWX9",
+            "description": "The Audio-Technica ATH-TWX9 are true wireless in-ear headphones designed to provide high-quality audio performance and a comfortable listening experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "2a577841-e847-467a-acf0-012c34448fd4",
+            "image": null,
+            "name": "Peanuts",
+            "description": "The Peanuts series by Hachette Kids features beloved characters created by Charles M. Schulz, offering engaging and fun stories that encourage reading among young children.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Hachette Kids"
+            }
+        },
+        {
+            "id": "8dc8021c-2b6a-4700-a7ed-eeaeed41888d",
+            "image": null,
+            "name": "Pixel Buds (2nd Generation)",
+            "description": "The Google Pixel Buds (2nd Generation) are wireless earbuds designed to deliver high-quality audio and seamless integration with Google Assistant, enhancing the listening experience for users on the go.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "f11b540b-6580-408f-b5d3-03960b5f99b2",
+            "image": null,
+            "name": "Zymol Classic Wax",
+            "description": "Zymol Classic Wax is a premium car wax designed to enhance and protect automotive paint finishes, providing a deep gloss and long-lasting protection against environmental elements.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "46798a30-0231-4088-b279-d7352dc6d9c1",
+            "image": null,
+            "name": "Nokia 1 Plus",
+            "description": "The Nokia 1 Plus is a budget-friendly smartphone designed to provide essential features and functionality for everyday use, emphasizing simplicity and reliability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "8df9afa1-593f-4ded-8d7a-8cbfc6f5fea8",
+            "image": null,
+            "name": "Best of Show Wax",
+            "description": "Griot's Garage Best of Show Wax is a high-quality car wax formulated to provide exceptional shine and protection for your vehicle's paint. Launched in 2005, this product is designed to enhance the appearance of your car while offering durability against harsh environmental factors.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "758cb002-474c-46c1-a407-a609e21af438",
+            "image": null,
+            "name": "Taf Toys Activity Play Gym",
+            "description": "The Taf Toys Activity Play Gym is designed to encourage early sensory development through engaging play. It features vibrant colors, textures, and hanging toys to stimulate infants' visual and tactile senses.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Taf Toys"
+            }
+        },
+        {
+            "id": "b9d0fa52-ccf4-42f2-a087-d59c8a2ac6d6",
+            "image": null,
+            "name": "Pixel Buds A-Series",
+            "description": "The Google Pixel Buds A-Series are true wireless earbuds designed for active lifestyles, featuring high-quality sound, seamless connectivity, and a comfortable fit.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Google"
+            }
+        },
+        {
+            "id": "6659d167-ff9a-4da7-ae89-ca4c9dabf6fe",
+            "image": null,
+            "name": "FurReal Friends Paxie, the Furry Pet",
+            "description": "FurReal Friends Paxie, the Furry Pet, is an interactive toy that mimics the behaviors of a real pet, allowing children to engage in nurturing play. The toy is designed to respond to touch and sounds, providing an immersive and delightful experience for young pet enthusiasts.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "06ca1629-cad6-4c8a-9801-1c3cf7cef0f5",
+            "image": null,
+            "name": "How to Catch a Mermaid",
+            "description": "The 'How to Catch a Mermaid' series from Candlewick Press is designed to engage children's imagination and creativity through whimsical stories about mermaids and playful adventures.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Candlewick Press"
+            }
+        },
+        {
+            "id": "9ee4dce1-6ffb-4d05-a7af-efe31f6aa703",
+            "image": null,
+            "name": "Nokia 3.2",
+            "description": "The Nokia 3.2 is a smartphone designed for everyday use, featuring a large display, long battery life, and Android operating system, aiming to provide a balanced experience for users seeking reliability and functionality.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "12d91000-4f16-4f33-8643-f67052906bb1",
+            "image": null,
+            "name": "Subaru Impreza WRX",
+            "description": "The Subaru Impreza WRX is a high-performance compact car known for its turbocharged engine, all-wheel drive system, and rally-inspired design, making it a favorite among enthusiasts and motorsport lovers.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "482ed5bc-edf6-488c-a731-fcf1ad8beed3",
+            "image": null,
+            "name": "Zymol Cleaner Wax",
+            "description": "Zymol Cleaner Wax is a premium car care product designed to clean, polish, and protect automotive surfaces. It combines a unique blend of natural waxes and cleaners to enhance the vehicle's appearance while providing a protective layer.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Zymol"
+            }
+        },
+        {
+            "id": "aa91fddc-77db-4598-b4fd-d7f072924d9f",
+            "image": null,
+            "name": "Griot's Garage Fast Correcting Cream",
+            "description": "Griot's Garage Fast Correcting Cream is a high-performance car care product designed to effectively remove paint blemishes and imperfections while enhancing surface clarity and gloss.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "ba7623ae-308d-437f-88e2-79597480c0b6",
+            "image": null,
+            "name": "Nokia 4.2",
+            "description": "The Nokia 4.2 is a mid-range smartphone that combines a sleek design with reliable performance and enhanced camera capabilities. It is designed for users who seek a balance between functionality and affordability in their mobile experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "10c5664d-3641-47b6-a1cf-b4aad37eac79",
+            "image": null,
+            "name": "FurReal Friends Starling, My Baby Dragon",
+            "description": "FurReal Friends Starling, My Baby Dragon is a plush interactive toy designed to engage children through imaginative play. This adorable baby dragon responds to touch, sounds, and play, encouraging nurturing and companionship.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "FurReal Friends"
+            }
+        },
+        {
+            "id": "f9256cbb-ad45-4192-9a4d-82cf50b6bf77",
+            "image": null,
+            "name": "LEGO 75253 Star Wars Droid Commander",
+            "description": "The LEGO 75253 Star Wars Droid Commander allows users to build and program three different droids from the Star Wars universe, providing an interactive experience that combines construction with coding.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "b7ec643e-3857-4b9e-93a6-15eadd710a1f",
+            "image": null,
+            "name": "Subaru Legacy (Fourth Generation)",
+            "description": "The Subaru Legacy (Fourth Generation) is a mid-size car known for its all-wheel drive capability, reliability, and spacious interior. Released in 2003, it combines practicality with performance for a versatile driving experience.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e1c4a729-a09c-4e60-a677-6b2c4a2513a1",
+            "image": null,
+            "name": "Prismacolor Premier Art Markers",
+            "description": "Prismacolor Premier Art Markers are high-quality, pigment-based markers designed for artists. They provide smooth, vibrant, and consistent color application, making them ideal for illustrations, drawings, and other artistic projects.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Prismacolor"
+            }
+        },
+        {
+            "id": "ce1f170b-30ac-42b8-846e-e430920380f4",
+            "image": null,
+            "name": "Nokia 7.1",
+            "description": "The Nokia 7.1 is a smartphone that offers a combination of sleek design and advanced technology, primarily aimed at delivering high-quality photography and a vibrant display experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Nokia"
+            }
+        },
+        {
+            "id": "00806ff9-597b-411d-b3a3-48cdf5232ec1",
+            "image": null,
+            "name": "Puky LR 1",
+            "description": "The Puky LR 1 is a children's balance bike designed to aid toddlers in developing their balance and coordination skills while riding. Its lightweight design and ergonomic features make it a suitable choice for young riders.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Puky"
+            }
+        },
+        {
+            "id": "2cb17c7e-6ebe-40f4-b847-ceee8100e202",
+            "image": null,
+            "name": "Turtle Wax Ice Premium Car Care",
+            "description": "Turtle Wax Ice Premium Car Care is a comprehensive line of products designed to provide advanced protection and shine for automotive surfaces. Launched in 2001, this series focuses on delivering high-quality results with easy application.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "6d9a12d4-ff3a-485d-875c-1f6991514567",
+            "image": null,
+            "name": "Griot's Garage Long-Lasting Tire Dressing",
+            "description": "Griot's Garage Long-Lasting Tire Dressing is a premium car care product designed to enhance the appearance of tires while providing long-lasting protection against cracking and fading.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        }
+    ]
+}

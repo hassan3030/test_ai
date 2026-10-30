@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "64a2f54e-37da-4d2d-97cf-d86acdffaf02",
+            "image": null,
+            "name": "Whirlpool Edge-to-Edge Refrigerator",
+            "description": "The Whirlpool Edge-to-Edge Refrigerator series offers a spacious and organized refrigerator design with a flat interior and maximum storage capacity, ensuring easy access and visibility of food items.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Whirlpool Corporation"
+            }
+        },
+        {
+            "id": "c3449244-f661-4a35-91d1-c72977b0137c",
+            "image": null,
+            "name": "Lenovo Legion Pro 7i",
+            "description": "The Lenovo Legion Pro 7i is a high-performance gaming laptop designed for gamers and content creators, featuring advanced hardware capabilities and a sleek design.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "8abf95fa-ee5e-4d64-8d3c-9a205356dc2b",
+            "image": null,
+            "name": "Omen 16 (2022)",
+            "description": "The Omen 16 (2022) is a gaming laptop series designed to deliver high performance for gamers, featuring powerful hardware and advanced thermal management to enhance gameplay.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "02d25969-662c-4a36-977b-5ec1f93cf88f",
+            "image": null,
+            "name": "Fritz Hansen N01",
+            "description": "The Fritz Hansen N01 is a modern chair designed for comfort and versatility, combining a sleek aesthetic with ergonomic features, making it suitable for various interior spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Fritz Hansen"
+            }
+        },
+        {
+            "id": "12cf75bd-cc06-4ff2-99b1-2d2a923d62b9",
+            "image": null,
+            "name": "Tang",
+            "description": "The BYD Tang is a modern SUV designed for family comfort and performance, offering a balance of advanced technology and practicality.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BYD"
+            }
+        },
+        {
+            "id": "fb0014e7-8184-4c66-9f39-753d710a4d6f",
+            "image": null,
+            "name": "Tom Ford Eyewear",
+            "description": "Tom Ford Eyewear's sunglasses collection combines modern aesthetics with classic design elements, offering stylish protection against UV rays.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Tom Ford"
+            }
+        },
+        {
+            "id": "149245c6-1e4b-4085-88b6-ae0bc2098fcf",
+            "image": null,
+            "name": "Reima Kinetic",
+            "description": "The Reima Kinetic series offers functional and durable kids' clothing designed for active play, featuring moisture-wicking materials and thoughtful design for comfort and freedom of movement.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        },
+        {
+            "id": "0f2942cf-b5f1-4701-a56f-793c5a32fac4",
+            "image": null,
+            "name": "Lenovo Legion T730",
+            "description": "The Lenovo Legion T730 is a high-performance gaming PC designed for serious gamers, featuring powerful hardware and customizable aesthetics to enhance the gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming PCs"
+            },
+            "brand_id": {
+                "name": "Lenovo Legion"
+            }
+        },
+        {
+            "id": "cd885c08-0eb7-4985-a98e-ab471ab1611c",
+            "image": null,
+            "name": "Aprilia Falco",
+            "description": "The Aprilia Falco is a sport motorcycle known for its performance-oriented design, agile handling, and a powerful V-twin engine, making it suitable for both spirited rides on twisty roads and longer journeys.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Aprilia"
+            }
+        },
+        {
+            "id": "87039901-3f62-4a03-b95e-6b9469d6ea2b",
+            "image": null,
+            "name": "Oppo Reno 10x Zoom",
+            "description": "The Oppo Reno 10x Zoom is a smartphone released in 2019, featuring an advanced camera system with a 10x hybrid zoom capability, aimed at photography enthusiasts and users seeking high-quality mobile imaging.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Oppo"
+            }
+        },
+        {
+            "id": "9fbfd137-f88b-4617-bfb0-cbba46acb32a",
+            "image": null,
+            "name": "Roborock S5",
+            "description": "The Roborock S5 is a robotic vacuum cleaner designed for efficient cleaning through advanced navigation technology and powerful suction capabilities, suitable for various floor types.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Roborock"
+            }
+        },
+        {
+            "id": "69087447-2faf-4bd9-b027-3102a2336bba",
+            "image": null,
+            "name": "Kenzo Kids Fall/Winter 2022 Collection",
+            "description": "The Kenzo Kids Fall/Winter 2022 Collection features a range of stylish and comfortable clothing designed for children, emphasizing playful patterns and vibrant colors typical of the Kenzo aesthetic.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Kenzo Kids"
+            }
+        },
+        {
+            "id": "8c1e4b2f-5703-405b-83a7-ce3399967138",
+            "image": null,
+            "name": "Frugi Little Adventurers Collection",
+            "description": "The Frugi Little Adventurers Collection is a range of kids' clothing designed for comfort and durability, perfect for encouraging outdoor play and exploration.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Frugi"
+            }
+        },
+        {
+            "id": "9215044b-23d7-4aa8-a53b-e59bef796206",
+            "image": null,
+            "name": "ATH-M50x",
+            "description": "The Audio-Technica ATH-M50x headphones are professional studio monitors known for their high-quality audio performance, comfort, and durability, making them ideal for both studio use and listening on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Audio-Technica"
+            }
+        },
+        {
+            "id": "a5f99dc7-497f-4ac2-9295-e55c1421c365",
+            "image": null,
+            "name": "Tefal Actifry",
+            "description": "The Tefal Actifry series includes air fryers designed to cook food with little to no oil, providing a healthier alternative to traditional frying methods while retaining flavor and texture.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Tefal"
+            }
+        },
+        {
+            "id": "4493ebc7-64f5-47ee-a4c6-5d05f063d078",
+            "image": null,
+            "name": "The Lookout Longboard",
+            "description": "The Sector 9 Lookout Longboard is designed for cruising and downhill riding, featuring a versatile shape and durable construction for smooth rides and stability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Sector 9"
+            }
+        },
+        {
+            "id": "9816db45-3932-419f-9832-fcaba065bbb1",
+            "image": null,
+            "name": "Haval H7",
+            "description": "The Haval H7 is a mid-size SUV produced by Great Wall Motors, known for its spacious interior, modern design, and a blend of practicality and comfort suitable for families and urban driving.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "6d5037e5-06e4-4f4b-8621-2e837c9744d1",
+            "image": null,
+            "name": "Vertbaudet School Supplies",
+            "description": "The Vertbaudet School Supplies series offers a range of practical and stylish school gear designed to meet the needs of students. It focuses on durability and functionality, ensuring that children have the necessary tools for their educational journey.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "School Gear"
+            },
+            "brand_id": {
+                "name": "Vertbaudet"
+            }
+        },
+        {
+            "id": "171cd9d9-e0af-4790-bee7-3b0c2d2659cf",
+            "image": null,
+            "name": "Radio Flyer Ultimate Classic Trike",
+            "description": "The Radio Flyer Ultimate Classic Trike is a traditional three-wheeled tricycle designed for young children to foster imaginative play and physical activity. Its durable steel frame and adjustable seat provide stability and comfort as kids ride.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Bikes"
+            },
+            "brand_id": {
+                "name": "Radio Flyer"
+            }
+        },
+        {
+            "id": "cb0b5270-a577-4a23-b6e2-28decdbc36a5",
+            "image": null,
+            "name": "Peugeot 806",
+            "description": "The Peugeot 806 is a multi-purpose vehicle designed primarily for family transport and passenger comfort, offering a spacious interior and versatile seating arrangements.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "6a6bca84-05a4-407a-ba5d-2087d9c51637",
+            "image": null,
+            "name": "Peugeot Partner II",
+            "description": "The Peugeot Partner II is a versatile light commercial vehicle designed for both business and personal use, offering ample cargo space and comfort.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Peugeot"
+            }
+        },
+        {
+            "id": "7714de44-d85e-49e7-8309-0f11d887f1a6",
+            "image": null,
+            "name": "Omen 17 (2023)",
+            "description": "The Omen 17 (2023) is a high-performance gaming laptop designed for immersive gaming experiences and demanding multitasking. It combines powerful hardware with advanced cooling technology to ensure peak performance during intense gaming sessions.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Omen"
+            }
+        },
+        {
+            "id": "d70c8007-5b90-4632-a376-7b60e2f06d16",
+            "image": null,
+            "name": "Mothers Back-to-Black Trim & Plastic Restorer",
+            "description": "Mothers Back-to-Black Trim & Plastic Restorer is designed to restore the original color and luster of faded plastic and trim surfaces on vehicles, providing a long-lasting protective finish.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mothers Polish"
+            }
+        },
+        {
+            "id": "6fadb34a-cda0-4390-81c8-c7a896a902f6",
+            "image": null,
+            "name": "Turtle Wax 1-Step",
+            "description": "Turtle Wax 1-Step is a car care product series designed to provide an all-in-one solution for cleaning, polishing, and protecting vehicle surfaces, enhancing shine and durability with minimal effort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax"
+            }
+        },
+        {
+            "id": "e3c01d31-0145-4122-a7a8-56a7df47528a",
+            "image": null,
+            "name": "Moulinex Easy Fry",
+            "description": "The Moulinex Easy Fry series consists of air fryers designed to create crispy and delicious meals with minimal oil usage. They provide a healthier frying option while retaining flavor and texture.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Moulinex"
+            }
+        },
+        {
+            "id": "806ed1db-93c8-43eb-b0db-638092b8f357",
+            "image": null,
+            "name": "Griot's Garage One Step Sealant",
+            "description": "Griot's Garage One Step Sealant is a car care product designed to provide durable protection and enhance the shine of automotive paint in a single application.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "72d3b28e-4979-4b02-b43f-f453783c0f16",
+            "image": null,
+            "name": "Masterworks Series",
+            "description": "The Pearl Masterworks Series is a line of high-quality musical instruments designed for professional drummers, emphasizing customization and craftsmanship.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Pearl"
+            }
+        },
+        {
+            "id": "14892a3f-b9fb-4012-ba8a-44e5405a2944",
+            "image": null,
+            "name": "Nissan Z (350Z)",
+            "description": "The Nissan Z (350Z) is a two-door sports car that was launched in 2006, characterized by its rear-wheel drive layout and robust performance, making it a favorite among driving enthusiasts.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "b7d3c5b9-5b14-4b7d-bf73-b72dcbb5f080",
+            "image": null,
+            "name": "Usborne Young Reading Series",
+            "description": "The Usborne Young Reading Series is designed to introduce young readers to a variety of engaging stories and subjects through accessible language and captivating illustrations.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne Publishing"
+            }
+        },
+        {
+            "id": "1fbaa622-4d57-480a-92de-90bb6f4b2244",
+            "image": null,
+            "name": "Reima Puhuri",
+            "description": "The Reima Puhuri series offers functional and stylish outerwear designed for active children, providing protection against the elements while ensuring comfort during outdoor play.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Reima"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "id": "4fc8ba59-d2d9-45ca-bac0-8ab8cae932fd",
+            "image": null,
+            "name": "Britax Römer B-Lively",
+            "description": "The Britax Römer B-Lively is a modern stroller designed for active parents seeking convenience and comfort for their children. With features focused on ease of use and maneuverability, it aims to facilitate daily outings.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "841aeb44-639f-4e3f-83d2-b0603277934e",
+            "image": null,
+            "name": "Britax Römer B-Safe 35",
+            "description": "The Britax Römer B-Safe 35 is an infant car seat designed to provide safety and comfort for newborns and infants during travel. It features a secure carry handle and compatibility with Britax strollers for ease of use.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "d1111c55-35f2-469e-abf4-a907545b2b7e",
+            "image": null,
+            "name": "Sven",
+            "description": "The Sven series by Ashley Furniture features modern sofas designed for comfort and style, making it an ideal choice for contemporary living spaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "8fa0ae0b-410c-4e52-8418-b7ae1282e680",
+            "image": null,
+            "name": "Lexus CT",
+            "description": "The Lexus CT is a compact luxury hybrid hatchback designed for efficiency and versatility, combining premium features with eco-friendly performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "73a06c41-fc93-4e70-90f7-c19e68e0dc95",
+            "image": null,
+            "name": "Ducati 748",
+            "description": "The Ducati 748 is a sport motorcycle that combines performance with advanced design elements, known for its agile handling and powerful V-twin engine.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "a629f34f-3636-47f6-bbe7-9c557a23de8f",
+            "image": null,
+            "name": "Ducati Multistrada",
+            "description": "The Ducati Multistrada is a versatile motorcycle designed for both on-road and off-road riding, offering a blend of performance, comfort, and advanced technology.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "2f5e3383-b74a-4d96-8440-e9c98999d230",
+            "image": null,
+            "name": "Ducati 999",
+            "description": "The Ducati 999 is a high-performance sport motorcycle renowned for its advanced design, powerful engine, and a focus on racetrack capabilities, embodying Ducati's commitment to performance and innovation.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "37d3ef02-9ddb-4f66-a73a-214fbe8c6c43",
+            "image": null,
+            "name": "Ducati Sport 1000",
+            "description": "The Ducati Sport 1000 is a classic-style motorcycle that embodies Ducati's commitment to sport performance and timeless design, characterized by its retro aesthetics and powerful V-twin engine.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "d966afd7-f961-4772-810f-8cdfe9e89cc5",
+            "image": null,
+            "name": "Ducati 1098",
+            "description": "The Ducati 1098 is a sport motorcycle introduced in 2006, renowned for its striking design, advanced technology, and exceptional performance on both the track and the road.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "bfb12c00-4d14-42a4-a547-060b07fb128f",
+            "image": null,
+            "name": "Ducati Monster 696",
+            "description": "The Ducati Monster 696 is a lightweight and agile naked motorcycle designed for urban commuting and spirited riding, featuring a sporty design and easy handling.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "11a5f5fa-7260-4c92-bbfa-56f5c4164282",
+            "image": null,
+            "name": "Ducati Monster 1100",
+            "description": "The Ducati Monster 1100 is a naked motorcycle that offers a perfect balance of power and agility, making it suitable for both urban commuting and spirited rides on twisty roads.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "9e629285-787d-49fb-b30e-653af10f7542",
+            "image": null,
+            "name": "Ducati Multistrada 1200",
+            "description": "The Ducati Multistrada 1200 is a versatile adventure motorcycle designed for both on-road and off-road riding, offering a balance of comfort, performance, and advanced technology.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "09a12bb3-38a8-41dd-b571-99537d0d56e7",
+            "image": null,
+            "name": "Ducati 1199 Panigale",
+            "description": "The Ducati 1199 Panigale is a high-performance sport motorcycle known for its powerful engine, advanced aerodynamics, and innovative design. It is designed for both track and street riding, delivering exceptional handling and agility.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "2d1ff2c6-780f-4cd3-8ce1-c624233bf969",
+            "image": null,
+            "name": "Ducati Monster 796",
+            "description": "The Ducati Monster 796 is a lightweight, agile motorcycle designed for urban commuting and spirited rides. It features the classic naked bike styling characteristic of the Ducati Monster family, combined with a powerful L-twin engine for a thrilling riding experience.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "9c441820-4dcb-4da3-af4a-75d152d7c95f",
+            "image": null,
+            "name": "Michelin Primacy MXM4",
+            "description": "The Michelin Primacy MXM4 is a premium tire designed for luxury vehicles, offering a combination of comfort, longevity, and enhanced performance in wet and dry conditions.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "cd661ec9-e621-4f3e-bfc7-fd7b61baa728",
+            "image": null,
+            "name": "Michelin Premier",
+            "description": "The Michelin Premier series offers tires designed to provide enhanced grip and safety in wet conditions, maintaining performance throughout their lifespan.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "1705e5ca-bcc2-4bef-8065-453eff9ce66e",
+            "image": null,
+            "name": "Michelin Pilot Sport 3",
+            "description": "The Michelin Pilot Sport 3 is a high-performance tire designed for sports cars and high-performance vehicles, offering excellent grip, precise handling, and enhanced durability in both wet and dry conditions.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "85efc4dd-a395-4abe-8c67-0d873c05686e",
+            "image": null,
+            "name": "Primacy Tour A/S",
+            "description": "The Michelin Primacy Tour A/S is a premium all-season tire designed for a comfortable ride and excellent handling, providing drivers with reliable performance in various weather conditions.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "cddfda0b-1ec4-4bbc-8174-8e14a26abbe1",
+            "image": null,
+            "name": "Michelin X-Ice Xi3",
+            "description": "The Michelin X-Ice Xi3 is a winter tire designed for enhanced traction and control in icy and snowy conditions, offering reliable performance for passenger vehicles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Michelin"
+            }
+        },
+        {
+            "id": "5120f3c3-9a5e-4d34-ba4a-55bcfae14959",
+            "image": null,
+            "name": "Aston Martin DB7",
+            "description": "The Aston Martin DB7 is a luxury grand tourer designed for performance and elegance, showcasing the brand's commitment to handcrafted craftsmanship and distinctive styling.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "b48a960e-73f2-4a73-a4af-d9c286c026ff",
+            "image": null,
+            "name": "Aston Martin V12 Vanquish",
+            "description": "The Aston Martin V12 Vanquish is a luxury sports car produced from 2001, known for its powerful V12 engine and elegant design, embodying the brand's commitment to performance and sophistication.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "91a724d6-6841-40fc-aff0-cc36807fc532",
+            "image": null,
+            "name": "DB9",
+            "description": "The Aston Martin DB9 is a luxury grand tourer that combines performance and elegance, designed to deliver a refined driving experience.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "9eb3c821-c6c2-47e1-99d5-d18b68026400",
+            "image": null,
+            "name": "Autoglym Instant Tyre Dressing",
+            "description": "Autoglym Instant Tyre Dressing is a car care product designed to provide a long-lasting shine and protective coating for tires, enhancing their appearance and helping to prevent cracking and fading.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "d277742d-d067-4fc6-a73d-0bff0db3cf39",
+            "image": null,
+            "name": "Pokémon Kids Clothing Collection",
+            "description": "The Pokémon Kids Clothing Collection by Target offers a variety of apparel featuring popular Pokémon characters, designed for comfort and playful style for children.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Target"
+            }
+        },
+        {
+            "id": "5b3fbca4-ef3d-4e29-a5fd-53d23736e4a8",
+            "image": null,
+            "name": "Béaba Bib'expresso",
+            "description": "The Béaba Bib'expresso is a versatile baby seat designed to streamline feeding and preparation. Its key purpose is to allow quick and efficient preparation of baby meals.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Béaba"
+            }
+        },
+        {
+            "id": "9f8a2d20-ecc8-4d84-ab07-a7ea6a154e07",
+            "image": null,
+            "name": "Collection Printemps-Été 2022",
+            "description": "The Bonpoint Collection Printemps-Été 2022 features a range of stylish kids' clothing designed for comfort and elegance during the spring and summer seasons.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "Bonpoint"
+            }
+        },
+        {
+            "id": "09f31d34-a1f3-40b5-a8a5-084ed5ab726f",
+            "image": null,
+            "name": "Ducati Monster",
+            "description": "The Ducati Monster is a series of naked motorcycles known for their distinctive design, agile handling, and powerful performance, aimed at delivering a thrilling riding experience.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "22de4ea4-0fc4-41e2-9a70-e33a095ad53d",
+            "image": null,
+            "name": "Ducati 749",
+            "description": "The Ducati 749 is a sport motorcycle released in 2002, recognized for its powerful performance, agile handling, and distinctive design, making it a standout within the Ducati lineup.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "29aa6745-fb82-439a-8a8f-4837f97e3241",
+            "image": null,
+            "name": "Ducati Monster S4R",
+            "description": "The Ducati Monster S4R is a versatile naked motorcycle known for its powerful performance and distinctive design, combining sportiness with everyday usability.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "c00b8d42-4409-4104-afb8-b27e50ca9542",
+            "image": null,
+            "name": "Ducati Multistrada 1000",
+            "description": "The Ducati Multistrada 1000 is a versatile motorcycle designed for both touring and off-road riding, featuring a unique combination of comfort, performance, and style.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        }
+    ]
+}

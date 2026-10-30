@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "21725645-62e2-4047-b2d0-0b3880c0ef2b",
+            "image": null,
+            "name": "Tecno Spark",
+            "description": "The Tecno Spark series is a line of budget smartphones designed to offer essential features and a user-friendly experience for everyday consumers.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "01aae940-aa4e-4dfa-9c2a-86ac33e8767e",
+            "image": null,
+            "name": "Tecno Spark 3",
+            "description": "The Tecno Spark 3 is an affordable smartphone released in 2018, designed to offer essential features and a user-friendly experience for everyday tasks.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "7d583e17-5730-470c-beb1-4c179f97da29",
+            "image": null,
+            "name": "Tecno Camon 12",
+            "description": "The Tecno Camon 12 is a smartphone released in 2019, known for its focus on camera performance and affordability, making it ideal for users who prioritize photography and value for money.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "149e61fc-0464-4a30-a7d2-04f0c0331a5c",
+            "image": null,
+            "name": "Tecno Spark 4",
+            "description": "The Tecno Spark 4 is an entry-level smartphone designed to provide essential features and functionality at an affordable price point, with a focus on user-friendly experience and decent camera capabilities.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "6494d89a-b44c-44d2-9457-88f0acbd613d",
+            "image": null,
+            "name": "Tecno Spark 6",
+            "description": "The Tecno Spark 6 is a budget-friendly smartphone designed for users seeking a reliable device with functional features, including a large display and decent camera capabilities.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Tecno"
+            }
+        },
+        {
+            "id": "f2dbf558-448a-44fc-b798-3d704dda4a04",
+            "image": null,
+            "name": "Timex x NASA",
+            "description": "The Timex x NASA series celebrates the legacy of space exploration with a collection of watches that combine durability, style, and an aerospace-inspired design.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Watches"
+            },
+            "brand_id": {
+                "name": "Timex"
+            }
+        },
+        {
+            "id": "0cd1466b-f22e-4ff3-9c7a-cd09ded31b30",
+            "image": null,
+            "name": "Maruti Suzuki Brezza",
+            "description": "The Maruti Suzuki Brezza is a compact SUV designed to offer a blend of style, comfort, and efficiency, making it suitable for urban commuters and families seeking versatility.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki"
+            }
+        },
+        {
+            "id": "1a488b0a-708a-4be2-99c6-65eed4fc2a5d",
+            "image": null,
+            "name": "Mobil 1",
+            "description": "Mobil 1 is a line of advanced synthetic motor oils formulated to provide exceptional engine protection, durability, and performance in a wide range of driving conditions.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mobil"
+            }
+        },
+        {
+            "id": "4ec99bdf-288d-4bec-b2f8-f8b86a266ad3",
+            "image": null,
+            "name": "Mobil Super",
+            "description": "Mobil Super is a series of high-quality car care products designed to enhance the performance and longevity of vehicle engines and systems.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Mobil"
+            }
+        },
+        {
+            "id": "62fbc852-4bdb-4d26-9613-c91d657081a3",
+            "image": null,
+            "name": "Optimum No Rinse",
+            "description": "Optimum No Rinse is a series of car care products designed to clean and protect vehicles without the need for traditional washing methods. It efficiently removes dirt and grime while leaving a layer of protection on the surface.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Optimum No Rinse"
+            }
+        },
+        {
+            "id": "3c3a119c-3c3c-4b0f-a7d5-8ced371dd6fb",
+            "image": null,
+            "name": "Pagani Huayra BC",
+            "description": "The Pagani Huayra BC is a high-performance sports car known for its lightweight construction, aerodynamic design, and advanced engineering, designed for a superior driving experience on the track and the road.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "85ad290b-7a7a-45f9-acd2-25dc1f5a5029",
+            "image": null,
+            "name": "Pagani Huayra Roadster",
+            "description": "The Pagani Huayra Roadster is a luxury supercar known for its lightweight design, striking aesthetics, and powerful performance. Released in 2018, it features a removable roof and advanced aerodynamics, delivering an exhilarating driving experience.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Pagani"
+            }
+        },
+        {
+            "id": "5218028c-032d-4410-ba0e-adef2baa2c24",
+            "image": null,
+            "name": "Koenigsegg CC",
+            "description": "The Koenigsegg CC is a series of high-performance sports cars known for their extreme speed, innovative engineering, and cutting-edge design. Launched in 2000, it exemplifies the brand's commitment to pushing the boundaries of automotive performance.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "0f4c2256-636b-443d-8521-3d3e0956de0a",
+            "image": null,
+            "name": "Koenigsegg One:1",
+            "description": "The Koenigsegg One:1 is a limited-production hypercar designed for high performance, featuring a power-to-weight ratio of 1:1 for an exceptional driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "0085e339-f3f4-4915-a27a-9561e4231bd5",
+            "image": null,
+            "name": "Koenigsegg Jesko Absolut",
+            "description": "The Koenigsegg Jesko Absolut is a hypercar designed for maximum speed and performance, featuring advanced aerodynamics and engineering innovations.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Koenigsegg"
+            }
+        },
+        {
+            "id": "615363f0-64e9-44d0-8984-d96ef2f5214a",
+            "image": null,
+            "name": "Caterham 7 Series",
+            "description": "The Caterham 7 Series is a lightweight, minimalist sports car known for its agile handling and engaging driving experience, designed primarily for enthusiasts who appreciate a raw driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "34ddacb5-8e48-4fc7-a7ac-50b5c176d150",
+            "image": null,
+            "name": "Caterham Seven  Academy",
+            "description": "The Caterham Seven Academy is a lightweight sports car series designed for entry-level racing. It emphasizes driver skills and provides an affordable platform for motorsport enthusiasts.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "5a7f1efc-1cb8-4b15-a6c2-60c84276ea2f",
+            "image": null,
+            "name": "Caterham Seven 270",
+            "description": "The Caterham Seven 270 is a lightweight sports car known for its agility and performance on the road and track. It embodies the classic open-top driving experience with a focus on simplicity and driver engagement.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "f4455155-c089-4b3f-a29b-31eb97ed8ab0",
+            "image": null,
+            "name": "Caterham Seven 310",
+            "description": "The Caterham Seven 310 is a lightweight sports car that emphasizes simplicity and driving pleasure, delivering a pure, exhilarating driving experience efficiently.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "2bf820d2-6a92-42cd-896e-41aba844f62a",
+            "image": null,
+            "name": "Caterham Seven 420",
+            "description": "The Caterham Seven 420 is a lightweight sports car known for its agile handling, responsive performance, and minimalist design, suitable for both track and road use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Caterham"
+            }
+        },
+        {
+            "id": "23c66f3d-1fe9-4b79-bcdc-4d50920eace0",
+            "image": null,
+            "name": "Avenger",
+            "description": "The Bajaj Avenger series is a line of cruisers known for their comfortable riding posture and classic styling, designed primarily for long-distance trips.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "aed0dfa9-2417-4d39-b106-58d0286a8fa6",
+            "image": null,
+            "name": "Bajaj Platina",
+            "description": "The Bajaj Platina is a series of motorcycles known for their fuel efficiency and comfort, making them suitable for daily commuting.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "cf0437c7-35e3-41f4-bcdc-c4e4706876a6",
+            "image": null,
+            "name": "Bajaj Avenger 220",
+            "description": "The Bajaj Avenger 220 is a cruiser motorcycle designed for comfortable long-distance rides, featuring a relaxed seating position and a distinctive style that appeals to touring enthusiasts.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "83cf2d98-8c96-44be-840e-e06610a7b80a",
+            "image": null,
+            "name": "Bajaj CT 100",
+            "description": "The Bajaj CT 100 is a commuter motorcycle designed for practical use and fuel efficiency, primarily aimed at urban and rural riders seeking reliability and affordability.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "7c95831d-671c-42bb-b7c5-704528318672",
+            "image": null,
+            "name": "Bajaj V",
+            "description": "The Bajaj V series is a motorcycle lineup introduced in 2015, designed to provide a blend of power, style, and affordability, catering to the needs of urban commuters.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "97808995-e13e-42df-81f5-7063187575bb",
+            "image": null,
+            "name": "Bajaj Avenger Street 220",
+            "description": "The Bajaj Avenger Street 220 is a cruiser motorcycle designed for comfort and long-distance riding, featuring a laid-back design and a powerful engine.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "00b93434-d459-4d6f-897c-975e92864948",
+            "image": null,
+            "name": "Bajaj Avenger Cruise 220",
+            "description": "The Bajaj Avenger Cruise 220 is a cruiser motorcycle designed for comfortable long-distance rides with a relaxed riding posture, featuring a stylish design and powerful performance.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "34d467c0-f895-49d2-add1-4ce3ccfa4de2",
+            "image": null,
+            "name": "Bajaj Avenger Street 160",
+            "description": "The Bajaj Avenger Street 160 is a cruiser motorcycle designed for urban commuting, combining comfort with a stylish design suitable for long rides.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "cbe6f7eb-8de9-45e7-82b8-5ef550b817ea",
+            "image": null,
+            "name": "Bajaj Pulsar 125",
+            "description": "The Bajaj Pulsar 125 is a motorcycle series designed for urban commuting, combining style with efficiency and performance suitable for everyday use.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "24a0fb65-d92c-488b-9b47-552db210f7a5",
+            "image": null,
+            "name": "Bajaj Chetak",
+            "description": "The Bajaj Chetak is a series of electric scooters launched by Bajaj Auto in 2020, known for its modern design and eco-friendly performance.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        }
+    ]
+}

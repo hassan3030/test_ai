@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "092d9a3b-3cb5-4ab9-9d08-4f935aad3dd3",
+            "image": null,
+            "name": "Gitzo Traveler Series 2",
+            "description": "The Gitzo Traveler Series 2 is a line of lightweight and compact tripods designed for professional photographers and videographers seeking portability and stability for their cameras during travel.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": {
+                "name": "Gitzo"
+            }
+        },
+        {
+            "id": "683af977-c9f3-4124-b813-87b880563023",
+            "image": null,
+            "name": "Tata Kite",
+            "description": "The Tata Kite is a compact car series launched by Tata Motors in 2015, designed to offer an efficient and economical urban driving experience.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Tata Motors"
+            }
+        },
+        {
+            "id": "6efd2241-764c-492c-933b-5c0e461e3a40",
+            "image": null,
+            "name": "Ducati ST4s",
+            "description": "The Ducati ST4s is a sport touring motorcycle known for its performance-oriented design and versatility, combining comfort for long rides with the agility of a sport bike.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Ducati"
+            }
+        },
+        {
+            "id": "757591f1-fc13-4e7c-bfad-8a905cad79f3",
+            "image": null,
+            "name": "Vitamix ONE",
+            "description": "The Vitamix ONE is a compact blender designed for everyday use, featuring a single blending program that simplifies the blending process while delivering consistent results.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Vitamix"
+            }
+        },
+        {
+            "id": "1cc0a5ca-a3cc-4e03-9b17-582a45523050",
+            "image": null,
+            "name": "Tempur-Flex Series",
+            "description": "The Tempur-Flex Series from Tempur-Pedic features flexible, adjustable bases designed for personalized comfort and support, combining the adaptive qualities of TEMPUR material with the ability to adjust the position of the mattress.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Tempur-Pedic"
+            }
+        },
+        {
+            "id": "2b8a8998-a82d-4e64-8f48-4bb8bd9de121",
+            "image": null,
+            "name": "Micromax Canvas 2 (2017)",
+            "description": "The Micromax Canvas 2 (2017) is a budget smartphone designed to offer a balance of performance and affordability, featuring a large display and a range of basic features suitable for everyday use.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Micromax"
+            }
+        },
+        {
+            "id": "3bc1815a-7b3a-482c-b2cf-3034135fc45d",
+            "image": null,
+            "name": "Gibson Flying V",
+            "description": "The Gibson Flying V is an electric guitar known for its distinctive V-shaped body and cutting-edge design. Launched in 2018, it is designed for rock and metal musicians seeking a visually striking instrument with powerful sound capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "86676e1d-a153-411b-9235-489d6bfc37c5",
+            "image": null,
+            "name": "Arai RX-7 GP",
+            "description": "The Arai RX-7 GP is a premium motorcycle helmet designed for professional riders, offering enhanced aerodynamics, comfort, and safety features tailored for high-performance use.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "c992dad4-95d9-4624-ba29-d9fd4e9aca57",
+            "image": null,
+            "name": "Defender 90 and 110",
+            "description": "The Land Rover Defender 90 and 110 are rugged SUVs designed for off-road capabilities and versatile performance, embodying durability and practicality for both urban and wilderness settings.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "d912922c-77d3-424b-a71c-0d791341801a",
+            "image": null,
+            "name": "Arai Astro-IQ",
+            "description": "The Arai Astro-IQ is a motorcycle helmet designed for safety and comfort, featuring advanced ventilation and aerodynamic performance tailored for riders.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "9a025a34-4a38-4af9-b4d5-e425b38a620a",
+            "image": null,
+            "name": "Range Rover PHEV",
+            "description": "The Range Rover PHEV is a luxury SUV that combines electric and gasoline power, offering enhanced efficiency and reduced emissions while maintaining the iconic off-road capability and luxury of the Range Rover brand.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "04bda8d2-b0bc-4186-a302-bdd7bc86cbf0",
+            "image": null,
+            "name": "Gibson J-45 Studio",
+            "description": "The Gibson J-45 Studio is an acoustic guitar designed for versatile performance, known for its balanced tone, rich sound, and exceptional playability.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "1ae6b46a-9e78-4205-b428-0ebbf845e31c",
+            "image": null,
+            "name": "Chuwi Hi9",
+            "description": "The Chuwi Hi9 series consists of versatile tablets designed for multimedia consumption and productivity, offering a balance of performance and portability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Tablets"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "c6a1da13-0c2e-4776-9de1-c9c33113e8eb",
+            "image": null,
+            "name": "Cobra XRS 9330",
+            "description": "The Cobra XRS 9330 is a radar and laser detector designed to provide protection against speeding tickets by alerting drivers to the presence of police radar signals. This device features advanced detection technology to ensure maximum alertness on the road.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "d31eabe7-fd5e-476d-b576-9682c9845604",
+            "image": null,
+            "name": "Gibson Firebird",
+            "description": "The Gibson Firebird is an electric guitar series known for its distinctive body shape, dual-humbucker pickups, and rich tonal versatility, making it popular among rock and blues musicians.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "d0fd9d0d-e48f-4dcb-bb32-493762e15a1e",
+            "image": null,
+            "name": "Fluid Acrylics",
+            "description": "Pebeo Fluid Acrylics are high-quality, water-based acrylic paints designed for artists. They offer a smooth, fluid consistency that allows for easy blending and application on various surfaces.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "6bd81974-3144-4d7a-bace-162fc45b40be",
+            "image": null,
+            "name": "Performance Series",
+            "description": "The Sleep Number Performance Series offers advanced adjustable beds designed to provide personalized comfort and support for a better night's sleep. This series features temperature balancing technology and responsive adjustment capabilities to meet individual sleep needs.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Sleep Number"
+            }
+        },
+        {
+            "id": "f9a544b8-ef5f-4d56-be23-b2276e7fcbb1",
+            "image": null,
+            "name": "Cobra Radar Detector Series",
+            "description": "The Cobra Radar Detector Series provides advanced detection of radar and laser signals, helping drivers avoid speeding tickets by alerting them to potential law enforcement presence on the road.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "12b5f74d-58ad-4c62-8039-929693bb6ca5",
+            "image": null,
+            "name": "Chuwi HeroBook",
+            "description": "The Chuwi HeroBook series is a line of budget-friendly laptops designed for everyday computing tasks, offering an efficient balance of performance and affordability.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "4f5aee4f-1cfa-4bbb-aa16-c3cd2095dcf0",
+            "image": null,
+            "name": "SikuControl32",
+            "description": "The SikuControl32 series features remote-controlled vehicles designed for immersive play, allowing users to operate realistic agricultural and construction machines with precision.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "d8db0a3a-3164-48ac-a257-4bcb545b6a31",
+            "image": null,
+            "name": "Miu Miu Spring/Summer 2022 Collection",
+            "description": "The Miu Miu Spring/Summer 2022 Collection features vibrant and eclectic designs that reflect a playful yet sophisticated style, aimed at modern women seeking statement pieces for the warmer months.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Miu Miu"
+            }
+        },
+        {
+            "id": "5f442e6a-40a5-44d4-9a05-fd200221cbac",
+            "image": null,
+            "name": "Dodge Durango (2012)",
+            "description": "The Dodge Durango (2012) is a mid-size SUV known for its powerful engine options, spacious interior, and versatility, making it suitable for families and adventurers alike.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Dodge"
+            }
+        },
+        {
+            "id": "00345df7-0471-448c-bbd0-cc8f08d938ff",
+            "image": null,
+            "name": "Chuwi Aerobook Pro",
+            "description": "The Chuwi Aerobook Pro is a thin and lightweight laptop designed for productivity and portability, featuring a sleek design and versatile performance capabilities suitable for everyday tasks.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Chuwi"
+            }
+        },
+        {
+            "id": "ba7e6b81-e1e0-4adf-9e5b-1f1a9e458a6f",
+            "image": null,
+            "name": "Miu Miu Fall/Winter 2022 Collection",
+            "description": "The Miu Miu Fall/Winter 2022 Collection showcases a blend of contemporary styles and playful elegance, reflecting the brand's unique approach to women's fashion. This collection emphasizes bold designs and innovative materials, catering to the modern woman's wardrobe needs.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Women's Clothing"
+            },
+            "brand_id": {
+                "name": "Miu Miu"
+            }
+        },
+        {
+            "id": "d914c72e-e888-460e-9bc5-69b9d65c7ece",
+            "image": null,
+            "name": "Séries Fantasy Prisme",
+            "description": "Pebeo Séries Fantasy Prisme is a line of acrylic paint that creates striking effects through its unique blend of color and texture, ideal for use on various surfaces and in mixed media art.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "ba89a20d-e069-4fbc-9a64-d1e73ed02c11",
+            "image": null,
+            "name": "Arai QV-Pro",
+            "description": "The Arai QV-Pro is a premium motorcycle helmet designed for riders seeking superior comfort, lightweight construction, and advanced safety features. It is engineered to provide an optimal fit and excellent ventilation during long rides.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Arai Helmets"
+            }
+        },
+        {
+            "id": "a4d8839b-8757-4315-b3bb-44ad55a21ebc",
+            "image": null,
+            "name": "Séries Terra",
+            "description": "Pebeo Séries Terra is a range of water-based, opaque paints designed for a variety of surfaces, providing rich, earthy tones and a matte finish. Ideal for artists and crafters looking to add depth and texture to their work.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Pebeo"
+            }
+        },
+        {
+            "id": "91f9b6d4-37b0-4279-a6e1-95be3c13368c",
+            "image": null,
+            "name": "Siku Super 2023",
+            "description": "The Siku Super 2023 series offers a range of detailed and realistic die-cast vehicles and models, designed to inspire imaginative play and collectability among children and adults alike.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Siku"
+            }
+        },
+        {
+            "id": "8fb10b4a-7122-40ad-b00e-2e997e7312ce",
+            "image": null,
+            "name": "Cobra RAD 380",
+            "description": "The Cobra RAD 380 is a radar detector designed to help drivers avoid speeding tickets by detecting radar and laser signals from law enforcement. Its compact design and advanced features make it a popular choice among automotive enthusiasts.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Cobra"
+            }
+        },
+        {
+            "id": "ebaa92af-8c56-424b-82ba-6d3397676dd1",
+            "image": null,
+            "name": "Miu Miu Eyewear Collection 2022",
+            "description": "The Miu Miu Eyewear Collection 2022 features a range of stylish sunglasses designed to embody youthful sophistication and playful elegance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Sunglasses"
+            },
+            "brand_id": {
+                "name": "Miu Miu"
+            }
+        }
+    ]
+}

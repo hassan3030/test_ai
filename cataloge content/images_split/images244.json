@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "f50f6171-78f0-4674-b1ea-6f352e4c5793",
+            "image": null,
+            "name": "DBS",
+            "description": "The Aston Martin DBS is a luxury grand tourer that exemplifies high-performance sports car engineering combined with sophisticated design and luxurious features.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "a59950a0-4b32-4066-8e84-a4653e397986",
+            "image": null,
+            "name": "Aston Martin V12 Vantage",
+            "description": "The Aston Martin V12 Vantage is a high-performance sports car that combines the luxury and craftsmanship associated with the brand with a powerful 6.0-liter V12 engine, resulting in exceptional performance and driving dynamics.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "9dfd4fe5-145c-49b0-bb31-dfefc417634e",
+            "image": null,
+            "name": "Aston Martin V8 Vantage N430",
+            "description": "The Aston Martin V8 Vantage N430 is a high-performance sports car known for its agile handling, lightweight design, and powerful V8 engine, designed to deliver an exhilarating driving experience.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Aston Martin"
+            }
+        },
+        {
+            "id": "7f08a6da-5e7a-48ba-a5db-2b14b3984774",
+            "image": null,
+            "name": "Extra Gloss Protection",
+            "description": "Autoglym Extra Gloss Protection is a specialized car care product designed to enhance the gloss and protection of your vehicle's paintwork, providing a durable wax-like finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "d82b6ac7-4026-41c3-8d2e-51578c765d9b",
+            "image": null,
+            "name": "Lifeshine",
+            "description": "Autoglym Lifeshine is a premium car care product series designed to provide long-lasting protection and enhance the appearance of vehicles by creating a durable barrier against environmental contaminants.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Autoglym"
+            }
+        },
+        {
+            "id": "bba137dc-84ee-4560-a7ab-087573253a91",
+            "image": null,
+            "name": "Conté Colored Pencils",
+            "description": "Conté Colored Pencils are high-quality art supplies designed for artists and hobbyists, featuring rich pigments and smooth application for a variety of artistic techniques.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Conté à Paris"
+            }
+        },
+        {
+            "id": "bd72cc23-1c9c-409b-929f-ae41b78217ce",
+            "image": null,
+            "name": "Goodyear EfficientGrip Performance",
+            "description": "The Goodyear EfficientGrip Performance is a tire series designed to provide enhanced fuel efficiency, wet and dry traction, and overall driving comfort for a variety of vehicles. Launched in 2015, these tires are engineered to deliver a balanced performance on both highways and city roads.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "6cbe874b-d044-4fd6-a586-1bac047d4868",
+            "image": null,
+            "name": "Wrangler Territory",
+            "description": "The Goodyear Wrangler Territory series offers rugged tires designed for off-road performance while maintaining on-road comfort. They feature a durable tread pattern that enhances traction on various terrains.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "816ad0a1-8c0b-426f-b8a6-a76e71fd9a4a",
+            "image": null,
+            "name": "Eagle Sports",
+            "description": "The Goodyear Eagle Sports series is designed for performance-oriented vehicles, providing enhanced traction and handling on both wet and dry surfaces. Its athletic tread design aims to deliver responsiveness and stability, making it suitable for sporty driving habits.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "8b28c046-4248-4b95-8b4d-d05358513295",
+            "image": null,
+            "name": "Wrangler Duratrac",
+            "description": "The Goodyear Wrangler Duratrac is an all-terrain tire designed for enhanced traction in both off-road and on-road conditions, featuring a rugged tread pattern for improved performance in various weather conditions.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "0bc9aa5f-0ede-4f44-9ce4-e9b582171ca8",
+            "image": null,
+            "name": "Goodyear Eagle Exhilarate",
+            "description": "The Goodyear Eagle Exhilarate is a high-performance tire designed for sport and performance vehicles, focusing on enhanced grip, responsive handling, and a comfortable ride.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "d4c7a466-7f1c-4fcc-987c-a56800fd4def",
+            "image": null,
+            "name": "Goodyear Wrangler Territory MT",
+            "description": "The Goodyear Wrangler Territory MT is an all-terrain tire designed for off-road capabilities while maintaining on-road performance. It features robust tread patterns and durable construction for enhanced traction in muddy and rocky environments.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "f82d9ee0-ea24-4952-8f6c-95957190d572",
+            "image": null,
+            "name": "Goodyear Eagle F1 SuperSport",
+            "description": "The Goodyear Eagle F1 SuperSport is a high-performance tire designed for sports cars, offering superior grip and handling in both dry and wet conditions. It aims to enhance driving dynamics and provide a responsive experience on the track and the road.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Rims & Tires"
+            },
+            "brand_id": {
+                "name": "Goodyear"
+            }
+        },
+        {
+            "id": "f3b36bc7-f945-4934-805f-57ca105930be",
+            "image": null,
+            "name": "Valvoline MaxLife",
+            "description": "Valvoline MaxLife is a series of high-mileage motor oils designed to provide superior protection and performance for vehicles with over 75,000 miles on the odometer. This line of products helps to extend engine life by reducing wear and tear, as well as preventing leaks and oil consumption.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "f6cf4884-a822-4a87-b1c1-954cc2d558e5",
+            "image": null,
+            "name": "Valvoline SynPower",
+            "description": "Valvoline SynPower is a synthetic automotive oil series designed to provide enhanced engine protection and performance. Launched in 2000, it features advanced formulations to meet the demands of modern engines.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "d5002ee1-1794-4d2c-95a6-933dac518f5e",
+            "image": null,
+            "name": "MaxLife",
+            "description": "Valvoline MaxLife is a series of car care products designed to extend the life of vehicles by providing superior engine protection and performance. It is formulated to meet the demands of both high mileage and newer engines, ensuring optimal maintenance.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "e8c4c200-1d77-432c-84b5-bed115e68045",
+            "image": null,
+            "name": "SynPower",
+            "description": "Valvoline SynPower is a series of high-performance synthetic motor oils designed to provide superior engine protection, improved fuel efficiency, and enhanced performance under extreme conditions.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "611988b7-80b9-4c78-ab24-513c5882c9c1",
+            "image": null,
+            "name": "Valvoline NextGen",
+            "description": "Valvoline NextGen is a series of car care products designed to offer advanced protection and cleanliness for vehicles, utilizing recycled materials to provide an eco-friendly option.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "501e0163-ffbf-47d2-a94b-dcc16d5049ed",
+            "image": null,
+            "name": "Valvoline High Mileage with MaxLife Technology",
+            "description": "Valvoline High Mileage with MaxLife Technology is designed for vehicles with over 75,000 miles to provide enhanced protection, reduce engine wear, and improve overall performance.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "63d68eaa-c850-4a6b-ad58-ade39ba2aa0c",
+            "image": null,
+            "name": "Valvoline MaxLife High Mileage Motor Oil",
+            "description": "Valvoline MaxLife High Mileage Motor Oil is designed for vehicles with over 75,000 miles, providing critical protection against engine wear and leaks by rejuvenating seals and gaskets for improved performance.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "88582df7-dddc-4ca9-9422-d78d7ec108a1",
+            "image": null,
+            "name": "Valvoline High Performance Motor Oil",
+            "description": "Valvoline High Performance Motor Oil is designed to provide superior engine protection and performance under high-stress conditions, suitable for both everyday driving and high-performance vehicles.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "3efee901-c086-427d-9c10-7436e7163219",
+            "image": null,
+            "name": "Valvoline Advanced Full Synthetic",
+            "description": "Valvoline Advanced Full Synthetic is a high-quality motor oil designed to provide superior protection and performance for engines, enhancing efficiency and longevity.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "821ccb57-f5a4-4080-a535-e3ceaf3bdbdb",
+            "image": null,
+            "name": "Valvoline High Mileage",
+            "description": "Valvoline High Mileage is a series of engine oils designed specifically for vehicles with over 75,000 miles, aiming to reduce engine wear, improve performance, and extend the life of older engines.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "ec7f33e4-2826-410d-9710-e0deda8aa2d7",
+            "image": null,
+            "name": "Valvoline NextGen Motor Oil",
+            "description": "Valvoline NextGen Motor Oil is a line of motor oils made from recycled motor oil that helps reduce environmental impact without compromising engine performance.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "1a0ca174-5bec-4bc7-b335-42bcea06c61c",
+            "image": null,
+            "name": "High Mileage Motor Oil",
+            "description": "Valvoline High Mileage Motor Oil is specially formulated for vehicles with over 75,000 miles to help reduce oil consumption, minimize wear, and extend engine life.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "4f22bca9-ef53-4a65-8fd1-0e1d0f8e943f",
+            "image": null,
+            "name": "Valvoline Synthetic Blend Motor Oil",
+            "description": "Valvoline Synthetic Blend Motor Oil is designed to provide enhanced protection and performance through a blend of synthetic and conventional oil, ensuring optimal engine cleanliness and durability.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Valvoline"
+            }
+        },
+        {
+            "id": "5d33fd64-81cf-47d2-962f-a7a4f81af9e0",
+            "image": null,
+            "name": "Gold Class",
+            "description": "Meguiar's Gold Class series is designed to provide premium car care products that enhance and protect the appearance of automotive finishes. Launched in 2000, this line is known for its high-quality formulas and ease of use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "b997bbed-f219-4faa-a129-088c4b705c9e",
+            "image": null,
+            "name": "NXT Generation",
+            "description": "Meguiar's NXT Generation series features advanced car care products designed to enhance the appearance and protection of automotive surfaces.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "980565ea-7f20-44de-be34-77b7c6ee763f",
+            "image": null,
+            "name": "Meguiar's NXT Generation",
+            "description": "The Meguiar's NXT Generation series offers a range of advanced car care products designed to provide superior protection and enhanced appearance for automotive surfaces.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        },
+        {
+            "id": "be7c238f-a304-41a1-b824-3b38c8f8ee02",
+            "image": null,
+            "name": "Meguiar's Ultimate product line",
+            "description": "The Meguiar's Ultimate product line consists of advanced car care products designed to provide superior cleaning, protection, and enhancement to automotive surfaces.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Meguiar's"
+            }
+        }
+    ]
+}

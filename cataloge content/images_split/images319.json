@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "3bc97f8d-187a-4dec-a6f1-61fa4ac8bd6b",
+            "image": null,
+            "name": "Volvo V60 Plug-in Hybrid",
+            "description": "The Volvo V60 Plug-in Hybrid is a versatile premium estate car designed to offer both electric and petrol power, enabling efficient driving with reduced emissions and increased fuel economy.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ee780434-a661-422a-ab88-e9818d1da043",
+            "image": null,
+            "name": "Faber-Castell Textliner 154",
+            "description": "The Faber-Castell Textliner 154 is a high-quality highlighter designed for precise marking and underlining. Its quick-drying ink ensures that it is perfect for note-taking and organizing information without smudging.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Faber-Castell"
+            }
+        },
+        {
+            "id": "84fac4f6-8ad6-4aa6-b58e-2dcbdbe68ed3",
+            "image": null,
+            "name": "Whirlpool Magic Clean Washing Machines",
+            "description": "Whirlpool Magic Clean Washing Machines are designed to enhance laundry efficiency, offering advanced cleaning technology for effective washing and care of garments.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Whirlpool India"
+            }
+        },
+        {
+            "id": "67d08130-adaf-4ead-b2de-8e6f41b26e08",
+            "image": null,
+            "name": "Forte",
+            "description": "Audison Forte series is a line of high-performance car audio products designed to deliver superior sound quality and dynamic audio experience in vehicles.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Audison"
+            }
+        },
+        {
+            "id": "54f24c7b-71f2-44a7-b8c0-b511134b314d",
+            "image": null,
+            "name": "Playmobil Historical Figures",
+            "description": "The Playmobil Historical Figures series features miniature toys representing significant historical characters, designed to encourage imaginative play and learning about history.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "44c6904a-e226-47b7-90b9-0c57bb589459",
+            "image": null,
+            "name": "Menzerna Heavy Cut Compound 270",
+            "description": "Menzerna Heavy Cut Compound 270 is a high-performance polishing compound designed to remove heavy defects and imperfections from automotive paint surfaces, providing a smooth finish.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "5f0fcefe-a327-4172-a67f-240fc3453d7f",
+            "image": null,
+            "name": "Playmobil Fantasy",
+            "description": "Playmobil Fantasy is a captivating toy series that allows children to immerse themselves in imaginative scenarios featuring fairy-tale characters and environments. Each set encourages creative play and storytelling.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "6c1fd923-12a2-4318-aa8e-52a4ca948c4c",
+            "image": null,
+            "name": "First Experiences",
+            "description": "The Usborne First Experiences series is designed to help young children navigate and understand everyday situations and experiences through engaging stories and colorful illustrations.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "4f2981f7-1b32-4abf-81b7-579dae585bc5",
+            "image": null,
+            "name": "Avita Clarus",
+            "description": "The Avita Clarus series is a range of laptops designed for stylish portability and versatile performance, catering to users seeking a balance between functionality and aesthetic appeal.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Laptops"
+            },
+            "brand_id": {
+                "name": "Avita"
+            }
+        },
+        {
+            "id": "24055552-00fd-484a-a1ce-36c1fb157d2c",
+            "image": null,
+            "name": "Griot's Garage Heavy-Duty Scrubbing Pad",
+            "description": "The Griot's Garage Heavy-Duty Scrubbing Pad is designed for rigorous cleaning tasks, providing a durable surface for removing tough stains and grime from various surfaces.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Detailing Tools"
+            },
+            "brand_id": {
+                "name": "Griot's Garage"
+            }
+        },
+        {
+            "id": "2ce81bec-87a7-47fc-b4be-964bc10dc46e",
+            "image": null,
+            "name": "Usborne Lift-the-Flap",
+            "description": "The Usborne Lift-the-Flap series is designed to engage young readers with interactive flaps that reveal fascinating facts and delightful illustrations, fostering curiosity and learning in a fun way.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Kids Books"
+            },
+            "brand_id": {
+                "name": "Usborne"
+            }
+        },
+        {
+            "id": "ed211973-664d-454c-bf1d-8cf419da33d5",
+            "image": null,
+            "name": "Skoda Octavia II",
+            "description": "The Skoda Octavia II is a compact car produced by Skoda Auto from 2003, known for its spacious interior, reliability, and economical operation.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "61bb41b4-4bd2-4028-bfbc-8b25c0f2a650",
+            "image": null,
+            "name": "Kuretake ZIG Clean Color Real Brush Pens",
+            "description": "Kuretake ZIG Clean Color Real Brush Pens are high-quality watercolor brush pens designed for artists and crafters, offering smooth application and color blending for a variety of creative projects.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Kuretake"
+            }
+        },
+        {
+            "id": "af13a9cc-1776-4eb6-a4e8-99ec91e4b694",
+            "image": null,
+            "name": "Škoda Rapid",
+            "description": "The Škoda Rapid is a compact car produced by Škoda Auto since 2011, designed to offer a spacious interior, practicality, and good fuel efficiency for everyday use.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda"
+            }
+        },
+        {
+            "id": "a6581408-d187-472a-8677-0d2c6b97ab8f",
+            "image": null,
+            "name": "Gionee M7 Plus",
+            "description": "The Gionee M7 Plus is a smartphone that offers a combination of sleek design, powerful performance, and advanced camera capabilities, catering to users who prioritize both style and functionality.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Gionee"
+            }
+        },
+        {
+            "id": "5c9e730b-0448-44c2-81f0-88fae540f2d7",
+            "image": null,
+            "name": "Bebecar Zero 3",
+            "description": "The Bebecar Zero 3 is a versatile stroller designed to provide comfort and convenience for both parents and children, featuring a lightweight frame and easy maneuverability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Bebecar"
+            }
+        },
+        {
+            "id": "01915c53-c2d6-4fb8-96fb-2cc9d2cbea87",
+            "image": null,
+            "name": "Supernatural",
+            "description": "The Dodo Juice Supernatural series offers premium car care products designed for paint protection and enhancement, utilizing advanced formulations to provide optimal results.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "3b638231-ec7e-4c22-b837-14e43097905b",
+            "image": null,
+            "name": "Schmincke Horadam Water Colours",
+            "description": "Schmincke Horadam Water Colours are high-quality, artist-grade watercolors known for their exceptional pigmentation and lightfastness, suitable for various artistic techniques.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Schmincke Horadam"
+            }
+        },
+        {
+            "id": "6c8de0bb-065a-4f0b-8d43-deaa66a155f5",
+            "image": null,
+            "name": "Husky Floor Mats",
+            "description": "Husky Floor Mats are durable floor liners designed to protect vehicle interiors from dirt, mud, and spills while providing a custom-fit for various car models.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Accessories"
+            },
+            "brand_id": {
+                "name": "Husky Liners"
+            }
+        },
+        {
+            "id": "106ed2d3-9426-495e-a1e6-f3fc50cbf7b9",
+            "image": null,
+            "name": "Dodo Juice Raincoat",
+            "description": "Dodo Juice Raincoat is a car care product series designed to provide a hydrophobic sealant that protects painted surfaces from contaminants and enhances gloss, durability, and water beading.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Dodo Juice"
+            }
+        },
+        {
+            "id": "58dc3aae-0537-4b12-a8ff-43e569cfc1a5",
+            "image": null,
+            "name": "Alpina XD3",
+            "description": "The Alpina XD3 is a high-performance SUV known for its blend of luxury, sportiness, and practicality, offering a powerful diesel engine and refined driving dynamics.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Alpina"
+            }
+        },
+        {
+            "id": "e62a123d-3684-45d7-8673-a0dbf8c67783",
+            "image": null,
+            "name": "Mazda 626",
+            "description": "The Mazda 626 is a mid-size car produced by Mazda from 1979 to 2002, known for its solid build quality, comfortable ride, and practical design, making it a popular choice for families and commuters alike.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mazda"
+            }
+        },
+        {
+            "id": "74d09faf-cd0a-44df-b504-dbf20ee1ed39",
+            "image": null,
+            "name": "Gibson USA 2017 SG Standard",
+            "description": "The Gibson USA 2017 SG Standard is a solid-body electric guitar known for its iconic design, powerful tone, and versatility across musical genres.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Gibson"
+            }
+        },
+        {
+            "id": "e64397e2-1df1-4d9c-96b2-eee04e97a308",
+            "image": null,
+            "name": "Realme 6i",
+            "description": "The Realme 6i is a mid-range smartphone released in 2020, designed to offer a balance of performance and affordability, featuring a quad-camera setup and a large battery.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "c4cb12a8-4b92-49ef-a371-ef3822b19165",
+            "image": null,
+            "name": "Realme Buds Air Pro",
+            "description": "The Realme Buds Air Pro are true wireless earbuds designed for immersive audio experiences, featuring active noise cancellation and a comfortable fit for prolonged use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Realme"
+            }
+        },
+        {
+            "id": "7287ab95-acbb-4d58-a0ff-3524d2a39866",
+            "image": null,
+            "name": "Mont Marte Drawing Sets",
+            "description": "The Mont Marte Drawing Sets are designed for artists of all skill levels, providing a range of high-quality drawing tools that enhance creativity and facilitate artistic expression.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "fcfb7d3f-45a2-4cb1-a9bd-f588b10fd9b9",
+            "image": null,
+            "name": "Mont Marte Canvas",
+            "description": "Mont Marte Canvas series offers high-quality stretched canvases designed for artists of all levels, suitable for various painting techniques.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Mont Marte"
+            }
+        },
+        {
+            "id": "75bc00ff-747e-4499-8aa6-85e0eaa7a0f9",
+            "image": null,
+            "name": "S.L.P. (Sound Lab Project)",
+            "description": "The Tama S.L.P. (Sound Lab Project) series includes a variety of drums designed to enhance tonal versatility and meet the needs of modern drummers, combining innovative materials and finishes.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Musical Instruments"
+            },
+            "brand_id": {
+                "name": "Tama"
+            }
+        },
+        {
+            "id": "050e37c5-f3ba-42ae-a2ae-8fdb3d04f8f9",
+            "image": null,
+            "name": "Breeze",
+            "description": "The Breeze series by Royal Botania offers a contemporary collection of outdoor furniture designed for comfort and elegance, suitable for various outdoor settings.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Outdoor Furniture"
+            },
+            "brand_id": {
+                "name": "Royal Botania"
+            }
+        },
+        {
+            "id": "922251fa-f5c7-4c74-a71e-9bb9b9994a53",
+            "image": null,
+            "name": "Volvo V60 Cross Country",
+            "description": "The Volvo V60 Cross Country is a compact executive estate designed for versatility and rugged performance. It combines the practicality of an estate car with off-road capability, making it suitable for various driving conditions.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        }
+    ]
+}

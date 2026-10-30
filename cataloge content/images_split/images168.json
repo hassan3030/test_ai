@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "284b1407-3086-4c4b-9198-9c3c230ac5b9",
+            "image": null,
+            "name": "Sparco R100",
+            "description": "The Sparco R100 is a series of lightweight racing seats designed for improved comfort and support during motorsport activities. It features a universal fitting, making it suitable for a wide range of vehicles.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Car Parts"
+            },
+            "brand_id": {
+                "name": "Sparco"
+            }
+        },
+        {
+            "id": "02653781-11de-4668-8e5b-daaae5b05492",
+            "image": null,
+            "name": "Mobile Media Station",
+            "description": "The Clarion Mobile Media Station series represents a range of car audio systems designed to enhance in-car entertainment with features such as CD playback, AM/FM radio, and mobile device integration.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Clarion"
+            }
+        },
+        {
+            "id": "0327d47d-3515-4af8-8365-61d6dd00c878",
+            "image": null,
+            "name": "Nissan Juke",
+            "description": "The Nissan Juke is a compact SUV known for its distinctive styling and agile handling, designed to provide a spirited driving experience in urban environments.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Nissan"
+            }
+        },
+        {
+            "id": "032844f8-c2fd-44a8-9674-b5a22604eb4c",
+            "image": null,
+            "name": "Husqvarna TC 50",
+            "description": "The Husqvarna TC 50 is a lightweight motocross motorcycle specifically designed for young riders to help them develop their skills and confidence on the track.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "037d8af2-ccfa-4efb-a761-15f6451a32bf",
+            "image": null,
+            "name": "Canon XC15",
+            "description": "The Canon XC15 is a compact 4K camcorder designed for professional video production, combining high-performance imaging capabilities with user-friendly controls for both video and audio recording.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cameras"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "03b22634-0922-4964-b70e-b14ee342c0c3",
+            "image": null,
+            "name": "Audi S5 (2016 generation)",
+            "description": "The Audi S5 (2016 generation) is a high-performance luxury coupe that blends sporty handling with advanced technology and a comfortable interior. It is designed to offer an exhilarating driving experience while maintaining the refinement and quality characteristic of the Audi brand.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "03d26e48-f5be-45e4-a8ed-653b433c2362",
+            "image": null,
+            "name": "Husqvarna 250 WR",
+            "description": "The Husqvarna 250 WR is a lightweight, high-performance two-stroke motorcycle designed for off-road racing and trail riding, known for its agility and power.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Husqvarna Motorcycles"
+            }
+        },
+        {
+            "id": "0711a2a5-a68a-4bf1-b456-b45f915d6892",
+            "image": null,
+            "name": "Kingdom Hearts III Limited Edition",
+            "description": "The Kingdom Hearts III Limited Edition is a special collection of gaming accessories designed for fans of the Kingdom Hearts franchise, featuring unique designs and high-quality materials that enhance the gaming experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Gaming Accessories"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "07baa524-5c04-4109-bd2c-a1b3974cbd36",
+            "image": null,
+            "name": "Volvo XC60 Recharge",
+            "description": "The Volvo XC60 Recharge is a luxury plug-in hybrid SUV that combines versatility and sustainability, offering an efficient electrified driving experience along with spacious interiors and advanced safety features.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0850329f-7d26-4022-8768-3e95c8044329",
+            "image": null,
+            "name": "LG InstaView Refrigerator",
+            "description": "The LG InstaView Refrigerator features a sleek design with a glass panel that allows users to knock twice to see inside without opening the door, enhancing energy efficiency and convenience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "LG"
+            }
+        },
+        {
+            "id": "093419ea-9ac2-4506-b505-67a60d310769",
+            "image": null,
+            "name": "Genesis Electrified G80",
+            "description": "The Genesis Electrified G80 is a luxury all-electric sedan that combines sophisticated design with advanced technology and eco-friendly performance.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Genesis"
+            }
+        },
+        {
+            "id": "0b27d5cd-8deb-4287-b5ff-6b5d0ef3c489",
+            "image": null,
+            "name": "BMW iX1",
+            "description": "The BMW iX1 is a compact all-electric SUV designed to offer a blend of dynamic driving performance and advanced technology in an environmentally friendly package.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "08ec14f3-554e-4da1-abf3-02c82d462fda",
+            "image": null,
+            "name": "Artline 250",
+            "description": "The Artline 250 series is a collection of permanent markers known for their vibrant colors and versatility in various art projects. These markers are suitable for writing, drawing, and marking on a wide range of surfaces.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Artline"
+            }
+        },
+        {
+            "id": "393a852e-c2d2-4a69-a527-7c28f986d0cb",
+            "image": null,
+            "name": "Playmobil Pirates",
+            "description": "Playmobil Pirates is a toy series that includes various pirate-themed playsets and figures, designed to encourage imaginative play and storytelling among children.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "c5490ef5-df75-4515-82a3-74170dfbcdea",
+            "image": null,
+            "name": "Playmobil Family Fun",
+            "description": "Playmobil Family Fun is a toy series that encourages imaginative play through various family-themed sets and figures designed for children aged 4 and above.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "22b3eb75-1762-44cf-8aa4-6b50eae15570",
+            "image": null,
+            "name": "Playmobil Super 4",
+            "description": "Playmobil Super 4 is a toy series that features characters and scenarios based on the animated television show, allowing children to engage in imaginative play from various fictional worlds.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "8e3f4e10-b811-4f50-8a61-c449fc06099d",
+            "image": null,
+            "name": "Playmobil City Life",
+            "description": "Playmobil City Life is a toy series that allows children to recreate everyday life scenarios through detailed figures and environments, encouraging imaginative play and storytelling.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "6d7a2a21-a8fb-4906-9217-531543cf4adb",
+            "image": null,
+            "name": "Playmobil Playsets",
+            "description": "Playmobil Playsets are colorful toy sets designed to inspire imaginative play. Each set includes figures, accessories, and themed environments that encourage storytelling and creativity.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Playmobil"
+            }
+        },
+        {
+            "id": "12b53cd7-52e9-41b0-a84f-8a9a9a1c2d95",
+            "image": null,
+            "name": "System 3",
+            "description": "Daler Rowney's System 3 series offers a range of high-quality acrylic paints known for their vibrant colors and versatility, making them suitable for both artists and hobbyists.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "7d64d777-e82f-4c64-a6cc-fcaf17dcbced",
+            "image": null,
+            "name": "Cryla",
+            "description": "Daler Rowney Cryla is a series of acrylic paints designed for artists seeking vibrant colors and a versatile application on various surfaces. Known for its high pigmentation and smooth consistency, it is ideal for both professional and amateur artists.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Daler Rowney"
+            }
+        },
+        {
+            "id": "510b9c19-e21f-4b9d-b5f6-bfec98d51b0b",
+            "image": null,
+            "name": "Suzuki Grand Vitara (Third Generation)",
+            "description": "The Suzuki Grand Vitara (Third Generation) is a compact SUV that was released in 2005, designed primarily for versatile on-road and off-road performance, combining comfort and utility for a variety of driving conditions.",
+            "release_year": 2005,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "63eb5b47-e943-423f-914c-009ef5cb29f3",
+            "image": null,
+            "name": "Suzuki Kizashi",
+            "description": "The Suzuki Kizashi is a mid-size car that was introduced in 2010, known for its sporty design and focus on delivering a balance of performance and comfort.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "42916b41-e2dd-4ef7-8e6f-1489f0bb2d50",
+            "image": null,
+            "name": "Suzuki S-Cross",
+            "description": "The Suzuki S-Cross is a compact SUV designed to offer versatility and practicality for urban and outdoor adventures, featuring a spacious interior and a range of efficient engine options.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "0f3ef85d-894b-4843-a031-8b67cd896386",
+            "image": null,
+            "name": "Suzuki Hayabusa",
+            "description": "The Suzuki Hayabusa is a high-performance sport motorcycle known for its powerful engine, aerodynamic design, and exceptional handling capabilities, making it a favorite among speed enthusiasts.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "e2ee46f3-07db-46e0-bfc3-3de6d115b8ea",
+            "image": null,
+            "name": "Suzuki V-Strom 650",
+            "description": "The Suzuki V-Strom 650 is a versatile adventure touring motorcycle known for its comfortable riding position, balanced performance on various terrains, and practical features that cater to both urban commuting and long-distance travel.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "7be91005-a2bc-40c2-92e1-cca6fabbebde",
+            "image": null,
+            "name": "Suzuki APV",
+            "description": "The Suzuki APV is a multipurpose vehicle designed primarily for family transport and commercial use, offering spacious interiors and practicality for various tasks.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "d7192e15-f6de-48cb-aca3-48a3d0d722e2",
+            "image": null,
+            "name": "Suzuki Celerio",
+            "description": "The Suzuki Celerio is a compact city car designed for efficient urban mobility, featuring a small footprint, versatile interior space, and economical fuel consumption, making it an ideal choice for city drivers.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "53e3928c-965e-48be-a808-26b5365c4df2",
+            "image": null,
+            "name": "Suzuki Jimny",
+            "description": "The Suzuki Jimny is a compact SUV known for its rugged off-road capabilities and compact size, making it a versatile choice for both urban driving and outdoor adventures.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "f769d08e-ec97-46dc-a7e1-e9129e89a260",
+            "image": null,
+            "name": "Suzuki GSR750",
+            "description": "The Suzuki GSR750 is a versatile motorcycle designed for both street riding and commuting, featuring a powerful engine and agile handling for an enjoyable ride.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        },
+        {
+            "id": "a54d28c2-300b-44f4-a0a4-a4ff5d758a11",
+            "image": null,
+            "name": "Suzuki Across",
+            "description": "The Suzuki Across is a compact SUV known for its versatility, combining practicality and comfort for urban driving and outdoor adventures. It features a hybrid powertrain, making it efficient for both city and highway use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Suzuki"
+            }
+        }
+    ]
+}

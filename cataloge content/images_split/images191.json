@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "56ab33cb-37f9-4a9a-b78b-caea6600c7bf",
+            "image": null,
+            "name": "Safety 1st AeroLite 35 Travel System",
+            "description": "The Safety 1st AeroLite 35 Travel System is a versatile stroller and infant car seat combination designed for convenience and ease of use, ensuring safe and comfortable travel for infants and parents alike.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "a845d4be-bcaf-4736-a5d4-d7f5b4d97712",
+            "image": null,
+            "name": "Stride 2-in-1",
+            "description": "The Safety 1st Stride 2-in-1 is a versatile stroller designed to accommodate growing children, featuring a convertible design that allows it to transition from an infant stroller to a toddler stroller, providing convenience and comfort for parents and their little ones.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "69114260-0304-4931-8f85-d9f2c1f5a83c",
+            "image": null,
+            "name": "Safety 1st 3-in-1",
+            "description": "The Safety 1st 3-in-1 baby seat is designed to provide safe and versatile seating options for infants and toddlers, transitioning from a high chair to an infant feeding seat and a booster seat.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "bd1b2d9f-0158-4787-a05d-2ada19fe8886",
+            "image": null,
+            "name": "Safety 1st Grow and Go 3-in-1 Car Seat",
+            "description": "The Safety 1st Grow and Go 3-in-1 Car Seat is designed to accommodate your child's growth from infant to toddler, transitioning through three stages: rear-facing, forward-facing, and booster seat. It aims to provide a secure and comfortable travel solution for children up to 100 pounds.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "d69c3c60-4d00-45b2-8b6a-8cf66fd1cc76",
+            "image": null,
+            "name": "Rainier",
+            "description": "The Diono Rainier series is designed as a convertible car seat, suitable for infants and toddlers. It features extended rear-facing use, a high weight limit, and a compact design for optimal safety and comfort.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "2cad9264-9d1d-4489-8613-0b2b1b39756e",
+            "image": null,
+            "name": "Diono Radian 3Q",
+            "description": "The Diono Radian 3Q is a versatile convertible car seat designed to accommodate children from birth to booster seat age, featuring a steel frame for enhanced safety and a compact design for easy installation in various vehicles.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "151fb218-3c54-47e4-bffe-8ff378f84788",
+            "image": null,
+            "name": "Girls' 24/7 Collection",
+            "description": "The OshKosh B’gosh Girls' 24/7 Collection features durable and versatile clothing designed for active young girls, ensuring comfort and style for everyday wear.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Kids Clothes"
+            },
+            "brand_id": {
+                "name": "OshKosh B’gosh"
+            }
+        },
+        {
+            "id": "bcdb31c7-3014-4a5d-b780-7843bb752b38",
+            "image": null,
+            "name": "Chevrolet Equinox (second generation)",
+            "description": "The Chevrolet Equinox (second generation) is a compact SUV designed to provide a balance of versatility, comfort, and efficiency, catering to families and individuals seeking a reliable vehicle for everyday use.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Chevy"
+            }
+        },
+        {
+            "id": "e0f0b9d9-64f2-4384-9e60-6ff652e273f3",
+            "image": null,
+            "name": "Punch Series",
+            "description": "The Rockford Fosgate Punch Series is a line of car audio products designed to deliver powerful sound performance and enhance the in-vehicle listening experience for music enthusiasts.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "dfd38af8-04a8-43d6-ab8f-7a4cb7d6bf28",
+            "image": null,
+            "name": "Power T series",
+            "description": "The Rockford Fosgate Power T series is a collection of high-performance car audio products designed to deliver superior sound quality and power output for automotive applications.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Audio"
+            },
+            "brand_id": {
+                "name": "Rockford Fosgate"
+            }
+        },
+        {
+            "id": "2199b487-83dc-4de6-ac76-bf1471ce9c57",
+            "image": null,
+            "name": "Safety 1st Summit 365",
+            "description": "The Safety 1st Summit 365 is a versatile baby seat designed to accommodate children from birth through toddlerhood, offering extended use with its 3-in-1 functionality as an infant car seat, a convertible seat, and a booster seat.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "c0e48b58-854e-4131-b2c4-b367c8099ea6",
+            "image": null,
+            "name": "Safety 1st Grow and Go 3-in-1 Convertible Car Seat",
+            "description": "The Safety 1st Grow and Go 3-in-1 Convertible Car Seat is designed to accommodate children from infant to toddler stages, serving as a rear-facing seat, forward-facing seat, and booster seat, ensuring maximum safety and comfort throughout their growth.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "099730cb-7e27-4b4f-a946-604bdf491c52",
+            "image": null,
+            "name": "Grow and Go",
+            "description": "The Safety 1st Grow and Go series offers versatile baby seats that can accommodate children from infancy through toddlerhood, ensuring safety and comfort for various stages of development.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Safety 1st"
+            }
+        },
+        {
+            "id": "4a8d76bf-0a37-4fc0-b64e-9adf3d5d3177",
+            "image": null,
+            "name": "Snugli 'On-the-Go' Baby Carrier",
+            "description": "The Snugli 'On-the-Go' Baby Carrier is designed to provide a comfortable and secure way to carry your baby while allowing parents to remain hands-free. This carrier features multiple carrying positions and adjustable straps for convenience and adaptability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Snugli"
+            }
+        },
+        {
+            "id": "d061e244-fafe-4244-9ef8-b033c9c19c49",
+            "image": null,
+            "name": "Snugli Warm & Cozy Baby Carrier",
+            "description": "The Snugli Warm & Cozy Baby Carrier is designed to provide comfort and warmth for both the caregiver and the child, allowing for close, secure carrying while promoting bonding between parent and baby.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Snugli"
+            }
+        },
+        {
+            "id": "f403f439-7ee7-4149-8d68-48932eb49efc",
+            "image": null,
+            "name": "Radian 3QR",
+            "description": "The Diono Radian 3QR is a convertible car seat designed for safety and comfort, accommodating children from rear-facing to forward-facing positions as they grow.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "bc54bc72-f119-46eb-89c6-e986474dca7f",
+            "image": null,
+            "name": "Rainier 2AX",
+            "description": "The Diono Rainier 2AX is a convertible car seat designed for safety and comfort, accommodating children from rear-facing to forward-facing positions.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "e8f4e9d5-258d-49a3-9986-d21985d2cfb8",
+            "image": null,
+            "name": "Diono Everest",
+            "description": "The Diono Everest is a convertible car seat designed for children from birth to booster age, providing safety and comfort with its adjustable features and side impact protection.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "6daa0403-f038-489e-97fa-0cc3b70aceb0",
+            "image": null,
+            "name": "Diono Radian 3QX",
+            "description": "The Diono Radian 3QX is a versatile convertible car seat designed for children from newborn to booster age, providing safety, flexibility, and comfort for family journeys.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "d964d0a6-ca58-4043-bc90-dc3b8d0ef452",
+            "image": null,
+            "name": "Diono Cambria 2",
+            "description": "The Diono Cambria 2 is a versatile booster seat designed for children who have outgrown their harnessed car seats but are still small enough to require added safety. It features a high-back and adjustable headrest, ensuring comfort and support for growing kids.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Diono"
+            }
+        },
+        {
+            "id": "9e769ac4-0297-417c-ae79-239d4147791d",
+            "image": null,
+            "name": "Game Drive for Xbox Series X|S",
+            "description": "The Seagate Game Drive for Xbox Series X|S is a high-performance external hard disk designed to expand storage capacity for Xbox consoles, allowing gamers to store and play more games seamlessly.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "Seagate Technology"
+            }
+        },
+        {
+            "id": "7d389b96-96f4-4eff-86dc-b8b8a279b22a",
+            "image": null,
+            "name": "Splendor iSmart 110",
+            "description": "The Hero MotoCorp Splendor iSmart 110 is a commuter motorcycle designed for efficient performance and reliability, offering an economical option for daily transportation.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Hero MotoCorp"
+            }
+        },
+        {
+            "id": "406c06aa-757b-4437-8197-d0ce6a134ee0",
+            "image": null,
+            "name": "Backbeat Sense",
+            "description": "Plantronics Backbeat Sense headphones are wireless, over-ear headphones designed for comfort and high-quality audio, featuring long battery life and smart sensors for an intuitive listening experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Headphones"
+            },
+            "brand_id": {
+                "name": "Plantronics"
+            }
+        },
+        {
+            "id": "f721df6f-c508-4a21-b249-95871503d677",
+            "image": null,
+            "name": "Peppa Pig: The Movie Merchandise",
+            "description": "Peppa Pig: The Movie Merchandise includes a variety of toys based on the beloved animated film featuring Peppa Pig and her adventures. The toys are designed to engage young children through imaginative play and are ideal for fans of the series.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Peppa Pig"
+            }
+        },
+        {
+            "id": "6de3bea5-1a29-42d2-a583-d97394a35c47",
+            "image": null,
+            "name": "G-RAID with Thunderbolt",
+            "description": "G-RAID with Thunderbolt is a high-performance storage solution designed for professional environments, featuring dual-drive configurations that offer speed and reliability for data-intensive applications.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "hard disks"
+            },
+            "brand_id": {
+                "name": "G-Technology"
+            }
+        },
+        {
+            "id": "0cbf303a-fbba-4a7f-8ff6-252ccfb38fcc",
+            "image": null,
+            "name": "Honda CRF450L",
+            "description": "The Honda CRF450L is a versatile dual-sport motorcycle designed for both on-road and off-road riding, offering a balance of performance, durability, and comfort.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "7c774310-eb5c-4736-998c-4f40c03759f9",
+            "image": null,
+            "name": "Britax Römer Kidfix III M",
+            "description": "The Britax Römer Kidfix III M is a car seat designed for children between 15 kg and 36 kg, focusing on safety, comfort, and ease of installation. It features advanced impact protection and an adjustable headrest to ensure optimal positioning as the child grows.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "03cbda8b-90c7-49e7-aad9-4113ce2d82b1",
+            "image": null,
+            "name": "Honda CB350RS",
+            "description": "The Honda CB350RS is a modern classic motorcycle designed for urban commuting and weekend rides, featuring a blend of retro aesthetics with contemporary performance and technology.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Honda Motorcycle & Scooter India"
+            }
+        },
+        {
+            "id": "2c6d1993-0262-4a3e-bb83-c1491d44550e",
+            "image": null,
+            "name": "Britax Römer ADVANSAFIX IV R",
+            "description": "The Britax Römer ADVANSAFIX IV R is a high-quality car seat designed for children aged approximately 9 months to 12 years. It features advanced safety technology, including a secure installation system and adjustable harnesses for enhanced child protection and comfort during travel.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Baby Seats"
+            },
+            "brand_id": {
+                "name": "Britax Römer"
+            }
+        },
+        {
+            "id": "49a51e87-c65e-4d7f-ae2a-4e63adb25325",
+            "image": null,
+            "name": "Sumeet Juicer Mixer Grinder",
+            "description": "The Sumeet Juicer Mixer Grinder series is designed for versatile food preparation, combining juicing, mixing, and grinding functionalities in one appliance, aimed at enhancing convenience in the kitchen.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Blenders"
+            },
+            "brand_id": {
+                "name": "Sumeet"
+            }
+        }
+    ]
+}

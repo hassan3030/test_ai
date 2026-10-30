@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": "c19f6146-7fe7-472c-9aa8-183f9dcfdf5f",
+            "image": null,
+            "name": "Swell",
+            "description": "The Hamboards Swell series offers a unique skateboard experience inspired by surfing, designed for smooth rides and sharp turns, ideal for carving and cruising.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Skateboards"
+            },
+            "brand_id": {
+                "name": "Hamboards"
+            }
+        },
+        {
+            "id": "e1dc216b-45da-4b7b-8c75-d1d7ae2ea095",
+            "image": null,
+            "name": "Opel Omega B",
+            "description": "The Opel Omega B is a mid-size car produced by the German automaker Opel, known for its comfort, spacious interior, and performance, aimed at both family and business use.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "2e9934ba-fcf5-47fb-ba52-9672ce022d4b",
+            "image": null,
+            "name": "Opel Combo (D)",
+            "description": "The Opel Combo (D) is a versatile light commercial vehicle that combines the practicality of a van with the comfort of a passenger car, designed for various transportation needs since its release in 2002.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "1f07a578-834b-4236-9baf-ef096153b795",
+            "image": null,
+            "name": "Opel Meriva (A)",
+            "description": "The Opel Meriva (A) is a compact multi-purpose vehicle (MPV) produced by Opel from 2002, designed to offer versatile seating and cargo space, ideal for families and urban driving.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "e1aa7ace-3706-4259-823b-d657583f336a",
+            "image": null,
+            "name": "Opel GTC Concept",
+            "description": "The Opel GTC Concept is a sporty hatchback prototype that showcases Opel's design philosophy and innovative technologies, aiming to attract a younger audience with its dynamic styling and performance-oriented features.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "ff1a9e42-9c22-42d4-b319-a0b28e248eb4",
+            "image": null,
+            "name": "Opel Astra (K series)",
+            "description": "The Opel Astra (K series) is a compact car known for its blend of practicality, comfort, and advanced technology, designed to meet the needs of everyday driving since its release in 2014.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "79d5e010-d64d-4311-8b55-1074cb86927f",
+            "image": null,
+            "name": "Opel Vivaro",
+            "description": "The Opel Vivaro is a versatile mid-sized van designed for commercial use, offering ample cargo space and flexibility to meet various business needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Opel"
+            }
+        },
+        {
+            "id": "f8636527-ae20-4c06-a1da-eed4540b9dfe",
+            "image": null,
+            "name": "Cleo",
+            "description": "The Flexform Cleo series offers a collection of elegant sofas characterized by its minimalist design, exceptional comfort, and versatile configurations, making it ideal for contemporary living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "512eed4e-50c1-4c29-b083-d332eac25262",
+            "image": null,
+            "name": "Milo",
+            "description": "The Milo series by Flexform is a collection of modern sofas characterized by their minimalistic design and exceptional comfort, making them suitable for various living spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "591032cb-3723-4b90-982b-a80eb0b7d84c",
+            "image": null,
+            "name": "Ginger",
+            "description": "The Flexform Ginger series offers a collection of elegant chairs designed for comfort and contemporary style, making them suitable for both residential and commercial spaces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Flexform"
+            }
+        },
+        {
+            "id": "9e97d17a-20d6-479c-b238-3fd2d8357c35",
+            "image": null,
+            "name": "Canyon",
+            "description": "The GMC Canyon is a mid-size pickup truck designed for versatility, offering a balance of performance and efficiency for both work and recreational purposes.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "2dfa526b-8612-4bab-9350-dfa976f905db",
+            "image": null,
+            "name": "GMC Sierra HD",
+            "description": "The GMC Sierra HD is a line of heavy-duty pickup trucks designed for consumers seeking enhanced towing and hauling capabilities, combined with advanced technology and comfort features.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "GMC"
+            }
+        },
+        {
+            "id": "2b5881dd-43c3-4d50-8c1a-5ece9893300e",
+            "image": null,
+            "name": "Ashok Leyland Boss",
+            "description": "The Ashok Leyland Boss series consists of versatile pickup trucks designed for efficient transportation of goods in urban and rural settings. Known for their durability and reliability, these trucks are equipped to handle various load types.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Ashok Leyland"
+            }
+        },
+        {
+            "id": "fba33f3f-93b5-4bb1-884d-1fe6f122be9c",
+            "image": null,
+            "name": "Great Wall Safe",
+            "description": "The Great Wall Safe is a series of vehicles produced by Great Wall Motors, known for its durability and off-road capabilities, primarily aimed at the utility and commercial segments.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "a6b21a96-4a49-475e-8bcc-9384014750ac",
+            "image": null,
+            "name": "Great Wall Voleex C10",
+            "description": "The Great Wall Voleex C10 is a compact car manufactured by Great Wall Motors, designed to offer affordability and practicality for urban driving.",
+            "release_year": 2007,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "8a98c501-a17b-4c91-9a16-c380f273390f",
+            "image": null,
+            "name": "Great Wall Haval H5",
+            "description": "The Great Wall Haval H5 is a mid-size SUV produced by Great Wall Motors, designed for versatility and off-road capabilities, making it suitable for both urban and rugged terrains.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "76173eed-6166-4499-8baa-967e9103dbe0",
+            "image": null,
+            "name": "Great Wall M4",
+            "description": "The Great Wall M4 is a compact SUV produced by Great Wall Motors, designed to offer a blend of practicality and off-road capability for urban and rural driving environments.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "410d1880-e2fb-4770-b880-4343a812ed4f",
+            "image": null,
+            "name": "Wingle 7",
+            "description": "The Great Wall Motors Wingle 7 is a versatile pickup truck designed for both work and leisure, featuring robust performance and a spacious cabin.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "ff864724-2b12-492a-88d4-9eaa82680507",
+            "image": null,
+            "name": "Haval Vision 2020",
+            "description": "The Haval Vision 2020 is a series of SUVs manufactured by Great Wall Motors, designed to offer a blend of modern design, technology, and functionality for urban driving and family use.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "15407861-dfaa-4435-8fc8-508254dbe4a4",
+            "image": null,
+            "name": "Great Wall P Series",
+            "description": "The Great Wall P Series is a line of pickup trucks designed for durability and utility, catering to both work and leisure needs.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Pickup Trucks"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "d03fe018-b705-4314-95eb-bdedfc698854",
+            "image": null,
+            "name": "Ora Funky Cat",
+            "description": "The Ora Funky Cat is a compact electric vehicle designed by Great Wall Motors, featuring a distinctive retro-inspired design and aimed at urban drivers seeking stylish and sustainable transportation.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Great Wall Motors"
+            }
+        },
+        {
+            "id": "67cdaf58-ed7a-4775-908f-c8397e8b29b4",
+            "image": null,
+            "name": "LEGO Nexo Knights",
+            "description": "LEGO Nexo Knights is a multimedia franchise that combines physical building sets with a digital experience, encouraging creative play through the exploration of a futuristic medieval world while battling evil forces.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "aa33394d-0734-43f3-a3ef-53986baa58d5",
+            "image": null,
+            "name": "LEGO Disney Castle",
+            "description": "The LEGO Disney Castle is a creative toy set that lets builders create their own version of the iconic Disney castle, featuring detailed architecture and beloved Disney characters. It encourages imaginative play and storytelling for fans of all ages.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "bac3f885-7067-43be-a063-747c35da9689",
+            "image": null,
+            "name": "LEGO Star Wars: The Mandalorian Battle Pack",
+            "description": "The LEGO Star Wars: The Mandalorian Battle Pack allows fans to build and recreate scenes from the popular series, featuring mini-figures and vehicles that enhance creative play related to the Star Wars universe.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "6bdb69a1-9553-46e5-aa6b-aa96c15e30b2",
+            "image": null,
+            "name": "Simmons Kids",
+            "description": "Simmons Kids offers a range of beds designed specifically for children, focusing on comfort, safety, and durability to support healthy sleep environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Beds"
+            },
+            "brand_id": {
+                "name": "Simmons"
+            }
+        },
+        {
+            "id": "74a4cd9b-7038-403b-92f8-58ad06b1d7d7",
+            "image": null,
+            "name": "LEGO Hogwarts Castle",
+            "description": "The LEGO Hogwarts Castle series allows fans to build and explore the iconic castle from the Harry Potter universe, featuring detailed interiors and mini-figures of popular characters.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "09796b44-4732-47f9-8857-7b6382a72a30",
+            "image": null,
+            "name": "LEGO Friends: Andrea's Family House",
+            "description": "LEGO Friends: Andrea's Family House is a playset that allows children to build and explore a detailed home environment featuring characters from the LEGO Friends series, encouraging creativity and imaginative play.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "0f8b7bd6-15b4-40e3-a655-116722e55b1d",
+            "image": null,
+            "name": "LEGO DOTS",
+            "description": "LEGO DOTS is a creative play series designed for children to express themselves through customizable, buildable jewelry and room decor items.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "a5f7c6cf-15ca-48ff-af26-7003071c59a3",
+            "image": null,
+            "name": "LEGO Iconic",
+            "description": "The LEGO Iconic series features a variety of fun and playful sets designed to evoke nostalgia and creativity, aimed at both children and adult fans of the brand.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        },
+        {
+            "id": "dd800485-5e68-4107-b07a-f3eb90863728",
+            "image": null,
+            "name": "Lego Marvel",
+            "description": "Lego Marvel is a toy series that combines the creativity of Lego building with characters and narratives from the Marvel Universe, offering fans the opportunity to build iconic scenes and engage in imaginative play.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Toys"
+            },
+            "brand_id": {
+                "name": "Lego"
+            }
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "data": [
+        {
+            "id": "a24d6da3-ace5-4627-bac8-2c0f7a465747",
+            "image": null,
+            "name": "Midea M-Serial",
+            "description": "The Midea M-Serial series of refrigerators is designed to provide efficient cooling solutions for home use, combining modern technology with practical features to enhance food preservation.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "54272676-79e0-4d57-b770-09caa6054782",
+            "image": null,
+            "name": "Midea X Series",
+            "description": "The Midea X Series washing machines are designed to provide efficient and effective laundry solutions. They combine modern technology with user-friendly features to enhance the washing experience.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "95c5d169-b9ee-468b-81b6-0b1a5099d455",
+            "image": null,
+            "name": "Midea V Series",
+            "description": "The Midea V Series water heaters are designed for efficient and reliable hot water supply, offering a range of capacities and energy-saving features.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "0d44a9f4-9b38-4e56-b21e-bb5c76a69777",
+            "image": null,
+            "name": "Vokèra Vision",
+            "description": "The Vokèra Vision series consists of high-efficiency water heaters designed to provide reliable hot water solutions for residential use, emphasizing energy efficiency and user-friendly operation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Vokèra"
+            }
+        },
+        {
+            "id": "386962a8-5308-498c-a2f3-d6489e344650",
+            "image": null,
+            "name": "Midea Smart Refrigerator Series",
+            "description": "The Midea Smart Refrigerator Series offers advanced cooling technology with smart features designed to enhance food preservation and convenience for users.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "f7873962-176c-437d-9651-23e391968a86",
+            "image": null,
+            "name": "Midea Household Vacuum Cleaner Series",
+            "description": "The Midea Household Vacuum Cleaner Series comprises versatile and efficient cleaning appliances designed for home use, aimed at providing a thorough cleaning experience with ease of operation.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Vacuum Cleaners"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "28694d9b-3a12-4efe-a89f-6db63bf10c7c",
+            "image": null,
+            "name": "Thermex Slim",
+            "description": "The Thermex Slim series of water heaters are designed for compact and efficient water heating solutions, providing reliable hot water for various household needs.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "b52df486-8cf6-4786-a25b-63ed12c235b6",
+            "image": null,
+            "name": "Thermex Smart",
+            "description": "Thermex Smart is a series of electric water heaters designed to provide efficient and reliable hot water solutions for residential and commercial use.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "1560e24d-f556-495a-bcf7-5c9ab1d1aef8",
+            "image": null,
+            "name": "Thermex Aqualine",
+            "description": "The Thermex Aqualine series consists of electric water heaters designed for efficient water heating, suitable for domestic use with various capacities to meet different household needs.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "602ba31d-3d8d-4fc7-826a-41c598237ee7",
+            "image": null,
+            "name": "Thermex H2O",
+            "description": "The Thermex H2O series features high-efficiency water heaters designed for reliable hot water supply, focusing on energy savings and user-friendly operation.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Water Heaters"
+            },
+            "brand_id": {
+                "name": "Thermex"
+            }
+        },
+        {
+            "id": "b954fdd6-9b8d-4cb9-ac2c-59c3e63fd5fa",
+            "image": null,
+            "name": "Coleman Instant Tent",
+            "description": "The Coleman Instant Tent series is designed for quick and easy setup, making it ideal for campers who prioritize convenience without sacrificing weather protection and durability.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "1032ace4-066a-408a-a589-cb104be3b296",
+            "image": null,
+            "name": "Coleman 4-in-1 Sleep System",
+            "description": "The Coleman 4-in-1 Sleep System is a versatile camping gear solution designed to provide comfort for outdoor sleeping. It combines a sleeping bag, sleeping pad, and air mattress into a single, easily transportable package.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "57a9a53b-dee0-4e7d-88d4-77fe2c390152",
+            "image": null,
+            "name": "Coleman Company 50 Quart Xtreme Marine Cooler",
+            "description": "The Coleman Company 50 Quart Xtreme Marine Cooler is designed for outdoor enthusiasts seeking reliable performance and durability, keeping contents cold during extended trips.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "643504c5-d187-4221-badf-9765d5e690d3",
+            "image": null,
+            "name": "Coleman Airbed with Built-in Pump",
+            "description": "The Coleman Airbed with Built-in Pump is an inflatable mattress designed for camping and outdoor use, featuring an integrated pump for quick inflation and deflation, providing comfort and convenience during outdoor stays.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "7cca8072-27aa-492c-b5ba-653300bc0c35",
+            "image": null,
+            "name": "Coleman 2-Person Pop-Up Tent",
+            "description": "The Coleman 2-Person Pop-Up Tent is designed for easy setup and convenient camping experiences for two people, offering protection from the elements and a portable solution for outdoor adventures.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "4073a0fb-dcb6-43da-a266-ead8dc818d2e",
+            "image": null,
+            "name": "Coleman Camping Cot",
+            "description": "The Coleman Camping Cot series offers a portable and comfortable sleeping solution for outdoor enthusiasts. Designed for easy setup and durability, these cots provide a raised sleeping surface for a restful night's sleep while camping.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "13356700-9499-4173-b82e-a7d74c9c58b2",
+            "image": null,
+            "name": "Mitsubishi ASX (RVR)",
+            "description": "The Mitsubishi ASX (RVR) is a compact SUV designed for versatile urban and off-road driving, offering a balance of performance and efficiency.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mitsubishi"
+            }
+        },
+        {
+            "id": "e909035f-854e-4d12-bed1-880e03fae0d2",
+            "image": null,
+            "name": "CarPro Dlux",
+            "description": "CarPro Dlux is a ceramic coating product designed to provide long-lasting protection and enhancement for exterior surfaces, including paint, plastic, and rubber. It offers durability and water-repellent properties to maintain the appearance of vehicles.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "CarPro"
+            }
+        },
+        {
+            "id": "48cca13f-9ffe-4dcb-a47a-ea31116f9c6a",
+            "image": null,
+            "name": "Menzerna 1000",
+            "description": "Menzerna 1000 is a series of car care products designed for effective paint correction and polishing, offering high-performance results for automotive detailing.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Menzerna"
+            }
+        },
+        {
+            "id": "1499421e-2be5-473f-acf5-811034429df0",
+            "image": null,
+            "name": "Sián FKP 37",
+            "description": "The Lamborghini Sián FKP 37 is a hybrid supercar that combines cutting-edge technology with Lamborghini's signature design and performance, showcasing the brand's commitment to innovation and sustainability.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "97f6f113-0fbc-4f1d-a606-934f588a7219",
+            "image": null,
+            "name": "Lamborghini Huracán STO",
+            "description": "The Lamborghini Huracán STO is a high-performance supercar designed for both road and track use, featuring a lightweight design, enhanced aerodynamics, and a naturally aspirated V10 engine.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Lamborghini"
+            }
+        },
+        {
+            "id": "363d7a42-21f3-463f-9412-f088adad24a1",
+            "image": null,
+            "name": "Speedmaster",
+            "description": "The Triumph Speedmaster is a classic cruiser motorcycle known for its refined design, comfortable riding position, and responsive performance. It combines modern engineering with timeless aesthetics, making it suitable for both city commuting and open road adventures.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Triumph"
+            }
+        },
+        {
+            "id": "4b3ff312-5ea1-4bdf-9770-7deca1569476",
+            "image": null,
+            "name": "Baby Jogger City Select Lux",
+            "description": "The Baby Jogger City Select Lux is a versatile stroller designed for growing families, accommodating up to two children with various seating configurations and features tailored for comfort and convenience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Strollers"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "4b6c03b8-2639-497b-848e-1daee0ef545c",
+            "image": null,
+            "name": "Puma Ignite",
+            "description": "The Puma Ignite series is designed for runners seeking a balance of cushioning and responsiveness, featuring a lightweight construction and a focus on energy return for enhanced running performance.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Sneakers"
+            },
+            "brand_id": {
+                "name": "Puma"
+            }
+        },
+        {
+            "id": "525c5de7-aa9f-4483-93fd-25df17214308",
+            "image": null,
+            "name": "Porsche 911 (992) GT3 RS",
+            "description": "The Porsche 911 (992) GT3 RS is a high-performance sports car designed for track-focused driving while maintaining everyday usability. It features advanced aerodynamics, a powerful naturally aspirated engine, and lightweight construction to enhance performance and handling.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "5585c599-1da0-4173-a028-f09dadde883e",
+            "image": null,
+            "name": "Škoda Roomster",
+            "description": "The Škoda Roomster is a compact multi-purpose vehicle (MPV) produced by Škoda Auto, designed for versatility and practicality, offering a spacious interior and flexible seating arrangements.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "05e994c0-cf64-4664-bb0b-01b117a3e8e1",
+            "image": null,
+            "name": "Midea Top Load Washing Machine Series",
+            "description": "The Midea Top Load Washing Machine Series offers reliable washing performance and user-friendly features, designed for efficient laundry care in home environments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Washing Machines"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "097a68d7-10b3-45bc-ad65-3c9b820e8dd8",
+            "image": null,
+            "name": "Midea Air Fryer Series",
+            "description": "The Midea Air Fryer Series offers a healthier way to fry, using hot air circulation technology to cook food with minimal oil while maintaining crispy textures and rich flavors.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Air Fryers"
+            },
+            "brand_id": {
+                "name": "Midea"
+            }
+        },
+        {
+            "id": "58ac834f-e1ba-45d6-b48b-1cb318e3cd73",
+            "image": null,
+            "name": "Coleman RoadTrip Grill",
+            "description": "The Coleman RoadTrip Grill is a portable gas grill designed for camping and outdoor cooking. It features a collapsible design for easy transport and setup, making it ideal for cooking on the go.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        },
+        {
+            "id": "be10190f-79e8-42c0-ac8e-ff85f03cddc3",
+            "image": null,
+            "name": "Coleman Sleeping Bags",
+            "description": "The Coleman Sleeping Bags series offers a variety of insulated sleeping bags designed for camping and outdoor use, providing comfort and warmth in various weather conditions.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Camping Gear"
+            },
+            "brand_id": {
+                "name": "Coleman"
+            }
+        }
+    ]
+}

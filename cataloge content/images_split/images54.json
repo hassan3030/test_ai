@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "id": "b912a4cf-77d8-41b1-a407-6a44b7fe755d",
+            "image": null,
+            "name": "Collinite Super Doublecoat Auto Wax #476",
+            "description": "Collinite Super Doublecoat Auto Wax #476 is a high-quality car wax designed to provide long-lasting protection and a deep shine to automotive surfaces, ensuring a durable barrier against the elements.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "c62044ac-6c8a-4d77-9c89-3d76c736a462",
+            "image": null,
+            "name": "Turtle Wax Black Box",
+            "description": "Turtle Wax Black Box is a specialized car care product series designed to restore and enhance the color and shine of black vehicles. It provides effective cleaning, polishing, and protecting solutions for optimal vehicle appearance.",
+            "release_year": 2012,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "d58c2105-e77f-4f6c-b38c-747f59d48db2",
+            "image": null,
+            "name": "Turtle Wax Hybrid Solutions",
+            "description": "Turtle Wax Hybrid Solutions is a range of car care products designed to provide advanced protection and shine to automotive surfaces, utilizing both traditional and hybrid technology for effective cleaning and maintenance.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Turtle Wax UK"
+            }
+        },
+        {
+            "id": "70b52180-86a0-4e66-8a0e-59938bb5b5d9",
+            "image": null,
+            "name": "Can-Am Maverick X3",
+            "description": "The Can-Am Maverick X3 is a high-performance side-by-side vehicle designed for off-road adventures, known for its powerful engine, advanced suspension system, and versatility in rugged terrains.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "85415169-ceff-4cbe-afb2-437da78433d5",
+            "image": null,
+            "name": "Audi A3 (Facelift)",
+            "description": "The Audi A3 (Facelift) is a compact luxury car that combines sophisticated design with advanced technology, offering a versatile driving experience suitable for urban and highway environments.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "daa1f7be-6994-45c2-82eb-18cc8251b377",
+            "image": null,
+            "name": "Toyota Land Cruiser 300",
+            "description": "The Toyota Land Cruiser 300 is a full-size SUV designed for both on-road comfort and off-road capability, featuring a robust construction and advanced technology to enhance safety and performance.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Toyota"
+            }
+        },
+        {
+            "id": "e662410a-b719-4b4b-b277-ebb69418da43",
+            "image": null,
+            "name": "Custom Sofa Program",
+            "description": "The Custom Sofa Program by The Sofa Company allows customers to create personalized sofas tailored to their unique style and space requirements. This series emphasizes flexibility, offering a wide range of fabrics, styles, and configurations.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Sofas"
+            },
+            "brand_id": {
+                "name": "The Sofa Company"
+            }
+        },
+        {
+            "id": "9b58f388-0aa3-44f5-9d60-54518db236b0",
+            "image": null,
+            "name": "Huawei Mate 20 X",
+            "description": "The Huawei Mate 20 X is a smartphone released in 2018 as part of Huawei's Mate series, designed for multimedia consumption and equipped with a large display and advanced processing capabilities.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Huawei"
+            }
+        },
+        {
+            "id": "ae338656-907d-4ebd-ab20-b5efbb672ab3",
+            "image": null,
+            "name": "Chevrolet Malibu (2004 Generation)",
+            "description": "The Chevrolet Malibu (2004 Generation) is a mid-size sedan known for its comfortable ride, spacious interior, and a focus on fuel efficiency, making it a practical choice for everyday driving.",
+            "release_year": 2004,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Chevrolet"
+            }
+        },
+        {
+            "id": "e7ce3e1b-72c3-47d1-b7cd-80925db0b730",
+            "image": null,
+            "name": "Audi A5 Sportback",
+            "description": "The Audi A5 Sportback is a premium five-door coupe that combines elegance with practicality, offering a blend of stylish design, advanced technology, and versatile space for passengers and cargo.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "e8b31d1c-3398-4745-85c2-e84dd62a60d3",
+            "image": null,
+            "name": "Honda Civic (Ninth Generation)",
+            "description": "The Honda Civic (Ninth Generation) is a compact car that offers a balance of efficiency, performance, and comfort, tailored for daily commuting and versatile usage.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "ba27c93d-dcf0-48b2-9848-6c66c738f6c1",
+            "image": null,
+            "name": "Maruti Suzuki Celerio",
+            "description": "The Maruti Suzuki Celerio is a compact hatchback that was first introduced in 2013, designed to offer fuel efficiency and practicality for urban commuting.",
+            "release_year": 2013,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "bd737b3f-808d-44fd-929e-0931e8936ec1",
+            "image": null,
+            "name": "Maruti Suzuki Kizashi",
+            "description": "The Maruti Suzuki Kizashi is a midsize sedan launched in 2010, known for its stylish design and comfortable driving experience.",
+            "release_year": 2010,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "e9922b37-8860-4d25-a013-e54e41b9a159",
+            "image": null,
+            "name": "CH88 Chair",
+            "description": "The CH88 Chair is a versatile seating solution designed by Hans J. Wegner, known for its harmonious blend of comfort and elegance, featuring a combination of solid wood and a molded seat shell.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Carl Hansen & Søn"
+            }
+        },
+        {
+            "id": "9e56d1c6-63ae-4259-8ca7-7abd3ae67fe9",
+            "image": null,
+            "name": "Bajaj Pulsar 150",
+            "description": "The Bajaj Pulsar 150 is a popular motorcycle known for its sporty design, reliable performance, and affordability, making it a favored choice among urban riders.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Bajaj Auto"
+            }
+        },
+        {
+            "id": "c4e83a87-30bf-4f6b-ae2d-95125b86af48",
+            "image": null,
+            "name": "Audi A4 Avant",
+            "description": "The Audi A4 Avant is a premium station wagon renowned for its blend of practicality and sporty performance, offering a spacious interior and advanced technology features.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0c1d3e95-2072-4628-ba96-71c2c85bae44",
+            "image": null,
+            "name": "Subaru Legacy (7th Generation)",
+            "description": "The Subaru Legacy (7th Generation) is a midsize sedan known for its all-wheel drive capability, spacious interior, and robust safety features, designed to provide a comfortable and secure driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "0f460099-713e-4e60-abf2-6e4c382b29b5",
+            "image": null,
+            "name": "Samsung Bespoke 4-Door Flex Refrigerator",
+            "description": "The Samsung Bespoke 4-Door Flex Refrigerator is designed for versatility and customization, featuring a flexible storage option and modern design to fit various kitchen styles.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Refrigerators"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "1524b866-a52d-4065-86fd-a5c8d1292753",
+            "image": null,
+            "name": "Fabia",
+            "description": "The Skoda Fabia is a compact hatchback known for its practicality, functionality, and affordability, making it a popular choice among urban drivers.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Skoda Auto"
+            }
+        },
+        {
+            "id": "1ae8b3df-9361-4d05-8acc-35f17778447d",
+            "image": null,
+            "name": "Audi S4 (B5)",
+            "description": "The Audi S4 (B5) is a performance-oriented variant of the Audi A4 produced from 1997 to 2001, known for its powerful turbocharged engine and Quattro all-wheel drive system, which provide enhanced handling and driving dynamics.",
+            "release_year": 2001,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "24b9123e-4be5-4d16-b641-2992cb06e64e",
+            "image": null,
+            "name": "Maruti Suzuki Ertiga (Second Generation)",
+            "description": "The Maruti Suzuki Ertiga (Second Generation) is a versatile and spacious MPV designed for family use, offering a blend of comfort and utility for urban commuting and long journeys.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "330900d0-d9f8-42da-a57b-608c85e1e8b9",
+            "image": null,
+            "name": "Audi TT (8N)",
+            "description": "The Audi TT (8N) is a compact sports car that debuted in 2000, known for its distinctive design and dynamic performance, aimed at delivering an engaging driving experience.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3a92271c-e9f7-4de3-87ac-86454a9b780a",
+            "image": null,
+            "name": "Collinite 476s Wax",
+            "description": "Collinite 476s Wax is a premium car wax known for its durability and protective qualities. Designed to provide a deep shine and protect surfaces from environmental elements, it is favored among car enthusiasts for its long-lasting results.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Car Care Products"
+            },
+            "brand_id": {
+                "name": "Collinite"
+            }
+        },
+        {
+            "id": "461d0ccf-bba0-4d3f-b91f-de37ea5cb661",
+            "image": null,
+            "name": "Samsung Smart Monitor M7",
+            "description": "The Samsung Smart Monitor M7 is a versatile 32-inch 4K UHD monitor that combines productivity and entertainment, allowing users to work and stream content seamlessly with built-in Smart TV features.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Monitors"
+            },
+            "brand_id": {
+                "name": "Samsung"
+            }
+        },
+        {
+            "id": "4695cf51-9747-4551-b10a-a2b37f24a799",
+            "image": null,
+            "name": "Maruti Suzuki Alto K10",
+            "description": "The Maruti Suzuki Alto K10 is a compact hatchback designed for urban commuting, offering a balance of efficiency and practicality.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        },
+        {
+            "id": "e56d7d59-6de9-4bc3-9d7d-013456063ae9",
+            "image": null,
+            "name": "Sony Xperia XZ3",
+            "description": "The Sony Xperia XZ3 is a smartphone released in 2018, featuring a sleek design and a focus on multimedia capabilities, including a high-resolution display and advanced camera technology.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Phones"
+            },
+            "brand_id": {
+                "name": "Sony"
+            }
+        },
+        {
+            "id": "fcd10718-7b9b-4acf-9510-2fb59f57c0c2",
+            "image": null,
+            "name": "Can-Am Spyder F3",
+            "description": "The Can-Am Spyder F3 is a three-wheeled motorcycle designed for riders seeking a unique blend of comfort and performance, featuring a striking design and advanced safety features.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Motorcycles"
+            },
+            "brand_id": {
+                "name": "Can-Am"
+            }
+        },
+        {
+            "id": "64f8e5b6-3c2e-41c9-a602-e8e3bb8affbe",
+            "image": null,
+            "name": "Ergohuman Elite Series",
+            "description": "The Ergohuman Elite Series is a line of ergonomic office chairs designed to provide optimum support and comfort for long hours of sitting, featuring adjustable components to facilitate personalized adjustments.",
+            "release_year": 2018,
+            "subcategory_id": {
+                "name": "Chairs"
+            },
+            "brand_id": {
+                "name": "Ergohuman"
+            }
+        },
+        {
+            "id": "f912a084-2aa6-4ab5-82d9-135e9befe5f5",
+            "image": null,
+            "name": "Blick Studio",
+            "description": "Blick Studio is a series of art supplies designed for artists of all levels, providing high-quality materials that help enhance creativity and artistic expression.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Art Supplies"
+            },
+            "brand_id": {
+                "name": "Blick"
+            }
+        },
+        {
+            "id": "769cc290-b452-4371-a793-2cb7808548cf",
+            "image": null,
+            "name": "Maruti Suzuki Ertiga",
+            "description": "The Maruti Suzuki Ertiga is a compact MPV designed for families, offering spacious seating and versatile cargo options since its launch in 2011.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Maruti Suzuki Arena"
+            }
+        }
+    ]
+}

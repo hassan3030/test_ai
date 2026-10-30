@@ -1,0 +1,386 @@
+{
+    "data": [
+        {
+            "id": "4b3fa9bd-5f41-4cbc-a616-0a518c3d9895",
+            "image": null,
+            "name": "BMW 5 Series (E60/E61)",
+            "description": "The BMW 5 Series (E60/E61) is a mid-size luxury car produced by BMW from 2002, known for its premium build quality, advanced technology, and dynamic driving performance, aimed at providing a balance of comfort and sportiness.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "5c92f376-d9fb-42a1-98f3-c006366311cf",
+            "image": null,
+            "name": "BMW 6 Series (E63/E64)",
+            "description": "The BMW 6 Series (E63/E64) is a luxury grand tourer that combines sporty performance with elegant design, produced by BMW from 2002 until 2010. It is available in coupe (E63) and convertible (E64) body styles, making it suitable for both spirited driving and comfortable long-distance travel.",
+            "release_year": 2002,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "ec4ad446-f40c-4c6f-ac9b-7095f2244915",
+            "image": null,
+            "name": "BMW Z4 (G29)",
+            "description": "The BMW Z4 (G29) is a luxury roadster that combines sportiness with everyday usability, offering dynamic driving experiences and advanced technology for performance enthusiasts.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "fd50d9bc-03bc-434a-876a-8beb2765f6d6",
+            "image": null,
+            "name": "BMW X1 (F48)",
+            "description": "The BMW X1 (F48) is a compact luxury SUV that combines versatility and sporty performance, designed to provide comfort and capability for urban driving and beyond.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "3dd550cb-0ef8-42cd-ab4c-7d080d0fd5c7",
+            "image": null,
+            "name": "Lexus GX 470",
+            "description": "The Lexus GX 470 is a mid-size luxury SUV known for its off-road capability, advanced safety features, and comfortable interior, catering to drivers seeking both adventure and luxury.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Lexus"
+            }
+        },
+        {
+            "id": "6d4c4c37-24a0-4bf5-a91f-e7a65a63f2b6",
+            "image": null,
+            "name": "BMW 2 Series Coupe (G42)",
+            "description": "The BMW 2 Series Coupe (G42) is a compact luxury coupe known for its sporty design, engaging driving dynamics, and advanced technology features. Launched in 2021, it offers a blend of performance and comfort for enthusiasts and everyday drivers alike.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "7f562f7b-df1f-44a5-8685-a0d00c7589a8",
+            "image": null,
+            "name": "BMW X3 (F25) Facelift",
+            "description": "The BMW X3 (F25) Facelift is a compact luxury SUV known for its blend of performance, comfort, and advanced technology, offering a versatile driving experience for both urban and off-road environments.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "96090f74-678e-4362-9434-ad308f292b41",
+            "image": null,
+            "name": "BMW 5 Series (G30)",
+            "description": "The BMW 5 Series (G30) is a luxury mid-size sedan known for its sophisticated design, advanced technology, and exceptional driving dynamics, catering to the needs of both executives and enthusiasts.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "b0c3f6fe-c0b5-4c97-9dac-376f2cc658ce",
+            "image": null,
+            "name": "BMW M2",
+            "description": "The BMW M2 is a high-performance compact sports car designed for driving enthusiasts, showcasing the brand's commitment to dynamic handling, powerful engines, and striking design.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "bf4b7e1c-2711-48f9-9381-14bbf49dcee5",
+            "image": null,
+            "name": "BMW i3 (REX)",
+            "description": "The BMW i3 (REX) is an electric car equipped with a range-extending engine that provides added convenience for long-distance travel. It combines sustainability with unique design and advanced technology for urban mobility.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "c297df87-869c-4584-a195-2f3fbfc3041e",
+            "image": null,
+            "name": "BMW X2",
+            "description": "The BMW X2 is a compact luxury crossover SUV that combines sporty design with versatility, offering a dynamic driving experience and practical utility for urban and adventurous lifestyles.",
+            "release_year": 2017,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "c560011f-de44-4e73-bc9c-a1dc0685a7bf",
+            "image": null,
+            "name": "BMW X4",
+            "description": "The BMW X4 is a compact luxury SUV that combines the practicality of an SUV with the sporty dynamics of a coupe. Launched in 2014, it features a distinctive design and focuses on delivering a balanced driving experience.",
+            "release_year": 2014,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "c9d17ac7-fe8d-48a9-9b77-57acae047294",
+            "image": null,
+            "name": "BMW 2 Series Coupe",
+            "description": "The BMW 2 Series Coupe is a compact luxury sports car that combines dynamic performance with advanced technology, offering an engaging driving experience for enthusiasts.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "1782f89f-7273-4f44-b88c-61ac13076dcf",
+            "image": null,
+            "name": "BMW X5 (G05)",
+            "description": "The BMW X5 (G05) is a luxury midsize SUV that combines performance, comfort, and advanced technology, catering to those seeking a high-quality driving experience.",
+            "release_year": 2020,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "1840f683-ae23-487e-b4b7-0d13585db9a5",
+            "image": null,
+            "name": "BMW M5 CS",
+            "description": "The BMW M5 CS is a high-performance luxury sedan that combines power and precision, featuring a 4.4-liter V8 engine and advanced performance technologies aimed at delivering an exhilarating driving experience.",
+            "release_year": 2021,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "1e5b6c8b-85b3-4649-9077-bebb8e6be6bd",
+            "image": null,
+            "name": "BMW 3 Series (G20)",
+            "description": "The BMW 3 Series (G20) is a luxury compact car that combines sporty performance with advanced technology and exceptional comfort, aiming to deliver a dynamic driving experience.",
+            "release_year": 2019,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "2040eb01-33f8-4dba-95e0-cbc5913d5255",
+            "image": null,
+            "name": "Model S (2015 Refresh)",
+            "description": "The Tesla Model S (2015 Refresh) is a fully electric sedan known for its high performance, long range, and advanced technology, including Autopilot capabilities.",
+            "release_year": 2015,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3206a6c1-f797-4125-90f4-f13e28dbdd1f",
+            "image": null,
+            "name": "Model S",
+            "description": "The Tesla Model S is an all-electric luxury sedan known for its high performance, advanced technology, and impressive range. It aims to redefine the electric vehicle market by combining sustainability with cutting-edge features.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "3b98d685-3a2f-493f-b759-4465c0d4746e",
+            "image": null,
+            "name": "BMW 7 Series (G70)",
+            "description": "The BMW 7 Series (G70) is a luxury sedan designed to deliver exceptional performance, cutting-edge technology, and a high level of comfort, embodying BMW's commitment to innovation and luxury in the full-size segment.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "3bfd193f-5f0b-4323-9e59-1386631636f5",
+            "image": null,
+            "name": "Tesla Roadster",
+            "description": "The Tesla Roadster is an all-electric sports car produced by Tesla, known for its high performance and zero emissions, marking the company's entry into the automotive market in 2003.",
+            "release_year": 2003,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "44b23285-012a-42ed-a358-fc1d93d74447",
+            "image": null,
+            "name": "BMW M240i xDrive Coupe",
+            "description": "The BMW M240i xDrive Coupe is a performance-oriented compact coupe that combines agility, power, and advanced technology, designed for driving enthusiasts seeking an engaging and dynamic driving experience.",
+            "release_year": 2022,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "580248e5-a3fe-4658-9dc3-e003472e2e71",
+            "image": null,
+            "name": "BMW M2 (G87)",
+            "description": "The BMW M2 (G87) is a high-performance sports coupe designed for dynamic driving experiences, blending power, agility, and everyday usability in a compact form.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "589757c7-0ead-46b5-8546-6fd49b12f071",
+            "image": null,
+            "name": "BMW 7 Series (G11)",
+            "description": "The BMW 7 Series (G11) is a luxury full-size sedan that showcases advanced technology, high comfort, and a powerful performance, aimed at delivering an exceptional driving experience.",
+            "release_year": 2016,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "BMW"
+            }
+        },
+        {
+            "id": "6258a2c9-2c56-45d1-930f-037f132c2332",
+            "image": null,
+            "name": "Mercedes-Benz CLS-Class (W218)",
+            "description": "The Mercedes-Benz CLS-Class (W218) is a luxury four-door coupe that combines elegance with performance, designed for those who appreciate a refined driving experience and advanced technology.",
+            "release_year": 2011,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "db069adf-21e1-4817-879e-0d3fe33df1bc",
+            "image": null,
+            "name": "Mercedes-Benz E-Class (W212)",
+            "description": "The Mercedes-Benz E-Class (W212) is a luxury mid-size car produced by Mercedes-Benz, known for its blend of performance, comfort, and advanced technology, making it a popular choice for those seeking quality and reliability in their vehicles.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "db731b87-1b7b-4f42-b67d-b05e25edbb73",
+            "image": null,
+            "name": "Mercedes-Benz M-Class (W164)",
+            "description": "The Mercedes-Benz M-Class (W164) is a luxury mid-size SUV known for its combination of comfort, performance, and off-road capability, aimed at providing a versatile driving experience.",
+            "release_year": 2009,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "e2b02df4-0d7b-466b-a65f-9cb0aa7a984c",
+            "image": null,
+            "name": "M-Class",
+            "description": "The Mercedes-Benz M-Class is a luxury mid-size SUV that was first introduced in 2000, designed to offer both comfort and performance for family and off-road driving needs.",
+            "release_year": 2000,
+            "subcategory_id": {
+                "name": "SUVs"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "e3d9e0f7-7ab6-4022-9419-22e1aa98e0c8",
+            "image": null,
+            "name": "Mercedes-Benz W221",
+            "description": "The Mercedes-Benz W221 is a luxury sedan known for its advanced technology, comfort, and performance, serving as a flagship model in the Mercedes-Benz lineup from 2006 to 2013.",
+            "release_year": 2006,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        },
+        {
+            "id": "f5312e29-499d-4a48-8a97-2298195af105",
+            "image": null,
+            "name": "Tesla Model 3 (Refresh)",
+            "description": "The Tesla Model 3 (Refresh) is an all-electric sedan known for its advanced technology, impressive range, and performance. It aims to provide a sustainable alternative to traditional combustion engine vehicles.",
+            "release_year": 2023,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": null
+        },
+        {
+            "id": "62e365f3-eff5-4525-b5d8-08325e7f0258",
+            "image": null,
+            "name": "Mercedes-Benz C-Class (W204)",
+            "description": "The Mercedes-Benz C-Class (W204) is a compact executive car produced between 2007 and 2015, known for its blend of luxury, comfort, and performance.",
+            "release_year": 2008,
+            "subcategory_id": {
+                "name": "Cars"
+            },
+            "brand_id": {
+                "name": "Mercedes-Benz"
+            }
+        }
+    ]
+}
